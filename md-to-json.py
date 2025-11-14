@@ -1,68 +1,78 @@
+#!/usr/bin/env python3
 from pathlib import Path
-from llama_cpp import Llama
-import json 
-import re
+import re, json
+from vllm import LLM, SamplingParams
+from transformers import AutoTokenizer
 
-llm = Llama.from_pretrained(
-	repo_id="Qwen/Qwen3-8B-GGUF",
-	filename="Qwen3-8B-Q4_K_M.gguf",
-    n_ctx=16192,
-    n_gpu_layers=-1
+MODEL_ID = "nvidia/NVIDIA-Nemotron-Nano-9B-v2-NVFP4" 
+tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, trust_remote_code=True)
+
+# Instantiate vLLM
+llm = LLM(model=MODEL_ID,
+          dtype="bfloat16",              # or "float16" depending on GPU
+          tensor_parallel_size=1,
+          trust_remote_code=True,
+          mamba_ssm_cache_dtype="float32")        # >1 if you have multi‑GPU
+
+# Sampling / generation parameters
+sampling_params = SamplingParams(
+    temperature=0.7,
+    max_tokens=8192,
+    stop=None,
+    skip_special_tokens=True,
 )
 
+# ------------------------------------------------------------
+# Read one markdown file and build chat messages
+# ------------------------------------------------------------
+sys_path = Path("nemotron_sysprompt")
+md_path  = Path("markdown/scibowl/Cast/1.mmd")
 
-print("bee")  # debug marker before load complete
+md_root = Path("markdown/")
+md_files = [p for p in md_root.rglob("*.mmd") if p.is_file()]
 
-# Build your conversation prompt exactly like before
-messages = []
-sysprompt = open("nemotron_sysprompt","r") 
-markdown  = open("markdown/scibowl/Cast/1.mmd", "r") 
 
-messages.append({"role": "system", "content": sysprompt.read()})
-messages.append({"role": "user", "content": markdown.read()})
+system_prompt = sys_path.read_text(encoding="utf-8")
 
-print("baa")  # debug marker
+batch_inputs = []
+for file in md_files:
+    user_content  = file.read_text(encoding="utf-8")
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": user_content}
+    ]
+    prompt = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
 
-# Stream tokens as they are produced
-output = []
-for part in llm.create_chat_completion(
-    messages,
-    max_tokens=None,
-    temperature=0.7,
-    stream=True,
-    # response_format={
-    #     "type": "json_object",
-    #     "schema": {
-    #         "type": "object",
-    #         "properties": {
-    #             "team_name": {"type": "string"},
-    #             "body": {"type": "string"}
-    #             "choices": {
-    #                 "W": {"type": "string"},
-    #                 "X": {"type": "string"},
-    #                 "Y": {"type": "string"},
-    #                 "Z": {"type": "string"},
-    #             }
-    #         },
-    #         "required": ["team_name"],
-    #     },
-    # }
-):
-    #print(part)
-    delta = part["choices"][0]["delta"].get("content", "")
-    print(delta, end="", flush=True)
+    batch_inputs.append(prompt)
     
-    output.append(delta)
-
+    
+# Generate output (synchronous single batch;
+# later you can make a list of dicts for many files)
+outputs = llm.generate(batch_inputs, sampling_params)
+print(outputs)
+# vLLM returns a list of RequestOutput objects
+raw_text = outputs[0].outputs[0].text
+# ------------------------------------------------------------
+# Clean up model reasoning tags and ensure valid JSON
+# ------------------------------------------------------------
 def strip_think_blocks(s: str) -> str:
-    # Remove <think>...</think> (greedy across newlines)
-    s = re.sub(r"<\s*think\s*>.*?<\s*/\s*think\s*>", "", s, flags=re.DOTALL | re.IGNORECASE)
-    return s
+    return re.sub(r"<\s*think\s*>.*?<\s*/\s*think\s*>", "", s,
+                  flags=re.DOTALL | re.IGNORECASE).strip()
 
-# Join the output text if you want to save it
-final_text = json.dumps(json.loads(strip_think_blocks("".join(output))), ensure_ascii=False, indent=2)
 
-output_path = Path("json/scibowl/Cast/1.json")
-output_path.parent.mkdir(parents=True, exist_ok=True)
-output_path.write_text(final_text)
-print(f"\n\nSaved output to {output_path}")
+try:
+    final_text = json.dumps(
+        json.loads(strip_think_blocks(raw_text)),
+        ensure_ascii=False, indent=2)
+except Exception:
+    # if model produced trailing text, try to extract a JSON object
+    m = re.search(r"(\{.*\}|\[.*\])", raw_text, re.DOTALL)
+    candidate = m.group(1) if m else raw_text
+    final_text = json.dumps(json.loads(strip_think_blocks(candidate)),
+                            ensure_ascii=False, indent=2)
+
+# Write to file
+out_path = Path("json/scibowl/Cast/1.json")
+out_path.parent.mkdir(parents=True, exist_ok=True)
+out_path.write_text(final_text, encoding="utf-8")
+print(f"Saved output to {out_path}")

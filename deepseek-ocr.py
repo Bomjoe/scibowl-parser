@@ -1,52 +1,93 @@
-from transformers import AutoModel, AutoTokenizer, AutoModelForCausalLM
-import torch
-import os
+#!/usr/bin/env python3
+from vllm import LLM, SamplingParams
+from vllm.model_executor.models.deepseek_ocr import NGramPerReqLogitsProcessor
 from tqdm import tqdm
 from pathlib import Path
 from pdf2image import convert_from_path
-from contextlib import redirect_stdout
+from contextlib import redirect_stdout, redirect_stderr
+from collections import defaultdict
+import os, locale
+import io
+import math
 
 os.environ["CUDA_VISIBLE_DEVICES"] = '0'
-model_name = 'deepseek-ai/DeepSeek-OCR'
+MODEL_ID = 'deepseek-ai/DeepSeek-OCR'
 
-tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
-model = AutoModel.from_pretrained(model_name, _attn_implementation='flash_attention_2', trust_remote_code=True, use_safetensors=True)
-model = model.eval().cuda().to(torch.bfloat16)
+llm = LLM(
+    model=MODEL_ID,
+    enable_prefix_caching=False,
+    mm_processor_cache_gb=0,
+    logits_processors=[NGramPerReqLogitsProcessor] 
+)
+
+prompt = "<image>\n<|grounding|>Convert the document to markdown."
+
+sampling_params = SamplingParams(
+    temperature=0.0,
+    max_tokens=16384,  # reduce if VRAM is tight
+    skip_special_tokens=True,
+    extra_args=dict(
+        # Only used if you provided NGramPerReqLogitsProcessor above
+        ngram_size=30,
+        window_size=90,
+        whitelist_token_ids={128821, 128822},
+    )
+)
+
+pdf_root = Path("pdfs/")
+pdf_files = [p for p in pdf_root.rglob("*.pdf") if p.is_file()]
+
+total_pages = 0
+from PyPDF2 import PdfReader
+for p in pdf_files:
+    reader = PdfReader(str(p))
+    n = len(reader.pages)
+    total_pages += n
+
+BATCH_SIZE = 600
+DPI = 200
 
 
-prompt = "<image>\n<|grounding|>Convert the document to latex. "
+requests = []
+page_meta = []  # (pdf_path, page_index) for result routing
+pdf_outputs = defaultdict(list)
 
+# ---- Run vLLM in large batches ----
+with tqdm(total=total_pages, desc="Performing OCR", ncols=80) as pbar:
+    for pdf_path in pdf_files:
+        pages = convert_from_path(pdf_path, dpi=DPI)
+        for i, img in enumerate(pages, start=1):
+            requests.append({"prompt": prompt, "multi_modal_data": {"image": img}})
+            page_meta.append((pdf_path, i))
+            if len(requests) >= BATCH_SIZE:
+                outputs = llm.generate(requests, sampling_params)
+                for out, meta in zip(outputs, page_meta):
+                    pdf_path, page_num = meta
+                    text = out.outputs[0].text
+                    pdf_outputs[pdf_path].append((page_num, text))
+                pbar.update(len(requests))
+                requests.clear()
+                page_meta.clear()
 
+    if len(requests)>0:
+        outputs = llm.generate(requests, sampling_params)
+        for out, meta in zip(outputs, page_meta):
+            pdf_path, page_num = meta
+            text = out.outputs[0].text
+            pdf_outputs[pdf_path].append((page_num, text))
+        pbar.update(len(requests))
+        requests.clear()
+        page_meta.clear()
 
-pdf_root = Path("pdfs")
+# ---- Write one .mmd per PDF ----
+for pdf_path, results in pdf_outputs.items():
+    # Sort pages numerically just in case batches returned out of order
+    results.sort(key=lambda x: x[0])
+    combined = "".join(text for _, text in results)
+    output_path = Path(f"markdown/{str(pdf_path)[4:-4]}.mmd")
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(combined)
 
-files = [p for p in pdf_root.rglob("*") if p.is_file()]
-files = [Path("pdfs/scibowl/Cast/1.pdf")]
-with tqdm(total=len(files), desc="Performing OCR", ncols=80) as pbar:
-    for pdf_path in files:
-        image_dir = Path(f"images/{str(pdf_path)[4:-4]}/")
-        image_dir.mkdir(parents=True, exist_ok=True)
-
-        images = convert_from_path(pdf_path, dpi=300)
-
-        pdftext = ""
-        for i, img in enumerate(images[0:1]):
-            jpg_path = f"{image_dir}/page_{i+1}.jpg"
-            img.save(jpg_path, "JPEG")
-            print(f"Saved {jpg_path}")
-            
-
-            with open(os.devnull, "w") as f, redirect_stdout(f):
-                res = model.infer(tokenizer, prompt=prompt, 
-                        image_file=jpg_path, output_path = jpg_path+".out", 
-                        base_size = 1024, image_size = 640, 
-                        crop_mode=False, save_results = True, test_compress = True)
-            
-            with open(jpg_path+".out" + "/result.mmd", "r", encoding="utf-8") as ocr:
-                pdftext += ocr.read()
-
-        ouput_path = Path(f"markdown/{str(pdf_path)[4:-4]}.mmd")
-        ouput_path.parent.mkdir(parents=True, exist_ok=True)
-        with open(ouput_path, "w", encoding="utf-8") as output_file:
-            output_file.write(pdftext)
-        pbar.update(1)
+print(f"Wrote {len(pdf_outputs)} markdown files.")
+        
