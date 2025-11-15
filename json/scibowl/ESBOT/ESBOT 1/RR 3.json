@@ -1,0 +1,390 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 which could be used to measure distance on cosmological scales: I) Parallax II) Cepheid Variables III) Mira Stars IV) Dwarf Novae",
+    "answer": "I, II and III"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the correct term for the theory of universe death in which the Higgs Field reaches its absolute minimum?",
+    "choices": {
+      "W": "Heat Death",
+      "X": "Big Rip",
+      "Y": "Vacuum Decay",
+      "Z": "Big Crunch"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the anhydride of Barium hydroxide?",
+    "answer": "$BaO$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A 0.01 Molar solution of a weak acid has a pH of 3. To two significant figures, what is the value of the $K_{\\athrm{a}}$ for this acid?",
+    "answer": "$1.1 \\times 10^{-4}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the NIH are studying the effects of methanol poisoning. Which of the following is the best treatment for methanol poisoning?",
+    "choices": {
+      "W": "Diethyl Ether",
+      "X": "Dopaquinone",
+      "Y": "Ethanol",
+      "Z": "Glucose"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Fermilab are studying quantum computing and the way that quantum bits of information interact with each other, as well as the differences between quantum computing and binary computing. Compute the results of the following bitwise operations: 3 AND 12 XOR 15",
+    "answer": "15"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Consider the function f(x), which has negative slope and is concave down in the closed interval [-2, 5]. The value of the integral of f(x) from -2 to 5 as approximated by a left Riemann sum is:",
+    "choices": {
+      "W": "An overestimate",
+      "X": "An underestimate",
+      "Y": "An overestimate for large steps and an underestimate for small ones",
+      "Z": "An underestimate for large steps and an overestimate for small ones"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Consider a monotonically increasing function f(x) including the two points (3, 7) and (6, 15). Which of the following is not possible for f(x) to satisfy?",
+    "choices": {
+      "W": "The value of f'(x) at x = 5 is equal to 0",
+      "X": "The value of f(x) at x = 5 is equal to 14",
+      "Y": "The value of f(x) at x = 5 is equal to 6",
+      "Z": "The value of f'(x) at x = 5 is equal to 12"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Abhinav performs a titration with NaOH as the titrant and Sulfuric acid as the analyte. How many equivalence points are visible in the titration graph?",
+    "answer": "1"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What are the cathode and anode, respectively, of a Zinc-Carbon cell?",
+    "answer": "Zinc anode, Manganese dioxide cathode"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metamorphic facies could result from burial metamorphism?",
+    "choices": {
+      "W": "Eclogite",
+      "X": "Blueschist",
+      "Y": "Hornfels",
+      "Z": "Zeolite"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 rocks which exhibit cleavage: I) Metaconglomerate II) Slate III) Breccia IV) Shale",
+    "answer": "II and IV"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the smallest positive integer such that its remainder when divided by 7 is 1 and remainder when divided by 5 is 2?",
+    "answer": "22"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ways are there to seat Annie, Billy, Carol, David, and Emily in a row of 5 seats if Annie and Emily refuse to sit next to each other?",
+    "answer": "72"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following five forces that are not fictitious forces: I) Coriolis force II) Gravitational force III) Tension force IV) Centrifugal force V) Azimuthal force",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Thanush puts on Nikhil’s glasses. His glasses have convex lenses of focal length 3 cm. Thanush looks at a book of length 30 cm. In centimeters, how long does the book appear to him through Nikhil’s glasses?",
+    "answer": "$\\rac{10}{3}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What secondary growth tissue is responsible for creating bark in woody plants?",
+    "answer": "Cork cambium"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 cells not correctly matched with what they produce: 1) Beta cells - insulin 2) Delta cells - somatostatin 3) Epsilon cells - ghrelin 4) Alpha cells - glucagon",
+    "answer": "None"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An imaginary convex simple polyhedron has 57 faces and 85 vertices. How many edges does this polyhedron have?",
+    "answer": "140"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $x^{3} - 9x^{2} + 5x - 30$ has distinct roots a, b, and c, what is the value of the expression $1 - a - b - c$?",
+    "answer": "$-8$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider an electric dipole of length 0.2 millimeters pointing along the x axis. If the force from the dipole at the point $x = 3$ meters on a charge is 400 N, what is the force on the same charge at $x = 6$ meters to the nearest Newton?",
+    "answer": "50 N"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Consider a ball of mass m attached to a string. The other end of the string is attached to a square pole stuck in the ground. If the ball is hit at a velocity v and begins to wrap around the pole, what quantity is conserved as the ball wraps around the pole?",
+    "choices": {
+      "W": "Velocity",
+      "X": "Angular momentum",
+      "Y": "Linear momentum",
+      "Z": "Kinetic energy"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Sandia National Laboratory are studying the production of karyotypes in aneuploidies. In the production of a karyotype, cells are arrested at what phase of mitosis?",
+    "answer": "Metaphase"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Laboratory are studying the use of aromatic compounds as coolants for solar energy production. One of the compounds they are focused on studying is naphthalene, which is formed by fusing two benzene rings so they share a bond. What is the degree of unsaturation of naphthalene?",
+    "answer": "7"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true of catalysts?",
+    "choices": {
+      "W": "Catalysts change the rate of reaction by making products more favorable",
+      "X": "Catalysts change the rate of reaction by increasing free energy for activation",
+      "Y": "Catalysts provide alternative, lower energy reaction paths",
+      "Z": "Catalysts increase only the forward reaction rate"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The energy profile of a certain reaction has two peaks and ends at a spot lower than it begins. What is the molecularity of the rate determining step?",
+    "choices": {
+      "W": "Bimolecular",
+      "X": "Unimolecular",
+      "Y": "Trimolecular",
+      "Z": "It is impossible to tell from the given information"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following conditions is the effectiveness of Batesian mimicry reduced?",
+    "choices": {
+      "W": "Population of the model rapidly increases",
+      "X": "Population of the mimic rapidly increases",
+      "Y": "Model becomes more noxious",
+      "Z": "The number of species using this coloring pattern decreases"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 genetic elements in order of increasing distance from the protein coding gene: 1) Enhancer 2) Promoter 3) 5'UTR",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for asteroids that orbit Jupiter's Lagrange points?",
+    "answer": "Trojan Asteroids"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Earth and Jupiter were last in opposition in August of 2021. To the nearest month, when is our next opposition with Jupiter?",
+    "answer": "September 2022"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of the expression $\\os (14\\i /50) / \\in (-11\\i /50)$?",
+    "answer": "$-1$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the length of the shortest altitude of a triangle with side lengths 75, 100, and 125?",
+    "choices": {
+      "W": "50",
+      "X": "60",
+      "Y": "75",
+      "Z": "100"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A tank circuit is a name for an AC circuit commonly used to produce resonance. Which of the following circuits would be considered a tank circuit?",
+    "choices": {
+      "W": "RL Circuit",
+      "X": "RC Circuit",
+      "Y": "RI Circuit",
+      "Z": "LC Circuit"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A block sits on a track with potential energy modeled by the function $\\athrm{U}(\\athrm{x}) = 4 + (\\athrm{x} - 2)^2$. If the block begins at rest and moves from $\\athrm{x} = -2$ to $\\athrm{x} = 1$ under a constant 2 Newton friction force, what is its kinetic energy at $\\athrm{x} = 1$?",
+    "answer": "9 J"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the salinity of ocean water?",
+    "choices": {
+      "W": "35 PPM",
+      "X": "35 percent",
+      "Y": "35 PSU",
+      "Z": "35 PPB"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ions is least prevalent in seawater?",
+    "choices": {
+      "W": "$\\athrm{Be}^{2+}$",
+      "X": "$\\athrm{Mg}^{2+}$",
+      "Y": "$\\athrm{Ca}^{2+}$",
+      "Z": "$\\athrm{Sr}^{2+}$"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Citrate is a product of the Krebs cycle that is used to regulate what key enzyme, called the pacemaker of glycolysis?",
+    "answer": "Phosphofructokinase"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Let 2n denote the number of chromosomes and let s denote the total nuclear genetic material of a cell in G0 phase. What is the number of chromosomes and total genetic material, in terms of n and s respectively, of a cell in Anaphase?",
+    "answer": "4n, 2s"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds is a Lewis acid, but NOT a Bronsted

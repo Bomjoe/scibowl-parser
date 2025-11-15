@@ -1,0 +1,475 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Via which of the following methods does helioseismology measure the vibration modes of the Sun?",
+    "choices": {
+      "W": "Babcock model predictions",
+      "X": "Doppler shifts",
+      "Y": "Occultations of planets",
+      "Z": "Interferometry with multiple wavelength telescopes"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements which are true concerning climate proxies which are true: 1) High $^{16}\\athrm{O}$ to $^{18}\\athrm{O}$ to $^{18}\\athrm{O}$ to $^{18}\\athrm{O}$ to $^{18}\\athrm{O}$ to 2) Varves can contain pollen; 3) Oxygen in ocean cores can come from foraminifera.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following state functions is a conjugate variable of temperature?",
+    "choices": {
+      "W": "Pressure",
+      "X": "Volume",
+      "Y": "Entropy",
+      "Z": "Enthalpy"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "To the nearest tenth and in electron volts, what is the potential energy of an electron in the second excited state of a hydrogen atom if the binding energy of an electron in the hydrogen ground-state is -13.6 electron volts?",
+    "answer": "-1.5"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Connor is searching for coconuts. If on day 1, he finds 1 coconut, and on each subsequent day, he finds one more coconut than he did on the previous day, on what day will he find his 1001st coconut?",
+    "answer": "45"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Consider the polynomial equation $x^{99} - x + 1 = 0$. Compute the sum of the 100th powers of all the roots of the polynomial.",
+    "answer": "0"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at FermiLab discovered a particle known as the \odderon\ in the Tevatron collider, which are composed of three gluons. What is the color charge of an odderon?",
+    "answer": "0"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Ames National Lab created a new carbon-based catalyst for organic reduction reactions that uses nitrogen atoms placed closely with one another to create a thermodynamically unstable surface. Identify all of the following three statements that are true about this catalyst: 1) It is metastable; 2) It is an example of a phase transfer catalyst; 3) It can be used to deprotect silyl ethers under basic conditions.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When the tip links of the stereocilia in the ear are stretched a certain way, they activate the mechanically gated channels for which ion?",
+    "answer": "$\\athbf{K}^{+}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of the chloroplast respiratory chain: 1) Protons are pumped into the stroma by cytochrome $\\athrm{b_6f}$; 2) Plastocyanin carries electrons between photosystem II and photosystem I; 3) NADP+ Reductase is not involved in cyclic electron flow.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true about the hydroboration oxidation of propene?",
+    "choices": {
+      "W": "The hydroboration step is thermodynamically favored by higher temperatures",
+      "X": "The major product is from an anti-Markovnikov addition",
+      "Y": "The oxidation step requires basic conditions",
+      "Z": "The dominant stereochemistry of the product is syn"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the unit cell structure of calcium fluoride, the calcium cations adopt a face centered cubic arrangement while the fluoride anions adopt a simple cubic arrangement. What percent of the tetrahedral interstitial sites are occupied?",
+    "answer": "$100\\$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "As one ascends from the photosphere, how does the temperature change with respect to altitude?",
+    "choices": {
+      "W": "Increases then decreases",
+      "X": "Decreases then increases",
+      "Y": "Increases only",
+      "Z": "Decreases only"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Pallasites are formed from large meteors which have broken up. In which of the following areas would one expect to find the characteristic olivine in the nickel - iron matrix?",
+    "choices": {
+      "W": "Crust - mantle boundary",
+      "X": "Inside the mantle",
+      "Y": "Core - mantle boundary",
+      "Z": "Inside the core"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What theorem for electrical circuits states that any linear circuit consisting of resistors and voltage sources can be reduced to an equivalent circuit with a single resistor and voltage source?",
+    "answer": "THEVENIN'S THEOREM"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three physical symmetries that are discrete: 1) Lattice; 2) Time; 3) Parity.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive base 5 numerals contain a strictly increasing sequence of digits?",
+    "answer": "15"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Four planes can divide three dimensional space into at most how many non-overlapping regions?",
+    "answer": "15"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Lab used lanthanide-binding tags to image proteins at the level of a cell membrane. If they were targeting the insulin response elements, which bind to the insulin receptor, which of the following amino acids would they find in abundance due to their self phosphorylating nature?",
+    "choices": {
+      "W": "Serine",
+      "X": "Tyrosine",
+      "Y": "Histidine",
+      "Z": "Threonine"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Lab found a protein that was completely complementary to its substrate. Identify all of the following three statements that are likely true about this protein: 1) This protein stabilizes the substrate; 2) This protein could be a catalyst; 3) The $\\athrm{K_d}$ of this protein is very large.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which canal in the middle ear allows for equilibrium of pressure between the atmosphere and the middle ear?",
+    "answer": "EUSTACHIAN TUBE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following adaptations was crucial for the development from single celled organisms to multicellular organisms in animals?",
+    "choices": {
+      "W": "The advent of cadherin attachment proteins to anchor and connect different cells together",
+      "X": "The advent of the pentose phosphate pathway to coordinate cells based on energy signals",
+      "Y": "The advent of meiotic cell division to introduce cellular diversity and preventing Muller's ratchet",
+      "Z": "The advent of cephalization to coordinate sensory information into a nervous system"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the strongest possible acid in pure hydrofluoric acid?",
+    "answer": "$\\athrm{H}_3\\athrm{F}^+$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the formation of methane clathrates occurs at or below 4 degrees celsius at atmospheric pressure, identify all of the following three thermodynamic quantities that increase as a result of the formation of methane clathrates at STP: 1) Enthalpy; 2) Entropy; 3) Gibbs free energy.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "An orbital resonance with the moon Mimas causes which orbital division in Saturn's rings?",
+    "answer": "CASSINI"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "An energy E is received by an observer from a black body. The black body then doubles in both temperature and distance from the observer. In terms of E, what is the new energy received from the black body?",
+    "answer": "4E"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What type of emergent phenomena describes the electron spins as a quantized wave within a crystal lattice?",
+    "answer": "MAGNON"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An equilateral triangle is placed parallel to the horizontal such that a frictionless massless pulley lies at its top vertex. Two blocks of masses 2 and 3 kilograms are connected on adjacent sides of the triangle using a massless rope through the pulley. In terms of the acceleration due to gravity $g$, what is the magnitude of the acceleration of the 2 kilogram block if there is no friction between the triangle's sides and the blocks?",
+    "answer": "$\\rac{g\\qrt{3}}{10}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following values of $x$ is NOT in the domain of the function $f(x) = \\qrt{x^2 + 4x - 5}$?",
+    "choices": {
+      "W": "-7",
+      "X": "-6",
+      "Y": "-5",
+      "Z": "-4"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive three digit integers have the property that the first digit is equal to the sum of the remaining two digits?",
+    "answer": "54"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are using the Advanced Light Source to study the movement of lithium ions through aqueous electrolytes in lithium-ion batteries. What model can be used to characterize the dynamics of the non-ideal dilute solution present in the lithium-ion battery?",
+    "answer": "DEBYE HUCKEL"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Fermi National Lab are using the annihilation of quarks with anti-quarks to study the asymmetry of the proton structure. Identify all of the following three particles that can be produced by the annihilation of an up quark and an anti-up quark: 1) Muon; 2) Muon neutrino; 3) Photon.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which enzyme, present in rods and cones, is responsible for the decyclization of cGMP to GMP?",
+    "answer": "cGMP PHOSPHODIESTERASE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three protists that had an early ancestral secondary endosymbiosis with red algae: 1) Stramenopiles; 2) Apicomplexans; 3) Cercozoans.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following, when added to a solution of $\\athrm{FePO_4}$, will significantly increase its solubility?",
+    "choices": {
+      "W": "KSCN",
+      "X": "$\\athrm{KMnO_4}$",
+      "Y": "KI",
+      "Z": "KBr"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Propyne is treated with aqueous acid in the presence of mercuric sulfate. An IR spectrum is collected over the course of the reaction. Which of the following describes the change in the IR spectrum as the reaction progresses?",
+    "choices": {
+      "W": "Peak at 1100 inverse cm replaced by a peak at 1700 inverse cm",
+      "X": "Peak at 1100 inverse cm replaced by a peak at 3600 inverse cm",
+      "Y": "Peak at 2100 inverse cm replaced by a peak at 1700 inverse cm",
+      "Z": "Peak at 2100 inverse cm replaced by a peak at 3600 inverse cm"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements which are true during positive phases of El Nino Southern Oscillation: 1) Thermocline depth increases in East Pacific; 2) Coastal upwelling off western South America; 3) Stronger equatorial countercurrent.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three soil orders in order of INCREASING amount of weathering: 1) Ultisols; 2) Mollisols; 3) Aridisols.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes how the electric field varies in a spherical insulator with charge q with constant charge density?",
+    "choices": {
+      "W": "$1 / r$ as $r$ is less than the radius of the sphere, $1 / r^2$ as $r$ is more than the radius of the sphere",
+      "X": "$1 / r^2$ as $r$ is less than the radius of the sphere, $1 / r^3$ as $r$ is more than the radius of the sphere",
+      "Y": "$r$ as $r$ is less than the radius of the sphere, $1 / r^2$ as $r$ is more than the radius of the sphere",
+      "Z": "$r$ as $r$ is less than the radius of the sphere, $1 / r$ as $r$ is more than the radius of the sphere"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following quantities that when increased, will increase the mean momentum density of an electromagnetic wave: 1) Frequency; 2) Wavelength; 3) Intensity.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two sides of a triangle have lengths of 6 and 12. What should be the length of the third side in order to maximize the area of the triangle?",
+    "answer": "$6\\qrt{5}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ordered pairs of integers $(x,y)$ satisfy the equation $x^{y} = y^{2}$?",
+    "answer": "6"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Pacific Northwest National Laboratory are studying how the Zika virus hijacks lipid metabolism within the brain. What group of lipids, found in high concentrations around myelin sheaths, were these researchers analyzing?",
+    "choices": {
+      "W": "Cardiolipins",
+      "X": "Sphingolipids",
+      "Y": "Fether lipids",
+      "Z": "Triacylglycerols"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Lab studied exotic antimatter pairs formed near the start of the universe, and confirmed the value of the Hagedorn temperature, a point at which hadronic matter is theoretically unstable. Identify all of the following three particles that are considered hadrons: 1) Tetraquark; 2) Alpha particle; 3) Tau.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In Huntington's disease, the quantity of CAG repeats increases after every generation due to polymerase slippage. This results in an earlier onset of symptoms after every generation known as what phenomena?",
+    "answer": "ANTICIPATION"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements concerning the kidney that are true: 1) NKCC Channels are found exclusively in the descending loop of Henle; 2) Juxtamedullary nephrons are more common than medullary nephrons; 3) It is responsible for the first hydroxylation of Vitamin D.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three sodium oxygen compounds in increasing stability at STP: 1) Sodium oxide; 2) Sodium peroxide; 3) Sodium superoxide.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about the first excited state of a three dimensional cubic box containing electrons: 1) It has a degeneracy of 3; 2) It has three times the energy of the ground-state; 3) The energy of the first-excited state would increase if muons replaced electrons in the box.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three minerals in order of increasing metamorphic grade: 1) Sillimanite; 2) Staurolite; 3) Chlorite.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four planets that have rings that are primarily composed of dust and can forward scatter light: 1) Jupiter; 2) Uranus; 3) Saturn; 4) Neptune.",
+    "answer": "1 AND 4"
+  }
+]

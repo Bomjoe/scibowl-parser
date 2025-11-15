@@ -1,0 +1,661 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "genr",
+    "answer_type": "multiple_choice",
+    "body": "Which country gets most of its heat and electricity from geothermal energy?",
+    "choices": {
+      "W": "Iceland",
+      "X": "Italy",
+      "Y": "Japan",
+      "Z": "Philippines"
+    },
+    "answer": "ICELAND"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "genr",
+    "answer_type": "short_answer",
+    "body": "Linseed oil comes from what plant?",
+    "answer": "FLAX"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The greatest induced EMF will occur in a straight wire moving at constant speed through a uniform magnetic field when the angle between the direction of the wire's motion and the direction of the magnetic field is",
+    "choices": {
+      "W": "0 degrees",
+      "X": "30 degrees",
+      "Y": "60 degrees",
+      "Z": "90 degrees"
+    },
+    "answer": "90 DEGREES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The Michelson interferometer was designed to study the nature of",
+    "choices": {
+      "W": "water waves",
+      "X": "sound waves",
+      "Y": "sunlight",
+      "Z": "an ether"
+    },
+    "answer": "AN \ETHER\"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The toothless mammals are classified in the order",
+    "choices": {
+      "W": "Edentata",
+      "X": "Chiroptera",
+      "Y": "Rodentia",
+      "Z": "Sirenia"
+    },
+    "answer": "EDENTATA"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Mammals had split into three groups by the end of the",
+    "choices": {
+      "W": "Triassic Period",
+      "X": "Cretaceous Period",
+      "Y": "Permian Period",
+      "Z": "Jurassic Period"
+    },
+    "answer": "CRETACEOUS PERIOD"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The presence of maria on the moon indicates that",
+    "choices": {
+      "W": "a large amount of volcanic activity has occurred since the moon formed",
+      "X": "many meteorites have hit the moon since it first cooled",
+      "Y": "few meteorites have hit the moon",
+      "Z": "the moon has a dense atmosphere"
+    },
+    "answer": "A LARGE AMOUNT OF VOLCANIC ACTIVITY HAS OCCURRED SINCE THE MOON WAS FORMED"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The asteroid belt did not form a planet because",
+    "choices": {
+      "W": "Jupiter's gravity kept it from forming",
+      "X": "some of the particles were too large",
+      "Y": "it was too rocky",
+      "Z": "some of the particles moved too slowly"
+    },
+    "answer": "JUPITER'S GRAVITY KEPT IT FROM FORMING"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In what kind of reaction does an uncombined element displace an element that is part of a compound?",
+    "choices": {
+      "W": "direct combination",
+      "X": "double replacement",
+      "Y": "single replacement",
+      "Z": "decomposition"
+    },
+    "answer": "SINGLE REPLACEMENT"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In what kind of reaction do two or more reactants come together to form a single product?",
+    "choices": {
+      "W": "direct combination",
+      "X": "double replacement",
+      "Y": "triple replacement",
+      "Z": "decomposition"
+    },
+    "answer": "DIRECT COMBINATION"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "A programmer must follow the rules for coding a particular programming language. These rules are called",
+    "choices": {
+      "W": "pseudocode",
+      "X": "iteration",
+      "Y": "syntax",
+      "Z": "documentation"
+    },
+    "answer": "SYNTAX"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Object-oriented programming involves all of the following except",
+    "choices": {
+      "W": "polymorphism",
+      "X": "application generator",
+      "Y": "encapsulation",
+      "Z": "inheritance"
+    },
+    "answer": "APPLICATION GENERATOR"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The first Homo sapiens appeared about",
+    "choices": {
+      "W": "30,000 years ago",
+      "X": "500,000 years ago",
+      "Y": "1,900 million years ago",
+      "Z": "4 million years ago"
+    },
+    "answer": "500,000 YEARS AGO"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Each of the following is a prosimian except the",
+    "choices": {
+      "W": "lemur",
+      "X": "loris",
+      "Y": "baboon",
+      "Z": "aye-aye"
+    },
+    "answer": "BABOON"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An x-ray photon collides with a free electron, and the photon is scattered. During this collision there is conservation of",
+    "choices": {
+      "W": "momentum but not energy",
+      "X": "neither momentum nor energy",
+      "Y": "energy but not momentum",
+      "Z": "both momentum and energy"
+    },
+    "answer": "BOTH MOMENTUM AND ENERGY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Light is normally incident on a thin soap film and is reflected. If the wavelength of this light is $L$ and the index of refraction of the soap film is $N$, complete destructive interference will occur for a film thickness of",
+    "choices": {
+      "W": "$L / 8N$",
+      "X": "$L / 4N$",
+      "Y": "$L / 2N$",
+      "Z": "$3L / 4N$"
+    },
+    "answer": "$L / 2N$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Magma that squeezes into horizontal cracks and hardens forms a",
+    "choices": {
+      "W": "dike",
+      "X": "batholith",
+      "Y": "sill",
+      "Z": "volcanic neck"
+    },
+    "answer": "SILL"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Magma that squeezes into vertical cracks and hardens forms a",
+    "choices": {
+      "W": "dike",
+      "X": "batholith",
+      "Y": "rill",
+      "Z": "volcanic neck"
+    },
+    "answer": "DIKE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Assuming that zinc is a more active metal than lead, what will happen if a lead metal strip is placed into a solution of zinc nitrate?",
+    "choices": {
+      "W": "More lead metal will be formed",
+      "X": "Lead will replace zinc in the solution",
+      "Y": "Zinc and lead will combine to form a double metal compound",
+      "Z": "Nothing will happen"
+    },
+    "answer": "NOTHING WILL HAPPEN"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The number of moles of a reactant or product is determined by dividing its mass by",
+    "choices": {
+      "W": "Avogadro's number",
+      "X": "the molar mass of the substance",
+      "Y": "the volume of the substance",
+      "Z": "the molar ratio of reactants to products"
+    },
+    "answer": "THE MOLAR MASS OF THE SUBSTANCE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The first fossil placed in the genus Homo was",
+    "choices": {
+      "W": "Homo habilis",
+      "X": "Homo neanderthalensis",
+      "Y": "Homo erectus",
+      "Z": "Homo sapiens"
+    },
+    "answer": "HOMO HABILIS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The anthropoid branch that contains the Old World monkeys does not include",
+    "choices": {
+      "W": "humans",
+      "X": "lemurs",
+      "Y": "great apes",
+      "Z": "baboons"
+    },
+    "answer": "LEMURS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In a balanced chemical equation, how do you determine the limiting reactant?",
+    "choices": {
+      "W": "Complete a mass-mass problem for each reactant",
+      "X": "Compare coefficients and choose the smallest",
+      "Y": "Choose the reactant present in the smallest amount",
+      "Z": "Look up the reaction in a reference book"
+    },
+    "answer": "COMPLETE A MASS-MASS PROBLEM FOR EACH REACTANT"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In a balanced equation describing a chemical reaction involving solid substances, the coefficients refer to the relative number of",
+    "choices": {
+      "W": "grams",
+      "X": "liters",
+      "Y": "cubic centimeters",
+      "Z": "particles"
+    },
+    "answer": "PARTICLES"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following shapes of tiles cannot be used to completely cover a flat area?",
+    "choices": {
+      "W": "an obtuse triangle",
+      "X": "a trapezoid",
+      "Y": "a regular pentagon",
+      "Z": "a regular hexagon"
+    },
+    "answer": "A REGULAR PENTAGON"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given five distinct points on a line, how many distinct segments can be named using these five points?",
+    "answer": "8"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "genr",
+    "answer_type": "multiple_choice",
+    "body": "If a metal can be drawn into wires relatively easily, it is called",
+    "choices": {
+      "W": "malleable",
+      "X": "ductile",
+      "Y": "extractive",
+      "Z": "tactile"
+    },
+    "answer": "DUCTILE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "genr",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is believed to not affect long-term global warming?",
+    "choices": {
+      "W": "volcanism",
+      "X": "biomass combustion",
+      "Y": "carbon dioxide",
+      "Z": "solar variability"
+    },
+    "answer": "BIOMASS COMBUSTION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The group of great apes does not include",
+    "choices": {
+      "W": "orangutans",
+      "X": "gibbons",
+      "Y": "baboons",
+      "Z": "chimpanzees"
+    },
+    "answer": "BABOONS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Adaptations that are not specific to hominids are",
+    "choices": {
+      "W": "changes in hip bones",
+      "X": "bipedal locomotion",
+      "Y": "opposable thumbs",
+      "Z": "arms that rotate in circles"
+    },
+    "answer": "ARMS THAT ROTATE IN CIRCLES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Neptune was the last planet to be visited by which space probe?",
+    "choices": {
+      "W": "Voyager I",
+      "X": "Galileo",
+      "Y": "Voyager II",
+      "Z": "Titan"
+    },
+    "answer": "VOYAGER II"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Pluto is different from the other outer planets because",
+    "choices": {
+      "W": "it may have been a moon of Neptune that escaped",
+      "X": "it formed near Earth and moved outward",
+      "Y": "it is too close to the inner planets",
+      "Z": "none of the above"
+    },
+    "answer": "IT MAY HAVE BEEN A MOON OF NEPTUNE THAT ESCAPED"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "As the temperature of the air increases from 0 degrees Celsius to 20 degrees Celsius, the wavelength of a sound made by a tuning fork of fixed frequency does which of the following?",
+    "choices": {
+      "W": "increases",
+      "X": "decreases",
+      "Y": "remains the same",
+      "Z": "increases up to a maximum, then remains constant"
+    },
+    "answer": "INCREASES"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A 10,000-watt motor operates an elevator weighing 5000 newtons. Assuming no frictional losses, how high is the elevator raised in 10 seconds?",
+    "choices": {
+      "W": "2 meters",
+      "X": "20 meters",
+      "Y": "50 meters",
+      "Z": "100 meters"
+    },
+    "answer": "20 METERS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In a balanced chemical equation, the molar ratio of the two reactants is determined from the",
+    "choices": {
+      "W": "coefficient for each reactant",
+      "X": "number of grams of each reactant",
+      "Y": "number of atoms in each reactant",
+      "Z": "liters of each reactant"
+    },
+    "answer": "COEFFICIENT FOR EACH REACTANT"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The percent yield of products from a chemical reaction is the ratio of",
+    "choices": {
+      "W": "expected yield to actual yield",
+      "X": "actual yield to expected yield",
+      "Y": "actual yield to minimum yield",
+      "Z": "expected yield to minimum yield"
+    },
+    "answer": "ACTUAL YIELD TO EXPECTED YIELD"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Iceland is located at a",
+    "choices": {
+      "W": "convergent boundary",
+      "X": "hot spot",
+      "Y": "divergent boundary",
+      "Z": "transform fault boundary"
+    },
+    "answer": "DIVERGENT BOUNDARY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Approximately how many of Earth's volcanoes are currently active?",
+    "choices": {
+      "W": "2100",
+      "X": "1500",
+      "Y": "1000",
+      "Z": "600"
+    },
+    "answer": "600"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Users on a LAN utilize a computer that stores programs and data files called a",
+    "choices": {
+      "W": "client server",
+      "X": "file server",
+      "Y": "peer",
+      "Z": "bulletin board"
+    },
+    "answer": "FILE SERVER"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "A 4GL language used to retrieve data from a database management system is called",
+    "choices": {
+      "W": "an application generator",
+      "X": "a report generator",
+      "Y": "a program generator",
+      "Z": "a query language"
+    },
+    "answer": "A QUERY LANGUAGE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The common name for the antineuritic vitamin is",
+    "answer": "VITAMIN B1 OR THIAMINE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Cro-Magnons differed from Neanderthals because they had each of the following except",
+    "choices": {
+      "W": "a complex culture",
+      "X": "great art",
+      "Y": "heavy-set bodies",
+      "Z": "a variety of tools and spear points"
+    },
+    "answer": "HEAVY-SET BODIES"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Name the two co-discoverers of the fundamental theorem of calculus.",
+    "answer": "NEWTON AND LEIBNITZ"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Twelve square tiles, one inch on a side, are arranged in a rectangle, without overlapping. What is the number of inches in the sum of all possible distinct perimeters?",
+    "answer": "56"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A 10 volt battery connected to a capacitor delivers a charge of 0.5 coulombs. The capacitance of the capacitor is",
+    "choices": {
+      "W": "0.02 farads",
+      "X": "0.05 farads",
+      "Y": "2 farads",
+      "Z": "5 farads"
+    },
+    "answer": "0.05 FARADS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A car is moving along a straight horizontal road at a speed of 20 meters per second. The brakes are applied and a constant force of 5000 Newtons decelerates the car to a stop in 10 seconds. The mass of the car is",
+    "choices": {
+      "W": "1250 kilograms",
+      "X": "2500 kilograms",
+      "Y": "5000 kilograms",
+      "Z": "10,000 kilograms"
+    },
+    "answer": "250 KILOGRAMS"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The elements in Group 8A of the periodic table are called the",
+    "answer": "NOBLE GASES"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Who classified elements into triads?",
+    "choices": {
+      "W": "Mendeleev",
+      "X": "Moseley",
+      "Y": "Newlands",
+      "Z": "Dobereiner"
+    },
+    "answer": "DOBEREINER"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Suppose the power of a prescription lens is 4 diopters. What is the focal length of the lens in centimeters?",
+    "answer": "25"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The mass spectrograph directly yields a value for which one of the following?",
+    "choices": {
+      "W": "mass of a photon",
+      "X": "mass of a neutron",
+      "Y": "masses of isotopes of elements",
+      "Z": "mass to charge ratio of ions"
+    },
+    "answer": "MASS TO CHARGE RATIO OF IONS"
+  }
+]

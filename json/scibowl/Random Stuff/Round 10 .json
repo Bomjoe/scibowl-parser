@@ -1,0 +1,472 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which human digestive hormone is primarily responsible for inducing the liver to release bicarbonate into the small intestine via the bile duct?",
+    "answer": "SECRETIN"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding cyclic photophosphorylation: 1) Cyclic photophosphorylation is favored in low intensity solar environments 2) Cyclic photophosphorylation increases the ratio of ATP to NADPH in the thylakoid lumen 3) Cyclic photophosphorylation is believed to be an evolutionary relic",
+    "answer": "2) AND 3)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Convert the following expression into a single trigonometric function in x: $\\athrm{csc(x) - \\in(x)}$",
+    "answer": "COT(X)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Convert the following base 13 decimal to a fraction in base 13: 0.8A8A8A...",
+    "answer": "114/169"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Conducting sphere A with a radius of 5 meters and an excess charge of $10 \\athrm{C}$ is connected by a wire to conducting sphere B with a radius of 10 meters and no excess charge. Following separation, what is the ratio of the strength of the electric field at the surface of Sphere A to that at the surface of Sphere B?",
+    "choices": {
+      "W": "The electric fields are equal",
+      "X": "1 to 2",
+      "Y": "1 to 4",
+      "Z": "2 to 1"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A charged particle of spin $\\rac{1}{2}$ is placed in an external magnetic field of magnitude 0.01 T. The resulting oscillation has angular frequency 1 rad/sec. If the external magnetic field is doubled, what is the new angular frequency?",
+    "answer": "2 rad/sec"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the best-proposed explanation for the presence of lobate scarps on the surface of Mercury?",
+    "choices": {
+      "W": "Reverse faults on Mercury led to an uplifting of Mercury's crust",
+      "X": "Mercury's core began to cool, leading to an overall contraction of the planet",
+      "Y": "Tectonic plate collisions in Mercury led to crustal uplifting",
+      "Z": "Divergence of tectonic plates led to the creation of rifts in Mercury's crust"
+    },
+    "answer": "X) MERCURY'S CORE BEGAN TO COOL LEADING TO AN OVERALL CONTRACTION OF THE PLANET"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The critical density of the universe is currently estimated to be about $1.3 \\times 10^{-26} \\athrm{kg / m^3}$ . If the gravitational constant for the universe were doubled, what would be the new critical density in kilograms per meter cubed?",
+    "answer": "$6.5 \\times 10^{-27}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is correct regarding tetrahedral coordination complexes?",
+    "choices": {
+      "W": "For the same ligand and metal center, the tetrahedral splitting exceeds the octahedral splitting",
+      "X": "Tetrahedral complexes are favored for $\\athrm{d^8}$ metals coordinated by strong field ligands",
+      "Y": "Tetrahedral complexes are almost invariably high spin",
+      "Z": "Tetrahedral complexes are generally less intensely colored than octahedral complexes"
+    },
+    "answer": "Y) TETRAHEDRAL COMPLEXES ARE ALMOST INVARIABLY HIGH SPIN"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When an electron in a singlet ground state is excited to a singlet excited state, it may either return to its ground state via fluorescence or undergo a non-radiative conversion to a triplet state and return to ground state via phosphorescence. What is the term for this non-radiative conversion?",
+    "answer": "INTERSYSTEM CROSSING"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Labs are using advanced spectroscopic methods to study sub-stellar objects such as brown dwarves. Although they cannot fuse hydrogen, brown dwarves with mass thirteen times that of Jupiter are thought to fuse deuterium, whereas brown dwarves with mass sixty-five times that of Jupiter are thought to fuse what other element?",
+    "answer": "LITHIUM"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Ames National Labs are using X-ray crystallography to study the structure the solid state structure of the small peptide proopiomelanocortin, or POMC. Identify all of the following three hormones that are derived from POMC: 1) ACTH 2) Thyroxine 3) MSH",
+    "choices": {
+      "W": "1 only",
+      "X": "2 only",
+      "Y": "1 and 2",
+      "Z": "1 and 3"
+    },
+    "answer": "1) AND 3)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A compound machine is created from the combination of a lever with efficiency 0.8 and a screw with efficiency 0.6. If 100 Joules of work is inputted into the system, how much work will be lost to external forces?",
+    "answer": "52 JOULES"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements which are true regarding mesons. 1) Mesons obey Bose-Einstein statistics 2) Meson decays exhibit CPT symmetry 3) The pion has a larger rest mass than the kaon",
+    "answer": "1) AND 2)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are correct regarding fatty acid synthesis in mammalian cells: 1) In each reaction cycle, the fatty acid chain length is extended by direct addition of acetyl CoA 2) In the reaction cycle, acyl carrier protein, or ACP, acts as a cofactor 3) Odd number fatty acid synthesis is achieved through addition of malonyl-CoA",
+    "answer": "NONE OF THEM"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is FALSE regarding two dimensional gel electrophoresis?",
+    "choices": {
+      "W": "2D gel electrophoresis has greater resolving power than its 1-dimensional analogue",
+      "X": "In the second dimension of 2D gel electrophoresis, proteins are separated on the basis of their isoelectric points",
+      "Y": "The first dimension of 2D gel electrophoresis makes use of a pH gradient",
+      "Z": "Coomassie blue may be used to visualize proteins in 2D gel electrophoresis"
+    },
+    "answer": "X) IN THE SECOND DIMENSION OF 2D GEL ELECTROPHORESIS, PROTEINS ARE SEPARATED ON THE BASIS OF THEIR ISOELECTRIC POINTS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What uranium-bearing phosphate mineral, commonly associated with carnotite and autunite, is often found in the oxidation zones of copper deposits?",
+    "choices": {
+      "W": "Studtite",
+      "X": "Samarskite",
+      "Y": "Uraninite",
+      "Z": "Torbernite"
+    },
+    "answer": "Z) TORBERNITE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Arrange the following five geologic events in chronological order from earliest to latest: 1) Snowball Earth 2) Permian extinction 3) Formation of stromatolites 4) Great Oxygen Catastrophe 5) Late Heavy Bombardment",
+    "answer": "5) 3) 4) 1) 2)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Labs are using X-rays from the Advanced Light Source to resolve the structure of complexes known as nonribosomal peptide synthetases, or NRPSs. These complexes assemble cellular macromolecules through a sequence of transformations in a linked enzymatic pathway. NRPSs are being studied for their importance in the synthesis of what group of essential molecules often characterized by beta lactam functionalities?",
+    "answer": "ANTIBIOTICS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Oak Ridge National Laboratories are studying crystal defects in ionic lithium salts. Which of the following types of defect occurs when both a cation and an anion are missing from the lattice, resulting in a net decrease in density?",
+    "choices": {
+      "W": "Schottky Defect",
+      "X": "Edge Dislocation",
+      "Y": "Frenkel Defect",
+      "Z": "Vacancy Defect"
+    },
+    "answer": "W) SCHOTTKY DEFECT"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is correct regarding the selectivity of the Diels Alder reactions?",
+    "choices": {
+      "W": "The endo product is both thermodynamically and kinetically favored",
+      "X": "The exo product is both thermodynamically and kinetically favored",
+      "Y": "The endo product is thermodynamically favored while the exo product is kinetically favored",
+      "Z": "The exo product is thermodynamically favored while the endo product is kinetically favored"
+    },
+    "answer": "Z) THE EXO PRODUCT IS THERMODYNAMICALLY FAVORED WHILE THE ENDO PRODUCT IS KINETICALLY FAVORED"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Under certain conditions, the bromination of an alkene has an order of $3 / 2$ in $\\athrm{Br}_2$ . When the quantity $[\\athrm{Br}_2]^{-1 / 2}$ is plotted against time in excess alkene, the graph is observed to have a slope of 4.8. Determine the value of the rate constant for this pseudo $3 / 2$ order reaction.",
+    "answer": "9.6"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A triangle has side lengths of 13, 14, and 15. Determine its inradius.",
+    "answer": "4"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Calculate the perimeter of the triangle with vertices at negative one comma four, seven comma two, and five comma negative one.",
+    "answer": "$6\\qrt{2} +2\\qrt{17} +2\\qrt{5}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three tissues in which calmodulin would activate myosin light chain kinase, thus initiating muscle contraction. 1) Cardiac muscle 2) Uterine muscle 3) Ciliary muscle",
+    "answer": "2) AND 3)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The pons and the cerebellum are derived from what secondary brain vesicle?",
+    "choices": {
+      "W": "Diencephalon",
+      "X": "Telencephalon",
+      "Y": "Mesencephalon",
+      "Z": "Metencephalon"
+    },
+    "answer": "Z) METENCEPHALON"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions could describe the position of a critically damped oscillator, but not an overdamped oscillator?",
+    "choices": {
+      "W": "$\\athrm{f(t) = e^{-3t}}$",
+      "X": "$\\athrm{f(t) = e^{-3t} + e^{-5t}}$",
+      "Y": "$\\athrm{f(t) = e^{-3t} + te^{-5t}}$",
+      "Z": "$\\athrm{f(t) = e^{-3t} + te^{-3t}}$"
+    },
+    "answer": "Z) $\\athrm{f(t) = e^{-3t} + te^{-3t}}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A planet with a surface gravitational acceleration of $10 \\athrm{m / s^2}$ and radius 100 meters is rotating at an angular velocity of 0.2 rad/sec. For a point located at a latitude of $45^{\\irc}$ north, which of the following values is closest to the ratio of the measured surface acceleration to the given surface gravitational acceleration?",
+    "choices": {
+      "W": "1.1",
+      "X": "1.2",
+      "Y": "1.3",
+      "Z": "1.4"
+    },
+    "answer": "Y) 1.3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Pacific Northwest National Labs are using Mossbauer spectroscopy to measure the isotope shift of iron atoms in a crystalline sample of a specific inorganic salt. Which of the following properties of the iron atom are they most likely trying to determine?",
+    "choices": {
+      "W": "Atomic radius",
+      "X": "Mass",
+      "Y": "Coordination environment",
+      "Z": "Oxidation state"
+    },
+    "answer": "Z) OXIDATION STATE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Labs are studying the potential of gold (III) chloride for treating hypoxia in the brain. One adverse effect of hypoxia is the cellular accumulation of what reducing molecule, which can be restored to its oxidizing form upon reaction with $\\athrm{AuCl}_3$ ?",
+    "answer": "NADH"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following physiological changes would NOT lead to an increase in the volume of the interstitial fluid?",
+    "choices": {
+      "W": "Decreasing the plasma hemoglobin concentration",
+      "X": "Constriction of precapillary arterioles",
+      "Y": "Constriction of postcapillary venules",
+      "Z": "Increasing arterial blood pressure"
+    },
+    "answer": "X) CONSTRICTION OF PRECAPILLARY ARTERIOLES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In vascular plants, the movement of phloem sap from a source to a sink is facilitated by the hypothesized pressure flow mechanism. In the pressure flow mechanism, the transport of water from what other plant tissue at a source results in a build up in hydrostatic pressure between source and sink?",
+    "answer": "XYLEM"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "When a star starts burning hydrogen in its core it begins its life on the main sequence of the HR Diagram. What is the name given to this point where the star first appears on the main sequence?",
+    "answer": "ZERO AGE MAIN SEQUENCE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "When a pre-main sequence star is too cool to fuse hydrogen in its core, gravity begins contracting the core of the star, leading to an increase in pressure and temperature at the core. The increase in temperature allows for the star to begin fusing hydrogen. What is the name given to this mechanism?",
+    "answer": "KELVIN- HELMHOLTZ MECHANISM"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Arrange the following three fundamental forces in increasing order according to the average mean half-life of the particle decay processes they mediate: 1) Weak force 2) Strong force 3) Electromagnetic force",
+    "answer": "2) 3) 1)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A double slit experiment is constructed with slit separation $\\athrm{d} = 1$ millimeter and source distance $\\athrm{X} = 10$ meters. If light of wavelength 500 nanometers is incident on the apparatus, determine, in millimeters, the distance between the center of the screen and the first minimum.",
+    "answer": "5 MILLIMETERS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the character of H-F--H-F [read as: HF to HF] hydrogen bonding in a liquid sample of hydrogen fluoride?",
+    "choices": {
+      "W": "Largely ionic, with linear geometry around the central hydrogen atom",
+      "X": "Largely ionic, with bent geometry around the central hydrogen atom",
+      "Y": "Largely covalent, with linear geometry around the central hydrogen atom",
+      "Z": "Largely covalent, with bent geometry around the central hydrogen atom"
+    },
+    "answer": "Y) LARGELY COVALENT, WITH LINEAR GEOMETRY AROUND THE CENTRAL HYDROGEN ATOM"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "An electron in a hydrogen atom occupies an orbital with azimuthal quantum number $\\athrm{L} = 3$ . Giving your answer in terms of the reduced planck's constant, determine the angular momentum associated with this orbital.",
+    "answer": "$2\\qrt{3}\\bar$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Laboratories are developing an autocatalytic cycle for the hydrogenation of carbon dioxide in an attempt to mimic the carbon fixing properties of photosynthesis. What immediate product results from the hydrogenation of carbon dioxide?",
+    "answer": "FORMATE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Livermore National Labs are studying instabilities at fluid-fluid interfaces within nuclear reactors that are responsible for asymmetries and the disruption of fusion. Which type of fluid-fluid instability, resulting from the force induced on a high mass fluid by a low mass fluid, are they studying?",
+    "answer": "RAYLEIGH-TAYLOR INSTABILITY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which foundational equation of hydrogeology describes the flow of a fluid through a porous medium?",
+    "choices": {
+      "W": "Darcy's law",
+      "X": "Klinkenberg equation",
+      "Y": "Jurin's law",
+      "Z": "Poiseuille equation"
+    },
+    "answer": "W) DARCY'S LAW"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In a coastline with semidiurnal tides, the time separating two consecutive low tides is how long to the nearest minute?",
+    "answer": "12 HOURS AND 25 MINUTES"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When ten grams of a simple ionic salt are added to water, it is observed to be only slightly soluble, with the majority of the solid accumulating at the bottom of the flask. However, when the mixture is treated with excess acid, the remaining solid dissolves. Finally, addition of sodium fluoride leads to the formation of a white precipitate. Which of the following could be the identity of the original compound?",
+    "choices": {
+      "W": "Aluminum Sulfate",
+      "X": "Lithium Carbonate",
+      "Y": "Barium Hydroxide",
+      "Z": "Magnesium Chloride"
+    },
+    "answer": "X) LITHIUM CARBONATE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases will cool the least during a throttling process?",
+    "choices": {
+      "W": "Methane",
+      "X": "Neon",
+      "Y": "Krypton",
+      "Z": "Nitrogen"
+    },
+    "answer": "X) NEON"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the partial derivative with respect to $x$ of the following expression: $3xy - x^3 e^y + 6y$",
+    "answer": "$3y - 3x^{2}e^{y}$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If 3 fair dice are rolled, what is the expected value of the product of the numbers shown?",
+    "answer": "343/8"
+  }
+]

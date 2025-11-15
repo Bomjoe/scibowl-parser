@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When 1,3-butadiene is reacted with hydrogen bromide under high temperature, the 1,4-adduct is observed, while the 1,2-adduct is favored under low temperature conditions. Which of the following is NOT true regarding the mechanism for this reaction?",
+    "choices": {
+      "W": "The reactions become irreversible at high temperatures",
+      "X": "The bromide ion is closer to the second carbon than the fourth",
+      "Y": "The transition state of the 1,2-adduct is lower in energy than that of the 1,4-adduct",
+      "Z": "The reaction is said to be under kinetic control at low temperatures"
+    },
+    "answer": "W) THE REACTIONS BECOME IRREVERSIBLE AT HIGH TEMPERATURES"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three degrees of substitution in terms of increasing likelihood of attack in acid-catalyzed epoxide ring opening: 1) Primary; 2) Secondary; 3) Tertiary.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The gyromagnetic ratio of a particle is the ratio of what two quantities?",
+    "choices": {
+      "W": "Angular momentum and magnetic field",
+      "X": "Spin and magnetic moment",
+      "Y": "G-factor and magnetic flux",
+      "Z": "Magnetic moment and angular momentum"
+    },
+    "answer": "Z) MAGNETIC MOMENT AND ANGULAR MOMENTUM"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two ten-solar-mass black holes each have entropy $S$. If they merge, radiating 5% of their mass as gravitational waves, then to two decimal places and in terms of $S$, what will the entropy of the new black hole be?",
+    "answer": "3.61S"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Phase 1 Korotkoff sounds detected by a sphygmomanometer are used to evaluate which of the following values?",
+    "choices": {
+      "W": "Diastolic pressure",
+      "X": "Systolic pressure",
+      "Y": "Pulse pressure",
+      "Z": "Mean arterial pressure"
+    },
+    "answer": "X) SYSTOLIC PRESSURE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Classify each of the following three molecules as activators or inhibitors of glycolysis: 1) ATP; 2) ADP; 3) AMP.",
+    "answer": "INHIBITOR, ACTIVATOR, ACTIVATOR"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Regulus, the alpha star of Leo, has poles that are significantly brighter than its equator. Which of the following best explains this phenomenon?",
+    "choices": {
+      "W": "Multiple large gas giants orbit Regulus, obscuring the equatorial plane and leading to darkening",
+      "X": "Regulus has a very strong quadrupole magnetic field, leading to magnetic darkening of its equator",
+      "Y": "Regulus spins extremely fast, leading to gravitational darkening of its equator",
+      "Z": "Regulus has many sunspots around the equator that obscure much of the surface"
+    },
+    "answer": "Y) REGULUS SPINS EXTREMELY FAST, LEADING TO GRAVITATIONAL DARKENING OF ITS EQUATOR"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following rocks is ultrapotassic?",
+    "choices": {
+      "W": "Lamproite",
+      "X": "Rhyolite",
+      "Y": "Dacite",
+      "Z": "Tonalite"
+    },
+    "answer": "W) LAMPROITE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three sets that are bounded in the real numbers: 1) The set of all integers; 2) The set of all real numbers less than 6; 3) The set of primes less than 6.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The polynomial $x^{2020} - 1$ is divided by $x - 1$ to yield a new polynomial. What is the sum of the cubes of the roots of this new polynomial?",
+    "answer": "- 1"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The SuperNova Early Warning System was established by scientists at Brookhaven National Lab to give advance notice to astronomers in the event of a nearby supernova. It triggers when multiple sites simultaneously detect what extrasolar messengers?",
+    "answer": "NEUTRINOS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Los Alamos National Lab scientists are developing epidemiological models to predict the spread of COVID-19 and other diseases. Suppose a new virus emerges with a basic reproduction number of 2.5, meaning that an infected individual will generate an average of 2.5 new cases in a population where all members are susceptible. After being infected, a person recovers and becomes immune to the disease. Assuming a globally interconnected population of 8 billion, how many people will eventually be infected by the virus?",
+    "answer": "4.8 BILLION"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of reactions in which chiral catalysts are used: 1) Enantioselective epoxidation; 2) Asymmetric hydrogenation; 3) Evans aldol reaction.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 7,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a periclyclic reaction of a cyclobutene derivative. Answer the following two questions regarding the image: 1. Both products are formed via what general type of periclyclic reaction? 2. Treating the substrate with heat will form one product, while treatment with light will form another. What conditions are to be employed in A and B, respectively?",
+    "answer": "1 – ELECTROCYCLIC; 2 – HEAT AND LIGHT (DO NOT ACCEPT: LIGHT AND HEAT)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In position-momentum phase space, a simple harmonic oscillator will trace which of the following paths?",
+    "choices": {
+      "W": "Sinusoid",
+      "X": "Rectangle",
+      "Y": "Ellipse",
+      "Z": "Line"
+    },
+    "answer": "Y) ELLIPSE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The Higgs mechanism causes spontaneous symmetry breaking of gauge symmetries, since the physical laws describing the system are symmetric while the ground state solutions are not. Which of the following is another example of spontaneous symmetry breaking?",
+    "choices": {
+      "W": "Cooling of a ferromagnet below its Curie temperature",
+      "X": "Stretching of a material beyond its elastic limit",
+      "Y": "Splitting of a crystal along cleavage planes",
+      "Z": "A bell ringing at its resonant frequency when struck"
+    },
+    "answer": "W) COOLING OF A FERROMAGNET BELOW ITS CURIE TEMPERATURE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Beta-mercaptoethanol exhibits high water solubility and low volatility as a result of what functional group?",
+    "answer": "HYDROXYL"
+  },
+  {
+    "question_number": 9,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a schematic of the enzyme ATP synthase. Answer the following two questions regarding the image: 1. Using proper terminology, in what region does the portion labeled F1 lie? 2. Identify all of the following four amino acids that you would expect to be abundant in the c subunits: 1) Alanine; 2) Glycine; 3) Proline; 4) Aspartic acid.",
+    "answer": "1 – MITOCHONDRIAL MATRIX (ACCEPT: MITOCHONDRIAL LUMEN, LUMEN); 2 – 1 AND 2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Nusakan is a spectroscopic binary system in the Corona Borealis constellation. Which of the following statements is NOT true regarding spectroscopic binaries?",
+    "choices": {
+      "W": "The Doppler shift of a spectral line is inversely proportional to the radial velocity",
+      "X": "Most spectroscopic binaries appear as single stars even for very powerful telescopes",
+      "Y": "When the spectral lines of one star are blueshifted, the spectral lines of the other star are redshifted",
+      "Z": "Visual spectroscopic binaries are generally much closer to Earth than non-visual spectroscopic binaries"
+    },
+    "answer": "W) THE DOPPLER SHIFT OF A SPECTRAL LINE IS INVERSELY PROPORTIONAL TO THE RADIAL VELOCITY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is the periodic oscillation of the NAO. Answer the following two questions regarding the image: 1. The NAO is controlled by pressure differences between which two semipermanent pressure systems? 2. These pressure differences cause varying strengths in what prevailing wind belt?",
+    "answer": "1 – AZORES HIGH AND ICELANDIC LOW; 2 – PREVAILING WESTERLIES"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "For which of the following $n$ do the nonzero integers modulo $n$ NOT form a group under multiplication?",
+    "choices": {
+      "W": "2",
+      "X": "3",
+      "Y": "4",
+      "Z": "5"
+    },
+    "answer": "Y) 4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the largest integer dollar value that you cannot make with an unlimited supply of $5$, $12$, and $13$ notes?",
+    "answer": "21"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Lab are investigating modified desaturases that can perform dihydroxylation across a double bond in fatty acids. Identify all of the following three combinations of reagents that can be used for dihydroxylation across an alkene: 1) Osmium tetroxide followed by sodium bisulfite and water; 2) Peroxyacetic acid followed by sulfuric acid and water; 3) Dilute sulfuric acid in water.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab are collaborating with scientists at Hokkaido University to study the Venusian atmosphere. Identify all of the following three statements regarding the Venusian atmosphere that are true: 1) The Venusian atmosphere rotates about sixty times as fast as its planetary rotation; 2) The most abundant gas in the Venusian atmosphere is nitrogen; 3) Convectional circulation occurs in large cells that extend from the equator to the poles.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Phenol is an industrially important chemical. In the first step of its production, benzene is treated with propene and phosphoric acid to form what intermediate?",
+    "answer": "CUMENE (ACCEPT: ISOPROPYLBENZENE)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reaction conditions will generate the highest yield of conjugate adduct of an alpha-beta unsaturated ketone?",
+    "choices": {
+      "W": "Hard nucleophile, low temperature",
+      "X": "Hard nucleophile, high temperature",
+      "Y": "Soft nucleophile, low temperature",
+      "Z": "Soft nucleophile, high temperature"
+    },
+    "answer": "Z) SOFT NUCLEOPHILE, HIGH TEMPERATURE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A square coil of side length 3 meters is moving at 2 meters per second into a uniform 6-tesla magnetic field. If the angle between the direction of the magnetic field and the normal vector of the plane of the coil is 60 degrees, then in volts, what is the induced emf [E-M-F] in the coil?",
+    "answer": "18"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding type I superconductors: 1) Their London penetration depth is less than their superconducting coherence length; 2) They have a transition temperature zone where resistance slowly drops to zero; 3) They cannot be penetrated by magnetic fields, which results in the Meissner effect.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following conditions will allow aquaporins to exhibit maximum activity?",
+    "choices": {
+      "W": "Low pH, low calcium ion concentration",
+      "X": "Low pH, high calcium ion concentration",
+      "Y": "High pH, low calcium ion concentration",
+      "Z": "High pH, high calcium ion concentration"
+    },
+    "answer": "X) LOW PH, HIGH CALCIUM ION CONCENTRATION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Polyhistidine-tags are used by scientists in which of the following laboratory methods?",
+    "choices": {
+      "W": "Affinity chromatography",
+      "X": "Ion exchange chromatography",
+      "Y": "Gel filtration chromatography",
+      "Z": "Paper chromatography"
+    },
+    "answer": "W) AFFINITY CHROMATOGRAPHY"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Gunn-Peterson trough is caused by the presence of what element in the intergalactic medium?",
+    "answer": "HYDROGEN (ACCEPT: NEUTRAL HYDROGEN or H I)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four astronomical events that have been observed as gamma ray burst progenitors: 1) Hypernova of a massive star; 2) Merger of two neutron stars; 3) Merger of two Schwartzchild [sh-WARTZ-shield] black holes; 4) Magnetar flare.",
+    "answer": "1, 2 AND 4"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the normalized barycentric coordinates of the centroid of a triangle ABC with $\\athrm{AB} = 5$, $\\athrm{BC} = 12$, and $\\athrm{AC} = 13$?",
+    "answer": "(1/3, 1/3, 1/3)"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The roots of $x^{6} - 729$ are mapped on the complex plane and then all of them are connected to make a convex polygon. What is the area of this polygon?",
+    "answer": "27 ROOT 3 OVER 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Los Alamos National Lab have created doped quantum dots that capture more light energy than normal quantum dots. Which of the following statements is true regarding quantum dots?",
+    "choices": {
+      "W": "A quantum dot that fluoresces blue is larger than one that fluoresces red",
+      "X": "UV light is commonly used to make quantum dots fluoresce",
+      "Y": "Phonons are created when electrons in the quantum dot dissociate from their electron holes",
+      "Z": "Electrons lose energy when going from the valence band to the conductance band"
+    },
+    "answer": "X) UV LIGHT IS COMMONLY USED TO MAKE QUANTUM DOTS FLUORESC"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "DOE researchers at the Joint Genome Institute have sequenced thousands of virophage genomes to determine their evolutionary history. Identify all of the following three statements that are true regarding this class of viruses: 1) They can only infect hosts already infected by a helper virus; 2) Their genomes are typically only a few hundred base pairs in length; 3) They help the recovery and survival of their host cells.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three molecules that are chiral: 1) Tartaric acid; 2) Methanol; 3) 2-methylbutane.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In an SN2 reaction between cyanide and methyl bromide, an electron pair from the HOMO of cyanide is donated into what specific orbital on methyl bromide?",
+    "answer": "CARBON- BROMINE SIGMA STAR (ACCEPT: C- Br SIGMA STAR; SIGMA STAR)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Dirac bra-ket notation is used to denote what objects located in a Hilbert space?",
+    "answer": "QUANTUM STATES (ACCEPT: STATES; VECTORS)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Shown in the image are two expansions of an ideal gas labeled A and B. Both expansions start at the same pressure and volume, and both end at the same volume. Answer the following two questions regarding the image: 1. Given that one expansion is adiabatic and one is isothermal, which expansion is adiabatic? 2. Assuming that both are reversible, which expansion leads to a greater increase in entropy?",
+    "answer": "1 - A; 2 - B (ACCEPT: ISOTHERMAL EXPANSION)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Social insects with intricate nests or colonies are most prone to what mode of mimicry?",
+    "answer": "WASMANNIAN"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In cation exchange chromatography, peptides with which of the following charges will travel the slowest down the matrix?",
+    "choices": {
+      "W": "- 3",
+      "X": "- 1",
+      "Y": "0",
+      "Z": "+1"
+    },
+    "answer": "Z) +1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Brown dwarves can be identified from low-mass stars by the relatively high concentration of what element in their atmospheres?",
+    "answer": "LITHIUM"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following four standard candles or relationships in terms of increasing distance calibration according to the cosmic distance ladder: 1) Type 1a supernovae; 2) Tully-Fisher Relation; 3) RR Lyrae variables; 4) Tip of red giant branch.",
+    "answer": "3, 4, 2, 1"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is necessary for a function to be Lebesgue integrable?",
+    "choices": {
+      "W": "It must have a finite Lebesgue measure",
+      "X": "It must have an infinite Lebesgue measure",
+      "Y": "It must have a finite number of discontinuities",
+      "Z": "It must be bounded"
+    },
+    "answer": "W) IT MUST HAVE A FINITE LEBESGUE MEASURE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The line $y = 20$ is reflected over the line $y = 3 / 4x + 6$. What is the slope of the resultant line?",
+    "answer": "24/7"
+  }
+]

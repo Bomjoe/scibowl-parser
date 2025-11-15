@@ -1,0 +1,430 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A manometer is an instrument in the shape of a U-tube commonly used to measure what quantity?",
+    "answer": "PRESSURE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Solid calcium carbonate is decomposed into solid calcium oxide and carbon dioxide gas in a highly endothermic reaction held in a sealed container. Identify all of the following changes to the reaction vessel that are likely to favor the forward reaction: 1) Increasing temperature; 2) Decreasing container volume; 3) Adding calcium oxide.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A man weighing 70 kilograms jumps up 0.8 meters from the ground. Taking $g$ to be 10 meters per second squared, what is the impulse received from the ground in kilogram meters per second?",
+    "answer": "280"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In kilogram meters squared, what is the moment of inertia of a uniform disk of mass 10 kilograms and radius 3 meters about an axis through its diameter?",
+    "answer": "22.5"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "While an annular solar eclipse occurs when the Earth is in the Moon’s antumbra, a partial one occurs because the Earth is located in what partial shadow of the Moon?",
+    "answer": "PENUMBRA"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cloud types is most often associated with precipitation?",
+    "choices": {
+      "W": "Cumulus",
+      "X": "Nimbostratus",
+      "Y": "Cirrus",
+      "Z": "Cirrocumulus"
+    },
+    "answer": "X) NIMBOSTRATUS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Including itself as a factor, what is the third largest factor of 120?",
+    "answer": "40"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the least number of sides a regular polygon must have in order to have a nonzero number of diagonals that is divisible by 55?",
+    "answer": "25"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The bending of cilia involves what motor proteins that attach along each microtubule doublet?",
+    "answer": "DYNEINS"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many ATP molecules are generated from the pay-off phase of glycolysis?",
+    "answer": "4"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC national laboratory are using femtosecond resolution methods to study the photodissociation of the triiodide anion. What is the molecular geometry of the triiodide ion?",
+    "answer": "LINEAR"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab used the Advanced Photon Source to study properties of the anti-tumor drug masitinib in treating COVID-19. The drug works by inhibiting the 3CL protease of the coronavirus by binding to active catalytic residues. Researchers also observed that upon addition of substrate to inhibited 3CL, the protease regained catalytic activity. What form of inhibition does masitinib likely act via?",
+    "answer": "COMPETITIVE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of electric field lines. 1) The closer they are packed, the larger the magnitude of the electric field; 2) They are always parallel to equipotential surfaces; 3) They always point in the same direction as the force.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "On a certain planet, the atmospheric pressure is 1000 pascals. If the acceleration due to gravity is the same as the earth, what is the gauge pressure at a depth of 1 meter below water on this planet?",
+    "answer": "10800"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Cerro Negro found in Nicaragua is an example of what type of volcano that has an angle of repose of approximately 30 degrees and is composed primarily of pyroclastic debris?",
+    "answer": "CINDER CONE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "You notice a third quarter moon during your walk to the park. Which of the following can you conclude?",
+    "choices": {
+      "W": "It rose at dawn",
+      "X": "It rose at noon",
+      "Y": "It set at dawn",
+      "Z": "It set at noon"
+    },
+    "answer": "Z) IT SET AT NOON"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the degree measure of an internal angle of a regular polygon with 24 sides?",
+    "answer": "165"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the product of all of the factors of 12?",
+    "answer": "1728"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When the natural log of vapor pressure is plotted against temperature for a volatile liquid, which of the following best describes the resulting curve?",
+    "choices": {
+      "W": "Exponential",
+      "X": "Linear",
+      "Y": "Parabolic",
+      "Z": "Hyperbolic"
+    },
+    "answer": "Z) HYPERBOLIC"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The red color of ruby is a result of impurities containing the 3+ oxidation state of what metal?",
+    "answer": "CHROMIUM"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the function of the lysosome?",
+    "choices": {
+      "W": "Degrade material inside the cell",
+      "X": "Carry out translation",
+      "Y": "Attach to centrioles during anaphase of mitosis",
+      "Z": "Manufacture phospholipids and glycoproteins"
+    },
+    "answer": "W) DEGRADE MATERIAL INSIDE THE CELL"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three adaptations that would be beneficial for a xerophyte: 1) Crassulacean acid metabolism photosynthesis; 2) Crypts; 3) Waxy leaves.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab are studying enzyme kinetics by collecting data about enzyme crystals using x-ray sources. The rate of enzyme catalysis is often limited by what physical phenomenon?",
+    "answer": "DIFFUSION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab have found that estimates of groundwater residence time through the use of carbon-14 as an isotope have been obscured by the anthropogenic addition of what anion into Earth's soil?",
+    "answer": "CARBONATE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true regarding the specific heat capacity of water?",
+    "choices": {
+      "W": "It is temperature-dependent",
+      "X": "It is an intensive property",
+      "Y": "It is greater than the molar heat capacity of water",
+      "Z": "It is greater than that of ethanol in the liquid phase"
+    },
+    "answer": "Y) IT IS GREATER THAN THE MOLAR HEAT CAPACITY OF WATER"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following four molecules in terms of increasing dipole moment: 1) Ammonia; 2) Water; 3) Hydrofluoric acid.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that are conserved in an inelastic collision: 1) Momentum; 2) Total mechanical energy; 3) Kinetic energy.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A blackbody has a temperature of 5000 kelvins and a radius of 200 meters, and emits radiation with an intensity of I. What is the new intensity of radiation in terms of I if the blackbody's temperature is doubled and its radius is halved?",
+    "answer": "4I"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Before a core-collapse supernova, what is the last element that is burned to produce energy for the star?",
+    "answer": "SILICON"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name given to the smallest and coolest stars in the main sequence, which compose most of the stars in the Milky Way?",
+    "answer": "RED DWARFS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the volume of the figure formed when a rectangle with sides of length 2 and 3 is revolved around its shorter side?",
+    "answer": "$18\\i$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Quadrilateral ABCD is inscribed within a circle O. Given this information, identify all of the following four quadrilaterals which COULD satisfy this condition: 1) Rhombus; 2) Parallelogram; 3) Trapezoid; 4) Kite.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following phyla does NOT belong to the clade lophotrochozoa [low-pho-troh-show-ZOH-uh]?",
+    "choices": {
+      "W": "Arthropoda",
+      "X": "Mollusca",
+      "Y": "Nematoda",
+      "Z": "Platyhelminthes"
+    },
+    "answer": "W) ARTHROPODA"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the prezygotic barrier in which the sperm of one species are unable to fertilize the eggs of another, even if a mating attempt occurs?",
+    "answer": "GAMETIC ISOLATION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab are studying the effects of platinum on electrocatalysts. When platinum forms coordination complexes with a coordination number of 4, what is the typical molecular geometry of the complex?",
+    "answer": "SQUARE PLANAR"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab have been studying the mechanism behind voltage leak in lithium ion batteries via its interaction with oxygen. What element most commonly composes the anodes of lithium-ion batteries?",
+    "answer": "CARBON"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A mass is attached to a spring and at $t = 0$ , the spring is lengthened by one meter from its resting position. Which of the following trigonometric functions best describes the plot of the mass’ acceleration with respect to time?",
+    "choices": {
+      "W": "Sine of $t$",
+      "X": "Cosine of $t$",
+      "Y": "Tangent of $t$",
+      "Z": "Secant of $t$"
+    },
+    "answer": "X) COSINE OF $t$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of processes that occur during the Carnot cycle; 1) Adiabatic; 2) Isothermal; 3) Isobaric.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three moons that are satellites of Jupiter. 1) Enceladus; 2) Mimas; 3) Ganymede.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following regions of the interstellar medium is star formation most likely to occur?",
+    "choices": {
+      "W": "Coronal gas",
+      "X": "Molecular clouds",
+      "Y": "HI [H-one] regions",
+      "Z": "Intercloud medium"
+    },
+    "answer": "X) MOLECULAR CLOUDS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that are exceptions to the octet rule: 1) Nitric oxide; 2) Nitrous oxide; 3) Nitrogen dioxide.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The standard reduction potential of bromine is 1.09 volts. When bromine is reduced by hydrogen gas, which of the following statements must be true regarding this reaction's equilibrium constant $K$ and standard Gibbs free energy delta $G$ ?",
+    "choices": {
+      "W": "$K$ is greater than 1 and delta $G$ is less than 0",
+      "X": "$K$ is greater than 1 and delta $G$ is greater than 0",
+      "Y": "$K$ is less than 1 and delta $G$ is less than 0",
+      "Z": "$K$ is less than 1 and delta $G$ is greater than 0"
+    },
+    "answer": "W) $K$ IS GREATER THAN 1 AND DELTA $G$ IS LESS THAN 0"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the first 4 terms of the geometric series with first term 2 and second term negative 6?",
+    "answer": "-40"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the $x$ - intercept of the line that is perpendicular to the line with equation $7x + 11y = 20$ and passes through the point (3, 2)?",
+    "answer": "19/11"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three amino acids that contain a basic side chain: 1) Glycine; 2) Histidine; 3) Arginine",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "During photosynthesis, which of the following regions has the highest pH?",
+    "choices": {
+      "W": "Stroma",
+      "X": "Thylakoid space",
+      "Y": "Cytosol",
+      "Z": "Central vacuole"
+    },
+    "answer": "W) STROMA"
+  }
+]

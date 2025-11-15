@@ -1,0 +1,460 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "In the equation $\\athrm{g(x) =}$ the integral of $\\athrm{f(x)dx}$ , the integrand is",
+    "choices": {
+      "W": "g(x).",
+      "X": "dx.",
+      "Y": "f(x).",
+      "Z": "undefined."
+    },
+    "answer": "Y- F(X)"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Approximating the value of an integral by the sum of area of rectangles is called what kind of sum?",
+    "answer": "RIEMANN (SUM)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The idea that the Earth is a magnet was proposed by",
+    "choices": {
+      "W": "Gilbert.",
+      "X": "Oersted.",
+      "Y": "Faraday.",
+      "Z": "Ohm."
+    },
+    "answer": "W- GILBERT"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Electric current is supplied to the commutator of a motor through the",
+    "choices": {
+      "W": "armatures.",
+      "X": "solenoids.",
+      "Y": "transformers.",
+      "Z": "brushes."
+    },
+    "answer": "Z- BRUSHES"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Three uracil bases are the codon for what amino acid?",
+    "answer": "PHENYLALANINE (Phe)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "If two hybrid pea plants have 120 offspring, according to the laws of chance, how many offspring will display the dominant trait?",
+    "answer": "90"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The reaction of amines with carboxylic acids forms",
+    "choices": {
+      "W": "alcohols.",
+      "X": "esters.",
+      "Y": "amides.",
+      "Z": "proteins."
+    },
+    "answer": "Y- AMIDES"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The boiling temperatures of the aldehydes and ketones are lower than the boiling temperatures of the alcohols because",
+    "choices": {
+      "W": "aldehydes and ketones have such low vapor pressures.",
+      "X": "there is no intermolecular attraction in aldehydes and ketones.",
+      "Y": "the size of the aldehyde and ketone molecules is large.",
+      "Z": "no hydrogen bonding occurs in aldehydes and ketones."
+    },
+    "answer": "Z- NO HYDROGEN BONDING OCCURS IN ALDEHYDES AND KETONES"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "A Java compiler creates",
+    "choices": {
+      "W": "JNI.",
+      "X": "native machine code.",
+      "Y": "byte-code.",
+      "Z": "JVM."
+    },
+    "answer": "Y- BYTE- CODE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "The original IBM PC, with an 8088 microprocessor, had a maximum clock speed of",
+    "choices": {
+      "W": "33 MegaHertz.",
+      "X": "25 MegaHertz.",
+      "Y": "14.4 MegaHertz.",
+      "Z": "8 MegaHertz."
+    },
+    "answer": "Z- 8 MEGAHERTZ"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Albinism, characterized by the absence of melanin, results from the absence of what enzyme?",
+    "answer": "TYROSINASE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Suppose an organism inherits three dominant chromosomes from its father and three matching recessive chromosomes from its mother. According to the laws of chance, how many new combinations are possible in the gametes formed during gametogenesis?",
+    "answer": "8"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Magnetic domains are regions",
+    "choices": {
+      "W": "where the magnetic field strength is decreased.",
+      "X": "in unmagnetized materials only.",
+      "Y": "of random arrangement.",
+      "Z": "where magnetic fields are grouped together."
+    },
+    "answer": "Z- WHERE MAGNETIC FIELDS ARE GROUPED TOGETHER"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "When magnetic domains of an object become randomly arranged, the object",
+    "choices": {
+      "W": "gains magnetic properties.",
+      "X": "loses magnetic properties.",
+      "Y": "becomes a north pole.",
+      "Z": "becomes part of a magnetic field."
+    },
+    "answer": "X- LOSES MAGNETIC PROPERTIES"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds has two hydrocarbon groups bonded to an oxygen atom?",
+    "choices": {
+      "W": "alcohol",
+      "X": "amine",
+      "Y": "ketone",
+      "Z": "ether"
+    },
+    "answer": "Z- ETHER"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Compounds with an oxygen atom bonded to two hydrocarbon groups generally have boiling temperatures below that of",
+    "choices": {
+      "W": "alcohols.",
+      "X": "hydrocarbons.",
+      "Y": "both alcohols and hydrocarbons.",
+      "Z": "neither alcohols nor hydrocarbons."
+    },
+    "answer": "W- ALCOHOLS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The reflection of sunlight is very dependent upon the reflection from a celestial body's surface and cloud cover. This measurement is called",
+    "choices": {
+      "W": "albedo.",
+      "X": "vertigo.",
+      "Y": "earthlight.",
+      "Z": "sunlight."
+    },
+    "answer": "W- ALBEDO"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The term \blue moon\ refers to",
+    "choices": {
+      "W": "halos of reflecting light surrounding the moon.",
+      "X": "second occurrence of a full moon during a single month.",
+      "Y": "the light spectra influencing the moon viewing.",
+      "Z": "the fact that the moon is made of blue cheese."
+    },
+    "answer": "X- SECOND OCCURRENCE OF A FULL MOON DURING A SINGLE MONTH"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In a telephone, the part that changes sound waves into electric current is",
+    "choices": {
+      "W": "the receiver.",
+      "X": "the transmitter.",
+      "Y": "an electromagnet.",
+      "Z": "the switchboard."
+    },
+    "answer": "X- THE TRANSMITTER"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following parts of a telephone have now been replaced by semiconductors?",
+    "choices": {
+      "W": "Carbon grains in the transmitter",
+      "X": "Metal disk in the receiver",
+      "Y": "Electromagnet in the receiver",
+      "Z": "Carbon grains in the transmitter and an electromagnet in the receiver"
+    },
+    "answer": "Z- CARBON GRAINS IN THE TRANSMITTER AND AN ELECTROMAGNET IN THE RECEIVER"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "With respect to the hydrocarbon chain, where is the carbonyl group in an aldehyde located?",
+    "choices": {
+      "W": "in the middle of the chain",
+      "X": "in the interior of the chain",
+      "Y": "anywhere on the chain",
+      "Z": "at the end of the chain"
+    },
+    "answer": "Z- AT THE END OF THE CHAIN"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The number prefix is not used when naming an aldehyde because",
+    "choices": {
+      "W": "all aldehydes have the same composition.",
+      "X": "only one aldehyde is known to exist.",
+      "Y": "the carbonyl group is always at the end of the chain.",
+      "Z": "the functional group is free to move along the chain."
+    },
+    "answer": "Y- THE CARBONYL GROUP IS ALWAYS AT THE END OF THE CHAIN"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What phyla consists of five classes, including insects and arachnids?",
+    "answer": "ARTHROPODA"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In human beings, brown eyes are usually dominant over blue eyes. Suppose that a blue-eyed man marries a brown-eyed woman whose father is blue-eyed. By the laws of chance, how many of their four offspring should be blue-eyed?",
+    "answer": "2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What forms when streams enter bodies of standing water, undergo an abrupt loss of velocity, and drop their load of sediment?",
+    "choices": {
+      "W": "Alluvial fans",
+      "X": "Taluscones",
+      "Y": "Vases",
+      "Z": "Deltas"
+    },
+    "answer": "Z- DELTAS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The process of converting sediment into sedimentary rock is termed",
+    "answer": "LITHIFICATION"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The functional group that identifies an ester is similar to the carboxyl group except that the hydrogen of the carboxyl group is replaced by a",
+    "choices": {
+      "W": "hydrocarbon group.",
+      "X": "hydroxyl group.",
+      "Y": "carbonyl group.",
+      "Z": "halogen group."
+    },
+    "answer": "W- HYDROCARBON GROUP"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The IUPAC name for formaldehyde is",
+    "choices": {
+      "W": "methanone.",
+      "X": "acetal.",
+      "Y": "methanol.",
+      "Z": "propanone."
+    },
+    "answer": "Y- METHANAL"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In 1798, Count Rumford used the scientific method to prove that",
+    "choices": {
+      "W": "heat is a substance.",
+      "X": "heat is caloric.",
+      "Y": "heat is not a substance.",
+      "Z": "objects in motion do not produce heat."
+    },
+    "answer": "Y- HEAT IS NOT A SUBSTANCE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The relationship between heat and motion was investigated by",
+    "choices": {
+      "W": "Rumford.",
+      "X": "Kelvin.",
+      "Y": "Joule.",
+      "Z": "Celsius."
+    },
+    "answer": "Y- JOULE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for the accumulation of organic matter in lakes due to overfertilization by minerals from the land?",
+    "answer": "EUTROPHICATION"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for mimicry when a harmless or defenseless species has developed identical shape, coloration, or other features similar to a poisonous or noxious species?",
+    "answer": "BATESIAN"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Biological catalyst proteins are called",
+    "choices": {
+      "W": "nucleic acids.",
+      "X": "phospholipids.",
+      "Y": "vitamins.",
+      "Z": "enzymes."
+    },
+    "answer": "Z- ENZYMES"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The scientific name for milk sugar is",
+    "choices": {
+      "W": "glucose.",
+      "X": "lactose.",
+      "Y": "ribose.",
+      "Z": "cellulose."
+    },
+    "answer": "X- LACTOSE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A number that can be expressed in the form p/q, where p and q are integers and q is not equal to zero, is a",
+    "choices": {
+      "W": "integer.",
+      "X": "irrational number.",
+      "Y": "imaginary number.",
+      "Z": "rational number."
+    },
+    "answer": "Z- RATIONAL NUMBER"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many distinct ways are there to paint a cube with six different colors without painting two faces with the same color?",
+    "answer": "30"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "A satellite above the earth's equator, at a distance of 22,300 miles, will appear stationary from the ground and we say it is in",
+    "choices": {
+      "W": "parallel orbit.",
+      "X": "accelerating orbit.",
+      "Y": "ecliptic orbit.",
+      "Z": "geosynchronous orbit."
+    },
+    "answer": "Z- GEOSYNCHRONOUS ORBIT"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The Hubble Space Telescope has the advantage

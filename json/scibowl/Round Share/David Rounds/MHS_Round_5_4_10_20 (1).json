@@ -1,0 +1,490 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Approximately how many times greater is the electric field due to a Helium atom with charge $+1$ than a Hydrogen atom with charge $+1$ ?",
+    "choices": {
+      "W": "2",
+      "X": "4",
+      "Y": "8",
+      "Z": "16"
+    },
+    "answer": "Y) 8"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the maximal angle of an incline, in degrees, such that a box on the incline doesn't slip given that the coefficient of static friction is $\\qrt{3}/3$?",
+    "answer": "30"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name all of the following three rocks that would form an effective aquitard: 1) Shale; 2) Breccia; 3) Pumice.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "White Asbestos, a naturally occurring crystal also known as chrysolite, is known as a cancer inducing agent, especially when inhaled. This is due to it having which of the following structure?",
+    "choices": {
+      "W": "Tetrahedral",
+      "X": "Needle-like",
+      "Y": "Triclinic",
+      "Z": "Granular"
+    },
+    "answer": "X) NEEDLE-LIKE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following options would oxidize 1-butanol into butanoic acid the quickest.",
+    "choices": {
+      "W": "Pyrimidine Chlorochromate",
+      "X": "Chromic acid",
+      "Y": "Tosylate",
+      "Z": "Sodium Borohydride"
+    },
+    "answer": "X) CHROMIC ACID"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true regarding Grignard reagents: 1) They are nucleophilic; 2) They can cleave carbon-oxygen bonds in an ester; 3) They react with nitro groups to form Amides.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following depiction of protein structure shows secondary structure the best?",
+    "choices": {
+      "W": "Ribbon",
+      "X": "Backbone",
+      "Y": "Wire",
+      "Z": "Space-filling"
+    },
+    "answer": "W) RIBBON"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 hormones that are cholesterol derivatives: 1) Glucocorticoid; 2) Calcitonin; 3) Insulin.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The positive difference between two consecutive perfect squares is 35. What is the value of the larger square?",
+    "answer": "324"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the hands of a working clock move continuously, how many times per day are the hour and minute hands perpendicular to each other?",
+    "answer": "44"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the resonant angular frequency, in radians per second of an LC circuit with a capacitance of 5 millifarads, and an inductance of 20 millihenrys?",
+    "answer": "100"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How many times greater is the electric field close to a conductor than a sheet of charge, given they have the same surface charge density?",
+    "answer": "2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Yardangs, a form of ventifact, are formed via erosion by which process:",
+    "choices": {
+      "W": "Abrasion",
+      "X": "Water",
+      "Y": "Solifluction",
+      "Z": "Wind"
+    },
+    "answer": "Z) Wind"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "List the following 3 types of coal that correspond to the correct location that they can be readily found. 1) Anthracite in Central Germany; 2) Anthracite in the Rocky Mountains; 3) Peat coal in the Australian Outback.",
+    "answer": "2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 species in order of increasing standard reduction potential: 1) F2; 2) 2H+; 3) Cl2",
+    "answer": "2,3,1"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 compounds that are considered internal alkynes: 1) Methylacetylene; 2) Diisopropyl Acetylene; 3) Phenylpropyl Acetylene.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements of the protein family, serine proteases, is NOT correct?",
+    "choices": {
+      "W": "They all enzymatically cleave the same protein.",
+      "X": "They all contain similar three-dimensional conformations.",
+      "Y": "They all have very similar primary structures.",
+      "Z": "They are all catalytic enzymes."
+    },
+    "answer": "W) THEY ALL ENZYMATICALLY CLEAVE THE SAME PROTEIN."
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "List the following four structures from the most lateral to the most medial in a woody eudicot stem: 1) Primary Xylem 2) Primary Phloem 3) Secondary Xylem 4) Secondary Phloem",
+    "choices": {
+      "W": "4, 2, 3, 1",
+      "X": "1, 2, 3, 4",
+      "Y": "3, 2, 1, 4",
+      "Z": "2, 4, 1, 3"
+    },
+    "answer": "4, 2, 3, 1 (ACCEPT: Secondary Phloem, Primary Phloem, Secondary Xylem, Primary Xylem)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about triangles is not correct?",
+    "choices": {
+      "W": "The sum of the exterior angles is twice the sum of the interior angles of the triangles",
+      "X": "The circumradius must be greater than or equal to twice the inradius",
+      "Y": "Drawing the medians of each side of a triangle splits the triangle into 6 equal areas",
+      "Z": "The area of a triangle is equal to the inradius times the perimeter of the triangle"
+    },
+    "answer": "Z) The area of a triangle is equal to the inradius times the perimeter of the triangle"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the infinite sum of 1 over 1 factorial minus 2 over 2 factorial plus 4 over 3 factorial, minus 8 over 4 factorial, etc, where the numerators are integer powers of two.",
+    "answer": "E TO THE MINUS 2 (ACCEPT ONE OVER E SQUARED)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Quantum Chromodynamics exhibits two properties. Name both of them.",
+    "choices": {
+      "W": "Color Confinement, Asymptotic Freedom",
+      "X": "Confinement, Asymptotic Freedom",
+      "Y": "Color Confinement, Infrared Freedom",
+      "Z": "None of the above"
+    },
+    "answer": "COLOR CONFINEMENT AND ASYMPTOTIC FREEDOM"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In extremely small spherical objects such as raindrops, an approximation for the force of air resistance is proportional to velocity to what power?",
+    "answer": "1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Glaciers can form all of the following except:",
+    "choices": {
+      "W": "Chatter Marks",
+      "X": "Rock Flour",
+      "Y": "Tombolo",
+      "Z": "Arête (pronounced ah- ret)"
+    },
+    "answer": "Y) Tombolo"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What track is followed by protostars as they follow the HR Diagram and relates temperature and luminosity.",
+    "answer": "HAYASHI TRACK"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What evolutionary factor is primarily responsible for producing adaptive evolutionary changes?",
+    "choices": {
+      "W": "Random Mutation",
+      "X": "Natural Selection",
+      "Y": "Emigration",
+      "Z": "Genetic drift"
+    },
+    "answer": "X) NATURAL SELECTION"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In an isometric contraction of a skeletal muscle, the force of contraction cannot be altered by:",
+    "choices": {
+      "W": "Changing the resting length of the muscle.",
+      "X": "Increasing stimulation frequency.",
+      "Y": "Increasing the number of sarcomeres in parallel in the muscle",
+      "Z": "Increasing the number of sarcomeres in series in the muscle."
+    },
+    "answer": "Z) INCREASING THE NUMBER OF SARCOMERES IN SERIES IN THE MUSCLE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 solvents that would be favored in an SN2 reaction pathway: 1) DMSO; 2) EtSH; 3) THF",
+    "answer": "1, 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the overall order of the reaction with elementary reactions: A plus B yields C slowly, and C+B is in equilibrium with D quickly.",
+    "answer": "2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the remainder when 19 to the tenth power is divided by 11?",
+    "choices": {
+      "W": "1",
+      "X": "5",
+      "Y": "8",
+      "Z": "10"
+    },
+    "answer": "W) 1"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "You have 2 types of coins, 7-cent coins, and 11-cent coins. You go to a store that sells pencils and you realize that you cannot buy a pencil without the cashier having to give you change. What is the number of possible positive-integer values that could represent the cost of a pencil?",
+    "answer": "30"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What theorem in Physics states that no particle can be in stable equilibrium under the action of electrostatic forces alone?",
+    "answer": "Earnshaw's Theorem"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "How much torque is experienced by an electric dipole with a positive charge and negative charge of magnitude 10 coulombs each, separated by 1 meter, given that the uniform electric field of 10 newtons per coulomb is pointing 30 degrees counterclockwise from the dipole?",
+    "choices": {
+      "W": "- 5sqrt3",
+      "X": "- 5",
+      "Y": "5",
+      "Z": "5sqrt3"
+    },
+    "answer": "Y) 5"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What process is defined as the transformation of a substance that turns into a glass..",
+    "answer": "VITRIFICATION"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding the reaction of an alkene with osmium tetroxide and sodium hydrogen sulfide is NOT true.",
+    "choices": {
+      "W": "It is a syn addition",
+      "X": "It is a dihydroxylation reaction",
+      "Y": "Sodium hydrogen sulfide breaks down cyclic osmium compounds",
+      "Z": "It has an osmonium ion intermediate."
+    },
+    "answer": "Z) IT HAS AN OSMONIUM ION INTERMEDIATE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a means of endocytosis?",
+    "choices": {
+      "W": "Pinocytosis",
+      "X": "Potocytosis",
+      "Y": "Macrocytosis",
+      "Z": "Phagocytosis"
+    },
+    "answer": "Y) MACROCYTOSIS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 mechanisms that are methods of transport in plants: 1) Cohesion-Tension Mechanism 2) Concentration-Reduction Mechanism 3) Recurrent Osmosis Mechanism.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following defines the space between stars and other celestial bodies:",
+    "choices": {
+      "W": "Interstellar Medium",
+      "X": "Vacuum",
+      "Y": "Stardust",
+      "Z": "Molecular Cloud"
+    },
+    "answer": "W) Interstellar Medium"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A playa lake can be found at which regularity:",
+    "choices": {
+      "W": "Year- Round",
+      "X": "None of the year",
+      "Y": "Part of the year",
+      "Z": "Whenever there's snowfall"
+    },
+    "answer": "Y) PART OF THE YEAR"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What type of Diophantine Equation is x squared minus d y squared equals 1?",
+    "answer": "PELL'S EQUATIONS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "On a given day, the probability that it snows given that school is canceled is 1/2. The probability that it snows is 1/4 and the probability that school is canceled is 1/3 given that it snows that day. What is the probability that on that day, school is canceled?",
+    "answer": "1/6"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is not true regarding the diseases diabetes insipidus and type 1 Diabetes Mellitus:",
+    "choices": {
+      "W": "Both diseases are caused by the malfunction of the islets of Langerhans.",
+      "X": "Both diseases increase the amount of urine secretion of the human.",
+      "Y": "Both diseases can lead to the degradation of vision.",
+      "Z": "Type 1 diabetes mellitus is tested by blood glucose levels, while insipidus is tested by blood sodium levels."
+    },
+    "answer": "W) BOTH DISEASES ARE CAUSED BY THE MALFUNCTION OF THE PANCREATIC ISLETS."
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Given the data points of arterial blood, which of the following statements are true about the patient: $\\athrm{pH} = 7.31$ , Pressure of $\\athrm{CO2} = 35$ milimeters of Mercury, and Bicarbonate concentration $= 17$ miliequivalent per liter:",
+    "answer": "Z) PARTIALLY COMPENSATED METABOLIC ACIDOSIS."
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following statements that are true about reversible processes: 1) dG must be zero; 2) Cleavage reactions are generally reversible; 3) Reversible reactions proceed towards equilibrium.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Rank the following 3 molecules from least to greatest in terms of degree of unsaturation: 1) Cubane; 2) Acetonitrile; 3) Cyclohexane",
+    "choices": {
+      "W": "3, 2, 1",
+      "X": "1, 2, 3",
+      "Y": "2, 3, 1",
+      "Z": "1, 3, 2"
+    },
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For the set of numbers {5,10,15,20,25} rank the following 4 means from least to greatest: 1) Arithmetic; 2) Geometric; 3) Harmonic; 4) Quadratic.",
+    "answer": "3, 2, 1, 4"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many 2 digit numbers have a sum of digits of a perfect square?",
+    "answer": "17"
+  }
+]

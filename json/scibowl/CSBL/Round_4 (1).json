@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the speed of a 5-kilogram particle with a kinetic energy of 10 joules?",
+    "answer": "$2$ METERS PER SECOND"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quantities has the same units as energy?",
+    "choices": {
+      "W": "Torque",
+      "X": "Angular momentum",
+      "Y": "Acceleration",
+      "Z": "Mass"
+    },
+    "answer": "W) TORQUE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a grassland ecosystem, primary producers absorb a total of 10,000 kilojoules of light energy and use 4,000 kilojoules of energy on cellular respiration. What is the net primary production of this ecosystem?",
+    "answer": "$6000$ KILOJOULES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Known as the ‘pacemaker’ of the heart, what node in the heart initiates atrial contraction?",
+    "answer": "SINOATRIAL NODE (ACCEPT: SA NODE)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Earth's inner core is primarily composed of iron and what other element?",
+    "answer": "NICKEL"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Pulsations of Cepheid variable stars are primarily caused by changes in which of the following quantities?",
+    "choices": {
+      "W": "Temperature",
+      "X": "Radius",
+      "Y": "Distance to Earth",
+      "Z": "Orientation"
+    },
+    "answer": "X) RADIUS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of the base-6 number 34 in base 10?",
+    "answer": "$22$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the degree measure of the acute angle formed by the hands of an analog clock at 3:30 pm?",
+    "answer": "$75^\\irc$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What term describes an unstable solution in which an excess amount of solute is dissolved?",
+    "answer": "SUPERSATURATED (DO NOT ACCEPT: SATURATED)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the only element that cannot form a solid under atmospheric pressure?",
+    "answer": "HELIUM"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the Princeton Plasma Physics Laboratory are using their knowledge of fusion to develop a solution for chronic shortages of Technetium-99 for medical exams. Technetium-99 is produced by the radioactive decay of Molybdenum-99. This is an example of which of the following types of radioactive decay?",
+    "choices": {
+      "W": "Alpha",
+      "X": "Beta",
+      "Y": "Gamma",
+      "Z": "Delta"
+    },
+    "answer": "X) BETA"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the Princeton Plasma Physics Laboratory are studying nuclear fusion in the National Spherical Torus Experiment. The researchers used what type of magnetic confinement device that is typically used in fusion?",
+    "answer": "TOKAMAK"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that are considered thermodynamic path functions: 1) Entropy; 2) Work; 3) Volume.",
+    "answer": "$2$ ONLY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What effect causes high frequency alternating current to become concentrated near the surface of a conductor, increasing its effective resistance?",
+    "answer": "SKIN EFFECT"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is considered a biotic factor?",
+    "choices": {
+      "W": "Temperature",
+      "X": "Precipitation",
+      "Y": "Disease prevalence",
+      "Z": "Amount of sunlight"
+    },
+    "answer": "Y) DISEASE PREVALENCE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements is NOT found in thyroxine?",
+    "choices": {
+      "W": "Carbon",
+      "X": "Nitrogen",
+      "Y": "Iodine",
+      "Z": "Sulfur"
+    },
+    "answer": "Z) SULFUR"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What phenomenon occurs when an object’s orbital period is equal to its rotational period?",
+    "answer": "TIDAL LOCKING"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following was one of the greatest challenges for early planetary models prior to the heliocentric model?",
+    "choices": {
+      "W": "The Earth’s shape was not thought to be round",
+      "X": "The Earth’s rotation was not understood",
+      "Y": "Some planets appear to move backwards through the sky",
+      "Z": "Telescopes were not built to track planets precisely"
+    },
+    "answer": "Y) SOME PLANETS APPEAR TO MOVE BACKWARDS THROUGH THE SKY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In degrees, what is the measure of an exterior angle of a regular pentagon?",
+    "answer": "$72$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A triangle has side lengths of 3, 4, and 5. What is the length of the altitude to the side with length 5?",
+    "answer": "$\\rac{12}{5}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What law, used in the Born-Haber cycle, states that the total enthalpy change of a reaction is the same regardless of the intermediate steps in the reaction?",
+    "answer": "HESS'S LAW"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true regarding reduction-oxidation reactions?",
+    "choices": {
+      "W": "The reducing agent loses electrons, undergoing reduction",
+      "X": "The reducing agent loses electrons, undergoing oxidation",
+      "Y": "The oxidizing agent loses electrons, undergoing reduction",
+      "Z": "The oxidizing agent loses electrons, undergoing oxidation"
+    },
+    "answer": "X) THE REDUCING AGENT LOSES ELECTRONS, UNDERGOING OXIDATION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at SLAC National Accelerator Laboratory are looking for dark photons. These particles could mediate forces in what type of exotic matter, which is believed to hold galaxies together?",
+    "answer": "DARK MATTER (DO NOT ACCEPT: DARK ENERGY)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at SLAC National Accelerator Laboratory are using the Linac Coherent Light Source. The scientists collected evidence for the precipitation of what allotrope of carbon in gas giants by recreating their extreme environments?",
+    "answer": "DIAMOND"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Rank the following four particles by increasing rest mass: 1) Electron; 2) Photon; 3) Proton; 4) Neutron.",
+    "answer": "$2, 1, 3, 4$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A string has tension T and wave velocity v. If the tension in the string is multiplied by 4 and the length is doubled, then by what factor will the wave velocity in the string be multiplied by?",
+    "answer": "$2$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What hormone causes an increase in aquaporins in the collecting duct of nephrons, resulting in water reabsorption?",
+    "answer": "ANTIDIURETIC HORMONE (ACCEPT: ADH; VASOPRESSIN)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Malpighian tubules can be found in which of the following organisms?",
+    "choices": {
+      "W": "Fruit fly",
+      "X": "Earthworm",
+      "Y": "Flatworm",
+      "Z": "Starfish"
+    },
+    "answer": "W) FRUIT FLY"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of magma is the hottest?",
+    "choices": {
+      "W": "Basaltic",
+      "X": "Andesitic",
+      "Y": "Rhylitic",
+      "Z": "Slatic"
+    },
+    "answer": "W) BASALTC"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true regarding the variations in density and temperature in high and low latitude ocean waters?",
+    "choices": {
+      "W": "In low latitude waters, a thermocline is present but a pycnocline is not",
+      "X": "In high latitude waters, a thermocline is not present, but a pycnocline is present",
+      "Y": "In low latitude waters, both a thermocline and a pycnocline are present",
+      "Z": "Both low latitude and high latitude waters have a thermocline and a pycnocline"
+    },
+    "answer": "Y) IN LOW LATITUDE WATERS, BOTH A THERMOCLINE AND A PYCNOCLINE ARE PRESENT"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many real roots does the polynomial $x^{4} + 1$ have?",
+    "answer": "$0$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the remainder when 8! [8 factorial] is divided by 11?",
+    "answer": "$5$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about entropy is FALSE?",
+    "choices": {
+      "W": "Liquids generally have higher entropy than solids",
+      "X": "Gases generally have higher entropy than liquids",
+      "Y": "Polyatomic gases generally have less entropy than monatomic gases",
+      "Z": "Standard entropy is calculated at $25^\\irc$ celsius"
+    },
+    "answer": "Y) POLYATOMIC GASES GENERALLY HAVE LESS ENTROPY THAN MONATOMIC GASES"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Ascorbic acid has the chemical formula $\\athrm{C_6H_8O_6}$ . To the nearest gram, what is the molar mass of ascorbic acid?",
+    "answer": "$176$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Thomas Jefferson National Lab are using the Continuous Electron Beam Accelerator Facility, or CEBAF, to study the Standard Model. They are using the CEBAF to test what theory, which governs the strong interaction between quarks and gluons?",
+    "answer": "QUANTUM CHROMODYNAMICS (ACCEPT: QCD)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Thomas Jefferson National Lab are using the Continuous Electron Beam Accelerator Facility to study potential parity violations in electron scattering. Identify all of the following three symmetry violations that the scientists have detected: 1) C; 2) CP; 3) CPT.",
+    "answer": "$1$ AND $2$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A 5-kilogram ball has a position given by $x = t^{1.5}$ . What is the velocity of the ball at $t = 4$ ?",
+    "choices": {
+      "W": "3",
+      "X": "6",
+      "Y": "8",
+      "Z": "12"
+    },
+    "answer": "W) $3$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The beta-minus decay of a neutron produces a proton, an electron, and what other particle?",
+    "answer": "NEUTRINO (ACCEPT: ANTINEUTRINO; ELECTRON ANTINEUTRINO)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pairs of hormones do NOT have opposite effects?",
+    "choices": {
+      "W": "Glucagon and insulin",
+      "X": "Aldosterone and atrial natriuretic peptide",
+      "Y": "Parathyroid hormone and calcitonin",
+      "Z": "Estradiol and testosterone"
+    },
+    "answer": "Z) ESTRADIOL AND TESTOSTERONE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Hibernation is an example of what physiological state of decreased activity and metabolism?",
+    "answer": "TORPOR"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for an informal group of stars that is typically smaller than a constellation?",
+    "answer": "ASTERISM"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following four minerals by increasing hardness on the Mohs hardness scale: 1) Gypsum; 2) Corundum; 3) Quartz; 4) Feldspar.",
+    "answer": "$1, 4, 3, 2$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions is NOT differentiable at $x = 0$ ?",
+    "choices": {
+      "W": "The absolute value of $x$",
+      "X": "$\\in (x)$",
+      "Y": "$\\os (x)$",
+      "Z": "$e^{x}$"
+    },
+    "answer": "W) THE ABSOLUTE VALUE OF $X$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many values of $x$ in the closed interval $[0, 2\\i ]$ satisfy the equation $\\os (x) = \\os (2x)$ ?",
+    "answer": "$4$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following acids is the strongest?",
+    "choices": {
+      "W": "Hypochlorous acid",
+      "X": "Chlorous acid",
+      "Y": "Chloric acid",
+      "Z": "Perchloric acid"
+    },
+    "answer": "Z) PERCHLORIC ACID"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Acetic acid has a $\\athrm{K}_{\\athrm{a}}$ of $1.8 * 10^{-5}$ . To the nearest integer, what is the pH of a 0.1 molar acetic acid solution?",
+    "answer": "$3$"
+  }
+]

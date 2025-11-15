@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a photon has a high enough energy, it may spontaneously convert to an electron and a positron. What is the name of this process?",
+    "answer": "PAIR PRODUCTION"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Let c be the speed of light. Particle A, which is traveling at a speed of0.5c in the +x direction, is moving toward particle B, which is traveling at a speed of0.5c in the -x direction. In A's reference frame, what is the speed of particle B?",
+    "choices": {
+      "W": "0.5c",
+      "X": "0.72c",
+      "Y": "0.8c",
+      "Z": "0.96c"
+    },
+    "answer": "Y)0.8c"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What phenomenon occurs when excess root pressure causes droplets of xylem sap to accumulate on the edges of plant leaves?",
+    "answer": "GUTTATION"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three eukaryotic cellular structures which have a “9 +2” arrangement of microtubules:1) Flagella;2) Centrioles;3) Basal body.",
+    "answer": "1 ONLY (ACCEPT: FLAGELLA)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What general term is used to describe any product of condensation or deposition of atmospheric water vapor in the atmosphere or at Earth's surface, such as clouds, fog, rain, snow, or hail?",
+    "answer": "HYDROMETEOR"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the ratio of the number of silicon atoms to the number of oxygen atoms in a pyroxene mineral?",
+    "answer": "1 TO3 (ACCEPT:1/3)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Each interior angle of a regular polygon has a degree measure of156. How many sides does this regular polygon have?",
+    "choices": {
+      "W": "36",
+      "X": "30",
+      "Y": "24",
+      "Z": "15"
+    },
+    "answer": "Z)15"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit as $x$ approaches $\\athrm{pi} /4$ of the fraction with numerator $\\tan (x) -1$ and denominator $x - \\athrm{pi} /4$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What cycle is used to calculate the lattice energy of a crystalline solid using applications of Hess's law?",
+    "answer": "BORN-HABER CYCLE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "At low temperatures where vibrational degrees of freedom can be ignored, what is the constant pressure molar heat capacity of acetylene in terms of the ideal gas constant R?",
+    "answer": "7/2 R (ACCEPT:3.5R)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Northwestern University are using atomic force microscopy to measure the Casimir effect. The Casimir effect arises when two plates are separated by which of the following?",
+    "choices": {
+      "W": "Vacuum",
+      "X": "Superconductor",
+      "Y": "Ferromagnet",
+      "Z": "Strong dielectric"
+    },
+    "answer": "W) VACUUM"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Wagener group at the University of Florida are studying the properties of polymers that contain boronic acids and esters. What is the chemical formula of the acid that boronic acids are derived from, which is the only triprotic boron based oxyacid?",
+    "answer": "$\\athrm{H_3BO_3}$ (ACCEPT: $\\athrm{B(OH)_3}$)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Transformers and motors rely on what effect, where the current from one coil generates a magnetic flux that induces a current in another coil?",
+    "answer": "MUTUAL INDUCTANCE (ACCEPT: MUTUAL INDUCTION; INDUCTANCE; INDUCTION)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A water tank is10 meters tall and is completely filled. A hole is drilled5 meters above the bottom of the tank and water flows out the side. To one significant figure, in meters per second, what is the speed of the water flowing out the side of the tank?",
+    "answer": "10"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Bacteria in the genus Mycoplasma are the only known bacteria to lack what structure?",
+    "answer": "CELL WALL (DO NOT ACCEPT: CELL MEMBRANE)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding cytochrome C is NOT true?",
+    "choices": {
+      "W": "It is found in the inner mitochondrial membrane",
+      "X": "It contains a heme group",
+      "Y": "It is a cofactor in the citric acid cycle",
+      "Z": "It is released into the cytoplasm during apoptosis"
+    },
+    "answer": "Y) IT IS A COFACTOR IN THE CITRIC ACID CYCLE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What paradox in astronomy states that the darkness of the night sky conflicts with the assumption of an infinite, static universe?",
+    "answer": "OLBERS' PARADOX"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What moon of Saturn has the highest albedo?",
+    "answer": "ENCHELADUS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three centers that must always lie inside a triangle:1) Centroid;2) Orthocenter;3) Circumcenter.",
+    "answer": "1 ONLY (ACCEPT: CENTROID)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following chi-squared tests has exactly6 degrees of freedom?",
+    "choices": {
+      "W": "3 rows by2 columns",
+      "X": "8 rows by1 column",
+      "Y": "3 rows by4 columns",
+      "Z": "2 rows by1 column"
+    },
+    "answer": "Y)3 ROWS BY4 COLUMNS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three solvents in terms of increasing rate at which an $\\athrm{S_N2}$ reaction would occur:1) Diethyl ether;2) DMSO;3) Water",
+    "answer": "3,1,2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When redox reactions are carried out, the minimum voltage supplied to make the reaction occur is often greater than the theoretically predicted voltage. What term describes the difference between the practical and theoretical voltage necessary to make a reaction occur?",
+    "answer": "OVERPOTENTIAL"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at UW Madison are studying the Schlosser modification Wittig reaction mechanism, an olefination of a carbonyl functional group. Which of the following statements regarding the carbonyl functional group is NOT true?",
+    "choices": {
+      "W": "Ketones, aldehydes, and carboxylic acids all have the carbonyl functional group.",
+      "X": "An oxygen atom is double bonded to a carbon atom.",
+      "Y": "The carbonyl carbon is sp2 hybridized",
+      "Z": "There is a partial negative charge on the carbon."
+    },
+    "answer": "Z) THERE IS A PARTIAL NEGATIVE CHARGE ON THE CARBON."
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison are studying the depolarization of neurons for patients with multiple sclerosis. Multiple sclerosis is a debilitating disease affecting movement. What specific part of the neuron is affected by multiple sclerosis?",
+    "answer": "MYELIN SHEATH"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What principle says that in the limit of large quantum numbers, quantum physics ‘merges smoothly’ with classical physics?",
+    "answer": "CORRESPONDENCE PRINCIPLE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Order the following3 pendulums in order of increasing period of oscillation:1) Ball on a string of length5 cm;2) Uniform rod of length8 cm;3) Ball on a string of length8 cm.",
+    "answer": "2,1,3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What enzyme, found in red blood cells, synthesizes carbonic acid from water and carbon dioxide?",
+    "answer": "CARBONIC ANHYDRASE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following genuses of bacteria is most likely to cause inflammation of the tonsils?",
+    "choices": {
+      "W": "Staphylococcus",
+      "X": "Streptococcus",
+      "Y": "Streptomyces",
+      "Z": "Bacillus"
+    },
+    "answer": "X) STREPTOCOCCUS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three forms of stellar nucleosynthesis by increasing temperature dependence:1) Proton-proton chain;2) CNO cycle;3) Triple alpha process.",
+    "answer": "1,2,3 (ACCEPT: PROTON-PROTON CHAIN; CNO CYCLE; TRIPLE ALPHA PROCESS)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following classes of substances is dissolved in water vented from black smokers and forms coatings on nearby rocks?",
+    "choices": {
+      "W": "Iron oxides",
+      "X": "Silicates",
+      "Y": "Carbonates",
+      "Z": "Metal sulfides"
+    },
+    "answer": "Z) METAL SULFIDES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the definite integral from0 to $2\\athrm{pi}$ of $\\in (x) - \\os (x)$ with respect to $x$?",
+    "answer": "0"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that log base10 of2 equals0.30 and the log base ten of3 equals0.48, find the value of log base10 of45 to the nearest hundredth.",
+    "answer": "1.66"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The oxidation of a primary alcohol with sodium dichromate in acidic solution results in which of the following functional groups?",
+    "choices": {
+      "W": "Ester",
+      "X": "Aldehyde",
+      "Y": "Carboxylic acid",
+      "Z": "Secondary alcohol"
+    },
+    "answer": "Y) CARBOXYLIC ACID"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Considering resonance effects, what is the hybridization about the nitrogen atom in a secondary amide?",
+    "answer": "$\\athrm{sp}^{2}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Iowa State University are studying the Shine-Dalgarno sequence, a binding site in prokaryotic ribosomes. The70S prokaryotic ribosome is composed of what two other subunits?",
+    "answer": "30S AND50S"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at the University of Chicago are using the Advanced Photon Source to generate X-rays, which can be used to study the internal structure of crystals. Suppose that a beam of light with a wavelength of1 nanometer is shone on a crystal, and the angle at which the maximum constructive interference occurs is45 degrees with respect to the lattice. Which of the following is closest to the lattice separation of the crystal?",
+    "choices": {
+      "W": "0.5 nanometers",
+      "X": "0.7 nanometers",
+      "Y": "1 nanometer",
+      "Z": "1.2 nanometers"
+    },
+    "answer": "X)0.7 NANOMETERS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following particles does NOT obey the Pauli Exclusion principle?",
+    "choices": {
+      "W": "Gluon",
+      "X": "Electron",
+      "Y": "Proton",
+      "Z": "Positron"
+    },
+    "answer": "W) GLUON"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "SQUIDs are devices that rely on the Josephson effect to measure extremely sensitive magnetic fields. They typically consist of two of what type of material separated by a weak link?",
+    "answer": "SUPERCONDUCTOR"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following techniques could be used to detect for the presence of collagen?",
+    "choices": {
+      "W": "Northern blot",
+      "X": "Western blot",
+      "Y": "Eastern blot",
+      "Z": "Southern blot"
+    },
+    "answer": "X) WESTERN BLOT"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What viscous fluid helps reduce friction between the cartilage of joints during movement?",
+    "answer": "SYNOVIAL FLUID"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Pyroxenes are inosilicates that contain chains of silica tetrahedra. Indicating sign, what is the charge of the silicate ion in pyroxenes?",
+    "answer": "2-"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the region of the Atlantic ocean that has no land boundaries, but is instead bound by four oceanic surface currents?",
+    "answer": "SARGASSO SEA"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Suppose the number one-six-nine in base b is equal to400 in base10. What is the value of b?",
+    "choices": {
+      "W": "15",
+      "X": "17",
+      "Y": "18",
+      "Z": "20"
+    },
+    "answer": "X)17"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Quadrilateral ABCD has side lengths of3,9,7, and x, in that order, and it is known that a circle can be inscribed inside ABCD. What is the value of x, the length of the fourth side?",
+    "answer": "1"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The change in which of the following quantities equals the heat transferred to a system under constant volume?",
+    "choices": {
+      "W": "Enthalpy",
+      "X": "Internal energy",
+      "Y": "Work",
+      "Z": "Helmholtz free energy"
+    },
+    "answer": "X) INTERNAL ENERGY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When a solution of silver diamine nitrate, also known as Tollens' reagent, is added to a solution of an unknown organic compound, a silver mirror appears. Which of the following functional groups is most likely to be part of the unknown organic compound?",
+    "choices": {
+      "W": "Nitrile",
+      "X": "Amide",
+      "Y": "Aldehyde",
+      "Z": "Ketone"
+    },
+    "answer": "Y) ALDEHYDE"
+  }
+]

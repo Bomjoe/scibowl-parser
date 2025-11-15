@@ -1,0 +1,506 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why $\\athrm{H}_2\\athrm{O}$ absorbs infrared light but $\\athrm{O}_2$ does not?",
+    "choices": {
+      "W": "$\\athrm{H}_2\\athrm{O}$ has no net dipole moment while $\\athrm{O}_2$ does",
+      "X": "$\\athrm{H}_2\\athrm{O}$ exhibits hydrogen bonding while $\\athrm{O}_2$ does not",
+      "Y": "$\\athrm{H}_2\\athrm{O}$ can vibrate asymmetrically while $\\athrm{O}_2$ cannot",
+      "Z": "$\\athrm{H}_2\\athrm{O}$ has single bonds while $\\athrm{O}_2$ has double bonds"
+    },
+    "answer": "Y) $\\athrm{H}_2\\athrm{O}$ can vibrate asymmetrically while $\\athrm{O}_2$ cannot"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Many biological weapons utilize gram positive bacteria and their spores to cause damage to large populations. Which of the following examples of such dangerous bacteria is NOT gram positive?",
+    "choices": {
+      "W": "Clostridium botulinum",
+      "X": "Bacillus anthrax",
+      "Y": "Staphylococcus Aureus",
+      "Z": "Mycobacterium tuberculosis"
+    },
+    "answer": "Z) Mycobacterium tuberculosis"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of the largest inscribed circle in a semicircle with radius 1?",
+    "answer": "$\\rac{\\i}{4}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the squares of the roots of the quadratic $y = x^{2} - 7x - 9$?",
+    "answer": "67"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What simple alcohol is formed by the catalytic hydrogenation of carbon dioxide?",
+    "answer": "Methanol"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three ions by increasing Kb [k-b]: 1) Acetate; 2) Sulfate; 3) Iodide.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What isotope of hydrogen may be used to track the ages of water masses in the oceans due to its recent increase in abundance as a result of nuclear weapons testing?",
+    "answer": "Tritium"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three climate proxies that could be suitable as temperature proxies for the Mesozoic era: 1) Oxygen isotope data from siliceous oozes; 2) Oxygen isotope data from ice cores; 3) Oxygen isotope data from calcareous oozes.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A plant produces flowers that are white and have a sweet fragrance. Which of the following organisms would most likely pollinate this flower?",
+    "choices": {
+      "W": "Bird",
+      "X": "Fly",
+      "Y": "Moth",
+      "Z": "Bee"
+    },
+    "answer": "Y) Moth"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three features that are never found in eudicots [YOO-dih-kots]: 1) Coleoptile [koh-lee-OP-tuhl]; 2) Two cotyledons; 3) Parallel venation.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which of Maxwell's equations is fundamental to how transformers and many types of electric motors, generators, and solenoids work?",
+    "answer": "Faraday's law of induction (ACCEPT: Faraday's law)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What capacitance, in farads, is required to store an energy of 10 kilowatt-hours at a potential difference of 1000 volts?",
+    "answer": "72"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Asteroid mining may become useful as Earth's natural resources become increasingly depleted. Which of the following processes best explains why valuable heavy metals common in asteroids are not common on Earth's surface?",
+    "choices": {
+      "W": "Subduction",
+      "X": "Differentiation",
+      "Y": "Radioactive decay",
+      "Z": "Oxidation"
+    },
+    "answer": "X) Differentiation"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "The lab leak theory of the origins of COVID-19 speculates that the virus originated from what type of research, concerned with giving new properties to pathogens?",
+    "answer": "Gain-of-function research"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following values of $x$ satisfies the equation $3^{x} = 2$?",
+    "choices": {
+      "W": "$\\rac{\\n(2)}{\\n(3)}$",
+      "X": "$\\rac{\\n(3)}{\\n(2)}$",
+      "Y": "$\\n (3)$",
+      "Z": "$\\n (2)$"
+    },
+    "answer": "W) $\\rac{\\n(2)}{\\n(3)}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a simplified football game, players score 3 points from a field goal or 6 points by scoring a touchdown, then potentially 0 or 1 points directly following a touchdown. What is the highest number of points that is impossible for a team to score?",
+    "answer": "11"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "According to kinetic molecular theory, which of the following is true about a particle in an ideal gas?",
+    "choices": {
+      "W": "The particle's energy only changes following collisions",
+      "X": "The particle's volume only changes after collisions",
+      "Y": "The particle's speed only changes following collisions",
+      "Z": "The direction of the particle's motion only changes following collisions"
+    },
+    "answer": "Z) The direction of the particle's motion only changes following collisions"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When potassium is combusted in the ambient atmosphere, what compound is predominantly formed?",
+    "answer": "Potassium superoxide (Accept: $\\athrm{KO}_2$)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Millisecond pulsars spin extremely fast, at rates of up to around 600 times a second. What process is thought to be responsible for the fast rotation of millisecond pulsars, as opposed to other types of pulsars?",
+    "choices": {
+      "W": "Gravitational collapse of the star during supernova",
+      "X": "Radioactive decay of nickel on the surface",
+      "Y": "Fluid outer core",
+      "Z": "Accretion from a binary companion"
+    },
+    "answer": "Z) Accretion from a binary companion"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "How does a star's metallicity change as it evolves along the main sequence, neglecting any addition or emission from solar wind or interstellar particles?",
+    "choices": {
+      "W": "Increases",
+      "X": "Decreases",
+      "Y": "Stays the same",
+      "Z": "Variable based on the mass of the star"
+    },
+    "answer": "Y) Stays the same"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Neurofibrillary [nuhr-oh-FY-bruh-lair-ee] tangles present in the brains of Alzheimer's patients are composed of what protein?",
+    "answer": "Tau protein"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During SDS-PAGE, dithiothreitol [die-thy-oh-THREE-uh-tol] or beta-mercaptoethanol [muhr-cap-tow-ETH-uh-nahl] is used to destroy what type of tertiary interactions in proteins?",
+    "answer": "Disulfide bonds"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The formula for the Heisenberg uncertainty principle states that the uncertainty of a given particle's position times the uncertainty of that particle's momentum has to be greater than or equal to Planck's constant over which of the following?",
+    "choices": {
+      "W": "$\\i$",
+      "X": "$2\\i$",
+      "Y": "$4\\i$",
+      "Z": "$4\\i^{2}$"
+    },
+    "answer": "Y) $4\\i$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The de Broglie wavelength of a particle is dependent on what power of the energy of the particle's motion?",
+    "answer": "$- \\rac{1}{2}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Freeway widening projects usually do not alleviate traffic congestion in the long run because residents are encouraged to drive more. What concept is this phenomenon an example of?",
+    "answer": "Induced demand (ACCEPT: Induced utilization)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "A greedy algorithm is an example of what type of approach that gives approximate solutions to a problem in a relatively short time?",
+    "choices": {
+      "W": "Heuristic [hyur-IS-tic]",
+      "X": "Algorithm",
+      "Y": "Protocol",
+      "Z": "Optimization"
+    },
+    "answer": "W) Heuristic"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The equation $x^{2} + y^{2} = r^{2}$ is the general equation for describing a circle in a plane. What would be the resulting shape if the circle was projected onto all planes parallel to the original plane?",
+    "choices": {
+      "W": "Cone",
+      "X": "Cylinder",
+      "Y": "Ellipse",
+      "Z": "Sphere"
+    },
+    "answer": "X) Cylinder"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Express $\\rac{1}{\\qrt{5} - 1}$ in simplified radical form.",
+    "answer": "$\\rac{\\qrt{5} + 1}{4}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the hybridization of carbon in $\\athrm{CHCl}_3$?",
+    "answer": "$sp^3$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three metals that violate the Aufbau [OF-bow] principle in their ground state: 1) Copper; 2) Technetium [tec-NEE-shee-um]; 3) Gold.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What type of soils would be expected in areas with permafrost?",
+    "choices": {
+      "W": "Aridisol [uh-RID-uh-sol]",
+      "X": "Gelisol",
+      "Y": "Ultisol",
+      "Z": "Oxisol"
+    },
+    "answer": "X) Gelisol"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Most sulfur in the ocean is found as part of what sulfur-containing ion?",
+    "answer": "Sulfate (ACCEPT: Inorganic sulfate)"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The Islets [EYE-lits] of Langerhans [LAN-gur-hanz] are found within what gland of the body?",
+    "answer": "Pancreas"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "David is crossing two pea plants that show Mendelian inheritance for height and pea color. Green peas are dominant to yellow peas, and tall plants are dominant to short plants. However, all plants that are both yellow and tall die. If a true breeding yellow and short plant is crossed with a true breeding green and tall plant, what proportion of the surviving offspring will be green?",
+    "answer": "$100\\$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What force mediates the decay of a proton into a neutron while simultaneously forming a positron and electron neutrino?",
+    "answer": "Weak nuclear (ACCEPT: Weak)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An aircraft goes supersonic, forming a shockwave. What shape does the shockwave form as it approaches flat ground?",
+    "choices": {
+      "W": "Circle",
+      "X": "Ellipse",
+      "Y": "Hyperbola",
+      "Z": "Parabola"
+    },
+    "answer": "Y) Hyperbola"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Why are graphics processing units commonly used for machine learning instead of CPUs?",
+    "choices": {
+      "W": "They can perform sequential operations faster than CPUs",
+      "X": "They have a longer history of use in high-performance computing than CPUs",
+      "Y": "They can perform more operations in parallel than CPUs",
+      "Z": "They can carry out more types of operations than CPUs"
+    },
+    "answer": "Y) They can perform many operations in parallel"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "The Novavax vaccine was the first COVID-19 vaccine based on protein subunit technology. Which of the following is NOT true about protein subunit vaccines when compared to other types of vaccines?",
+    "choices": {
+      "W": "They are more less than live attenuated vaccines",
+      "X": "They are less likely to elicit an immune response than inactivated vaccines",
+      "Y": "They often do not require booster shots in the future to increase immunization",
+      "Z": "They usually do not use viral capsid proteins"
+    },
+    "answer": "Y) They often do not require booster shots in the future to increase immunization"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many trees are there with 5 indistinguishable nodes?",
+    "answer": "3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The normal distribution is equivalent to a $t$ -distribution with how many degrees of freedom?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "Infinite"
+    },
+    "answer": "Z) Infinite"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following substrates will be alkylated at the heteroatom most quickly under basic conditions?",
+    "choices": {
+      "W": "Primary alcohol",
+      "X": "Primary thiol [THY-all]",
+      "Y": "Tertiary alcohol",
+      "Z": "Tertiary thiol"
+    },
+    "answer": "X) Primary thiol"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three molecules in terms of increasing bond angle: 1) $\\athrm{NH}_3$ ; 2) $\\athrm{PH}_3$ ; 3) $\\athrm{AsH}_3$ .",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "According to Einstein's theory of general relativity, what shape would a universe with a density less than the critical density assume?",
+    "choices": {
+      "W": "Spherical",
+      "X": "Flat",
+      "Y": "Hyperbolic",
+      "Z": "Parabolic"
+    },
+    "answer": "Y) Hyperbolic"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What type of supernovae do Wolf-Rayet stars generally produce?",
+    "choices": {
+      "W": "Type Ia [one-A]",
+      "X": "Type Ib [one-B]",
+      "Y": "Type II-L [two-L]",
+      "Z": "Type II-P [two-P]"
+    },
+    "answer": "X) Type Ib"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Metanephridia [meh-tuh-nuh-FRID-ee-uh] are possessed by members of which of the following phyla?",
+    "choices": {
+      "W": "Arthropoda [arr-thruh-POD-ah]",
+      "X": "Nematoda [NEE-mah-toh-duh]",
+      "Y": "Annelida [ann-uh-LID-uh]",
+      "Z": "Cnidaria [nid-AIR-ee-uh]"
+    },
+    "answer": "Y) Annelida"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding stomata: 1) Transport of potassium into guard cells causes stomatal opening; 2) CAM plants close their stomata during the day; 3) Guard cells decrease in width while stomata open.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What type of radiation results when a charged particle, most commonly an electron, travels through a dielectric medium with a speed greater than light's speed in that medium?",
+    "answer": "Cherenkov radiation"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A current of 4 amperes is present in a circular wire loop of radius 0.5 meters. If a magnetic field of 0.5 teslas was placed such that it intersects the loop at an angle of 30 degrees at every point, what is the magnitude of the magnetic force felt by the wire loop, in newtons?",
+    "answer": "$\\i$"
+  }
+]

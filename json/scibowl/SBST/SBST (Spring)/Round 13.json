@@ -1,0 +1,454 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In the Baeyer-Villiger oxidation, ketones or aldehydes are converted to esters by the addition of a peroxyacid. The oxygen atom can be added to either side of the carbonyl group, depending on the migratory aptitudes of the substituents. Which of the following groups has the greatest migratory aptitude?",
+    "choices": {
+      "W": "Hydrogen",
+      "X": "Tert-butyl",
+      "Y": "Isopropyl",
+      "Z": "Methyl"
+    },
+    "answer": "W) HYDROGEN"
+  },
+  {
+    "question_number": 1,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is the reaction of an aldehyde with two alcohol equivalents. Answer the following three questions regarding the image: 1. What is the name for the unstable intermediate labeled A? 2. Is a pH of 2 or 12 more appropriate for the conditions in the reaction labeled B? 3. Is the oxygen atom in the water molecule labeled C derived from the ketone or the alcohol?",
+    "answer": "1 – HEMIACETAL; 2 – 2; 3 – KETONE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A square ABCD has a side length of 6, and M is the midpoint of side AB. What is the volume of the figure made by rotating AMCD about CD?",
+    "answer": "144\\i"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A modified game of Nim starts with $k$ stones, where $k$ is greater than 0. Each turn, one of two players can either take 3, 5, or 6 stones. The first player to not be able to move loses. Assuming optimal play, what is the 2020th smallest value for $k$ such that the first player wins?",
+    "answer": "3030"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT physiologically promoted by hyperthyroidism?",
+    "choices": {
+      "W": "Gluconeogenesis",
+      "X": "Glycogenolysis",
+      "Y": "Proteolysis",
+      "Z": "Myogenesis"
+    },
+    "answer": "Z) MYOGENESIS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Shown in the image are two plants of the same species. The plant to the left is wild type and the plant to the right has a loss-of-function mutation in the PIN1 gene. What plant hormone is PIN1 most likely involved with?",
+    "answer": "AUXIN"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In oceanography, which of the following dimensionless numbers is most useful for quantifying water stratification?",
+    "choices": {
+      "W": "Reynolds number",
+      "X": "Darcy number",
+      "Y": "Prandtl number",
+      "Z": "Richardson number"
+    },
+    "answer": "Z) RICHARDSON NUMBER"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements about extraterrestrial polyaromatic hydrocarbons, or PAH [P-A-H] that are true: 1) PAH can undergo hydrogenation in the interstellar medium; 2) PAH can be identified via their UV absorption spectra; 3) PAH are rarely found on the surface of interstellar ice grains.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true regarding antiferromagnetism?",
+    "choices": {
+      "W": "Magnetic susceptibility for antiferromagnets always decreases as a function of temperature",
+      "X": "Without an applied magnetic field, every orbiting electron in an antiferromagnet has a magnetic moment in a random direction",
+      "Y": "In higher-dimension models, antiferromagnets have multiple ground states",
+      "Z": "At very low temperatures, neighboring magnetic moments can become skew to each other"
+    },
+    "answer": "W) MAGNETIC SUSCEPTIBILITY FOR ANTIFERROMAGNETS ALWAYS DECREASES AS A FUNCTION OF TEMPERATURE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following particles is an eigenstate of CP?",
+    "choices": {
+      "W": "Omega baryon",
+      "X": "Pi zero meson",
+      "Y": "Sigma zero baryon",
+      "Z": "Neutral kaon"
+    },
+    "answer": "X) PI ZERO MESON"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are studying the effects of iron on oceanic productivity. Identify all of the following three statements about iron fertilization that are true: 1) Most natural iron fertilization in the North Atlantic occurs from wind-deposited dust; 2) Iron is a limiting nutrient for photosynthesis; 3) Almost all of the bioavailable iron is chelated by organic ligands.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 6,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Pacific Northwest National Lab are investigating the rapid oxidation of uranium via laser-induced breakdown spectroscopy. Shown in the image are two elementary reactions for the formation of uranium dioxide at high temperatures. Assuming steady-state, what is the overall rate law of the reaction?",
+    "answer": "W"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The Zimmerman–Traxler model is used to predict the stereochemistry of what organic reaction?",
+    "answer": "ALDOL REACTION"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding the Suzuki coupling mechanism: 1) It employs organoboron compounds; 2) It involves a transmetallation step; 3) It requires basic conditions.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the quadratic with integer coefficients and smallest positive leading coefficient that has the same sum and product of the roots as $9x^{9} + 3x^{7} - 5x^{2} + 1$.",
+    "answer": "$9x^{2} - 1$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is triangle ABC, with $\\athrm{AB} = 10$ and $\\athrm{BC} = 17$ . The length of the altitude from B to AC is 8. Answer the following two questions about ABC: 1. What is the sum of all possible lengths of AC? 2. Assume that angle BAC is obtuse. A point P is in the same plane as ABC. What is the minimum sum of the lengths of the altitudes from P to AB, AC, and BC?",
+    "answer": "1 - 30, 2 - 72 / 17"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a human physiological response to pregnancy?",
+    "choices": {
+      "W": "Retention of salt and water in the kidneys",
+      "X": "Breast enlargement and development of a mature glandular structure",
+      "Y": "Hyperventilation",
+      "Z": "Increased secretion of luteinizing hormone and follicle-stimulating hormone"
+    },
+    "answer": "Z) INCREASED SECRETION OF LUTEINIZING HORMONE AND FOLLICLE- STIMULATING HORMONE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What animal hormone is characterized by its minute-to-minute pulses of secretion, paradoxical to the standard model of hormonal regulation?",
+    "answer": "SOMATOTROPIN (ACCEPT: GROWTH HORMONE, HUMAN GROWTH HORMONE, HGH)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements regarding the lunar KREEP [creep] that are true: 1) The distribution of KREEP is uniform throughout a layer beneath the lunar crust; 2) The deposition of KREEP is attributed to the presence of a lunar magma ocean shortly after the moon’s formation; 3) KREEP is heat-generating due to the presence of radioactive isotopes.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following four layers of an idealized ophiolite sequence from topmost to bottommost: 1) Sheet dike complex; 2) Pillow basalts; 3) Depleted harzburgite; 4) Layered gabbro.",
+    "answer": "2, 1, 4, 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pairs of thermodynamic variables is NOT a conjugate variable pair?",
+    "choices": {
+      "W": "Temperature and entropy",
+      "X": "Volume and pressure",
+      "Y": "Helmholtz free energy and enthalpy",
+      "Z": "Chemical potential and particle number"
+    },
+    "answer": "Y) HELMHOLTZ FREE ENERGY AND ENTHALPY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle moving in two dimensions has a potential energy equal to the expression $x^2 t + y^2 t$. Identify all of the following three quantities that will be conserved in this system: 1) Linear momentum; 2) Angular momentum; 3) Energy.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Contemporary research on the common theme of protein aggregate spread during neurodegenerative disease progression is centered around what microtubule-associated protein?",
+    "answer": "TAU PROTEIN"
+  },
+  {
+    "question_number": 12,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the Lawrence Livermore National Lab have developed novel methods of antibody design to target SARS-CoV-2. Which of the following is most likely representative of the blue region of the pictured biological model?",
+    "choices": {
+      "W": "Spike glycoprotein",
+      "X": "Hemagglutinin esterase",
+      "Y": "Nucleocapsid protein",
+      "Z": "Class 1 Fusion Protein"
+    },
+    "answer": "W) SPIKE GLYCOPROTEIN"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding carboxylic acid derivatives is NOT true?",
+    "choices": {
+      "W": "They are more electrophilic in acidic conditions than basic conditions",
+      "X": "Nitriles are carboxylic acid derivatives",
+      "Y": "Amides can by hydrolyzed to amines in both acidic and basic conditions",
+      "Z": "C-O carbonyl bonds are stronger in amides than acid chlorides"
+    },
+    "answer": "Z) C-O CARBONYL BONDS ARE STRONGER IN AMIDES THAN ACID CHLORIDES"
+  },
+  {
+    "question_number": 13,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is an NMR spectrum of an unknown organic compound with formula $\\athrm{C_9H_{10}O}$ . Answer the following two questions regarding the image: 1. What functional group is responsible for the multiplet above 7 ppm? 2. What oxygen-containing functional group is present in the molecule?",
+    "answer": "1 – PHENYL (ACCEPT: ARYL; AROMATIC RING); 2 – ALDEHYDE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the 2-adic valuation of 768?",
+    "choices": {
+      "W": "6",
+      "X": "7",
+      "Y": "8",
+      "Z": "9"
+    },
+    "answer": "Y) 8"
+  },
+  {
+    "question_number": 14,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a regular octagon is inscribed in a triangle such that three of its sides lie on the sides of the triangle, as shown in the diagram. If the side length of the octagon is 2, what is the area of the black region?",
+    "answer": "4 PLUS 2 SQUARE ROOT 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What nucleobase is most common in primers used by reverse transcriptase to make cDNA from mRNA?",
+    "answer": "THYMINE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Rank the following four molecules in chronological order in the catecholamine biosynthetic pathway: 1) Dopamine; 2) L-Dopa; 3) Epinephrine; 4) Norepinephrine.",
+    "answer": "2, 1, 4, 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding the solubility of water in magma is false?",
+    "choices": {
+      "W": "The solubility of water in magma increases with increased pressure",
+      "X": "The addition of CO2 increases the activity of water in magma",
+      "Y": "At low pressures, water hydrolyses the magma by breaking up silica polymers",
+      "Z": "At pressures greater than 0.1 gigapascals, the solubility of water in magma increases linearly as a function of pressure"
+    },
+    "answer": "X) THE ADDITION OF CO2 INCREASES THE ACTIVITY OF WATER IN MAGMA"
+  },
+  {
+    "question_number": 16,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shown is a block of sandstone representative of a small section of porous strata. In meters per second and in scientific notation to two significant figures, calculate the flow rate of water through the block from point A to point B with the parameters given.",
+    "answer": "$5.0 \\times 10^{- 3}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A star emits the most blackbody radiation at 500 nanometers. How many times as much power does another star of the same surface area emit if the second star emits the most blackbody radiation at 250 nanometers?",
+    "answer": "16"
+  },
+  {
+    "question_number": 17,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a table of the nuclides arranged by atomic number and neutron number. Answer the following three questions regarding this image: 1. What decay modes do the nuclides colored orange, blue, and yellow undergo, respectively? 2. What doubly magic nucleus is the heaviest stable isotope? 3. Into what lettered stable isotope will the isotope of tantalum outlined in blue eventually decay?",
+    "answer": "1 – BETA PLUS, BETA MINUS, ALPHA; 2 – LEAD- 208; 3 – B"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What functional group is formed by the reaction of acid anhydrides with excess methylamine?",
+    "choices": {
+      "W": "Primary amide",
+      "X": "Secondary amide",
+      "Y": "Enamine",
+      "Z": "Imine"
+    },
+    "answer": "X) SECONDARY AMIDE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Cyclobutadiene is a molecule of great interest to scientists. Once isolated, scientists discovered that the structure of cyclobutadiene was not perfectly square-like, but rather a rapidly-interconverting equilibrium between two rectangular forms. What effect likely causes this phenomenon?",
+    "answer": "PSEUDO-JAHN-TELLER EFFECT"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at SLAC National Accelerator Lab are analyzing the effects of dark matter haloes on galaxy formation and evolution. Galaxy mergers are also thought to drive galactic evolution. Which of the following statements regarding the role of galaxy mergers in galactic evolution is least accurate?",
+    "choices": {
+      "W": "Smaller spiral galaxies merge to form large elliptical galaxies",
+      "X": "Star formation rate may rapidly increase as a result of galaxy mergers",
+      "Y": "Quasar activity may be triggered as a result of galaxy mergers",
+      "Z": "Galaxy mergers are significantly more common in the present epoch than 9 billion years ago"
+    },
+    "answer": "Z) GALAXY MERGERS ARE SIGNIFICANTLY MORE COMMON IN THE PRESENT EPOCH THAN 9 BILLION YEARS AGO"
+  },
+  {
+    "question_number": 19,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is an anion being studied at Pacific Northwest National Lab. Answer the following two questions about the image: 1) What element is indicated by the arrow? 2) What is the charge of this anion?",
+    "answer": "1 - BORON (ACCEPT: B); 2 - (- 2) (DO NOT ACCEPT: 2)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $f$ be a permutation of the first 15 positive integers. How many different values are possible for the sum of the first 11 elements of $f$ ?",
+    "answer": "45"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A monic cubic $P(x)$ has roots of 1, $r$ , and $r$ squared, where $r$ is a positive integer greater than 1. Given that $P(3) = -2$ , at what $x$ value between 1 and $r$ is there a local maximum?",
+    "answer": "7 MINUS SQUARE ROOT 7 ALL OVER 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What post-translational histone modification demarcates large chromatin domains around sites of DNA breakage?",
+    "choices": {
+      "W": "Methylation",
+      "X": "Acetylation",
+      "Y": "Phosphorylation",
+      "Z": "Sumoylation [soo-moy-LAY-shun]"
+    },
+    "answer": "Y) HISTONE PHOSPHORYLATION"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Rank the following four steps of X-chromosome inactivation in chronological order: 1) Pluripotency factors bind to the X-inactivation centers, 2) CTCF joins the two X chromosomes, 3) CTCF and the pluripotency factors move to one of the two X chromosomes, 4) mRNA recruits compaction proteins to form a Barr body.",
+    "answer": "1, 2, 3, 4"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Neutron star glitches, characterized by a slight, but sudden, increase in rotational speed, are thought to be caused by what phenomenon occurring in the solid crust of the neutron star?",
+    "answer": "STARQUAKE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is an aerial photograph of a polynya [poh-LIH-nia] off the coast of Antarctica. Answer the following two questions about the image: 1) The formation of coastal polynyas is primarily driven by what winds that flow out from the Antarctic interior? 2) Polynyas are thought to drive the formation of what dense water mass via brine rejection and surface cooling?",
+    "answer": "1 – KATABATIC WINDS; 2 – ANTARCTIC BOTTOM WATER (ACCEPT: AABW)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In some grand unified theories, protons are predicted to be unstable. With a half-life of around $10^{31}$ years, they would decay into a positron and a neutral pion. Which of the following three conservation laws would this decay process violate? 1) Conservation of charge; 2) Conservation of lepton number; 3) Conservation of baryon number.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "This Feynman diagram depicts a hypothetical decay process currently under investigation by scientists around the world. Answer the following three questions: 1. What is the name of this decay process? 2. What particles are represented by the blue squiggles? 3. If observed, this decay would imply that neutrinos belong to what currently empty class of particles?",
+    "answer": "1 - NEUTRINOLESS DOUBLE BETA DECAY; 2 - W MINUS BOSONS; 3 - MAJORANA FERMIONS (ACCEPT: MAJORANA PARTICLES)"
+  }
+]

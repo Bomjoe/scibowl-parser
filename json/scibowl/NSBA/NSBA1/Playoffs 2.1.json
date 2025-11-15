@@ -1,0 +1,214 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A uniform solid sphere has a mass of 5 kilograms and a radius of 2 meters. It is then uniformly stretched along the $+z$ axis by a factor of 3. What is the moment of inertia of the stretched sphere parallel to the $z$ axis?",
+    "answer": "$8$ KILOGRAM-METERS SQUARED"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An object’s velocity dependence on position is described by the following $\\athrm{v(x) = x^2 + 6x}$. What is the magnitude of the acceleration of the object when its velocity equals 8?",
+    "answer": "$2\\qrt{17}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organs replenishes its epithelial cells the most frequently?",
+    "choices": {
+      "W": "Stomach",
+      "X": "Liver",
+      "Y": "Lungs",
+      "Z": "Kidney"
+    },
+    "answer": "W) STOMACH"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many molecules of NADH will be formed from the full beta oxidation of the 16 carbon fatty acid palmitoyl-CoA?",
+    "answer": "7"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alice rolls 2 dice. What is the probability that the sum of her rolls is divisible by 5?",
+    "answer": "$\\rac{7}{36}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Matt and Shoe are playing a game. Matt secretly chooses an integer from 0 to 99 inclusive. Every turn, Shoe guesses an integer, and Matt tells her whether the sum of her integer's digits is greater than, less than, or equal to the sum of Matt's integer's digits. If Shoe guesses optimally, what is the minimum number of turns she needs to guarantee that she eventually guesses Matt's integer?",
+    "answer": "10"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true about non-planetary bodies of the solar system?",
+    "choices": {
+      "W": "Both the ion and dust tails of comets are affected by the solar wind.",
+      "X": "C-group asteroids are similar in composition to stony meteorites.",
+      "Y": "The Perseid meteor shower occurs in the months of July and August.",
+      "Z": "The Kuiper belt is the source of long-period comets."
+    },
+    "answer": "Z) THE KUIPER BELT IS THE SOURCE OF LONG-PERIOD COMETS."
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What ion, when introduced to soil, causes the particles to disperse and reduces infiltration and hydraulic conductivity?",
+    "answer": "$\\athrm{Na^{+}}$ (ACCEPT: SODIUM)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 organic molecules in order of increasing basicity: 1) Pyridine; 2) Pyrimidine; 3) Pyrrole.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements has the greatest weight percent in their kinetically favored oxide?",
+    "choices": {
+      "W": "Lithium",
+      "X": "Carbon",
+      "Y": "Sodium",
+      "Z": "Potassium"
+    },
+    "answer": "Y) SODIUM"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the operation performed at each step of Kruskal's algorithm?",
+    "choices": {
+      "W": "Add lowest weight edge from unconnected nodes to existing minimum spanning tree",
+      "X": "Delete highest weight edge from nodes connected to existing minimum spanning tree",
+      "Y": "Add lowest weight edge, combining two trees in the forest",
+      "Z": "Delete highest weight edge, combining two trees in the forest"
+    },
+    "answer": "Y) ADD LOWEST WEIGHT EDGE, COMBINING TWO TREES IN THE FOREST"
+  },
+  {
+    "question_number": 6,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a common method of displaying classification results in supervised machine learning. Answer the following two questions: I) What is the name of this table layout? II) What fraction of all predictions are correct?",
+    "answer": "I) CONFUSION MATRIX (ACCEPT: ERROR MATRIX; CONTINGENCY MATRIX); II) $\\rac{10}{11}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What type of aberration results when off-axis light sources are distorted and appear to have a tail?",
+    "answer": "COMA (ACCEPT: COMATIC; COMATIC ABERRATION; DO NOT ACCEPT: CHROMATIC ABERRATION)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Shown in the image above is the sombrero potential, which is shaped like a sombrero. Answer the following two questions: I) What massless particles must necessarily appear in models that exhibit spontaneous symmetry breaking? II) What mechanism provides mass to gauge bosons by adding a field that causes spontaneous symmetry breaking during interactions?",
+    "answer": "I) GOLDSTONE BOSON (ACCEPT: NAMBU-GOLDSTONE BOSON; NGB); II) HIGGS MECHANISM (ACCEPT: HIGGS FIELD)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following membrane proteins, when closed in beta cells in the pancreas, would lead to the eventual release of insulin?",
+    "choices": {
+      "W": "GLUT 2",
+      "X": "GLUT 4",
+      "Y": "ATP-Gated $\\athbf{K+}$ Channel",
+      "Z": "Voltage-Gated $\\athbf{Ca^{2+}}$ Channel"
+    },
+    "answer": "Y) ATP-GATED $\\athbf{K+}$ CHANNEL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The image shown is an incomplete phylogenetic tree based on current knowledge of the angiosperm clade. Identify the letters that correspond to entries 1 through 4 on the tree.",
+    "answer": "1) Z, 2) Y, 3) X, 4) W"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the determinant of the inverse of the 2 by 2 matrix with first row 1, 3 and second row 2, 7?",
+    "answer": "1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the surface area of a frustum with radii of 3 and 6 and height 3?",
+    "answer": "$45\\i + 27\\i\\qrt{2}$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements which are TRUE about cation exchange capacity and base saturation in soils: 1) Organic soils typically have higher cation exchange capacity than silt loams; 2) Soils with a greater cation exchange capacity should be fertilized in greater quantity at once; 3) Soils with high cation exchange capacity generally also have high base saturation.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Answer the following three questions about the following diagram of atomic number versus mass number: 1) What type of decay results in going up vertical lines on the chart? 2) What type of neutron capture process corresponds to the shaded path labeled 1 and occurs when neutron flux is relatively high? 3) What is the name given to the special values of mass numbers at 50, 82, and 126 where the nuclei are unusually stable?",
+    "answer": "1) BETA DECAY (ACCEPT: BETA-MINUS DECAY); 2) R-PROCESS; 3) MAGIC NUMBER"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 chemical reactions that would be included in the lattice enthalpy calculation of $\\athrm{CaF}_2$ using the Born-Haber cycle: 1) Second ionization energy of calcium; 2) First ionization energy of monatomic fluorine gas; 3) Bond dissociation enthalpy of fluorine gas.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why the pKa of prop-2-ynoic acid is less than propanoic acid?",
+    "choices": {
+      "W": "The oxygen being deprotonated is sp hybridized",
+      "X": "Resonance stabilization with the alkyne stabilizes the conjugate base",
+      "Y": "Inductive effect occurs from a more electronegative carbon atom",
+      "Z": "Planar structure of the molecule leads to greater interaction with the solvent"
+    },
+    "answer": "Y) INDUCTIVE EFFECT OCCURS FROM A MORE ELECTRONEGATIVE CARBON ATOM"
+  }
+]

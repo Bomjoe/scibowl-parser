@@ -1,0 +1,536 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Deaths from car accidents did not decrease after the introduction of seat belts because they encouraged drivers to be riskier. This is an example of which of the following concepts?",
+    "choices": {
+      "W": "Adverse selection",
+      "X": "Free rider problem",
+      "Y": "Moral hazard",
+      "Z": "Perverse incentive"
+    },
+    "answer": "Y) Moral hazard"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "What idea states that the observations of the Universe are tied to its innate ability to create and support intelligent life?",
+    "answer": "Anthropic principle"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Allen and Brian are biking to their friend's house. Allen is 5 miles north of the house and biking south at 10 miles an hour, while Brian is 5 miles east of the house and biking west at 10 miles an hour. How fast is the distance between Allen and Brian changing at this point, in miles per hour?",
+    "answer": "$10\\qrt{2}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Jack and Jill want to meet for lunch, but forget to set a specific time. Jack arrives at a random time between 11 AM and 2 PM, and Jill arrives at a random time between noon and 5 PM. If either waits for an hour without the other showing up, they decide to leave. What is the probability that Jack and Jill successfully meet for lunch?",
+    "answer": "1/6"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements is most likely to observe the inert pair effect?",
+    "choices": {
+      "W": "Nitrogen",
+      "X": "Phosphorus",
+      "Y": "Antimony",
+      "Z": "Bismuth"
+    },
+    "answer": "Z) Bismuth"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true regarding catalysts?",
+    "choices": {
+      "W": "Catalysts raise the energy of the reactants",
+      "X": "Catalysts decrease the energy of the transition state",
+      "Y": "The rate of the catalyzed reaction varies more with temperature",
+      "Z": "The order of the catalyzed reaction stays the same"
+    },
+    "answer": "X) Catalysts decrease the energy of the transition state"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Gail is walking in the desert and is pleasantly surprised by a good amount of vegetation along the sand. Based on this information, what type of dune is most likely to form in this area?",
+    "choices": {
+      "W": "Barchan",
+      "X": "Transverse",
+      "Y": "Longitudinal",
+      "Z": "Parabolic"
+    },
+    "answer": "Z) Parabolic"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of ocean currents: 1) Gyres rotate counterclockwise in the Northern Hemisphere; 2) Warm currents flow northward in the Southern Hemisphere; 3) Currents in the Arctic Ocean rotate clockwise.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Alvin gets a large incision by a dog and starts rapidly losing blood. Identify all of the following three short-term adjustments that his body is making to save his life: 1) Vasodilation; 2) Increased heart rate; 3) Increased release of atrial natriuretic factor.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A single nucleotide substitution on which of the following codons could result in a nonsense mutation?",
+    "choices": {
+      "W": "UCC",
+      "X": "AAA",
+      "Y": "CGG",
+      "Z": "UUU"
+    },
+    "answer": "X) AAA"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quantities could Bragg's law be used to calculate?",
+    "choices": {
+      "W": "Carbon dioxide bond length in air",
+      "X": "Sodium chlorine bond length in table salt",
+      "Y": "Hydrogen gas bond length in molecular clouds",
+      "Z": "Hydrogen atomic radius in emission spectra"
+    },
+    "answer": "X) Sodium chlorine bond length in table salt"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A hollow sphere is released from rest at the top of an incline, and rolls without slipping. What fraction of the sphere's potential energy is converted to rotational kinetic energy?",
+    "answer": "$\\rac{2}{5}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "When the Myxoma virus was introduced in 1950 to Australia, it evolved to specifically infect European rabbits. What term describes the linked evolution of these organisms?",
+    "choices": {
+      "W": "Convergent evolution",
+      "X": "Divergent evolution",
+      "Y": "Coevolution",
+      "Z": "Stabilizing selection"
+    },
+    "answer": "Y) Coevolution"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at CHAI are studying how to make AIs that do not resist humans' attempts to modify them. What is this property known as?",
+    "choices": {
+      "W": "Instrumental convergence",
+      "X": "Corrigibility",
+      "Y": "Embedded agency",
+      "Z": "Inner alignment"
+    },
+    "answer": "X) Corrigibility"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Order the following three scenarios by increasing number of degrees of freedom: 1) Chi-square test for goodness of fit with 10 categories, 2) One sample T-test with a sample size of 9, 3) Two sample T-Test with two samples, each of size 8",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A 6 by 6 by 6 cube is created in a 3D coordinate grid. How many unique cubes with integer side lengths can be created along the coordinate grid within the first cube?",
+    "answer": "441"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three types of hydrocarbons by increasing number of hydrogens per carbon: 1) Alkane; 2) Alkene; 3) Alkyne.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The density of water decreases as it freezes. This is reflected in which of the following properties of the phase diagram of water?",
+    "choices": {
+      "W": "The triple point is below atmospheric pressure",
+      "X": "The critical point is above atmospheric pressure",
+      "Y": "The line separating the solid and liquid phases has a negative slope",
+      "Z": "The curve separating the gaseous phase from the liquid and solid phases is concave up"
+    },
+    "answer": "Y) The line separating the solid and liquid phases has a negative slope"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the Hubble classification of the largest galaxy in the Virgo cluster?",
+    "choices": {
+      "W": "Spiral",
+      "X": "Barred spiral",
+      "Y": "Irregular",
+      "Z": "Elliptical"
+    },
+    "answer": "Z) Elliptical"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following components of the interstellar medium has the lowest density?",
+    "choices": {
+      "W": "HI clouds",
+      "X": "Warm intercloud medium",
+      "Y": "Coronal gas",
+      "Z": "Molecular clouds"
+    },
+    "answer": "Y) Coronal gas"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of mammals: 1) They are deuterostomes; 2) They are diploblastic; 3) The blastopore forms from the anus.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following four regions of a cow's stomach in the order that cud traverses it: 1) Abomasum; 2) Omasum; 3) Reticulum; 4) Rumen.",
+    "answer": "4, 3, 2, 1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A wave traveling through a medium is moving at speed $v$. If the density of the medium was suddenly changed to half its original, and the bulk modulus of the medium is quintupled, what is the new speed of the wave?",
+    "choices": {
+      "W": "$\\qrt{2} v$",
+      "X": "$\\qrt{5} v$",
+      "Y": "$\\rac{\\qrt{5}}{2} v$",
+      "Z": "$\\qrt{10} v$"
+    },
+    "answer": "Z) $\\qrt{10} v$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following atomic models would a hydrogen electron experience perturbed harmonic motion?",
+    "choices": {
+      "W": "Liquid drop model",
+      "X": "Bohr model",
+      "Y": "Plum pudding model",
+      "Z": "Nuclear shell model"
+    },
+    "answer": "Y) Plum pudding model"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of plastic degradation is typically the first to occur in nature?",
+    "choices": {
+      "W": "Photodegradation",
+      "X": "Biodegradation",
+      "Y": "Thermal degradation",
+      "Z": "Hydrolysis"
+    },
+    "answer": "W) Photodegradation"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the spread of a virus with an R0 value of 0.5?",
+    "choices": {
+      "W": "Will not spread",
+      "X": "Will rapidly spread initially, then decline",
+      "Y": "Will spread at a constant rate",
+      "Z": "Will spread at an accelerating rate"
+    },
+    "answer": "W) Will not spread"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The product of three consecutive integers is 504. What is their sum?",
+    "answer": "24"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the difference in the areas of the circumcircle and incircle of a regular unit octagon?",
+    "answer": "$\\rac{\\i}{4}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following spherically symmetric atomic orbitals has three radial nodes?",
+    "choices": {
+      "W": "1s",
+      "X": "2s",
+      "Y": "3s",
+      "Z": "4s"
+    },
+    "answer": "Z) 4s"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ions has the greatest polarizing power?",
+    "choices": {
+      "W": "$\\athrm{Na}^{+}$",
+      "X": "$\\athrm{Mg}^{2 + }$",
+      "Y": "$\\athrm{Cl}^{-}$",
+      "Z": "$\\athrm{S}^{2 - }$"
+    },
+    "answer": "X) $\\athrm{Mg}^{2 + }$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The competence of a river describes what property of the river?",
+    "choices": {
+      "W": "Maximum size of particles it can carry",
+      "X": "Maximum volume it can transport",
+      "Y": "Total average turbidity",
+      "Z": "Average sediment transport volume"
+    },
+    "answer": "W) Maximum size of particles it can carry"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The SOARS ocean simulator at UC San Diego contains a wave channel 8 feet deep. If waves can be produced until the wave base touches the bottom of the tank, what is the maximum possible wavelength that can be produced in the tank, in feet?",
+    "choices": {
+      "W": "4",
+      "X": "8",
+      "Y": "16",
+      "Z": "32"
+    },
+    "answer": "Y) 16"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following genes is responsible for the development of stamens according to the ABC hypothesis?",
+    "choices": {
+      "W": "A only",
+      "X": "B only",
+      "Y": "A and B",
+      "Z": "B and C"
+    },
+    "answer": "Z) B and C"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three factors which would increase the fluorescence recovery time of a cell membrane during a FRAP experiment: 1) Increasing the membrane concentration of unsaturated phospholipids; 2) Increasing the concentration of saturated phospholipids; 3) Increasing the temperature.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A stationary astronaut in space pushes a stationary coin with their finger, resulting in both the astronaut and coin moving away from each other. This is an example of Newton's third law bringing about what phenomena?",
+    "answer": "Conservation of momentum"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two solid elements A and B of mass 30 grams and 60 grams, respectively, exchange heat energy in order to achieve thermal equilibrium. Assuming they have the same specific heat capacity, what is the approximate ratio of the change in temperature of element B over A using known values?",
+    "answer": "$- \\rac{1}{2}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Scientists recently discovered Thlaspi caerulescens, a plant capable of hyperaccumulating cadmium that can be used to extract cadmium from the soil. This is an example of what general process in which organisms are used to remove pollutants from an environment?",
+    "answer": "Bioremediation (ACCEPT: Phytoremediation)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "What NASA space mission was created to test a method of planetary defense against near-Earth objects by launching and intentionally crashing a spacecraft into an asteroid?",
+    "choices": {
+      "W": "Artemis",
+      "X": "DART",
+      "Y": "IRIS",
+      "Z": "VIPER"
+    },
+    "answer": "X) DART"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "John flips a weighted coin with a $2/5$ chance of landing heads. If he flips the coin two times, what is the probability that the coin lands on heads exactly once?",
+    "answer": "12/25"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following x-coordinates does the global minimum of the function $f(x) = x^2 |x| - x|x|$ occur?",
+    "choices": {
+      "W": "- 1/3",
+      "X": "1/3",
+      "Y": "1/2",
+      "Z": "2/3"
+    },
+    "answer": "Z) 2/3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A certain mixture of gases comprised of nitrogen, hydrogen, and helium has a total pressure of 5 atmospheres. If the partial pressure of nitrogen is 2.5 atmospheres and the partial pressure of hydrogen is 1.5 atmospheres, what is the mole fraction of helium in this gas mixture?",
+    "answer": "0.2 (ACCEPT: $20\\$ , 1/5)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In terms of $n$, how many sigma bonds are in a straight-chain alkane containing $n$ carbon atoms?",
+    "answer": "$3n + 1$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the result of moving a celestial body past another celestial body's Roche limit?",
+    "choices": {
+      "W": "Capture of a moon",
+      "X": "Formation of a ring",
+      "Y": "Ejection of a moon",
+      "Z": "Formation of craters"
+    },
+    "answer": "X) Formation of a ring"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "How many stable Lagrange points exist in a two-body system?",
+    "answer": "2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best characterizes the relationship between the bones of the human ear and the jaws of synapsids?",
+    "choices": {
+      "W": "Vestigial structures",
+      "X": "Homologous structures",
+      "Y": "Analogous structures",
+      "Z": "Homoplasies"
+    },
+    "answer": "X) Homologous structures"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What bacterial genus is commonly used to insert DNA sequences into plant genomes through its Ti plasmid?",
+    "answer": "Agrobacterium"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The ability of the neutrino to oscillate between its three flavors implies that has a non-zero value of what physical property?",
+    "answer": "Mass"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A ray of light is passing from water, with index of refraction 1.33, to flint glass, which has an index of refraction of around 1.66. With respect to the normal, which of the following angles, in degrees, is closest to the angle at which a reflected ray of light will be polarized?",
+    "choices": {
+      "W": "30",
+      "X": "40",
+      "Y": "50",
+      "Z": "60"
+    },
+    "answer": "Y) 50"
+  }
+]

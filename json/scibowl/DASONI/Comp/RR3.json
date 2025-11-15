@@ -1,0 +1,431 @@
+Failure:
+[
+  {
+ "question_number":1,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "What is the fundamental structural unit of compact bone?",
+ "answer": "OSTEON"
+ },
+ {
+ "question_number":1,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "Sarcomas are a class of tumors that originate from cells of mesenchymal origin. Which of the following cell types could NOT generate a sarcoma?",
+ "choices": {
+ "W": "Osteocyte",
+ "X": "Fibrocyte",
+ "Y": "Keratinocyte",
+ "Z": "Chondrocyte"
+ },
+ "answer": "Y"
+ },
+ {
+ "question_number":2,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following reactions results in an Hofmann product if a bulky base is used?",
+ "choices": {
+ "W": "$\\athrm{S}_{\\athrm{N}}2$",
+ "X": "E2",
+ "Y": "$\\athrm{S}_{\\athrm{N}}1$",
+ "Z": "E1"
+ },
+ "answer": "X"
+ },
+ {
+ "question_number":2,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following statements is false about $\\athrm{S}_{\\athrm{N}}2$ reactions?",
+ "choices": {
+ "W": "They occur with inversion of stereochemistry",
+ "X": "They occur faster in polar aprotic solvents than in protic solvents",
+ "Y": "They commonly involve carbocation rearrangements",
+ "Z": "Tertiary substrates do not undergo $\\athrm{S}_{\\athrm{N}}2$ reactions"
+ },
+ "answer": "Y"
+ },
+ {
+ "question_number":3,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "Which Lagrange point is located behind the earth with respect to the sun?",
+ "answer": "L2"
+ },
+ {
+ "question_number":3,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "By name or number, identify all of the following three environmental lapse rates that could create an absolutely unstable atmosphere:1)7 degrees Centigrade per kilometer2)9 degrees Centigrade per kilometer3)11 degrees Centigrade per kilometer",
+ "answer": "3 ONLY"
+ },
+ {
+ "question_number":4,
+ "question_type": "tossup",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "Akshansh is walking down a hotel hall, with doors numbered1 to500. He opens every door that is a multiple of1, then closes every door that is a multiple of2, then opens closed doors or closes open doors for every door that is a multiple of3, then does the same for every number that is a multiple of4, and so on through500. How many doors are left open when he's done?",
+ "answer": "22"
+ },
+ {
+ "question_number":4,
+ "question_type": "bonus",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "How many ways are there to choose positive integers a and b such that $a + b =20$ and $a \\times b$ has a units digit of6?",
+ "answer": "6"
+ },
+ {
+ "question_number":5,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "Since capacitors and inductors can resist current but do not dissipate it as heat, they have a nonzero value for what quantity?",
+ "answer": "REACTANCE"
+ },
+ {
+ "question_number":5,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "A telescope with an aperture of radius1.5 meters is observing a teapot near Mars at a wavelength of600 nanometers. Using the small angle approximation, what is the angular resolution of this telescope, in radians and to2 sig figs?",
+ "answer": "2.4 \\times10^{-7}"
+ },
+ {
+ "question_number":6,
+ "question_type": "tossup",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "Davidson MS B team members are studying neuroglia. What ciliated cells line the ventricles and are responsible for producing and circulating cerebrospinal fluid?",
+ "answer": "EPENDYMAL CELLS"
+ },
+ {
+ "question_number":6,
+ "question_type": "bonus",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "Davidson HS A team members are studying Britney Spears' guide to semiconductor physics. One exciting prospect in semiconductor physics is a class of compounds that involve the coordination of metal ions or clusters to organic ligands. These compounds can have one, two, or three-dimensional structures as a result. What is this class of compounds called?",
+ "answer": "METAL-ORGANIC FRAMEWORKS"
+ },
+ {
+ "question_number":7,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "Signal peptides are short sequences of amino acids that are found in proteins destined to be secreted. Amino acids in signal peptides tend to be hydrophobic, and the first few amino acids are often positively charged. Which of the following amino acids would you least expect to be found in a signal peptide?",
+ "choices": {
+ "W": "Leucine",
+ "X": "Lysine",
+ "Y": "Methionine",
+ "Z": "Serine"
+ },
+ "answer": "Z"
+ },
+ {
+ "question_number":7,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "G-protein coupled receptors are transmembrane proteins that span the plasma membrane7 times. Given this information, which of the following would you expect to be the most prevalent secondary structure in G-protein coupled receptors?",
+ "choices": {
+ "W": "Alpha helix",
+ "X": "Parallel beta sheet",
+ "Y": "Antiparallel beta sheet",
+ "Z": "Pi helix"
+ },
+ "answer": "W"
+ },
+ {
+ "question_number":8,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "Tertiary aliphatic carbocations are more stable than primary aliphatic carbocations. What phenomenon explains why this is so?",
+ "answer": "HYPERCONJUGATION"
+ },
+ {
+ "question_number":8,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "Davidson HS A team members are studying quantum chemistry. Consider a particle in a one-dimensional box with length L. When $n =3$, in terms of L, at what positions in the box would the nodes be?",
+ "answer": "0, L/3,2L/3, AND L"
+ },
+ {
+ "question_number":9,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following drainage patterns is often formed in areas where water drains from all directions into a central basin?",
+ "choices": {
+ "W": "Radial",
+ "X": "Trellis",
+ "Y": "Centripetal",
+ "Z": "Rectangular"
+ },
+ "answer": "Y"
+ },
+ {
+ "question_number":9,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "Often exhibited by varieties of corundum, what is the name for the optical phenomenon that occurs when light is reflected by small inclusions or impurities arranged in a six-ravaged pattern?",
+ "answer": "ASTERISM"
+ },
+ {
+ "question_number":10,
+ "question_type": "tossup",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "A number of animals are in a zoo. Monkeys are the most common animal in the zoo, with10 of them. This is double the second most common animal, and together the two make up1/5 of the total animals. How many animals are there in the zoo?",
+ "answer": "75"
+ },
+ {
+ "question_number":10,
+ "question_type": "bonus",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "In the language of Logjam, a word is an arrangement of letters that has no two vowels adjacent to one another. How many arrangements of the word \animal\ are words in Logjam?",
+ "answer": "72"
+ },
+ {
+ "question_number":11,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "An elastic rubber band obeys Hooke's law and has a spring constant of250 Newtons per meter. Arvind yanks on one end of the band with200 newtons of force. Dallin pulls on the other end with200 Newtons of force. In meters, how much does the spring extend from its equilibrium position?",
+ "answer": "0.8"
+ },
+ {
+ "question_number":11,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following is false about a quantum harmonic oscillator?",
+ "choices": {
+ "W": "Energy levels are evenly spaced",
+ "X": "Energy is proportional to the inverse square of the characteristic quantum number",
+ "Y": "There is a minimum energy level for the oscillator",
+ "Z": "The angular frequency of the oscillator determines the spacing between energy levels"
+ },
+ "answer": "X"
+ },
+ {
+ "question_number":12,
+ "question_type": "tossup",
+ "category": "energy",
+ "answer_type": "multiple_choice",
+ "body": "Davidson HS A Team members are studying metamorphic rocks and their environments of formation. Which of the following conditions is not correctly matched with the type of metamorphic rock formed?",
+ "choices": {
+ "W": "Intermediate temperature, low pressure and hornfels",
+ "X": "Intermediate temperature, intermediate pressure and mica schist",
+ "Y": "High temperature, high pressure and glaucophane schist",
+ "Z": "Low temperature, low pressure and slate"
+ },
+ "answer": "Y"
+ },
+ {
+ "question_number":12,
+ "question_type": "bonus",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "Davidson HS B Team members are still studying hadrons. There is another hadron that, while technically unstable, has a relatively long free half-life of10 minutes or so. Name the types of quark found in this hadron.",
+ "answer": "UP AND DOWN"
+ },
+ {
+ "question_number":13,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "Identify all of the following three tissues that are part of the periderm:1) Phelloderm2) Secondary xylem3) Cork cambium",
+ "answer": "1 AND3"
+ },
+ {
+ "question_number":13,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "What group of enzymes are responsible for charging transfer RNAs?",
+ "answer": "AMINOACYL-tRNA SYNTHETASES"
+ },
+ {
+ "question_number":14,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "Which allotrope of phosphorus is associated with a graphene-like structure where phosphorus atoms are linked to each other in a repeated hexagonal pattern?",
+ "answer": "BLACK"
+ },
+ {
+ "question_number":14,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "Identify all of the following three solutions that you would expect to display a negative deviation from Raoult's law:1) Chloroform and benzene2) Ethanol and methylcyclohexane3) Hydrochloric acid and water",
+ "answer": "1 AND3"
+ },
+ {
+ "question_number":15,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "Order the following three volcanic eruption types from most to least explosive:1) Plinian2) Hawaiian3) Strombolian",
+ "answer": "1,3,2"
+ },
+ {
+ "question_number":15,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "What is the name for the location in the ocean where the speed of sound is at a minimum?",
+ "answer": "SOFAR CHANNEL"
+ },
+ {
+ "question_number":16,
+ "question_type": "tossup",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "A planning meeting is scheduled to be10 minutes long. Each member over the third will add ten minutes to the runtime and, if Akshansh is there, the time it would otherwise be is tripled.5 people, including Akshansh, show up. How many minutes over the expected time is the meeting?",
+ "answer": "50"
+ },
+ {
+ "question_number":16,
+ "question_type": "bonus",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "In base16, how many single digit numbers have divisibility rules similar to that of3 and9 in base10 (ie, the number is divisible by that factor if and only if the digit sum of the number is divisible by the factor)?",
+ "answer": "3"
+ },
+ {
+ "question_number":17,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "Exchange of a Z boson between particles cannot change many key properties such as electric charge and strangeness, which is why it is referred to as what type of interaction?",
+ "answer": "NEUTRAL CURRENT"
+ },
+ {
+ "question_number":17,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "A block of mass m slides down a frictionless ramp of height h. It then slides around a loop of radius r. If the gravitational acceleration is g, express the minimum height needed for the block to clear the loop without losing contact in terms of r, m and g.",
+ "answer": "rg/2"
+ },
+ {
+ "question_number":18,
+ "question_type": "tossup",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "Davidson MS A Team members are studying things they really shouldn't be and are now running from the cops in a pair of elevators, going down a19 story building. The elevators are wired by an eccentric Davidson alum, and each elevator has a -1, a -2, and -3 button. The two elevators can take turns pressing a button, and both elevators will move down by that many floors. The elevator that pushes the button to land at the ground gets to go free, while the other drops to the center of the earth. What should Davidson students push first to get to escape?",
+ "answer": "3"
+ },
+ {
+ "question_number":18,
+ "question_type": "bonus",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "Davidson HS B Team members are studying orbital mechanics. If a planet with orbital radius of r completes one quarter of its orbit in time t, what fraction of its orbit would a planet with orbital radius of3r complete in the same amount of time?",
+ "answer": "1/36"
+ },
+ {
+ "question_number":19,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "During the nitrogen cycle, ammonia is converted to ammonium. However, the reverse process, referred to as volatilization, can occur under which of the following soil conditions?",
+ "choices": {
+ "W": "Low bacterial species diversity",
+ "X": "High pH",
+ "Y": "High moisture content",
+ "Z": "Low carbon to nitrogen ratio"
+ },
+ "answer": "X"
+ },
+ {
+ "question_number":19,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following families of viruses would have a genome that obeys Chargaff's rules?",
+ "choices": {
+ "W": "Flavivirus",
+ "X": "Coronavirus",
+ "Y": "Adenovirus",
+ "Z": "Filovirus"
+ },
+ "answer": "Y"
+ },
+ {
+ "question_number":20,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "Tetraxenonogold(II) is a cation with the formula $\\athrm{AuXe}_{4}^{2+}$. What is its molecular geometry?",
+ "answer": "SQUARE PLANAR"
+ },
+ {
+ "question_number":20,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "How many stereoisomers does the following compound have:3,3-dimethyl-1,2-cyclopropanediol?",
+ "answer": "THREE"
+ },
+ {
+ "question_number":21,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "Giving your answer with proper significant figures and in arcseconds, what is the parallax angle of an object measured to be16 parsecs from the earth?",
+ "answer": "0.063"
+ },
+ {
+ "question_number":21,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "The Arches cluster is the densest known star cluster in the Milky Way. None of the main sequence stars have mass greater than a class O5 star, so scientists estimate the cluster's age at2.5 million years. This was done by calculating what property of those type O5 stars?",
+ "answer": "MAIN SEQUENCE TURNOFF POINT"
+ },
+ {
+ "question_number":22,
+ "question_type": "tossup",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "Yajur claims to have flipped a coin6 times in a row, and gotten6 heads. Identify, by name or number, all alpha values for which we reject his claim:1)0.102)0.053)0.01",
+ "answer": "1 AND2"
+ },
+ {
+ "question_number":22,
+ "question_type": "bonus",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "A cup is a frustum with height10 inches, top diameter of4 inches and bottom diameter of3 inches. If it were extended through the bottom to be a whole cone, how many times as large would the volume be?",
+ "answer": "64/37"
+ },
+ {
+ "question_number":23,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "A perfect lens will still be unable to focus light perfectly due to diffraction. The best-focused spot possible takes what shape?",
+ "answer": "AIRY DISK"
+ },
+ {
+ "question_number":23,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "Current passes through a250 millihenry inductor at a rate given by $2t^3 - \\rac{1}{2}t^2 +4t -17$ amperes. What is the magnitude of the voltage drop across this inductor, at time $t =5$ in volts and to the nearest decimal place?",
+ "answer": "29.8"
+ }
+]

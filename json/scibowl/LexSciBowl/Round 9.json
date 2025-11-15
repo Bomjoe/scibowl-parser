@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "After working hard in your laboratory, you have successfully created the world's first decaquark, composed of 8 quarks and 2 antiquarks. What is the isospin of your new particle?",
+    "answer": "3"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Neutrino oscillations, the confirmation of which won the 2015 Nobel Prize in Physics, imply that neutrinos are either Majorana fermions, or what other type of fermions which have mass but are distinct from their antiparticles?",
+    "answer": "DIRAC FERMIONS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Assuming the Zermelo-Fraenkel axioms to be true, by name or number, identify all of the following 3 statements that are equivalent to the Axiom of Choice: 1) Every surjective function has a right inverse; 2) Given two sets, either one has a larger cardinality than the other, or they have equal cardinalities; 3) There does not exist a set with cardinality greater than that of the natural numbers but less than that of the real numbers.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Square ABCD with side length two has an inscribed equilateral triangle, with one of the vertices at A. What is the area of the triangle?",
+    "answer": "8 - 12"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the crystal system of lepidolite?",
+    "answer": "MONOCLINIC"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals does NOT have conchoidal fracture?",
+    "choices": {
+      "W": "Chalcedony",
+      "X": "Amethyst",
+      "Y": "Rhodonite",
+      "Z": "Citrine"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Laboratory are studying de- extinction. What was the first ever species to be made de-extinct through stem cells?",
+    "answer": "PYRENEAN IBEX"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Research at Lawrence Livermore National Laboratory are studying the applications of HeLa cells. What new species was proposed to encompass HeLa cells due to their “immortality” and hypertriploid chromosome number?",
+    "choices": {
+      "W": "",
+      "X": "",
+      "Y": "",
+      "Z": ""
+    },
+    "answer": "HELACYTON GARTLERI"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following genes would be theoretically impossible for a baby born from female sperm derived from bone marrow to inherit?",
+    "choices": {
+      "W": "HEX-A",
+      "X": "HBB",
+      "Y": "UBE3A",
+      "Z": "RBM1"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What mechanism do stem cells use to maintain their population number that involves one stem cell producing two differentiated cells while another undergoes mitosis?",
+    "answer": "STOCHASTIC DIFFERENTIATION"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What equation relates the rate of an electrochemical reaction to its overpotential?",
+    "answer": "TAFEL EQUATION"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 4 quantities that would heighten the overpotential of an electrochemical cell when increased: 1) temperature, 2) charge transfer coefficient, 3) current density, 4) exchange current density.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A circular loop of wire is set in a magnetic field pointing out of the page. If the magnetic field decreases in magnitude until it reaches 0, in which direction does the induced current flow?",
+    "choices": {
+      "W": "Clockwise",
+      "X": "Counterclockwise",
+      "Y": "Clockwise, then counterclockwise",
+      "Z": "Counterclockwise, then clockwise"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A bar of length 5 meters moves with velocity $\\athrm{v} = 10 \\athrm{~m / s}$ to the right and is oriented perpendicular to its motion. The bar is set in a magnetic field that points inwards at a 60 degree angle with the motion of the bar. In terms of B, what is the magnitude of the induced emf in the bar?",
+    "answer": "25B"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the length of the diagonals of an isosceles trapezoid with base lengths 4, 12, and non-parallel sides of length 8.",
+    "answer": ""
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two circles intersect at distinct points A and B. By name or number, identify all of the following 3 statements which are true regarding the line through A and B: 1) The power of each point on the line with respect to the first circle is equal to the power with respect to the second circle; 2) The line is always perpendicular to the line connecting the centers of the two circles; 3) The line bisects the common tangents to the two circles.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "General relativity modifies what special relativity construct that combines space and time?",
+    "answer": "MINKOWSKI SPACETIME"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Varying solutions to the Einstein field equations are dependent on differing interpretations of what tensor?",
+    "answer": "STRESS-ENERGY TENSOR"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the University of Chicago are researching the creation of carbon-carbon bonds. Reacting a grindar reagent with acetaldehyde will yield what kind of alcohol?",
+    "choices": {
+      "W": "",
+      "X": "",
+      "Y": "",
+      "Z": ""
+    },
+    "answer": "SECONDARY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Berkeley National Lab are studying reactions involving triple bonds. Which of the following solvents is most suitable for the reduction of an alkyne with sodium?",
+    "choices": {
+      "W": "Water",
+      "X": "DMSO",
+      "Y": "Ethanol",
+      "Z": "Ammonia"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What two proteins from a class of transcription-translation negative-feedback loop blue-light receptors regulate circadian rhythms in mammals independent of light?",
+    "answer": "CRY1, CRY2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Chemically speaking, a phytochrome consists of a chromophore. The chromophore of plants is phytochrome and the chromophore of cyanobacteria is phycocyanobilin. What chromophore do red algae use?",
+    "answer": "PHYCOCYANOBILIN"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following transitions is the lowest in energy in 1,3-butadiene?",
+    "choices": {
+      "W": "N2-sigma star",
+      "X": "N2-pi star",
+      "Y": "Sigma-sigma star",
+      "Z": "Pi-pi star"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Para-aminoazobenzene has a pi-pi* transition of 4.8 electronvolts and a n-pi* transition of 2.7 electronvolts. What color is it?",
+    "answer": "YELLOW"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A planet has four times the radius of Earth and half of Earth's density. What is the acceleration due to gravity on the surface of the planet?",
+    "choices": {
+      "W": "g/2",
+      "X": "g",
+      "Y": "2g",
+      "Z": "4g"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A planet revolves in a circular orbit around the sun. The relationship between the planet’s kinetic energy K and potential energy U can be written as U equals K times some constant. What is the value of this constant?",
+    "answer": "-2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true for a vector field F(x,y,z)?",
+    "choices": {
+      "W": "The divergence of the curl of $\\athrm{F} = 0$",
+      "X": "If F is not a conservative field, it has a potential function",
+      "Y": "The gradient of F is equal to the potential function",
+      "Z": "A vector field is a field and is thus a ring"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the curl of the vector field $\\athrm{F} = \\athrm{x}^{2}\\athrm{i} + (2\\athrm{y} - 3\\athrm{y}^{2})\\athrm{j} + \\athrm{z}\\athrm{k}$",
+    "answer": "(0,0,0)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which soil horizon containing unconsolidated earth material is also known as the substratum?",
+    "choices": {
+      "W": "O Horizon",
+      "X": "C Horizon",
+      "Y": "E Horizon",
+      "Z": "R Horizon"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following soils would the USDA classify as mineral soil?",
+    "choices": {
+      "W": "Soil that is saturated with water for 10 days a year, $0\\$ clay, and $30\\$ organic carbon",
+      "X": "Soil that is saturated with water for 40 days a year, $70\\$ clay, and $20\\$ organic carbon",
+      "Y": "Soil that is saturated with water for 40 days a year, $0\\$ clay, and $20\\$ organic carbon",
+      "Z": "Soil that is saturated with water for 40 days a year, $50\\$ clay, and $12\\$ organic carbon"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab are studying spectroscopic methods for analyzing chemical mixtures. By name or number, order the following 3 Carbon-hydrogen stretchings in terms of increasing IR wavenumber: 1) Alkane; 2) Alkene; 3) Alkyne.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are studying quantitative applications of IR spectroscopy. By name or number, order the following 3 compounds by increasing number of vibrational degrees of freedom: 1) Water; 2) Carbon Dioxide; 3) Methane.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is FALSE of fecal coliform?",
+    "choices": {
+      "W": "They are facultatively anaerobic",
+      "X": "They originate in the intestines of warm-blooded animals",
+      "Y": "They are bioindicators for increasing levels of pH",
+      "Z": "They love to grow in the presence of bile salts"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify the forms of nitrogenous waste each of the following three animals excrete: 1) Yellow Bitterns; 2) Platyhelminthes; 3) Toads.",
+    "answer": "URIC ACID, AMMONIA, UREA"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Ferrocene consists of a central iron cation sandwiched between two molecules of what anion?",
+    "answer": "CYCLOPENTADIENYL ANION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Nickelocene, an analogue of ferrocene with a central nickel atom, reacts with nitric acid to form what half-sandwich product?",
+    "answer": "CYCLOPENTADIENYL NICKEL NITROSYL"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An astronaut is working at a space station where the atmospheric pressure is essentially zero. The pressure gauge on her air tank reads $5 \\times 10^{6}$ Pa. To one significant figure, what force does the air inside the tank exert on the flat end of the cylindrical tank, a disk $2 \\athrm{m}$ in diameter?",
+    "answer": "$2 \\times 10^{6}$ N"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What is the term for the superpartner of the bottom quark?",
+    "choices": {
+      "W": "Top quark",
+      "X": "Bottomino quarkino",
+      "Y": "Mottob quarkino",
+      "Z": "Sbottom squark"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Anurag has a perfectly spherical Tootsie Roll Pop, consisting of an inner Tootsie Roll center of radius $\\rac{1}{2}$ cm, surrounded by a candy shell which has width $\\rac{1}{2}$ cm as well, combining to make a sphere of radius 1 cm. If every time Anurag licks the Tootsie Roll Pop, he eats $7\\i /720$ cubic centimeters of shell, then how many licks does it take for Anurag to completely consume the candy shell, and get to the Tootsie Roll center of the Tootsie Pop?",
+    "answer": "120"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Anurag has finally made it to the taffy Tootsie Roll center, a sphere with radius $\\rac{1}{2}$ cm, and now he wants to eat it too! When Anurag eats, he always eats in a very weird manner, which continually decreases the radius of the sphere. Unfortunately, eating all that taffy slows him down, such that when the radius of the sphere is r, he eats $(r - 1)^{2} / r^{2}$ cubic centimeters of taffy per second. How long, in seconds, will it take for Anurag to eat the entire center?",
+    "answer": "$\\rac{7}{96\\i}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Gamma Velorum is an example of what type of supermassive and superluminous star with strong helium and nitrogen emission lines?",
+    "answer": "WOLF-RAYET STARS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What mechanism explains the pulsation of Cepheid variables?",
+    "answer": "KAPPA MECHANISM"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The synthesis of cubane, a cube of carbon atoms with chemical formula C8H8, starts with Diels-Alder dimerization of 2-bromocyclopentadienone. What is the degree of unsaturation of the final compound?",
+    "choices": {
+      "W": "1",
+      "X": "3",
+      "Y": "5",
+      "Z": "7"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "One of the final steps in the synthesis of cubane involves the Favorskii rearrangement of a bromoketone intermediate to form cubane carboxylic acid. What is the chemical formula of the bromoketone intermediate?",
+    "answer": "C9H7OBr"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of tissues can the endoderm NOT give rise to?",
+    "choices": {
+      "W": "Lamina propria",
+      "X": "Muscularis",
+      "Y": "Tympanic cavity epithelium",
+      "Z": "Perineurium"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 23,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Answer the following two questions regarding this histology: 1. Identify what organ this is 2. What is the disease depicted?",
+    "answer": "PANCREAS, CHRONIC PANCREATITIS"
+  }
+]

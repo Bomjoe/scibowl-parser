@@ -1,0 +1,540 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Recent evidence contradicts Wolfgang Pauli's belief that neutrino's have none of what?",
+    "answer": "MASS"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If the cost of electricity is 2 cents per kilowatt-hour, how much will it cost to run an electrical heater with a resistance of 10 ohms running on 110 volts for 1 hour, rounded to the nearest whole cent?",
+    "answer": "2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The transfer RNA charged with an amino acid on the three prime terminus of the adenosine residue is most commonly referred to as:",
+    "answer": "AMINOACYL-tRNA"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Using electrophoresis at a pH of 6.0, which one of the following 5 amino acids would move towards the anode the fastest? arginine, glutamic acid, glycine, alanine, lysine",
+    "answer": "GLUTAMIC ACID"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A molecule which has an octahedral molecular geometry will have how many atoms attached to its central atom:",
+    "choices": {
+      "W": "4",
+      "X": "6",
+      "Y": "8",
+      "Z": "10"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Calculate the pH of a buffer solution that is 0.5 molar in an acid with a $\\athrm{pK_a}$ of 7.00 and its salt which is at a concentration of 5.0 molar:",
+    "answer": "8.00"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "The great Homer mentions in the Iliad that the Bear constellation is never plunged into the ocean. What do astronomers most commonly call such motion?",
+    "answer": "CIRCUMPOLAR"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "A person in Texas observes a waxing first quarter moon rising at 4:00 PM. At which of the following times will the moon most likely rise two days later:",
+    "choices": {
+      "W": "2:02 PM",
+      "X": "3:12 PM",
+      "Y": "4:52 PM",
+      "Z": "5:42 PM"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Solve the following: tangent $45^\\irc - \\text{cosine} 45^\\irc \\text{sine} 45^\\irc$",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "1/2",
+      "Z": "1/4"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Calculate the following indefinite integral: $\\athrm{I} = \\nt e^{2x} dx$",
+    "answer": "$\\rac{1}{2} e^{2x} + \\text{C}$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organisms eventually sediments onto the ocean seafloor as a siliceous ooze:",
+    "choices": {
+      "W": "coccolithophores",
+      "X": "foraminifera",
+      "Y": "diatoms",
+      "Z": "fish scales"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "In which period in the geological timescale did fish evolve jaws and later became the top predators by the end of this Period?",
+    "answer": "DEVONIAN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Citrus canker is caused by an Asian strain of:",
+    "choices": {
+      "W": "bacterium",
+      "X": "virus",
+      "Y": "aphid",
+      "Z": "fungus"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "On average, equatorial areas of the Earth receive approximately 2.4 times as much insolation as polar areas because:",
+    "choices": {
+      "W": "the North Pole is ice covered",
+      "X": "the air at the Equator contains more moisture",
+      "Y": "there is greater heating at the Equator",
+      "Z": "the Earth is a sphere"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "MIME is a protocol that:",
+    "choices": {
+      "W": "determines a server's IP address from a domain name",
+      "X": "translates binary files to text-based email messaging",
+      "Y": "coordinates packet information for the many IP packets and addresses in an online transmission",
+      "Z": "sets a specification for digital transmission of data over an analog phone line"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "What is the total number of devices that can be connected to a USB host:",
+    "choices": {
+      "W": "15",
+      "X": "63",
+      "Y": "127",
+      "Z": "unlimited"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following laws was most directly employed by Robert Milliken to calculate the radius of a charged particle falling through air, for which he was awarded the 1928 Nobel prize:",
+    "choices": {
+      "W": "Fick's law",
+      "X": "Bernoulli's law",
+      "Y": "Hooke's law",
+      "Z": "Stoke's law"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If an object were to fall in each of the following 3 locations, in which location would it have the slowest acceleration due to gravity and in which would it have the fastest acceleration due to gravity: Pikes Peak; North Pole; and Denver, Colorado",
+    "answer": "SLOWEST = PIKES PEAK; FASTEST = NORTH POLE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term, coined by Francis Crick, that accounts for the freedom in pairing in the third base of the codon with its anticodon?",
+    "answer": "WOBBLE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which 2 of the following 5 molecules of the citric acid cycle are considered 4 carbon intermediates: citric acid, oxaloacetic acid, succinic acid, alpha ketogluteric acid, isocitric acid",
+    "answer": "SUCCINIC ACID, OXALOACETIC ACID"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In the equation for Gibbs-free energy, if $\\elta \\athrm{H}$ (Pron: delta H) is negative and $\\elta \\athrm{S}$ (Pron: delta S) is positive, then the outcome for the reaction is:",
+    "choices": {
+      "W": "spontaneous at all temperatures",
+      "X": "nonspontaneous at all temperatures",
+      "Y": "spontaneous only at high temperatures",
+      "Z": "spontaneous only at low temperatures"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following from the shortest to the longest carbon chain fatty acid: lauric, palmitic, arachadonic",
+    "answer": "LAURIC, PALMITIC, ARACHADONIC"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Because of its considerable influence on astronomy from the time of its creation in the $2^{\\athrm{nd}}$ century AD until the $16^{\\athrm{th}}$ century, what book is often mentioned as one of the greatest books in the entire history of science?",
+    "answer": "ALMAGEST"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Compute the estimated temperature, in Kelvin to the nearest one-thousand, of a stellar body's surface that emits light of 290 nanometers:",
+    "answer": "10000"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the derivative of the following equation: $y = x^{-12}$",
+    "answer": "$-12x^{-13}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Use the Binomial Theorem to expand and simplify the following equation: $(x + 2)^{4}$",
+    "answer": "$x^4 + 8x^3 + 24x^2 + 32x + 16$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true about the Earth's stratosphere:",
+    "choices": {
+      "W": "it contains most of the ozone",
+      "X": "it is bordered on the bottom by the stratopause",
+      "Y": "it sits below the mesosphere",
+      "Z": "within the layer, temperature increases with altitude"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "In some regions of the central U.S., wind-blown deposits of dust are thick enough that it forms a rugged topography with steep slopes consisting largely of silt which exhibits little stratification and is known as:",
+    "answer": "LOESS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Ethologists are scientists who study:",
+    "choices": {
+      "W": "Earth's ecosystems",
+      "X": "animal behavior",
+      "Y": "racial groups",
+      "Z": "countries of origin"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "The carcinogenic effects of sunlight on skin are primarily caused by which of the following bands of light:",
+    "choices": {
+      "W": "infrared",
+      "X": "UV-A",
+      "Y": "UV-B",
+      "Z": "UV-C"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Spooling occurs when:",
+    "choices": {
+      "W": "a document is loaded into a buffer for printing",
+      "X": "the operating system copies a certain number of pages from the hard disk to main memory",
+      "Y": "data being sent over secure networks is encrypted",
+      "Z": "analog data is converted into digital data"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "In the Java implementation, vectors are created using arrays. The default array size for a vector in Java 1.2 is:",
+    "choices": {
+      "W": "5",
+      "X": "10",
+      "Y": "20",
+      "Z": "25"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Considering air resistance is negligible and that gravitational acceleration is 9.8 meters per second squared, rounded to the first decimal place, what is the speed acquired by a body in free fall, starting from rest, after 5 seconds?",
+    "answer": "49"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Order the following elements from the one with the LEAST resistivity to the GREATEST resistivity at $20^\\irc\\athrm{C}$ : aluminum, mercury, iron, glass",
+    "answer": "ALUMINUM, IRON, MERCURY, GLASS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Proteins of which of the following will typically have the shortest half-life:",
+    "choices": {
+      "W": "ovary",
+      "X": "kidney",
+      "Y": "liver",
+      "Z": "smooth muscle"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three lipids from those with the lowest to highest melting points: n-octadecanoic acid, n-eicosonoic acid, n-dodecanoic acid",
+    "answer": "N-DODECANOIC ACID, N-OCTADECANOIC ACID, N-EICOSONOIC ACID"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In general, which of the following isomers are the most similar in terms of their physical and chemical properties:",
+    "choices": {
+      "W": "conformational",
+      "X": "geometric",
+      "Y": "structural",
+      "Z": "diastereomers"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "To the second decimal place and in the proper units, what is the specific heat of a substance, which weighs 20 grams, if it takes 80 Joules to raise the temperature by $10^\\irc\\athrm{C}$:",
+    "answer": "0.40"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is probably the most ancient astronomic instrument:",
+    "choices": {
+      "W": "dioptera",
+      "X": "gnomon",
+      "Y": "astrolabe",
+      "Z": "compass"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "How many degrees of arc are in 1 hour and 20 minutes of right ascension?",
+    "answer": "20"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Named in honor of the English Mathematician who explained them, what is the name for the thermal circulation consisting of rising air near the equator and sinking air near $30^\\irc$ latitude:",
+    "choices": {
+      "W": "Rossby wave",
+      "X": "Ferrel cell",
+      "Y": "Hadley cell",
+      "Z": "Christopher cell"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "Which geological time period existed between approximately 500 and 570 million years ago:",
+    "answer": "CAMBRIAN"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "What type of microscope usually has a binocular eyepiece tube, a long working distance, and a range of magnifications typically from 5x to 35x or 40x:",
+    "choices": {
+      "W": "light field",
+      "X": "dark field",
+      "Y": "dissecting",
+      "Z": "phase contrast"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Radioactive dating of the Tyrolean Ice Man has shown he lived during which of the following ages:",
+    "choices": {
+      "W": "stone age",
+      "X": "copper age",
+      "Y": "bronze age",
+      "Z": "iron age"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How many neutrons and how many protons are present in a single tritium nucleus?",
+    "answer": "TWO NEUTRONS AND ONE PROTON"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the average acceleration in meters/sec $^2$ of a seagull traveling in a straight path from rest to $36\\athrm{km / hr}$ in $10\\athrm{sec}$ ?",
+    "answer": "1"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In plant tissue culture, one of the most effective ways to prepare sterile solutions of heat-labile hormones is to do which of the following:",
+    "choices": {
+      "W": "pasteurize the sample",
+      "X": "freeze and thaw the sample multiple times",
+      "Y": "dissolve the sample in $95\\$ ethanol",
+      "Z": "autoclave the sample"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "As Acetyl Coenzyme-A and oxaloacetate enter the tricarboxylic acid cycle in the presence of water, they will yield what two products?",
+    "answer": "CITRIC ACID AND COENZYME A"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following properties is best used and most accurate for the determination of molecular weights of an unknown substance:",
+    "choices": {
+      "W": "vapor-pressure lowering",
+      "X": "freezing-point depression",
+      "Y": "boiling-point elevation",
+      "Z": "osmotic pressure"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How much work, in kilojoules and to 2 decimal places, is expended during a chemical reaction in which the system volume expands from 10.0 liters to 12.0 liters against an external pressure of 5 atmospheres?",
+    "answer": "-1.01"
+  }
+]

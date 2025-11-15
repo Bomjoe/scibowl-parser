@@ -1,0 +1,498 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Over the last couple of years, the EPA has published articles warning consumers about what radioactive element that can have higher concentrations in granite?",
+    "choices": {
+      "W": "Potassium",
+      "X": "Thorium",
+      "Y": "Uranium",
+      "Z": "Plutonium"
+    },
+    "answer": "Y) Uranium"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A pyrite block with a mass of $2\\athrm{kg}$ sits on a submarine fan, approximated as an inclined plane, angled 30 degrees. What would the least value of coefficient of friction have to be between the pyrite and submarine fan if the block isn't moving? Assume that $\\athrm{g} = 10 \\athrm{m / s} \\edge 2$.",
+    "answer": "$\\qrt{3}/3$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following bonds are longest in length?",
+    "choices": {
+      "W": "Fluorine-Fluorine",
+      "X": "Chlorine-Chlorine",
+      "Y": "Bromine-Bromine",
+      "Z": "Iodine-Iodine"
+    },
+    "answer": "Z) Iodine-Iodine"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A reaction between the two solutions A and B has a rate constant k of 1. If A increases from 2.0 to 4.0 moles while B is held constant, the reaction rate is doubled. If B increases from 2.0 to 4.0 moles while A is held constant, the reaction rate is quadrupled. What is the order of the reaction?",
+    "answer": "3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "List the following supercontinents from oldest to newest: I) Laurentia II) Laurasia III) Gondwana",
+    "answer": "I, III, II"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the average depth of the Mohorovicic Discontinuity beneath the ocean basin?",
+    "choices": {
+      "W": "8 km",
+      "X": "10 km",
+      "Y": "12 km",
+      "Z": "14 km"
+    },
+    "answer": "W) 8 km"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In $\\triangle ABC$ , $AB = 3$ , $BC = 4$ , and $AC = 5$ . Find the inradius of this triangle.",
+    "answer": "1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In right $\\triangle ABC$ with a right angle at C, $\\athrm{AC} = 3$ and $\\athrm{BC} = 4$ . Circle w passes through points A, C, and midpoint M of leg BC. Ray AB meets w second time at point N. Find AN.",
+    "answer": "17/5"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would NOT be classified as being diploblastic?",
+    "choices": {
+      "W": "Jellyfish",
+      "X": "Molluscs",
+      "Y": "Corals",
+      "Z": "Sea Anemone"
+    },
+    "answer": "X) Molluscs"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Name all of the following which are NOT differences between protostome and deuterostome development. I. In deuterostome development radial or indeterminate cleavage occurs while in protostome development spiral or determinate cleavage occurs II. In deuterostome development the anus develops from the blastopore while in protostome development the mouth develops from the blastopore III. In deuterostome development folds of archenteron form the coelom while in protostome development solid masses of mesoderm split and form the coelom",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Tim launches a piece of galena from his cannon. At what angle should he angle the cannon so that the galena goes the furthest?",
+    "answer": "45"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 5kg block of bytownite has an initial potential energy of 500J. If the block is then dropped from a building and has a new potential energy of 200J at time t, how far has it fallen in the time t in meters? Assume that $\\athrm{g} = 10 \\athrm{m / s} \\edge 2$.",
+    "answer": "6"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which electron orbital is the most energetic in a ground state atom of tin?",
+    "answer": "5p"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Rank the following 4 elements in order of increasing first ionization energy 1) Krypton 2) Calcium 3) Rubidium 4) Potassium",
+    "choices": {
+      "W": "3, 4, 2, 1",
+      "X": "4, 3, 2, 1",
+      "Y": "3, 2, 4, 1",
+      "Z": "1, 2, 3, 4"
+    },
+    "answer": "3, 4, 2, 1"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Gideon looks up into the sky and notices an advancing group of cirrus clouds which was then followed by light precipitation. What type of front has caused the weather Gideon just experienced.",
+    "answer": "Warm Front"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following four Conditions would be associated with a La Niña? 1. Cool weather temperatures in west Africa 2. Cool and Wet temperatures in Indonesia 3. Warm and Wet conditions around Peru 4. Warm and Dry conditions in the Southeastern USA",
+    "answer": "1,2,4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate $\\nt_{-1}^{0} x^{3} \\in(x^{2}) \\athrm{~dx}$ . (Read as: The definite integral from pi to negative pi of the quantity x cubed end quantity times the sine of the quantity x squared end quantity dx)",
+    "answer": "0"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is $\\nt \\athrm{e}^{x + \\athrm{e}^{x}} \\athrm{dx}$ (Read as: The indefinite integral of e to the power of the quantity x plus e to the power of x end quantity dx)",
+    "choices": {
+      "W": "$\\athrm{e}^{x + x} + \\athrm{C}$",
+      "X": "$\\athrm{e}^{e^x} + C$",
+      "Y": "$\\athrm{e}^{x + e^x} + C$",
+      "Z": "$\\athrm{e}^{x} + C$"
+    },
+    "answer": "$\\athrm{e}^{e^x} + C$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What is the name for the flagellated cell lining the interior of a sponge that engulfs bacteria and other food particles by phagocytosis?",
+    "choices": {
+      "W": "Mesohyl",
+      "X": "Amoebocyte",
+      "Y": "Phagocyte",
+      "Z": "Choanocyte"
+    },
+    "answer": "Z) Choanocyte"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Sponges are filter feeders. What is the name for the cavity that they draw water into, and the large opening that the water flows out of, during this process, respectively?",
+    "answer": "SPONGOCEAL AND OSCULUM"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In oceanography, ocean waves, approximated as orbital waves, can collide such that they create a wave with a much greater height than what could be reached with wind. What is the name of the phenomena that causes this?",
+    "choices": {
+      "W": "Destructive interference",
+      "X": "Constructive interference",
+      "Y": "Meissner effect",
+      "Z": "Stark's effect"
+    },
+    "answer": "X) Constructive interference"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A sample of gas is adiabatically expanded such that the pressure is halved. By what factor would the volume change, assuming that the initial temperature is 300K?",
+    "choices": {
+      "W": "Less than 2",
+      "X": "Equal to 2",
+      "Y": "Greater than 2",
+      "Z": "Depends on the gas"
+    },
+    "answer": "W) Less than 2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true concerning lattice energies?",
+    "choices": {
+      "W": "Cations and anions with a greater charge will produce a lower lattice energy",
+      "X": "Decreasing the ion size will produce a lower lattice energy",
+      "Y": "Lattice energy can be calculated by summing the heat of formation for each gaseous ion produced",
+      "Z": "SrO(s) has a higher lattice energy than LiF(s)"
+    },
+    "answer": "Z) SrO(s) has a higher lattice energy than LiF(s)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the degree of unsaturation of $\\athrm{C_8H_{14}}$",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Sean is observing a star that has exceeded its Eddington limit. Which of the following events would happen as a direct result of this condition? W) Intense stellar wind from its outer layers X) The star will instantly explode in a supernovae Y) Helium Flash Z) Collapse into a white dwarf",
+    "answer": "W) Intense stellar wind from its outer layers"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What shepherd moon is responsible for the encke gap in saturn's rings",
+    "answer": "Pan"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The apothem of a regular hexagon is 3. What is the area of this hexagon?",
+    "answer": "$18\\qrt{3}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the sum of the 20th powers of the roots of $z^{\\edge}20 - 19z^{\\edge}2 + 2 = 0$",
+    "answer": "- 40"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The Michaelis-Menten equation uses the assumption that the concentration of the enzyme-substrate complex does not change with time. This assumption is known as:",
+    "choices": {
+      "W": "steady-state assumption",
+      "X": "free ligand approximation",
+      "Y": "rapid equilibrium approximation",
+      "Z": "michaelis menten assumption"
+    },
+    "answer": "W) STEADY-STATE ASSUMPTION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Name the plot that can be used to calculate $\\athrm{K_m}$ and $\\athrm{V_{max}}$ , as well as to determine the mechanism of action of enzyme inhibitors.",
+    "answer": "LINEWEAVER-BURK PLOT"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What particle has two up quarks and one down quark?",
+    "answer": "Proton"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Name the third generation quarks in order of increasing mass.",
+    "answer": "Bottom, Top"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many unpaired electrons does an $\\athrm{Fe}^{3 + }$ ion have?",
+    "answer": "5"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many total carbons are in the organic compound 1, 1- dichloro-3-ethyl-2,4 dimethylpentane?",
+    "answer": "9"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following rocks are not metamorphic?",
+    "choices": {
+      "W": "Gneiss",
+      "X": "Slate",
+      "Y": "Schist",
+      "Z": "Halite"
+    },
+    "answer": "Z) Halite"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of a current that travels back up the mouth of a stream?",
+    "answer": "Tidal Bore"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Find the numerical value of k for which $6 / (\\athrm{x} + \\athrm{y}) = \\athrm{k} / (\\athrm{x} + \\athrm{z}) = 10 / (\\athrm{z} - \\athrm{y})$ for all x, y, and z such that the denominators of the fractions are nonzero.",
+    "choices": {
+      "W": "10",
+      "X": "12",
+      "Y": "16",
+      "Z": "24"
+    },
+    "answer": "16"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many arrangements of the word PENDER have no two E's appearing consecutively?",
+    "answer": "240"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the component of the eye that can contract or expand to let more or less light into the pupil?",
+    "answer": "IRIS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following components of the eye from most external, to most internal: I. Pupil II. Cornea III. Aqueous Humor",
+    "answer": "II, III, I"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Name which of the following are vector quantities: I. Electric field II. Force III. Kinetic Energy",
+    "answer": "I, II"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Rounded to the nearest ten thousand, what is the distance between a satellite in a geosynchronous orbit and the center of the Earth? W) 10,000 X) 20,000 Y) 30,000 Z) 40,000",
+    "answer": "Z) 40,000"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "If the temperature of a substance is brought from 100K to 400K, by what factor has the mean speed of the molecules increased?",
+    "answer": "2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reactions would occur in the ocean if the ocean is too acidic? W) $\\athrm{HCO3 - + H + \\ightarrow H2CO3}$ X) $\\athrm{H2CO3}\\ightarrow \\athrm{HCO3 - + H + }$ Y) $\\athrm{H3O + + HCO3 - \\ightarrow H2CO3 + H2O}$ Z) $\\athrm{H2CO3 + H2O\\ightarrow H3O + + HCO3 - }$",
+    "choices": {
+      "W": "$\\athrm{HCO3 - + H + \\ightarrow H2CO3}$",
+      "X": "$\\athrm{H2CO3}\\ightarrow \\athrm{HCO3 - + H + }$",
+      "Y": "$\\athrm{H3O + + HCO3 - \\ightarrow H2CO3 + H2O}$",
+      "Z": "$\\athrm{H2CO3 + H2O\\ightarrow H3O + + HCO3 - }$"
+    },
+    "answer": "W) $\\athrm{HCO3 - + H + \\ightarrow H2CO3}$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following three components of the interstellar space medium are ionized? I. HI clouds II. Molecular clouds III. Coronal gas",
+    "answer": "III only"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Daniel is looking at the clouds when he notices a tornado shaped cloud on the bottom of a cumulonimbus, what type of cloud has daniel just observed?",
+    "answer": "Scud Cloud"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Robin and Daniel each sit in a row of 6 chairs. They choose their seats at random. What is the probability that they don't sit next to each other? W) 1/3 X) 2/3 Y) 1 Z) 3/4",
+    "answer": "X) 2/3"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let k=2006^2+2^2006. What is the units digit of k^2+2^k? W) 0 X) 2 Y) 4 Z) 6",
+    "answer": "Y) 4"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What occurs within the eye when a person first reads a book and then looks up to see a far off mountain in the distance: W) Ciliary muscles go first relax, and then contract X) The Suspensory ligaments first relax and then contract Y) The Lens first become flat, and then becomes rounder Z) Choroid is first pulled away from the lens, and then it is pulled towards it",
+    "choices": {
+      "W": "Ciliary muscles go first relax, and then contract",
+      "X": "The Suspensory ligaments first relax and then contract",
+      "Y": "The Lens first become flat, and then becomes rounder",
+      "Z": "Choroid is first pulled away from the lens, and then it is pulled towards it"
+    },
+    "answer": "X) THE SUSPENSORY LIGAMENTS FIRST RELAX AND THEN CONTRACT"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following steps in production of the receptor potential from first to occur to last to occur: I. Transducin activates the enzyme phosphodiesterase II. $\\athrm{Na^{+}}$ channels close when the cGMP detaches III. cis-retinal converted to trans-retinal, and rhodopsin is activated",
+    "answer": "III I II"
+  }
+]

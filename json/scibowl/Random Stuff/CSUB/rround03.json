@@ -1,0 +1,499 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When Natalie rides in a circle on her horse, she perceives a force which tends to throw her off her horse to the outside of the ring. What is the common name for this fictitious center-fleeing force?",
+    "answer": "CENTRIFUGAL FORCE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the angular velocity in radians per second of a wheel with a radius of 1.2 meters and a surface velocity of 15.6 meters/sec?",
+    "answer": "13"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the correct botanical term for the stem of a flower:",
+    "choices": {
+      "W": "peduncle",
+      "X": "stolon",
+      "Y": "rhizome",
+      "Z": "tuber"
+    },
+    "answer": "W) PEDUNCLE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The Gram stain delineates the differences between bacteria by differentially staining what part of the bacteria?",
+    "answer": "CELL WALL"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following groups of elements would generally have the lowest ionization energies:",
+    "choices": {
+      "W": "group 1A",
+      "X": "group 5A",
+      "Y": "group 7A",
+      "Z": "group 8A"
+    },
+    "answer": "W) GROUP 1A"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "From the lowest to the highest atomic number, give the full names of 4 noble gases:",
+    "answer": "HELIUM; NEON; ARGON; KRYPTON; XENON; RADON"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "In the H-R diagram, what two characteristics are plotted on the horizontal axis?",
+    "answer": "SURFACE TEMPERATURE AND SPECTRAL CLASS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "According to the spectral sequence on the H-R diagram, \O\ stars have a surface temperature of about:",
+    "choices": {
+      "W": "2,000,000 Kelvin",
+      "X": "40,000 Kelvin",
+      "Y": "8,000 Kelvin",
+      "Z": "1600 Kelvin"
+    },
+    "answer": "X) 40,000 KELVIN"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many different 3-letter arrangements of the word \truck\ are there?",
+    "answer": "60"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A small business had first-year sales of \20,000. For the next several years, sales increased by \10,000 per year over the previous year. What were its total sales over the first 6 years of operation?",
+    "answer": "\270,000"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "What is the name for the point on the Earth's surface that is directly above the focus of an earthquake?",
+    "answer": "EPICENTER"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "A Karst landscape generally forms on which of the following types of rock:",
+    "choices": {
+      "W": "limestone",
+      "X": "clay and silt",
+      "Y": "volcanic rocks",
+      "Z": "sandstone"
+    },
+    "answer": "W) LIMESTONE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is TRUE for the f-number in a typical camera lens:",
+    "choices": {
+      "W": "the larger the f-number, the more light reaches the film",
+      "X": "the larger the f-number, the greater the depth of field",
+      "Y": "the smaller the f-number, the lesser the light reaches the film",
+      "Z": "the smaller the f-number, the greater the depth of field"
+    },
+    "answer": "X) THE LARGER THE F-NUMBER, THE GREATER THE DEPTH OF FIELD"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following has been most effectively implicated in Alzheimer's disease:",
+    "choices": {
+      "W": "glutanic oxygenase",
+      "X": "aluminum toxicosis",
+      "Y": "amyloid-beta precursor protein",
+      "Z": "poor diet"
+    },
+    "answer": "Y) AMYLOID-BETA PRECURSOR PROTEIN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "A rather primitive graphics file format used mostly in the Windows environment for things such as wallpaper is:",
+    "choices": {
+      "W": "BMP",
+      "X": "PICT",
+      "Y": "GIF",
+      "Z": "JPEG"
+    },
+    "answer": "W) BMP"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "What does the acronym for the GIF graphics file format stand for?",
+    "answer": "GRAPHICS INTERCHANGE FORMAT"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If light is passed through two pin holes and the patterns allowed to overlap on a wall, the pattern produced by the intersection of waves is called:",
+    "choices": {
+      "W": "an intersection pattern",
+      "X": "an interference pattern",
+      "Y": "an arcing pattern",
+      "Z": "a construction pattern"
+    },
+    "answer": "X) AN INTERFERENCE PATTERN"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In meters per second, what is the approximate speed of sound in air if the temperature of the air is $10^{\irc}\athrm{C}$?",
+    "answer": "337"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Of the following 4 organisms, which is LEAST related to the others taxonomically: spider; tick; lobster; horse-shoe crab",
+    "answer": "LOBSTER"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Saltatory conduction is a propagation used by what specific type of nerves?",
+    "answer": "MYELINATED"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "If an atom X, which has an electronegativity of 3.0, bonds with atom Y, which has an electronegativity of 2.5, what type of bond is most likely prevalent:",
+    "choices": {
+      "W": "ionic",
+      "X": "polar covalent",
+      "Y": "non-polar covalent",
+      "Z": "neutral"
+    },
+    "answer": "X) POLAR COVALENT"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Finish balancing the following equation, which represents the etching of glass: $\athrm{SiO_2 + 4HF \ightarrow}$ (what?)",
+    "answer": "$\\athrm{SiF_4 + 2H_2O}$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What is the most common name for the dipper-shaped open cluster of stars found in the constellation Taurus, 6 of which are visible to the naked eye?",
+    "answer": "PLEIADES"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Named after the father of Saturn, what planet rotates on its side with its pole tilted 90 degrees to the plane of the solar system?",
+    "answer": "URANUS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Convert $\\rac{2\\i}{3}$ radians into degrees:",
+    "answer": "$120^\\irc$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Multiply and simplify the following polynomial expression: $(-2a^{2}b^{3} + 5c)(2a^{2}b^{3} + 5c)$",
+    "answer": "$25c^{2} - 4a^{4}b^{6}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "What term is given to the line of latitude $23\\rac{1}{2}^\\irc$ south of the equator that marks the most southerly place where the Sun is overhead on December $21^{\\athrm{st}}$?",
+    "answer": "THE TROPIC OF CAPRICORN"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "What term is used to describe a particularly lethal form of volcanic eruption, occurring when red-hot tephra and searing gases are too dense to rise upward and can rush down the flanks of volcanoes at speeds approaching 450 miles/hr?",
+    "answer": "PYROCLASTIC FLOW"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "How many feet are in 1000 meters?",
+    "answer": "3281"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What is the enzyme used by cyanobacteria in the nitrogen-fixation process?",
+    "answer": "NITROGENASE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Copyrighted software that is distributed free of charge by the author for people to use but not sell is called:",
+    "choices": {
+      "W": "freeware",
+      "X": "openware",
+      "Y": "open source",
+      "Z": "public-domain"
+    },
+    "answer": "W) FREEWARE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "What is the octal equivalent of the binary number 1000 (read as: one, zero, zero, zero)?",
+    "choices": {
+      "W": "1",
+      "X": "3",
+      "Y": "5",
+      "Z": "10"
+    },
+    "answer": "Z) 10"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "When referring to nuclear atomic structure, the upper case letter Z by convention refers to:",
+    "choices": {
+      "W": "neutron number",
+      "X": "electron number",
+      "Y": "isotope number",
+      "Z": "proton number"
+    },
+    "answer": "Z) PROTON NUMBER"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a wave has a frequency of 200 hertz, what is its period?",
+    "answer": "0.005 SECONDS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "T cells are to cytokines as plasma cells are to:",
+    "answer": "ANTIBODIES"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the four main blood types from the most common to the least common in the US population:",
+    "answer": "O, A, B AND AB"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds is covalently bonded:",
+    "choices": {
+      "W": "Cl2",
+      "X": "LiBr",
+      "Y": "CaCl2",
+      "Z": "Na2O"
+    },
+    "answer": "W) Cl2"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Using electrophoresis at a pH of 6.0, which two of the following 5 amino acids would move fastest to the cathode: arginine, glutamic acid, glycine, alanine, lysine",
+    "answer": "LYSINE, ARGININE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What two planets have recently been trading off as the planet with the most discovered moons?",
+    "answer": "SATURN AND JUPITER"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What is the common scientific name for the region of magnetized plasma that surrounds the sun, includes the orbits of all our planets, and is created by the solar wind?",
+    "answer": "HELIOSPHERE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "The core of the Earth is largely composed of what element?",
+    "answer": "IRON"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "An agate is a form of which of the following minerals:",
+    "choices": {
+      "W": "quartz",
+      "X": "feldspar",
+      "Y": "magnetite",
+      "Z": "copper"
+    },
+    "answer": "W) QUARTZ"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "In what type of centrifuge is a fluid, consisting of 2 or more components, sprayed into a cylindrical or conical chamber at a high rate of speed, thereby separating it into its components:",
+    "choices": {
+      "W": "stationary centrifuge",
+      "X": "ultracentrifuge",
+      "Y": "rotating centrifuge",
+      "Z": "filtration centrifuge"
+    },
+    "answer": "W) STATIONARY CENTRIFUGE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Most helium is separated by fractional distillation from what natural resource?",
+    "answer": "NATURAL GAS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Where is the gravitational force the greatest for a uniform spherical planet?",
+    "answer": "AT ITS SURFACE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the wavelength, in meters, of a wave moving at 200 meters per second if its frequency is 25 Hertz?",
+    "answer": "8"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "To prepare a tincture of merthiolate, the merthiolate is mixed in what general type of solvent?",
+    "answer": "ALCOHOL"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following structures is directly attached to the transverse colon:",
+    "choices": {
+      "W": "greater omentum",
+      "X": "panpiform plexus",
+      "Y": "cystic duct",
+      "Z": "uvula"
+    },
+    "answer": "W) GREATER OMENTUM"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What general chemical term best describes a metal or alloy that can be substantially pressed or hammered into shapes without fracture?",
+    "answer": "MALLEABLE"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "One-hundred milliliters of a 2 molar NaOH solution contains how many moles of NaOH?",
+    "answer": "0.2"
+  }
+]

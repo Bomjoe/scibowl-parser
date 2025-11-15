@@ -1,0 +1,389 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the hybridization of the central carbon atom in urea?",
+    "answer": "$sp^2$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three compounds in terms of increasing pKa: 1) Acetic acid; 2) Ammonium chloride; 3) Chloric acid.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "From what cells in the Islets of Langerhans is insulin released?",
+    "answer": "BETA CELLS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three plant hormones that are unique to monocots: 1) Auxins; 2) Gibberellins; 3) Ethylene.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following glacial features is strictly erosional?",
+    "choices": {
+      "W": "Cirque",
+      "X": "Lateral moraine",
+      "Y": "Esker",
+      "Z": "Ground moraine"
+    },
+    "answer": "W) CIRQUE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three planetary bodies in terms of increasing average surface temperature: 1) Venus; 2) Mercury; 3) Mars.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "10 people are standing in a circle. How many ways are there to choose 2 people such that they are not standing next to each other?",
+    "answer": "35"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the $x$ coordinates of the inflection points of the function $y = 3x^4 - 9x^3 + 10x^2 + 2x + 8$?",
+    "answer": "$3/2$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Pacific Northwest National Lab are investing alternatives to PGMs, or platinum group metals, for use as inert surface catalysts in electronic materials. Which of the following elements is a PGM?",
+    "choices": {
+      "W": "Niobium",
+      "X": "Palladium",
+      "Y": "Molybdenum",
+      "Z": "Technetium"
+    },
+    "answer": "X) PALLADIUM"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Berkeley National Lab have been imaging one-dimensional graphene layers for their potential applications as circuitry components. Which of the following types of microscopy were they likely using?",
+    "choices": {
+      "W": "Electron microscopy",
+      "X": "Fluorescence microscopy",
+      "Y": "Scanning tunneling microscopy",
+      "Z": "Phase-contrast microscopy"
+    },
+    "answer": "Y) SCANNING TUNNELING MICROSCOPY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Heisenberg’s uncertainty principle can be stated in terms of energy and what other quantity?",
+    "answer": "TIME"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What quantity measures the resulting intensity of an electromagnetic wave passing through a barrier in terms of the incident intensity?",
+    "answer": "TRANSMISSION COEFFICIENT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following four metamorphic rocks in terms of increasing grade: 1) Muscovite schist; 2) Garnet schist; 3) Phyllite; 4) Gneiss.",
+    "answer": "3, 1, 2, 4"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What method of distance measurement involves using the redshift of an object’s spectrum to determine its distance?",
+    "answer": "SPECTROSCOPIC PARALLAX"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What animal phylum possesses spicules and no true tissues?",
+    "answer": "PORIFERA"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three flower whorls from innermost to outermost in a perfect flower: 1) Stamens; 2) Sepals; 3) Petals.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Idaho National Lab are studying the vadose zones near wastewater ponds in the Snake River Plain. Movement of water in this zone may be described by what law?",
+    "answer": "DARCY'S LAW"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Fermilab have been using particle accelerators to better understand early universe conditions. Which of the following statements is NOT true regarding particle accelerators?",
+    "choices": {
+      "W": "Larger particle accelerators help study more massive particles",
+      "X": "Magnetic fields are used to keep particles in a circular orbit",
+      "Y": "Synchrotrons usually achieve higher energy collisions than linear accelerators",
+      "Z": "Electrons in circular particle accelerators emit energy over time"
+    },
+    "answer": "W) LARGER PARTICLE ACCELERATORS HELP STUDY MORE MASSIVE PARTICLES"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the period of the function $y = 13 \\in(\\i x + 5)$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "ABCDE is a convex pentagon with right angle EAB, which is trisected by AC and AD. In addition, $\\athrm{AB} = 8$, $\\athrm{AC} = 4$, $\\athrm{AD} = 2$, and $\\athrm{AE} = 1$. What is the area of ABCDE?",
+    "answer": "$21/2$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three properties that are differences between the hexagonal close-packing of atoms and the cubic close-packing of atoms: 1) Packing efficiency; 2) Coordination number; 3) Stacking of layers.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three processes for which the change in entropy of the system is zero: 1) Reversible adiabatic expansion; 2) Reversible isothermal compression; 3) Reversible isobaric expansion.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A car is traveling at 15 meters per second when the driver slams on the brakes, applying a constant force to decelerate to a halt in 200 meters. If, instead, the car was initially traveling at 45 meters per second, what distance in meters would be required for the car to stop with the same braking force?",
+    "answer": "1800"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three conservation laws that would be violated in the decay of a neutron to a proton and an electron: 1) Conservation of charge; 2) Conservation of lepton number; 3) Conservation of spin.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Plasma cells, which constitute a major component of the secondary immune system by secreting antibodies, are the active form of what large group of leukocytes?",
+    "choices": {
+      "W": "T-cells",
+      "X": "B-cells",
+      "Y": "Natural killer cells",
+      "Z": "Neutrophils"
+    },
+    "answer": "X) B-CELLS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which phylum of algae is often responsible for anoxic red tide algal blooms?",
+    "answer": "DINOFLAGELLATES"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Simplify the expression $i^{123}$",
+    "answer": "$-i$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Jeffrey rolls a fair six-sided die three times. What is the probability that he rolled a 1 at least once?",
+    "answer": "91/216"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a common characteristic of evaporite minerals?",
+    "choices": {
+      "W": "They are water soluble",
+      "X": "They are relatively soft",
+      "Y": "Their deposition is indicative of a dry climate",
+      "Z": "They are submetallic in luster"
+    },
+    "answer": "Z) THEY ARE SUBMETALLIC IN LUSTER"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "21 centimeter radiation is produced from a spin-flip transition of an electron between hyperfine levels of which element?",
+    "answer": "HYDROGEN"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When alternating current is running through a wire, the current density is much greater at the surface of the wire than at the center, causing its resistance to increase. What is the term for this effect?",
+    "answer": "SKIN EFFECT"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Moseley’s law states that the atomic numbers of elements are proportional to their characteristic X-ray emission frequencies to what power?",
+    "answer": "$1/2$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab are studying iron(II) chromite crystals from the Tissint Martian meteorite and its catalytic uses in the reaction of carbon monoxide and water vapor to carbon dioxide and what other gas?",
+    "answer": "HYDROGEN"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab have been using Schrodinger's equation to model the electronic structure of complex organic molecules. What notation in quantum mechanics allows them to state Schrodinger's equation in terms of linear operators?",
+    "answer": "BRA-KET NOTATION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three alkene addition reactions that are considered syn-additions: 1) Hydroboration-oxidation; 2) Catalytic hydrogenation; 3) Bromination.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Water and carbon tetrachloride are added to a container. After some time, elemental iodine is dissolved in water and poured into the mixture. Once the container is shaken, what quantity describes the ratio between the concentration of iodine in the aqueous and organic phases?",
+    "answer": "PARTITION COEFFICIENT"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A 3 by 2 matrix is multiplied by a 2 by 4 matrix. How many entries does the resultant matrix have?",
+    "answer": "12"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A particle is moving along the $x$ axis such that it is at $x = 0$ when $t = 0$ and its velocity is given as $v(t) = t^4 - 16$. What is the positive difference between the net displacement and distance traveled in the time interval from $t = 0$ to $t = 100$?",
+    "answer": "$256/5$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following high energy chemical species does not play a significant role in the Krebs Cycle?",
+    "choices": {
+      "W": "NADPH",
+      "X": "ATP",
+      "Y": "NADH",
+      "Z": "FADH2"
+    },
+    "answer": "W) NADPH"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for the gill-like lungs that spiders use for respiration?",
+    "answer": "BOOK LUNGS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Koppen climate classification system classifies biomes based on what two parameters?",
+    "choices": {
+      "W": "Temperature and precipitation",
+      "X": "Temperature and humidity",
+      "Y": "Temperature and vegetation type",
+      "Z": "Precipitation and vegetation type"
+    },
+    "answer": "W) TEMPERATURE AND PRECIPITATION"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term is given to all the physical, chemical and biological changes that occur to sediment as they are transformed into sedimentary rock?",
+    "answer": "DIAGENESIS"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",

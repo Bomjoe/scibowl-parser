@@ -1,0 +1,466 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 10-kilogram block rests on a rough surface with a coefficient of kinetic and static friction equal to 0.5. If a 25-Newton force is applied to the block parallel to the ground, then what is the acceleration of the block?",
+    "answer": "0"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 3-kilogram block is traveling on a frictionless surface at 10 meters per second. It collides elastically with a 2-kilogram block traveling at 20 meters per second in the opposite direction. After the collision, what is the total momentum of the system?",
+    "answer": "10 KILOGRAM-METERS PER SECOND"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Blood is considered which of the following types of tissues?",
+    "choices": {
+      "W": "Epithelial",
+      "X": "Connective",
+      "Y": "Muscle",
+      "Z": "Nervous"
+    },
+    "answer": "X) CONNECTIVE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three organisms that have an open circulatory system: 1) Earthworm; 2) Fruit fly; 3) Lobster.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Voyager 1 and 2 both performed what maneuver as they passed by Jupiter and Saturn?",
+    "answer": "GRAVITY ASSIST"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the boundary between the outer core and the mantle?",
+    "answer": "GUTENBERG DISCONTINUITY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following angles has a negative cosine?",
+    "choices": {
+      "W": "$\\i /6$",
+      "X": "$\\i /3$",
+      "Y": "$2\\i /3$",
+      "Z": "$11\\i /6$"
+    },
+    "answer": "Y) $2\\i /3$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The first two terms of a geometric sequence are 25 and 20. What is the largest term in the sequence that is NOT an integer?",
+    "answer": "64/5"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three gases by increasing dispersion forces: 1) Neon; 2) Argon; 3) Krypton.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The SI definition of Kelvin is defined by setting which of the following properties of water equal to a fixed value?",
+    "choices": {
+      "W": "Triple point",
+      "X": "Freezing point",
+      "Y": "Boiling point",
+      "Z": "Critical point"
+    },
+    "answer": "W) TRIPLE POINT"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab are studying the conformational transitions involved in mitochondrial protein complexes. They are studying complex V, which belongs to a class of enzymes known as F-type ATPases. Complex V most likely hydrolyzes what bond in ATP?",
+    "answer": "PHOSPHATE BOND"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab are studying membrane-wide energy conversion in purple photosynthetic bacteria. The color of these bacteria is caused by the presence of what type of cells?",
+    "answer": "CHROMATOPHORE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Many equations in quantum physics, such as Heisenberg's uncertainty principle, use the reduced Planck constant. Reduced Planck's constant is equal to Planck's constant divided by what number?",
+    "answer": "$2\\i$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A proton moves in a 0.01-tesla magnetic field at a speed of $3 * 10^{7}$ meters per second in a circular path. Assuming that the mass of the proton is $1.6 * 10^{-27}$ kilograms, then to one significant figure, what is the radius of the proton's path?",
+    "answer": "30 METERS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following environments has the lowest net primary production?",
+    "choices": {
+      "W": "Tropical rainforest",
+      "X": "Open ocean",
+      "Y": "Estuary",
+      "Z": "Coral reef"
+    },
+    "answer": "X) OPEN OCEAN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "After creating a small hill in Illinois with his bare hands, Bob has decided to decorate his mountain with plants. On which side of the hill should Bob grow his plants so they get the maximum amount of sunlight annually?",
+    "choices": {
+      "W": "North",
+      "X": "East",
+      "Y": "South",
+      "Z": "West"
+    },
+    "answer": "Y) SOUTH"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the second smallest sedimentary particle commonly found in river beds?",
+    "answer": "SILT"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Red supergiants are located at which of the following locations on a HR diagram?",
+    "choices": {
+      "W": "Upper right",
+      "X": "Upper left",
+      "Y": "Lower right",
+      "Z": "Lower left"
+    },
+    "answer": "W) UPPER RIGHT"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $\\athrm{f}(x) = 2x^{3} + 3$. What is the degree of the polynomial $\\athrm{f}(x)^{3}$?",
+    "answer": "9"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What theorem states that the sampling distribution approaches the normal distribution as n grows large?",
+    "answer": "CENTRAL LIMIT THEOREM"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Compounds that have L and D isomers exhibit what type of isomerism, characterized by non-superimposable mirror images?",
+    "answer": "ENANTIOMERISM"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the most common industrial process used to synthesize ammonia from nitrogen and hydrogen gas?",
+    "answer": "HABER PROCESS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Ames National Lab are conducting experiments with CaloriSMART, which could improve the energy efficiency of current refrigeration systems. What theoretical heat cycle minimizes heat loss and has the maximum possible theoretical efficiency?",
+    "answer": "CARNOT CYCLE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Ames National Lab are studying the recycling of rare-earth magnets at the Critical Materials Institute. Which of the following is NOT considered a rare earth metal?",
+    "choices": {
+      "W": "Neodymium",
+      "X": "Lanthanum",
+      "Y": "Platinum",
+      "Z": "Yttrium"
+    },
+    "answer": "Y) PLATINUM"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When a car drives along a road, the absence of what force can cause slipping on the wheels?",
+    "answer": "FRICTION"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the Lorentz factor of an object moving at 0.6 times the speed of light?",
+    "answer": "1.25"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Mycorrhizae are mutualistic relationships between a plant and an organism in which of the following kingdoms?",
+    "choices": {
+      "W": "Bacteria",
+      "X": "Animalia",
+      "Y": "Protista",
+      "Z": "Fungi"
+    },
+    "answer": "Z) FUNGI"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the nitrogen cycle, denitrifying bacteria make what nitrogen-containing molecule?",
+    "answer": "$\\athrm{N}_{2}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What hypothesis states that small changes in Earth’s orbit, precession, and inclination affect its climate and can cause ice ages?",
+    "answer": "MILANKOVITCH HYPOTHESIS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the best course of action for a swimmer caught in a rip current?",
+    "choices": {
+      "W": "Swim parallel to the current towards shore",
+      "X": "Swim parallel to the current away from shore",
+      "Y": "Swim parallel to shore in either direction",
+      "Z": "Float and wait for current to pass."
+    },
+    "answer": "Y) SWIM PARALLEL TO SHORE IN EITHER DIRECTION"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions does NOT have an inverse for all real numbers $x$?",
+    "choices": {
+      "W": "$e^{x}$",
+      "X": "$\\in (x)$",
+      "Y": "$\\rctan (x)$",
+      "Z": "$x^{3}$"
+    },
+    "answer": "X) $\\in (x)$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the surface area of an regular octahedron with a side length of 9?",
+    "answer": "162\\qrt{3}"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What quantity characterizes the ability of an atom to attract bonded electrons?",
+    "answer": "ELECTRONEGATIVITY"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following polymers is formed through addition polymerization and is widely used in plumbing?",
+    "choices": {
+      "W": "Polyvinyl chloride",
+      "X": "Polycarbonate",
+      "Y": "Polystyrene",
+      "Z": "Polypropylene"
+    },
+    "answer": "W) POLYVINYL CHLORIDE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab have designed a chip-sized sensor to detect toxic polyfluoroalkyl substances, or PFAS, which do not break down naturally and can repel water and oils. Identify all of the following three products that PFAS is commonly used in: 1) Non-stick pans; 2) Food packaging; 3) Silverware.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are studying the quality and quantity of groundwater by examining what part of the Earth that lies between the surface soil and the water table?",
+    "answer": "VADOSE ZONE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A system consists of a ball floating on a cup of water. The ball is then removed from the system. Assuming no water leaves the cup, which of the following will happen to the weight of the system?",
+    "choices": {
+      "W": "Increase",
+      "X": "Stay the same",
+      "Y": "Decrease",
+      "Z": "Decrease, then increase"
+    },
+    "answer": "Y) DECREASE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What set of differential equations, whose exact solution is still unknown, describes the flow of viscous fluids?",
+    "answer": "NAVIer-STOKES EQUATIONS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a stage of cell signaling?",
+    "choices": {
+      "W": "Propagation",
+      "X": "Reception",
+      "Y": "Transduction",
+      "Z": "Response"
+    },
+    "answer": "W) PROPAGATION"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What enzyme catalyzes the conversion of ATP to cyclic AMP?",
+    "answer": "ADENYLYL CYCLASE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the process where the expansion of freezing water mechanically weathers rock?",
+    "choices": {
+      "W": "Ice breaking",
+      "X": "Cold weathering",
+      "Y": "Frost wedging",
+      "Z": "Destructive freezing"
+    },
+    "answer": "Y) FROST WEDGING"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Many solar flares are followed by an ejection of plasma, which can have significant effects on our magnetosphere if directed towards Earth. What is the name of these events?",
+    "answer": "CORONAL MASS EJECTION"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the fifth smallest prime number?",
+    "answer": "11"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Square ABCD has side length 4. The midpoints of the sides of ABCD are connected to form a smaller square. What is the area of the region inside ABCD but outside of the smaller square?",
+    "answer": "8"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An exothermic reaction has a positive change in entropy. Under which of the following conditions will the reaction be spontaneous?",
+    "choices": {
+      "W": "Only at high temperatures",
+      "X": "Only at low temperatures",
+      "Y": "At all temperatures",
+      "Z": "The reaction is never spontaneous"
+    },
+    "answer": "Y) AT ALL TEMPERATURES"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a property of graphene?",
+    "choices": {
+      "W": "$\\athrm{sp}^{2}$ hybridization",
+      "X": "Two-dimensional lattice",
+      "Y": "High tensile strength",
+      "Z": "Low thermal conductivity"
+    },
+    "answer": "Z) LOW THERMAL CONDUCTIVITY"
+  }
+]

@@ -1,0 +1,504 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the pH of a0.01 molar solution of a weak acid with a $\\athrm{pK}_{\\athrm{a}}$ of4?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "Y)3"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes the dependence of the ion-dipole energy potential on the distance of separation r?",
+    "choices": {
+      "W": "1/r",
+      "X": "$1 / \\athrm{r}^{2}$",
+      "Y": "$1 / \\athrm{r}^{3}$",
+      "Z": "$1 / \\athrm{r}^{4}$"
+    },
+    "answer": "X) $1 / \\athrm{r}^{2}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Livermore National Laboratory discovered that carbonyl sulfide is produced by wildfires and burning biomass, and will use this to better understand photosynthesis. Which of the following is true about photosynthesis?",
+    "choices": {
+      "W": "Ubiquinone is the mobile electron carrier between photosystem I and photosystem II",
+      "X": "Oxygen evolution occurs when $\\athrm{P700^{+}}$ oxidizes water",
+      "Y": "The cytochrome complex pumps protons into the lumen of the thylakoid",
+      "Z": "Most photosynthesis occurs within cellenchyma cells"
+    },
+    "answer": "Y) THE CYTOCHRome complex pumps protons into the lumen of the thylakoid"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers using the Advanced Photon Source discovered a highly selective catalyst that will activate methane towards the production of liquid fuels. The catalyst belongs to what class of compounds, consisting of3D metal clusters coordinated by organic ligands?",
+    "answer": "METAL ORGANIC FRAMEWORKS (ACCEPT: MOFs)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following thermodynamic processes is always irreversible?",
+    "choices": {
+      "W": "Isobaric expansion",
+      "X": "Adiabatic expansion",
+      "Y": "Free expansion",
+      "Z": "Isothermal expansion"
+    },
+    "answer": "Y) FREE EXPANSION"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The velocity of a particle can be described by the function of displacement as $\\athrm{v(x) =2x^{2} +4}$. What is the acceleration of the particle when the displacement of the particle is2 meters, in meters per second squared?",
+    "answer": "96"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For what value of $x$ are the two vectors $(1,3,2)$ and $(-2, x,7)$ orthogonal?",
+    "answer": "-4"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Determine the rightmost non-zero digit of the expression $2020^{2020}$.",
+    "answer": "6"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During periods of intense muscular activity, what substance in myocytes rapidly regenerates the amount of ATP by phosphorylating ADP?",
+    "answer": "CREATINE PHOSPHATE (ACCEPT: CREATINE)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following groups is still extant?",
+    "choices": {
+      "W": "Eurypterids",
+      "X": "Ratites",
+      "Y": "Ammonites",
+      "Z": "Conodonts"
+    },
+    "answer": "X) RATITES"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A sample of hornfels would most likely demonstrate a high abundance of what mineral?",
+    "choices": {
+      "W": "Kyanite",
+      "X": "Andalusite",
+      "Y": "Sillimanite",
+      "Z": "Kaolinite"
+    },
+    "answer": "X) ANDALUSITE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the distance in parsecs of a hypothetical star with an apparent magnitude of3 and an absolute magnitude of -2?",
+    "answer": "100"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A graph is plotted of the solubility of a hydrated salt at various temperatures. It is observed that at a certain temperature, the solubility of the salt sharply changes. Which of the following best explains why this happens?",
+    "choices": {
+      "W": "The hydrated salt has more degrees of freedom",
+      "X": "Hydration of the salt favors dissolution of the salt to form solvation shells",
+      "Y": "Ionic forces between the cation and anion are disrupted in the hydrate",
+      "Z": "Hydrogen bonding stabilizes the hydrate in solution"
+    },
+    "answer": "W) THE HYDRATED SALT HAS MORE DEGREES OF FREEDOM"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "An alloy containing metals A and B in a1 to1 weight ratio is dissolved in strong acid to produce $\\athrm{A}^{+}$ and $\\athrm{B}^{2+}$ cations, and is then exhaustively electrolyzed such that A is deposited first. When a pure sample of A of the same mass as the alloy is electrolyzed with the same current, it takes twice as long. What is the ratio of the molar mass of A to the molar mass of B?",
+    "answer": "3/2 (ACCEPT:3 TO2;1.5)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Oak Ridge National Laboratory used a mixture of water and tetrahydrofuran to break down biomass into sugars and lignin. Which of the following is correct about tetrahydrofuran?",
+    "choices": {
+      "W": "It is a homogeneous catalyst",
+      "X": "It is a nonpolar solvent",
+      "Y": "It is a polar aprotic solvent",
+      "Z": "It is a polar protic solvent"
+    },
+    "answer": "Y) IT IS A POLAR APROTIC SOLVENT"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Livermore National Lab have been studying the genome of many bacteriophages in the hopes of annotating them for their future use in biotech. The CRISPR system that defends bacteria from bacteriophage infection primarily utilizes what enzyme to cleave viral DNA?",
+    "answer": "CASP9 (CONTEXTUAL: COMMONLY ACCEPTED ENZYME IS CASP9 OR CAS9)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The current in a6 henry inductor starts at2 amps and increases to4 amps across a period of time. How much energy in joules was added during this time?",
+    "answer": "36"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following scenarios would increase the half width of the central line produced by a diffraction grating?",
+    "choices": {
+      "W": "Increasing wavelength of incident light",
+      "X": "Increasing the number of slits",
+      "Y": "Increasing the distance between slits",
+      "Z": "Decreasing the intensity of light"
+    },
+    "answer": "W) INCREASING WAVELENGTH OF INCIDENT LIGHT"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "From a solid cube with side length3, a hole in the shape of a right cylinder with radius1 and height3 is bored into the cube. What is the surface area of the resulting figure?",
+    "answer": "$54 +4\\i$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the sum of all values of $x$ such that $|1 - x| =2 - |x|$.",
+    "answer": "1"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following mechanisms would increase transcription?",
+    "choices": {
+      "W": "An increase in DNA methylation",
+      "X": "A decrease in histone acetylation",
+      "Y": "Corepressor binding to repressor in a repressible operon",
+      "Z": "Inducer binding to a repressor in an inducible operon"
+    },
+    "answer": "Z) AN INDUCER BINDING TO A REPRESSOR IN AN INDUCIBLE OPERON"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The Vagus nerve releases what neurotransmitter at synapses near the heart to decrease heart rate?",
+    "answer": "ACETYLCHOLINE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "If the peak wavelength of light emitted by a star increases by a factor of2, then the intensity of radiation from the star will change by what factor?",
+    "choices": {
+      "W": "1/16",
+      "X": "1/4",
+      "Y": "4",
+      "Z": "16"
+    },
+    "answer": "W)1/16"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Enceladus is under research as a possible habitable zone in part due to what feature on its surface that emits jets of water vapor, molecular hydrogen, other volatiles into the atmosphere?",
+    "answer": "CRYOVOLCANOES"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What type of cleavage in molecules such as AIBN and benzoyl peroxide forms free radicals by giving1 electron from the cleaved bond to each fragment?",
+    "answer": "HOMOLYTIC"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many $^{13}\\athrm{C}$ NMR signals does2,6 diethyl benzoic acid have?",
+    "answer": "7"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Ames National Laboratory are conducting a4D analysis of aptamers in soils, which are RNA molecules that are able to bind to ligands. What general group of RNA molecules act like aptamers as well as being able to catalyze biochemical reactions?",
+    "answer": "RIBOZYMES"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Laboratory used the SuperKEKB colliding beam accelerator to achieve the highest luminosity known so far. What is the dependence of the luminosity produced by the colliding beams on the cross sectional area A of the colliding beams?",
+    "choices": {
+      "W": "$1 / \\athrm{A}^{2}$",
+      "X": "$1 / \\athrm{A}$",
+      "Y": "A",
+      "Z": "A2"
+    },
+    "answer": "X) $1 / \\athrm{A}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name for the apparent contradiction between quantum mechanics, which states that information must be conserved, and general relativity which predicts the loss of information from black holes?",
+    "answer": "INFORMATION PARADOX"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An RC circuit consists of a5 ohm resistor and a10 Farad capacitor initially charged to4 volts. The capacitor is left to discharge through the resistor until it reaches1 volt. To the nearest percent, what percent of the total energy was dissipated into heat?",
+    "answer": "94%"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following series converges?",
+    "choices": {
+      "W": "$\\um_{n =1}^{\\nfty}\\rac{\\n(n)}{n}$",
+      "X": "$\\um_{n =1}^{\\nfty}\\rac{\\in(n)}{n}$",
+      "Y": "$\\um_{n =1}^{\\nfty}\\rac{\\qrt{n}}{n +1}$",
+      "Z": "$\\um_{n =1}^{\\nfty}n!e^{-n}$"
+    },
+    "answer": "X) $\\um_{n =1}^{\\nfty}\\rac{\\in(n)}{n}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A set of six numbers has a median of8, a unique mode of3, and a range of12. What is the greatest possible mean of this set of numbers?",
+    "answer": "26/3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true about phytochromes in plants?",
+    "choices": {
+      "W": "Red light causes the shift from $\\athrm{P}_{\\athrm{f}}$ to $\\athrm{P}_{\\athrm{fr}}$",
+      "X": "Far red light causes the shift from $\\athrm{P}_{\\athrm{fr}}$ to $\\athrm{P}_{\\athrm{t}}$",
+      "Y": "Red light causes germination",
+      "Z": "Far red light causes germination"
+    },
+    "answer": "Z) FAR RED LIGHT CAUSES GERMINATION"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The speciation event that gave rise to craniates is due to the duplication of what set of developmental genes that specify regions of the body plan of an embryo along the head-tail axis of animals?",
+    "answer": "HOX"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the defining characteristic of greywacke?",
+    "choices": {
+      "W": "High concentration of feldspars",
+      "X": "Low concentration of feldspars",
+      "Y": "High concentration of clays",
+      "Z": "Low concentration of clays"
+    },
+    "answer": "Y) HIGH CONCENTRATION OF CLAYS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Barchanoid dunes are an intermediate between what two types of dunes?",
+    "answer": "TRANSVERSE AND BARCHAN"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "At very high temperatures, what is the heat capacity of one mole of iodine at constant volume in terms of the ideal gas constant R?",
+    "answer": "3R"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about Wilkinson's catalyst:1) It is a heterogeneous catalyst;2) It possesses chiral triphenylphosphine ligands;3) When used for catalytic hydrogenation, it yields a high enantiomeric excess.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Laboratory are using the Relativistic Heavy Ion Collider to collide gold nuclei. What hot particle soup-like state of matter do these collisions create?",
+    "answer": "QUARK-GLUON PLASMA"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Thomas Jefferson National Accelerator Facility have been calibrating the equipment needed for the MOLLER experiment, which uses the asymmetry of scattered electrons in order to more precisely measure the electroweak parameter. The frequency of scattered electrons is measured by their generation of pale blue light when directed into a silica tube. What type of radiation are they observing?",
+    "answer": "CERENKOV (DO NOT ACCEPT: SYNCHROTRON)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What quark cannot form hadrons, because of its mean lifetime being one twentieth of the timescale for strong interactions?",
+    "answer": "TOP QUARK"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of scattering that are elastic:1) Rayleigh;2) Raman;3) Compton.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The variance of a set of numbers is8. If each number is multiplied by5 and increased by12, what is the new variance of this set of numbers?",
+    "answer": "200"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find all solutions to the equation $4^{x} -2^{x +1} -8 =0$.",
+    "answer": "2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the only proteinogenic amino acid that is bicyclic?",
+    "answer": "TRYPTOPHAN"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During inflammation, what group of paracrine molecules produced from arachidonic acid by the COX pathway leads to localized swelling and pain?",
+    "answer": "PROSTAGLANDINS"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Wilson cycle is a model of which process?",
+    "choices": {
+      "W": "Increasing and decreasing of sunspots",
+      "X": "Opening and closing of ocean basins",
+      "Y": "Periodicity of eclipses",
+      "Z": "Increasing and decreasing of $\\athrm{CO}_{2}$ levels"
+    },
+    "answer": "X) OPENING AND CLOSING OF OCEAN BASINS"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all the following three places in a galaxy that Population I stars would be found in:1) Bulge;2) Disk;3) Halo.",
+    "answer": "2 (DISK)"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following could not be the formal charge of the nitrogen atom in a resonance structure of the isocyanate anion?",
+    "choices": {
+      "W": "-2",
+      "X": "-1",
+      "Y": "0",
+      "Z": "+1"
+    },
+    "answer": "Z) +1"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about carbocations in organic chemistry:1) Tertiary carbocations are more stable than primary carbocations;2) Carbocations can become more stable by1,2 methyl or1,2 hydride shifts;3) Conjugation with carbon pi systems greatly destabilizes carbocations.",
+    "answer": "1 AND2"
+  }
+]

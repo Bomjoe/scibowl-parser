@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following statements that are true regarding the hydrogen atom: 1) Energy levels within the same principal quantum number are degenerate; 2) Their Hamiltonian is constructed from three distinct operators; 3) The Schrodinger equation can be solved exactly for them.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The enthalpy of solution for an ionic solid can be written as the sum of the lattice enthalpy and what other value?",
+    "choices": {
+      "W": "Enthalpy of mixing",
+      "X": "Enthalpy of fusion",
+      "Y": "Enthalpy of hydration",
+      "Z": "Enthalpy of saturation"
+    },
+    "answer": "Y) ENTHALPY OF HYDRATION"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding fuel cells: 1) The reactants are constantly supplied; 2) They are electrolytic cells; 3) Cogeneration can be used to increase efficiency.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are experimenting with carbonyl complexes to find a viable way to reduce carbon to usable fuels. One of the most common complexes is nickel tetracarbonyl. What is the electron count on the metal center in this complex?",
+    "answer": "18"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following types of asteroids would be found in the orbits of the outer planets of the solar system?",
+    "choices": {
+      "W": "Centaurs",
+      "X": "Apollo-Amor objects",
+      "Y": "Hirayama families",
+      "Z": "C-type asteroids"
+    },
+    "answer": "W) CENTAURS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following rocks has the highest melting point?",
+    "choices": {
+      "W": "Diorite",
+      "X": "Granite",
+      "Y": "Komatiite",
+      "Z": "Basalt"
+    },
+    "answer": "Y) KOMATIITE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the total arc length of the curve defined parametrically by the equations $x = 3\\os^2 t$ and $y = 3\\in^2 t$ from $t = 0$ to $t = \\i /2$?",
+    "answer": "3 TIMES THE SQUARE ROOT OF 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three properties that must hold for a vector space. 1) Associativity of vector addition; 2) Associativity of vector multiplication; 3) Distributivity of scalar multiplication with respect to vector addition.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following particles obeys the Pauli exclusion principle?",
+    "choices": {
+      "W": "Phonon",
+      "X": "Exciton",
+      "Y": "Spinon",
+      "Z": "Higgsino"
+    },
+    "answer": "Z) HIGGSINO"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that are the gradient of another quantity: 1) Magnetic Field; 2) Electrostatic field; 3) Electric potential.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "According to the pressure-flow hypothesis, when sugars are translocated in the phloem, they must first be transported out of the parenchyma cells into the sieve tube elements. This is done via coupling its transport to what ion?",
+    "answer": "HYDROGEN"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Gideon observes two species of spiders that are observed to mimic each other. Identify all of the following three observations that would favor Mullerian mimicry occurring over Batesian: 1) Both spiders are palatable; 2) Predators still eat the spiders even if they are unpalatable; 3) They both evolved the ability to be unpalatable around the same time.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of volcanic eruptions is the most explosive?",
+    "choices": {
+      "W": "Strombolian",
+      "X": "Plinian",
+      "Y": "Phreatic",
+      "Z": "Vulcanian"
+    },
+    "answer": "X) PLINIAN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "If a light source, a massive object, and an observer are aligned in a certain way, gravitational lensing can form a hoop-like object that is given what name?",
+    "answer": "EINSTEIN RING"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The eightfold way is a systematic scheme used to organize hadrons. Each horizontal line in the eightfold way indicates a different value for what quantity?",
+    "answer": "STRANGENESS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two blocks are placed on top of each other on a horizontal frictionless surface. The top block has a mass of 5 kilograms and the bottom block has a mass of 10 kilograms. The coefficient of static friction between the blocks is 0.5. If the acceleration due to gravity is 10 meters per second squared, what is the minimum amount of force needed in newtons to be applied to the bottom block for the top block to slip with respect to the bottom?",
+    "answer": "75"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three actions that could alter the catalytic efficiency of an enzyme: 1) Changing the pH; 2) Changing the identity of a residue not located at the active site; 3) Changing the identity of a residue located at the active site.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three adjectives that correctly characterize iPS cells: 1) Pluripotent; 2) Totipotent; 3) Multipotent.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Each water molecule in ice can form a maximum of how many bonds to its neighbors?",
+    "answer": "4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In order to normalize the wavefunction $\\si(x) = 2ix$ over the interval from $x = 0$ to $x = 3$, what positive constant must be multiplied by the original wavefunction?",
+    "answer": "1/6"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "While studying SN2 reactions, they found that the molecular geometry of the transition state was most resemblant of which of the following molecule's 3D shapes?",
+    "choices": {
+      "W": "SO2",
+      "X": "PCl5",
+      "Y": "NH3",
+      "Z": "BCl3"
+    },
+    "answer": "X) PCl5"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quantum systems is NOT suitable for quantum computing based on this criterion?",
+    "choices": {
+      "W": "Harmonic oscillator",
+      "X": "Particle in a box",
+      "Y": "Rigid rotor",
+      "Z": "Hydrogen atom"
+    },
+    "answer": "W) HARMONIC OSCILLATOR"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the squares of the eigenvalues of the 2 by 2 matrix with determinant 5 and trace 6?",
+    "answer": "26"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In terms of $\\i$, what is the volume of the figure formed when the region bounded by the line $x = 0$, $y = 27$, and the curve $y = x^3$ is revolved around the $y$-axis?",
+    "answer": "$729\\i /5$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why metallic beryllium does not react with water, even at high temperatures?",
+    "choices": {
+      "W": "Its standard reduction potential is too positive",
+      "X": "It forms a protective oxide",
+      "Y": "High temperatures melt it before it reacts with water",
+      "Z": "Pure water lacks the hydrogen ions to catalyze the reaction"
+    },
+    "answer": "X) IT FORMS A PROTECTIVE OXIDE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A scientist is tracking the progress of a unimolecular substitution reaction using NMR. She finds that two isomers are observed as products, differing only in the position of a methyl group. What process is the most likely cause of this phenomenon?",
+    "answer": "REARRANGEMENT"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Argonne national lab scientists have found that under high pressures, certain types of insulators are able to become metallic or behave as superconductors. These insulators behave like which class of materials that are predicted to conduct electricity but behave as insulators?",
+    "answer": "MOTT INSULATORS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne national lab have measured the spin Seebeck effect on antiferromagnetic materials for use in distinguishing spin sublattices. Identify all of the following three statements that are true of antiferromagnetic materials: 1) Hematite is antiferromagnetic below 250 kelvins; 2) Antiferromagnets typically become diamagnetic above the Neel temperature; 3) Antiferromagnets experience hysteresis.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three periods of the moon from shortest to longest: 1) Synodic; 2) Sidereal; 3) Nutation.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following parent isotopes would best be able to date a sample that is 4 to 6 million years old?",
+    "choices": {
+      "W": "Uranium-235",
+      "X": "Potassium-40",
+      "Y": "Uranium-238",
+      "Z": "Rubidium-87"
+    },
+    "answer": "X) POTASSIUM-40"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Nematocysts are possessed by members of what phylum?",
+    "answer": "CNIDARIA"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three regions of a mature mRNA transcript from the 5 prime end to the 3 prime end: 1) First nucleotide of the 3 prime untranslated region; 2) Polyadenylation signal; 3) Poly-A tail.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following quarks that could be found in a delta baryon: 1) Up; 2) Down; 3) Strange.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that are constant in the microcanonical ensemble: 1) Total energy; 2) Chemical potential; 3) Temperature.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive integers less than or equal to 100 are both even and are congruent to 2 modulo 7?",
+    "answer": "8"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "On the open interval between 0 and 15, how many times is the derivative of $\\in x$ equivalent to the derivative of $\\n x$?",
+    "answer": "4"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Graupel is a type of precipitation that forms when what substance accretes on a snowflake?",
+    "answer": "RIME"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals is an inosilicate?",
+    "choices": {
+      "W": "Epidote",
+      "X": "Spodumene",
+      "Y": "Kyanite",
+      "Z": "Muscovite"
+    },
+    "answer": "X) SPODUMENE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name given to the recoil force experienced by a charged particle?",
+    "answer": "ABRAHAM-LORENTZ FORCE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A gas is trapped in a chamber with two distinct heights at 100 meters and 200 meters respectively. Which of the following is closest to the probability of the gas particle having an altitude of 200 meters?",
+    "choices": {
+      "W": "0.4",
+      "X": "0.5",
+      "Y": "0.6",
+      "Z": "0.7"
+    },
+    "answer": "W) 0.4"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of type 1 interferons: 1) They are nonspecific; 2) They influence aspects of the adaptive immune response; 3) They are produced only by leukocytes.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Xeroderma pigmentosum is a disease characterized by hypersensitivity to light due to the excessive formation of thymine dimers. Knowing this, which DNA repair system is likely defective in individuals possessing the most common form of xeroderma pigmentosum?",
+    "answer": "NUCLEOTIDE EXCISION REPAIR"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Consider the curve produced by plotting the potential energy of a butane molecule against the dihedral angle between methyl groups in degrees. Which of the following degree values corresponds to the highest energy?",
+    "choices": {
+      "W": "0",
+      "X": "60",
+      "Y": "120",
+      "Z": "180"
+    },
+    "answer": "W) 0"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A mixture containing equal quantities of hexane and hexanoic acid is dissolved in dichloromethane, followed by addition of potassium hydroxide. The formation of aqueous and nonaqueous layers is observed. What compound is observed in the aqueous layer?",
+    "answer": "POTASSIUM HEXANOATE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "0.2 repeating in base 9 is equivalent to what decimal value?",
+    "answer": "0.25"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A probability density function $P(x)$ is defined such that from $x = 0$ to $x = 1$, $P(x) = 3x^2$, and for all other values of $x$, $P(x)$ is 0. In simplest radical form, what is the median of the probability density function?",
+    "answer": "THE CUBE ROOT OF 4 OVER 2"
+  }
+]

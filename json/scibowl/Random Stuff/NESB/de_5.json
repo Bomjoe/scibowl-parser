@@ -1,0 +1,637 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the name for a long, winding ridge that is another type of outwash deposit?",
+    "choices": {
+      "W": "esker",
+      "X": "striation",
+      "Y": "cirque",
+      "Z": "deflation"
+    },
+    "answer": "W - ESKER"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Boulders, gravel, and sand are added to the bottom of the glacier by",
+    "choices": {
+      "W": "gravity.",
+      "X": "rivers.",
+      "Y": "plucking.",
+      "Z": "abrasion."
+    },
+    "answer": "Y - PLUCKING"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Salmon can distinguish between the odor of their home stream and other streams using their",
+    "choices": {
+      "W": "chemoreceptors.",
+      "X": "spinal nerve.",
+      "Y": "optic lobes.",
+      "Z": "olfactory lobes."
+    },
+    "answer": "W - CHEMORECEPTORS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Among oviparous fishes who care for their young are",
+    "choices": {
+      "W": "Siamese fighting fish that build nests of twigs.",
+      "X": "sticklebacks that build nests of bubbles.",
+      "Y": "catfish that hold their eggs in their mouth.",
+      "Z": "female seahorses that hold their eggs in a pouch."
+    },
+    "answer": "Y - CATFISH THAT HOLD THEIR EGGS IN THEIR MOUTH"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "When all microcomputers and other communications devices are connected in a continuous loop network, it is called a",
+    "choices": {
+      "W": "bus.",
+      "X": "ring.",
+      "Y": "hybrid.",
+      "Z": "FDDI"
+    },
+    "answer": "X - RING"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "The file organization method which uses a hashing algorithm to produce a unique number that will identify a record's physical location on disk is called",
+    "choices": {
+      "W": "sequential.",
+      "X": "indexed- sequential.",
+      "Y": "direct.",
+      "Z": "batch."
+    },
+    "answer": "Y - DIRECT"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "For a parallel-plate capacitor with plate area \A\ and plate separation \d,\ the capacitance is proportional to which of the following?",
+    "choices": {
+      "W": "A divided by d squared",
+      "X": "A times d",
+      "Y": "A divided by d",
+      "Z": "d divided by A"
+    },
+    "answer": "Y - A DIVIDED BY D"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The speed at which a wave propagates down a string is 300 meters per second. If the frequency of this wave is 150 Hertz, what is the wavelength of this wave?",
+    "answer": "2 METERS"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "How many time zones are there in the CONTIGUOUS United States?",
+    "choices": {
+      "W": "3",
+      "X": "4",
+      "Y": "5",
+      "Z": "6"
+    },
+    "answer": "X - 4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "The largest supply of fresh water in the world is in",
+    "choices": {
+      "W": "the combined rivers of the world.",
+      "X": "the combined lakes of the world.",
+      "Y": "glacial ice.",
+      "Z": "none of the above"
+    },
+    "answer": "Y - GLACIAL ICE."
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following 1 molar solutions has the highest pH?",
+    "choices": {
+      "W": "sulfuric acid.",
+      "X": "hydrochloric acid.",
+      "Y": "sodium chloride.",
+      "Z": "phosphoric acid."
+    },
+    "answer": "Y - SODIUM CHLORIDE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following properties would you expect to find in a small, nonpolar molecule?",
+    "choices": {
+      "W": "Gas at room temperature",
+      "X": "Solid at room temperature",
+      "Y": "Very high melting point",
+      "Z": "Very high boiling point"
+    },
+    "answer": "W - GAS AT ROOM TEMPERATURE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What is the name of the bright star that appear reddish and has a name meaning \rival of Mars\?",
+    "answer": "ANTARES"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "What is the approximate ratio of the total mass of the objects making up the asteroid belt to the mass of the earth?",
+    "choices": {
+      "W": "1/10",
+      "X": "1/100",
+      "Y": "1/1000",
+      "Z": "1/10000"
+    },
+    "answer": "Y - 1/1000"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A developing bird embryo obtains nutrients from the egg's",
+    "choices": {
+      "W": "amnion.",
+      "X": "chorion.",
+      "Y": "yolk.",
+      "Z": "allantois."
+    },
+    "answer": "Y - YOLK"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A four-chambered heart is found among reptiles in the order",
+    "choices": {
+      "W": "Chelonia.",
+      "X": "Crocodilia.",
+      "Y": "Rhyncopehalia.",
+      "Z": "Squamata."
+    },
+    "answer": "X - CROCODILIA"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A group of 3 students is playing soccer. The first student takes one-fourth of the shots on goal, the second student takes half of the remainder. What percentage of the total shots on goal does the third student take?",
+    "answer": "37.5%"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If Susan takes 3 hours to clean the house, and it takes her brother, Robert, 6 hours to clean the house, how long will it take the two of them working together?",
+    "answer": "2 HOURS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An infinitely long wire carries a current of three amps. The magnetic field outside the wire",
+    "choices": {
+      "W": "points radially away from the wire.",
+      "X": "points radially inward.",
+      "Y": "circles the wire.",
+      "Z": "is zero."
+    },
+    "answer": "Y - CIRCLES THE WIRE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A standing wave is formed on a tightly stretched string. The distance between a node and an antinode is",
+    "choices": {
+      "W": "1/8 wavelength.",
+      "X": "1/4 wavelength.",
+      "Y": "1/2 wavelength.",
+      "Z": "1 wavelength."
+    },
+    "answer": "X - 1/4 WAVELENGTH"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In a molecule of carbon dioxide, what kinds of bonds connect the carbon atom to the 2 oxygen atoms?",
+    "choices": {
+      "W": "two single bonds",
+      "X": "one single bond and one double bond",
+      "Y": "one double bond and one triple bond",
+      "Z": "two double bonds"
+    },
+    "answer": "Z - TWO DOUBLE BONDS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How are the electrons shared in a bond between oxygen and carbon?",
+    "choices": {
+      "W": "They are equally shared.",
+      "X": "Carbon attracts them more.",
+      "Y": "Oxygen attracts them more.",
+      "Z": "Electrons are completely transferred."
+    },
+    "answer": "Y - OXYGEN ATTRACTS THEM MORE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of databases connects data in different files through the use of a key field or common data elements?",
+    "choices": {
+      "W": "hierarchical",
+      "X": "network",
+      "Y": "object-oriented",
+      "Z": "relational"
+    },
+    "answer": "Z - RELATIONAL"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following database query languages selects records by using a sample record to define the qualifications for the selected records?",
+    "choices": {
+      "W": "SQL",
+      "X": "data manipulation language",
+      "Y": "QBE",
+      "Z": "Selected Query Language"
+    },
+    "answer": "Y - QBE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The ventral part of a turtle's shell is the",
+    "choices": {
+      "W": "flipper.",
+      "X": "allantois.",
+      "Y": "carapace.",
+      "Z": "plastron."
+    },
+    "answer": "Z - PLASTRON"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The great adaptive radiation of the reptiles took place during the",
+    "choices": {
+      "W": "Triassic Period.",
+      "X": "Cretaceous Period.",
+      "Y": "Permian Period.",
+      "Z": "Jurassic Period."
+    },
+    "answer": "Y - PERMIAN PERIOD"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "City lights can cause a background glow in the sky called by astronomers",
+    "choices": {
+      "W": "the dawn effect.",
+      "X": "light pollution.",
+      "Y": "refracted light.",
+      "Z": "none of the above"
+    },
+    "answer": "X - LIGHT POLLUTION"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The early trouble experienced with the Hubble Space Telescope dealt with",
+    "choices": {
+      "W": "its launch into space.",
+      "X": "its deployment in space.",
+      "Y": "a mistake made when the mirror was shaped.",
+      "Z": "its position in the space shuttle."
+    },
+    "answer": "Y - A MISTAKE MADE WHEN THE MIRROR WAS SHAPED"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Assume a ray of light is incident on a smooth reflecting surface at an angle of incidence of 15 degrees to the normal. What is the angle between the incident ray and the reflected ray?",
+    "answer": "30 DEGREES"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An organ pipe that is open at both ends resonates at its fundamental frequency. Neglecting any end effects, what wavelength is formed by this pipe in this mode of vibration if the pipe is 2 meters long?",
+    "choices": {
+      "W": "2 meters",
+      "X": "4 meters",
+      "Y": "6 meters",
+      "Z": "8 meters."
+    },
+    "answer": "X - 4 METERS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In a polar bond, electrons are",
+    "choices": {
+      "W": "shared unequally.",
+      "X": "shared equally.",
+      "Y": "completely transferred.",
+      "Z": "not shared at all."
+    },
+    "answer": "W - SHARED UNEQUALLY"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Hybrid orbitals are",
+    "choices": {
+      "W": "pure orbitals.",
+      "X": "mixed orbitals.",
+      "Y": "high-energy orbitals.",
+      "Z": "orbitals used in bonding."
+    },
+    "answer": "X - MIXED ORBITALS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What kind of faults are caused by shear forces?",
+    "choices": {
+      "W": "Normal",
+      "X": "Strike-slip",
+      "Y": "Obtuse",
+      "Z": "Elastic"
+    },
+    "answer": "X - STRIKE-SLIP"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A laccolith is created when",
+    "choices": {
+      "W": "lava forms a thick sheet.",
+      "X": "lava fills a vent.",
+      "Y": "magma forms a sheet and a dome.",
+      "Z": "magma in a sill pushes up to form a rock dome."
+    },
+    "answer": "Z - MAGMA IN A SILL PUSHES UP TO FORM A ROCK DOME"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following building materials has the HIGHEST thermal conductivity?",
+    "choices": {
+      "W": "Southern pine wood",
+      "X": "common brick",
+      "Y": "aluminum",
+      "Z": "gypsum board or drywall"
+    },
+    "answer": "Y - ALUMINUM"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Thermal insulation is used to",
+    "choices": {
+      "W": "stop the flow of heat.",
+      "X": "reduce the flow of heat.",
+      "Y": "absorb heat.",
+      "Z": "reverse the heat flow direction."
+    },
+    "answer": "X - REDUCE THE FLOW OF HEAT"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "To convert a galvanometer to a voltmeter, you should add a",
+    "choices": {
+      "W": "high resistance in series.",
+      "X": "high resistance in parallel.",
+      "Y": "low resistance in series.",
+      "Z": "low resistance in parallel."
+    },
+    "answer": "W - HIGH RESISTANCE IN SERIES"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The potential drop between the terminals of a battery is equal to the battery's EMF when",
+    "choices": {
+      "W": "no current is drawn from the battery.",
+      "X": "a very large current is drawn from the battery.",
+      "Y": "the internal resistance of the battery is very large.",
+      "Z": "the resistance in the external circuit is small."
+    },
+    "answer": "W - NO CURRENT IS DRAWN FROM THE BATTERY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The largest living reptile that gives us some idea of what the dinosaurs looked like is the",
+    "choices": {
+      "W": "alligator.",
+      "X": "Gila monster.",
+      "Y": "Komodo dragon.",
+      "Z": "caiman."
+    },
+    "answer": "Y - KOMODO DRAGON"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The reptile that uses a pineal gland to detect changes in the length of day is the",
+    "choices": {
+      "W": "python.",
+      "X": "cobra.",
+      "Y": "Gila monster.",
+      "Z": "tuatara."
+    },
+    "answer": "Z - TUATARA"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What shape does an ammonia molecule have?",
+    "answer": "PYRAMIDAL"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the approximate bond angle in a molecule of ammonia?",
+    "choices": {
+      "W": "107 degrees",
+      "X": "109.5 degrees",
+      "Y": "120 degrees",
+      "Z": "180 degrees"
+    },
+    "answer": "W - 107 DEGREES"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The SI (read: S-i) unit of pressure is the",
+    "answer": "PASCAL"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An electroscope charged WITHOUT contacting a charged body is charged by",
+    "choices": {
+      "W": "induction.",
+      "X": "conduction.",
+      "Y": "convection.",
+      "Z": "insulation."
+    },
+    "answer": "W - INDUCTION"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The sum of any three consecutive even numbers is evenly divisible by which three numbers, excluding 1?",
+    "answer": "2, 3, AND 6"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If a $1000 item is marked down by 10\\, then 5\\ sales tax is added on, what is the total cost to be paid for that item?",
+    "answer": "$945"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Marsupials did not experience a great adaptive radiation on what continent?",
+    "answer": "EUROPE"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The animal that is least closely related to the others is the",
+    "choices": {
+      "W": "mouse.",
+      "X": "rabbit.",
+      "Y": "beaver.",
+      "Z": "porcupine."
+    },
+    "answer": "X - RABBIT"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What shape does a water molecule have?",
+    "answer": "BENT"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The methane molecule has an approximate bond angle of",
+    "choices": {
+      "W": "103 degrees.",
+      "X": "109.5 degrees.",
+      "Y": "120 degrees.",
+      "Z": "180 degrees."
+    },
+    "answer": "X - 109.5 DEGREES"
+  }
+]

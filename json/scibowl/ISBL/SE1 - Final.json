@@ -1,0 +1,430 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following correctly describes a yazoo stream?",
+    "choices": {
+      "W": "A stream that lies on the floodplain of another river, running parallel to said river",
+      "X": "A stream created by the confluence of two other streams",
+      "Y": "A stream originating from the ocean",
+      "Z": "A stream that drains into a basin with no outlet"
+    },
+    "answer": "W) A STREAM THAT LIES ON THE FLOODPLAIN OF ANOTHER RIVER RUNNING PARALLEL TO SAID RIVER"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What name is given to the curved glacial valleys created by the erosion of mountains?",
+    "choices": {
+      "W": "Horns",
+      "X": "Cirques",
+      "Y": "Aretes",
+      "Z": "Eskers"
+    },
+    "answer": "X) CIRQUES"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes the inactivated X chromosome in female mammals?",
+    "answer": "BARR BODY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three blood vessels in terms of INCREASING blood flow velocity: I - Arteries, II - Capillaries, III - Veins",
+    "answer": "II, III, I"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following atoms has the largest atomic radius?",
+    "choices": {
+      "W": "Carbon",
+      "X": "Cesium",
+      "Y": "Calcium",
+      "Z": "Chlorine"
+    },
+    "answer": "X) CESIUM"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which of the following three ions have the same electron configuration as argon? I. Cl- ; II. Li+ ; III. K+",
+    "answer": "I, III. Cl-, K+"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the determinant of a matrix with top row5,7 and bottom row3,8?",
+    "answer": "19"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area between the curves $y = x^2$ and $y = \\qrt{x}$?",
+    "answer": "1/3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An adiabatic process involves no net exchange of what quantity between thermodynamic systems?",
+    "answer": "HEAT"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following effects explains the oddly long life of a water droplet over an extremely hot surface due to the formation of an insulating layer of vapor?",
+    "choices": {
+      "W": "Leidenfrost Effect",
+      "X": "Hydrothermal Suspension",
+      "Y": "Joule-Thomson Effect",
+      "Z": "Paschen-Back Effect"
+    },
+    "answer": "W) LEIDENFROST EFFECT"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not an asteroid type?",
+    "choices": {
+      "W": "C-Type",
+      "X": "S-Type",
+      "Y": "T-Type",
+      "Z": "M-Type"
+    },
+    "answer": "Y) T-TYPE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about comets. I. Long period comets likely originate from the Asteroid Belt; II. Comets have two distinct tails; III. Naked eye comets usually have low eccentricities.",
+    "answer": "II"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Brennan wants to compare the organelles within his liver cells and the cells of his green onion plant. Which organelle would you NOT expect to see in both cells?",
+    "choices": {
+      "W": "Mitochondria",
+      "X": "Centrosome",
+      "Y": "Peroxisome",
+      "Z": "Rough ER"
+    },
+    "answer": "X) CENTROSOME"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three steps of muscle contraction in order following the binding of ATP to myosin: I - Myosin binds to actin, II - Thin filament moves towards the center of the sarcomere, III - ATP Hydrolysis",
+    "answer": "III, I, II"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A sample of gas is held above a beaker of water. If the concentration of carbon dioxide in the water is tripled, by what factor does the partial pressure of carbon dioxide in the gas sample increase?",
+    "answer": "3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Brennan dissolves a solute B into a solvent water, and uses Raoult's Law to predict the vapor pressure. If water's interactions with itself and B's interactions with itself are both weaker than water's interactions with B, the actual vapor pressure:",
+    "choices": {
+      "W": "Is lower than Brennan's prediction",
+      "X": "Is the same as Brennan's prediction",
+      "Y": "Is higher than Brennan's prediction",
+      "Z": "Cannot be predicted from this information"
+    },
+    "answer": "W) IS LOWER THAN BRENNAN'S PREDICTION"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of the integral of $f(x) = x^3$ from0 to1?",
+    "answer": "1/4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In Game Theory, a zero sum game is a game where one player's loss equals another player's gain. Name all of the following3 games that are zero sum games.1) Chess2) Poker3) Prisoner's Dilemma",
+    "answer": "1 and2 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A Gaussian sphere surrounds a particle of charge $+2$ coulombs. If the charge doubles and the sphere is changed into a Gaussian cube with the same center, by what factor is the original flux multiplied?",
+    "answer": "2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a type of damping for a simple harmonic oscillator?",
+    "choices": {
+      "W": "Ultradamped",
+      "X": "Overdamped",
+      "Y": "Critically Damped",
+      "Z": "Underdamped"
+    },
+    "answer": "W) ULTRADAMPED"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following3 types of silicates in increasing number of bridging, or shared oxygens. I. Phyllosilicates; II. Nesosilicates; III. Inosilicates",
+    "answer": "II, III, I"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A northwesterly moving, ideal current, in the southern hemisphere, would cause the net movement of water in which of the following directions?",
+    "choices": {
+      "W": "Northwest",
+      "X": "Northeast",
+      "Y": "Southwest",
+      "Z": "Southeast"
+    },
+    "answer": "Y) SOUTHWEST"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A flower that lacks a fragrance and is not colorful is most likely pollinated by which of the following?",
+    "choices": {
+      "W": "Bee",
+      "X": "Bird",
+      "Y": "Wind",
+      "Z": "Bat"
+    },
+    "answer": "Y) WIND"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements which are functions of RNA within a human cell: I - Serves as hereditary material, II - Catalyzing chemical reactions, III - Silencing gene expression",
+    "answer": "II, III"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which of the following three scenarios will cause the solubility of CO2 in water to increase? I. The temperature of the system is increased. II. More CO2 is added to the system. III The partial pressure of CO2 is increased.",
+    "answer": "II, III."
+  },
+  {
+    "question_number": 26,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following oxyacids would you expect to be the strongest?",
+    "choices": {
+      "W": "HNO",
+      "X": "HNO2",
+      "Y": "HNO3",
+      "Z": "HNO4"
+    },
+    "answer": "Z) HNO4"
+  },
+  {
+    "question_number": 27,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the derivative of the function $f(x) = x^{15} - x^2$ at $x =1$?",
+    "answer": "13"
+  },
+  {
+    "question_number": 28,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many non-negative integers satisfy the inequality $x^3 +5x^2 - x -5 <0$?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "Infinitely many"
+    },
+    "answer": "X)1"
+  },
+  {
+    "question_number": 29,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 things that are quantized. I. Charge; II. Light; III. Spin",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 30,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In what type of thermodynamic process is no work done?",
+    "choices": {
+      "W": "Adiabatic",
+      "X": "Isobaric",
+      "Y": "Isochoric",
+      "Z": "Isothermal"
+    },
+    "answer": "Y) ISOCHORIC"
+  },
+  {
+    "question_number": 31,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is least likely to have emission lines?",
+    "choices": {
+      "W": "Globular Cluster",
+      "X": "Wolf-Rayet Star",
+      "Y": "Planetary Nebula",
+      "Z": "Active Galaxy"
+    },
+    "answer": "W) GLOBULAR CLUSTER"
+  },
+  {
+    "question_number": 32,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In kilometers per second, what is the recessional velocity of a galaxy20 megaparsecs away?",
+    "answer": "1400"
+  },
+  {
+    "question_number": 33,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organisms most likely follows a Type III survivorship curve?",
+    "choices": {
+      "W": "Oyster",
+      "X": "Human",
+      "Y": "Bird",
+      "Z": "Elephant"
+    },
+    "answer": "W) OYSTER"
+  },
+  {
+    "question_number": 34,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would you expect to increase the activity of phosphofructokinase?",
+    "choices": {
+      "W": "High AMP concentration",
+      "X": "High Citrate concentration",
+      "Y": "High ATP concentration",
+      "Z": "High Pyruvate concentration"
+    },
+    "answer": "W) HIGH AMP CONCENTRATION"
+  },
+  {
+    "question_number": 35,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three properties that generally increase as you move left to right on the periodic table. I. Ionization Energy; II. Electron Affinity; III. Atomic Radius",
+    "answer": "I, II"
+  },
+  {
+    "question_number": 36,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three elements in terms of increasing electronegativity. I. Potassium; II. Chlorine; III. Silicon",
+    "answer": "I, III, II"
+  },
+  {
+    "question_number": 37,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following polynomials is divisible by $x +2$?",
+    "choices": {
+      "W": "$x^2 +4$",
+      "X": "$x^3 +8$",
+      "Y": "$x^4 +16$",
+      "Z": "$x^5 +32$"
+    },
+    "answer": "X) $x^3 +8$"
+  },
+  {
+    "question_number": 38,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is A6B base12 in base10?",
+    "answer": "1523"
+  },
+  {
+    "question_number": 39,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What effect occurs when a particle moves faster than the phase velocity of light in a dielectric medium?",
+    "answer": "CHERENKOV RADIATION"
+  },
+  {
+    "question_number": 40,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A particle of charge -2 coulombs travels at $100\\athrm{m/s}$ in the positive x-direction. If a5 Tesla magnetic field is set up in the positive y direction, what is the magnitude and direction of the resulting magnetic force is newtons?",
+    "choices": {
+      "W": "Positive z,1000",
+      "X": "Positive z,500",
+      "Y": "Negative z,1000",
+      "Z": "Negative z,500"
+    },
+    "answer": "Y) NEGATIVE Z,1000"
+  }
+]

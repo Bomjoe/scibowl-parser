@@ -1,0 +1,492 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following periodic trends best explains why silicon dioxide adopts a network covalent structure of silicon oxygen single bonds in quartz, while carbon dioxide adopts a molecular form with two double bonds?",
+    "choices": {
+      "W": "Silicon is larger than carbon",
+      "X": "Silicon has a lower first ionization energy than carbon",
+      "Y": "Silicon has a lower fourth ionization energy than carbon",
+      "Z": "Silicon has a greater electron affinity than carbon"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "For a mixture between two metals A and B, a graph is plotted of the mole fraction of A versus temperature with the liquid curves for A and B and the solid curve for the alloy. All three of these curves intersect at a point where the mole fraction of A is $25\\$. Answer the following two questions: 1. What is the name for the common point of intersection where the alloy freezes at a uniform constant temperature? 2. If metal A has a molar mass of 60 grams per mole and metal B has a molar mass of 120 grams per mole, what is the mass percentage of metal A to the nearest whole number?",
+    "answer": "Eutectic point, $14\\$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the ecological boundary for macrofauna between Southeast Asia and Australia?",
+    "answer": "Wallace Line"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following types of estuarine environments would you most likely observe snails and oysters in a semi-diurnal tide zone, creating a rich environment?",
+    "choices": {
+      "W": "Fjord",
+      "X": "Salt Wedge",
+      "Y": "Mud Flat",
+      "Z": "Intermittent"
+    },
+    "answer": "Y) Mud Flat"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A certain type of pulsar emits a frequency of 400 megahertz. What is the frequency observed on Earth if the pulsar is moving at a speed of 0.6 c away from the earth?",
+    "answer": "500 Megahertz"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Give, by name or number, all of the following 3 pairs of limits and objects which are correctly paired together. 1. Electrically Charged Black hole - Swartzchild 2. Neutron Star - TOV 3. White Dwarf - chandrasekhar",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The period of a semidiurnal tide is 12 hours and 25 minutes. The datum, or average height of a bay experiencing semidiurnal tide, is 5 feet above worldwide sea level. Given that the difference between the high tide and low tide is 8 feet, what is the time which the bay is under sea level every 24 hours and 50 minutes?",
+    "choices": {
+      "W": "0 hours",
+      "X": "3 hours",
+      "Y": "5 hours",
+      "Z": "8 hours"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "When rolling two dice, what is the probability, expressed as a common fraction, of getting an even or non-prime sum by adding the two top faces?",
+    "answer": "$2/3$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is equivalent to the Coriolis parameter?",
+    "choices": {
+      "W": "Radians per second",
+      "X": "Radians^2 per second",
+      "Y": "Radians per second ^2",
+      "Z": "Radians^2 per second ^2"
+    },
+    "answer": "W) Radians per second"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes a geostrophic wind?",
+    "choices": {
+      "W": "Longitudinal Wave",
+      "X": "Transverse wave",
+      "Y": "Inertial wave",
+      "Z": "Internal Wave"
+    },
+    "answer": "Y) Inertial wave"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about calcium carbonate: 1. Aragonite is denser than calcite 2. Aragonite is more stable than calcite 3. Aragonite converts to calcite at high temperatures",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Answer the following two questions about what happens to a sample of quartz when it is heated to above 1500 degrees celsius: 1. What polymorph of quartz that has a very similar structure to that of diamond is formed, which has oxygen atoms in between silicon atoms? 2. What is its chemical formula?",
+    "answer": "Cristabolite, $\\athrm{SiO}_{2}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ways are there to arrange a deck of 4 red and 4 black cards in one pile if the cards must alternate colors?",
+    "answer": "1152"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $\\athrm{ric}\\heta = 3 + 4\\athrm{i}$ , find $\\athrm{cis}3\\heta$",
+    "answer": "$- 117 / 125 + \\athrm{i}44 / 125$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Gideon the non poisonous chameleon, knowing that Daniel the poisonous chameleon’s skin color is bright red, also changes his skin color to bright red. What is the phenomenon which this is an example of",
+    "answer": "Batesian Mimicry"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following environments would there be the highest concentration of C4 plants",
+    "choices": {
+      "W": "Ground vegetation of The Serengeti",
+      "X": "Ground vegetation of the Amazon",
+      "Y": "Ground vegetation of Acadia",
+      "Z": "Ground vegetation of The Sonoran"
+    },
+    "answer": "W. Ground vegetation of the serengeti"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The sum of the system and surrounding values of what state function must be greater than 0 for a process to be spontaneous?",
+    "answer": "Entropy"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three changes to a system of particles in a one dimensional box that would increase the energy separation between two adjacent energy levels: 1. Decreasing the length of the box 2. Increasing the mass of the particles 3. Increasing the principal quantum number",
+    "answer": "3 only (Solution: energy separation = $2n + 1$ )"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 minerals in order of increasing hardness? 1. Diamond 2. Talc 3. Quartz",
+    "answer": "2 3 1"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What aluminosilicate has hardness of 5 and 7 along each plane?",
+    "answer": "Kyanite"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following species that can form intramolecular hydrogen bonds with other identical species: 1. $\\athrm{NH_4}^+$ 2. $\\athrm{CH}_3\\athrm{F}$ 3. HF",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules displays chirality?",
+    "choices": {
+      "W": "1-methylbutane",
+      "X": "2-methylbutane",
+      "Y": "1-butene",
+      "Z": "2-butene"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the measure an angle whose complement is the supplement of an angle measuring 108 degrees.",
+    "answer": "18"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the maximum number of intersections between 5 lines and 2 circles?",
+    "answer": "32"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A block of mass m slides down a ramp of length L inclined at an angle of theta to the horizontal. In terms of trigonometric functions and all necessary given variables, what is the coefficient of static friction of the block?",
+    "answer": "$\\tan(\\theta)$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The initial escape velocity of a planet is $v$. If the mass of the planet is quadrupled while its density is halved, what is the new orbital velocity of the planet in terms of $v$?",
+    "answer": "$2v$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Daniel 1 is a fish that secretes very dilute urine and has mechanisms for non shivering thermogenesis. Knowing these characteristics, where does Daniel 1 most likely live",
+    "choices": {
+      "W": "The Atlantic Ocean",
+      "X": "The Jellyfish lake",
+      "Y": "Sargasso Sea",
+      "Z": "Lake Winnipeg"
+    },
+    "answer": "Z."
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What amino acid is the precursor for the synthesis of norepinephrine?",
+    "choices": {
+      "W": "Tyrosine",
+      "X": "Tryptophan",
+      "Y": "Phenylalanine",
+      "Z": "Histidine"
+    },
+    "answer": "W) Tyrosine"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Brunhes, Mateuyama, Gauss and Gilbert are examples of what types of events on earth when the north and the south poles reversed magnetic polarity",
+    "answer": "Chrons"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the long thin crystals that typically have an unusually large crystal size, as well as high concentration of valuable minerals",
+    "answer": "Pegmatites"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about nitric oxide: 1. There is one unpaired electron that has a higher probability density around the nitrogen 2. It has a bond order of 2.5 3. It is a neurotransmitter in the human body",
+    "answer": "All"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A metal center of a coordination complex has two chloride ligands and two ethylenediamine, or en, ligands attached to it. Answer the following two questions about this coordination complex: 1. What is the oxidation state of the metal center? 2. What is the geometry around the metal center in the coordination complex?",
+    "answer": "$+2$, octahedral"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Calculate the derivative of $6x^{70}$.",
+    "answer": "$420x^{69}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the determinant of the 2 by 2 matrix with first row (3 4) and second row (2 4)?",
+    "answer": "4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a fictitious force?",
+    "choices": {
+      "W": "Friction",
+      "X": "Gravity",
+      "Y": "Electromagnetic",
+      "Z": "Coriolis"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Answer the following 3 questions about an orbital with a principal quantum number of 3: 1. How many possible values for the azimuthal or angular momentum quantum number are there? 2. How many possible values for the magnetic quantum number are there? 3. What are all of the possible values for the spin quantum number?",
+    "answer": "3, 5, - ½ and +½"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Oh no! Gideon has been separated from his one true love neo by a massive mountain that is impassable. Over time, Gideon and Neo’s populations genetically separated creating two separate species. Which type of speciation is this",
+    "answer": "Allopatric Speciation"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Aw crap. After buying and injecting some opioids from his shady pharmacist, Daniel 3 begins to develop tremors and realizes that his gait has become a lot stiffer, while suffering from dementia and depression. Which type of drug did Daniel 3 accidentally consume?",
+    "answer": "MPTP"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following constellations is Rigel located in?",
+    "choices": {
+      "W": "Canis Major",
+      "X": "Orion",
+      "Y": "Cassiopeia",
+      "Z": "Canis Minor"
+    },
+    "answer": "X) Orion"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the correct location and classification of Rigel?",
+    "choices": {
+      "W": "Blue Supergiant, top left",
+      "X": "Blue Supergiant, top right",
+      "Y": "Red Supergiant, top left",
+      "Z": "Red Supergiant, top right"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the trend in atomic radii of the period 4 transition metals from scandium to zinc?",
+    "choices": {
+      "W": "Increases",
+      "X": "Decreases",
+      "Y": "Increases then decreases",
+      "Z": "Decreases then increases"
+    },
+    "answer": "Z) Decreases then increases"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When the coordination complex $\\athrm{Fe(H_2O)_6}^{2 + }$ reacts with cyanide anions in solution, it will form the complex $\\athrm{Fe(CN)_6}^{4 - }$. However, when the same complex reacts with chloride anions in solution, it will only form the complex $\\athrm{FeCl(H_2O)_5}^+$. Which of the following best explains this?",
+    "choices": {
+      "W": "$\\athrm{CN}^-$ is a stronger lewis base than $\\athrm{Cl}^-$",
+      "X": "$\\athrm{CN}^-$ donates electrons to the metal center through pi backbonding",
+      "Y": "CN<sup>-</sup> withdraws electrons from the metal center through pi backbonding",
+      "Z": "Cl<sup>-</sup> is a better leaving group than CN<sup>-</sup>"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which of the following hormones is not secreted from the anterior pituitary gland? I) Vasopressin II) Oxytocin III) Prolactin",
+    "answer": "I and II (vasopressin and oxytocin)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the pouch that the anterior pituitary gland develops out of.",
+    "answer": "Rathke's pouch"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An infinitely wide electrically charged sheet with surface charge density of 20 Coulombs per square meter has a particle located 4 meters away from the sheet. In terms of epsilon naught, the permittivity of free space, what is the electric field acting on the particle?",
+    "answer": "$10/\\psilon$ naught"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is equivalent to the permittivity of free space?",
+    "choices": {
+      "W": "mu * c^2",
+      "X": "1/(mu*c^2)",
+      "Y": "$1 / (\\athrm{mu}^{\\edge}2 * \\athrm{c}^{\\edge}2)$",
+      "Z": "$1 / \\athrm{sqrt}(\\athrm{mu}^{*}\\athrm{c})$"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of all of the 8th roots of unity?",
+    "answer": "0"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For some integer N, 6! Times 7! Equals N!. What is N?",
+    "answer": "10"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Freezing rain often brings what type of precipitation where water is supercooled and coats everything in contact?",
+    "answer": "Glaze"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the diagram which shows the crystal structure of snowflakes as a function of temperature and humidity?",
+    "answer": "Nakaya Diagram"
+  }
+]

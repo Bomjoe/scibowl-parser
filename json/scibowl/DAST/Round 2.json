@@ -1,0 +1,436 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following oxides is the most basic?",
+    "choices": {
+      "W": "Dinitrogen tetroxide",
+      "X": "Water",
+      "Y": "Indium(III) oxide",
+      "Z": "Indium(I) oxide"
+    },
+    "answer": "Z) INDIUM(I) OXIDE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many pi-bonds are there in 3-isopropyl-1-hexanol?",
+    "answer": "0"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which moon belonging to the outer planets has the densest atmosphere in the Solar System and is primarily composed of nitrogen?",
+    "answer": "TITAN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following four planets in terms of increasing density: 1) Saturn; 2) Venus; 3) Jupiter; 4) Mars.",
+    "answer": "1, 3, 4, 2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements are NOT true about electric field lines?",
+    "choices": {
+      "W": "Electric field lines are always perpendicular to the surface of a conductor.",
+      "X": "The closer the electric field lines, the stronger the electric force is.",
+      "Y": "Charged objects will always travel in the direction the field lines point.",
+      "Z": "Electric field lines point away from positive charges."
+    },
+    "answer": "Y) CHARGED OBJECTS WILL ALWAYS TRAVEL IN THE DIRECTION THE FIELD LINES POINT."
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A charge of 8.85 coulombs is placed a distance of 2 centimeters from the center of an infinitely long insulating cylinder with radius 5 millimeters and surface charge density 12 nanocoulombs per meter squared. What is the force on the particle in newtons?",
+    "answer": "0.003"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Livermore National Lab are studying the magnetic field of the sun to gain insight on the potential use of it in energy generation. What is the phenomenon on the surface of the sun that is instigated by the sun’s magnetic field, resulting in dot-like structures?",
+    "answer": "SUNSPOTS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are investigating the photoelectric effect using different metals, and they plot the kinetic energy of the ejected electrons as a function of the frequency of incident light. Identify all of the following three features of this graph that are invariant of the metal being used: 1) $x$-intercept; 2) extrapolated $y$-intercept; 3) slope.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the coefficients of the binomial expansion of 2 times open parenthesis $x$ plus $y$ close parenthesis raised to the sixth power?",
+    "answer": "128"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Rushil is reading a book. He opens the book and lays it down flat so that he sees 2 pages. He rips out the right page, and now the sum of the two page numbers he sees is 139. What is the smaller number on the page he ripped out?",
+    "answer": "69"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is an example of epistasis?",
+    "choices": {
+      "W": "A dog has a multi-colored coat due to certain interactions between alleles",
+      "X": "Mice with the pigmentless gene have a white coat regardless of other coat color genes",
+      "Y": "A gene in humans is not transcribed and results in color-blindness",
+      "Z": "Previously recessive alleles switch into dominant ones"
+    },
+    "answer": "X) MICE WITH THE PIGMENTLESS GENE HAVE A WHITE COAT REGARDLESS OF OTHER COAT COLOR GENES"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements about r or K selection that are true: 1) K-selected organisms are often smaller in size than r-selected organisms; 2) r-selected organisms produce more offspring than K-selected organisms; 3) K-selected organisms follow the type III survivorship curve",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What geologic time period had the first appearance of tree-like plants and is also commonly known as the age of fishes?",
+    "answer": "DEVONIAN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What rare element was found in high concentrations near the K-T boundary, leading scientists to believe that an asteroid caused the mass extinction?",
+    "answer": "IRIDIUM"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the hybridization of the phosphorus atom in the phosphorus hexachloride anion?",
+    "answer": "SP3D2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which of the four quantum numbers is not derived from Schrödinger’s equation but rather by experimental determination?",
+    "answer": "MAGNETIC SPIN QUANTUM NUMBER (ACCEPT: $\\athrm{m_s}$, SPIN QUANTUM NUMBER)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "According to the rational root theorem, which of the following can NOT be a root to the polynomial six $x$ cubed plus twenty-eight $x$ squared plus fourteen $x$ minus eight?",
+    "choices": {
+      "W": "-3",
+      "X": "1/3",
+      "Y": "4/3",
+      "Z": "8"
+    },
+    "answer": "W) -3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the prime factors of three raised to the eighth power minus two raised to the eighth power?",
+    "answer": "115"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What physical quantity is given as the area under a force versus time graph?",
+    "choices": {
+      "W": "Momentum",
+      "X": "Acceleration",
+      "Y": "Velocity",
+      "Z": "Impulse"
+    },
+    "answer": "Z) IMPULSE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Sally is running with a velocity defined as $v$ of $t$ equals 2 $t$ minus 8, and her initial position is at $x$ equals 7. At what time $t$ will she first reach a position of $x$ equals 0?",
+    "answer": "1"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "During which of the following human embryonic stages are all three germ layers formed?",
+    "choices": {
+      "W": "Zygote phase",
+      "X": "Gastrulation",
+      "Y": "Blastulation",
+      "Z": "Morulation"
+    },
+    "answer": "X) GASTRULATION"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four choices that are examples of prezygotic barriers: 1) Temporal isolation; 2) Gametic isolation; 3) Hybrid breakdown; 4) Mechanical isolation.",
+    "answer": "1, 2, 4"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Los Alamos National Laboratory are researching the properties of plasma to gain insight on potential fusion energy technologies. What fusion process is predominantly used by the Sun to fuse hydrogen nuclei together?",
+    "answer": "PROTON-PROTON CHAIN"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The DOE’s Basic Energy Sciences Program has been putting efforts into microelectronics research. What law states that the number of transistors on a chip doubles every two years?",
+    "answer": "MOORE’S LAW"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of the triangle bounded by the $x$-axis, $y$-axis, and the line $y$ equals $2x$ minus 4?",
+    "answer": "4"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Akul and Rushil are playing five games of chess. If Rushil has an $80\\$ chance of winning each game, what is the probability that Akul wins exactly three games?",
+    "answer": "32/625 (ACCEPT: 5.12%)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the Joint Genome Institute are isolating histones from sorghum leaf tissue to profile potential epigenetic markers. Which of the following statements is true regarding epigenetic markers?",
+    "choices": {
+      "W": "Methylation alters histone tail charges and covers unwound DNA, thereby inhibiting transcription",
+      "X": "Methylated histone tails bind with high specificity to transcription factors, thereby promoting transcription",
+      "Y": "Acetylation alters histone tails charges and reveals wound DNA, thereby promoting transcription",
+      "Z": "Acetylated histone tails bind with high specificity to transcription factors, thereby inhibiting transcription"
+    },
+    "answer": "Y) ACETYLYTION ALTERS HISTONE TAILS CHARGES AND REVEALS WOUND DNA, THEREBY PROMOTING TRANSCRIPTION"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Lab are studying how to efficiently extract energy from Rushil by exciting electrons through the photoelectric effect which sometimes results in the creation of an electron-hole pair. Suppose a metal has a work function of 30 electronvolts. If light of frequency $10^{16}$ hertz is shone on the metal and if Planck’s constant is $4.1 \\times 10^{-15}$ electronvolt-seconds, with what kinetic energy are electrons shot off the metal, in electronvolts?",
+    "answer": "11"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about the Carnot engine is NOT true?",
+    "choices": {
+      "W": "It has the highest possible efficiency of any engine allowed by the laws of thermodynamics.",
+      "X": "It is made up of two isobaric and two isothermal expansions and contractions.",
+      "Y": "It can never have an efficiency above $100\\$.",
+      "Z": "It generates work by the transfer of heat from the hot reservoir to the cold reservoir."
+    },
+    "answer": "X) IT IS MADE UP OF TWO ISOBARIC AND TWO ISOTHERMAL EXPANSIONS AND CONTRACTIONS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two wires with currents I and 2I point in the same direction and are a distance of 15 meters away from each other. At what distance, in meters, from the wire with current I is the magnetic field 0?",
+    "answer": "5"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities for a reaction that must be negative for it to be spontaneous at all temperatures: 1) Delta G; 2) Delta S; 3) Delta H.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When 0.5 grams of methane are burned in excess oxygen in a bomb calorimeter that has a specific heat capacity of 3260 Joules per gram Kelvin, a temperature increase of 3 degrees Celsius is observed. In joules, how much heat is released?",
+    "answer": "4890"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following Galilean moons is geologically dead and is the most cratered body in the Solar System?",
+    "choices": {
+      "W": "Callisto",
+      "X": "Ganymede",
+      "Y": "Io",
+      "Z": "Europa"
+    },
+    "answer": "W) CALLISTO"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three spectral classes from weakest to strongest Balmer lines: 1) A; 2) F; 3) M.",
+    "answer": "3, 2, 1 (ACCEPT: M, F, A)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "In the Center for Integrated Nanotechnologies, scientists are creating tiny, tunable terahertz lasers that will help NASA to detect chemical emissions from stars to map more of the Milky Way galaxy. If the lasers emit light with a frequency of 12 terahertz, what is the wavelength of the light to the nearest micrometer?",
+    "answer": "25 MICROMETERS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Livermore National Lab are using tokamaks to create fusion plasmas. Which of the following qualitatively describes the temperatures needed inside a tokamak for it to be efficient and have better fusion containment?",
+    "choices": {
+      "W": "Hot walls; cool core",
+      "X": "Hot core; cool walls",
+      "Y": "Hot core; hot walls",
+      "Z": "Cool core; cool walls"
+    },
+    "answer": "X) HOT CORE; COOL WALLS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball of mass 5 kilograms is thrown at a wall at 40 meters per second. If it collides elastically with the wall for 10 milliseconds, what is the force exerted on the ball by the wall in newtons?",
+    "answer": "40000"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A block of mass $m$ traveling at an initial velocity $v$ collides inelastically with a block of mass $m$ over two that is at rest. What proportion of the initial kinetic energy of the system of blocks remains within the system after the collision?",
+    "answer": "2/3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Dylan loves candies. He randomly picks 2021 candies from a bag filled with an infinite number of red, blue, and green candies. Given that the number of candies picked of each color is distinct, what is the probability that he picks red candies the most?",
+    "answer": "1/3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Using the first two nonzero terms of the Maclaurin series expansion for the cosine of $x$, what is the value of the cosine of one-half?",
+    "answer": "7/8 (ACCEPT: 0.875)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds has a nonzero dipole moment in the absence of an external magnetic field?",
+    "choices": {
+      "W": "$\\athrm{CO_3^{2 - }}$",
+      "X": "$\\athrm{XeO_4}$",
+      "Y": "NaCl",
+      "Z": "$\\athrm{Cl_2}$"
+    },
+    "answer": "Y) NaCl"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three molecules that are correctly matched with the hybridization of their central atoms: 1) $\\athrm{PBr_5}$ and $\\athrm{sp^3d^2}$; 2) $\\athrm{SCL_4}$ and $\\athrm{sp^3}$; 3) $\\athrm{ICl_3}$ and $\\athrm{sp^3d}$.",
+    "answer": "3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What phylum are rabbits classified in?",
+    "answer": "CHORDATA"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "List the following three stages of PCR in increasing order of average temperature: 1) Denaturation; 2) Annealing; 3) Extension.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "All the wavelengths in the Lyman series belong to what portion of the electromagnetic spectrum?",
+    "answer": "ULTRAVIOLET"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A microsecond after the Big Bang, the universe had cooled enough to form protons. What state of matter filled the universe during this epoch?",
+    "answer": "PLASMA"
+  }
+]

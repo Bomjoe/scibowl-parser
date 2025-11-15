@@ -1,0 +1,476 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Climate scientists use prehistoric atmosphere samples to learn about the history of Earth's climate. What climate proxies are primarily used to collect information about prehistoric atmospheres?",
+    "answer": "Ice cores"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "If large amounts of permafrost were to melt, the greenhouse gases trapped inside could trigger catastrophic runaway climate change. Which is the primary greenhouse gas involved in this effect?",
+    "answer": "Methane"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the smallest three-digit number that has three distinct digits and is also divisible by each of its digits?",
+    "answer": "124"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the following definite integral: $\\nt_{-1}^{1} x^3 \\os x dx$",
+    "answer": "0"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three liquids in order of increasing vapor pressure at room temperature: 1) Water; 2) Benzene; 3) Ethanol.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In a certain reaction, $\\elta \\athrm{H}$ is positive and $\\elta \\athrm{S}$ is negative. Which of the following must be true of the reaction's $\\elta \\athrm{G}$ value and its spontaneity, respectively?",
+    "choices": {
+      "W": "Positive, spontaneous",
+      "X": "Positive, non-spontaneous",
+      "Y": "Negative, spontaneous",
+      "Z": "Negative, non-spontaneous"
+    },
+    "answer": "X) Positive, non-spontaneous"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following climate change-driven processes would create a change in albedo that results in a negative feedback loop?",
+    "choices": {
+      "W": "Desertification",
+      "X": "Black carbon deposition",
+      "Y": "Melting of sea ice",
+      "Z": "Sea level rise"
+    },
+    "answer": "W) Desertification"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following terms does not correctly describe a dike?",
+    "choices": {
+      "W": "Discordant",
+      "X": "Tabular",
+      "Y": "Intrusive",
+      "Z": "Porphyritic"
+    },
+    "answer": "Z) Porphyritic"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "While the stomach is lined with a layer of mucus to protect against acidity, chyme must be neutralized once it enters the small intestine to prevent damage. What ion in pancreatic juice is responsible for this neutralization?",
+    "answer": "Bicarbonate (ACCEPT: $\\athrm{HCO_3}^-$)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three parts of the nephron where sodium chloride is actively transported out of the filtrate: 1) Proximal convoluted tubule; 2) Thin segment of the ascending limb of the loop of Henle; 3) Distal convoluted tubule.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 1 kilogram puck on a table is pushed at 2 meters per second and slides for some time before falling off the table just as it reaches a speed of 1 meter per second. In joules, how much energy was released as heat before it fell off the table?",
+    "answer": "1.5"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A massless spring with spring constant 4 newtons per meter is hung from the ceiling. A mass of 2 kilograms is attached and held in place such that the spring not stretched. If the mass is pushed and has an initial downward velocity of 12 meters per second, to the nearest whole number, what is its velocity at the spring's new equilibrium point?",
+    "answer": "14"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which rare astronomical event involves a large outpouring of directed electromagnetic radiation and could lead to a mass extinction if pointed at Earth?",
+    "answer": "Gamma-ray burst"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "The first satellites to detect gamma-ray bursts were originally designed to detect which of the following events?",
+    "choices": {
+      "W": "Solar flares",
+      "X": "Lightning strikes",
+      "Y": "Meteorite impacts",
+      "Z": "Nuclear explosions"
+    },
+    "answer": "Z) Nuclear explosions"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Compute $9 + 67.73$",
+    "answer": "4900"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the total area between the curve and the x-axis for the function $y = \\in x$ from 0 to $2\\i$?",
+    "answer": "4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three nuclei that are fissile: 1) Thorium-232; 2) Uranium-233; 3) Uranium-238.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the chemical formula of the nitrogen species formed when hydrazine is combusted with 2 equivalents of oxygen gas, assuming only one compound is produced along with water?",
+    "answer": "NO (ACCEPT: Nitric oxide)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four moons that are satellites of Saturn: 1) Enceladus; 2) Ganymede; 3) Triton; 4) Miranda.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Lucy is a NASA space probe launched in 2021 that will travel to Jupiter's L4 and L5 Lagrange points to visit what group of asteroids?",
+    "answer": "Trojans"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains the function of emulsification during the digestion of fats?",
+    "choices": {
+      "W": "Increasing the surface area to volume ratio of fat droplets",
+      "X": "Breaking down triglycerides into monoglycerides and fatty acids",
+      "Y": "Allowing fats to diffuse into enterocytes",
+      "Z": "Increasing the solubility of fats"
+    },
+    "answer": "W) Increasing the surface area to volume ratio of fat droplets"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why saturated fats are typically solid at room temperature, while unsaturated fats are typically liquid?",
+    "choices": {
+      "W": "Saturated fats have longer tails than unsaturated fatty acids, and therefore experience more hydrogen bonding",
+      "X": "The tail ends of two saturated fatty acids can link to form dimers",
+      "Y": "Saturated fats consist of straight chained fatty acids, which exhibit greater van der Waals forces than unsaturated fatty acids",
+      "Z": "Saturated fats contain aromatic rings, and exhibit pi-pi stacking"
+    },
+    "answer": "Y) Saturated fats consist of straight chained fatty acids, which exhibit greater van der Waals forces than unsaturated fatty acids"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A resistor, inductor, and capacitor are connected in series across a constant voltage source. What is the phase difference between the current through the capacitor and voltage through the resistor?",
+    "answer": "0 degrees"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Using Bohr's model as an approximation, which of the following choices is closest to the lowest amount of energy, in electron volts, required to ionize a electron in the $n = 1$ state for an atom of Lithium?",
+    "choices": {
+      "W": "13",
+      "X": "130",
+      "Y": "1300",
+      "Z": "13000"
+    },
+    "answer": "X) 130"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What phrase is used to describe hypothetical extinction risks due to self-replicating nanomachines?",
+    "answer": "Grey goo"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "The term grey goo was initially coined by K. Eric Drexler, who has arranged to receive an end-of-life procedure involving the vitrification of tissues in super-cold conditions to preserve brain information. What is this procedure called?",
+    "answer": "Cryonics (ACCEPT: Cryostasis; DO NOT ACCEPT: Cryogenics)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A 10 meter rope is tied 6 meters away from the edge of a vertical cliff. If the rope can only move along a single plane perpendicular to the edge of the cliff, what is the area of the region that the rope can reach?",
+    "answer": "$54\\i$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The weather forecast states that there is a $50\\$ chance of snow today and a $60\\$ chance of snow tomorrow. However, there is a $30\\$ chance that it does not snow at all. Assuming that the forecast is accurate, what is the chance that it snows either today or tomorrow, but not both?",
+    "choices": {
+      "W": "0.2",
+      "X": "0.3",
+      "Y": "0.4",
+      "Z": "0.5"
+    },
+    "answer": "X) 0.3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following diatomic species has the highest energy HOMO?",
+    "choices": {
+      "W": "$\\athrm{F}_{2}^{+}$",
+      "X": "$\\athrm{F}_{2}^{-}$",
+      "Y": "$\\athrm{N}_{2}^{+}$",
+      "Z": "$\\athrm{N}_{2}^{-}$"
+    },
+    "answer": "X) $\\athrm{F}_{2}^{-}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements about the Downs cell that are true: 1) It is used to produce solid sodium; 2) It uses a carbon anode; 3) The Downs' process produces chlorine as a byproduct.",
+    "answer": "All"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three minerals from first to last to crystallize from a body of magma: 1) Biotite; 2) Muscovite; 3) Olivine.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three properties of a stream that typically increase as a stream moves from its headwaters to its mouth: 1) Stream gradient; 2) Discharge; 3) Average flow velocity.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three steps of a polymerase chain reaction by increasing temperature at which they are carried out: 1) Denaturation; 2) Annealing; 3) Extension.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following clades is most closely related to animals?",
+    "choices": {
+      "W": "Nucleariids",
+      "X": "Choanoflagellates",
+      "Y": "Apicomplexans",
+      "Z": "Entamoebas"
+    },
+    "answer": "X) Choanoflagellates"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A person spinning on a rotating disk drops an apple from their outstretched hand. Identify all of the following three quantities that are conserved in this situation: 1) Kinetic energy of the system; 2) Angular momentum of the system; 3) Linear momentum of the apple.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two spacecraft travel away from each other at speeds of 0.6c and 0.7c, respectively. To the nearest tenth, in terms of c, at what speed does the faster craft appear to be moving at to an observer on the slower craft?",
+    "choices": {
+      "W": "0.6c",
+      "X": "0.7c",
+      "Y": "0.8c",
+      "Z": "0.9c"
+    },
+    "answer": "Z) 0.9c"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What is the current largest non-sparse natural language processing model in existence?",
+    "answer": "GPT-3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What term describes the ability of machines to perform several tasks on different processors at once?",
+    "answer": "Parallelization"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Express the following as the log of a single quantity: $\\og 120 - \\og 108 + \\og 144.$",
+    "answer": "$\\og 160$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers cannot be the last digit of an integer raised to the 4th power?",
+    "choices": {
+      "W": "1",
+      "X": "3",
+      "Y": "5",
+      "Z": "6"
+    },
+    "answer": "X) 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the enthalpy of combustion of graphite is -393 kJ/mol, and the enthalpy of combustion of diamond is -396 kJ/mol, then in kJ/mol, what is the change in enthalpy for the reaction of graphite yields diamond?",
+    "answer": "3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many radial and angular nodes respectively does the wavefunction of an electron in a hydrogenic 4s orbital have?",
+    "answer": "3 and 0"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following observations of a star does not suggest the presence of either exoplanets or another star nearby?",
+    "choices": {
+      "W": "The parent star wobbles back and forth",
+      "X": "The parent star experiences alternating redshift and blueshift",
+      "Y": "The apparent magnitude of the parent star periodically dips sharply",
+      "Z": "The apparent magnitude of the parent star varies smoothly"
+    },
+    "answer": "Z) The apparent magnitude of the parent star varies smoothly"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A common method for detecting exoplanets is to observe slight Doppler shifts in the star's light due to the gravitational pull of the planet. Which of the following planet types would be easiest to detect using this method?",
+    "choices": {
+      "W": "Ice giant",
+      "X": "Mini-Neptune",
+      "Y": "Hot Jupiter",
+      "Z": "Trojan"
+    },
+    "answer": "Y) Hot Jupiter"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant structures is NOT a modified stem?",
+    "choices": {
+      "W": "Pneumato phore",
+      "X": "Rhizome",
+      "Y": "Stolon",
+      "Z": "Tuber"
+    },
+    "answer": "W) Pneumato phore"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term given to mychorrizae which contain hyphae that puncture the cell wall of plant roots, and are enclosed by an infolded plasma membrane?",
+    "answer": "Arbuscular mychorrizae"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In nature, as uranium-235 decays into lead-207, it undergoes both alpha and beta minus decay. How many alpha particles would be released in the complete decay chain of a single atom of uranium-235?",
+    "answer": "7"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Four resistors, made from the same material, have different radii and lengths. Order the following three resistor dimensions in order of increasing resistance: 1) A resistor of length L and radius R; 2) A resistor of length 4L and radius R/3; 3) A resistor of length 2L and radius R/2.",
+    "answer": "1, 3, 2"
+  }
+]

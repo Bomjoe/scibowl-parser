@@ -1,0 +1,436 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two points with charges of a and b are located at $\\athbf{x} = 0$ and $\\athbf{x} = 5$. Which of the following values of a and b would NOT result in a point on the $\\athbf{x}$-axis with zero electric field?",
+    "choices": {
+      "W": "a = - 2, b = - 1",
+      "X": "a = - 2, b = 2",
+      "Y": "a = 3, b = - 5",
+      "Z": "a = 4, b = 4"
+    },
+    "answer": "X) a = - 2, b = 2"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What particle, the most common type of charmonium, consists of a charm quark and a charm antiquark?",
+    "answer": "J/PSI MESON"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the cells of human females, what small densely staining structure is formed as a result of dosage compensation?",
+    "answer": "BARR BODY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cellular events is NOT likely to involve lipid rafts?",
+    "choices": {
+      "W": "Antigen receptor signaling",
+      "X": "Viral entry",
+      "Y": "E.R. vesicle formation",
+      "Z": "Acrosome reaction"
+    },
+    "answer": "Y) E.R. VESICLE FORMATION"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "a and b are positive integers such that $a + b = 37$. Identify all of the following 4 options that could be the greatest common divisor of a and b: 1) 1; 2) 2; 3) 3; 4) 5.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "You're playing a coin game where you repeatedly flip a fair coin until you get tails. You win 1 dollar for each time the coin lands on heads. If it is possible to win 0 dollars, then what are your expected earnings?",
+    "answer": "1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three minerals from first to last to crystallize in magma: 1) Olivine; 2) Amphibole; 3) Muscovite.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Plasma surrounding which of the following types of stellar objects would feel the largest radial force?",
+    "choices": {
+      "W": "Pulsar",
+      "X": "White Dwarf",
+      "Y": "Magnetar",
+      "Z": "Black Dwarf"
+    },
+    "answer": "Y) MAGNETAR"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "At standard temperature and pressure, identify all of the following three gases in which intermolecular attractions are dominant over repulsions: 1) Sulfur hexafluoride; 2) Ethane; 3) Hydrogen.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 elements in order of increasing electron affinity: 1) Argon; 2) Oxygen; 3) Sulfur.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Los Alamos National Lab are studying biphasic sleep models and the effects on abnormal circadian rhythms. In the hypothalamus, what part of the brain is responsible for the regulation of our circadian rhythms?",
+    "answer": "SUPRACHIASMATIC NUCLEUS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab are studying distributed adaptive prefix trees, a type of binary search tree, in the use of functional storage in high performance computing. Given a binary search tree with 32 nodes, and assuming that a tree with 1 node has a height of 1, what is the height of a balanced BST and the height of an unbalanced worst case BST?",
+    "answer": "6 AND 32"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In the Bohr model of the atom, the angular momentum of an electron is equal to its principal quantum number times what constant?",
+    "answer": "REDUCED PLANCK CONSTANT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following circuit components, when combined with a resistor, would form the most effective high-pass filter?",
+    "choices": {
+      "W": "Op-amp",
+      "X": "Diode",
+      "Y": "Inductor",
+      "Z": "Capacitor"
+    },
+    "answer": "Z) CAPACITOR"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "MRNA transcripts most commonly bind to one ribosome's initiation complex. However, sometimes mRNA transcripts can bind to multiple ribosomes at once. What term is given to this string of ribosomes that actively participates in translation?",
+    "answer": "POLYSOME"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cytoskeletal motors transports cargo inward toward the nucleus?",
+    "choices": {
+      "W": "Dynein",
+      "X": "Kinesin",
+      "Y": "Myosin",
+      "Z": "Prestin"
+    },
+    "answer": "W) DYNEIN"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the smallest four digit number contained in Pascal's triangle?",
+    "answer": "1000"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many integers between 1 and 30 inclusive, are divisible by each of their digits?",
+    "answer": "14"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 elements that are considered metals in astronomy: 1) Hydrogen; 2) Helium; 3) Carbon; 4) Neon.",
+    "answer": "3 AND 4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three stars that have convective currents that reach the core: 1) The Sun; 2) Proxima Centauri; 3) Rigel.",
+    "answer": "2, 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the oxidation state of the carbon atom in formic acid?",
+    "answer": "+2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 elements that experience sp-mixing in their diatomic form: 1) Lithium; 2) Boron; 3) Carbon.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are studying phase changes of Helium-4 to better understand solar conditions. Helium-4 is special because it is missing what point on its phase diagram where the solid/liquid, solid/gas, and liquid/gas equilibrium lines intersect?",
+    "answer": "TRIPLE POINT"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at SLAC are using stimulated emissions in order to create an afterburn-based particle accelerator. They are using what SPECIFIC type of device found in atomic clocks, which was invented by Charles Townes?",
+    "answer": "MASER"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Water is flowing through a cylindrical hose with a radius of 3 centimeters at a speed of 3 meters per second. If the hose then narrows to a radius of 1 centimeter, then at what speed will the water flow?",
+    "answer": "27 METERS PER SECOND"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Alice is traveling at a speed of 0.75c. Alice launches a projectile which moves at a speed of 0.25c relative to Alice. What is the smallest possible relative speed between Alice and the projectile that an outside observer can observe, in terms of c?",
+    "answer": "8c/13"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 processes that are associated with senescence: 1) Shrinking of the nucleus; 2) Mitochondrial dysfunction; 3) Increased DNA methylation.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What two protein complexes translocate proteins across the chloroplast membrane?",
+    "answer": "TIC/TOC"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive 2 digit integers have a smaller ones-digit than tens-digit?",
+    "answer": "45"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "On a $10 \\times 10$ checkerboard, a Knight moves by going 2 units in one direction and then 1 unit perpendicular. What is the maximum number of knights you can place on this board such that no two knight attack each other?",
+    "answer": "50"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three steps of sedimentary rock formation chronologically. 1) Compaction; 2) Cementation; 3) Deposition.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name given to the groundwater structure formed when groundwater accumulates on an aquitard above the zone of saturation?",
+    "answer": "PERCHED WATER TABLE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the half-life of a first order reaction is 21 seconds, then in inverse seconds and to 1 significant figure, what is the rate constant for the reaction?",
+    "answer": "0.03"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements has the closest molar mass to that of boron trifluoride?",
+    "choices": {
+      "W": "Calcium",
+      "X": "Manganese",
+      "Y": "Nickel",
+      "Z": "Gallium"
+    },
+    "answer": "Z) GALLIUM"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Oak Ridge national lab are improving on electrolysis by introducing methods to account for overpotential. Which of the following statements is NOT TRUE regarding electrolytic cells?",
+    "choices": {
+      "W": "The anode is labeled negative and the cathode is labeled positive",
+      "X": "Electrolytic cells have a Gibbs Free Energy greater than zero",
+      "Y": "The down's process is an electrolytic method used to produce sodium and chlorine",
+      "Z": "Faraday's laws can be used to calculate the quantity of products in electrolysis"
+    },
+    "answer": "W) THE ANODE IS LABELED NEGATIVE AND THE CATHODE IS LABELED POSITIVE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab are using plants in attempts to find a cheaper and environmentally friendly method to produce salicylate. Identify all of the following 3 natural products that salicylate inhibits the production of: 1) Urea; 2) Thromboxane; 3) Prostaglandin.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A 2-kilogram ball has a kinetic energy of 50 joules and is moving to the right. Later, the ball is moving upward with a kinetic energy of 50 joules. In kilogram-meters per second, what is the change in momentum of the ball?",
+    "choices": {
+      "W": "5 root 2",
+      "X": "10",
+      "Y": "10 root 2",
+      "Z": "20"
+    },
+    "answer": "Z) 20"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a particle in a box, where the region of 0 potential ranges from $0 < x < 1$ meter. Identify all of the following 4 values of $n$ such that the probability density of finding a particle at position $x = 1/4$ is 0: 1) 1; 2) 2; 3) 3; 4) 4.",
+    "answer": "4 ONLY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "David Jiang went out to play basketball without insurance. While playing he sprained his ankle and is in pain. This would lead to the activation of which of the following types of receptors?",
+    "choices": {
+      "W": "Proprioceptor",
+      "X": "Baroreceptor",
+      "Y": "Thermocceptor",
+      "Z": "Nociceptor"
+    },
+    "answer": "Z) NOCICEPTOR"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three compounds in order that they are formed in the citric acid cycle starting from citrate: 1) Fumarate; 2) Malate; 3) alpha-Ketoglutarate.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the sum of all the positive integer factors of 36?",
+    "choices": {
+      "W": "96",
+      "X": "91",
+      "Y": "90",
+      "Z": "60"
+    },
+    "answer": "X) 91"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A regular hexagon has unit side length, and an equilateral triangle is formed by connecting the midpoints of alternating sides of that hexagon. What is the area of that triangle?",
+    "answer": "9 ROOT 3 OVER 16"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following terrestrial planets has the highest density?",
+    "choices": {
+      "W": "Mercury",
+      "X": "Venus",
+      "Y": "Earth",
+      "Z": "Mars"
+    },
+    "answer": "Y) EARTH"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for the collection of rock fragments that accumulate at the base of a cliff due to friction and collisions from rockfall?",
+    "answer": "TALUS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When phenol is treated with molecular bromine, how many equivalents of bromine react to form the major product?",
+    "answer": "3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three thermodynamic processes that result in an increase in temperature: 1) Isobaric compression; 2) Isothermal expansion; 3) Reversible adiabatic expansion.",
+    "answer": "NONE"
+  }
+]

@@ -1,0 +1,430 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three molecules which are predicted to be paramagnetic by molecular orbital theory. I) $\\athrm{N}_{2}^{2 + }$ ion II) $\\athrm{O}_{2}^{4 + }$ ion III) $\\athrm{O}_{2}$",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Colin is conducting a titration of formic acid using NaOH titrant, but he is all out of indicator solution. He decides to run a conductometric titration to determine the concentration of formic acid. He creates a graph of his data with volume of NaOH added on the horizontal axis and conductivity on the vertical axis. What quantity is represented by the slope of the lines on the graph?",
+    "answer": "Molar conductivity (ACCEPT: conductivity)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "If a cell lacks vitamin B5, which of the following is most likely to occur?",
+    "choices": {
+      "W": "Increase in lactic acid fermentation",
+      "X": "Increase in fatty acid synthesis",
+      "Y": "Increase in fatty acid catabolism",
+      "Z": "Increase in citrate synthase activity"
+    },
+    "answer": "W) Increase in lactic acid fermentation"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Feather color in eagles is regulated by two genes, A and B. The A gene follows an autosomal dominant inheritance pattern, where the dominant phenotype denotes a green coloration and the recessive phenotype denotes a gold coloration. Furthermore, the B gene epistatically regulates the A gene where the presence of the dominant B allele is required to express feather coloration, otherwise the eagle will be albino. If two eagles heterozygous for both genes are crossed, what is the probability the offspring will have gold feathers?",
+    "answer": "3/16"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following times of day is the atmosphere most stable?",
+    "choices": {
+      "W": "Early Morning",
+      "X": "Noon",
+      "Y": "Evening",
+      "Z": "Midnight"
+    },
+    "answer": "W) Early Morning"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The abundance of life in the geologic record can be determined by the decreased relative abundance of what isotope of carbon?",
+    "answer": "Carbon-13"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Savannah River National Lab are studying batteries. Lead-acid batteries, commonly used in cars, can generate flammable gasses when overcharged. These gasses are most likely generated through the electrolysis of what compound?",
+    "answer": "Water"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Labs are studying quantum computing and how it can be used to speed up computations using number base systems other than binary. Radix economy is a measure used to compare the efficiency of different number bases, and is defined as the base times the number of digits used to express some number in that base. What base has the lowest radix economy for the base 10 number 70?",
+    "answer": "3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many consecutive zeros appear at the end of 600! [600 factorial]?",
+    "answer": "148"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Thanush is back at the gym to work on his bench press. He has an unlimited supply of 8 pound weights, 9 pound weights, and 17 pound weights. If the bar weighs 45 pounds and balancing the bar does not matter, identify all of the following 3 total weights that Thanush can bench using the weights he has: I) 60 pounds II) 75 pounds III) 100 pounds",
+    "answer": "None"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 characteristics which correctly describe siRNA: I) Endogenous II) Single stranded III) Forms the RISC complex",
+    "answer": "III only"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true about the role of hormones in the male reproductive cycle: I) Follicle-stimulating hormone is released by the hypothalamus II) Follicle-stimulating hormone stimulates Sertoli cells to secrete luteinizing hormone III) Luteinizing hormone stimulates Leydig cells to secrete testosterone",
+    "answer": "III only"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the magnitude of work done by friction on a rolling object?",
+    "choices": {
+      "W": "Nonzero for rolling with slipping, nonzero for rolling without slipping",
+      "X": "Nonzero for rolling with slipping, zero for rolling without slipping",
+      "Y": "Zero for rolling with slipping, nonzero for rolling without slipping",
+      "Z": "Zero for rolling with slipping, zero for rolling without slipping"
+    },
+    "answer": "X) Nonzero for rolling with slipping, zero for rolling without slipping"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "For a NPN BJT transistor where positive current flows in and negative current flows out, order the following 3 terminals from most positive to most negative current: 1) Base 2) Collector 3) Emitter",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When conducting IR spectroscopy, order the following 3 resonance modes from lowest to highest wavenumber: 1) Vibrational 2) Translational 3) Rotational",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many unpaired electrons are in a neutral, ground-state atom of molybdenum?",
+    "answer": "6"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Sukrith is recording the Enloe football team's pass completion rate. He records the pass completion rate by taking samples of 10 consecutive passes and writing down the completion rate of that sample. After he has recorded a large number of samples, which of the following best describes the shape of the distribution of his data?",
+    "choices": {
+      "W": "Binomial",
+      "X": "Geometric",
+      "Y": "Hyperbinomial",
+      "Z": "Normal"
+    },
+    "answer": "Z) Normal"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the eigenvalues [eye-gen-values] for the 2 by 2 matrix A with top row 2, -3 and bottom row 1, -2?",
+    "answer": "1 and -1 (ACCEPT: $\\m1$)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "When calculating the speed of sound in a solid, the Young's modulus of the solid is used, but when calculating speed of sound in a liquid, the bulk modulus is used instead. Which of the following best explains why this is the case?",
+    "choices": {
+      "W": "Liquids are much less dense than solids",
+      "X": "Liquids flow laterally under stress while solids do not",
+      "Y": "Liquids have nonlinear stress-strain curves while solids do not",
+      "Z": "Liquids compress adiabatically while solids compress isothermally"
+    },
+    "answer": "X) Liquids flow laterally under stress while solids do not"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In a diode, what form of breakdown occurs near a highly doped PN junction with a thin depletion zone that allows a reverse current to pass through the diode without destroying the junction?",
+    "answer": "Zener breakdown"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 events from earliest to latest: 1) Electroweak Symmetry Breaking 2) Recombination 3) Inflation",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Most larger asteroids have very high rotation rates such that the inertial force is higher than their gravitational acceleration. This suggests which of the following formation origins?",
+    "choices": {
+      "W": "They are ejecta from planets",
+      "X": "They form from the collisions of multiple smaller asteroids",
+      "Y": "They formed outside the asteroid belt",
+      "Z": "They formed from dust accretion"
+    },
+    "answer": "X) They form from the collisions of multiple smaller asteroids"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $\\rac{1}{\\og(a)} + \\rac{1}{\\og(b)} = 2$ and $\\og(a) \\dot \\og(b) = 2$, then what is the value of $ab$?",
+    "answer": "10000"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let a, b, and c be the roots of the polynomial $x^3 - 7x^2 + 12x + 5$. What is $1/a^2 + 1/b^2 + 1/c^2$?",
+    "answer": "-1"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Brian is using machine learning to analyze the effectiveness of different Genshin builds. When building his model, he uses tensors in order to organize and manipulate his data. Covariant and contravariant are terms used to describe the behavior of a tensor under what operation?",
+    "answer": "Change of basis (ACCEPT: linear transformation)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Fermilab are studying the production of radioisotopes for medical imaging. Technetium-99m was the first artificial radioisotope, and unlike its counterpart Technetium-99, has a shorter half life of roughly a day. What does the m in Technetium-99m stand for?",
+    "answer": "Metastable"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Despite carrying power, lasers can be used to cool individual atoms or molecules. What is the name for the laser cooling process where laser light slightly below an electron transition frequency is used to induce an electron transition in fast-moving atoms, but not slow ones?",
+    "answer": "Doppler cooling"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Kaiwen has built a computer simulator for quantum interactions that relies on Feynman diagrams. If the probability of the simplest electrodynamic interaction is $\\lpha$, what is the probability for the simplest 2 particle interaction to occur?",
+    "answer": "$\\lpha^2$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following symptoms is not associated with a potassium deficiency in plants?",
+    "choices": {
+      "W": "Death of terminal buds",
+      "X": "Weak stems",
+      "Y": "Molting of older leaves",
+      "Z": "Drying of leaf edges"
+    },
+    "answer": "W) Death of terminal buds"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true about the role of hormones in the male reproductive cycle: I) Follicle-stimulating hormone is released by the hypothalamus II) Follicle-stimulating hormone stimulates Sertoli cells to secrete luteinizing hormone III) Luteinizing hormone stimulates Leydig cells to secrete testosterone",
+    "answer": "III only"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An $\\athrm{S_N1}$ reaction is carried out on a chiral center of a substrate. Which of the following best describes the stereochemical outcome?",
+    "choices": {
+      "W": "Complete inversion of the stereocenter",
+      "X": "Partial inversion with a preference for inversion of configuration",
+      "Y": "Partial inversion with a preference for retention of configuration",
+      "Z": "Nearly perfectly racemic"
+    },
+    "answer": "X) Partial inversion with a preference for inversion of configuration"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 types of electrophilic addition reactions that follow the Markovnikov rule: I) Hydroboration-oxidation II) Hydrohalogenation III) Oxymercuration demercuration",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Antarctic Bottom Water is formed through brine rejection at what areas of ice free ocean surrounded on all sides by contiguous sea ice?",
+    "answer": "Polynya"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 ocean waves by increasing amplitude: 1) Capillary Waves 2) Rogue Waves 3) Gravity Waves",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following quantities that would increase the drift velocity of a charged quasiparticle in a metal when increased: I) Effective mass II) Charge III) Electric field",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Colin is investigating the motion of electrons in condensed matter. He finds that the potential of an electron as a function of position is given by $U(x) = x \\in(x^2)$. How many stable and unstable equilibrium points exist between $x = 0$ and $x = 3$?",
+    "choices": {
+      "W": "1 stable, 1 unstable",
+      "X": "2 stable, 1 unstable",
+      "Y": "1 stable, 2 unstable",
+      "Z": "2 stable, 2 unstable"
+    },
+    "answer": "Y) 1 stable, 2 unstable"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Points $A, B, C,$ and $D$ lie on a circle in that order such that $AB = 10,$ $BC = 5, CD = 3$ and $DA = 9$. What is the value of $AC \\dot BD$?",
+    "answer": "75"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Emma, Siddharth, Brian, Mr. Oliphant, and Thanush want to sit in a row of 5 chairs. Thanush wants to sit next to Brian, and Emma refuses to sit next to Brian. How many ways are there for the five people to sit such that the conditions are satisfied?",
+    "answer": "36"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three planets in increasing similarity of bulk composition to the sun: 1) Jupiter 2) Saturn 3) Uranus",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Alderaan is orbiting its star with an orbital period of 33 weeks. If the star was replaced with the Death Star, which has 1/4 of the mass of the original star, and the orbital radius remained constant, then to the nearest day, what would the new orbital period be?",
+    "answer": "462 days"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "O-linked glycosylation is an important post translational modification. In what cellular organelle does O-linked glycosylation occur?",
+    "answer": "Golgi (ACCEPT: Golgi Apparatus, Golgi Bodies)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 structures that are formed by the metencephalon: I) Medulla Oblongata II) Pons III) Cerebellum",
+    "answer": "II, III"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many nodes are present in the HOMO of the conjugated pi system of 1,3,5,7,octa-tetraene?",
+    "answer": "4"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 thermodynamic potentials from smallest to largest for an arbitrary system: 1) Internal energy 2) Enthalpy 3) Helmholtz free energy",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Argonne National Lab are studying superconductivity in low-temperature materials. Cooper pairs, which are the cause of superconductivity, can form in either singlet or triplet states. Which of the following quantities differ between singlet and triplet Cooper pairs?",
+    "choices": {
+      "W": "Charge",
+      "X": "Spin",
+      "Y": "Electric potential",
+      "Z": "Mean free path"
+    },
+    "answer": "X) Spin"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Sandia National Laboratory are studying the formation and ripening of fruit in an attempt to improve yields. They are interested in the way that ethylene controls fruit development at the cellular level. What amino acid is ethylene derived from?",
+    "answer": "Methionine"
+  }
+]

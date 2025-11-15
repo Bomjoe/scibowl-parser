@@ -1,0 +1,487 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What equation in physics is used to describe the magnetic field produced by a given current?",
+    "choices": {
+      "W": "Biot-Savart",
+      "X": "Ampere",
+      "Y": "Maxwell",
+      "Z": "Clausius-Clapeyron"
+    },
+    "answer": "W) BIOT-SAVART"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When a ball is thrown straight up at a speed v the maximum height the ball reaches is h1. When the ball is instead thrown straight upward at 4v the maximum height is h2. What is h2/h1?",
+    "answer": "16"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding an atomic orbital is false?",
+    "choices": {
+      "W": "An atomic orbital is a three dimensional shape.",
+      "X": "The principal quantum number is the quantum number with the largest effect on orbital size.",
+      "Y": "A subshell consists of a collection of orbitals that have the same first two quantum numbers",
+      "Z": "The equation for total nodes of an atomic orbital is (n -L-1)"
+    },
+    "answer": "Z) THE EQUATION FOR TOTAL NODES OF AN ORBITAL IS (N- L-1)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many distinct forms of $\\athrm{C}_3\\athrm{HCl}_5$ would not be able to display addition reactions?",
+    "answer": "1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name given to the fluid inside of a plant cell's vacuole that primarily consists of water, amino acids, glucose, and more?",
+    "answer": "CELL SAP"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What illness caused by nondisjunction during meiosis causes some females to be born with only one X chromosome and loss of ovarian function?",
+    "answer": "TURNER SYNDROME (ACCEPT: GONADAL DYSGENESIS)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true of S waves 1) S waves travel through either liquid or solids. 2) P waves travel 60% faster than S waves on average. 3) S waves are energetically favorable moving on the surface of the earth.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following distances is closest to that of the radius of the galaxy Andromeda?",
+    "choices": {
+      "W": "100 Light years",
+      "X": "1,000 Light years",
+      "Y": "10,000 Light years",
+      "Z": "100,000 Light years"
+    },
+    "answer": "Z) 100,000 LIGHT YEARS"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a world where pennies do not exist, how many unique cent values under a dollar can be made by nickels, dimes, and quarters?",
+    "answer": "20"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a game of 2 truths and 1 lie the following statements were given, identify which one of these statements is the lie: 1)Statement 2 is true 2) Statement 3 is false 3) Statement 1 is false.",
+    "answer": "3) STATEMENT 1 IS FALSE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Identify all of the following three forces that will never do work on a system? 1) Kinetic Friction 2) Static Friction 3) Normal Force",
+    "choices": {
+      "W": "None of them"
+    },
+    "answer": "NONE OF THEM"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Cooper pairs in superconductors are what class of composite particles due to their spin?",
+    "answer": "BOSONS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What scientist is credited with the discovery of the 2 resonant structures of benzene in 1865 that contribute the majority to its overall structure?",
+    "choices": {
+      "W": "Dewar",
+      "X": "Kekule",
+      "Y": "Claus",
+      "Z": "Lavosier"
+    },
+    "answer": "X) KEKULE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In lab, you use a $5.00 \\athrm{mL}$ volumetric pipet, a $25.00 \\athrm{mL}$ volumetric flask, and a $250 \\athrm{mL}$ beaker to measure out solutions to make a series of dilutions. The number of significant figures you need in the concentration of the final solution is:",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "X) 2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What effect causes reduced genetic variation of a population that split off from a larger original population?",
+    "choices": {
+      "W": "Founder Effect"
+    },
+    "answer": "FOUNDER EFFECT"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In a cross section of a stem of a monocot, how are the vascular bundles arranged?",
+    "choices": {
+      "W": "The xylem and phloem form concentric rings",
+      "X": "The vascular bundles form concentric rings",
+      "Y": "The xylem and phloem are scattered throughout the stem",
+      "Z": "The vascular bundles are scattered throughout the stem"
+    },
+    "answer": "Z) THE VASCULAR BUNDLES ARE SCATTERED THROUGHOUT THE STEM"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the most prominent last stage of an average star's life before it turns into a black dwarf?",
+    "choices": {
+      "W": "White Dwarf"
+    },
+    "answer": "WHITE DWARF"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the name for a small hill that is steep on one end and tapered on the other end, where it points towards the direction of ice movement?",
+    "choices": {
+      "W": "Drumlin"
+    },
+    "answer": "DRUMLIN"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A right triangle has sides of length $x + 3$, $x + 10$, and $x + 11$. What is the smallest positive value of $x$ possible?",
+    "answer": "2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An ant is on a vertex of an equilateral triangle with length 5 inches. If the ant wants to get to the middle of the side directly opposite of it, how much of a difference to the nearest inch is it if the ant goes straight across the triangle rather than following the edge of the triangle?",
+    "answer": "3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "On square ABCD, each point A, B, C, D has a charge of q. What is the net electric force in Newtons on a test charge in the center of the square?",
+    "answer": "0"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two charges, +q & -q, are placed a distance away from each other. Which of the following is NOT true regarding the electric field lines?",
+    "choices": {
+      "W": "Where there are less lines the electric field will be weaker.",
+      "X": "The electric field vectors can be added to find the total electric field strength.",
+      "Y": "+q and -q form an electric dipole",
+      "Z": "Electric field lines will cross at a maximum field potential."
+    },
+    "answer": "Z) ELECTRIC FIELD LINES WILL CROSS AT A MAXIMUM FIELD POTENTIAL."
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What principle arises from the addition of F block electrons that deviates from expected atomic radii for the predicted atoms?",
+    "answer": "LANTHANIDE CONTRACTION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which of the following statements is not correct regarding Rydberg’s Formula?",
+    "choices": {
+      "W": "Rydberg’s formula can be expanded to calculate the energy for multi electron systems.",
+      "X": "If you assume the final energy state for an electron is infinity you will calculate the ionization energy of the atom.",
+      "Y": "Rydberg’s formula only works for single electron systems",
+      "Z": "Rydberg’s formula works towards helping our understanding of emission spectrum."
+    },
+    "answer": "W) RYDBERG’S FORMULA CAN BE EXPANDED TO CALCULATE THE ENERGY FOR MULTI ELECTRON SYSTEMS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What pair of almond sized part of the brain is responsible for processing memory and other functions?",
+    "answer": "AMYGDALA"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Silica is a substance that composes what name for an external layer of a diatom?",
+    "answer": "FRUSTULE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What amorphous sedimentary rock is primarily used for the production of aluminum through the Bayer process?",
+    "choices": {
+      "W": "Bauxite"
+    },
+    "answer": "BAUXITE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "How far in meters from the east coast of the United States in the Atlantic Ocean do Nor'easter storms usually form?",
+    "choices": {
+      "W": "6,000 Meters",
+      "X": "24,000 Meters",
+      "Y": "72,000 Meters",
+      "Z": "160,000 Meters"
+    },
+    "answer": "Z) 160,000 Meters"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the inverse of a 3x3 matrix with first row 1,0,0 second row 0,1,0 and third row 0,0,1.",
+    "answer": "FIRST ROW 1,0,0 SECOND ROW 0,1,0 AND THIRD ROW 0,0,1 (ACCEPT: IDENTITY MATRIX)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many integer values of n between 1 and 1,000 inclusive does the decimal representation of n/1,400 terminate?",
+    "answer": "142"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A charge of 3 microcoulombs is placed in an electric field with an electric field vector of 30000 N/C. Find the force in Newtons felt by the charge q.",
+    "answer": "0.09 N"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If you apply a force to the pedals of your bike and accelerate, the wheels have an angular acceleration. Consider the rim of the back wheel, the things that apply a torque to this rim are",
+    "choices": {
+      "W": "The ground",
+      "X": "The spokes",
+      "Y": "Both the ground and spokes",
+      "Z": "Neither the ground or the spoke"
+    },
+    "answer": "Y) BOTH THE GROUNDS AND SPOKES"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When the molecule Calcium Carbide melts, what bond stays together?",
+    "choices": {
+      "W": "Calcium Carbon Bond",
+      "X": "Carbon Carbon Bond",
+      "Y": "Calcium Carbide Bond",
+      "Z": "None of the bonds stays together"
+    },
+    "answer": "X) CARBON CARBON BOND"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What phenomenon occurs when molecular orbitals of the same symmetry form from the combination of 2s and 2p orbitals that are close enough in energy to further interact, exemplified by C2",
+    "answer": "SP MIXING"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a feature of human embryonic development?",
+    "choices": {
+      "W": "Presence of an inner cell mass",
+      "X": "Formation of a primitive streak",
+      "Y": "Meroblastic cleavage",
+      "Z": "Holoblastic cleavage"
+    },
+    "answer": "Y) MEROBLASTIC CLEAVAGE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A carotene differs from that of a xanthophyll by:",
+    "choices": {
+      "W": "Xanthophyll are oxygen containing carotenoids, while carotene contain aromatic rings.",
+      "X": "Xanthophyll have 13 degrees of unsaturation while Carotene are straight chain alkanes",
+      "Y": "Xanthophyll have a more characteristic yellow hue while carotene is more of an orange hue.",
+      "Z": "Xanthophyll is a derivative of chlorophyll, while carotene is a derivative of carotenoids."
+    },
+    "answer": "Y) XANTHOPHYLL HAVE A MORE CHARACTERISTIC YELLOW HUE WHILE CAROTENE IS MORE OF AN ORANGE HUE."
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What effect arises from the apparent change of position of something based on a different line of sight?",
+    "answer": "PARALLAX"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the name for glacial outburst flood triggered by geothermal heating and volcanism?",
+    "choices": {
+      "W": "Plinian",
+      "X": "Oranunai",
+      "Y": "Jokulhlaup",
+      "Z": "Cryovolcanism"
+    },
+    "answer": "Y) JOKULHLAUP"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Simplify: $\\in (x) + \\in (pi - x)$",
+    "answer": "2SIN(X)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the definite integral from 0 to 2 of $\\n (x)/x$ dx and indefinite integral of $\\n (x)/x$ dx?",
+    "answer": "- infinity, $\\n (x)^2 /2 + C$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following statements that are true for an object in static equilibrium 1) All forces acting on the object are equal 2) The net force of the system is 0 3) The static friction force is equivalent to the normal force.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What is the spatial dimension for the Dirac Spin matrices?",
+    "choices": {
+      "W": "2x3",
+      "X": "3x2",
+      "Y": "4x4",
+      "Z": "5x5"
+    },
+    "answer": "Y) 4X4"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What type of speciation arises from the evolution of a new species from a surviving ancestral species while both of the species continue to reside in the same region?",
+    "answer": "SYMPATRIC SPECIATION"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What type of glial cell is responsible for creating myelin sheaths in the central nervous system?",
+    "choices": {
+      "W": "Oligodendrocytes",
+      "X": "Schwann cells",
+      "Y": "Astrocytes",
+      "Z": "Microglia"
+    },
+    "answer": "W) OLIGODENDROCYTES"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In lab, you use a $5.00 \\athrm{mL}$ volumetric pipet, a $25.00 \\athrm{mL}$ volumetric flask, and a $250 \\athrm{mL}$ beaker to measure out solutions to make a series of dilutions. The number of significant figures you need in the concentration of the final solution is:",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "X) 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the coordination number and number of atoms per unit cell for a hexagonal closest packed?",
+    "answer": "12, 6"
+  }
+]

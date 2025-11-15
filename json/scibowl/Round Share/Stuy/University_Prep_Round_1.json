@@ -1,0 +1,558 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What proteins have a cysteine residue at their active site and are responsible for apoptosis in animal cells?",
+    "choices": {
+      "W": "Kinesins",
+      "X": "Proteases",
+      "Y": "Caspases",
+      "Z": "Kinases"
+    },
+    "answer": "Y) CASPASES"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "IAP is a family of proteins thought to inhibit apoptosis. What does the acronym IAP stand for?",
+    "answer": "INHIBITOR OF APOPTOSIS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What type of intermolecular interactions exists between noble gas solids?",
+    "choices": {
+      "W": "Delocalized covalent bonds",
+      "X": "London dispersion forces",
+      "Y": "Directional covalent bonds",
+      "Z": "Ionic bonds"
+    },
+    "answer": "X) LONDON DISPERSION FORCES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the only element in the periodic table that does NOT freeze at 1 atm?",
+    "answer": "HELIUM"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What type of friction results from the deformation of an object moving across a line?",
+    "answer": "ROLLING FRICTION"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Assuming gravity is $10 \\text{m} /\\text{s}^2$, what is the minimum coefficient of friction necessary between an object and a surface if the object is traveling at $5 \\text{m} /\\text{s}$ in a uniform circular path with a radius of $5 \\text{meters}$?",
+    "choices": {
+      "W": "0.25",
+      "X": "0.5",
+      "Y": "0.6",
+      "Z": "0.75"
+    },
+    "answer": "X) 0.5"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following Galilean moons is the only one known to have its own magnetic field?",
+    "choices": {
+      "W": "Callisto",
+      "X": "Io",
+      "Y": "Ganymede",
+      "Z": "Europa"
+    },
+    "answer": "Y) GANYMEDE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the largest of Jupiter's inner satellites?",
+    "choices": {
+      "W": "Amalthea",
+      "X": "Thebe",
+      "Y": "Adrastea",
+      "Z": "Metis"
+    },
+    "answer": "W) AMALTHEA"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "mathematics",
+    "answer_type": "multiple_choice",
+    "body": "What type of prime number is formed when one takes a power of 2 and subtracts 1?",
+    "choices": {
+      "W": "Goldbach prime",
+      "X": "Euclidean prime",
+      "Y": "Mersenne prime",
+      "Z": "Euler's prime"
+    },
+    "answer": "Y) MERSENNE PRIME"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "mathematics",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the first five prime numbers?",
+    "answer": "28"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "What is the world's largest tidal power station as of January 2014?",
+    "choices": {
+      "W": "Rance Tidal Power Station",
+      "X": "Sihwa Tidal Power Station",
+      "Y": "Race Rocks Tidal Power Station",
+      "Z": "Annapolis Royal Generating Station"
+    },
+    "answer": "X) SIHWA TIDAL POWER STATION"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "In ebb generation, what structure fills a basin at high tide and releases seawater to generate energy?",
+    "answer": "SLUICE GATE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following hormones is produced and released by the posterior pituitary gland?",
+    "choices": {
+      "W": "Oxytocin",
+      "X": "Prolactin",
+      "Y": "Growth hormone",
+      "Z": "Luteinizing hormone"
+    },
+    "answer": "W) OXYTOCIN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What structure of the brain is responsible for regulating hormone secretion by the anterior pituitary gland?",
+    "answer": "HYPOTHALAMUS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What scientist devised an electronegativity scale and won Nobel Prizes in both chemistry and peace?",
+    "choices": {
+      "W": "Amedeo Avogadro",
+      "X": "Archibald Scott Couper",
+      "Y": "John Dalton",
+      "Z": "Linus Pauling"
+    },
+    "answer": "Z) LINUS PAULING"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Ions that contain the same number of electrons are referred to by what term?",
+    "answer": "ISOELECTRONIC IONS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In special relativity, the lowercase gamma is used to symbolize what quantity?",
+    "choices": {
+      "W": "Speed of light",
+      "X": "Inertial reference frame",
+      "Y": "Lorentz factor",
+      "Z": "Euclidean factor"
+    },
+    "answer": "Y) LORENTZ FACTOR"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What happens to an individual's apparent weight, when viewed by an outside observer, as the individual travels near the speed of light?",
+    "answer": "INCREASES"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Matterhorn exemplifies what type of glacial formation that results in an angular mountaintop?",
+    "choices": {
+      "W": "Glacial striations",
+      "X": "Arete",
+      "Y": "Glacial horn",
+      "Z": "Cirque"
+    },
+    "answer": "Y) GLACIAL HORN"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of landform results from the glacial deposition of unstratified and unsorted material?",
+    "answer": "MORAINES"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "mathematics",
+    "answer_type": "multiple_choice",
+    "body": "What is the coefficient of the 4th term in the following expression: $(3x + 2y)^5$?",
+    "choices": {
+      "W": "320",
+      "X": "720",
+      "Y": "1440",
+      "Z": "1680"
+    },
+    "answer": "X) 720"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "mathematics",
+    "answer_type": "short_answer",
+    "body": "List the terms that exist in the 5th row of Pascal's Triangle.",
+    "answer": "1, 5, 10, 10, 5, 1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Humphry Davy created the first incandescent light bulb using what metal?",
+    "choices": {
+      "W": "Tungsten",
+      "X": "Iridium",
+      "Y": "Platinum",
+      "Z": "Molybdenum"
+    },
+    "answer": "Y) PLATINUM"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What does the acronym ITER, a nuclear fusion research facility, stand for?",
+    "answer": "INTERNATIONAL THERMONUCLEAR EXPERIMENTAL REACTOR"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What enzyme is responsible for splicing out errors in DNA replication?",
+    "choices": {
+      "W": "Ligase",
+      "X": "Primase",
+      "Y": "Helicase",
+      "Z": "Nuclease"
+    },
+    "answer": "Z) NUCLEASE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What enzyme compensates for the shortening of chromosomal endings during eukaryotic cell replication and plays an important role in aging and cancer?",
+    "answer": "TELOMERASE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "According to Le Chatelier's principle, what effect would a catalyst have on the rate of a chemical reaction?",
+    "choices": {
+      "W": "Increase forward reaction",
+      "X": "Increase backward reaction",
+      "Y": "Increase forward and backward reactions equally",
+      "Z": "Have no influence on reaction rates"
+    },
+    "answer": "Y) INCREASE FORWARD AND BACKWARD REACTIONS EQUALLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "If heat is added to an endothermic reaction, in which direction does the equilibrium shift?",
+    "answer": "RIGHT OR TOWARD THE PRODUCTS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If the charge on one plate of a capacitor is $+15$ Coulombs and the capacitance is 25000 microfarads, what is the potential energy stored in the capacitor?",
+    "choices": {
+      "W": "9000 Joules",
+      "X": "8000 Joules",
+      "Y": "4500 Joules",
+      "Z": "18000 Joules"
+    },
+    "answer": "Y) 4500 JOULES"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the potential energy stored in a spring that is compressed 4 meters from its rest position given that $k = 50 \\text{N} /\\text{m}$?",
+    "answer": "400 JOULES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A massive star fuses with which element before undergoing core collapse and becoming a supernova?",
+    "choices": {
+      "W": "Silicon",
+      "X": "Oxygen",
+      "Y": "Platinum",
+      "Z": "Iron"
+    },
+    "answer": "Z) IRON"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "White dwarfs typically transform into what type of supernova because they lack hydrogen?",
+    "answer": "TYPE I"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "mathematics",
+    "answer_type": "multiple_choice",
+    "body": "What is the fourth prime term in the Fibonacci sequence?",
+    "choices": {
+      "W": "3",
+      "X": "7",
+      "Y": "13",
+      "Z": "89"
+    },
+    "answer": "Y) 13"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "mathematics",
+    "answer_type": "short_answer",
+    "body": "Leonardo Fibonacci considered the idealized population of what animal as a model for his sequence?",
+    "answer": ""
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "As of January 2014, what is the largest capacity that a hydroelectric power station can generate in megawatts?",
+    "choices": {
+      "W": "2,000",
+      "X": "4,000",
+      "Y": "10,000",
+      "Z": "20,000"
+    },
+    "answer": "Z) 20,000"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What is the name of the facility in Livermore, California, that uses laser based inertial confinement to attempt nuclear fusion?",
+    "answer": "NATIONAL IGNITION FACILITY (ACCEPT NIF)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What gaseous hormone promotes fruit ripening and flowering in pineapples?",
+    "choices": {
+      "W": "Ethylene",
+      "X": "Methylene",
+      "Y": "Cytokinins",
+      "Z": "Abscisic acid"
+    },
+    "answer": "W) ETHYLENE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the predominant natural auxin in plants called?",
+    "answer": "INDOLEACETIC ACID OR IAA"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What indicator is blue above a pH of 7.6, and yellow below a pH of 6.0?",
+    "choices": {
+      "W": "Bromophenol Blue",
+      "X": "Litmus",
+      "Y": "Bromothymol Blue",
+      "Z": "Phenolphthalein"
+    },
+    "answer": "Y) BROMOTHYMOL BLUE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What type of titration is used when the endpoint of a normal titration is difficult to identify?",
+    "answer": "BACK/REVERSE TITRATION"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A single fission reaction with uranium-235 produces approximately how much energy?",
+    "choices": {
+      "W": "100 MeV",
+      "X": "200 MeV",
+      "Y": "300 MeV",
+      "Z": "400 MeV"
+    },
+    "answer": "X) 200 MEV"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What chemical element has an atomic number 90, is named after a Norse god, and is used as a substitute nuclear fuel?",
+    "answer": "THORIUM"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What planet has the highest albedo in the solar system?",
+    "choices": {
+      "W": "Earth",
+      "X": "Mars",
+      "Y": "Mercury",
+      "Z": "Venus"
+    },
+    "answer": "Z) VENUS"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "An albedo value of 0 indicates that a surface has what property?",
+    "answer": "PERFECT/IDEAL ABSORPTION"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "mathematics",
+    "answer_type": "multiple_choice",
+    "body": "If set A contains all factors of 12 and set B contains all prime numbers, what numbers are in the intersection of set A and set B?",
+    "choices": {
+      "W": "1,2,4",
+      "X": "2,3,6",
+      "Y": "2,3",
+      "Z": "2,3,6,7"
+    },
+    "answer": "Y) 2,3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "mathematics",
+    "answer_type": "short_answer",
+    "body": "What principle states that a proper subset of S is any subset of S other than S itself?",
+    "answer": "PRINCIPLE OF EXTENSIONALITY"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "What type of batteries depend on the reaction between zinc and manganese dioxide?",
+    "choices": {
+      "W": "Lithium-ion batteries",
+      "X": "Daniell batteries",
+      "Y": "Alkaline batteries",
+      "Z": "Bunsen batteries"
+    },
+    "answer": "Y) ALKALINE BATTERIES"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What is the atomic mass of the plutonium isotope most commonly used in nuclear fission?",
+    "answer": "239"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What hormone stimulates the release of digestive enzymes from the pancreas?",
+    "choices": {
+      "W": "Secretin",
+      "X": "Cholecystokinin",
+      "Y": "Cytokinins",
+      "Z": "Gastrin"
+    },
+    "answer": "X) CHOLECYSTOKININ"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What hormone promotes the breakdown of glycogen in the liver and the release of glucose into the blood?",
+    "answer": "GLUCAGON"
+  }
+]

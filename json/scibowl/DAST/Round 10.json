@@ -1,0 +1,454 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Simplify the following expression: $(3 + 5\\athrm{i}) / (3 - 5\\athrm{i}) + (3 - 5\\athrm{i}) / (3 + 5\\athrm{i})$",
+    "answer": "$-\\rac{16}{17}$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the largest possible integer $n$ such that $7^n$ divides $9^{2058} - 6^{2058}$?",
+    "answer": "4"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Akul and Bob are at USABO camp, and they decide to climb a tall tree. Bob climbs first, but once he reaches the top, he slips and must dangle over the ground. If Akul has a 13/16 chance of saving Bob, what is the minimum coefficient of relatedness between Akul and Bob such that natural selection favors Akul saving Bob?",
+    "answer": "$\\rac{3}{16}$ (ACCEPT: .1875)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A population of DASTs consists of 50 males and females, and 60% of the population are males. If 10 of the males do not breed, what is the smallest number of females that must breed so that the effective population size is at least 60% of the real population size?",
+    "answer": "12"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following species would most likely need the Hammett Acidity function to measure its acidity due to the breaking down of the pH scale?",
+    "choices": {
+      "W": "Hydrofluoric acid",
+      "X": "Perchloric acid",
+      "Y": "Dilute sulfuric acid",
+      "Z": "Fluoroantimonic acid"
+    },
+    "answer": "Z) FLUOROANTIMONIC ACID"
+  },
+  {
+    "question_number": 3,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Jay is attempting to convert ketones into alkenes using the Wittig Reaction. Answer the following three questions regarding this reaction: 1) What is the general term for the molecule labeled 2?; 2) How many members does the ring formed by the intermediate have?; 3) True or False: If Jay would like the E alkene to predominate, he should use a resonance-stabilized form of molecule 2.",
+    "answer": "1) YLIDE; 2) 4; 3) TRUE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A superconductor and a current carrying wire of current $I$ are placed a distance $x$ away from each other. If the force between two current carrying wires of current $2I$ a distance $2x$ away from each other is $F$, find the force between the current carrying wire and the superconductor.",
+    "answer": "$\\rac{F}{4}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four statements that are TRUE concerning phonons, excitations of lattice energy. 1) The Einstein Model assumes that all vibrational nodes of a solid have the same frequency 2) The Debye model is a more accurate representation of phonons. 3) The heat capacitance of a 3D solid saturates to $3R$ at high temperatures. 4) The low temperature result of an Einstein solid is known as the Dulong-Petit",
+    "answer": "1, 2, AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Galaxies often evolve by interacting and merging with other galaxies. Which of the following is expected of galaxies that do not interact or merge with other galaxies?",
+    "choices": {
+      "W": "The galaxy becomes brighter and bluer.",
+      "X": "The galaxy becomes brighter and redder.",
+      "Y": "The galaxy becomes dimmer and bluer.",
+      "Z": "The galaxy becomes dimmer and redder."
+    },
+    "answer": "Z) THE GALAXY BECOMES DIMMER AND REDDER"
+  },
+  {
+    "question_number": 5,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shown in this image is the galaxy Cygnus A. Answer the following questions about this image: 1) What part of the electromagnetic spectrum was this image taken in?; 2) According to the Hubble morphological classification, to what class does this galaxy belong?; 3) What process is responsible for the emission seen in the image at the very center of the galaxy?",
+    "answer": "1) RADIO 2) ELLIPTICALS 3) SYNCHROTRON RADIATION"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the Joint Genome Institute are studying the phylogenetic history of raptor eyes. Many raptors possess both a deep and a shallow variety of what anatomical feature that allows for acute vision?",
+    "answer": "FOVEA"
+  },
+  {
+    "question_number": 6,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the University of Washington have been studying solutions to the dark matter problem. They are using SQUIDs, or superconducting quantum interference devices, to measure hypothetical axion fields that are candidates for dark matter. Shown in the diagram are two types of SQUIDs. Answer the following two questions regarding the diagram. 1) Identify the types of SQUIDs labeled A and B, respectively, in the diagram. 2) What type of circuit element is colored green in the diagram?",
+    "answer": "1) A IS RF (RADIO FREQUENCY) SQUID, B IS DC SQUID; 2) JOSEPHSON JUNCTION"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following nuclear reactions is incorrectly paired with a decay pathway?",
+    "choices": {
+      "W": "Carbon 10 to Boron 10; Beta Plus Decay",
+      "X": "Uranium 238 to Thorium 234; Alpha Decay",
+      "Y": "Aluminum 26 to Magnesium 26; Beta Minus Decay",
+      "Z": "Argon 37 to Chlorine 37; Electron Capture"
+    },
+    "answer": "Y) ALUMINUM 26 TO MAGNESIUM 26; BETA MINUS DECAY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding substitution on benzene rings: 1) For 1,4-disubstituted rings, nitration occurs at the less sterically hindered position; 2) When substituting on toluene, the para product dominates strongly over the ortho product; 3) For 1,3-disubstituted rings, virtually no reactions take place at the position between both substituents.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name for the effect where an emf is generated when a temperature difference is applied to two ends of a conductor?",
+    "answer": "SEEBECK EFFECT"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Rushil is standing on the edge of the nonexistent merry-go-round at Cornerstone Elementary that has an angular velocity at any time $t$ seconds being equal to $\\in (t)$, with positive angular velocity caused by counterclockwise rotation. When the merry-go-round starts to spin, Rushil starts walking along its diameter, and he walks in a straight line with constant velocity with respect to the rotating frame, taking a total of $2\\i$ seconds to reach the other end. Given this, which of the following statements is true regarding forces in the rotating frame?",
+    "choices": {
+      "W": "There is a nonzero centrifugal force acting on Rushil when $t = \\i$.",
+      "X": "When he is halfway from either end to the center, no azimuthal force acts on Rushil.",
+      "Y": "There is a nonzero azimuthal force acting on Rushil when $t = \\i$.",
+      "Z": "When he is halfway from either end to the center, no centrifugal force acts on Rushil."
+    },
+    "answer": "X) WHEN HE IS HALFWAY FROM EITHER END TO THE CENTER, NO AZIMUTHAL FORCE ACTS ON RUSHIL."
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Jupiter's magnetic field is partially due to its liquid metallic hydrogen core. However, its moon, Io, more than doubles Jupiter's magnetic field strength by emitting large amounts of sulfur dioxide, which gets swept up in Jupiter's magnetic sphere to form what object that surrounds the planet?",
+    "answer": "IO PLASMA TORUS (ACCEPT: IO TORUS OR PLASMA TORUS OR TORUS)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Jupiter has multiple gossamer rings composed largely of dust from impacts on the moons Amalthea and Thebe. Originally, these dust particles had the same orbit as their moons. What process is responsible for their orbital decay?",
+    "choices": {
+      "W": "Extremely small gravitational waves",
+      "X": "Collision with other dust particles in the ring",
+      "Y": "Interactions with Jupiter's magnetic field",
+      "Z": "Drag from solar radiation"
+    },
+    "answer": "Z) DRAG FROM SOLAR RADIATION"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Browerian mimicry is best exemplified by which of the following scenarios?",
+    "choices": {
+      "W": "A spider acts as if it belongs to an ant colony",
+      "X": "Two venomous snake species resemble each other",
+      "Y": "A harmless male butterfly mimics a poisonous female",
+      "Z": "A highly venomous snake mimics a moderately venomous snake"
+    },
+    "answer": "Y) A HARMLESS MALE BUTTERFLY MIMICS A POISONOUS FEMALE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which group of genes would you expect to not be constitutively expressed in a bacterium?",
+    "choices": {
+      "W": "Genes that code for ribosomal components",
+      "X": "Genes that respond to environmental changes in external resources",
+      "Y": "Genes that create enzymes that participate in the biosynthesis of cell wall components",
+      "Z": "Genes that code for transcription factors"
+    },
+    "answer": "X) GENES THAT RESPOND TO ENVIRONMENTAL CHANGES IN EXTERNAL RESOURCES"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "All solutions of the equation $\\os(8x) = -\\rac{1}{2}$ can be expressed in the form $(kn \\m 1)\\i / 12$, where $n$ is an integer. Find the positive value of $k$.",
+    "answer": "3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the distance between the planes $x - 3y + 3z = 8$ and $2x - 6y + 6z = 2$.",
+    "answer": "$\\rac{7\\qrt{19}}{19}$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Laboratory are attempting to solve analytic continuation problems through stochastic optimization. One such method of stochastic optimization is what iterative process that can be used for differentiable functions and involves the use of a step size?",
+    "answer": "GRADIENT DESCENT"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the Princeton Plasma Physics Lab are using quantum computers to analyze the interactions between fundamental particles. These quantum computers use qubits which use the idea of superposition to be a 0 or 1 or any linear combination of 0s and 1s. Which of the following linear combinations of two qubits written in bra-ket notation does NOT require them to be entangled?",
+    "choices": {
+      "W": "$|0,0\\angle + |1,1\\angle$",
+      "X": "$|1,0\\angle + |0,1\\angle$",
+      "Y": "$|0,0\\angle + |0,1\\angle$",
+      "Z": "$|0,1\\angle + |1,0\\angle$"
+    },
+    "answer": "Y) $|0,0\\angle + |0,1\\angle$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Viraj used his immense strength to throw a rock of mass 7 kilograms at 0.6c into outer space. What is the ratio of its total energy to its kinetic energy right after the rock leaves his hand?",
+    "answer": "5"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Wavefunctions A, B, and C are all normalized. If a new wavefunction $\\si$ has a real component of $A - B$ and an imaginary component of $C$, what is the normalization constant of $\\si$ in terms of $O$, the overlap integral of $A$ and $B$?",
+    "answer": "$\\qrt{\\rac{1}{3 - 2O}}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three amino acids that contain at least one 5-membered ring: 1) Tryptophan; 2) Histidine; 3) Proline",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the amino acids is NOT correctly matched with its characteristic functional group?",
+    "choices": {
+      "W": "Cysteine and sulfhydryl",
+      "X": "Arginine and guanidine",
+      "Y": "Tyrosine and phenol",
+      "Z": "Tryptophan and azulene"
+    },
+    "answer": "Z) TRYPTOPHAN AND AZULENE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In reflection nebulae like the Pleiades, starlight does not ionize the nebula; instead, compounds scatter their light. Two elements that appear in compounds that scatter light in nebulae are iron and nickel. Due to their alignment with the magnetic field of their galaxy, the light from reflection nebulae is slightly affected by what phenomenon?",
+    "answer": "POLARIZATION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Large Magellanic Cloud appears to have a stellar bar, suggesting that it used to be a barred dwarf stellar galaxy. Which of the following explains why the Large Magellanic Cloud is now irregular in shape?",
+    "choices": {
+      "W": "Tidal interactions with a galaxy in its distant past",
+      "X": "Tidal interactions with the Small Magellanic Cloud",
+      "Y": "Tidal interactions with the Milky Way",
+      "Z": "Tidal interactions with other dwarf galaxies in the Local Group"
+    },
+    "answer": "X) TIDAL INTERACTIONS WITH THE SMALL MAGELLANIC CLOUD"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following complexes has a tetrahedral shape?",
+    "choices": {
+      "W": "Nickel tetracarbonyl",
+      "X": "Tetracyanonickelate (II)",
+      "Y": "Tetrachloroaurate (I)",
+      "Z": "Tetrachlorocuprate (II)"
+    },
+    "answer": "W) NICKEL TETRACARBONYL"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the point group of the digermyne molecule $\\athrm{Ge_2H_2}$?",
+    "answer": "$\\athrm{C_{2h}}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The point A (4, 6) is reflected over the line $y = x$ to point B. What is the area of the triangle formed by points A, B, and the origin?",
+    "answer": "10"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A recursive sequence defined as $a_n = 3a_{n-1} - 2a_{n-2}$ has first terms $a_1 = 1$ and $a_2 = 3$. What is the fourteenth term of this sequence?",
+    "answer": "16383"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the Department of Energy's DIII-D National Fusion Facility have discovered new properties of plasmas by studying what magnetic field oscillations propagated throughout plasmas that give rise to phenomena such as the auroras?",
+    "answer": "ALFVEN WAVES"
+  },
+  {
+    "question_number": 18,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is the 3C-like protease, the main protease found in coronaviruses, and its active site makeup. In the active site, cysteine 145 and histidine 41 make up a catalytic dyad. Answer the following questions regarding this enzyme: 1) Identify the structural motif labelled a; 2) Which of the following three amino acid substitutions would most likely not impact enzymatic activity: 1) Cys145 to Arg145; 2) Leu141 to Asp141; 3) Ala191 to Val191",
+    "answer": "1) BETA BARREL; 2) 3 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a property that magnetic monopoles would have if they were allowed to exist in the universe?",
+    "choices": {
+      "W": "Positive monopoles would attract negative charges.",
+      "X": "The magnetic field from a monopole would vary to the distance to the -1",
+      "Y": "The divergence of the magnetic field produced would equal the density of magnetic charge times $\\u_0$.",
+      "Z": "The magnetic charge of the monopoles would have units of Webers."
+    },
+    "answer": "X) THE MAGNETIC FIELD FROM A MONOPOLE WOULD VARY TO THE DISTANCE TO THE -1"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The electric potential is given by the function $f(x, y, z) = xyz^2 - z \\n y$. What is the electric field at the point (3, -4, 1)?",
+    "answer": "$-4\\athbf{i} + 2\\athbf{j} - 24\\athbf{k}$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Right triangle ABC has legs of length 12 and 16. If a line is drawn from vertex B that intersects AC at P, how many different integer values can the length of BP be?",
+    "answer": "7"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let A be a matrix such that $A\\egin{bmatrix}2\\\\\\\\\\nd{bmatrix}=\\egin{bmatrix}-9\\\\2\\\\\\nd{bmatrix}$ and $A\\egin{bmatrix}-1\\\\\\\\\\nd{bmatrix}=\\egin{bmatrix}-10\\\\\\\\\\nd{bmatrix}$. What is the sum of the entries in the matrix that is the result of $A$ multiplied by $\\egin{bmatrix}-3\\\\\\\\1\\nd{bmatrix}$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Ms. Allen is trying to predict the regiochemical outcomes of nitrating toluene. Which of the following statements is true regarding the nitration of toluene?",
+    "choices": {
+      "W": "Nitration of toluene strongly favors the ortho form because the intermediate has a resonance structure that exhibits a positive charge adjacent to the methyl group",
+      "X": "Nitration of toluene strongly favors the para form because the intermediate has a resonance structure that exhibits a negative charge adjacent to the methyl group",
+      "Y": "Nitration of toluene strongly favors the meta form because the intermediate has a resonance structure that exhibits a positive charge adjacent to the methyl group",
+      "Z": "Nitration of toluene strongly favors the meta form because the intermediate has a resonance structure that exhibits a negative charge adjacent to the methyl group"
+    },
+    "answer": "W) NITRATION OF TOLUENE STRONGLY FAVORS THE ORTHO FORM BECAUSE THE INTERMEDIATE HAS A RESONANCE STRUCTURE THAT EXHIBITS A POSITIVE CHARGE ADJACENT TO THE METHYL GROUP"
+  },
+  {
+    "question_number": 21,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Answer the following three questions regarding the molecule shown in the image: 1) What is the name of the polymer made from this molecule? 2) How many distinct peaks would show up in a carbon 13 NMR spectrum of this molecule? 3) How many sigma bonds are in the molecule?",
+    "answer": "1) POLYSTYRENE; 2) 6; 3) 16"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes a hanging valley?",
+    "choices": {
+      "W": "A valley formed when the river forming a valley forms a waterfall, making a cliff-like structure along the valley.",
+      "X": "A valley typically within a mountain range which lies above sea level and lies adjacent to a cirque.",
+      "Y": "A valley formed when a tributary glacier's floor hangs over where it merges with the main glacier.",
+      "Z": "A valley shaped formation along a coastline made by the erosion of the edge of a sea cliff."
+    },
+    "answer": "Y) A VALLEY FORMED WHEN A TRIBUTARY GLACIER'S FLOOR HANGS OVER WHERE IT MERGES WITH THE MAIN GLACIER."
+  },
+  {
+    "question_number": 22,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Match the particles on the left with their corresponding glacial striations.",
+    "answer": "1, A; 2, C; 3, B"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What name is given to the region along which transcription factors commonly bind to DNA? This region of DNA is distinct from its counterpart in its wider structure thus allowing transcription factor binding.",
+    "answer": "MAJOR GROOVE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Classify the following mammals as either marsupial mammals, eutherian mammals, or neither of them: 1) Kangaroo; 2) Wolverine; 3) Flying Squirrel",
+    "answer": "1) MARSUPIAL; 2) EUTHERIAN; 3) EUTHERIAN"
+  }
+]

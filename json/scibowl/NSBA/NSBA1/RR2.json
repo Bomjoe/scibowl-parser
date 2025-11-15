@@ -1,0 +1,454 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 3 ohm external resistor is connected to a 14 volt battery with an internal resistance of 4 ohms. In watts, what is the power dissipated by the resistor?",
+    "answer": "12"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three interactions which must conserve strangeness: 1) Strong; 2) Weak; 3) Electromagnetic",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The majority of glucose-6-phosphate in the body is produced by what enzyme?",
+    "answer": "HEXOKINASE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organisms has the most stable internal osmolarity?",
+    "choices": {
+      "W": "Striped bass",
+      "X": "Camel",
+      "Y": "Atlantic lobster",
+      "Z": "Salmon"
+    },
+    "answer": "Y) ATLANTIC LOBSTER"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The three real numbers a, b, c form both an arithmetic and a geometric sequence. If $a = 28$, then what is the value of $c$?",
+    "answer": "28"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A line with a slope of 2 is graphed on the cartesian plane. If the line is rotated by 45 degrees counter-clockwise about the origin, what is the new slope of the line?",
+    "answer": "- 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the speed of a gravitational wave in terms of c?",
+    "choices": {
+      "W": "0.4c",
+      "X": "0.6c",
+      "Y": "0.8c",
+      "Z": "c"
+    },
+    "answer": "Z) C"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three rocks that have a phaneritic texture. 1) Granite; 2) Basalt; 3) Gabbro",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Elemental boron at standard temperature and pressure forms an icosahedral structure. If each boron-boron bond has an enthalpy of formation of 300 kJ/mol, what is the standard molar enthalpy of formation of icosahedral boron?",
+    "answer": "0"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the characters of the sigma and sigma-star orbitals in HF?",
+    "choices": {
+      "W": "Sigma has F-character, Sigma-star has H-character",
+      "X": "Sigma has H-character, Sigma-star has F-character",
+      "Y": "Both sigma and sigma-star have F-character",
+      "Z": "Both sigma and sigma-star have H-character"
+    },
+    "answer": "W) SIGMA HAS F- CHARACTER, SIGMA- STAR HAS H- CHARACTER"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Pacific Northwest National Lab are studying nuclear waste drainage by modeling the behavior as a laminar flow. Which of the following best describes Laminar flow?",
+    "choices": {
+      "W": "Low velocity, low Reynolds number",
+      "X": "Low velocity, high Reynolds number",
+      "Y": "High velocity, low Reynolds number",
+      "Z": "High velocity, high Reynolds number"
+    },
+    "answer": "W) LOW VELOCITY AND LOW REYNOLDS NUMBER"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Ames National Lab have been employing platinum nanoparticle based catalysts in the recycling of polyolefin plastics. Which of the following combinations of carbon chain lengths and nanoparticle diameters would result in the fastest reaction?",
+    "choices": {
+      "W": "Small chain and small nanoparticle",
+      "X": "Small chain and large nanoparticle",
+      "Y": "Large chain and small nanoparticle",
+      "Z": "Large chain and large nanoparticle"
+    },
+    "answer": "Z) LARGE CHAIN LARGE NANOPARTICLE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Suppose that a region has a coefficient of static friction equal to its coefficient of kinetic friction. Which of the following best describes the shape of a graph of the applied force vs. the frictional force acting on the block?",
+    "choices": {
+      "W": "Straight line with nonzero slope",
+      "X": "Horizontal straight line",
+      "Y": "Diagonal straight line, followed by horizontal line",
+      "Z": "Diagonal straight line, followed by vertical line"
+    },
+    "answer": "Y) DIAGONAL STRAIGHT LINE, FOLLOWED BY HORIZONTAL LINE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "On a 2-dimensional space-time diagram, identify all of the following three points that lie inside the light-cone of an observer located at the origin. 1) (1, 0.5); 2) (-1,-2); 3) (2, -1).",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Humans and dogs each contain a gene coding for the cytochrome c protein in their genome. However, the sequence of nucleotides in each gene differs. Which of the following best describes the relationship between the cytochrome c genes in humans and dogs?",
+    "choices": {
+      "W": "Orthologous",
+      "X": "Paralagous",
+      "Y": "Homoplasy",
+      "Z": "Anaplasy"
+    },
+    "answer": "W) ORTHOLOGOUS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The Ti plasmid is the most commonly used vector for introducing new genes into plant cells. This plasmid originates from what genus of bacteria?",
+    "answer": "AGROBACTERIUM"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In radians, what is the value of the inverse cotangent of the square root of 3?",
+    "answer": "$\\i /6$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A bug is situated at the origin of the Cartesian plane. Each minute, the bug randomly moves 1 unit left, right, up, or down with equal probability. What is the probability that the bug will be exactly one unit away from the origin after 3 minutes?",
+    "answer": "9/16"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three features in increasing distance from the coastline. 1) Continental shelf; 2) Continental slope; 3) Continental rise.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A rapidly rotating star of 20 solar masses collapses such that it emits intense radiation and gas along its axis of rotation. What type of stellar explosion, which is the result of an extreme core-collapse scenario, would most likely be the result of this process?",
+    "answer": "HYPERNOVA"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When a semiconductor is doped with p-type dopants, it results in the formation of what quasiparticles that represent the absence of electrons?",
+    "answer": "ELECTRON HOLES (ACCEPT: HOLES)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following energies, in joules, is closest to the cutoff energy of a gamma ray?",
+    "choices": {
+      "W": "$10^{-22}$",
+      "X": "$10^{-18}$",
+      "Y": "$10^{-14}$",
+      "Z": "$10^{-10}$"
+    },
+    "answer": "Y) $10^{-14}$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab are using the Advanced Photon Source to study mutation developments in SARS-CoV-2 to better learn how to target specific immune cells in vaccines that secrete antibodies. In mRNA based vaccines, what lymphocyte is induced, that matures in the bone marrow?",
+    "answer": "B CELLS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab are studying the levels of conductivity during phase changes. The researchers found that under certain conditions, a magnetic state of matter is formed where the electron spin causes an insulating property. What is the term for this magnetic property stemming from an antiparallel electron spin alignment?",
+    "answer": "ANTIFERROMAGNETISM"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Suppose that a spring's displacement is increased by $50\\$. By what percent is the potential energy stored in the spring increased?",
+    "answer": "125"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Four particles with charges of 2 Coulombs each are placed in a square with a side length of 3 centimeters. To one significant figure, and in scientific notation, what is the force on one of the charges due to the other three charges?",
+    "answer": "$8*10^{13}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Phytochrome are photoreceptors that absorb which of the following colors of light most intensely?",
+    "choices": {
+      "W": "Green",
+      "X": "Blue",
+      "Y": "Yellow",
+      "Z": "Red"
+    },
+    "answer": "Z) RED"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true concerning action potentials. 1) They generally occur after a hyperpolarization; 2) Their magnitude is independent of the strength of the stimulus; 3) Immediately after an action potential, the membrane potential hyperpolarizes.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following primes can NOT be represented as the sum of 2 squares?",
+    "choices": {
+      "W": "197",
+      "X": "211",
+      "Y": "241",
+      "Z": "277"
+    },
+    "answer": "X) 211"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Simplify the fraction with numerator $2 + i$ and denominator $3 + i$.",
+    "answer": "$7 / 10 + 1 / 10i$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three locations at which the salinity of shallow water increases with increasing depth. 1) Tropics; 2) Poles; 3) Equator",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three properties of a rock that metasomatism can change: 1) Foliation; 2) Chemical composition; 3) Water content.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is FALSE regarding the azeotrope formed by a $20\\$ concentration of HCl and an $80\\$ concentration of water?",
+    "choices": {
+      "W": "It is a negative azeotrope",
+      "X": "It is a maximum boiling azeotrope",
+      "Y": "It has a negative enthalpy of mixing",
+      "Z": "It has a higher vapor pressure than predicted by Raoult's law"
+    },
+    "answer": "Z) IT HAS A HIGHER VAPOR PRESSURE THAN PREDICTED BY RAOULT'S LAW"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A primary alcohol undergoes acid-catalyzed dehydration to form an ether. Identify all of the following three numbers that could be the number of carbon atoms in the major product of the reaction. 1) 5; 2) 6; 3) 7.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab have been tracking the production and usage of several fuel additives, in order to find one more environmentally available. What biofuel additive is likely being studied, that is synthesized from corn and cane?",
+    "answer": "ETHANOL"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC national labs have been studying the formation of a state of matter believed to exist at the cores of giant planets. What regime are they studying, which exists between condensed matter and hot plasma?",
+    "answer": "WARM- DENSE MATTER (ACCEPT: WDM)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 types of scattering that are elastic: 1) Rayleigh; 2) Raman; 3) Compton.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A rocket starts from rest and expels exhaust at a velocity of 2000 meters per second. The rocket loses $1\\$ of its mass in the first second of launching. In meters per second squared, what is the rocket's acceleration at the instance it starts expelling exhaust?",
+    "answer": "20"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 animals that have an alimentary canal: 1) Earthworm; 2) Cockroach; 3) Flatworm.",
+    "answer": "1, 2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In plant cells, actin-myosin interactions and sol-gel transformations induce a circular flow of cytosol within cells. What name is given to this movement?",
+    "answer": "CYTOPLASMIC STREAMING"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the maximum number of negative roots that the polynomial $\\athrm{x}^{10} - 3\\athrm{x}^{9} + \\athrm{x}^{6} - \\athrm{x}^{3} + \\athrm{x}$ can have, according to Descartes' rule of signs?",
+    "choices": {
+      "W": "4",
+      "X": "3",
+      "Y": "2",
+      "Z": "1"
+    },
+    "answer": "Z) 1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many 3 digit positive integers have their middle digit as their uniquely largest digit?",
+    "choices": {
+      "W": "180",
+      "X": "200",
+      "Y": "220",
+      "Z": "240"
+    },
+    "answer": "Z) 240"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The presence of molecular clouds in the Milky Way can be identified most easily by spectral line emission from which of the following compounds?",
+    "choices": {
+      "W": "Carbon dioxide",
+      "X": "Methane",
+      "Y": "Carbon monoxide",
+      "Z": "Hydrogen"
+    },
+    "answer": "Y) CARBON MONOXIDE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the location in the HR-diagram at which protostars lose their cocoons and become detectable at visible wavelengths?",
+    "answer": "BIRTH LINE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three compounds by increasing boiling point: 1) Trimethylamine; 2) Diethylether; 3) Ethanol.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A gas at room temperature, with a molar mass of M, effuses from a small hole in a container into a balloon. Assuming the balloon is massless, after 1 second, the weight of the balloon is proportional to what power of M?",
+    "answer": "0.5 (ACCEPT: 1/2)"
+  }
+]

@@ -1,0 +1,461 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball travels a distance of 50 meters over 5 seconds. What is the average speed of the ball?",
+    "answer": "$10$ METERS PER SECOND"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following set of values for the mass and velocity of a particle will result in the largest linear momentum?",
+    "choices": {
+      "W": "2 kilograms and 5 meters per second",
+      "X": "7 kilograms and 3 meters per second",
+      "Y": "15 kilograms and 1 meter per second",
+      "Z": "6 kilograms and 4 meters per second"
+    },
+    "answer": "Z) 6 KILOGRAMS AND 4 METERS PER SECOND"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three components of the digestive tract which food passes through from first to last: 1) Large Intestine; 2) Stomach; 3) Mouth.",
+    "answer": "$3, 2, 1$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three functional groups that are found in all amino acids: 1) Carboxyl; 2) Amino; 3) Hydroxyl.",
+    "answer": "$1$ AND $2$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT classified as a metamorphic rock?",
+    "choices": {
+      "W": "Slate",
+      "X": "Schist",
+      "Y": "Shale",
+      "Z": "Gneiss"
+    },
+    "answer": "Y) SHALE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three Northern hemisphere wind belts from northernmost to southernmost: 1) Polar easterlies; 2) Trade winds; 3) Westerlies.",
+    "answer": "$1, 3, 2$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers is divisible by both 2 and 3?",
+    "choices": {
+      "W": "27",
+      "X": "44",
+      "Y": "55",
+      "Z": "60"
+    },
+    "answer": "Z) 60"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let vector $u = i + 2j$ and vector $v = 3i + j$. What is the value of $u + v$?",
+    "answer": "$4i + 3j$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes a reaction in equilibrium?",
+    "choices": {
+      "W": "The rate of the forward and reverse reaction are equal",
+      "X": "All of the reactants are turned into product",
+      "Y": "All of the products are turned into reactants",
+      "Z": "The reaction stops"
+    },
+    "answer": "W) THE RATE OF THE FORWARD AND REVERSE REACTION ARE EQUAL"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three elements that are classified as nonmetals: 1) Chromium; 2) Zinc; 3) Oxygen.",
+    "answer": "$3$ ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the University of Chicago are studying the cost of using renewable energy to reduce carbon dioxide emissions. Carbon dioxide can cause global warming because it causes what effect, which \traps\ the heat radiated from the Earth?",
+    "answer": "GREENHOUSE EFFECT"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison are studying the ability of $E$ coli to change their gene expression based on environmental stimuli. What domain of life do $E$ coli belong to?",
+    "answer": "BACTERIA"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A light ray hits a mirror at an angle of incidence of 30 degrees. Which of the following is equal to the angle of reflection in degrees?",
+    "choices": {
+      "W": "15",
+      "X": "30",
+      "Y": "45",
+      "Z": "60"
+    },
+    "answer": "X) 30"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A system has a period of 4 seconds. What is the frequency of the system, in hertz?",
+    "answer": "$0.25$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Enzymes known as caspases play a significant role during what process, by which cells undergo programmed death?",
+    "answer": "APOPTOSIS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organisms is considered a fungus?",
+    "choices": {
+      "W": "Moss",
+      "X": "Baker's yeast",
+      "Y": "E. coli",
+      "Z": "Fruit fly"
+    },
+    "answer": "X) BAKER'S YEAST"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of front is generally associated with severe thunderstorms and heavy downpours and is symbolized on a weather map by a line of blue triangles pointing the direction of movement?",
+    "answer": "COLD FRONT"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What diagram can be used to show the relationship between stars' luminosities and temperatures and contains regions like the main-sequence?",
+    "answer": "H-R (ACCEPT: HERTZSPRUNG-RUSSELL)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following polynomials has a degree of 2?",
+    "choices": {
+      "W": "$5x^{2} - 2x + 1$",
+      "X": "$2x + 3$",
+      "Y": "$3x^{3} + 2x^{2} + 3$",
+      "Z": "9"
+    },
+    "answer": "W) $5x^{2} - 2x + 1$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A square has an area of 25. What is the length of the diagonal of the square?",
+    "answer": "$5\\qrt{2}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many valence electrons does carbon have?",
+    "answer": "$4$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three atoms in terms of increasing atomic radius: 1) Lithium; 2) Fluorine; 3) Potassium.",
+    "answer": "$2, 1, 3$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at UW Madison are studying the effects of cold climate on the energy production of plants. These plants most likely utilize which of the following pathways to produce glucose and oxygen?",
+    "choices": {
+      "W": "Glycolysis",
+      "X": "Photosynthesis",
+      "Y": "Krebs cycle",
+      "Z": "Pentose phosphate pathway"
+    },
+    "answer": "X) PHOTOSYNTHESIS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UIUC are using a new heat model in the hopes of developing electronic devices with longer lifespans. What type of heat transfer occurs when two materials with a difference in temperature directly touch each other?",
+    "answer": "CONDUCTION"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "3 amps of current flows through a 20-ohm resistor. What is the voltage across the resistor?",
+    "answer": "$60$ VOLTS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A material has a definite volume but takes on the shape of its container. What is the likely state of matter of this material?",
+    "choices": {
+      "W": "Solid",
+      "X": "Liquid",
+      "Y": "Gas",
+      "Z": "Plasma"
+    },
+    "answer": "X) LIQUID"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three steps in order from first to last in the synthesis of a protein: 1) DNA Replication 2) Translation 3) Transcription.",
+    "answer": "$1, 3, 2$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name given to small blood vessels, approximately 5 micrometers in diameter, that form a network between arterioles and venules?",
+    "answer": "CAPILLARIES"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the outermost layer of the sun?",
+    "answer": "CORONA"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What type of galaxy is the Milky Way?",
+    "choices": {
+      "W": "Lenticular",
+      "X": "Barred spiral",
+      "Y": "Elliptical",
+      "Z": "Irregular"
+    },
+    "answer": "X) BARRED SPIRAL"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the height of an equilateral triangle with side length 4?",
+    "answer": "$2\\qrt{3}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many times does the graph $y = (x + 2)^2 (x + 3)^3$ cross the line $x = 0$?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "3",
+      "Z": "5"
+    },
+    "answer": "X) 1"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The alpha particle is the nucleus of what element, which has two protons and two neutrons?",
+    "answer": "HELIUM"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What type of solid, an example of which is glass, is characterized by atoms or molecules in a non-organized pattern?",
+    "answer": "AMORPHOUS SOLID"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UIUC are using 3D printing to build artificial structures that can mimic the vibrant colors of chameleons and butterflies. These colors are caused by the interference of light with itself. In what type of interference do light waves combine to increase their peak amplitude?",
+    "answer": "CONSTRUCTIVE INTERFERENCE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at UW Madison have been studying structural acid-base chemistry in organic solvents. Which of the following compounds is a strong acid?",
+    "choices": {
+      "W": "HBr",
+      "X": "NaOH",
+      "Y": "$\\athrm{H}_2\\athrm{O}$",
+      "Z": "NaBrO"
+    },
+    "answer": "W) HBr"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A cylinder rotates around a fixed central axis at a speed of 4.5 radians per second and has a radius of 2 meters. What is the linear speed of a point on the outer edge of the cylinder?",
+    "answer": "$9$ METERS PER SECOND"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When a siren from a fire truck approaches you, the frequency of the signal appears to be shifted up. What is the name for this phenomenon where the pitch in a sound changes due to a moving source?",
+    "answer": "DOPPLER EFFECT"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A medical student who is studying the integumentary [in-TEH-goo-men-tary] system, would most likely be studying which of the following organs?",
+    "choices": {
+      "W": "Pancreas",
+      "X": "Liver",
+      "Y": "Spleen",
+      "Z": "Skin"
+    },
+    "answer": "Z) SKIN"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "RNA Polymerase II is an enzyme that synthesizes RNA from a DNA template. What specific type of RNA does this enzyme synthesize?",
+    "answer": "mRNA"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What are the first and second most abundant elements in the universe, respectively?",
+    "answer": "HYDROGEN AND HELIUM"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three continental margin features by increasing distance from the shore: 1) Continental slope; 2) Continental shelf; 3) Abyssal plain.",
+    "answer": "$2, 1, 3$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the complex conjugate of the complex number $6 + 9\\athrm{i}$?",
+    "answer": "$6 - 9\\athrm{i}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many lines of symmetry does a square have?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "Z) 4"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What substance is considered the \universal solvent\ due to its ability to dissolve a wide range of compounds?",
+    "answer": "WATER"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of bonds is characterized by positively charged atoms within a \sea\ of delocalized electrons?",
+    "choices": {
+      "W": "Hydrogen",
+      "X": "Covalent",
+      "Y": "Ionic",
+      "Z": "Metallic"
+    },
+    "answer": "Z) METALLIC"
+  }
+]

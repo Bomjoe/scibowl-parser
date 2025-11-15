@@ -2,10 +2,13 @@
 from pathlib import Path
 import re, json
 from vllm import LLM, SamplingParams
-from transformers import AutoTokenizer
 
-MODEL_ID = "nvidia/NVIDIA-Nemotron-Nano-9B-v2-NVFP4" 
-tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, trust_remote_code=True)
+# ------------------------------------------------------------
+# MODEL: Qwen3‑8B (Hugging Face path, not GGUF)
+# vLLM runs the HF or safetensors model format
+# ------------------------------------------------------------
+MODEL_ID = "nvidia/NVIDIA-Nemotron-Nano-9B-v2"   # or latest supported Qwen3 variant
+# You can use any text‑only LLM here — the GGUF builds are llama.cpp only
 
 # Instantiate vLLM
 llm = LLM(model=MODEL_ID,
@@ -17,7 +20,6 @@ llm = LLM(model=MODEL_ID,
 # Sampling / generation parameters
 sampling_params = SamplingParams(
     temperature=0.7,
-    max_tokens=8192,
     stop=None,
     skip_special_tokens=True,
 )
@@ -26,9 +28,8 @@ sampling_params = SamplingParams(
 # Read one markdown file and build chat messages
 # ------------------------------------------------------------
 sys_path = Path("nemotron_sysprompt")
-md_path  = Path("markdown/scibowl/Cast/1.mmd")
 
-md_root = Path("markdown/")
+md_root = Path("markdown/scibowl")
 md_files = [p for p in md_root.rglob("*.mmd") if p.is_file()]
 
 

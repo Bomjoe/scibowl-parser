@@ -1,0 +1,425 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following polyprotic acids is a strong acid only in its first dissociation step?",
+    "choices": {
+      "W": "Carbonic acid",
+      "X": "Phosphoric acid",
+      "Y": "Sulfurous acid",
+      "Z": "Sulfuric acid"
+    },
+    "answer": "Z) SULFURIC ACID"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the hybridizations of the carbon atoms in ethylene?",
+    "choices": {
+      "W": "Both are sp",
+      "X": "One is sp and the other is sp²",
+      "Y": "Both are sp²",
+      "Z": "Both are sp³"
+    },
+    "answer": "Y) BOTH ARE sp²"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not an example of countercurrent exchange?",
+    "choices": {
+      "W": "Water flowing over a fish's gills",
+      "X": "Movement of the filtrate through the Loop of Henle",
+      "Y": "Warm arteries being adjacent to cooler veins",
+      "Z": "Gas exchange inside the alveoli"
+    },
+    "answer": "Z) GAS EXCHANGE IN THE ALVEOLI"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Giving your answer in millivolts, what is the equilibrium potential for sodium ions inside a neuron at $37^{\irc}\athrm{C}$ if the intracellular concentration is 5 millimolar and the extracellular concentration is 50 millimolar?",
+    "answer": "$+61\\athrm{mV}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Giving your answer in terms of x, what is the derivative of $\\os^3 (x)$ with respect to x?",
+    "answer": "$- 3 \\in (x) \\os^2 (x)$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that $\\in (2x) = 0.2$, representing your answer as a fraction with a rationalized denominator evaluate $\\os (x) + \\in (x)$.",
+    "answer": "$\\qrt{30} /5$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following particles is a type of gauge boson?",
+    "choices": {
+      "W": "Higgs boson",
+      "X": "Photon",
+      "Y": "Muon",
+      "Z": "Tau"
+    },
+    "answer": "X) PHOTON"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which of the four fundamental forces has two carrier particles, and what are these two particles?",
+    "answer": "WEAK NUCLEAR FORCE; W AND Z BOSONS"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "When pyrite chemically weathers, it produces sulfuric acid, which dissolves ore metals and can precipitate them into areas of higher concentrations. This is an example of what process?",
+    "answer": "SECONDARY ENRICHMENT"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for the region of seawater where the density increases drastically with depth?",
+    "answer": "PYCNOCLINE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name for additives that reduce the viscosity of a material and make it more flexible?",
+    "answer": "PLASTICIZERS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What are the three most stable oxides of carbon?",
+    "answer": "CO (ACCEPT: CARBON MONOXIDE), CO₂ (ACCEPT: CARBON DIOXIDE), C₃O₂ (ACCEPT: TRICARBON DIOXIDE, CARBON SUBOXIDE)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What effect would you most likely expect from a mutation preventing a cell from expressing caspases?",
+    "choices": {
+      "W": "Inability for the cell to bind to vesicles",
+      "X": "Creation of a cancerous cell",
+      "Y": "Increased ability to detoxify poisons",
+      "Z": "Decreased permeability of the phospholipid bilayer"
+    },
+    "answer": "X) CREATION OF A CANCEROUS CELL"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Increasing the fluidity of the cell membrane can be accomplished in all of the following ways except:",
+    "choices": {
+      "W": "Increasing the amount of unsaturated phospholipids",
+      "X": "Increasing the length of the phospholipid tails",
+      "Y": "Increasing the amount of cholesterol in the membrane",
+      "Z": "Increasing the temperature of the membrane"
+    },
+    "answer": "X) INCREASING THE LENGTH OF THE PHOSPHOLIPID TAILS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Given that a function f(x) is continuous on the closed interval from a to b, which of the following can not be implied about the function on that interval?",
+    "choices": {
+      "W": "The function is differentiable",
+      "X": "There exists f(c) if c is greater than a but less than b",
+      "Y": "For some c, where c is greater than a but less than b, the limit as x approaches c is f(c)",
+      "Z": "There exists an absolute maximum and an absolute minimum"
+    },
+    "answer": "W) THE FUNCTION IS DIFFERENTIABLE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the average value of 3sin(2x) on the closed interval from 0 to pi over 2?",
+    "answer": "$\\rac{6}{\\i}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If a car weighing 5 kilograms that is moving at 14 meters per second on a frictionless surface elastically collides with a 2 kilogram stationary car what is the resultant final velocity of both objects in meters per second?",
+    "choices": {
+      "W": "4",
+      "X": "10",
+      "Y": "7",
+      "Z": "11"
+    },
+    "answer": "X) 10"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Suddenly and without warning, pineapples begin falling from the sky. If you measure the pineapples to hit the ground at 10 meters per second, assuming gravitational acceleration is 10 meters per second squared, how far up in the atmosphere, in meters, were the pineapples spontaneously generated? Assume the pineapples are initially at rest immediately after being generated.",
+    "answer": "5"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pairs of tectonic plates are NOT adjacent?",
+    "choices": {
+      "W": "Juan de Fuca Plate and North American Plate",
+      "X": "Nazca Plate and Cocos Plate",
+      "Y": "South American Plate and Scotia Plate",
+      "Z": "Antarctic Plate and Cocos Plate"
+    },
+    "answer": "Z) ANTARCTIC PLATE AND COCOS PLATE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for a narrow band of strong air currents several miles above the Earth?",
+    "answer": "JET STREAM"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the highest occupied molecular orbital of $F_{2}^{-}$?",
+    "choices": {
+      "W": "$\\igma_{2p}$ [sigma 2-p bonding]",
+      "X": "$\\i_{2p}$ [pi 2-p bonding]",
+      "Y": "$\\igma_{2p}^{*}$ [sigma 2-p antibonding]",
+      "Z": "$\\i_{2p}^{*}$ [pi 2-p antibonding]"
+    },
+    "answer": "Y) $\\igma_{2p}^{*}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name for the nitrogen hydride that is a powerful reducing agent, commonly used in rocket fuel, and a colorless, pungent liquid at standard temperature and pressure?",
+    "answer": "HYDRAZINE (ACCEPT: DINITROGEN TETRAHYDRIDE)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A plant is placed so that light shines from the west. In what direction would you expect indoleacetic acid to accumulate?",
+    "choices": {
+      "W": "North",
+      "X": "South",
+      "Y": "East",
+      "Z": "West"
+    },
+    "answer": "Y) EAST"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a characteristic of a monocot?",
+    "choices": {
+      "W": "Presence of lateral meristems",
+      "X": "Scattered vascular bundles inside the stem",
+      "Y": "Parallel arrangement of veins in the leaves",
+      "Z": "Floral parts in multiples of 3"
+    },
+    "answer": "W) PRESENCE OF LATERAL MERISTEMS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is equivalent to $\\os (\\rac{\\i}{3}) \\os (\\rac{\\i}{6}) + \\in (\\rac{\\i}{3}) \\in (\\rac{\\i}{6})$?",
+    "choices": {
+      "W": "1",
+      "X": "0",
+      "Y": "$1 / 2$",
+      "Z": "$\\rac{\\qrt{3}}{2}$"
+    },
+    "answer": "Z) $\\rac{\\qrt{3}}{2}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many digits does $2^{32}$ have?",
+    "answer": "10"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 10 kilogram block is attached to a light cord that is wrapped around the pulley of an electric motor. Giving your answer in watts, at what rate is the motor doing work when it is pulling the block upward with an instantaneous speed of 3 meters per second and an upward acceleration of 2 meters per second squared?",
+    "answer": "360"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Let G [big G] represent the universal gravitational constant. What is the kinetic energy of a satellite of mass m [little m] that orbits the Earth, of mass M [big m], in a circular orbit of radius R? Express your answer in terms of the given variables.",
+    "answer": "THE FRACTION WITH NUMERATOR GMm AND DENOMINATOR 2R"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What wind erosion mechanism, often coupled with abrasion, leads to the formation of hamadas and blowouts and is defined as the process by which loose particles on the Earth’s surface are eroded by wind turbulence?",
+    "answer": "DEFLATION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for submerged, flat-topped seamounts that were originally above sea level until plate movement brought them apart from their source of magma?",
+    "answer": "GUYOTS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements’ most common ion is NOT isoelectronic with xenon?",
+    "choices": {
+      "W": "Cesium",
+      "X": "Tellurium",
+      "Y": "Strontium",
+      "Z": "Iodine"
+    },
+    "answer": "Y) STRONTIUM"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "According to hard soft acid base theory, which of the following pairs of acids and bases are predicted to react most quickly and form the strongest bonds?",
+    "choices": {
+      "W": "Hydronium and iodide",
+      "X": "Silver(I) and hydroxide",
+      "Y": "Boron trifluoride and ammonia",
+      "Z": "Borane and chloride"
+    },
+    "answer": "Y) BORON TRIFLUORIDE AND AMMONIA"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What specific enzyme is responsible for replacing the RNA primers with DNA in prokaryotic replication?",
+    "answer": "DNA POLYMERASE I (ACCEPT: Pol I)"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In Drosophila, vestigial wings and sepia eyes are both autosomal recessive traits. A dihybrid testcross yields the following frequencies of phenotypes: 475 individuals with both wild traits, 403 individuals with vestigial wings and sepia eyes, 56 individuals with wild eyes and vestigial wings, and 66 individuals with wild wings and sepia eyes. What is the map distance between the wing and eye loci in centimorgans?",
+    "answer": "12.2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is 10 choose 3?",
+    "answer": "120"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many trailing zeros are there in the number of ways to arrange 21 people in a line from a group of 75?",
+    "answer": "6"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of these statements about inelastic collisions is false?",
+    "choices": {
+      "W": "Momentum is conserved",
+      "X": "The Coefficient of Restitution is less than 1",
+      "Y": "Objects can stick to each other if the Coefficient of Restitution is zero",
+      "Z": "Mechanical Energy is Conserved"
+    },
+    "answer": "Z) MECHANICAL ENERGY IS CONSERVED"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two objects of the same mass m are traveling on a flat surface, with Object 1 traveling at 5 meters per second to the right and Object 2 traveling at 10 meters per second to the left prior to the collision. The two objects collide elastically. What is the post collision velocity of object 2 in meters per second?",
+    "answer": "5"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What astronomical law states that galaxies recede at rates proportional to their distance from the observer?",
+    "answer": "HUBBLE'S LAW"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true about the Sun’s photosphere?",
+    "choices": {
+      "W": "The photosphere is estimated to be around 100 kilometers thick",
+      "X": "It is covered in convection cells called granules",
+      "Y": "Approximately 99% of the Sun’s surface atoms are hydrogen atoms",
+      "Z": "The photosphere’s average temperature is about 6000 Kelvin"
+    },
+    "answer": "Y) APPROXIMATELY 99% OF THE SUN’S SURFACE ATOMS ARE HYDROGEN ATOMS"
+  }
+]

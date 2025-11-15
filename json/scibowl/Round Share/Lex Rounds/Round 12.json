@@ -1,0 +1,481 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify by name or number, all of the following three that would be elevated if a person has a tumor that causes hypersecretion of the parathyroid gland. 1) Calcium 2) TSH 3) PTH",
+    "answer": "13"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Give the term for the area of the brainstem that is absolutely essential for life by coordinating life related functions as well as being responsible for attention and selective focus?",
+    "answer": "Reticular Formation"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three nucleophiles in terms of increasing basicity: I. $\\athrm{H}_{2}\\athrm{O}$ II. $\\athrm{Cl}^{-}$ III. $\\athrm{OH}^{-}$",
+    "answer": "I, II, III"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the minimum possible reaction order required for a reaction to go to completion?",
+    "answer": "0"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a 1000 kg car, with an engine of maximum power output 300 kW. Assuming no energy loss, what is the maximum constant speed the car can drive up an 30-degree incline?",
+    "answer": "60 m/s"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a rope with total length $10 \\athrm{m}$ and mass density $1 \\athrm{g / cm}$. Ezra holds the tip of the rope, and allows the rest to unravel as it falls. Assuming the rope has no friction with itself, what is the force Ezra must apply upwards to keep the top of the rope stationary after 1 second? Assume $\\athrm{g} = 10 \\athrm{m / s^2}$.",
+    "answer": "15 N"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "When warm, moist air moves over a cool surface, what type of fog is formed?",
+    "answer": "Advection"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate all of the following 3 options which are true of the El-Nino conditions in the Pacific: I. Atmospheric pressure rises in the southeastern Pacific II. The thermocline is deeper in the southwestern Pacific III. The equatorial countercurrent is weaker",
+    "answer": "I only"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is $(4 + \\athrm{i})*(4 - \\athrm{i})$?",
+    "answer": "17"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In rectangular form, what is $(-2 + 2\\athrm{i})^{\\edge}7$?",
+    "answer": "(-16384 - 16384i)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organisms would be most closely related to a spider?",
+    "choices": {
+      "W": "Earthworm",
+      "X": "Garden Snail",
+      "Y": "C elegans",
+      "Z": "Planarian"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the specialized regions of the plasma membrane in neurons where there isn't myelination and is the point of saltatory action potential conduction?",
+    "answer": "Nodes of Ranvier"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An electron with energy $E$ is trapped in an infinite potential cube. If the volume of the cube is halved, what is the new energy of the electron in terms of $E$?",
+    "choices": {
+      "W": "$E$",
+      "X": "$3\\qrt{2} E$",
+      "Y": "$3\\qrt{4} E$",
+      "Z": "$2E$"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following four steps of an azo coupling between benzene and phenol from first to last: I. Reduction with tin and aqueous acid II. Treatment with fuming nitric acid III. Treatment with tert-butyl nitrite IV. Addition of phenol to the reaction mixture",
+    "answer": "II, I, III, IV"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An resistor and charged capacitor are connected in series. If the resistance increases by a factor of 5, and the capacitance decreases by a factor of 4 with the same initial charge on each capacitor plate:",
+    "choices": {
+      "W": "the current in the circuit will decay at a slower rate",
+      "X": "the initial voltage across the resistor will decrease",
+      "Y": "the charge on each capacitor plate will decay at a faster rate",
+      "Z": "the current in the circuit will be 0 A, 20 times as fast"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two satellites have orbits around the sun with semi-major axis \a\, and eccentricity 0.4 and 0.8, respectively. What is the ratio of their periods of revolution?",
+    "answer": "1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What type of drainage pattern would you expect to see in a valley range with alternating weak and resistant bedrock?",
+    "choices": {
+      "W": "Dendritic",
+      "X": "Radial",
+      "Y": "Rectangular",
+      "Z": "Trellis"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What formation occurs as large masses of granite are exposed and the upper layers sheet off in onion like layers?",
+    "answer": "Exfoliation dome"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the derivative of $\\tan (x^{\\edge}2)$?",
+    "answer": "2x \\ec^{2}(x^{2})"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Solve the following differential equation: $\\athrm{dx} / \\athrm{dt} = - \\athrm{bx}$ with initial condition $\\athrm{x} = 5$ at $\\athrm{t} = 0$.",
+    "answer": "x = 5e^{-bt}"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Reducing food content to reduce the population of a top predator would be considered to fit which of the following approaches?",
+    "choices": {
+      "W": "Top-down model",
+      "X": "Bottom-up model",
+      "Y": "Side-Side Model",
+      "Z": "Competitive Exclusion"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What process has to occur to remove the webbing between the fingers during embryonic development?",
+    "answer": "Apoptosis"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following byproducts is formed when acetone is treated with excess iodine in base?",
+    "choices": {
+      "W": "$\\athrm{CH}_3\\athrm{I}$",
+      "X": "$\\athrm{CH}_2\\athrm{I}_2$",
+      "Y": "$\\athrm{CHI}_3$",
+      "Z": "$\\athrm{Cl}_4$"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A colorless gas is held in a closed container. When the temperature is raised, the pressure in the container is doubled, and the gas takes on a brown color. This gas mixture is bubbled through a solution of sodium hydroxide, forming two salts, one of which is commonly used in organic reactions of amines. What is the identity of this salt?",
+    "answer": "$\\athrm{NaNO}_2$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Bernoulli's principle is an application of the conservation of energy. Which of the following terms is not present in the Bernoulli equation?",
+    "choices": {
+      "W": "Velocity",
+      "X": "Temperature",
+      "Y": "Pressure",
+      "Z": "Height"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A vertical pipe transports water from Robert's roof 5 meters above the ground to his bathroom which is 2 meters above the ground. If the water pressure at the roof is 4000 Pa, what is the pressure in his bathroom pipes to three significant digits? The density of water is $1000 \\athrm{kg} / \\athrm{m}^3$",
+    "answer": "33400 Pa"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What are seamounts whose tops have been flattened called?",
+    "answer": "Guyots"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following conditions would mark an absolutely unstable atmosphere?",
+    "choices": {
+      "W": "Environmental lapse rate is greater than dry adiabatic lapse rate",
+      "X": "Environmental lapse rate is less than dry adiabatic lapse rate",
+      "Y": "Environmental lapse rate is greater than wet adiabatic lapse rate",
+      "Z": "Environmental lapse rate is less than dry adiabatic lapse rate"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Multiply the following two 2x2 matrices. Matrix A has first row [0 2] and second row [3, -1], Matrix B has first row [1 0] and second row [1 1].",
+    "answer": "[2 2; 2 -1]"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the rank of the following matrix with first row [1 3 0 2 5], second row [0 0 1 4 6], and third row [0 0 0 1 1]?",
+    "answer": "3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When the Axon of Cell A is close enough to a dendrite of Cell B so that it sufficiently fires persistently and actively, it will experience growth so that its efficiency increases. Give the name for this rule.",
+    "answer": "Hebb's Law"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Proteins tagged for ubiquitin are destroyed by the proteasome. Many of these proteins are destroyed due to improper folding. The folding of these proteins requires what molecule?",
+    "answer": "Chaperone"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A concentration cell is set up with two containers of $\\athrm{Ag}^{+}$ ions and silver electrodes. The concentration of $\\athrm{Ag}^{+}$ in cell A is $0.200 \\athrm{M}$, while in cell B it's $0.100 \\athrm{M}$. Which of the following describes the flow of electrons in this set up?",
+    "choices": {
+      "W": "Electrons flow from cell A",
+      "X": "Electrons flow from cell B",
+      "Y": "Electrons flow first from cell A, then from cell B",
+      "Z": "Electrons flow first from cell B, then from cell A"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three factors that would increase the C-N bond stretching frequency in the $\\athrm{Fe(CN)_6^{4 - }}$ ion: I. Oxidizing Fe(II) to Fe(III) with DDQ II. Substituting half the CN- ligands with $\\athrm{H}_2\\athrm{O}$ ligands III. Replacing Fe(II) with Ni(II)",
+    "answer": "I"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two 300nm lasers are simultaneously shone into a plastic block and a glass block. The plastic block has an index of refraction of 2 and the glass has an index of refraction of 4. What is the ratio between the plastic and glass blocks of the frequency of light inside the blocks?",
+    "answer": "1:1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When Ashish's orange juice is put between the plates of a parallel plate capacitor, it increases the capacitance 20 times. When a coil of wire is submerged in the orange juice, its inductance increases by a factor of 80. What is the speed of light in the orange juice?",
+    "answer": "$7.5 \\times 10^{6} \\athrm{~m} / \\athrm{s}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Consider the binomial expansion of $(3x + 2y)^5$. What is the coefficient of the $x^2 y^3$ term?",
+    "answer": "720"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the coefficient of the quadratic term of the Maclaurin series for $y = x e^{x}$?",
+    "answer": "1"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following characteristic does not positively relate to the others in main-sequence stars?",
+    "choices": {
+      "W": "Mass",
+      "X": "Temperature",
+      "Y": "Spectral line width",
+      "Z": "Absolute brightness"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name the type of young protostar that exhibits periodical changes in luminosity whose name was first discovered in the Taurus constellation.",
+    "answer": "T Tauri star"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following neurotransmitters is responsible for Long Term Potentiation?",
+    "choices": {
+      "W": "Glutamate",
+      "X": "GABA",
+      "Y": "Glycine",
+      "Z": "Acetylcholine"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Lyonization is the inactivation of a specific chromosome. Give the name for the chromosome that is most commonly inactivated and the gene responsible for its inactivation?",
+    "answer": "X chromosome, Xist"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the nucleophile in each of the following three reactions: I. Reaction of hydroxide and tert-butyl bromide II. Reaction between ethylene and butadiene III. Deprotonation of acetone with LDA",
+    "answer": "Hydroxide; butadiene; LDA"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In $\\athrm{Fe}_3\\athrm{O}_4$, the 4 O atoms are arranged in a face-centered cubic arrangement, while the $\\athrm{Fe}^{2+}$ and $\\athrm{Fe}^{3+}$ occupy tetrahedral and octahedral holes based on their size. What fraction of the octahedral holes are occupied in this structure?",
+    "answer": "1/4"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A Carnot engine consists of a cold reservoir of temperature 77 C and a hot reservoir of temperature 427 C. If the engine takes in 1500 J of heat from the hot reservoir, how much energy is released as exhaust to the cold reservoir?",
+    "answer": "750 J"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate all of the following 3 options which are true: I. Cp is greater than Cv for gases II. Cp is approximately equal to Cv for crystals III. Cp is proportional to the cube of temperature for crystals",
+    "answer": "All"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the energy barrier due the electrostatic interaction between two nuclei which prevents nuclear fusion called?",
+    "answer": "Coulomb barrier"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Identify the correct order of structures from most interior to most exterior one would expect of a star 10 times as massive as the Sun.",
+    "choices": {
+      "W": "Radiative zone, convective zone, corona",
+      "X": "Convective zone, corona, radiative zone",
+      "Y": "Convective zone, radiative zone, corona",
+      "Z": "Corona, convective zone, radiative zone"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following regular polygons cannot be used to tile a 2D surface?",
+    "choices": {
+      "W": "Triangle",
+      "X": "Square",
+      "Y": "Pentagon",
+      "Z": "Hexagon"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the cubes of the roots of the polynomial $x^{3} - 1 = 0$?",
+    "answer": "3"
+  }
+]

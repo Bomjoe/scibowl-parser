@@ -1,0 +1,536 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which category of nuclear reactor, capable of producing transuranic elements, is so called because of its use of unmoderated neutrons?",
+    "answer": "Fast breeder reactor"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Although almost all modern nuclear reactors produce fissile material during their operation, they are not considered breeder reactors. Why?",
+    "choices": {
+      "W": "They cannot produce transuranic elements",
+      "X": "They produce less fissile fuel than they consume",
+      "Y": "The fuel they produce has no industrial value",
+      "Z": "The fuel they produce cannot be isolated from the core"
+    },
+    "answer": "X) They produce less fissile fuel than they consume"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What theorem says that the circulation of a vector field F around the boundary of a surface in space is equal to the double integral of curl F\\n over the surface?",
+    "choices": {
+      "W": "Stokes' Theorem",
+      "X": "Green's Theorem",
+      "Y": "Divergence Theorem",
+      "Z": "Taylor's Theorem"
+    },
+    "answer": "W) Stokes' Theorem"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The Dirichlet function over the interval $[0,1]$ is defined as follows: $\\athrm{f(x) = 1}$ for all rational numbers, $\\athrm{f(x) = 0}$ for all irrational numbers. Which of the following best describes its properties?",
+    "choices": {
+      "W": "Bounded",
+      "X": "Continuous",
+      "Y": "Bounded and continuous",
+      "Z": "Bounded and Riemann integrable"
+    },
+    "answer": "W) Bounded"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How does the actual energy of the sigma 2p bonding orbital in dioxygen compare to the energy of that orbital predicted by the LCAO model?",
+    "choices": {
+      "W": "The sigma 2p orbital is at a lower energy than predicted",
+      "X": "The sigma 2p orbital is at a higher energy than predicted",
+      "Y": "The sigma 2p orbital has exactly the same energy as predicted",
+      "Z": "The LCAO model cannot be used to predict the energy of the sigma 2p orbital"
+    },
+    "answer": "W) The sigma 2p orbital is at a lower energy than predicted"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Boron nitride is a network ionic solid, which can exist in a variety of crystal structures. Which of the following crystal structures is a possible structure of boron nitride?",
+    "choices": {
+      "W": "Rock salt",
+      "X": "Zinc blende",
+      "Y": "Cesium chloride",
+      "Z": "Antifluorite"
+    },
+    "answer": "X) Zinc blende"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The theory of whole-mantle convection involves the sinking of subducted tectonic plates until they form a 'slab graveyard' at which of the following discontinuities?",
+    "choices": {
+      "W": "Gutenberg",
+      "X": "Lehmann",
+      "Y": "Olivine-wadsleyite transition",
+      "Z": "Ringwoodite-bridgmanite transition"
+    },
+    "answer": "W) Gutenberg"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "During the 2011-2017 California drought, a high pressure zone called the Ridiculously Resilient Ridge formed in the eastern Pacific. Which of the following best describes the position of the jet stream during this period compared to normal?",
+    "choices": {
+      "W": "Farther north",
+      "X": "Farther south",
+      "Y": "At a higher altitude",
+      "Z": "At a lower altitude"
+    },
+    "answer": "W) Farther north"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids is ketogenic, but not glucogenic?",
+    "choices": {
+      "W": "Lysine",
+      "X": "Tryptophan",
+      "Y": "Proline",
+      "Z": "Serine"
+    },
+    "answer": "W) Lysine"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In emphysema, the radius of alveoli increases. Which of the following best describes the effects of this?",
+    "choices": {
+      "W": "Compliance increases, inhalation is harder",
+      "X": "Compliance decreases, inhalation is harder",
+      "Y": "Compliance increases, exhalation is harder",
+      "Z": "Compliance decreases, exhalation is harder"
+    },
+    "answer": "Y) Compliance increases, exhalation is harder"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What quasiparticle forms when a material absorbs a photon with more energy than its band gap?",
+    "choices": {
+      "W": "Exciton",
+      "X": "Polaron",
+      "Y": "Magnon",
+      "Z": "Plasmon"
+    },
+    "answer": "W) Exciton"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A gas with $C_p = 20 \\athrm{J / mol K}$ is expanded at constant pressure from a temperature of $300 \\athrm{K}$ to $816 \\athrm{K}$. To 2 significant figures, what is the change in entropy in $\\athrm{J / mol K}$ during this heating?",
+    "answer": "20"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Some of the first gain of function research was performed by researcher Ron Fouchier on the H5N1 influenza virus. After enabling it to attach to mammal cells, how did he attempt to allow it to transmit between mammals?",
+    "choices": {
+      "W": "He used CRISPR to splice in genes from H1N1",
+      "X": "He used artificial mutagens to induce mutations in viruses",
+      "Y": "He inoculated ferrets with the virus",
+      "Z": "He tested the virus on willing human trial participants"
+    },
+    "answer": "Y) He inoculated ferrets with the virus"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "A potentially threatening gain-of-function study was performed in 2001, which ended up creating a mousepox virus that killed $100\\$ of mice which contracted it. What did this research attempt to do?",
+    "choices": {
+      "W": "Develop vaccines against smallpox bioweapons",
+      "X": "Create a contraceptive virus for pest control",
+      "Y": "Map the protein structure used to make mammalian antibodies",
+      "Z": "Test quarantine methods between healthy and infected mice"
+    },
+    "answer": "X) Create a contraceptive virus that could be used for pest control"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "For the function $f(x,y) = xy(x - 2)(y + 3)$ and using the Second Derivative Test, which of the following terms best describes the point (0,0)?",
+    "choices": {
+      "W": "Local maximum",
+      "X": "Local minimum",
+      "Y": "Inflection point",
+      "Z": "Saddle point"
+    },
+    "answer": "Z) Saddle point"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The primitive 8th roots of unity are drawn on a coordinate plane and connected to form a polygon. What is the area of this polygon?",
+    "answer": "$2\\qrt{2}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The first step of the Suzuki reaction involves the bonding of an alkyl halide to the palladium catalyst. What class of elementary organometallic reaction steps does this belong to?",
+    "answer": "Oxidative addition"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Acetone is reacted with $\\athrm{TiCl_4}$ and treated with zinc metal in THF. Which of the following functional groups would you expect to find in the product?",
+    "choices": {
+      "W": "Alcohol",
+      "X": "Carboxylic acid",
+      "Y": "Alkene",
+      "Z": "Epoxide"
+    },
+    "answer": "Y) Alkene"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "By which of the following mechanisms is the spectrum of the Cosmic Microwave Background radiation distorted in the Sunyaev-Zeldovich effect?",
+    "choices": {
+      "W": "Redshift",
+      "X": "Inverse Compton scattering",
+      "Y": "Forward scattering",
+      "Z": "Thermal Doppler broadening"
+    },
+    "answer": "X) Inverse Compton Scattering"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A star observed to have high B - V color excess typically indicates which of the following conditions?",
+    "choices": {
+      "W": "Strong radial velocity variations",
+      "X": "Strong redshift",
+      "Y": "Strong interstellar reddening",
+      "Z": "Strong solar wind"
+    },
+    "answer": "Y) Strong interstellar reddening"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following dyes stains cell nuclei?",
+    "choices": {
+      "W": "Eosin",
+      "X": "Sudan red",
+      "Y": "Hematoxylin",
+      "Z": "Bismarck brown"
+    },
+    "answer": "Y) Hematoxylin"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What is the configuration of the chiral center in seleniumcysteine using the D/L and R/S systems, respectively?",
+    "choices": {
+      "W": "D, R",
+      "X": "D, S",
+      "Y": "L, R",
+      "Z": "L, S"
+    },
+    "answer": "Y) L, R"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "At low temperatures, which of the following plots of specific heat capacity of solids would produce a straight line?",
+    "choices": {
+      "W": "Specific heat capacity vs temperature",
+      "X": "Specific heat capacity vs temperature squared",
+      "Y": "Specific heat capacity vs temperature cubed",
+      "Z": "Specific heat capacity vs temperature to the fourth"
+    },
+    "answer": "Y) Specific heat capacity vs temperature cubed"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is least accurate regarding a system with a microcanonical ensemble of states?",
+    "choices": {
+      "W": "The macrostate of the system can be described with three state variables",
+      "X": "If the system is partitioned into 2 parts, the sum of particle number in each partition exactly equals the total particle number",
+      "Y": "If the system is partitioned into 2 parts, the product of the number of microstates of each partition exactly equals the total number of microstates",
+      "Z": "If the system is at thermal equilibrium, then all states are equally likely to be occupied"
+    },
+    "answer": "Y) If the system is partitioned into 2 parts, the product of the number of microstates of each partition exactly equals the total number of microstates"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a potential effect of the shutdown of the Atlantic Meridional Overturning Circulation?",
+    "choices": {
+      "W": "Cooling of the British Isles",
+      "X": "Cooling of eastern North America",
+      "Y": "Flooding in eastern North America",
+      "Z": "Low Atlantic primary productivity"
+    },
+    "answer": "X) Cooling of eastern North America"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Areas which naturally have weak thermohaline circulation suffer from what combination of anoxia and high levels of hydrogen sulfide?",
+    "answer": "Euxinia"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $S_{5}$ denote the symmetric group of degree 5. For which of the following values of $n$ does Sylow's first theorem guarantee the existence of a subgroup of $S_{5}$ with order $n$? 1) 5; 2) 6; 3) 8; 4) 24.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "One step of a certain process consists of summing the squares of the digits of an integer $n$ to find a new number. If the process starts by acting on $n$ and repeats on the subsequent answers, how many steps with unique answers are there when $n = 2$?",
+    "answer": "8"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reactions is not commonly used for click chemistry?",
+    "choices": {
+      "W": "Staudinger ligation",
+      "X": "Mitsunobu reaction",
+      "Y": "Huisgen cycloaddition",
+      "Z": "Thiol-ene reaction"
+    },
+    "answer": "X) Mitsunobu reaction"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Arrange the following 4 functional groups in order of decreasing average acidity: 1) Ketone; 2) Amine; 3) Nitro; 4) Alcohol.",
+    "answer": "3, 4, 1, 2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following soil orders would most likely form lateritic bauxite?",
+    "choices": {
+      "W": "Andisols",
+      "X": "Gelisols",
+      "Y": "Mollisols",
+      "Z": "Oxisols"
+    },
+    "answer": "Z) Oxisols"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three substances from highest to lowest cation exchange capacity: 1) Clay; 2) Humus; 3) Sand.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Despite being Gram-positive, Mycobacterium appear light purple instead of violet when Gram stained because the mycolic acids in their cell walls cause them to resist decolorization by acid alcohol. What term is given to microorganisms with this staining property?",
+    "answer": "Acid-fast"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements which are true of ethylene biosynthesis in plants: 1) Auxins promote ethylene biosynthesis; 2) Ethylene is derived from methionine; 3) ACC synthase catalyses the rate limiting step.",
+    "answer": "All"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "For a central potential, the Schrodinger equation can be solved by separating the angular and radial components. The general solution to the angular component involve the product of an exponential of phi and what class of polynomial in $\\os \\theta$?",
+    "answer": "Legendre polynomial"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The molar heat capacity of a solid can be modeled as the function $C(T) = A \\dot T^n$ for some positive values of $A$ and $n$. In terms of $A$ and $n$, how much energy is required to heat 1 mole of this substance from 1 K to 2 K?",
+    "answer": "$\\rac{2^{n + 1} - 1}{n + 1}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "The Rocket Alignment Problem used the metaphor of orbital mechanics to promote work on which field of theoretical AI safety work, which builds on mathematical decision theory to modify AI behavior?",
+    "answer": "Agent foundations"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What characteristic of a machine learning network means that its reasoning is structured in a manner which makes it easy to produce human-eligible explanations of its reasoning, without additional engineering work?",
+    "answer": "Interpretability"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the Laplace transform of the linear function $f(t) = 3t$?",
+    "answer": "$\\rac{3}{s^2}$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Beginning at the origin, a frog jumps randomly to an adjacent lattice point. After four jumps, what is the probability that the frog returns to the origin?",
+    "answer": "$\\rac{9}{64}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A proton is transferred between two identical molecules, with the donor acting as a Bronsted acid and the acceptor acting as a Bronsted base. What is the name of this phenomenon?",
+    "answer": "Autoprotolysis"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the bond order of the metal-metal bond in the carbonylated complex $\\athrm{Mn}_2(\\athrm{CO})_8$?",
+    "answer": "3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes how baryonic matter anisotropies in the early universe interacted with the primordial plasma?",
+    "choices": {
+      "W": "Gravity pulled matter in, making them denser",
+      "X": "Increased heat pushed matter out, evening out density",
+      "Y": "Thermal pressure balanced gravity in hydrostatic equilibrium",
+      "Z": "Thermal pressure and gravity created wavelike oscillations"
+    },
+    "answer": "Z) Thermal pressure and gravity created wavelike oscillations"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A radio telescope observing at a wavelength of 1 meter has a diameter of 70 meters. In radians to one significant digit, what is the minimum angle of separation at which two objects can be resolved?",
+    "answer": "0.02"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In what cardiac arrhythmia do electrical signals travel unidirectionally along a circular path in the atria, producing rapid but coordinated atrial contractions?",
+    "answer": "Atrial flutter"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acid sequences is most likely to be cleaved by trypsin?",
+    "choices": {
+      "W": "Phenylalanine-Tyrosine-Glutamine-Alanine-Tryptophan",
+      "X": "Valine-Threonine-Serine-Alanine-Glycine",
+      "Y": "Glutamate-Serine-Cysteine-Glycine-Aspartate",
+      "Z": "Glycine-Arginine-Valine-Lysine-Glycine"
+    },
+    "answer": "Z) Glycine-Arginine-Valine-Lysine-Glycine"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Light passes two polarizing filters, the second being angled at 30 degrees from the first. If the incoming light intensity was $I_0$, in terms of $I_0$, what is the intensity of the light leaving the 2nd filter?",
+    "answer": "$\\rac{3I_0}{8}$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 10 meter tall vertical pipe has a pump attached to the bottom. 12 kilograms of liquid mercury is pushed up and leaves the pipe each second. To the nearest hundred watts, what is the minimum power the pump must have in order to transport the liquid?",
+    "answer": "2400"
+  }
+]

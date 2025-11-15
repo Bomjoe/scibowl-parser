@@ -1,0 +1,454 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not an ideal of the ring of integers under addition and multiplication?",
+    "choices": {
+      "W": "The even integers",
+      "X": "The odd integers",
+      "Y": "The multiples of 3",
+      "Z": "The integers"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A cubic $P$ has $P(1) = 1$, $P(2) = 1/2$, $P(3) = 1/3$, and $P(4) = 1/4$. What is $P(5)$?",
+    "answer": "0"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In non-El Nino years, what type of biogenous sediment would dominate deep-sea deposition off the Peruvian coast?",
+    "answer": "SILICEOUS OOZE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a thin section. Answer the following two questions about the image: 1. What rock is shown in this thin section? 2. What specific igneous texture is shown?",
+    "answer": "1 - KOMATIITE; 2 - SPINIFEX TEXTURE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In what way is the sex of a fruit fly determined?",
+    "choices": {
+      "W": "The ratio of X chromosomes to autosomes",
+      "X": "The presence of an SRY gene",
+      "Y": "Ploidy of sex chromosomes",
+      "Z": "Environmental temperature levels"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 3,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The given image represents the Tunica-Corpus model of an apical meristem, indicating direction of growth, relative size, and shape of the three layers. Classify L1, L2, and L3, respectively, as part of either the tunica or the corpus.",
+    "answer": "TUNICA, TUNICA, CORPUS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three inorganic azides from least to most stable: 1) Cupric azide; 2) Sodium azide; 3) Mercuric azide.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the metal-ligand bond order in $\\athrm{Co(H_2O)_6^{2+}}$, assuming no pi interactions?",
+    "answer": "5/6"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about kaons is FALSE?",
+    "choices": {
+      "W": "Neutral kaons are their own antiparticles",
+      "X": "Kaons can be made of bound states of up quarks and strange antiquarks",
+      "Y": "Some kaons can decay into two neutral pions",
+      "Z": "All kaons have a spin of $1/2$"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two rockets are flying directly towards each other. Relative to an observer at rest, they are each flying at 0.5c. If the real wavelength of a light on one rocket is 420 nanometers, what is the wavelength, in nanometers, of the light when observed on the other ship?",
+    "answer": "140"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab are studying the effects of warming climate on the annual variation of the Intertropical Convergence Zone. Identify all of the following three statements regarding the annual variation of the ITCZ that are true: 1) The ITCZ is pulled significantly towards Asia in northern hemisphere summer months; 2) The ITCZ is located in the northern hemisphere for much of the year; 3) The ITCZ is predicted to contract towards the equator in summer months due to warming global climate.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Lab are developing a model for the negative thermal expansion of materials like scandium fluoride. Which of the following statements does not accurately describe the mechanism behind negative thermal expansion of scandium fluoride?",
+    "choices": {
+      "W": "Fluorine atoms bound to two scandium atoms oscillate perpendicularly to its bonds, causing the scandium atoms to approach each other",
+      "X": "Heat-induced shrinkage of scandium fluoride resembles the behavior of soft-matter polymers",
+      "Y": "The material shrinks with increasing temperature due to the shrinkage of the scandium-to-fluorine bonds themselves",
+      "Z": "Heat-induced shrinkage of scandium fluoride can be observed at room temperature"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two arithmetic sequences are such that the $n$th term of the second sequence is the average of the first $n$ terms of the first one. If the first term of the second sequence is 3 and the fourth term is 21, what is the third term of the first sequence?",
+    "answer": "27"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the coefficient of sine of $8t$ in the Fourier series expansion of $f(t) = t$ over the interval from $-\\i$ to $\\i$?",
+    "answer": "-1/4"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of crystal zoning is not correctly matched with its composition?",
+    "choices": {
+      "W": "Normally-zoned olivine with magnesium rich core and iron rich rim",
+      "X": "Reverse-zoned plagioclase with calcium rich core and sodium rich rim",
+      "Y": "Normally-zoned hornblende with magnesium rich core and iron rich rim",
+      "Z": "Reversed-zoned orthopyroxene with iron rich core and magnesium rich rim"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four conditions that are associated with aragonite seas: 1) High magnesium content in calcite; 2) Icehouse climatic episode; 3) Relatively slow seafloor spreading rate; 4) Greater $\\athrm{O}^{18}$ content in ice caps.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Eulgenoid pellicles are the functional equivalent of what structure in plant cells?",
+    "answer": "CELL WALLS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Pictured is a cross section of a developing chick leg bud. Fluorescently labelled nucleotide chains have been attached to 3' ends of DNA fragments. Answer the following three questions pertaining to the image: 1. What biochemical event is taking place in the picture? 2. What is the name of the procedure used in the picture to fluorescently label the DNA? 3. What is the name for a bulge in the plasma membrane that results from a cell undergoing this process?",
+    "answer": "1 - APOPTOSIS; 2 - TUNEL; 3 - BLEB"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify which of the following three d orbitals can interact with ligand pi orbitals in an octahedral complex according to ligand field theory: 1) $d_{x^2 - y^2}$; 2) $d_{xy}$; 3) $d_{z^2}$.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three functional groups in terms of increasing pKa: 1) Hydrogen alpha to ketone carbonyl group; 2) Hydrogen alpha to two ketone carbonyl groups; 3) Hydrogen alpha to aldehyde carbonyl group.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A charged particle with mass 1 g, charge 1 C, and velocity 400 km/s east enters a dynamic magnetic field of 300 Tesla. The magnetic field direction changes over time such that it always points in the direction of the particle’s velocity, with an angle of inclination of 60 degrees. Which of the following paths does the particle take?",
+    "choices": {
+      "W": "A spiral with increasing radius over time",
+      "X": "A spiral with decreasing radius over time",
+      "Y": "One branch of a hyperbola",
+      "Z": "A circle"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 11,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Mo the ice cream man wants to add a giant rotating ice cream cone to his truck. The object consists of a solid sphere of mass $20\\athrm{kg}$ and diameter $1\\athrm{m}$ inserted into a hollow $40\\athrm{kg}$ cone with the same diameter base and a height of $2\\athrm{m}$. How much torque would a motor need to provide to accelerate the object at a rate of $3\\athrm{rad/s}^2$ rotating around the axis shown by the dashed line?",
+    "answer": "21N\\dot m"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Chemists at Argonne National Lab are studying the dissolution kinetics of cadmium carbonate films over dolomite crystal surfaces. To study this, they use a special crystallization technique. Which of the following refers to the method of crystallization where thin crystal layers are grown on the surface of a single-crystalline substrate?",
+    "choices": {
+      "W": "Czochralski method",
+      "X": "Epitaxy",
+      "Y": "Flux method",
+      "Z": "Fractional crystallization"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Livermore National Lab are studying grains from the Murchinson meteorite, which contains grains of silicon carbide that are over two billion years older than the solar system. The Murchinson meteorite also contains organic compounds, such as amino acids. Identify all of the following four amino acids that have been identified on the Murchinson meteorite: 1) Tyrosine; 2) Glycine; 3) Alanine; 4) Isovaline.",
+    "answer": "2, 3, 4"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the Mobius function of 2020?",
+    "choices": {
+      "W": "-1",
+      "X": "0",
+      "Y": "1/2",
+      "Z": "1"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 13,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The truncated cube is formed by cutting off pyramids with equilateral triangle bases from each corner of a cube, as shown in the diagram. In addition, each of the final edges is the same length. If the initial cube had a side length of $1 + \\qrt{2}$, what is the new surface area?",
+    "answer": "12 PLUS 12 ROOT 2 PLUS 2 ROOT 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The wavelength of a shallow water wave is 13 meters. To the nearest meter, estimate the height that the wave must reach to form whitecaps.",
+    "answer": "2 METERS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a sample of two minerals, labelled A and B. Upon treatment with cold dilute hydrochloric acid, it is found that both A and B effervesce. Answer the following two questions: 1. Identify minerals A and B 2. Since mineral A is less thermodynamically stable at STP than mineral B, it has been slowly replaced by B; this alteration is known as what process?",
+    "answer": "A IS AZURITE, B IS MALACHITE; PSEUDOMORPHISM"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids is least likely to be found at the C-termini of alpha helices?",
+    "choices": {
+      "W": "Lysine",
+      "X": "Leucine",
+      "Y": "Arginine",
+      "Z": "Histidine"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 15,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Pictured is a pedigree in which the disease is paternally imprinted. From which grandparent did the child inherit the mutant allele?",
+    "choices": {
+      "W": "A",
+      "X": "B",
+      "Y": "C",
+      "Z": "D"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What effect causes the O-O bond in dioxygen difluoride to be longer than most O-O single bonds?",
+    "answer": "HYPERCONJUGATION"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three conditions that will favor the formation of the kinetic enolate over the thermodynamic enolate: 1) Addition of carbonyl compound to base; 2) High temperature; 3) Sterically hindered base.",
+    "answer": "1, 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The charm quark, along with the charm antiquark, were first observed in what particle?",
+    "answer": "J/PSI MESON"
+  },
+  {
+    "question_number": 17,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a plastic cube with side length 4 cm and mass 20 grams that floats horizontally in water. If displaced downward, the cube bobs up and down. To two significant digits and in seconds, what is the period of these oscillations?",
+    "answer": "0.22"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Argonne National Lab have developed a method to exfoliate imine linked covalent organic frameworks, or COFs. Which of the following is not true about COFs?",
+    "choices": {
+      "W": "COFs are considered porous crystalline solids",
+      "X": "There are two-dimensional varieties of COFs",
+      "Y": "Three-dimensional COFs have the ability to store its weight in carbon dioxide",
+      "Z": "COFs do not incorporate any metals in their structure"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 18,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are studying the use of molybdenum phosphide as a catalyst for the electrolysis of water. Shown in the image is a unit cell of molybdenum phosphide. Answer the following two questions about the image: 1. What is the chemical formula of molybdenum phosphide? 2. Molybdenum phosphide is a low-cost alternative to what expensive precious metal, used as a catalyst for the electrolysis of water?",
+    "answer": "MoP; PLATINUM"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the Jacobian determinant of the transformation $x = 4u - 3$ and $y = 1 - 6v$.",
+    "answer": "-24"
+  },
+  {
+    "question_number": 19,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "ABC is an acute triangle with circumcircle omega. The perpendicular of AB through C meets AB at P and omega again at D, as shown in the diagram. If the area of triangle APC is 9, the area of triangle CPB is 24, and the area of triangle BPD is 16, what is the length of side AD?",
+    "answer": "5"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "According to dynamic tide theory, the low tide is how many hours behind high tide in an amphidromic cell?",
+    "answer": "6"
+  },
+  {
+    "question_number": 20,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is the evolution track on the HR diagram for a typical 5 solar mass star past the main sequence. Answer the following two questions about the image: 1. What event causes the star's path to curve towards the left, as shown by letter A? 2. What region of the HR diagram is letter B pointing to?",
+    "answer": "BLUE LOOP; INSTABILITY STRIP"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What plant hormone directly inhibits the growth of axillary buds when stimulated by auxin?",
+    "choices": {
+      "W": "Abscisic acid",
+      "X": "Brassinosteroid",
+      "Y": "Strigolactone",
+      "Z": "Salicylic acid"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Beta turns are a type of non-regular secondary structure in proteins containing several large dihedral angles. Which of the standard 20 amino acids is likely to be most common in beta turns?",
+    "answer": "GLYCINE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the term given to the effect when an electron-donating group on a neighboring carbon accelerates the rate of an $\\athrm{S_N2}$ reaction?",
+    "answer": "ANCHIMERIC ASSISTANCE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A low spin octahedral complex with which of the following numbers of d electrons is least likely to undergo a Jahn-Teller distortion?",
+    "choices": {
+      "W": "3",
+      "X": "4",
+      "Y": "7",
+      "Z": "9"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following mathematical objects describes the mismatch between the flavors of quarks as they propagate compared to how they interact via the weak interaction, explaining cross-generational flavor changes and decays?",
+    "choices": {
+      "W": "Weinberg angle",
+      "X": "CKM matrix",
+      "Y": "PMNS matrix",
+      "Z": "Lamb shift"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What instrument is used to measure ionizing radiation by detecting the light emitted from material that is excited by that ionizing radiation?",
+    "answer": "SCINTILLATION DETECTOR"
+  }
+]

@@ -1,0 +1,486 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cranial nerves is not associated with eye movement?",
+    "choices": {
+      "W": "Trochlear",
+      "X": "Oculomotor",
+      "Y": "Trigeminal",
+      "Z": "Abducens"
+    },
+    "answer": "Y) Trigeminal"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Give the following 4 components of a typical eudicot root from innermost to outermost: 1) Pericycle 2) Endodermis 3) Xylem 4) Cortex",
+    "answer": "3, 1, 2, 4"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Babcock model is used to describe what phenomenon occurring on the Sun's surface?",
+    "answer": "Sunspots (accept magnetic cycle)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name all of the following 3 that are known causes of gamma-ray bursts: 1) Magnetars 2) Neutron star mergers 3) Hypernovae",
+    "answer": "All of them"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A system has a positive entropy change, and yet is reversible. Which of the following is true?",
+    "choices": {
+      "W": "The process must be adiabatic",
+      "X": "The process must have a positive heat flow",
+      "Y": "The process must have a negative heat flow",
+      "Z": "This is not possible"
+    },
+    "answer": "X) The process must have a positive heat flow"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Speaker A emits sound waves in all directions. I surround speaker A with a huge muffler shaped like a hollowed out sphere, with inner radius 0.5 m and outer radius 1 m. The muffler is made so that the total energy of all points a distance d from the speaker is inversely proportional to the square of d. The ratio of the pressure amplitude of the sound wave at the inner radius of the muffler to the outer radius is what?",
+    "answer": "$\\rac{1}{4}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the following indefinite integral: $\\nt 3x(e^x x^2)dx$.",
+    "answer": "$3(e^x x^2) / 2 + c$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A $4 \\times 2$ grid is filled such that the numbers in each row increase from left to right, and the numbers in each column increase from top to bottom. How many different grids are possible?",
+    "answer": "14"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which of the following 4 statements are false concerning thermodynamics? 1) The most work a gas can do is under isobaric conditions 2) No work can be done if the change in enthalpy is equal to the heat supplied 3) The external pressure of the expansion of the gas decreases if the process is reversible 4) Entropy is not a state function",
+    "answer": "1, 2, 4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the work done if $1 / 8.314$ moles of gas expands reversibly from 1 to 2 liters at 27 degrees Celsius? Assume $\\n 2 = 0.69$.",
+    "answer": "207 J"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "All animals except sponges are classified under a clade called what?",
+    "answer": "Eumetazoa"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "$90\\$ of water reabsorption in the kidney occurs in which of the following tubular segments?",
+    "choices": {
+      "W": "Proximal convoluted tubule",
+      "X": "Descending loop of henle",
+      "Y": "Ascending loop of henle",
+      "Z": "Distal convoluted tubule"
+    },
+    "answer": "W) Proximal convoluted tubule"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "When the environmental lapse rate is always less than the wet adiabatic lapse rate, a parcel of air is said to be in what state?",
+    "answer": "Absolute stability"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name these Precambrian seafloor formations, associated with the events of the Great Oxygenation Period around 2.5 billion years ago.",
+    "answer": "Banded iron formations"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A capacitor and resistor are connected in parallel to an open switch and 12 V battery. Which of the following describes what will happen when the switch is closed initially:",
+    "choices": {
+      "W": "All of the current will flow through the capacitor.",
+      "X": "All of the current will flow through the resistor.",
+      "Y": "Current will flow through both the capacitor and the resistor.",
+      "Z": "There will be no current flow."
+    },
+    "answer": "W) All of the current will flow through the capacitor."
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Three 2 ohm resistors are placed in series and connected in parallel to a 4 ohm resistor. What is the equivalent resistance of this circuit?",
+    "answer": "$12/5$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Which of the following three quantities are not equal between icosahedrons and dodecahedrons? 1) Number of faces 2) Number of edges 3) Number of vertices",
+    "answer": "1, 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Truncated dodecahedrons are made by shaving tetrahedrons off the vertices of a regular dodecahedron. How many faces, vertices, and edges does this solid have, respectively?",
+    "answer": "32 faces, 60 vertices, 90 edges"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Arrange the following 4 ligands in decreasing ligand strength. 1) OH 2) $\\athrm{H}_{2}\\athrm{O}$ 3) $\\athrm{NH}_{3}$ 4) F",
+    "answer": "3, 2, 1, 4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why $\\athrm{H}_{2}\\athrm{O}$ is a stronger field ligand than $\\athrm{OH}^{-}$?",
+    "choices": {
+      "W": "A pi orbital bonds to a t2g orbital and $\\athrm{OH}^{-}$ contributes more towards the new molecular orbitals",
+      "X": "A pi orbital bonds to a t2g orbital and $\\athrm{H}_{2}\\athrm{O}$ contributed more towards the new molecular bonding orbitals",
+      "Y": "There are steric repulsions between the hydrogens on neighboring ligands",
+      "Z": "$\\athrm{H}_{2}\\athrm{O}$ relinquishes protons to create a stronger metal-ligand bond"
+    },
+    "answer": "W) A pi orbital bonds to a t2g orbital and $\\athrm{OH}^{-}$ contributes more towards the new molecular orbitals"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The structure of collagen can be best described as a",
+    "choices": {
+      "W": "Alpha helix",
+      "X": "Coiled coil",
+      "Y": "Double helix",
+      "Z": "Triple helix"
+    },
+    "answer": "Z) Triple helix"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A membrane has a $2\\athrm{M}$ solution of sodium on side A and a $0.1\\athrm{M}$ solution on side B. If the membrane is permeable to sodium ions but not to chloride ions, what is the voltage of side A with respect to side B, to the nearest $10\\athrm{mV}$?",
+    "answer": "- 80 mV"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a polymorph of potassium feldspar?",
+    "choices": {
+      "W": "Sanidine",
+      "X": "Microcline",
+      "Y": "Orthoclase",
+      "Z": "Anorthite"
+    },
+    "answer": "Z) Anorthite"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "If the underlying bedrock is relatively flat and uniform, a stream will most likely develop what type of drainage pattern?",
+    "answer": "Dendritic"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A $4\\athrm{kg}$ ball is travelling with a velocity of $6\\athrm{m / s}$ toward a $2\\athrm{kg}$ ball that is not in motion. In $\\athrm{m / s}$, what is the velocity of the center of mass of this system?",
+    "answer": "$4\\athrm{m / s}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A spaceship travels at a velocity of $0.5c$ relative to Earth. A ball is shot out of the spaceship with a velocity of $0.5c$ relative to the spaceship. What velocity would the ball have if someone were to observe it from Earth? Express your answer as a multiple of $c$.",
+    "answer": "$0.8c$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "With respect to $z$, what is the partial derivative of $4xyz^3$?",
+    "answer": "$12xyz^2$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A quadrilateral has integer side lengths of 15, 17, 19, and $x$. What is the sum of all possible values of $x$?",
+    "answer": "1275"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the work done when 0.2 moles of Ar at 273 K in a 3 L container undergoes free expansion?",
+    "answer": "0 J"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the change in internal energy when a gas expands isothermally from 2 to 4 L under an external pressure of 80 Pascals?",
+    "answer": "0 J"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Vernalization is used to directly accelerate which of the following processes?",
+    "choices": {
+      "W": "Seed germination",
+      "X": "Flowering",
+      "Y": "Fruit production",
+      "Z": "Plant growth"
+    },
+    "answer": "X) Flowering"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Name these cholesterol and sphingolipid rich structures that often serve as sites of congregation for membrane proteins.",
+    "answer": "Lipid rafts"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What emission line in the radio wavelength is used to observe clouds of interstellar gas of neutral hydrogen?",
+    "answer": "21 cm"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the correct explanation for the 21 cm-line emission?",
+    "choices": {
+      "W": "The spin orientation of the electron within the hydrogen atom have slightly different energy states, and the shift in the spin orientation gives rise to a photon with wavelength 21 cm.",
+      "X": "The electron of a hydrogen atom drops from the 2nd to the first energy state, emitting a photon of wavelength 21 cm.",
+      "Y": "Deuterium spontaneously undergoes beta decay, producing an electron neutrino coupled with a photon of wavelength 21 cm.",
+      "Z": "The collision of two hydrogen atoms causes a small shock wave, which corresponds a gravitational wave of wavelength 21 cm."
+    },
+    "answer": "W) The spin orientation of the electron within the hydrogen atom have slightly different energy states, and the shift in the spin orientation gives rise to a photon with wavelength 21 cm."
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A transformer has a primary winding with 48 turns and a secondary winding with 12 turns and a terminal voltage of 210 V. What is the terminal voltage of the primary winding?",
+    "answer": "840 V"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 5 kg solid uniform disk is released from rest at the top of a 6 m long ramp with a $30^{\\irc}$ incline. In joules, what is the rotational kinetic energy of the hoop at the bottom of the ramp?",
+    "answer": "50 J"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers has a remainder of 1 when divided by 14?",
+    "choices": {
+      "W": "$2^{6}$",
+      "X": "$3^{6}$",
+      "Y": "$6^{6}$",
+      "Z": "$7^{6}$"
+    },
+    "answer": "X) $3^{6}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A pentagon is drawn on a coordinate plane, such that it has the coordinates (0,0), (1, 2), (3, 3), (5, 1), and (6,0). What is the area of this pentagon?",
+    "answer": "$21/2$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the result when the half life of a certain first order reaction is expressed in terms of the rate constant k?",
+    "choices": {
+      "W": "$\\athrm{e}^{\\edge}2\\athrm{k}$",
+      "X": "$\\athrm{e}^{\\edge}\\athrm{k} / 2$",
+      "Y": "$\\n 2 / \\athrm{k}$",
+      "Z": "$\\n \\athrm{k} / 2$"
+    },
+    "answer": "Y) ln 2/k"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "If the decomposition of A is first order in A, what is the fraction of the initial concentration remaining after 400 s if the rate constant is $6.9 \\times 10^{-3} / \\athrm{s}$? Assume $\\n 2 = 0.69$.",
+    "answer": "1/16"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A mutant chicken expressing too much Sonic Hedgehog on their limbs will seem to have which of the following changes?",
+    "choices": {
+      "W": "Longer toes",
+      "X": "Shorter toes",
+      "Y": "Super speed",
+      "Z": "Blue-tinted skin"
+    },
+    "answer": "W) Longer toes"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which of the following 3 features are among the reasons why whisk ferns are considered living fossils? 1) They lack true leaves 2) They lack true roots 3) They lack sporangia",
+    "answer": "1, 2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to Hubble's Constant?",
+    "choices": {
+      "W": "$30 \\athrm{km / s}$ Mpc",
+      "X": "$50 \\athrm{km / s}$ Mpc",
+      "Y": "$70 \\athrm{km / s}$ Mpc",
+      "Z": "$90 \\athrm{km / s}$ Mpc"
+    },
+    "answer": "Y) $70 \\athrm{km / s}$ Mpc"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name all of the following three that can be used to estimate the age of the universe. 1) The inverse of the Hubble's constant 2) WMAP observations 3) Globular clusters",
+    "answer": "All of them"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball is thrown off a $2\\athrm{m}$ high ledge at an angle of $37^{\\irc}$ above the horizontal, with a speed of $5\\athrm{m / s}$. Approximating g as $10\\athrm{m / s}$, when the ball reaches the ground, what horizontal distance has it traveled?",
+    "answer": "$4\\athrm{m}$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A crystal lattice has an interplanar distance of $1\\athrm{nm}$. X-rays hit it from angles strictly greater than 0 and less than 90 degrees from the normal. If the X-rays have wavelengths of $0.5\\athrm{nm}$, at what 3 angles from the normal will coherent scattering occur?",
+    "answer": "$\\rccos (1 / 4)$, 60, $\\rccos (3 / 4)$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the sin of the arccosine of $1 / 4$.",
+    "answer": "$\\qrt{15} /4$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the sum of the reciprocals of the factors of 72.",
+    "answer": "$65 / 24$"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Arrange the following 4 by increasing pKA. 1) Water 2) n-butanol 3) Diethyl ether 4) Hydrogen peroxide",
+    "answer": "4, 1, 2, 3"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is false concerning the Williamson ether synthesis?",
+    "choices": {
+      "W": "The alkoxide attacks the electrophile in a transition state that is pentacoordinate",
+      "X": "The alcohol is deprotonated to form an alkoxide ion",
+      "Y": "Increasing the concentration of alcohol and base would increase the rate of reaction",
+      "Z": "The electrophile in the reaction is a carbocation"
+    },
+    "answer": "Z) The electrophile in the reaction is a carbocation"
+  }
+]

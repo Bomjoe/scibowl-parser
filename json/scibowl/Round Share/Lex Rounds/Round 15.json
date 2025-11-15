@@ -1,0 +1,510 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which 3 flavors of quarks have an electric charge of $+?$",
+    "answer": "Up, Charm, Top"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Order the six flavors of quarks in order from least mass to greatest mass.",
+    "answer": "Up, Down, Strange, Charm, Bottom, Top"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following situations would a chemical reaction be nonspontaneous at low temperatures but spontaneous at high temperatures?",
+    "choices": {
+      "W": "Positive $\\elta \\athrm{H}$ , positive $\\elta \\athrm{S}$",
+      "X": "Positive $\\elta \\athrm{H}$ , negative $\\elta \\athrm{S}$",
+      "Y": "Negative $\\elta \\athrm{H}$ , positive $\\elta \\athrm{S}$",
+      "Z": "Negative $\\elta \\athrm{H}$ , negative $\\elta \\athrm{S}$"
+    },
+    "answer": "W) Positive $\\elta \\athrm{H}$ , positive $\\elta \\athrm{S}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What was the first artificially created element, which is also a spontaneous fission product of uranium?",
+    "answer": "Technetium"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a criterion for a substance to be classified as a mineral?",
+    "choices": {
+      "W": "Definite chemical formula",
+      "X": "Orderly crystalline structure",
+      "Y": "Generally inorganic",
+      "Z": "Naturally occurring or human-made"
+    },
+    "answer": "Z) Naturally occurring or human-made"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name all of the following pairs of igneous minerals with their metamorphosed counterparts that are correctly paired: I. Olivine, Serpentine II. Dolomite, Tremolite III. Quartz, Kyanite",
+    "answer": "II"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The range of $\\in^{-1}(x)$ is closest to:",
+    "choices": {
+      "W": "$[-2\\i ,2\\i ]$",
+      "X": "$[- \\i , \\i ]$",
+      "Y": "$[- \\i /2, \\i /2]$",
+      "Z": "$[- \\i /4, \\i /4]$"
+    },
+    "answer": "Y) $[- \\i /2, \\i /2]$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the value of $\\tan (75$ degrees) in simplest radical form.",
+    "answer": "$(\\qrt{3} + 3) / (3 - \\qrt{3})$ or $2 + \\qrt{3}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The action of plant hormones, the closer an axillary bud to be more inhibited the closer it is to an active apical bud. This phenomenon is known as:",
+    "choices": {
+      "W": "apical meristem",
+      "X": "apical dominance",
+      "Y": "apical impulse",
+      "Z": "apical foramen"
+    },
+    "answer": "X) APICAL DOMINANCE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 plant tissues that are NOT types of primary meristems: 1. Protoderm 2. Procambium 3. Vascular Cambium 4. Ground Meristem",
+    "answer": "3. VASCULAR CAMBIUM"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the baryon number of a deuterium nucleus?",
+    "answer": "+2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "While studying beta decay, Pauli used which two conservation laws to predict the discovery of neutrinos?",
+    "answer": "Energy, Momentum"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many degrees of freedom does a molecule of HCl have?",
+    "answer": "6"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many isomers of hexane exist?",
+    "answer": "5"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A sinuous ridge of stratified drift formed when sediment-laden water flows through the bottom of a glacier is known as what?",
+    "answer": "Esker"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The period of a binary system with stars A and B is 4 yrs, and the semimajor axis of the ellipse they form is 8 AU. Given that the mass of star A is .75 solar masses, what is the mass of star B?",
+    "answer": ".25"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Differentiate $\\athrm{y} = \\athrm{x}^{(1 / \\athrm{n})}$ with respect to x",
+    "answer": "$\\athrm{dy / dx} = x^{((1 - n) / n)} / n$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Arthur and Sarah is playing a game with an unfair coin that is rigged to come up heads with probability $\\rac{2}{3}$ and tails with probability $\\rac{3}{5}$ . Arthur goes first, they take turns, and the first player to flip heads wins. What is Arthur's probability of winning?",
+    "answer": "5/8"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When epinephrine binds with the membrane receptor, what is the second messenger produced from adenylyl cyclase that relays the signal to cause glycogen breakdown?",
+    "answer": "Cyclic AMP"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What kinase do the two messengers inositol triphosphate and diacylglycerol stimulate and what ion second messenger is released?",
+    "answer": "Protein Kinase C and Ca2+"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Bob is on top of a $20\\athrm{m}$ tall building and is pulling up a $10\\athrm{m}$ long rope. If the density of the rope is $0.5\\athrm{kg / m}$ , how much work does Bob have to do to pull up the rope completely?",
+    "answer": "25g"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true about leptons?",
+    "choices": {
+      "W": "All leptons have a spin of $1 / 2$",
+      "X": "All leptons have a charge of -1",
+      "Y": "No lepton has a mass greater than that of a top quark",
+      "Z": "Tau neutrinos have a greater mass than that of up quarks"
+    },
+    "answer": "X) All leptons have a charge of -1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "According to Bredt's rule, what is the minumum amount of members in a bicyclic compound for it to be stable?",
+    "answer": "9"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is why the observed van't hoff's factor for an electrolyte is less than the expected factor",
+    "choices": {
+      "W": "Electrolytic Repulsion",
+      "X": "Coagulation",
+      "Y": "Complete dissociation",
+      "Z": "Ion Pairing"
+    },
+    "answer": "Z) Ion Pairing"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of fracture would result from the tearing of a metal, such as copper?",
+    "answer": "Hackly"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following circumstances would total ocean productivity be the highest",
+    "choices": {
+      "W": "Summer in the poles",
+      "X": "Spring in the midlatitudes",
+      "Y": "Summer in the tropics",
+      "Z": "Winter in the tropics"
+    },
+    "answer": "W) Summer in the poles"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the directrix of the parabola with the equation $y = 2x^2 + 8x + 6$ as an improper fraction?",
+    "answer": "y=- 17/8"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the infinite sum $5 / 3 + 8 / 9 + 11 / 27 + 14 / 81 + \\dots$",
+    "answer": "13/6"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In interphase, during which subphase is the DNA polymerase holoenzyme most active?",
+    "choices": {
+      "W": "G0 phase",
+      "X": "G1 phase",
+      "Y": "G2 phase",
+      "Z": "S phase"
+    },
+    "answer": "Z) S phase"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following groups of organisms does the nuclear envelope remain intact and unserved during cell division?",
+    "choices": {
+      "W": "bacteria",
+      "X": "diatoms and yeasts",
+      "Y": "dinoflagellates",
+      "Z": "archaea"
+    },
+    "answer": "X) diatoms and yeasts"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following orders the 4 fundamental forces from weakest to strongest?",
+    "choices": {
+      "W": "Gravity, Weak, Strong, Electromagnetic",
+      "X": "Weak, Gravity, Electromagnetic, Strong",
+      "Y": "Gravity, Weak, Electromagnetic, Strong",
+      "Z": "Gravity, Electromagnetic, Weak, Strong"
+    },
+    "answer": "Y) Gravity, Weak, Electromagnetic, Strong"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Tim goes outside for the first time and walks $30\\athrm{m}$ south, $8\\athrm{m}$ east, and $24\\athrm{m}$ north in $30\\athrm{mins}$ . Give, in $\\athrm{m / h}$ : I. Tim's average speed II. Tim's average velocity",
+    "answer": "I. $124\\athrm{m / h}$ II. $20\\athrm{m / h}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following could cause copper to spontaneously reduce?",
+    "choices": {
+      "W": "$\\athrm{Ag}^{+}$",
+      "X": "$\\athrm{Al}^{3 + }$",
+      "Y": "$\\athrm{Fe}^{3 + }$",
+      "Z": "$\\athrm{Fe}^{2 + }$ and $\\athrm{Al}^{3 + }$"
+    },
+    "answer": "W) $\\athrm{Ag}^{+}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many sigma and pi bonds respectively are present within one molecule of 2-pentene?",
+    "answer": "14 sigma, 1 pi"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is made when molten rock is instantly cooled?",
+    "choices": {
+      "W": "Rocks with aphanitic texture",
+      "X": "Rocks with phaneritic texture",
+      "Y": "Rocks with porphyritic texture",
+      "Z": "Rocks with glassy texture"
+    },
+    "answer": "Z) Rocks with glassy texture"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Tim is planning to go outside for the first time. Before he goes outside, he checks the doppler radar, where he sees an area of heavy precipitation shaped like a hook. What type of cyclone is this hook echo associated with?",
+    "choices": {
+      "W": "Hurricane",
+      "X": "Tornado",
+      "Y": "Tropical depression",
+      "Z": "Tropical disturbance"
+    },
+    "answer": "X) Tornado"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Four fair 6-sided dice are rolled. The sum of the numbers displayed on the dice is 8. What is the probability that 2's were rolled on all four dice?",
+    "answer": "1/35"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alice and Bob are playing a game with a fair coin. Alice wins if the last three throws were Heads, Heads, Tails. Bob wins if the last three throws were Tails, Heads, Heads. The game stops whenever any of them wins. What is the probability that Bob wins?",
+    "answer": "3/4"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Name all of the following groups of plants with a dominant sporophyte generation: 1. Bryophytes 2. Seedless Vascular Plants 3. Gymnosperms",
+    "answer": "2 AND 3 (SEEDLESS VASCULAR PLANTS AND GYMNOSPERMS)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The filamentous outgrowth that anchors various non-vascular plants, such as mosses and liverworts, during the gametophyte stage is known as:",
+    "choices": {
+      "W": "Gametophore",
+      "X": "Protone ma",
+      "Y": "Peristome",
+      "Z": "Rhizoid"
+    },
+    "answer": "Z) RHIZOID"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which fundamental force is symmetrical in nuclei?",
+    "answer": "Strong Nuclear"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Assuming $\\athrm{g} = 9.8$ , a $5\\athrm{kg}$ block is traveling with a velocity of 19.6 m/s and has a coefficient of kinetic friction of 0.5 with the ground. How many seconds does it take for the block to stop?",
+    "answer": "4 seconds"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What law of thermodynamics states that thermal equilibrium is a transitive property?",
+    "answer": "The Zeroth law of thermodynamics"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Name all of the following 4 processes where latent heat is absorbed: evaporation; condensation; water melts; water freezes",
+    "answer": "Evaporation, Water melts"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a bright blue-white star in the summer sky?",
+    "choices": {
+      "W": "Vega",
+      "X": "Rigel",
+      "Y": "Spica",
+      "Z": "Sirius"
+    },
+    "answer": "W) Vega"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following conditions would result in the formation of a lenticular galaxy?",
+    "choices": {
+      "W": "Collision with another galaxy",
+      "X": "Rapid movement through a gas cloud",
+      "Y": "Heavy amount of accretion by a supermassive black hole",
+      "Z": "The presence of large clouds of intermolecular gas"
+    },
+    "answer": "X)Rapid Movement through a gas cloud"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "In how many ways can a hexagon be triangulated?",
+    "choices": {
+      "W": "5",
+      "X": "6",
+      "Y": "9",
+      "Z": "14"
+    },
+    "answer": "Z) 14"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How interior diagonals does an icosahedron have?",
+    "answer": "36"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Sporophylls of angiosperms are called:",
+    "choices": {
+      "W": "Carpels and Sepals",
+      "X": "Sepals and Anthers",
+      "Y": "Carpels and Stamens",
+      "Z": "Stamens and Anthers"
+    },
+    "answer": "Y) CARPELS AND STAMENS"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A heterosporous plant species has two types of sporophylls that give rise to the female and male gametophytes, respectively. What are these two types of sporophylls?",
+    "answer": "MEGASPOROPHYLL AND MICROSPOROPHYLL"
+  }
+]

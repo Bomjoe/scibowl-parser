@@ -1,0 +1,430 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An object's position as a function of time is described by $\\athbf{x}(\\athbf{t}) =4\\athbf{t}^{3} -5\\athbf{t}$. What is its velocity at time $\\athbf{t} =3$?",
+    "answer": "103"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What theorem states that the rotation of an object is unstable about its principal axis that has neither the largest nor smallest associated moment of inertia?",
+    "answer": "INTERMEDIATE AXIS THEOREM"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 cells that are glial cells:1) Ependymal cells;2) Astrocytes;3) Chondrocytes.",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "People with PKU are deficient in an enzyme that converts phenylalanine to what other amino acid?",
+    "answer": "TYROSINE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions is injective over its entire domain?",
+    "choices": {
+      "W": "log",
+      "X": "sin",
+      "Y": "tan",
+      "Z": "absolute value"
+    },
+    "answer": "W) log"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the cross-product of the two vectors $3\\athbf{i} +4\\athbf{j}$ and $3\\athbf{i} -5\\athbf{k}$.",
+    "answer": "-20\\athbf{i} +15\\athbf{j} -12\\athbf{k}"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Explosive volcanic eruptions can expel fast-moving currents of gas and tephra. This is known as what type of flow?",
+    "answer": "PYROCLASTIC FLOW"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What current carries icy water northward from Antarctica and is responsible for the creation of deserts near the coast of Chile?",
+    "answer": "HUMBOLDT CURRENT"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following3 molecules in order of increasing bond angle through the central atom:1) $\\athrm{H}_2\\athrm{O}$;2) $\\athrm{NH}_3$;3) $\\athrm{OF}_2$.",
+    "answer": "3,1,2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "At a particular temperature, the autoionization constant of water is $10^{-12}$. If an acid has a $\\athrm{K}_{\\athrm{a}}$ of $10^{-5}$ at that temperature, what is the $\\athrm{pOH}$ of the solution when1 mole of the acid is stirred in100 ml of water?",
+    "answer": "10"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab are using bioactive scaffold injections in paralyzed mice to regenerate axons in damaged spinal cords. Action potentials in axons are initiated in what cone-shaped structure?",
+    "answer": "HILLOCK"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Livermore National Lab are studying statistical mechanical methods to create a stable cryptocurrency using SHA256. Which of the following is closest to the total number of possible hashes in SHA256?",
+    "choices": {
+      "W": "$10^{77}$",
+      "X": "$10^{78}$",
+      "Y": "$10^{79}$",
+      "Z": "$10^{80}$"
+    },
+    "answer": "W) $10^{77}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In kilopascals, which of the following is closest to the change in pressure of water traveling through a pipe, if its speed doubles from10 to20 meters per second and its height remains constant?",
+    "choices": {
+      "W": "100",
+      "X": "150",
+      "Y": "300",
+      "Z": "400"
+    },
+    "answer": "X)150"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two identical uniform hollow spheres each have a radius of R and are touching each other. The gravitational force of attraction between the spheres is proportional to what power of R?",
+    "choices": {
+      "W": "0",
+      "X": "2",
+      "Y": "4",
+      "Z": "6"
+    },
+    "answer": "X)2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 features that are characteristic of dicots:1) Parallel leaf venation;2) Fibrous root system;3) Scattered vascular tissue.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What name is given to the body cavity of most invertebrates that contains its blood or hemolymph?",
+    "answer": "HEMOCOEL"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the length of a line segment that has an endpoint at (1,1,1) and another endpoint at (3,4,7)?",
+    "answer": "7"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In interval notation, what is the range of the rational function $\\athrm{f(x) =2x / (x^2 +1)}$ [read as: $f$ of $x$ equals the fraction with numerator $2x$ and denominator $x$ squared plus1]?",
+    "answer": "[-1,1]"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three minerals that can undergo weathering by dissolution:1) Halite;2) Dolomite;3) Quartz.",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What features, known as filaments when viewed against the solar disk, are loops of plasma on the Sun's surface that are anchored to the photosphere?",
+    "answer": "PROMINENCES"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of solid materials whose conductivities increase with increasing temperature:1) Insulator;2) Conductor;3) Semiconductor.",
+    "answer": "1 AND3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds has the smallest pKa in water?",
+    "choices": {
+      "W": "Acetone",
+      "X": "Propanal",
+      "Y": "Ethanol",
+      "Z": "Nitromethane"
+    },
+    "answer": "Z) NITROMETHANE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Brookhaven National Lab are studying the acidity of intracellular environments. Which of the following buffer systems would they most likely be studying?",
+    "choices": {
+      "W": "Bicarbonate",
+      "X": "Phosphate",
+      "Y": "Malate",
+      "Z": "Citrate"
+    },
+    "answer": "X) PHOSPHATE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Lab are using the Relativistic Heavy Ion Collider to track how certain jets of particles lose energy through various mediums. What medium is formed from the removal of strong nuclear attractions between particles, causing the particles to be deconfined?",
+    "answer": "QUARK-GLUON PLASMA"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What term, which equals epsilon_naught times the time derivative of the electric field in a non-polarizable medium, was added by James Maxwell to Ampere's law?",
+    "answer": "DISPLACEMENT CURRENT"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A5-kilogram mass is moving at6 meters per second to the right when it collides perfectly elastically with a stationary7-kilogram mass. What is the speed of the7-kilogram mass at the end of the collision?",
+    "answer": "5 METERS PER SECOND"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 vitamins, whose deficiency can cause anemia:1) Folate;2) Cobalamin;3) Calciferol.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 cells that can express Class II MHCs:1) Dendritic cells;2) Cytotoxic T cells;3) B cells",
+    "answer": "1 AND3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If x is a real number, then what is the magnitude of the complex number $\\athrm{e}^{2\\athrm{i}\\athrm{x}}$?",
+    "answer": "1"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given2 red hats,2 blue hats, and1 green hat, how many ways are there to arrange the hats in a row such that the red hats are not next to each other and the blue hats are not next to each other?",
+    "answer": "12"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following drainage patterns would form on ground with numerous vertical joints?",
+    "choices": {
+      "W": "Trellis",
+      "X": "Dendritic",
+      "Y": "Radial",
+      "Z": "Rectangular"
+    },
+    "answer": "Z) RECTANGULAR"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "To one significant figure, what is the Schwarzschild radius of a ball with a mass of2 kilograms?",
+    "answer": "$3*10^{-27}$ METERS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 compounds that can act as Lewis acids:1) ZnCl₂;2) Xe;3) BF₃",
+    "answer": "1 AND3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following species does NOT readily disproportionate in aqueous solution?",
+    "choices": {
+      "W": "Cl₂",
+      "X": "Cu⁺",
+      "Y": "Fe²⁺",
+      "Z": "N₂O"
+    },
+    "answer": "Y) Fe²⁺"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab are using the supercomputer Summit to train neural networks. When training feedforward neural networks, what step, an application of the chain rule, computes the gradient of the error function with respect to the model's weights?",
+    "answer": "BACKPROPAGATION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Lab are studying microbes in our gut that can decrease the efficacy of the diabetes drug acarbose. What glucose transporter are the researchers most likely studying, that is the most heavily involved in diabetes?",
+    "answer": "GLUT4"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "How many up and down quarks, respectively, are present in one alpha particle?",
+    "choices": {
+      "W": "3,3",
+      "X": "4,2",
+      "Y": "5,5",
+      "Z": "6,6"
+    },
+    "answer": "Z)6,6"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the torque on a square loop with a side length of5 meters and a current of2 amperes when an external perpendicular magnetic field of strength7 teslas is applied to it?",
+    "answer": "0"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In the trp operon, which of the following best describes the role of tryptophan?",
+    "choices": {
+      "W": "Operator",
+      "X": "Inducer",
+      "Y": "Repressor",
+      "Z": "Co-repressor"
+    },
+    "answer": "Z) CO- REPRESSOR"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 functions that albumin serves in the human body:1) Clotting;2) pH buffering;3) Osmotic balance.",
+    "answer": "2 AND3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Four fair6-sided dice are rolled. What is the probability that the sum of the4 rolls is divisible by3?",
+    "answer": "1/3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Triangle ABC has side-lengths AB =13, BC =14, and AC =15. The altitude extending from A to BC meets line BC at point H. What is the length of BH?",
+    "answer": "5"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "According to the Hubble tuning fork, order the following3 galaxy types from least to most evolved:1) Sc;2) S0;3) E0.",
+    "answer": "3,2,1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Unlike the basalt-rich lunar maria, the moon's highlands are primarily composed of what rock?",
+    "answer": "ANORTHOSITE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 species that are paramagnetic.1) $\\athrm{O}_{2}^{-}$,2) $\\athrm{O}_{2}$;3) $\\athrm{O}_{2}^{+}$.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many unpaired electrons does the tetracyanonickelate (II) anion possess?",
+    "answer": "0"
+  }
+]

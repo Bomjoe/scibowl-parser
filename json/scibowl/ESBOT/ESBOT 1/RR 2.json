@@ -1,0 +1,370 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the derivative with respect to $x$ of the integral from 0 to $x^{2}$ of $2t^{2}$ with respect to $t$?",
+    "answer": "$4x^{5}$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given quadrilateral ABCD with AB=7, BC=24, CD=15, DA=20, and AC=25, what is the area of ABCD?",
+    "answer": "234"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 minerals from lowest to highest boiling point: 1) Olivine 2) Muscovite 3) Biotite.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What variety of limestone makes up speleothems?",
+    "answer": "Travertine"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Taking the logarithm of the equation that defines $\\athrm{K}_{\\athrm{a}}$ or $\\athrm{K}_{\\athrm{b}}$ yields what equation, commonly used to calculate the pH of a buffer solution?",
+    "answer": "Henderson-Hasselbalch Equation"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 sets of compounds that can form a buffer solution when added to water: I) $\\athrm{CaF}_{2}$ and HF  II) NaOH and NaCl  III) $\\athrm{Al(OH)}_{4}^{-}$ and $\\athrm{NH}_{3}$",
+    "answer": "I only"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A positively charged rod is brought near a gold leaf electroscope. Which of the following best describes the sign of the charge on the leaves and whether the leaves attract or repel each other?",
+    "choices": {
+      "W": "Negative and attract",
+      "X": "Negative and repel",
+      "Y": "Positive and attract",
+      "Z": "Positive and repel"
+    },
+    "answer": "Z) Positive and repel"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 temperature scales that are absolute temperature scales: I) Romer  II) Rankine  III) Kelvin  IV) Centigrade",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What process dominates precipitation formation in nimbostratus clouds?",
+    "answer": "Collision Coalescence Process"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of moraine is formed when two glaciers come together?",
+    "answer": "Medial Moraine"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at SLAC National Accelerator Laboratory are using their Linear Accelerator to study collisions between subatomic particles. Their Linear Accelerator uses oscillating electric potentials to accelerate electrons to nearly the speed of light. What is the name of the force exerted on a moving charged particle in an electromagnetic field?",
+    "answer": "Lorentz Force"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Idaho National Laboratory are studying Rishil's belly. They find a surge in the amount of lipoproteins in his intestine. What is the name of the ball-like structures made up of triglycerides and phospholipids that are processed through the digestive system?",
+    "answer": "Chylomicrons"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "For the theoretical reaction $\\athrm{A} + 3\\athrm{B} \\ightarrow 4\\athrm{C}$, what is the ratio of the rate of disappearance of A to the rate of appearance of C?",
+    "answer": "1/4"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following four decay processes of Gold-198 from least to greatest final atomic mass: 1) Two alpha decays 2) Alpha decay followed by neutron capture 3) Beta plus decay followed by neutron capture 4) Beta minus decay followed by gamma decay",
+    "answer": "1, 2, 4, 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following values is a perfect square?",
+    "choices": {
+      "W": "25 factorial times 26 factorial divided by 3",
+      "X": "26 factorial times 27 factorial divided by 3",
+      "Y": "27 factorial times 28 factorial divided by 3",
+      "Z": "28 factorial times 29 factorial divided by 3"
+    },
+    "answer": "X) 26 factorial times 27 factorial divided by 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An arithmetic series has first term -4 and 7th term 8. What is the sum of the first 14 terms?",
+    "answer": "126"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Laboratory are studying ways to make hydrogenation catalysts that are stable in a variety of conditions. Identify all of the following 3 reactions that are hydrogenation reactions: I) Ethylene to Ethane II) Methane to Ethane III) Propyne to Propane",
+    "answer": "I and III"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Laboratory are using bioinformatics methods to study evolutionary relationships between sequences of nucleotides and amino acids. What algorithm are they using to compare these sequences for local similarities?",
+    "answer": "BLAST (Basic Local Alignment Search Tool)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 types of blotting techniques that are incorrectly matched with the type of material they analyze: I) Northern Blot: RNA II) Western Blot: DNA III) Southern Blot: Protein IV) Eastern Blot: Post-translational modifications",
+    "answer": "II, III"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true regarding SDS-PAGE?",
+    "choices": {
+      "W": "Sodium dodecyl sulfate acts a charge buffer",
+      "X": "Polyacrylamide gel is used for electrophoresis",
+      "Y": "SDS PAGE preserves tertiary structure of proteins",
+      "Z": "Reducing thiols are often added during the preparation phase"
+    },
+    "answer": "Y) SDS PAGE preserves tertiary structure of proteins"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Rohit is researching a new car he wishes to buy. He sees that the car’s engine has “300 ft-lb” and “225 horsepower” listed as its maximum output. What physical quantities do these two numbers measure, respectively?",
+    "answer": "Torque and Power"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 800 Watt motor is used to lift a 5 kilogram block directly upwards. What is the velocity that the block rises with?",
+    "answer": "$16\\athrm{m / s}$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A normal distribution for the height in inches of aliens on Planet X shows a mean of 50 inches and a standard deviation of 6 inches. If an alien has a height of 41 inches, what is their z-score according to the normal distribution?",
+    "answer": "- 1.5"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Rohit has 18 feet of fence to enclose an 18 square foot area of his backyard. Given that he must enclose 18 square feet, identify all of the following 4 shapes of areas in his backyard that he could create with the fence he has. I) Circle II) Hexagon III) Square IV) Equilateral Triangle",
+    "answer": "I, II and III"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds is a secondary alcohol?",
+    "choices": {
+      "W": "Methanol",
+      "X": "Isobutyl alcohol",
+      "Y": "Pen-3-ol",
+      "Z": "Propyl alcohol"
+    },
+    "answer": "Y) Pen-3-ol"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds cannot act as a base?",
+    "choices": {
+      "W": "$\\athrm{NH}_3$",
+      "X": "$\\athrm{Al(OH)_4^-}$",
+      "Y": "$\\athrm{H}^-$",
+      "Z": "$\\athrm{BH}_3$"
+    },
+    "answer": "Z) $\\athrm{BH}_3$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following stars has the largest declination?",
+    "choices": {
+      "W": "Betelgeuse",
+      "X": "Alpha Centauri",
+      "Y": "Polaris",
+      "Z": "Omicron Ceti"
+    },
+    "answer": "Y) Polaris"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a coordinate system used in astronomy?",
+    "choices": {
+      "W": "Horizontal coordinate system",
+      "X": "Equatorial coordinate system",
+      "Y": "Solar coordinate system",
+      "Z": "Galactic coordinate system"
+    },
+    "answer": "Y) Solar coordinate system"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The F factor in bacteria encodes for what structure, which is required for horizontal gene transfer?",
+    "answer": "Pili (ACCEPT: sex pili/sex pilus/pilus)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 structures that are formed by the mesoderm: I) Adrenal medulla II) Adrenal cortex III) Thyroid IV) Pituitary gland",
+    "answer": "II only"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Consider a mass oscillating along the x axis attached to a massless spring with spring constant k. If the massless spring is replaced with a massive one with the same spring constant, which of the following statements is true about the oscillation frequency of the new system compared to the original system?",
+    "choices": {
+      "W": "It is greater",
+      "X": "It is smaller",
+      "Y": "It is the same",
+      "Z": "It is impossible to tell without additional information"
+    },
+    "answer": "X) It is smaller"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a cube of mass 8 kilograms is experiencing a deceleration of 3.5 meters per second squared as it travels through a thick fluid at a certain velocity, what deceleration will a cube of mass 1kg and the same density experience as it travels through the fluid at the same velocity?",
+    "answer": "$7\\athrm{m / s^2}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at NASA have recently discovered in the Crab Nebula a supernova that fits into the very rare type III supernova. The difference between the more common types, a type I and a type II supernova, is characterized strongly by the presence or absence of what element in its emission spectrum.",
+    "answer": "Hydrogen"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Mayo clinic are studying double fertilization and its effects on plant development. What structure fertilizes a plant seed for the second time?",
+    "choices": {
+      "W": "Capsella",
+      "X": "Radicle",
+      "Y": "Polar Nuclei",
+      "Z": "Pollen"
+    },
+    "answer": "Y) Polar nuclei"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In songbirds, the ability to sing is learned at a young age by observing parents of the same species. If the songbirds are not exposed to their parents' songs at a young age, they will not be able to sing as an adult. Which of the following best describes this phenomena?",
+    "choices": {
+      "W": "Classical conditioning",
+      "X": "Operant conditioning",
+      "Y": "Habituation",
+      "Z": "Imprinting"
+    },
+    "answer": "Z) Imprinting"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a species of eagle, Enloe aguila, long beaks are dominant to short beaks, dark feathers are dominant to light feathers, and large eyes are dominant to small eyes. If two trihybrids for all 3 traits are crossed, what is the probability the offspring is a small-eyed, long beak eagle with dark feathers?",
+    "answer": "9/64"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of shapes is not correctly matched with the number of points on the shape required to uniquely define it?",
+    "choices": {
+      "W": "Circle, 3",
+      "X": "Ellipse, 4",
+      "Y": "Conic section, 5",
+      "Z": "Cubic, 4"
+    },
+    "answer": "X) Ellipse, 4"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following ordered triples of integers that cannot

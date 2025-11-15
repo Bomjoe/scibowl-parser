@@ -1,0 +1,220 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An object experiences a force given by $F(x, y, z) = \\angle 2x + 2y, 3x^{2}, 4y + 5z \\angle$. The object would experience zero net work after traveling along which of the following trajectories?",
+    "choices": {
+      "W": "One full circle in the xy plane centered at the origin",
+      "X": "One full circle in the yz plane centered at the origin",
+      "Y": "Straight line starting at the origin, moving 5 units along the x axis",
+      "Z": "Straight line starting at the origin, moving 5 units along the z axis"
+    },
+    "answer": "X) ONE FULL CIRCLE IN THE YZ PLANE CENTERED AT THE ORIGIN"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A thin lens consists of diamond, with a index of refraction equal to 2.4. If the diamond is replaced by glass, with a index of refraction equal to 1.5, and the thin lens has the exact same shape and size, then what is the ratio of the new focal length to the old focal length of the lens?",
+    "answer": "$5 / 14$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 amino acids that are degraded exclusively outside the liver: 1) Valine; 2) Threonine; 3) Phenylalanine; 4) Lysine.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Answer the following three questions about the histology slide of a seminiferous tubule: 1) What is the name for the cells labeled 1? 2) What is the name for the cells labeled 2? 3) What hormone secreted by the anterior pituitary gland induces the proliferation of the cells labeled 1?",
+    "answer": "1) SERTOLI CELLS (ACCEPT: SUSTENTACULAR CELLS); 2) LEYDIG CELLS; 3) FOLLICLE- STIMULATING HORMONE (ACCEPT: FSH)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An equiangular hexagon has integer side lengths. Identify all of the following 3 statements which must be true about this hexagon: 1) its area is an integer; 2) its perimeter is an even integer; 3) its perimeter is divisible by 3.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A 24-element set has all four-digit arrangements of the digits 1, 2, 3, and 4, such as 1234 and 2413. Which of the following is the closest to the standard deviation of this set?",
+    "choices": {
+      "W": "500",
+      "X": "1000",
+      "Y": "1500",
+      "Z": "2000"
+    },
+    "answer": "Y) 1500"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four moons that have an atmosphere composed mostly of nitrogen gas: 1) Io; 2) The Moon; 3) Titan; 4) Triton",
+    "answer": "3 AND 4"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are NOT true about glacial lakes: 1) The risk of a Glacial Lake Outburst flood is highest during periods of glacial growth for Ice-dammed lakes and highest during periods of glacial retreat for proglacial moraine dammed lakes; 2) Ice dammed lakes often go through periods of drainage then refill as channels are first enlarged by frictional warming from water drainage, then closed by ice creep as the water pressure lowers; 3) Subglacial lakes nearly always form a basin shaped interface with the ice above.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the pH, to one significant figure, of a 0.05 molar solution of an acid with acid dissociation constant $2 \\times 10^{-5}$",
+    "answer": "3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When a solution of iron (III) chloride and sodium hydroxide are mixed, mixed iron oxide hydroxides precipitate out. It can be observed that small insoluble clusters form slowly and are resistant to precipitation due to what phenomenon?",
+    "answer": "BROWNIAN MOTION"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What is the name for the situation for when two threads try to access and change shared data at the same time?",
+    "answer": "RACE CONDITION (ACCEPT: RACE HAZARD)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "A 10 year old girl is presented in the ER after a heart attack while exercising. After running a dexamethasone suppression test it is found that the adrenal glands are working abnormally. Which of the following diseases has the patient most likely presented with?",
+    "choices": {
+      "W": "Addison's Disease",
+      "X": "Sarcoidosis",
+      "Y": "Cushing's Syndrome",
+      "Z": "Wilson's Disease"
+    },
+    "answer": "Y) CUSHING'S SYNDROME"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In Maxwell’s equations, the scalar potential and vector potential are not uniquely defined, because they can undergo what transformations that preserve electromagnetic fields and form a Lie group?",
+    "answer": "GAUGE TRANSFORMATIONS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 Miller indices that define a plane that intersects the third principle axis: 1) 100; 2) 110; 3) 111.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements most accurately describes the role of T tubules in skeletal muscle cells?",
+    "choices": {
+      "W": "Depolarizing current reaches the sarcoplasmic reticulum by traveling down T tubules",
+      "X": "T tubules bind acetylcholine at the neuromuscular junction to generate a depolarizing stimulus.",
+      "Y": "Muscle contraction is driven by the sliding of T tubules across one another in the sarcomere",
+      "Z": "T tubules sequester $\\athrm{Ca^{2+}}$ out of the cytosol to prevent prolonged muscle contraction."
+    },
+    "answer": "W) DEPOLARIZING CURRENT REACHES THE SARCOPLASMIC RETICULUM BY TRAVELING DOWN T TUBULES"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many reduced cofactors are produced in the conversion of fumarate to malate in the citric acid cycle?",
+    "answer": "0"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The 69th roots of unity are plotted on the complex plane. Which of the following statements is NOT true about this plot?",
+    "choices": {
+      "W": "The plot exhibits reflectional symmetry about the real axis",
+      "X": "The plot exhibits reflectional symmetry about the imaginary axis",
+      "Y": "The plot has 69 axes of reflectional symmetry",
+      "Z": "The plot has 69-fold rotational symmetry"
+    },
+    "answer": "X) THE PLOT EXHIBITS REFLECTIONAL SYMMETRY ABOUT THE IMAGINARY AXIS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The double factorial is defined as n double factorial equals n times quantity n-2 times quantity n-4 times dot dot dot. How many trailing zeros are in the decimal expansion of 2022 double factorial?",
+    "answer": "251"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following characteristics would NOT make a flood more flashy?",
+    "choices": {
+      "W": "Decreased drainage density",
+      "X": "Increased average catchment slope",
+      "Y": "Decreased vegetative cover",
+      "Z": "High antecedent soil moisture"
+    },
+    "answer": "W) DECREASED DRAINAGE DENSITY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Answer the following three questions about Lagrange points: 1) Assuming the ratio of masses between object 1 and 2 is high, which Lagrange points must be stable? 2) The Solar and Heliospheric Observatory is located at which Lagrange point? 3) The James Webb Space Telescope is located at which Lagrange point?",
+    "answer": "1) L4 AND L5; 2) L1; 3) L2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best compares the ionization energy of gaseous dinitrogen to that of a gaseous nitrogen atom?",
+    "choices": {
+      "W": "Lower because the HOMO is lower in energy than a free 2p orbital",
+      "X": "Higher because the HOMO is lower in energy than a free 2p orbital",
+      "Y": "Lower because the HOMO is higher in energy than a free 2p orbital",
+      "Z": "Higher because the HOMO is higher in energy than a free 2p orbital"
+    },
+    "answer": "X) HIGHER BECAUSE THE HOMO IS LOWER IN ENERGY THAN A FREE 2P ORBITAL"
+  },
+  {
+    "question_number": 11,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a two-step reaction that gives perhaps unexpected products. Answer the following two questions regarding the image: 1) What is the name of the reaction that occurs in the second step? 2) What specific pericyclic reaction is responsible for the formation of the major product before the second step occurs?",
+    "answer": "1) DIELS- ALDER REACTION; 2) [1,5]- SIGMATROPIC SHIFT (ACCEPT: VARIANTS INCLUDING [1,5]- HYDROGEN SHIFT AND [1,5]- SIGMATROPIC REARRANGEMENT)"
+  }
+]

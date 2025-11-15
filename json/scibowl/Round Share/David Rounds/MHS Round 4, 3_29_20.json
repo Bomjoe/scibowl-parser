@@ -1,0 +1,424 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The emf of a battery is 12 volts. When the battery delivers a current of 0.5 amperes to a load, the potential difference between the terminals of the battery is 10 volts. What is the internal resistance in ohms of the battery?",
+    "answer": "$2$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 objects, by name or number, by increasing moment of inertia, given that the mass and radius are all the same: 1) Sphere; 2) Hoop about cylinder axis; 3) Spherical shell.",
+    "answer": "$1, 3, 2$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify, by name or number, all of the following 3 theories that are proposed about the formation of Maxwell Montes: 1) It formed over a hot plume of material rising from the interior of the planet; 2) Surrounding active volcanoes created the bedrock for it; 3) The region surrounding it is being compressed from all sides",
+    "answer": "$1, 3$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following accurately describes the difference between uplift and subsidence?",
+    "choices": {
+      "W": "Subsidence is the motion of a surface as it moves downward relative to a datum, while an uplift is an increase in elevation.",
+      "X": "Subsidence is the downflow motion of water molecules as the water cycle occurs, while an uplift is when the water is evaporated.",
+      "Y": "Subsidence is the downflow of magmatic rocks into the earth's outer core, while an uplift is when magma flows out of the earth's crust.",
+      "Z": "Subsidence is the pumping in certain areas due to the convergence of water, while an uplift is when water is sucked due to the divergence of water."
+    },
+    "answer": "W) Subsidence is the motion of a surface as it moves downward relative to a datum, while an uplift is an increase in elevation"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify, by name or number, all of the following 3 bases that would favor the Hoffman product in an E2 reaction: 1) Hydroxide ion; 2) Tert-Butoxide ion; 3) Ethylene Oxide Ion.",
+    "answer": "$2$ only"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 molecules, by name or number, by increasing pKa: 1) Phenol; 2) Acetylene; 3) Ethene.",
+    "answer": "$1, 2, 3$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a mechanism that a neuron uses to prepare secretory vesicles near the axon terminal.",
+    "choices": {
+      "W": "The neuron uses flagella to move the secretory vesicles to the axon terminal",
+      "X": "Vesicles with a high concentration of neurotransmitter ride along kinesin motors towards the axon terminal",
+      "Y": "The neuron performs transcription and translation near the axon terminal to reduce the distance of diffusion of the secretory products",
+      "Z": "Vesicles with a high concentration of neurotransmitter ride along actin motors towards the axon terminal"
+    },
+    "answer": "X) Vesicles with a high concentration of neurotransmitter ride along kinesin motors towards the axon terminal"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true of the yeast, Saccharomyces cerevisiae: 1) The two known mating factors for them are alpha and beta; 2) They can stably exist as either a diploid or a haploid; 3) They can undergo meiosis to produce four haploid spores.",
+    "answer": "$2, 3$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many four digit perfect squares are there?",
+    "answer": "$68$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Using Newton's Method, approximate to the nearest tenth, x sub 2 for the given function when x sub 0 is 5: $f(x)=3x^2-14x+8$",
+    "answer": "$5.7$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A spring with a spring constant of 200Nm is compressed 0.5m. What is the potential energy in joules stored in the spring?",
+    "answer": "$25$ J"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A block attached to a spring is moving along the x-axis on a frictionless horizontal surface. What is the hamiltonian for the block? In terms of p, the momentum, m, the mass, k, the spring constant, and x, the distance on the x-axis.",
+    "answer": "$(\\athrm{p}^{\\edge}2) / (2\\athrm{m}) + (\\athrm{kx}^{\\edge}2) / 2$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What aluminum rich silicate mineral, which forms at low to medium temperature and pressures, is trimorphus with sillimanite and kyanite.",
+    "answer": "ANDALUSITE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify, by name or number, all of the following 3 choices that would trigger stream rejuvenation: 1) Stream’s base level falls; 2) Acidic buildup passes the set point; 3) When land rises beneath a stream.",
+    "answer": "$1, 3$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes a reaction that is NEVER endergonic?",
+    "choices": {
+      "W": "Negative enthalpy and negative entropy at high temperatures",
+      "X": "Positive enthalpy and positive entropy at low temperatures",
+      "Y": "Negative enthalpy and positive entropy at high temperatures",
+      "Z": "Positive enthalpy and negative entropy at low temperatures"
+    },
+    "answer": "Y) Negative enthalpy and positive entropy at high temperatures"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the minimum amount of carbons in a ring required to have both E and Z isomers of a cycloalkene?",
+    "answer": "$8$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify, by name or number, all of the following 4 cellular components that are present in eukaryotic cells: 1) Flagella; 2) 30s ribosomes; 3) 50s ribosomes; 4) Peptidoglycan.",
+    "answer": "$1$ only"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following mechanisms does not allow viruses to have compact genomes?",
+    "choices": {
+      "W": "Viruses can use the host's translational machinery, which means viruses do not have to store genetic material for translational machinery.",
+      "X": "Viruses can use the host's transcriptional machinery, which means viruses do not have to store genetic material for transcription.",
+      "Y": "Virus capsids can contain protein rather than DNA or RNA.",
+      "Z": "Viruses can use the host's alternative splicing mechanisms to create different polypeptides from the same transcript."
+    },
+    "answer": "Y) Virus capsids can contain protein rather than DNA or RNA"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the greatest prime factor for the following expression: $(21!)(20!)(19!)/(20!)(19!)(18!)$",
+    "answer": "$19$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the smallest 3 digit number such that, when divided by 6 it gives you a remainder of 3, and when divided by 9 gives you a remainder of 6, and when divided by 11, gives you a remainder of 8.",
+    "answer": "$195$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The sign of a charge carried in a doped semiconductor can be deduced by measuring what effect?",
+    "answer": "HALL EFFECT (ACCEPT: HALL COEFFICIENT)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two blocks with masses $2\\athrm{kg}$ and $1\\athrm{kg}$ lie horizontally together on a frictionless table. A force of $3\\athrm{N}$ is applied, what is the normal force in newtons between the two blocks?",
+    "answer": "$1$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many electrons are in the antibonding orbitals for the molecule He2.",
+    "answer": "$2$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What class of compounds are characterized as cyclic with a pi electron system that has delocalized electrons equally the expression 4n.",
+    "answer": "ANTIIAROMATIC"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "When prions cause the misfolding of other proteins by changing alpha helices to beta pleated sheets, what molecular property is most drastically changed during this?",
+    "choices": {
+      "W": "Solubility",
+      "X": "pH",
+      "Y": "Annealing point",
+      "Z": "Conductivity"
+    },
+    "answer": "W) Solubility"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What ribosomal binding site in bacterial mRNA is located 8 bases upstream from the start codon and has the 6 base sequence AGGAGG.",
+    "answer": "SHINE-DALGARNO SEQUENCE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Boron trichloride is a useful reactant for forming adducts with amines in some organic syntheses. In these reactions, boron trichloride most likely acts as a:",
+    "choices": {
+      "W": "Nucleophile",
+      "X": "Neutron source",
+      "Y": "Proton source",
+      "Z": "Electrophile"
+    },
+    "answer": "ELECTROPHILE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What quantity is plotted against time in a reaction with rate law $-d[A] / dt = k[A]^4$ in order to have a linear relationship?",
+    "answer": "$1 / [A]^3$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a ranch with 56 people that are either cowboys or US Marines, find how many US Marines there would be, if the odds of randomly selecting 2 US Marines with replacement is 1/4th.",
+    "answer": "$28$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many total rectangles are made from a larger rectangle having 4 horizontal lines, and 3 vertical lines evenly spaced through it?",
+    "answer": "$150$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the best type of laser to do spectroscopy over the range of visible wavelengths?",
+    "choices": {
+      "W": "Dye laser",
+      "X": "Hene laser",
+      "Y": "Excimer laser",
+      "Z": "Neodymium-YAG laser"
+    },
+    "answer": "W) Dye laser"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In the hydrogen spectrum, what is the ratio of the wavelengths for Lyman- a radiation, to Balmer- a radiation, where the respective jumps for each radiation are $n = 2$ to $n = 1$ , and $n = 3$ to $n = 2$ ?",
+    "choices": {
+      "W": "5/48",
+      "X": "5/27",
+      "Y": "1/3",
+      "Z": "27/5"
+    },
+    "answer": "X) 5/27"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What approximation in chemical kinetics states that the intermediates and reactants in a multi-step reaction exist in a dynamic namesake state?",
+    "answer": "PRE-EQUILIBRIUM APPROXIMATION"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reagents would be most appropriate in the formation of alkyl bromides from secondary alcohols through an Sn2 mechanism?",
+    "choices": {
+      "W": "LiBr",
+      "X": "MgBr2",
+      "Y": "Br2",
+      "Z": "PBr3"
+    },
+    "answer": "Z) PBr3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What cellular organelle is primarily responsible for the formation of the hormone: progesterone?",
+    "answer": "SMOOTH ENDOPLASMIC RETICULUM"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "ACGH was performed on the genome of a young child with unusual phenotypic features. Which of the following findings would be most consistent with a translocation event in one of the parental gametes during development?",
+    "answer": "W) PARTIAL TRISOMY OF CHROMOSOME 18"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify, by name or number, all of the following 3 statements that are true regarding aquifer flow: 1) If there is no pressure gradient over a distance, no flow occurs; 2) The greater the pressure gradient, the greater the discharge rate; 3) If there is a pressure gradient, flow will occur from high pressure towards low pressure",
+    "answer": "$1,2,3$ (ACCEPT: ALL)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What empirical relationship is described between the stellar velocity dispersion of a galaxy bulge, and the mass of a superblack hole in the center of the galaxy.",
+    "answer": "M- SIGMA RELATION"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 numbers in order from least to greatest: 1) $e^\\i$; 2) $\\qrt{2}^\\qrt{2}$; 3) $\\i^\\qrt{3}$",
+    "answer": "$2,3,1$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the indefinite integral of the function: $\\n (x^2) dx$",
+    "answer": "$2x(\\n (x) - 1)$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Determine, by name or number, the ploidy for all of the following 3 plant structures: 1) Tube Cell; 2) Endosperm nucleus; 3) Meristematic cell.",
+    "answer": "1) HAPLOID, 2) TRIPLOID, 3) DIPLOID"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify, by name or number, all of the following 3 choices where an average human adult would have cartilage: 1) Sutures in the skull; 2) Walls of the Trachea; 3) Walls of the larynx.",
+    "answer": "$2, 3$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify, by name or number, all of the following 3 solvents that are both polar and protic: 1) H2O; 2) Et2O; 3) EtSH.",
+    "answer": "$1, 3$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify, by name or number, all of the following 3 compounds that could be cleaved by ozone in an ozonolysis reaction: 1) Alkene; 3) Alkene; 3) Azo.",
+    "answer": "$1,2,3$ (ACCEPT: ALL)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the radius of a circle inscribed in an isosceles triangle that has an area of 60 and legs of length 13 and 10.",
+    "answer": "$\\rac{10}{3}$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many integer solutions are there for the equation: $abc-2=a+b+c$, where $a,b,$ and $c$ are all positive integers.",
+    "answer": "$3$"
+  }
+]

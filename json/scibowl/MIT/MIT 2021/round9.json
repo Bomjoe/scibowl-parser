@@ -1,0 +1,508 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Type 1A supernovae can be distinguished from other type 1 supernovae by an absorption line of the singly ionized form of what element at $635 \\athrm{nm}$?",
+    "answer": "Silicon"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following events most closely coincides with the boundary between the Archean and Proterozoic Eras?",
+    "choices": {
+      "W": "The formation of the first piece of continental crust",
+      "X": "The first evidence of life",
+      "Y": "The great oxygenation event",
+      "Z": "The Cambrian Explosion"
+    },
+    "answer": "Y) The great oxygenation event"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Engelhardt group at MIT is studying quantum gravity and black holes. One phenomenon they are investigating is the observation that all singularities are located within event horizons, known as what hypothesis?",
+    "answer": "Cosmic censorship hypothesis"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Lee group at MIT is investigating the results of high energy proton-proton collisions, including the decay of the Higgs boson. One possible mode is the generation of a Z boson and what meson, consisting of a strange and antistrange quark?",
+    "answer": "Phi meson"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In quantum mechanics, which of the following best describes the states which can be observed?",
+    "choices": {
+      "W": "Hamiltonian state",
+      "X": "Eigenstate",
+      "Y": "Bogoliubov state",
+      "Z": "Instantaneous collapse state"
+    },
+    "answer": "X) Eigenstate"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A point charge of 10 coulombs is enclosed inside a cube with side length 1 meter. In terms of $\\psilon_{0}$, what is the total electric flux through this cube?",
+    "answer": "$\\rac{10}{\\psilon_{0}}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The cyclization of glutamine (GLOO-tuh-meen) produces what residue which is known as a helix breaker along with glycine?",
+    "choices": {
+      "W": "Pyrrolysine",
+      "X": "Proline",
+      "Y": "Selenocysteine",
+      "Z": "Glutamic acid"
+    },
+    "answer": "X) proline"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Porphyrin (POR-ferr-in) rings are an important component of hemoglobin and cytochromes. In non-photosynthetic eukaryotes, what amino acid residue is the precursor of porphyrin?",
+    "answer": "Glycine"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many stereocenters does the linear form of glucose have?",
+    "answer": "4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three compounds which have prochiral $sp^{2}$ carbons: 1) Acetone 2) 2-butanone 3) Cyclohexanone",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A sequence of three numbers which starts with 6 is both an arithmetic and a geometric sequence. What is the last number in the sequence?",
+    "answer": "6"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A cylinder's surface area is numerically equal to its volume. Which of the following is the largest integer value that can NOT be the radius of the cylinder?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "X) 2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "In a normal distribution with a mean of 0 and standard deviation 1, which of the following z-scores most closely corresponds to a percentile of $70\\$?",
+    "choices": {
+      "W": "0.2",
+      "X": "0.5",
+      "Y": "1",
+      "Z": "1.5"
+    },
+    "answer": "X) 0.5"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are all the real eigenvalues of the 3 by 3 matrix whose entries are all 1?",
+    "answer": "0 and 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Three of the four Galilean moons of Jupiter are locked in a 1:2:4 orbital resonance. Which Galilean moon is NOT part of this resonance?",
+    "answer": "Callisto"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best characterizes the values of the density parameter, omega, that would imply an open universe?",
+    "choices": {
+      "W": "Omega is greater than 0",
+      "X": "Omega is greater than 1",
+      "Y": "Omega is less than 0",
+      "Z": "Omega is less than 1"
+    },
+    "answer": "Z) Omega is less than 1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "The Lehmann group at MIT studies RNA localization in Drosophila. mRNA localization to structures called germ granules is crucial to its translational activation, which would most likely be mediated by what structural component of mRNA?",
+    "choices": {
+      "W": "5' cap",
+      "X": "5' UTR",
+      "Y": "3' UTR",
+      "Z": "Poly-A tail"
+    },
+    "answer": "Y) 3' UTR"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Lehmann group also researches the inheritance of the mitochondrial genome. In evolutionary genetics, what is the term for the process in which mutations accumulate in the absence of robust recombination mechanisms, such as in the mitochondria?",
+    "answer": "Muller's ratchet"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A gas expands from an initial volume to a final volume, what process uses the least amount of work?",
+    "choices": {
+      "W": "Reversible isobaric expansion",
+      "X": "Reversible isothermal expansion",
+      "Y": "Irreversible isothermal expansion",
+      "Z": "Reversible adiabatic expansion"
+    },
+    "answer": "Z) Reversible adiabatic expansion"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes a vector in Minkowski space that lies inside of the light cone?",
+    "choices": {
+      "W": "Timelike",
+      "X": "Spacelike",
+      "Y": "Lightlike",
+      "Z": "Null"
+    },
+    "answer": "W) Timelike"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "10 grams of which of the following substances would result in the greatest freezing point depression in aqueous solution?",
+    "choices": {
+      "W": "Ethanol",
+      "X": "Sodium chloride",
+      "Y": "Hydrogen chloride",
+      "Z": "Magnesium chloride"
+    },
+    "answer": "Y) Hydrogen chloride"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following aqueous solutions will have the largest ionic strength?",
+    "choices": {
+      "W": "1 molar potassium chloride solution",
+      "X": "0.75 molar calcium chloride solution",
+      "Y": "0.5 molar aluminum chloride solution",
+      "Z": "0.25 molar titanium four chloride solution"
+    },
+    "answer": "Y) 0.5 molar aluminum chloride solution"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In an interrupted mating experiment, conjugation between an Hfr bacterial cell and an F- bacterial cell is allowed to occur for a limited time. What are the most probable resulting strains of the two cells, respectively?",
+    "choices": {
+      "W": "Hfr and F-",
+      "X": "Hfr and F+",
+      "Y": "Hfr and Hfr",
+      "Z": "F+ and F-"
+    },
+    "answer": "W) Hfr and F-"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true of non-Mendelian inheritance patterns: 1) Maternal effect genes can be controlled by mRNA products in the developing oocyte 2) Variegated coat patterns in mammalian fur almost always occurs in hemizygous individuals 3) Erasure of one parental allele during genomic imprinting occurs in both somatic and germ-line cells",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "By name or number, order the following three steps in a Western blot in order of occurrence: 1) Blocking with milk 2) Incubation with secondary antibody 3) Ponceau (PON-sah) stain",
+    "choices": {
+      "W": "1, 2, 3",
+      "X": "1, 3, 2",
+      "Y": "3, 1, 2",
+      "Z": "3, 2, 1"
+    },
+    "answer": "Y) 3, 1, 2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "SHERLOCK is a diagnostic test for COVID-19 which uses CRISPR-Cas13 to screen for COVID-related macromolecules. Which of the following macromolecules does CRISPR-Cas13 act on?",
+    "choices": {
+      "W": "DNA",
+      "X": "RNA",
+      "Y": "Proteins",
+      "Z": "Carbohydrates"
+    },
+    "answer": "X) RNA"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "To study computationally difficult problems, which of the following techniques computes the electronic distribution, rather than computing a wave function?",
+    "choices": {
+      "W": "Hartree Fock",
+      "X": "Density Functional Theory",
+      "Y": "Moller-Plesset perturbation theory",
+      "Z": "Configuration interaction"
+    },
+    "answer": "X) Density Functional Theory"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three changes that would increase the distance between the first and second peaks in a double slit experiment: 1) Increasing the wavelength of the light 2) Increasing the distance from the slits to the screen 3) Increasing the distance between the slits",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In Earth's atmosphere, what force is balanced by the gravitational force to maintain hydrostatic equilibrium?",
+    "answer": "Pressure-gradient force"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Plutinos are Kuiper belt objects which share which of the following orbital resonances with Neptune?",
+    "choices": {
+      "W": "2:1",
+      "X": "3:2",
+      "Y": "5:2",
+      "Z": "3:1"
+    },
+    "answer": "X) 3:2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Azobisisobutyronitrile (AY-zh-bis-eye-so-bew-TEE-ro-NY-trile) is a radical initiator which releases what molecule to generate two tertiary radicals upon heating?",
+    "answer": "Nitrogen"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three radicals in order of increasing stability: 1) Methyl radical 2) Tertbutyl radical 3) Hydroxyl radical",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A rhombus has a side length of 20, and contains an angle measuring 60 degrees. What is the length of the longest diagonal of the rhombus?",
+    "answer": "$20\\qrt{3}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The population standard deviation of a set of 10 data points is 5. What is the sample standard deviation of the set?",
+    "answer": "$\\rac{5\\qrt{10}}{3}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Movassaghi group at MIT are studying diketopiperazine rings in potential anticancer products. They have found that n to pi star interactions in the ring's disulfide bond greatly reduce its capability of being reduced. When a disulfide bond is reduced, what functional group is produced as a result?",
+    "answer": "Thiol"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Dinca group at MIT are studying the use of porous catalysts to selectively dimerize ethylene into 1-butene. How many different alkene isomers exist with the same chemical formula as 1-butene?",
+    "answer": "4"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Rho-dependent termination is an example of a process occurring in which of the following fundamental processes:",
+    "choices": {
+      "W": "DNA replication",
+      "X": "Transcription",
+      "Y": "RNA splicing",
+      "Z": "Translation"
+    },
+    "answer": "X) Transcription"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Consider 5 genes A-E with dominant and recessive alleles for each individual gene. Assuming a homozygous dominant parent is crossed with a homozygous recessive parent and independent assortment, which of the following gives the probability of second generation offspring exhibiting 3 dominant and 2 recessive phenotypes, assuming the first generation is self-crossed?",
+    "choices": {
+      "W": "113/512",
+      "X": "235/1024",
+      "Y": "135/512",
+      "Z": "150/512"
+    },
+    "answer": "Y) 135/512"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the lowest grade metamorphic mineral?",
+    "choices": {
+      "W": "Sillimanite",
+      "X": "Garnet",
+      "Y": "Chlorite",
+      "Z": "Stauroite"
+    },
+    "answer": "Y) Chlorite"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "According to the Eddington Approximation, which of the following is closest to the optical depth of the photosphere?",
+    "choices": {
+      "W": "1/4",
+      "X": "1/3",
+      "Y": "2/3",
+      "Z": "3/4"
+    },
+    "answer": "Y) 2/3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules has the lowest boiling point?",
+    "choices": {
+      "W": "Methanol",
+      "X": "Diethyl ether",
+      "Y": "Acetone",
+      "Z": "Water"
+    },
+    "answer": "X) Diethyl ether"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true regarding optical isomerism of complexes with achiral ligands?",
+    "choices": {
+      "W": "Linear complexes display optical isomerism when both ligands differ",
+      "X": "Tetrahedral complexes never display optical isomerism",
+      "Y": "Square planar complexes display optical isomerism when all ligands are different",
+      "Z": "Octahedral complexes with three bidentate ligands will display optical isomerism"
+    },
+    "answer": "Z) Octahedral complexes with three bidentate ligands will display optical isomerism"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following probability distributions is positively skewed?",
+    "choices": {
+      "W": "Uniform",
+      "X": "Bernoulli",
+      "Y": "Normal",
+      "Z": "Poisson"
+    },
+    "answer": "Z) Poisson"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the integral from 0 to $\\i$ of $x \\os (x) dx$.",
+    "answer": "$-2$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the Young's Modulus of a rod of length 3 meters if it shrinks by 1.5 centimeters lengthwise under a pressure of 30 pascals?",
+    "answer": "$60{,}000$ pascals"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A tetrahedron is constructed using resistors, such that each edge is composed of a 4-ohm resistor. If two vertices are chosen as the terminals of the resistor, what is the equivalent resistance of this construct, in ohms?",
+    "answer": "2 ohms"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "question_number": 2,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The image shows a phylogenetic tree of various primates. Based on the branching pattern, identify the primate most closely related to humans.",
+    "answer": "chimpanzee"
+  },
+  {
+    "question_number": 3,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The image depicts a cross-section of Earth's interior. Identify the layer located between the crust and the outer core.",
+    "answer": "mantle"
+  },
+  {
+    "question_number": 6,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The image shows a titration curve of a weak acid with a strong base. Identify the point on the curve that represents the equivalence point.",
+    "answer": "the steepest part of the curve where the pH rises sharply"
+  },
+  {
+    "question_number": 10,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The image shows a gel electrophoresis result with DNA fragments. Which lane contains the smallest DNA fragment?",
+    "answer": "lane 4"
+  },
+  {
+    "question_number": 13,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The first image shows a circuit diagram with resistors in series and parallel. The second image shows a graph of current vs. voltage for a semiconductor. What is the resistance of the resistor when the voltage is 5 volts?",
+    "answer": "$100\\\\mega$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The image shows a graph of a function $f(x)$ with a horizontal asymptote at $y = 3$ and a vertical asymptote at $x = 2$. What is the value of $\\im_{x \\to 2^+} f(x)$?",
+    "answer": "$\\nfty$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The images show molecular structures labeled A, B, C, and hormones labeled: Prostaglandin E₁, Serotonin (5-hydroxytryptamine), and Estradiol. Match the correct hormone to its structure.\n\nStructure A corresponds to:\n\nStructure B corresponds to:\n\nStructure C corresponds to:",
+    "answer": "A: Serotonin (5-hydroxytryptamine), B: Prostaglandin E₁, C: Estradiol"
+  },
+  {
+    "question_number": 22,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The image shows a weather map with isobars and pressure systems. Identify the type of front located at the boundary between the cold and warm air masses moving toward the east.",
+    "answer": "cold front"
+  },
+  {
+    "question_number": 24,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The first image shows a karyotype of a human with an abnormal number of chromosomes. The second image shows a normal karyotype. Identify the genetic condition associated with the abnormal karyotype.",
+    "answer": "Down syndrome"
+  }
+]

@@ -1,0 +1,414 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A typical precursor messenger RNA (pre-mRNA) that is spliced contains regions of exons and introns. Which portion of spliced pre-mRNAs is excised out?",
+    "choices": {
+      "W": "Exon",
+      "X": "PolyA Tail",
+      "Y": "5' Cap",
+      "Z": "Intron"
+    },
+    "answer": "Z) Intron"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following that the spliceosome contains: I - RNA II - Proteins III - DNA IV - Carbohydrates",
+    "answer": "I AND II"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Giving your answer as a power of 10, what is the wavelength of a gamma ray?",
+    "answer": "-12"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A molecule which has an octahedral molecular geometry will have how many atoms attached to its central atom:",
+    "choices": {
+      "W": "4",
+      "X": "6",
+      "Y": "8",
+      "Z": "10"
+    },
+    "answer": "X) 6"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which fundamental force is responsible for friction?",
+    "choices": {
+      "W": "Gravity",
+      "X": "Electromagnetic force",
+      "Y": "Strong nuclear force",
+      "Z": "Weak nuclear force"
+    },
+    "answer": "X) Electromagnetic force"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Photons are the carriers of the electromagnetic force, what is the spin of a photon?",
+    "choices": {
+      "W": "0",
+      "X": "1/2",
+      "Y": "1",
+      "Z": "3/2"
+    },
+    "answer": "Y) 1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following minerals that are stronger than Fluorite on the Mohs Hardness Scale: I. Calcite II. Gypsum III. Orthoclase IV. Apatite",
+    "answer": "III AND IV"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals has NO planes of cleavage?",
+    "choices": {
+      "W": "Hornblende",
+      "X": "Olivine",
+      "Y": "Biotite",
+      "Z": "Muscovite"
+    },
+    "answer": "X) Olivine"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many degrees are in $\\rac{\\i}{2}$ radians?",
+    "answer": "90 DEGREES"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $0 \\eq \\theta \\eq \\i$ and $\\os (\\theta) = \\in (\\theta)$ , what is $\\theta$ ?",
+    "answer": "$\\rac{\\i}{4}$ RADIANS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at SLAC National Accelerator Lab are studying the formation of semiconductors using 2D perovskites layered with other 2D materials. Which of the following is a good semiconductor?",
+    "choices": {
+      "W": "Molybdenum",
+      "X": "Vanadium",
+      "Y": "Selenium",
+      "Z": "Germanium"
+    },
+    "answer": "Z) Germanium"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Thomas Jefferson Lab are studying proton-neutron interactions in Calcium-48. Calcium-48 is unique because it undergoes what extremely rare radioactive decay process?",
+    "answer": "DOUBLE BETA DECAY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The ABO system of blood types concludes that there are the following blood types for individuals: A, B, AB, and O. What kind of inheritance is exhibited by ABO blood type determination?",
+    "choices": {
+      "W": "Codominance",
+      "X": "Dominant-Recessive",
+      "Y": "Incomplete Dominance",
+      "Z": "Sex-Linked"
+    },
+    "answer": "W) Codominance"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A boy named Tommy is born with the blood type of B. If Tommy’s mother has an AB blood type, then which blood type, if any, can his father conclusively NOT have?",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many atoms are saturated carbons bound to in organic molecules?",
+    "answer": "4"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How many hydrogens does the compound 3-methylpentane have?",
+    "choices": {
+      "W": "1",
+      "X": "5",
+      "Y": "14",
+      "Z": "21"
+    },
+    "answer": "Y) 14"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the acceleration in the x-direction of a projectile launched at an angle of $30^{\\irc}$ with initial velocity $20 \\athrm{m / s}$ ?",
+    "answer": "0"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A projectile is launched off the ground at a 45 degree angle with initial velocity $15 \\athrm{m / s}$ . Assuming $\\athrm{g} = 10 \\athrm{m / s}^2$ , how far does it travel horizontally?",
+    "answer": "22.5 METERS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "On the H-R Diagram, main sequence stars generally run between what two corners?",
+    "choices": {
+      "W": "Top Left to Bottom Right",
+      "X": "Top Right to Bottom Left",
+      "Y": "Top Left to Bottom Left",
+      "Z": "Top Right to Bottom Right"
+    },
+    "answer": "W) Top Left to Bottom Right"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Chandrasekhar (read as Chan-druh-Say-cur) Limit is the Upper Limit for the mass of which of the following?",
+    "choices": {
+      "W": "Neutron Star",
+      "X": "Main Sequence Star",
+      "Y": "Brown Dwarf",
+      "Z": "White Dwarf"
+    },
+    "answer": "Z) White Dwarf"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true of the parabola $y = x^2 - 5x + 6$",
+    "choices": {
+      "W": "It opens up",
+      "X": "It has a zero at $x = 2$",
+      "Y": "It has a zero at $x = 3$",
+      "Z": "Its vertex is at (5,6)"
+    },
+    "answer": "Z) Its vertex is at (5,6)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following limits that go to 0. I. $\\im_{x \\to \\nfty} \\eft(\\rac{x}{e^x}\\ight)$ II. $\\im_{x \\to 0} (x)$ III. $\\im_{x \\to 0} (\\n(x))$",
+    "answer": "I AND II"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Argonne National Laboratory discovered three elements combined are a good superionic conductor. Which of the following sets of properties best describes superionic conductors?",
+    "choices": {
+      "W": "High Ionic Conductivity and High Thermal Conductivity",
+      "X": "High Ionic Conductivity and Low Thermal Conductivity",
+      "Y": "Low Ionic Conductivity and High Thermal Conductivity",
+      "Z": "Low Ionic Conductivity and Low Thermal Conductivity"
+    },
+    "answer": "X) High Ionic Conductivity and Low Thermal Conductivity"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "The DOE reports what percent increase in the price of electricity from 2019 to 2020 in cents per kilowatt hour?",
+    "choices": {
+      "W": "$1.2\\$",
+      "X": "$1.5\\$",
+      "Y": "$1.8\\$",
+      "Z": "$2.0\\$"
+    },
+    "answer": "X) $1.5\\$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Plants need a variety of nutrients to survive and perform daily functioning tasks. For example, if plants lack magnesium, they will suffer from chlorosis. What color do the leaves of a plant turn when it suffers from chlorosis?",
+    "answer": "YELLOW"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following parts that are contained in a single carpel of a flowering plant: 1) Stigma, 2) Anther, 3) Ovule",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the pH of a solution with pOH of 8?",
+    "answer": "6"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following which are strong electrolytes: 1) $\\athrm{HC}_2\\athrm{H}_3\\athrm{O}_2$ , 2) NaCl, 3) HF?",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following forces present during freefall. I. Gravity II. Normal force III. Friction",
+    "answer": "I ONLY"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A box starts at the origin, then is pulled to (4, 3), then to (5, 6), then back to the origin. What is the displacement of the box during this time?",
+    "answer": "0"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following drainage patterns is most commonly found on volcanic cones?",
+    "choices": {
+      "W": "Dendritic",
+      "X": "Rectangular",
+      "Y": "Radial",
+      "Z": "Trellis"
+    },
+    "answer": "Y) Radial"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for layers of till that are created by glacial deposition?",
+    "answer": "MORAINE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "It takes Amy 20 minutes to paint a fence, and it takes Kyle 30 minutes to paint the same fence. Working together, how long does it take them to paint the fence?",
+    "answer": "12 MINUTES"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "When Joy leaves for school at 7:00 and drives at a constant speed of 40 mph, she arrives at 8:09. How far is her house from school?",
+    "answer": "46 MILES"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the Pacific Northwest National Laboratory are trying to understand how a fundamental ubiquitous organic polymer is broken down by microbes. Which of the following polymers, which makes up the cell walls of fungi, are the researchers studying the catabolism of?",
+    "choices": {
+      "W": "Glycogen",
+      "X": "Amylopectin",
+      "Y": "Chitin",
+      "Z": "DNA"
+    },
+    "answer": "Y) Chitin"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "To determine the identity of Chitin catabolizing enzymes, researchers used chitin and non-chitin substances treated with the soil bacterium C. japonicus. By probing and enriching for involved proteins, the researchers could detect the protein's identities. Which of the following techniques would they have likely used to determine the protein identities?",
+    "choices": {
+      "W": "X-Ray Crystallography",
+      "X": "Mass Spectroscopy",
+      "Y": "Western Blot",
+      "Z": "Eastern Blot"
+    },
+    "answer": "X) Mass Spectroscopy"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following basic tissue systems that are present in plants: 1) Dermal tissue system, 2) Vascular Tissue System, 3) Ground Tissue System, 4) Xylem Tissue System",
+    "answer": "1, 2, AND 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What do primary and secondary growth do, respectively, in woody plants?",
+    "choices": {
+      "W": "Germination; Budding",
+      "X": "Lengthens roots and shoots; Budding",
+      "Y": "Lengthens roots and shoots; increases diameter",
+      "Z": "Germination; increases diameter"
+    },
+    "answer": "Y) Lengthens roots and shoots; increases diameter"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of these metals does

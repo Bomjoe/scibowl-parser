@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball is thrown upward from the top of a cliff with a vertical speed of 30 meters per second. It lands on the ground with a vertical speed of 70 meters per second. If $g = 10$ meters per second squared, then how long does it take for the ball to hit the ground?",
+    "answer": "10 SECONDS"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What theorem states that local hidden variable theories could not account for the degree of correlations between spins of entangled electrons and was first applied to resolve the EPR paradox?",
+    "answer": "BELL'S THEOREM"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a rod cell with no incoming light, $\\athrm{Na + }$ is attached to what biomolecule that is present in high amounts in the cytosol.",
+    "answer": "cGMP"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following fruits is INCORRECTLY paired with its type?",
+    "choices": {
+      "W": "Strawberry, aggregate",
+      "X": "Pineapple, aggregate",
+      "Y": "Fig, accessory",
+      "Z": "Apple, accessory"
+    },
+    "answer": "X) PINEAPPLE, AGGREGATE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Multiplication by which of the following numbers is equivalent to a 60 degree counterclockwise rotation about the origin in the complex plane?",
+    "choices": {
+      "W": "$1 / 2 - \\athrm{i} * \\athrm{sqrt}(3) / 2$",
+      "X": "sqrt(3)/2 - i/2",
+      "Y": "$1 / 2 + \\athrm{i} * \\athrm{sqrt}(3) / 2$",
+      "Z": "sqrt(3)/2 + i/2"
+    },
+    "answer": "Y) $1 / 2 + \\athrm{i}* \\athrm{sqrt}(3) / 2$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the coefficient of the $\\athrm{x}^{3}$ term in the series expansion of $(1 - x)^{5}$ around $x = 0$ ?",
+    "answer": "35"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three sediment types that commonly compose a stream's suspended load: 1) Silt; 2) Cobble; 3) Pebble.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The spherical component of the Milky Way is mostly composed of which of the following types of stars?",
+    "choices": {
+      "W": "Young and low metallicity",
+      "X": "Young and high metallicity",
+      "Y": "Old and low metallicity",
+      "Z": "Old and high metallicity"
+    },
+    "answer": "Y) OLD AND LOW METALLICITY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three molecules that are typically found as network solids. 1) Black Phosphorus; 2) Glucose; 3) Boron nitride.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When elemental aluminum is treated with hot aqueous alkali, it forms a solution of ions with what hybridization about their central aluminum atom?",
+    "answer": "sp3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab are studying dinitrophenol and the effects on certain enzymatic activity in cellular energy production. Dinitrophenol does this by allowing electrons to pass through the inner mitochondrial membrane. This allows electrons to skip what enzyme that phosphorylates ADP to form a high- energy compound?",
+    "answer": "ATP SYNTHASE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab are studying large-scale hexagonal cyclic carbon flakes to better understand aromatic properties. Identify all of the following 3 compounds that are aromatic: 1) Graphene; 2) Cyclooctatetraenide anion; 3) Imidazole.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following thermodynamic pairs are NOT conjugate variables?",
+    "choices": {
+      "W": "Pressure and volume",
+      "X": "Internal energy and number of moles",
+      "Y": "Particle number and chemical potential",
+      "Z": "Temperature and entropy"
+    },
+    "answer": "X) INTERNAL ENERGY AND NUMBER OF MOLES"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What kind of relation relates angular frequency and wavenumber of a wave?",
+    "answer": "DISPERSION RELATION"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following hormones would best attach onto a mineralocorticoid receptor?",
+    "choices": {
+      "W": "Vasopressin",
+      "X": "Aldosterone",
+      "Y": "Insulin",
+      "Z": "Luteinizing hormone"
+    },
+    "answer": "X) ALDOSTERONE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In plant cells, the middle lamella is primarily composed of what fiber?",
+    "answer": "PECTIN"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many points $(a, b)$ , where $a$ and $b$ are both integers, have a magnitude of 5?",
+    "answer": "12"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Nic Claxton makes $55\\$ of his free throws. Given that he shoots a total of 11 free throws, and assuming that each free throw is independent of the other free throws, how many times more likely is it that he makes exactly 2 free throws instead of just 1?",
+    "answer": "55/9"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about Ganymede is NOT true?",
+    "choices": {
+      "W": "It is the largest moon of Jupiter",
+      "X": "It is more massive than Mercury",
+      "Y": "It has its own magnetic field",
+      "Z": "It contains a metallic core"
+    },
+    "answer": "X) IT IS MORE MASSIVE THAN MERCURY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of metamorphism occurs without a change in differential pressure?",
+    "answer": "CONTACT"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The dehydration of acetamide leads to the production of what organic compound?",
+    "answer": "ACETONITRILE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A reaction vessel contains hydrogen gas, oxygen gas, and water vapor at chemical equilibrium according to the reaction $2H_{2} + O_{2}$ yields $2H_{2}O$ . Identify all of the following 3 changes to the reaction vessel that would lead to a greater production of hydrogen gas: 1) Heating the vessel under constant volume; 2) Adding xenon gas under constant pressure; 3) Adding oxygen gas under constant volume.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at SLAC Accelerator are using least square best fit to analyze relativistic data from the acceleration of bottom quarks. If an bottom-quark is traveling at a speed of .6c, what is the Lorentz factor for the bottom-quark?",
+    "answer": "1.25"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Ames National Lab are studying methyltransferases to learn how we can replicate natural product methyl transfers. What modified amino acid is used in methyltransferases?",
+    "answer": "S- ADENOSYLMETHIONINE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In the quantum-harmonic oscillator, as the distance from the origin approaches infinity, what value does the wavefunction approach?",
+    "answer": "0"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A certain pendulum consists of a ball with mass $m$ attached to a pivot by a massless rope with length $L$ , and its period is 1 second. Consider a second pendulum that consists of a uniform rod of mass $m$ and length $L$ whose end is attached to a pivot. Let $T$ be the period of the second pendulum, in seconds. What is the value of $T^2$ ?",
+    "choices": {
+      "W": "2/3",
+      "X": "3/4",
+      "Y": "4/3",
+      "Z": "3/2"
+    },
+    "answer": "W) 2/3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organelles would be more abundant in a plasma cell than in a muscle cell?",
+    "choices": {
+      "W": "Centriole",
+      "X": "Rough Endoplasmic Reticulum",
+      "Y": "Smooth Endoplasmic Reticulum",
+      "Z": "Mitochondrion"
+    },
+    "answer": "X) ROUGH ENDOPLASMIC RETICULUM"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the mitochondria, what complex in the electron transport chain is not a proton-pump?",
+    "answer": "COMPLEX 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many trailing zeros are in the base 4 representation of the base-10 number 20!",
+    "answer": "9"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A circle is inscribed in a regular pentagon, and another circle circumscribes the pentagon. Which of the following expressions is equal to the ratio of the area of the smaller circle tp the area of the larger circle?",
+    "choices": {
+      "W": "$\\in^2 (36^{\\irc})$",
+      "X": "$\\in^2 (72^{\\irc})$",
+      "Y": "$\\os^2 (36^{\\irc})$",
+      "Z": "$\\os^2 (72^{\\irc})$"
+    },
+    "answer": "Y) $\\os^2 (36^{\\irc})$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three locations at which an earthquake could occur. 1) Convergent boundary; 2) Transform boundary; 3) Plate interior.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes why Rigel has a much smaller proper motion than Vega?",
+    "choices": {
+      "W": "Rigel is more luminous",
+      "X": "Rigel is further from Earth",
+      "Y": "Rigel travels directly towards and away from Earth",
+      "Z": "Rigel has a larger diameter than Vega"
+    },
+    "answer": "X) RIGEL IS FURTHER FROM EARTH"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements would produce a red flame test?",
+    "choices": {
+      "W": "Aluminum",
+      "X": "Rubidium",
+      "Y": "Barium",
+      "Z": "Sodium"
+    },
+    "answer": "X) RUBIDIUM"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three carbocations by increasing stability. 1) Primary; 2) Secondary; 3) Allylic",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Ames National Lab are studying the use of chiral catalysts to create clean yields of inverted stereocenters in the synthesis of natural products. Which of the following substitution reactions would they most likely be studying?",
+    "choices": {
+      "W": "Sn1",
+      "X": "Sn2",
+      "Y": "Snar",
+      "Z": "SnL"
+    },
+    "answer": "X) SN2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are studying protein rotation to create new materials made out of proteins and minerals using random simulations. What type of algorithm uses random sampling to calculate an answer that has a high probability of being correct?",
+    "answer": "MONTE CARLO"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Below the yield point, a plot of stress vs. strain is a straight line whose slope is equal to what quantity?",
+    "answer": "YOUNG'S MODULUS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true about type 1 and type 2 superconductors: 1) Type 1 superconductors are typically used for superconducting magnets; 2) Ginzburg-Landau theory cannot be applied to Type 2 superconductors; 3) In type 2 superconductors, plots of magnetization vs applied magnetic field are linear below the critical temperature.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A patient who takes mass amounts of cobalamin but still shows no signs of healthy cobalamin levels most likely is infected from which of the following phylum?",
+    "choices": {
+      "W": "Trypanosoma",
+      "X": "Pseudomonas",
+      "Y": "Platyhelminthes",
+      "Z": "Annelid"
+    },
+    "answer": "Y) PLATYHELMINTHES"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three proteins whose overactivation or overexpression could result in cancer: 1) Ras; 2) p53; 3) Her2",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The area of a right triangle with integer side lengths is always divisible by which of the following numbers?",
+    "choices": {
+      "W": "4",
+      "X": "5",
+      "Y": "6",
+      "Z": "7"
+    },
+    "answer": "Y) 6"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A recursive sequence $a_n$ has $a_0 = 3$ , $a_n = a_{n-1} + 2a_{n-2}$ , and $a_5 = 85$ . What is the value of $a_1$ ?",
+    "answer": "5"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the complete spectral classification of the sun?",
+    "choices": {
+      "W": "B9",
+      "X": "A5",
+      "Y": "F4",
+      "Z": "G2"
+    },
+    "answer": "Z) G2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three features that are formed by ductile deformation. 1) Folds; 2) Synclines; 3) Anticlines.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that can be summed in accordance with Hess’ law. 1) Entropy; 2) Internal Energy; 3) Enthalpy.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many vibrational degrees of freedom does cyanogen have, which has chemical formula $\\athrm{C}_2\\athrm{N}_2$ ?",
+    "answer": "7"
+  }
+]

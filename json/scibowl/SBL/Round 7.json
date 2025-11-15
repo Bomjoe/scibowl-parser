@@ -1,0 +1,436 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the movement of a 0.8-solar mass stellar remnant contracting to become a white dwarf on the HR diagram?",
+    "choices": {
+      "W": "Left",
+      "X": "Left, then bottom right",
+      "Y": "Right",
+      "Z": "Right, then top left"
+    },
+    "answer": "X) LEFT, THEN BOTTOM RIGHT"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements regarding stream flow that are true: 1) The Reynolds number of the flow generally decreases further away from the source; 2) Glacial river channels are generally braided due to high sediment load; 3) Assuming no uplift or changes in total river discharge, there exists a longitudinal profile after which being reached, the river cannot downcut further.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the expression sine of 15 degrees times the cosine of 15 degrees.",
+    "answer": "$1/4$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A quadratic in $x$ passes through the points (0, 4), (1, 5), and (2, 8). What is the $y$-coordinate of the intersection of the quadratic and the line $x = 10$?",
+    "answer": "$104$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Indicating proper charge, what is the oxidation state of the phosphorus atom in phosphorous acid?",
+    "answer": "$+3$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many distinct carbon-oxygen bond lengths exist in an iron(III) complex coordinated by three oxalate ions?",
+    "answer": "$2$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A fire hydrant can supply 1.5 cubic meters of water per minute at a pressure of 400 kilopascals. In kilowatts, how much power is carried by the water?",
+    "answer": "$10$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A volleyball on Earth and a golf ball on the moon are dropped from rest at the same height. Right before they reach the ground, they have the same kinetic energy. Given that the force of gravity on the moon’s surface is one sixth as strong as the force of gravity on the Earth’s surface, what is the ratio of the momentum of the golf ball to that of the volleyball right before they reach the ground?",
+    "answer": "SQUARE ROOT OF $6$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What model describes the change in the active site of an enzyme following the binding of a substrate?",
+    "answer": "INDUCED FIT"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three viruses that use reverse transcriptase in their reproductive cycles: 1) Ebolavirus; 2) HIV; 3) Togavirus.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab have been studying hundreds of secondary metabolite compounds within plant species all over the world to better understand their production. Many of these compounds have been found to permanently inhibit the germination of nearby seeds. What family of plant hormone is likely inhibited by these metabolites?",
+    "answer": "GIBBERELLINS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are studying diatoms and their role in nitrogen fixation in the oceans. As they decompose, diatoms form what type of biogenous sediment?",
+    "answer": "SILICEOUS OOZE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the presence of a metal catalyst, hydrogen peroxide decomposes spontaneously into oxygen gas and what other product?",
+    "answer": "WATER"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that primarily exist as dimers in the gaseous phase: 1) Acetic acid; 2) Diethyl ether; 3) Aluminum chloride.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the only genus of bacteria that contains no cell walls?",
+    "answer": "MYCOPLASMA"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The hormone leptin is released by what class of connective tissue cells?",
+    "answer": "ADIPOSE CELLS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are studying the difference in reaction rates between molecules of gamma-lithium illuminate based on whether the lithium atom has 3 or 4 neutrons. What is the term for this effect?",
+    "answer": "KINETIC ISOTOPE EFFECT"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab are researching efficient iron-based hydrogenases that are resistant to oxygen gas poisoning. These biological catalysts have been identified to follow simple steady state catalysis, which can be modeled by what equation?",
+    "answer": "MICHAELIS-MENTEN EQUATION"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A continuous function passes through the points (0, -2) and (9, 5). Which of the following horizontal lines does the function NOT have to intersect?",
+    "choices": {
+      "W": "$y = -2$",
+      "X": "$y = 0$",
+      "Y": "$y = 4$",
+      "Z": "$y = 8$"
+    },
+    "answer": "Z) $y = 8$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If a rhombus has a side length of 10 and one of its angles is equal to 30 degrees, what is the radius of the circle inscribed in the rhombus?",
+    "answer": "$2.5$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Oceans at which of the following latitudes, in degrees North, have weak pycnoclines year-round?",
+    "choices": {
+      "W": "0",
+      "X": "30",
+      "Y": "40",
+      "Z": "75"
+    },
+    "answer": "Z) 75"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Earth's atmosphere has undergone evolution within the past 4.6 billion years. The secondary atmosphere was characterized by an abundance in what two gases?",
+    "choices": {
+      "W": "Hydrogen and helium",
+      "X": "Water vapor and carbon dioxide",
+      "Y": "Oxygen and carbon dioxide",
+      "Z": "Nitrogen and oxygen"
+    },
+    "answer": "X) WATER VAPOR AND CARBON DIOXIDE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A nonconducting sphere of radius 2 meters has a uniform charge density of 1 coulomb per cubic meter. Two points, one inside the sphere and one outside the sphere, experience the same magnitude of electric field. If the distance between the center of the sphere and one of the points is 3 meters, what is the distance in meters between the center of the sphere and the other point?",
+    "answer": "$8/9$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An oscillating LC circuit consists of a 6-millihenry inductor and a 4.5-microfarad capacitor. If the maximum charge on the capacitor is 3 microcoulombs, then, in scientific notation to one significant figure, what is the total energy in the circuit in joules?",
+    "answer": "$1 \\times 10^{-6}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cells within the digestive tract serves mainly to secrete mucus?",
+    "choices": {
+      "W": "D cells",
+      "X": "Chief cells",
+      "Y": "Parietal cells",
+      "Z": "Goblet cells"
+    },
+    "answer": "Z) GOBLET CELLS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding photoperiodism: 1) Day neutral plants do not display photoperiodism; 2) Photoperiodism is mediated solely by cryptochromes; 3) A short day plant with a critical period of 6 hours will flower if subjected to 24 hours light interrupted by darkness every five minutes.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is log base 2 of $8 + \\og$ base 8 of 2?",
+    "answer": "$10/3$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the units digit of the product of the first 100 odd numbers?",
+    "answer": "$5$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Assuming no change in the ultimate base level, identify all of the following three changes that will not result in an altered longitudinal profile of a stream: 1) Greater downcutting; 2) Headward erosion; 3) Tectonic uplift.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best approximates the mass percent of silica in an anhydrous mafic melt?",
+    "choices": {
+      "W": "$20\\$",
+      "X": "$50\\$",
+      "Y": "$70\\$",
+      "Z": "$90\\$"
+    },
+    "answer": "X) $50\\$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Rounded to the nearest meter, what is the maximum possible horizontal range of a projectile fired from the ground at an initial velocity of 10 meters per second?",
+    "answer": "$10$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A dipole is a system of point charges of equal magnitude and opposite sign fixed at a close distance from each other. If $r$ is a distance far from the dipole, which of the following relations describes the dependence of the electric potential on $r$?",
+    "choices": {
+      "W": "$1 / r$",
+      "X": "$1 / r^{2}$",
+      "Y": "$1 / r^{3}$",
+      "Z": "$1 / r^{4}$"
+    },
+    "answer": "X) $1 / r^{2}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are studying the trans-Pacific propagation of aerosols. What is the dominant global wind circulation at 45 degrees North that carries aerosols across the Pacific?",
+    "answer": "WESTERLIES"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab have been researching new methods to reduce the atmospheric concentration of carbon dioxide, one of which involves injecting carbon dioxide into subsurface aquifers. What term describes this general process?",
+    "answer": "CARBON SEQUESTRATION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What quantity is represented by the slope of a heating curve with the $x$ and $y$ axes representing heat absorbed and temperature, respectively?",
+    "answer": "INVERSE HEAT CAPACITY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In one reaction vessel, propene is treated with boron trihydride and tetrahydrofuran, followed by hydrogen peroxide and sodium hydroxide. In another reaction vessel, acetone is treated with lithium aluminum hydride. What is the relationship between the major products formed in each reaction?",
+    "choices": {
+      "W": "Structural isomers",
+      "X": "Diastereomers",
+      "Y": "Enantiomers",
+      "Z": "Identical"
+    },
+    "answer": "W) STRUCTURAL ISOMERS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Turner syndrome results from the monosomy of what chromosome?",
+    "answer": "X CHROMOSOME"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which glycoprotein does thrombin cleave to cause the formation of platelet plugs?",
+    "answer": "FIBRINOGEN"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An infinite geometric series has first term 128 and second term 96. How many terms in this series are integers?",
+    "answer": "$4$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Regular octagon ABCDEFGH has side length 1. What is the area of the trapezoid ACDF?",
+    "answer": "$\\rac{3}{2} + \\qrt{2}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following depositional environments in which cross-bedding may develop: 1) Aeolian sand dunes; 2) Side bank of a meandering river; 3) Tidal flat.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following are likely the origin of long gamma ray bursts?",
+    "choices": {
+      "W": "Kilonovae",
+      "X": "Magnetars",
+      "Y": "Type 1a supernovae",
+      "Z": "Hypernovae"
+    },
+    "answer": "Z) HYPERNOVAE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following particles does not obey Fermi-Dirac statistics?",
+    "choices": {
+      "W": "Muon",
+      "X": "Top quark",
+      "Y": "Neutron",
+      "Z": "Higgs boson"
+    },
+    "answer": "Z) HIGGS BOSON"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Minkowski diagrams are used to qualitatively explain what theory?",
+    "answer": "SPECIAL RELATIVITY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that can deprotonate acetylene: 1) Sodium hydroxide; 2) Sodium methoxide; 3) Sodium hydride.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following substances has the lowest standard molar entropy?",
+    "choices": {
+      "W": "Graphite",
+      "X": "Water",
+      "Y": "Benzene",
+      "Z": "Calcium carbonate"
+    },
+    "answer": "W) GRAPHITE"
+  }
+]

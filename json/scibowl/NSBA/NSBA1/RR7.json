@@ -1,0 +1,466 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If 0.6 joules of work are required to compress a spring from its equilibrium position by 20 centimeters, then what is the spring constant of the spring, in newtons per meter?",
+    "answer": "30"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 interactions that an electron antineutrino can experience: 1) Electromagnetic; 2) Weak; 3) Gravity.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following proteins is LEAST involved in coagulation?",
+    "choices": {
+      "W": "Spectrin",
+      "X": "Plasmin",
+      "Y": "Thrombin",
+      "Z": "Fibrin"
+    },
+    "answer": "W) SPECTRIN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 layers of the skin in terms of increasing absorbance of UV-B light: 1) Dermis; 2) Epidermis; 3) Hypodermis.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the determinant of a 3x3 matrix whose entries are all equal to 5?",
+    "answer": "0"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following polar coordinates would have the greatest y-value in rectangular coordinates?",
+    "choices": {
+      "W": "(10, $\\i /2$ )",
+      "X": "(12, $\\i /3$ )",
+      "Y": "(15, $\\i$ )",
+      "Z": "(20, $2\\i$ )"
+    },
+    "answer": "X) (12, $\\i /3$ )"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals is a nesosilicate?",
+    "choices": {
+      "W": "Augite",
+      "X": "Zircon",
+      "Y": "Kaolinite",
+      "Z": "Albite"
+    },
+    "answer": "X) ZIRCON"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name given to the gradient between shallow and deep water salinities?",
+    "answer": "HALOCLINE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry of XeOF4?",
+    "answer": "SQUARE PYRAMIDAL"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 chemical species that can oxidize silver metal: 1) $\\athrm{Br}_2$ ; 2) $\\athrm{Ce}^{4 + }$ ; 3) $\\athrm{Au}^+$ .",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "A researcher at Oak Ridge National Lab named Candice is studying atomic-scale interactions in thin films using a liquid’s reflectometer. The reflectometer uses molecular hydrogen kept at temperatures and pressures above its critical point, forming what kind of substance?",
+    "answer": "SUPERCRITICAL FLUID"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Oak Ridge National Lab are studying uranyl complexation by binding it with molecules that have low polarizability and high charge densities. They do this using non-metallic hard base molecules. Which of the following molecules is a hard base?",
+    "choices": {
+      "W": "BF3",
+      "X": "SO3",
+      "Y": "NH3",
+      "Z": "SCN"
+    },
+    "answer": "Y) NH3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "At sufficiently large wavelengths, Planck’s law for blackbody radiation tends towards what other law?",
+    "answer": "RAYLEIGH-JEANS LAW"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the moment of inertia about the axis passing through the center of a spherical shell, with a density of 6 kilograms per meter squared, with a radius of 4 meters?",
+    "answer": "4096$\\i$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Lactose is broken down by lactase into which of the following monosaccharides?",
+    "choices": {
+      "W": "D-Glucose and D-Galactose",
+      "X": "D-Glucose and L-Galactose",
+      "Y": "L-Glucose and L- Galactose",
+      "Z": "L-Glucose and D- Galactose"
+    },
+    "answer": "W) D-GLUCOSE AND D-GALACTOSE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 products of the Krebs cycle that are produced with the coupling of NAD+: 1) Alpha-Ketoglutarate; 2) Succinate; 3) Fumarate; 4) Isocitric acid.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the maximum number of reflex angles a simple 20-sided polygon can have?",
+    "answer": "17"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A positive integer $n$ has 420 factors. What is the smallest number of factors that $n^2$ could have?",
+    "answer": "839"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ocean currents has the greatest flow velocity?",
+    "choices": {
+      "W": "Brazil current",
+      "X": "Benguela current",
+      "Y": "California current",
+      "Z": "Canary current"
+    },
+    "answer": "W) BRAZIL CURRENT"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The early stages of a Type Ia supernova are powered by the fusion of what two elements?",
+    "answer": "CARBON AND OXYGEN"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In the third order reaction of A yields B, the initial half life of the reaction is proportional to the initial concentration of A to what power?",
+    "choices": {
+      "W": "- 2",
+      "X": "- 1",
+      "Y": "0",
+      "Z": "1"
+    },
+    "answer": "W) - 2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three organic molecules that would yield a chiral product when reacted with methylthium followed by an acidic workup: 1) Benzaldehyde; 2) 3-pentanone; 3) Butanone.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Los Alamos National Lab and the Enzyme Institute are looking at enzymes produced by eukaryotic cells and prokaryotic cells by looking at their production pathway and comparing amino acid sequence similarity between them. What algorithm in bioinformatics uses pairwise sequence alignment to compare the amino acid sequence of a protein or the nucleotides in DNA?",
+    "answer": "BLAST (ACCEPT: BASIC LOCAL ALIGNMENT SEARCH TOOL)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are investigating the isoelectric point of millions of proteins. Rank the following 3 amino acids by increasing isoelectric point: 1) Arginine; 2) Histidine; 3) Proline.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Given a cold and a hot reservoir with temperatures of 150K and 1050K respectively, what is the maximum amount of work that can be done in a Carnot cycle, with a heat input of 350 joules?",
+    "answer": "300 JOULES"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions of potential energy with distance, has the greatest number of stable equilibrium points?",
+    "choices": {
+      "W": "$x^{4} - 3x$",
+      "X": "$x^{2} - 2$",
+      "Y": "$e^{x} - x^{3}$",
+      "Z": "$e^{x} - x^{4}$"
+    },
+    "answer": "Y) $e^{x} - x^{3}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the part of the stem where the 4 parts of a flower are attached?",
+    "answer": "RECEPTACLE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 amino acids in increasing order of hydrogen bonds it can create: 1) Cysteine; 2) Arginine; 3) Histidine.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A simple graph has one million edges. Which of the following is closest to the lowest amount of vertices the graph could have?",
+    "choices": {
+      "W": "1000",
+      "X": "1500",
+      "Y": "2000",
+      "Z": "2500"
+    },
+    "answer": "X) 1500"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the arc length from $t = 0$ to $t = 6\\i$ of the following parametrized curve: $x = 4\\in (t)$ , $y = 4\\os (t)$ , $z = 4.5t$ ?",
+    "answer": "3 $\\i$ ROOT 145"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following regions of Saturn's rings is the outermost?",
+    "choices": {
+      "W": "Cassini division",
+      "X": "B ring",
+      "Y": "Encke gap",
+      "Z": "C ring"
+    },
+    "answer": "Y) ENCKE GAP"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Rocky Mountains were created mainly by what late cretaceous orogeny?",
+    "answer": "LARAMIDE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In the reaction of 1-bromo-1-methylcyclohexane with sodium ethoxide, which of the following would be the major product?",
+    "choices": {
+      "W": "Methylene cyclohexane",
+      "X": "1-Methyl cyclohexene",
+      "Y": "1-Methoxy-1-methylcyclohexane",
+      "Z": "1-Methoxy-2-methylcyclohexane"
+    },
+    "answer": "X) 1-METHYL CYCLOHEXENE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the pKa of acetic acid is 4.7, then what is the pH to one decimal place, when 50 milliliters of 0.6 molar acetic acid reacts with 10 milliliters of 1 molar sodium hydroxide?",
+    "answer": "4.4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Berkeley National Lab are revisiting certain bit-based computation systems for the development of quantum computers. Which of the following numbering systems for signed integers is most commonly used in modern computers?",
+    "choices": {
+      "W": "1's Complement",
+      "X": "2's Complement",
+      "Y": "IEEE754",
+      "Z": "Sign Magnitude"
+    },
+    "answer": "X) 2'S COMPLEMENT"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Los Alamos National Lab are researching how inducing interstitial defects in an alloy can affect its conductivity. Identify all of the following 3 alloys which are considered interstitial: 1) Copper-zinc; 2) Steel; 3) Lithium chloride.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following magnetic vector fields obeys Gauss's law for magnetism?",
+    "choices": {
+      "W": "$x^{2}\\athrm{i} + y^{2}\\athrm{j}$",
+      "X": "$2x\\athrm{yi} - x^{2}\\athrm{j}$",
+      "Y": "$\\in (x)\\athrm{i} + \\os (x)\\athrm{j}$",
+      "Z": "$\\os (y)\\athrm{i} + \\in (x)\\athrm{j}$"
+    },
+    "answer": "Z) $\\os (y)\\athrm{i} + \\in (x)\\athrm{j}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a planet has double the radius of Earth and triple the density, then what is the acceleration due to gravity at this planet's surface, in meters per second squared?",
+    "answer": "58.8"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Rett syndrome is a sex-linked dominant disease found on the X-chromosome. If the offspring of a certain cross have a $50\\$ chance of receiving the disease, regardless of gender, which of the following statements is true?",
+    "choices": {
+      "W": "The father has the disease.",
+      "X": "The mother does not have the disease.",
+      "Y": "The mother is homozygous for the disease",
+      "Z": "The mother is heterozygous for the disease"
+    },
+    "answer": "Z) THE MOTHER IS HETEROZYGOUS FOR THE DISEASE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 phases of the cell cycle in increasing order of concentration of cyclin D: 1) G1; 2) G2; 3) M.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a circle of radius 6, a secant subtends an angle of 120 degrees. What is the length of this secant?",
+    "answer": "6 ROOT 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alice rolls a 6-sided die. If she rolls $x$, then she flips $x$ coins. What is the expected number of heads that she gets?",
+    "answer": "1.75 (ACCEPT: 7/4) (NOTE: ALICE GETS NO HEAD)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "How many total neutrinos are emitted in the production of one helium-4 nucleus in the CNO cycle?",
+    "answer": "2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following objects would be found in the orbits of terrestrial planets?",
+    "choices": {
+      "W": "Trojan camps",
+      "X": "Greek camps",
+      "Y": "Amor objects",
+      "Z": "Centaurs"
+    },
+    "answer": "Y) AMOR OBJECTS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 substances in order of increasing constant pressure heat capacity: 1) Helium; 2) Liquid water; 3) Aluminum metal.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metal complexes does NOT obey the 18-electron rule?",
+    "choices": {
+      "W": "Nickel tetracarbonyl",
+      "X": "Hexaamine cobalt (III)",
+      "Y": "Cisplatin",
+      "Z": "Ferrocene"
+    },
+    "answer": "Y) CISPLATIN"
+  }
+]

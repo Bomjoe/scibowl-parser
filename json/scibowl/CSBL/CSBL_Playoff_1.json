@@ -1,0 +1,454 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Saltatory conduction is a mechanism used for propagation of an action potential. This occurs by the action potential propagating along a myelinated axon by hopping between what anatomical structure in the neuron?",
+    "answer": "NODE OF RANVIER"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In human cellular respiration, oxygen is the final electron acceptor. However, in methanogenic archaea, the final acceptor is different. What is the final electron acceptor in methanogenic archaea?",
+    "choices": {
+      "W": "Carbon Dioxide",
+      "X": "Nitric Oxide",
+      "Y": "Methane",
+      "Z": "Sulfur Dioxide"
+    },
+    "answer": "W) CARBON DIOXIDE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following compounds that have a MOLECULAR geometry of tetrahedral: I. Methane II. Ethane III. Ammonia",
+    "answer": "I AND II"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "According to VSEPR Theory, Identify ALL of the following that have at least 1 d-orbital in its hybridization: I. Sulfur Tetrafluoride II. Chlorine Trifluoride III. Phosphorus Pentachloride",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Amy is playing a pipe-organ! When SHE closes one end of the organ, she observes that the wavelength of her fundamental harmonic is $0.6 \\athrm{m}$ . What are the NEXT two harmonic frequencies?",
+    "answer": "0.45 and 0.75 Hz"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A nucleus of ScienceBowlium-201 initially at rest splits into 3 particles, two of which are nuclei are tin-120 and bromine-80. These two nuclei then travel at 1 kilometer per second at an angle of 90 degrees from each other. If momentum is conserved, to the nearest 10 kilometers per second, what is the speed of the third particle?",
+    "answer": "140"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 metamorphic rocks in terms of INCREASING Grade of Metamorphism: I. Slate II. Gneiss III. Marble",
+    "answer": "I, III, II"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metamorphic facies is MOST likely associated with subduction zones?",
+    "choices": {
+      "W": "Greenschist",
+      "X": "Egalite",
+      "Y": "Zeolite",
+      "Z": "Blueschist"
+    },
+    "answer": "Z) BLUESCHIST"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Let $\\athrm{f(x)}$ be a continuous and differentiable function on the closed interval [2,4]. Which of the following could be the x-value guaranteed by the mean value theorem for this situation?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "Y) 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given a continuous and differentiable function $\\athrm{f(x)}$ , where $\\athrm{f(-8) = f(0)}$ $= 1$ , identify ALL of the following statements that are TRUE regarding this function I. By the Intermediate Value Theorem, there must be an x between -8 and 0 where $\\athrm{f(x) = -1}$ II. By the Mean Value Theorem, there must be an x between -8 and 0 where $\\athrm{f(x)}$ has zero slope III. By the Extreme Value Theorem, there must be an x between -8 and 0, inclusive, where $\\athrm{f(x)}$ is a local maximum",
+    "answer": "II ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Berkeley Lab are attempting to improve the conductivity of metal-organic frameworks, or MOFs. MOFs are often used to absorb refrigerants, and after the ban of CFCs, they are used to absorb what type of organofluorine compounds?",
+    "answer": "HYDROFLUOROCARBONS (ACCEPT: HFCs)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab operate the ATLAS facility, which is a premier superconducting linear accelerator. It is often used during studies of nuclear structure in the vicinity of what barrier, which is the energy barrier between two nuclei that must be overcome for them to undergo a nuclear reaction?",
+    "answer": "COULOMB BARRIER"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Adrian the Field Explorer has gone to the Galapagos! He’s observing a finch population where after a barrier formed, a small number of finches formed their own population in an isolated niche. Identify ALL of the following types of speciation that this scenario represents: I. Allopatric II. Sympatric III. Parapatric IV. Peripatric",
+    "answer": "I AND IV"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "John has come in contact with a rare type of snake. This snake looks like a rattlesnake, but after further observation, he realizes that it’s actually a Russell’s viper. Which of the following types of mimicry does this represent:",
+    "choices": {
+      "W": "Batesian",
+      "X": "Mullerian",
+      "Y": "Vavilovian",
+      "Z": "Mertensian"
+    },
+    "answer": "Z) MERTENSIAN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In a three-step reaction mechanism, the changes in enthalpy are -100 kJ, 250 kJ, and -300 kJ respectively. What is the total enthalpy change of this reaction?",
+    "answer": "- 150 kJ"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "For which of the following reactions at 25 degrees Celsius does the enthalpy change represent a standard enthalpy of formation? $C_{6}H_{12}O_{6}(s)\\ongrightarrow 6C(s) + 6H_{2}(g) + 6O_{2}(g)$ $2K(l) + Cl_{2}(g)\\ongrightarrow 2KCl(s)$ $N_{2}(g) + 3H_{2}(g)\\ongrightarrow 2NH_{3}(g)$ $2Na(s) + 1/2O_{2}(g)\\ongrightarrow Na_{2}O(s)$",
+    "choices": {
+      "W": "$C_{6}H_{12}O_{6}(s)\\ongrightarrow 6C(s) + 6H_{2}(g) + 6O_{2}(g)$",
+      "X": "$2K(l) + Cl_{2}(g)\\ongrightarrow 2KCl(s)$",
+      "Y": "$N_{2}(g) + 3H_{2}(g)\\ongrightarrow 2NH_{3}(g)$",
+      "Z": "$2Na(s) + 1/2O_{2}(g)\\ongrightarrow Na_{2}O(s)$"
+    },
+    "answer": "$2Na(s) + 1/2O_{2}(g)\\ongrightarrow Na_{2}O(s)$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following combinations of resistance and capacitance, IN SERIES, will discharge with the shortest time constant?",
+    "choices": {
+      "W": "30 ohms, 4 microfarads",
+      "X": "40 ohms, 3 microfarads",
+      "Y": "15 ohms, 5 microfarads",
+      "Z": "20 ohms, 2 microfarads"
+    },
+    "answer": "Z) 20 OHMS AND 2 MICROFARADS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A bouncy ball is dropped from a height of 3 meters. Each time it bounces, it loses a third of its kinetic energy. In meters, what is the total distance that the ball travels before it comes to rest?",
+    "answer": "15"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In deserts, a body of water can form in response to specific episodes of rainfall. What is the term for this body of water?",
+    "answer": "EPHEMERAL STREAM (ACCEPT: WADI, ARROYO, WASH, NULLAH, DONGA DO NOT ACCEPT: OASIS)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following types of dunes that are parallel to the prevailing wind I. Barchan II. Transverse III. Arachnoid IV. Longitudinal",
+    "answer": "I and IV"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Arin is looking at a brand-new SAT program that promises to raise SAT scores by at least 200 points. He decides to perform a significance test with an alpha value of 0.1. The p-value for this test is 0.06. Which of the following conclusions is correct?",
+    "choices": {
+      "W": "The null hypothesis should be rejected and the prep book does not increase test scores",
+      "X": "The null hypothesis should be rejected and the prep book does increase test scores",
+      "Y": "The null hypothesis should not be rejected and the prep book does not increase test scores",
+      "Z": "The null hypothesis should not be rejected and the prep book does increase test scores"
+    },
+    "answer": "X) THE NULL HYPOTHESIS SHOULD BE REJECTED AND THE PREP BOOK DOES INCREASE TEST SCORES"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A fair coin is flipped 9 times. What is the probability that the number of heads is a multiple of 4?",
+    "answer": "17/64"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Department of Energy Office of Nuclear Physics are studying the chemistry of superheavy elements. One such element that they studied was thallium. Although thallium is a post-transition metal, it is commonly found in $+3$ and $+1$ oxidation states due to what effect?",
+    "answer": "INERT-PAIR EFFECT"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Office of Energy Efficiency are studying ways to maximize quantum efficiency. This is often done with what type of photoluminescence, often associated with forbidden energy transitions?",
+    "answer": "PHOSPHORESCENCE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following syndromes is caused by the monosomy of chromosome 23?",
+    "choices": {
+      "W": "1p36",
+      "X": "17q12",
+      "Y": "Turner",
+      "Z": "Cri du chat"
+    },
+    "answer": "Y) TURNER"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following statements that are true regarding photoperiodism: I. Day neutral plants also display photoperiodism II. Photoperiodism is solely mediated by cryptochromes III. A LONG day plant with a critical period of 6 HOURS will flower if subjected to 24 hours of light interrupted by darkness every 5 minutes",
+    "answer": "III ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following mixtures has the most deviation from Raoult's Law?",
+    "choices": {
+      "W": "A Mixture of Propane and Water",
+      "X": "A Mixture of Propane and Butane",
+      "Y": "A Mixture of Water and Ethanol",
+      "Z": "A Mixture of Propane and Ethanol"
+    },
+    "answer": "Y) A MIXTURE OF WATER AND ETHANOL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "At 25 degrees celsius, the vapor pressure of water is about 3 kilopascals, and the vapor pressure of methanol is about 15 kilopascals. Assuming no deviation from Raoult's Law, what is the vapor pressure of a mixture containing 2 moles of methanol and 1 mole of water.",
+    "answer": "11"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Three resistors, each with resistance of 3 ohms, are connected together to form a triangle. What is the equivalent resistance between two vertices of this triangle in ohms?",
+    "answer": "2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Kyle is playing with his new Christmas gift. Answer the following two questions about his gift. I. Shown below is a photo of his gift. What is the name for this setup? II. Given the two values for R1 and R2 shown above, if R3 is 3 kilooohms, what is the resistance of R4, in kilooohms?",
+    "answer": "WHEATSTONE BRIDGE, 15 KILOOHMS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Clouds of neutral atomic hydrogen in the interstellar medium are also known as which of the following?",
+    "choices": {
+      "W": "Molecular Clouds",
+      "X": "Bok Globules",
+      "Y": "H One region",
+      "Z": "H Two region"
+    },
+    "answer": "Y) H ONE REGION"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following stars that are present in the Winter Triangle I. Sirius II. Betelgeuse III. Rigel",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following expressions is equivalent to the number of ways that 2021 identical marbles can be split between 16 distinct boxes?",
+    "choices": {
+      "W": "2036 choose 15",
+      "X": "2036 choose 16",
+      "Y": "2037 choose 15",
+      "Z": "2037 choose 16"
+    },
+    "answer": "W) 2036 CHOOSE 15"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a 9 by 9 square grid, what is the maximum number of unit squares that can be picked so that no two chosen squares touch, even diagonally?",
+    "answer": "25"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Livermore National Lab are using simulations to see crack formation in real time. This is done by 3D-printing what metal, which is characterized by having the highest melting point and microcracking due to its brittleness?",
+    "answer": "TUNGSTEN"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven Lab are studying the activation mechanism of Akt1 protein kinase, which controls metabolism and cancer proliferation. Akt1 is activated by C-terminal phosphorylation. Which of the following techniques is commonly used to examine the phosphorylation state of a protein?",
+    "choices": {
+      "W": "Northern Blot",
+      "X": "Southern Blot",
+      "Y": "Western Blot",
+      "Z": "Eastern Blot"
+    },
+    "answer": "Y) WESTERN BLOT"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Joy has been so busy that she forgot to take care of her plant! As a result, the membrane has separated from the cell wall. What term describes a plant cell where the membrane and cell wall are separated due to dehydration?",
+    "answer": "PLASMOLYSIS (ACCEPT: PLASMOLYSED)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In contrast to hemoglobin, another type of oxygen carrier is myoglobin. Identify all of the following statements that are TRUE about myoglobin: I. Myoglobin binds to 1 oxygen molecule II. Myoglobin has a high affinity to bind with oxygen III. Myoglobin can also be found in the bloodstream",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Under mechanical stress, some materials can become electrically polarized. What is the term for these types of materials?",
+    "answer": "PIEZOELECTRIC"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes a eutectic mixture?",
+    "choices": {
+      "W": "Alloys that are composed of more than two constituent metals",
+      "X": "Alloys that are more brittle than the constituent metals",
+      "Y": "Heterogeneous alloys with a melting point HIGHER THAN its constituents",
+      "Z": "Heterogeneous alloys with a melting point LOWER THAN its constituents"
+    },
+    "answer": "Z) Heterogeneous alloys with a melting point LOWER THAN its constituents"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four ideal gas processes that can result in an INCREASE in temperature: I. Adiabatic II. Isochoric III. Isobaric IV. Isothermal",
+    "answer": "I, II and III"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Kyle is observing two macro partitions of a system. One of them has an entropy of 30 times Boltzmann’s constant, and the other has an entropy of 90 times Boltzmann’s constant. How many times as likely is the system to be in the second micropartition than the first?",
+    "answer": "$e^{60}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of telescopes uses a concave primary and convex secondary mirror to focus light through a space in the primary mirror?",
+    "choices": {
+      "W": "Galilean",
+      "X": "Keplerian",
+      "Y": "Newtonian",
+      "Z": "Cassegrain"
+    },
+    "answer": "Z) CASSEGRAIN"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following statements that are TRUE regarding emission nebulae: I. They are regions of star formation II. Many emission nebulae appear red due to emissions of the Lyman Series III. An example of an emission nebula is a planetary nebula",
+    "answer": "I and III"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Arin is at the grocery store, trying to buy bananas for his pet monkey. He can buy them in bunches of either 7 or 11. What is the maximum number of bananas that he can NOT buy?",
+    "answer": "59"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Amy has a strange plant. At first, it's 2 inches tall. At the end of every day, it has a 50% chance of tripling its height. In inches, what is the expected value of its height after 3 days?",
+    "answer": "16"
+  }
+]

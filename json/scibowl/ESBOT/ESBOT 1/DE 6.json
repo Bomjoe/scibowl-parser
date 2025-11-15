@@ -1,0 +1,448 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 coordinate geometries that are correctly paired with their coordination numbers: I) Octahedral and 8 II) Tetrahedral and 3 III) Trigonal bipyramidal and 3 IV) Square pyramidal and 4",
+    "answer": "None"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four coordinate geometries that are correctly paired with the type of hybridization around the central ion: I) Tetrahedral and $\\athrm{sp}^{3}$ II) Octahedral and $\\athrm{d}^{3}\\athrm{s}^{3}$ III) Square planar and $\\athrm{dsp}^{2}$ IV) Linear and $\\athrm{sp}^{2}$",
+    "answer": "I and III"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of the region in the xy plane corresponding to the domain of the function $\\athrm{f(x, y) = sqrt(1 - x^{2} - y^{2})}$?",
+    "answer": "pi"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Regular hexagon ABCDEF has a side length of 6. What is the ratio of the length of AC to the length of AD?",
+    "answer": "$\\qrt{3}/2$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 polysaccharides that are incorrectly matched with their type of glycosidic (gly-ko-si-dic) linkage I) Sucrose: 1,2 glycosidic linkage II) Lactose: Beta 1,4 glycosidic linkage III) Amylopectin: 1,4 glycosidic linkage with 1,2 branching points IV) Glycogen: 1,4 glycosidic linkage with 1,6 branching points",
+    "answer": "III only"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A competitive inhibitor does NOT change what aspect of a reaction’s progress, described by Michaelis-Menten kinetics?",
+    "choices": {
+      "W": "Vmax",
+      "X": "Km",
+      "Y": "Vo",
+      "Z": "Ea"
+    },
+    "answer": "W) Vmax"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In Lagrangian mechanics, what principle replaces Newton’s F=ma?",
+    "answer": "Principle of Stationary Action (ACCEPT: Principle of Least Action)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A charged particle is placed in a constant electric field and moved in a figure 8 pattern. Identify all of the following 3 statements that are true of this process: I) The total work done is zero II) The total distance moved is zero III) The integral of the electric force over the path is nonzero",
+    "answer": "I only"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The two legs of a right triangle are equal to the roots of the polynomial $\\athrm{x}^2 - 15\\athrm{x} + 48$. What is the area of the triangle?",
+    "answer": "24"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the average of all the possible areas of a triangle ABC with angle $\\athrm{A} = 60$ degrees, side $\\athrm{b} = 9$ , and side $\\athrm{a} = 8.6$?",
+    "answer": "$81\\qrt{3} /8$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the University of Oxford are studying the effects of Solar winds on the isotopic composition of asteroids. Which of the following types of asteroids are considered to be the oldest in the solar system?",
+    "choices": {
+      "W": "Chondrite",
+      "X": "Stony",
+      "Y": "Metallic",
+      "Z": "Carbonaceous"
+    },
+    "answer": "W) Chondrite"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the National Ignition Facility at Lawrence Livermore National Lab are studying a proposed high pressure phase transformation in diamond under laser shock. Order the following allotropes of carbon from least to greatest stability at ambient conditions. 1) Graphite 2) Buckminsterfullerene 3) Diamond 4) Bc8",
+    "answer": "4,2,3,1"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Recognition of sound at different parts inside the cochlea allows us to distinguish what characteristic of sound waves?",
+    "answer": "Pitch (ACCEPT: frequency or other equivalent answers)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 genetic disorders that follow an X-linked recessive inheritance pattern: I) Marfan syndrome II) Red green color blindness III) Phenylketonuria IV) Tay Sachs disease",
+    "answer": "II only"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following statements is NOT true about Pluto? W) It is in a 3 to 2 orbital resonance with Neptune X) It undergoes prograde rotation Y) Its ice is made up of primarily methane Z) It rotates over 10,000 times in one orbit around the sun",
+    "answer": "X) It undergoes prograde rotation"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three satellites of Jupiter in increasing albedo. 1) Ganymede 2) Europa 3) Callisto",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Your school has between 40 and 80 students. If classes are formed with size 7, there are 6 students left over. If classes are formed with size 9, there are 8 students left over. How many people are in the school?",
+    "answer": "62"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Pranav buys an old collection of manga, hoping that some of them will turn out to be valuable. If a manga is valuable, its value doubles every 5 years, and if it is not, its value halves every 5 years. If he buys a collection of 300 manga for $5 each and 20% of them are valuable, what is the expected value of the collection after 15 years?",
+    "answer": "$2550"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Fermilab National Accelerator Laboratory are studying the decay of subatomic particles, such as muons. Identify all of the following 3 statements that are true about theories that predict proton decay: I) SU(5) Grand Unified Theory is one such theory. II) These theories predict a proton decaying into a positron and an antineutrino. III) The simplest of these theories have been experimentally disproven.",
+    "answer": "I and III"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Laboratory are studying atomic nuclei and nuclear decay. What term describes the radiation emitted by an electron emitted from a nuclear reactor as it moves faster than the speed of light in the medium?",
+    "answer": "Cherenkov radiation"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A soap bubble is created in a $3 \\athrm{m}$ by $5 \\athrm{m}$ rectangular wire frame. If the force from the liquid on one of the longer sides is $15 \\athrm{N}$ , what is the force on one of the shorter sides?",
+    "answer": "9 N"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Consider a mass M moving at velocity u inside reference frame S. Reference frame S is moving at velocity v with respect to the observer. If $\\athrm{K}_{\\athrm{u}}$ is equal to $\\rac{1}{2} \\athrm{Mu}^2$ and $\\athrm{K}_{\\athrm{v}}$ is equal to $\\rac{1}{2} \\athrm{Mv}^2$, which of the following conditions must be true if the kinetic energy of mass M with respect to the observer is equal to $\\athrm{K}_{\\athrm{u}} + \\athrm{K}_{\\athrm{v}}$?",
+    "choices": {
+      "W": "Velocity u is perpendicular to velocity v",
+      "X": "Velocity u is parallel to velocity v",
+      "Y": "The magnitude of velocity u is equal to the magnitude of velocity v",
+      "Z": "Velocity u and velocity v point in opposite directions"
+    },
+    "answer": "W) Velocity u is perpendicular to velocity v"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Seth Landesman is developing new beard care products, specifically with beard gels. What intermolecular force is most important to the gel's ability to keep long strands of hair stuck together?",
+    "answer": "Dispersion (ACCEPT: London dispersion)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four compounds that act as electrophiles: I) BH3 II) NaOH III) HCOOH",
+    "answer": "I, III"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 statements that correctly describe characteristics of bacteria and archaea I) Bacterial flagella and archaean flagella are homologous II) Archaean cell walls lack peptidoglycan III) Archaea use methionine as their starting amino acid while bacteria use formyl-methionine IV) Archaea have linear chromosomes while bacteria have circular chromosomes",
+    "answer": "II, III"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following bacteria that you would expect to stain red in a traditional Gram test: I) Vibrio cholerae II) Staphylococcus aureus III) Bacillus anthracis IV) Helicobacter pylori",
+    "answer": "I, IV"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a refrigerator has a thermodynamic efficiency of $88\\$, then what is its coefficient of performance to the nearest whole number?",
+    "answer": "8"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 real processes that can be approximated as isobaric: I) Combustion in an open container II) Slow heating of a gas-filled balloon III) Combustion in a closed container IV) Evaporation of water vapor in a vacuum sealed container",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Department of Energy is working with researchers at the Desert Research Institute to study the effects of erosion and deposition on the landscape. In the context of deposition, what term describes the maximum angle that sediment can be piled at relative to the horizontal before it begins to slip?",
+    "answer": "Angle of Repose"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National lab are studying cell signaling pathways in yeast cells. Yeast are known to produce two distinct types of gametes that secrete distinct mating signals. What are the two kinds of yeast gametes that merge to form a new yeast organism?",
+    "answer": "a, $\\lpha$ cells"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Nikhil is investigating the bonding inside a metal-containing salt he has produced. He determines that the type of bonding he is observing mostly appears in quadruple bonds between metals with low metallic character and contains two nodal planes. What type of bonding is he observing?",
+    "answer": "Delta bonding"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Mr. Condit forgot what sodium salt he dissolved in a solution! In order to figure out what anion is present, he first adds a little acid, causing the solution to bubble, producing a colorless, pungent gas. What sodium salt is this likely to be?",
+    "choices": {
+      "W": "$\\athrm{NaHCO_3}$",
+      "X": "$\\athrm{Na_2CO_3}$",
+      "Y": "$\\athrm{Na_2SO_3}$",
+      "Z": "$\\athrm{NaNO_3}$"
+    },
+    "answer": "Y) $\\athrm{Na_2SO_3}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is not true of electric field lines?",
+    "choices": {
+      "W": "They cannot cross",
+      "X": "They are parallel to equipotential lines",
+      "Y": "They point away from positive charges and towards negative charges",
+      "Z": "They show the path a positively charged particle would follow through the field"
+    },
+    "answer": "X) They are parallel to equipotential lines"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a setup of point charges on the X axis, with a 2 Coulomb charge at $\\athbf{x} = 0$ , a -1 Coulomb charge at $\\athbf{x} = -2$ , and a 1 Coulomb charge at $\\athbf{x} = 1$ . How many points are there on the X axis where the electric field is 0?",
+    "answer": "2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A certain locus has 3 alleles controlling it, p, q, and r, and the gene is in Hardy-Weinberg equilibrium. If the allele frequency of p is 0.2, the allele frequency of q is 0.3, and the allele frequency of r is 0.5, what is the frequency of heterozygotes in the population?",
+    "choices": {
+      "W": "0.015",
+      "X": "0.03",
+      "Y": "0.31",
+      "Z": "0.62"
+    },
+    "answer": "Z) 0.62"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "You are an aspiring botanist studying an unknown plant's cell samples in the lab. You observe a cross sectional tissue sample that has a central star of vascular tissue surrounded by circles of ground tissue. Which of the following best describes the plant and tissue sample, respectively?",
+    "choices": {
+      "W": "Monocot root sample",
+      "X": "Eudicot root sample",
+      "Y": "Monocot shoot sample",
+      "Z": "Eudicot shoot sample"
+    },
+    "answer": "X) Eudicot root sample"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many times between x equals 0 and x equals 6pi do the graphs $\\in (x)$ and $\\ec (x)$ intersect?",
+    "answer": "0"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of the summation from n equals 0 to infinity of 2 to the power of n divided by n factorial? Express your answer to the nearest whole number.",
+    "answer": "7"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following will not radiate gravitational waves?",
+    "choices": {
+      "W": "A perfectly symmetrical planet orbiting the sun",
+      "X": "An asymmetrical planet orbiting the sun",
+      "Y": "A perfectly symmetrical supernova explosion",
+      "Z": "An asymmetrical supernova explosion"
+    },
+    "answer": "Y) A perfectly symmetrical supernova explosion"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In the first step of the proton-proton chain, two protons combine to form deuterium and release what two leptons?",
+    "answer": "Positron and Electron Neutrino"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the direction of foliation in mylonites at a strike slip fault?",
+    "choices": {
+      "W": "Foliation occurs normal to the primary stress",
+      "X": "Foliation occurs normal to the strike direction",
+      "Y": "Foliation occurs normal to the dip direction",
+      "Z": "Foliation is observed normal to a vector between the primary stress and strike direction"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following rocks is incorrectly paired with its texture and maficity?",
+    "choices": {
+      "W": "Dacite: glassy and felsic",
+      "X": "Tachylite: glassy and mafic",
+      "Y": "Pumice: glassy and felsic",
+      "Z": "Scoria: glassy and mafic"
+    },
+    "answer": "W) Dacite: glassy and felsic"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Nitrogen dioxide reacts with water to undergo what type of reaction, involving the transfer of electrons from one nitrogen dioxide unit to another?",
+    "answer": "Disproportionation (ACCEPT: Dismutation)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Colin decides to create a 1 Molar solution of sulfuric acid. He finds a 12 Molar stock solution in his chemical cabinet and pours distilled water into it to form a 1 Molar solution. Which of the following best explains why this is incredibly unsafe?",
+    "choices": {
+      "W": "Concentrated sulfuric acid produces toxic sulfur dioxide when diluted",
+      "X": "Sulfuric acid's pH becomes lower the more you dilute it, forming a solution with an extremely acidic pH",
+      "Y": "Sulfuric acid's dilution is exothermic, and directly adding water can cause it to splatter",
+      "Z": "Sulfuric acid's dilution is endothermic, and directly diluting it can cause serious frostbite to fingers touching the container"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the average angle of repose for the volcanic tephra?",
+    "choices": {
+      "W": "5 degrees",
+      "X": "15 degrees",
+      "Y": "30 degrees",
+      "Z": "45 degrees"
+    },
+    "answer": "Y) 30 degrees"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following forms of sulfur is not commonly found in naturally occurring mineral assemblages",
+    "choices": {
+      "W": "Elemental Sulfur",
+      "X": "Sulfide",
+      "Y": "Sulfite",
+      "Z": "Sulfate"
+    },
+    "answer": "Y) Sulfite"
+  }
+]

@@ -1,0 +1,445 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular formula of sulfur dioxide?",
+    "answer": "$\\athrm{SO}_2$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the chemical formula, including any charge, of the phosphate ion?",
+    "answer": "$\\athrm{PO}_4^{3-}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the type of reverse fault which has a dip angle of less than 45 degrees?",
+    "answer": "Thrust Fault"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 minerals in order from first to last to crystallize\n1. Olivine\n2. Amphibole\n3. Muscovite",
+    "answer": "1 2 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What specific enzyme do $\\eta$ lactams target?",
+    "answer": "Transpeptidase"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for specialized motor cells in leaves that are responsible for rapid contraction and loss of turgor pressure",
+    "answer": "Guard cells"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the indefinite integral of $\\n (x)$?",
+    "answer": "$\\athbf{x}\\n (\\athbf{x}) - \\athbf{x} + \\athbf{C}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the indefinite integral of $\\os^3 (x)$?",
+    "answer": "$\\in (x) - \\in^3 (x) / 3 + C$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If the electric field along the x axis is defined as $\\athrm{E(x)} = 3x$, what is the total amount of work done by the electric field if a particle is moved from $\\athrm{x} = 6$ to $\\athrm{x} = 10$ and back to $\\athrm{x} = 6$?",
+    "answer": "0"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the integral of jerk with respect to time?",
+    "answer": "Acceleration"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Crystalline solids have a defined unit cell structure with long range order, and are exemplified by table salt. What type of solids do not have a defined unit cell structure, and display short range order, and are exemplified by glass?",
+    "answer": "Amorphous solids"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What element has an atomic number of 31?",
+    "answer": "Gallium"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Expressing your answer as a common fraction, what is the height of a prism with base area 39 and volume 15?",
+    "answer": "$\\rac{5}{13}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "When rolling two standard 6-sided number cubes, what is the probability that the sum of the two results will be a factor of 12?",
+    "answer": "$\\rac{1}{3}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Taq polymerase is derived from what bacterial species?",
+    "answer": "Thermus Aquaticus"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Damage to which of the following structures of the Limbic System would lead to anterograde amnesia?",
+    "choices": {
+      "W": "Amygdala",
+      "X": "Hippocampus",
+      "Y": "Fornix",
+      "Z": "Olfactory Bulb"
+    },
+    "answer": "Hippocampus"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Indicate, by name or number all of the following 3 planets that are jovian.\n1) Mercury\n2) Earth\n3) Venus",
+    "answer": "none"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the primary component of most condensation nuclei?",
+    "answer": "DMS (Dimethyl Sulfide)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In scientific notation and with one significant figure, what is the sum of the first billion natural numbers?",
+    "answer": "$5 \\times 10^8$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the measure of the angle formed by the hands of an analog clock at 4:22?",
+    "answer": "1"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the term for a reaction that releases heat to its environment and therefore feels warm?",
+    "answer": "Exothermic"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds would be the most acidic in water?",
+    "choices": {
+      "W": "CO2",
+      "X": "NH3",
+      "Y": "NaOH",
+      "Z": "H2SO4"
+    },
+    "answer": "Z) $\\athrm{H}_{2}\\athrm{SO}_{4}$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A thunderstorm has strong updrafts creating a giant tower. What is the name for the part of the cumulonimbus cloud which gets stopped by the tropospheric temperature inversion?",
+    "answer": "Anvil"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 clouds in order of decreasing base height:\n1. Cumulonimbus\n2. Tule\n3. stratocumulus",
+    "answer": "3 1 2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the electron shuttle between Complex I and III?",
+    "answer": "Ubiquinone, [Also Accept Coenzyme Q]"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Oh No! While recovering from his spinal wound, Bobby was shot in the head while spending time in a field hospital. If he now cannot recognize the faces of his fellow soldiers, which association nucleus was most likely damaged?",
+    "choices": {
+      "W": "Frontal Association Nucleus",
+      "X": "Temporal Association Nucleus",
+      "Y": "Occipital Association Nucleus",
+      "Z": "Parietal Association Nucleus"
+    },
+    "answer": "X) Temporal Association Nucleus"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For every English assignment that she receives, Kira has an $80\\$ probability of remembering to write her name on the paper. If she receives a total of 50 assignments over her freshman year, what is the expected number of papers on which she will forget to write her name?",
+    "answer": "10"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "It takes Daniel 2 hours to write 5 DOE questions, while it takes Danny 3 hours to write 5 DOE questions. If they work together to write questions, how many questions can they write in 1 whole day?",
+    "answer": "100"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following fungi causes ergotism in some plants",
+    "choices": {
+      "W": "Claviceps Purpurea",
+      "X": "Cryphonectria Parasitica",
+      "Y": "Fruisana Circinatum",
+      "Z": "Rhizopus Stolonifer"
+    },
+    "answer": "W) Claviceps Purpurea"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for the relationship where a fungi lives within the leaf of a plant",
+    "answer": "Endophyte"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which group of biomolecules have a secondary structure consisting of alpha helices and beta sheets?",
+    "choices": {
+      "W": "Nucleic acids",
+      "X": "Lipids",
+      "Y": "Carbohydrates",
+      "Z": "Proteins"
+    },
+    "answer": "Z) Proteins"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Answer the following three questions about the exposure of a triene to ultraviolet radiation:\n1. What type of pericyclic reaction will the triene undergo?\n2. Is the reaction disrotatory, conrotatory, or neither?\n3. How many sigma and pi bonds are gained, respectively?",
+    "answer": "Electroclyclic rearrangement, conrotatory, $+1$ and -1"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many distinct ways are there to arrange the letters of the word \energy\?",
+    "answer": "360"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If rotations are not considered to be distinct, how many ways are there for 8 people to be seated around a square table, where each side can fit two people?",
+    "answer": "10080"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The influx of what ion into the axoplasm initiates the granulation of synaptic vesicles?",
+    "answer": "Ca2+"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What B vitamin is involved in the synthesis of Coenzyme A?",
+    "answer": "Pantothenate [Also Accept Vitamin B5]"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the general process where oceanic crust is pushed upon continental crust?",
+    "answer": "Obduction"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Give, by name or number, all of the following 3 statements which are true about the crust?\n1. Oceanic crust is less dense than continental crust\n2. Oceanic crust is generally older at the mid ocean ridge\n3. Continental crust is isostatically adjusted higher than oceanic crust",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the charge of a hydride anion?",
+    "answer": "-1"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "An octahedral complex with a metal center $\\athbf{M}^{\\athrm{n + }}$ has ammonia ligands, which are then substituted with water ligands. Taking the water ligands to be along the z axis and the ammonia ligands to lie in the xy plane, identify all orbitals that will increase in energy.",
+    "answer": "$\\athrm{d}_{z^{2}}, \\athrm{d}_{xz}, \\athrm{d}_{yz}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three that are neutral elements:\n1. Deuterium\n2. Fluorine\n3. Fluoride",
+    "answer": "1, 2 only"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What functional group, characterized by a carbon carbon double bond between the alpha and beta carbons, is used in the Stork synthesis as an alternative to Michael additions?",
+    "answer": "Enamine"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If the mass of a satellite is doubled, by what factor will its orbital velocity increase if it stays in the same orbit?",
+    "answer": "1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What quantity is defined as the cross product of the force applied and the position vector?",
+    "answer": "Torque"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following from smallest to largest cecum size?\nI) Lion\nII) Human\nIII) Cow",
+    "answer": "1 2 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What condition describes a lack of blood flow to an afflicted region?",
+    "answer": "Ischemia"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is $\\og 8 + 3\\og 5$?",
+    "answer": "3"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The Lambert W function is defined as the inverse of what function of z, where z is a complex number?",
+    "answer": "ze"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following orogenies is associated with the Rocky mountain range?",
+    "choices": {
+      "W": "Allehgenian",
+      "X": "Taconian",
+      "Y": "Laramide",
+      "Z": "Greenville"
+    },
+    "answer": "Y) Laramide"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Riegel Shears are associated with which of the following faults?",
+    "choices": {
+      "W": "Left Lateral Strike slip fault",
+      "X": "Right Lateral Strike slip fault",
+      "Y": "Oblique Slip Fault",
+      "Z": "Thrust fault"
+    },
+    "answer": "X) Right Lateral Strike slip fault"
+  }
+]

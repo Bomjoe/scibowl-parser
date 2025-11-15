@@ -1,0 +1,454 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a possible value that the inverse of the function $\\athrm{f(x) = tan(x)}$ could attain?",
+    "choices": {
+      "W": " - pi/4 ",
+      "X": " 0 ",
+      "Y": " pi / 4 ",
+      "Z": " pi/2 "
+    },
+    "answer": "Z) pi/2"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Consider four real numbers x, y, a, and b such that x is less than a and y is less than b. Identify all of the following 4 inequalities that must be true: I) x+y is less than a+b II) x-y is less than a+b III) x times y is less than a times b IV) x to the power of y is less than a to the power of b",
+    "answer": "I only"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The area contained inside the P-V graph of a thermodynamic cycle is equal to which of the following?",
+    "choices": {
+      "W": "The change in pressure over one cycle",
+      "X": "The change in volume over one cycle",
+      "Y": "The amount of work done in one cycle",
+      "Z": "The change in internal energy in one cycle"
+    },
+    "answer": "Y) The amount of work done in one cycle"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following types of processes that can be represented as a straight line on a P-V graph: I) Isothermal II) Isochoric III) Adiabatic IV) Isobaric",
+    "answer": "II and IV"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Equal volumes of the following chemicals are mixed. Which of the following mixtures is most likely to separate into layers?",
+    "choices": {
+      "W": "Methanol and ethanol",
+      "X": "Benzene and toluene",
+      "Y": "Hexane and pentane",
+      "Z": "Carbon Tetrachloride and methanol"
+    },
+    "answer": "Z) Carbon Tetrachloride and methanol"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Gilalite is a dark blue silicate mineral with dehydrated chemical formula $\\athrm{Cu}_5\\athrm{Si}_6\\athrm{O}_{17}$ . What is the average oxidation state of copper in Gilalite?",
+    "answer": "2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many histone proteins are found in a nucleosome?",
+    "answer": "8"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Sanger sequencing uses what modified form of a nucleotide that terminates a growing DNA chain?",
+    "answer": "Dideoxynucleotide"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a characteristic of lava spewed by shield volcanoes?",
+    "choices": {
+      "W": "Low Silica",
+      "X": "Low Temperature",
+      "Y": "High Volatile Content",
+      "Z": "High Viscosity"
+    },
+    "answer": "W) Low Silica"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases is most directly responsible for the negative environmental lapse rate in the stratosphere?",
+    "choices": {
+      "W": "Carbon Dioxide",
+      "X": "Water Vapor",
+      "Y": "Ozone",
+      "Z": "Methane"
+    },
+    "answer": "Y) Ozone"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Department of Energy researchers are studying beta decay in atomic nuclei. What particle was theorized to allow beta decay to conserve energy, momentum, and spin?",
+    "answer": "Neutrino"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Laboratory are studying the mechanisms of DNA replication in an alien species. Assuming the scientists followed the same experimental setup as the Messelson-Stahl experiment, if half the DNA double helices are heavy and half are light after one round of replication, what mode of replication does this species exhibit?",
+    "answer": "Conservative"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the name of the diagram that shows all possible logical relations between a finite collection of sets?",
+    "answer": "Venn Diagram"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "On the Enloe Science Bowl Tryouts $10\\$ of the students got 10 points, $60\\$ of the students got 9 points and $30\\$ of the students got 7 points. What is the difference between the mean and median scores on the tryouts?",
+    "choices": {
+      "W": "0",
+      "X": "0.5",
+      "Y": "1",
+      "Z": "1.5"
+    },
+    "answer": "X) 0.5"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An ideal fluid is flowing along a pipe. It starts in a tube of cross sectional area $140 \\athrm{cm}^2$ moving at a velocity of $60 \\athrm{m / s}$ . The pipe enlarges to $350 \\athrm{cm}^2$ . What is the new velocity of the fluid in meters per second?",
+    "answer": "24"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Brian drops a ball off of a tall building on a mystery planet. Giving your answer in exact form, if the ball takes 2 seconds to fall 20 meters after it is dropped, how long in seconds will it take to fall 100 meters?",
+    "answer": "$2\\qrt{5}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What cytoskeletal element makes up the nuclear lamina in cells?",
+    "answer": "Intermediate filaments"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 taxonomic classifications from least to most specific: 1) Chordata 2) Suidae 3) Artiodactyla 4) Sus",
+    "answer": "1, 3, 2, 4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The stars Deneb, Altair, and Vega form what astronomical asterism that appears in the Northern sky during summer?",
+    "answer": "Summer Triangle"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Order the following 4 stages in the Sun’s star cycle from earliest to latest: 1) Main Sequence 2) Hayashi Track 3) Red Giant 4) White Dwarf",
+    "choices": {
+      "W": "2, 1, 3, 4",
+      "X": "1, 2, 3, 4",
+      "Y": "2, 3, 1, 4",
+      "Z": "2, 1, 4, 3"
+    },
+    "answer": "2, 1, 3, 4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A car is traveling around a circular track. It takes 10 seconds for the car to travel from its starting position around the track to 5 meters behind its starting position. What is the average velocity of the car during this time?",
+    "answer": "$0.5\\athrm{m / s}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Colin throws a hammer into the air, imparting it with some angular momentum as it leaves his hand. Neglecting air resistance, which of the following is true of the angular speed of the hammer as it travels through the air?",
+    "choices": {
+      "W": "It decreases to a finite value",
+      "X": "It decreases to zero",
+      "Y": "It increases without bound",
+      "Z": "It remains the same"
+    },
+    "answer": "Z) It remains the same"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many numbers are there in the list of perfect squares from 49 to 961, inclusive?",
+    "answer": "25"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many different factors does the number 1296 have?",
+    "answer": "25"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What law relates the mass of gas particles with their rate of diffusion?",
+    "answer": "Graham's Law"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name of the remaining substance in solution after a crystallization or centrifugation?",
+    "answer": "Supernatant"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules is the Casparian Strip primarily made of?",
+    "choices": {
+      "W": "Cellulose",
+      "X": "Suberin",
+      "Y": "Lignin",
+      "Z": "Chitin"
+    },
+    "answer": "X) Suberin"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 stages of the cell cycle where you would expect high concentrations of active maturation promoting factor (MPF) I) S II) Prophase III) Metaphase IV) Anaphase",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 stratigraphic formations which result from compressional forces: I) Monocline II) Angular Unconformity III) Nonconformity",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following rocks is most mafic?",
+    "choices": {
+      "W": "Scoria",
+      "X": "Tuff",
+      "Y": "Granite",
+      "Z": "Andesite"
+    },
+    "answer": "W) Scoria"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at CERN are studying dark matter. Approximately what percentage of the universe consists of dark matter?",
+    "choices": {
+      "W": "$3\\$",
+      "X": "$19\\$",
+      "Y": "$27\\$",
+      "Z": "$44\\$"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Sandia National Laboratory are studying ways to make electrical circuits more efficient. Power dissipation can be easily calculated for devices that are Ohmic. Identify all of the following 4 circuit elements that are Ohmic: I) Resistor II) Capacitor III) Diode IV) Inductor",
+    "answer": "I only"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Nikhil the chemistry main has decided to learn physics. He is confused why gravity and the spring force have potential energy, but the friction force doesn't. What property of a force causes it to have a potential energy associated with it?",
+    "answer": "Conservative"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following cases would the application of Faraday's law be most appropriate?",
+    "choices": {
+      "W": "An electron moving through a magnetic field",
+      "X": "A magnet dropped through a metal coil",
+      "Y": "A charge moving parallel to a wire",
+      "Z": "A magnet spinning around its central axis in free space"
+    },
+    "answer": "X) A magnet dropped through a metal coil"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Concentrated solutions of $\\athrm{Mn}^{2 + }$ appear as what color?",
+    "answer": "Pink"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Nikhil wants to perform the titration of a weak acid with sodium hydroxide. After preparing the solid sodium hydroxide, he decides to take a break and play the hit game “Genshin Impact,” after which he returns and completes the titration. Knowing that sodium hydroxide is hygroscopic, how will his calculation for the concentration of the weak acid deviate from its true value?",
+    "choices": {
+      "W": "His calculated value will be higher than the true value",
+      "X": "His calculated value will be lower than the true value",
+      "Y": "His calculated value will be the same as the true value",
+      "Z": "There is not enough information to determine the error"
+    },
+    "answer": "W) His calculated value will be higher than the true value"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Rohit biked from home to school at an average speed of x miles per hour. However, his bike was stolen by Colin, so Rohit walked home at a speed of 3 miles per hour. If his overall average speed was 5 mph, then what is the value of x?",
+    "answer": "15 mph"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the distance between a circumcenter and incenter of an equilateral triangle of side length 6?",
+    "answer": "0"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the limit on the mass of a neutron star at which the star would collapse under its own mass?",
+    "answer": "Tollman-Oppenheimer- Volkoff limit, TOV limit"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Sukrith and Brian are chilling on the surface of Ceres and decide they want to start counting their age in Ceres years. Ceres orbits 2.8 AU from the sun. If they are celebrating their first Ceres birthday today, to one significant figure, in how many Earth years will they be able to celebrate their second Ceres birthday?",
+    "answer": "5"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 compounds in increasing order by number of carbons: 1) Cyclopentane 2) Acetic acid 3) Propanol 4) Formaldehyde",
+    "answer": "4, 2, 3, 1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 elements from highest to lowest placement on the periodic table: 1) Potassium 2) Silicon 3) Barium 4) Indium",
+    "answer": "2, 1, 4, 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Livermore National Laboratory were experimenting with the ability of mice blood to clot upon injection of buckminsterfullerene. Which of the following materials are these structures made out of?",
+    "choices": {
+      "W": "Fluorine",
+      "X": "Oxygen",
+      "Y": "Carbon",
+      "Z": "Nitrogen"
+    },
+    "answer": "Y) Carbon"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Sandia National Laboratory are studying the effects of greenhouse gases on the environment and human body. Identify all of the following 4 compounds that are considered to be greenhouse gases: I) Carbon Dioxide II) Nitrous Oxide III) Hydrogen Chloride IV) Sulfur Hexafluoride",
+    "answer": "I, II, IV"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 components of blood in order of increasing presence by percentage: 1) Plasma 2) Basophil 3) Platelets 4) Erythrocytes",
+    "answer": "2, 3, 4, 1"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What plant hormone is responsible for direct immune responses against biotrophic pathogens in plants, and is activated by the removal of a methyl group?",
+    "answer": "Salicylic acid"
+  }
+]

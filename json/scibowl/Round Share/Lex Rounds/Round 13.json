@@ -1,0 +1,462 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If the plates of an isolated charged capacitor are pulled apart, then which of the following is true?",
+    "choices": {
+      "W": "the potential difference between the plates increases",
+      "X": "the potential difference between the plates decreases",
+      "Y": "the potential difference between the plates does not change",
+      "Z": "the potential difference between the plates first increases, then decreases"
+    },
+    "answer": "W) the potential difference between the plates increases"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Jinwoo observes a lightning bolt where 30 coulombs of charge move through a potential difference of $1 \\times 10^{8}$ volts, in $2.0 \\times 10^{-2}$ seconds. What is the energy, in joules, released by the lightning bolt in the process?",
+    "answer": "$3 \\times 10^{9}$ J"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Indicate all of the following three statements that are true of neutron stars. 1. Neutron stars counter gravitational forces with electron degeneracy pressure 2. Neutron stars are believed to have a solid surface 3. Electric fields are responsible for concentrating beams of electromagnetic radiation in pulsars",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "From earliest to latest, give the name of the cosmic epoch in which each of the following events occurred: 1. Universe expands by a factor of $10 \\times 26$ and strong interaction becomes distinct from electroweak 2. Formation of Population III stars 3. Origination of cosmic microwave background radiation and first neutral atoms form",
+    "answer": "1. Inflation 3. Recombination 2. Reionization"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Give the scientific name for the gram negative bacteria that is responsible for most peptic ulcers found within the human body.",
+    "answer": "Helicobacter Pylori"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or by number, identify all of the following three statements that are true about the small intestine: 1. The ileum is involved in the absorption of iron 2. The S cells of the small intestine are responsible for the secretion of the hormone secretin 3. Enzymes located on the brush border of the small intestine are involved in the final digestion of carbohydrates into monosaccharides",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Calculate the formal charge of nitrogen in the nitrate ion.",
+    "answer": "$+1$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Indicate all of the following statements that are true of polymers: 1. The Ziegler-Natta catalyst serves to reduce stereoregularity in polyisoprene 2. Amines would be an appropriate R group in silicone 3. Nylon 66 is formed via radical polymerization",
+    "answer": "None"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Expressing your answer as a fraction, what is the derivative of the function $\\athrm{f(x) = \\qrt{x}(3 + 4x)}$ ?",
+    "answer": "$(3 + 12x) / (2\\qrt{x})$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the second derivative of a function $\\athrm{f(x)}$ is 0 at a point on an interval [a,b], indicate all of the following four statements that could be true: I. f is concave down somewhere on the interval II. f is concave up somewhere on the interval III. f is increasing on the interval IV. f has an inflection point on the interval",
+    "answer": "I, II, III, IV"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Lawrence Berkeley National Laboratory have been imaging molecules vital for gene regulation. By name or by number, identify all of the following three statements that are true about gene regulation: 1. The enzyme Dicer helps cleave double stranded DNA into siRNA's and micro RNA's 2. CpG sites are acted on by methyltransferases during DNA methylation 3. Spliceosomes consist of various proteins and snRNPS, which are small nuclear ribonucleoproteins",
+    "answer": "All"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Lawrence Berkeley National Laboratory have found that specific microbial communities can help scientists figure out further information about the carbon and nitrogen cycles. What is the name for the differentiated cell that possesses a thick cell wall and helps carry out nitrogen fixation in certain algae and fungi?",
+    "answer": "Heterocysts"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate all of the following 3 statements that are true of relativistic momentum: I. it approaches infinity as the velocity of an object approaches c II. if relativistic momentum is used in Newton's second law, force is proportional to the Lorentz factor squared III. it is proportional to velocity",
+    "answer": "I only"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The orbit of a planet of a star of mass $9 \\times 10^{20} \\athrm{kg}$ has a semimajor axis of $5 \\times 10^{7} \\athrm{meters}$ , and an eccentricity of 0.4. What is the ratio of the planet's velocity at perihelion to its velocity at aphelion? Express your answer as a fraction in simplest terms.",
+    "answer": "$\\rac{7}{3}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The radius of a white dwarf, composed of degenerate electrons of uniform density, is proportional to which of the following?",
+    "choices": {
+      "W": "M to the 3rd power",
+      "X": "M",
+      "Y": "M to the 1/3 power",
+      "Z": "M to the -1/3 power"
+    },
+    "answer": "Z) M to the -1/3 power"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Indicate all of the following statements that are true of spectral lines. 1. The Stark effect refers to the splitting of spectral lines by a magnetic field. 2. The H alpha line is a dark-blue line in the Balmer series 3. In general, more massive stars have broader spectral lines",
+    "answer": "None"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The dura mater, arachnoid mater, and pia mater are all layers found within what membranous structure of the body that encloses the brain and spinal cord?",
+    "answer": "Meninges"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or by number, identify all of the following three cranial nerves that are involved in mastication: 1. Trigeminal Nerve 2. Facial Nerve 3. Hypoglossal Nerve",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Indicate all of the following three statements that are true of cycloalkane conformations. 1. Cyclobutane has less angular, but more torsional strain than cyclopropane 2. Twist boat is the highest energy conformation of cyclohexane 3. The gauche conformation of ethylene glycol is more stable than the anti conformation",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The specific rotation of (S)-ibuprofen is 54.5 degrees. If the observed rotation of a pure enantiomeric solution of this compound is 10.9 degrees. Assuming that there is more (R)-ibuprofen than (S)-ibuprofen in the solution, and a total of 2 moles, how many moles of (R)-ibuprofen are present in the solution?",
+    "answer": "1.2 moles"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate $\\nt x^{3} \\os (x^{4} + 2) dx$ .",
+    "answer": "$\\rac{1}{4} \\in (x^{4} + 2) + C$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the volume of the solid of revolution formed when $\\athrm{f}(\\athrm{x}) = \\athrm{e}^{\\athrm{x}}$ is rotated around the y-axis on the interval [2,5]? Express your answer in terms of e and pi.",
+    "answer": "$8\\i e^{5} - 2\\i e^{2}$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at the Argonne National Laboratory explored the possibility of combining antibodies with nanoparticles in order to target cancer cells. Which of the following statements about antibodies is correct?",
+    "choices": {
+      "W": "The constant region of antibody gives the antibody antigen binding specificity",
+      "X": "Opsonization is an important method of antibody mediated antigen disposal that promotes phagocytosis",
+      "Y": "Immunoglobulin M is considered to be a dimer",
+      "Z": "IgM is the most prevalent immunoglobulin during the start of a secondary immune response"
+    },
+    "answer": "X) Opsonization is an important method of antibody mediated antigen disposal"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at the Lawrence Berkeley National Laboratory have made discoveries that have solved mysteries about ways to increase the efficiency of solar panels. Which of the following statements about solar panels and solar technology is FALSE?",
+    "choices": {
+      "W": "Today's photovoltaic cells convert only about 18 to 24 percent of the radiant energy into electrical energy",
+      "X": "In a passive solar home, the whole house acts as a solar collector.",
+      "Y": "The largest solar thermal power plant in the world is the Ivanpah Solar Electric Generation Station",
+      "Z": "The largest parabolic trough power plant in the world is located in Texas"
+    },
+    "answer": "Z) The largest parabolic trough power plant in the world is located in Texas"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate all of the following 3 statements that are true of Compton Scattering: I. it is inelastic scattering II. the wavelength of the associated photon increases III. Thomson Scattering is the low energy limit of Compton Scattering",
+    "answer": "I, II, III"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A magnetic field exists between the plates of a parallel plate capacitor during which of the following periods?",
+    "choices": {
+      "W": "never",
+      "X": "only when the capacitor is starting to be charged",
+      "Y": "while the capacitor is charging",
+      "Z": "always"
+    },
+    "answer": "Y) while the capacitor is charging"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Indicate all of the following three statements that are TRUE of blackbody radiation. 1. The Rayleigh-Jeans law gives a good approximation of spectral flux at short wavelengths 2. Planck's law correctly resolved the ultraviolet catastrophe 3. Wien's law is best used when dealing with high frequency radiation",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Indicate all of the following statements that are true of atmospheric and terrestrial radiation. 1. Halving the wavelength will quadruple the effect of Rayleigh scattering. 2. The atmosphere is transparent only to optical wavelengths 3. Most incoming solar radiation is reflected by the atmosphere and clouds",
+    "answer": "None"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Cortisol is secreted from which of the following layers of the adrenal gland?",
+    "choices": {
+      "W": "Zona glomerulosa",
+      "X": "Zona fasciculata",
+      "Y": "Zona reticularis",
+      "Z": "Adrenal Medulla"
+    },
+    "answer": "X) Zona fasciculata"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Beta lipotropin and beta endorphins are derived from what prohormone?",
+    "answer": "ACTH"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What compound, the silicon-bearing equivalent of neopentane, is commonly used in the calibration of NMR spectroscopy?",
+    "answer": "Tetramethylsilane"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Indicate all of the following statements that are true of reactions involving alkenes: 1. Addition reactions are favored at low temperature 2. Wilkinson's catalyst is an example of a heterogeneous catalyst 3. In the syn dihydroxylation of alkenes, DMS is used as a co-oxidant to regenerate $\\athrm{OsO_4}$ . 4. E1 reactions are stereospecific, but not stereoselective",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The derivative of the inverse function of 9 $\\n (3^{x})$ can be expressed as $\\rac{a}{b + \\n(c)}$ . What is a+b+c?",
+    "choices": {
+      "W": "2.80 P",
+      "X": "1.40 P",
+      "Y": "0.70 P",
+      "Z": "0.35 P"
+    },
+    "answer": "13"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area under the curve of the function $x^{2}e^{x^{3}}$ on the interval [2, 3]? Express your answer in terms of e.",
+    "answer": "$\\rac{1}{3} e^{27} - \\rac{1}{3} e^{8}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Los Alamos National Laboratory are proposing SMART cables for the purpose of oceanographic monitoring and seismic sensors. By name or by number, identify all of the following three statements about earthquakes and plate tectonics that are TRUE: 1. Love and Rayleigh waves are examples of surface seismic waves 2. P waves cannot be detected in the shadow zone from the angular distances of 90 to 140 degrees 3. The Cascadia Subduction zone separates the Juan de Fuca and North American Plates",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne and Brookhaven National Laboratory have developed a new way to check for the effectiveness of nanowires. What is the name for the technique that the scientists used to observe the defects of the nanowires by shining an X-ray beam in order to observe scattering and provide 3D atomic resolution?",
+    "answer": "Bragg ptychography"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The power transported by a sinusoidal wave on an ideal string is P. If the tension is doubled, while the amplitude of the waves are halved, which of the following is closest to the power of this new wave in terms of P?",
+    "choices": {
+      "W": "2.80 P",
+      "X": "1.40 P",
+      "Y": "0.70 P",
+      "Z": "0.35 P"
+    },
+    "answer": "Z) 0.35 P"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Josh wants to yell something to James who is standing 20 meters away on a level ground. If Josh wants the intensity of sound that James hears to be 2 watts per meter squared, what is the required acoustic power of Josh's voice, assuming that the sound intensity spreads out uniformly in all directions? Express your answer in proper SI units and in terms of pi.",
+    "answer": "$1600\\i$ watts"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for small pieces of solidified lava drops that form when airborne molten particles fuse into volcanic glass, often during Strombolian eruptions?",
+    "answer": "Pele's Tears"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 volcanic eruptions in order of decreasing ratings on the volcanic explosivity index: I. Mount St. Helens, 1980 II. Tambora, 1815 III. Pinatubo, 1991 IV. Yellowstone Caldera, 600,000 years ago",
+    "answer": "IV, II, III, I"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or by number, identify all of the following statements about Vitamin D that are true: 1. Calcitriol is the active form of Vitamin D that aids in the uptake of calcium within the kidney and gut 2. Cholecalciferol and Ergocalciferol are Vitamins D2 and D3 respectively 3. Calcitonin inhibits the activity of osteoblasts within the bone in order to lower calcium levels in the plasma",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Spina Bifida is a neural tube defect that is most associated with the consumption of which of the following vitamins?",
+    "choices": {
+      "W": "Riboflavin",
+      "X": "Pantothenic Acid",
+      "Y": "Folic Acid",
+      "Z": "Cholecalciferol"
+    },
+    "answer": "Y) Folic Acid"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Give the molecular formula of the conjugate base of boric acid.",
+    "answer": "$\\athrm{B(OH)_4^- }$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Indicate all of the following statements that are true of batteries and electrochemical processes 1. Silver cells have a cathode composed of silver oxide 2. Lead-acid cells use a potassium hydroxide electrolyte 3. The chloralkali process uses molten rock salt to produce sodium hydroxide",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a right triangle with legs a and b, a is greater than b. Which of the following is equivalent to the cosine of the inverse tangent of a over b?",
+    "choices": {
+      "W": "$\\qrt{(\\athsf{a}^{2} + \\athsf{b}^{2})}$",
+      "X": "$\\qrt{(\\athsf{a}^{2} + \\athsf{b}^{2})} /\\athsf{a}$",
+      "Y": "$\\athsf{a} / \\qrt{(\\athsf{a}^{2} + \\athsf{b}^{2})}$",
+      "Z": "$\\athsf{b} / \\qrt{(\\athsf{a}^{2} + \\athsf{b}^{2})}$"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "John shoots 5 balls towards 2 baskets and makes every shot. How many ways could John have shot the ball if at least one ball landed in each basket?",
+    "answer": "30"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Indicate all of the following three statements that are true of telescopes: 1. Hyperbolic mirrors can be used to eliminate coma 2. Increasing the focal length of the eyepiece decreases overall magnification 3. Diffraction limiting becomes most prevalent at large apertures",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Looking through a telescope, the apparent diameter of a newly discovered asteroid is found to be 3 millimeters. If the angular diameter of the image as seen by the naked eye is 3.6 arcseconds, what is the focal length of the telescope?",
+    "answer": "3 meters"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What is the name for the chemical odorant added as a safety measure to methane in order to check for the presence of leaks?",
+    "answer": "Mercaptan"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What is the name of the combustion technology that uses limestone and air inside a boiler and cleans the coal as it burns?",
+    "answer": "Fluidized Bed Combustor"
+  }
+]

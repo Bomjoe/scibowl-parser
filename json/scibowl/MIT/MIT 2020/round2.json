@@ -1,0 +1,490 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following traits is an example of codominance?",
+    "choices": {
+      "W": "Blue feathers in chickens",
+      "X": "Eye colors in humans",
+      "Y": "Blood groups in humans",
+      "Z": "Skin colors in humans"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following four species is usually the limiting factor in plant growth?",
+    "choices": {
+      "W": "Sulfate",
+      "X": "Iodate",
+      "Y": "Chloride",
+      "Z": "Phosphate"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true of two systems A and B which are in thermal equilibrium with each other?",
+    "choices": {
+      "W": "The root mean square speed of molecules in each system is the same",
+      "X": "Energy transfer between the two systems is impossible",
+      "Y": "If system C is in thermal equilibrium with system A, then it is also in thermal equilibrium with system B",
+      "Z": "The temperatures of the two systems are different"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three properties that neutrinos have a nonzero value for: 1) Charge 2) Mass 3) Color",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "After 10 billion years, the sun will most likely occupy which region on a Hertzsprung-Russell diagram?",
+    "choices": {
+      "W": "Upper left",
+      "X": "Upper right",
+      "Y": "Lower left",
+      "Z": "Lower right"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Tyler has three eyepieces to use with his refracting telescope, which has a primary lens focal length of 90 centimeters. Eyepiece 1 has a focal length of 25 millimeters, eyepiece 2 has a focal length of 15 millimeters, and eyepiece 3 has a focal length of 12 millimeters. Which eyepiece should he use to have the maximum magnification, and what is the magnification of his telescope when he uses that eyepiece?",
+    "answer": "Eyepiece 3; 75"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What process can be described as the passing of gas particles through a small hole, which is characterized by Graham's law?",
+    "answer": "Effusion"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In a galvanic cell, the presence of a salt bridge filled with an electrolyte, such as aqueous potassium nitrate, is crucial. Over the course of the reaction, what happens to the potassium and nitrate ions in the salt bridge?",
+    "choices": {
+      "W": "The potassium ions move toward the cathode, while the nitrate ions move toward the anode.",
+      "X": "The potassium ions move toward the anode, while the nitrate ions move toward the cathode.",
+      "Y": "Both the potassium and nitrate ions move toward the cathode.",
+      "Z": "Both the potassium and nitrate ions move toward the anode."
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The MIT Energy Initiative is currently exploring efficient catalysts for oxygen reduction for the hydrogen fuel cell. How many electrons are transferred per oxygen molecule in the hydrogen fuel cell reaction?",
+    "answer": "4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The MIT Energy Initiative is also looking for ways to reduce carbon dioxide into combustible liquid hydrocarbons. Currently, there is an industrial process which converts a syngas (SIN-gas) mixture to hydrocarbons as fuel. What is this process called?",
+    "answer": "Fischer-Tropsch process"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to $2^{34}$ (read: two to the power of quantity three to the fourth power)?",
+    "choices": {
+      "W": "$10^{23}$",
+      "X": "$10^{24}$",
+      "Y": "$10^{25}$",
+      "Z": "$10^{26}$"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three numbers from least to greatest: 1) $2^{21}$ 2) $5^{9}$ 3) $3^{14}$",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Yaffe (yeah-fee) group at MIT are studying cell signaling, especially in the context of cancer. Cell signaling commonly involves phosphorylation. Which tool is commonly used to examine the phosphorylation state of a protein?",
+    "choices": {
+      "W": "Northern blot",
+      "X": "Western blot",
+      "Y": "Southern blot",
+      "Z": "MS2 tagging"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Voigt (voyt) group at MIT are developing novel gene pathways to produce new molecules in bacteria. What is the name for a group of genes in bacteria under the same promoter?",
+    "answer": "Operon"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many edges are in a pentagonal prism?",
+    "answer": "15"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sarah is playing a game where she rolls a 6-sided die up to two times. Her winnings are determined by the roll she stops on. After rolling once, she can choose to re-roll. Assuming Sarah chooses when to re-roll optimally, what are her expected winnings?",
+    "answer": "17/4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following processes is a direct transition of a substance from solid to gas?",
+    "choices": {
+      "W": "Vaporization",
+      "X": "Sublimation",
+      "Y": "Deposition",
+      "Z": "Fusion"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The Lyman (LIE-muhn) series consists of spectral lines produced by an excited hydrogen electron relaxing to the ground state. What class of electromagnetic radiation does the Lyman series fall into?",
+    "choices": {
+      "W": "Infrared",
+      "X": "Visible",
+      "Y": "Ultraviolet",
+      "Z": "X-ray"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which vitamins are fat soluble?",
+    "answer": "Vitamins A, D, E, and K"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A mother needs to get a paternity test done for her recently born baby, who is blood type A. The mother refuses to disclose her own blood type. By name or number, identify all of the following four blood types which the father could possibly have had. 1) B 2) O 3) AB 4) A",
+    "answer": "1, 2, 3, 4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A ball is tied to a string and swung around in a vertical circle. When observed in a rotating reference frame, which of the following forces acting on the ball does not have a reaction force pair according to Newton's third law?",
+    "choices": {
+      "W": "Gravitational force",
+      "X": "Tension",
+      "Y": "Centrifugal force",
+      "Z": "Air friction"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A small block of cold metal at 0 degrees Celsius that has a specific heat of 2 joules per gram per kelvin is placed inside a tub of water at 27 degrees Celsius. If the metal is only a quarter of the mass of the water, what will be the temperature in degrees Celsius of both bodies at thermal equilibrium, to two significant figures?",
+    "answer": "24 degrees Celsius"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate all of the following three plate boundaries that are correctly paired with fault types. 1) Convergent and normal 2) Transform and reverse 3) Divergent and thrust",
+    "answer": "None of them"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true of magmatic differentiation?",
+    "choices": {
+      "W": "Crystal settling changes magmatic compositions by removing dense iron-rich minerals",
+      "X": "Differentiation tends to make magmas more mafic",
+      "Y": "A magma chamber that has undergone partial differentiation will be more volatile to eruption",
+      "Z": "Magmatic differentiation leads to the creation of uniform batholiths"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify the fine-grained counterpart in the coarse-grained igneous rock diorite.",
+    "answer": "Andesite"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements best explains why the position of the North Celestial Pole travels in a circle with respect to the background stars, with a period of roughly 26,000 years?",
+    "choices": {
+      "W": "The revolution of the solar system about the center of the Milky Way causes different stars to be at the pole at different positions in the orbit",
+      "X": "The gravity of the Sun and Moon causes Earth's axis to wobble",
+      "Y": "The gravity of nearby stars causes the ecliptic to wobble, changing the orientation of the whole solar system",
+      "Z": "The shape of Earth's orbit varies slightly over time, causing the axis to point at different areas of the sky"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The price of a jacket is discounted by $20\\$, and a month later it is discounted again by $20\\$ from its price at that time. Which of the following is closest to the percent increase in price needed for the jacket to return to its original price?",
+    "choices": {
+      "W": "$32\\$",
+      "X": "$40\\$",
+      "Y": "$48\\$",
+      "Z": "$56\\$"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The correlation coefficient between two random variables $X$ and $Y$ is zero. By name or number, identify all of the following three statements which must be true: 1) The variance of $X + Y$ equals the variance of $X$ plus the variance of $Y$. 2) $X$ and $Y$ are independent. 3) If one performs least-squares linear regression to predict $Y$ from the value of $X$, one will always predict the same value of $Y$ regardless of $X$.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Kardar group at MIT are interested in studying the Casimir force, a weak attractive force between closely parallel plates. The Casimir force can be understood as a quantum interaction between the plates and what carriers of the electromagnetic force?",
+    "answer": "Photons"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers led by MIT's Haystack Observatory recently developed software to combine radio signals from the 40 telescopes in the Atacama Large Millimeter Observatory coherently, transforming the telescope array into the equivalent of a single large telescope. What is the term for this technique?",
+    "answer": "Interferometry"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following atoms has the smallest atomic radius?",
+    "choices": {
+      "W": "$\\athrm{Mg}^{2+}$",
+      "X": "$\\athrm{Na}^{+}$",
+      "Y": "$\\athrm{F}^{-}$",
+      "Z": "$\\athrm{O}^{2-}$"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the number of distinct bond lengths in the following two molecules. 1) $\\athrm{ClF}_{3}$ 2) $\\athrm{PCl}_{5}$",
+    "answer": "1) 2; 2) 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules normally CANNOT travel through a channel protein?",
+    "choices": {
+      "W": "Sodium",
+      "X": "Bicarbonate",
+      "Y": "Creatinine (cree-A-tih-neen)",
+      "Z": "Albumin"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three root zones in a typical eudicot (YOO-dih-cot) from least to most mature. 1) Zone of differentiation 2) Zone of cell division 3) Zone of elongation",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two cylindrical columns of water that have the same height but different cross-sectional areas are sitting on a table. Which of the following is true of the water pressure at the bottom of the containers and the normal force the table exerts on them?",
+    "choices": {
+      "W": "The columns have the same water pressure and have the same normal force",
+      "X": "The columns have the same water pressure and have different normal forces",
+      "Y": "The columns have different water pressures and have the same normal force",
+      "Z": "The columns have different water pressures and have different normal forces"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A circuit consists of an ideal DC voltage source of 10 volts, an inductor with an inductance of 2.0 millhenries, and a fuse which causes the circuit to become open when the current reaches 12 amperes, all in series. The current through the circuit is initially 0 amperes. How long, in seconds to two significant figures, will it take until the fuse opens the circuit? Give your answer in scientific notation.",
+    "answer": "$2.4 \\times 10^{-3}$ seconds"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules has the highest normal boiling point?",
+    "choices": {
+      "W": "HF",
+      "X": "$\\athrm{H}_{2}\\athrm{O}$",
+      "Y": "$\\athrm{NH}_{3}$",
+      "Z": "$\\athrm{CH}_{4}$"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions as a Lewis acid, but not a Bronsted Lowry acid?",
+    "choices": {
+      "W": "HF",
+      "X": "$\\athrm{CH}_{3}\\athrm{COOH}$",
+      "Y": "$\\athrm{BH}_{3}$",
+      "Z": "$\\athrm{NH}_{3}$"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle's position as a function of time is given by the equation $x(t) = 5t^{3} - 9t^{2} - 19t + 28$. What is its acceleration at time $t = 2$?",
+    "answer": "42"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In the operation of lasers, the phosphor can be excited to a metastable state. In order for the laser to function, a state in which more of the phosphor is in the excited state than ground state is required. What is this state known as?",
+    "answer": "Population inversion"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organs plays an important role in immune system maturation?",
+    "choices": {
+      "W": "Telencephalon (tell-en-SEH-fuh-lawn)",
+      "X": "Thyroid",
+      "Y": "Thymus",
+      "Z": "Thalamus"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a cross between two peas heterozygous in pea color and shape, where both traits follow Mendelian genetics and the yellow trait and the smooth trait are dominant, what fraction of the child peas will be both yellow and smooth?",
+    "answer": "9/16"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the probability of drawing two consecutive queens from a standard 52-card deck, without replacement?",
+    "answer": "1/221"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An ant is walking from one corner of a cube to the corner farthest from it. What is the shortest distance it must walk if the cube has volume 216?",
+    "answer": "$6\\qrt{5}$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three metamorphic rocks which exhibit foliation. 1) Slate 2) Schist 3) Quartzite",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following sedimentary rocks were NOT formed through chemical precipitation of sediment?",
+    "choices": {
+      "W": "Chalk",
+      "X": "Travertine (TRAA-vr-teen)",
+      "Y": "Gypsum (JIP-sum)",
+      "Z": "Rock salt"
+    },
+    "answer": "W"
+  }
+]

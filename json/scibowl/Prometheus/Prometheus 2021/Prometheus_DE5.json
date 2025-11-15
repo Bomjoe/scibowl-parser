@@ -1,0 +1,476 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What is the name for ingredients in a vaccine that can increase the body's immune response to a vaccination dose?",
+    "answer": "Adjuvants"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which class of adjuvant binds to immune receptors to increase their sensitivity to antigens?",
+    "answer": "TLR ligands"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many values of $\\theta$ in the interval $0 < \\theta < 2\\i$ satisfy the equation $1 - 2\\in \\theta + 5\\os 2\\theta = 0$?",
+    "choices": {
+      "W": "2",
+      "X": "3",
+      "Y": "4",
+      "Z": "5"
+    },
+    "answer": "Y) 4"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Peter nearly drops his 6 inch by 3 inch phone, causing it to spin wildly in his hands. If the phone's center never moves, what is the maximum possible area his phone could have swept out while it spun?",
+    "answer": "$\\rac{45\\i\\qrt{5}}{2}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An ionic inorganic chloride has the empirical formula $\\athrm{MCl}_2$. An atomic force microscopy study of this substance indicates the presence of $\\athrm{MCl}_4^{-}$ anions. Which of the following is the most likely identity of M?",
+    "choices": {
+      "W": "Beryllium",
+      "X": "Magnesium",
+      "Y": "Gallium",
+      "Z": "Tellerium"
+    },
+    "answer": "Y) Gallium"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following nuclei is not doubly magic?",
+    "choices": {
+      "W": "Helium-4",
+      "X": "Carbon-12",
+      "Y": "Oxygen-16",
+      "Z": "Nickel-56"
+    },
+    "answer": "X) Carbon-12"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following properties of nebulae is most conducive to the formation of forbidden spectral lines?",
+    "choices": {
+      "W": "Low temperature",
+      "X": "Low metallicity",
+      "Y": "Low ionization",
+      "Z": "Low density"
+    },
+    "answer": "Z) Low density"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following currents in the Indian Ocean Gyre is typically the strongest?",
+    "choices": {
+      "W": "South Indian",
+      "X": "South Equatorial",
+      "Y": "West Australia",
+      "Z": "Agulhas"
+    },
+    "answer": "Z) Agulhas"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three plant cells which are dead at functional maturity: 1) Companion cells; 2) Albuminous cells; 3) Subsidiary cells.",
+    "answer": "None"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following protein secondary structures could have a phi angle of -50 and a psi angle of -60?",
+    "choices": {
+      "W": "Right handed alpha helix",
+      "X": "Left handed alpha helix",
+      "Y": "Parallel beta sheet",
+      "Z": "Antiparallel beta sheet"
+    },
+    "answer": "W) Right handed alpha helix"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Inside a massive box, a zero-length spring is attached to a mass and the inner top surface of the box and set into oscillation. If the system is suddenly dropped off a cliff, what happens to the period of its oscillations?",
+    "choices": {
+      "W": "It increases",
+      "X": "It decreases",
+      "Y": "It remains constant",
+      "Z": "It initially increases, then decreases"
+    },
+    "answer": "X) It decreases"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A parallel plate capacitor is set up with a dielectric fully placed within the distance $d$ between the plates. If the free charge density at the surface of one of the plates is $\\igma$, and the permittivity of the dielectric is 2, what is the electric potential between the plates?",
+    "answer": "$\\rac{d\\igma}{2}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "A wise man once said that when shopping, you should bring more money than you think you will need, to counteract which bias whose effects include causing construction projects to frequently fall behind schedule and over budget?",
+    "answer": "Planning fallacy"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "One way of counteracting the planning fallacy is by ignoring the unique features of a project and simply looking at the features of past projects. What is this perspective called?",
+    "answer": "Outside view"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the term for the graph of a polar curve with equation $r = a + b\\os \\theta$?",
+    "answer": "Limaçon"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the inverse of the $2 \\times 2$ matrix with first row: [7, 3] and second row: [6, 4]?",
+    "answer": "First row: $[\\rac{2}{5}, - \\rac{3}{10} ]$ ; second row: $[-\\rac{3}{5}, \\rac{7}{10} ]$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four orbitals in di-boron that are predicted to have ungerade symmetry by molecular orbital theory: 1) Sigma 2s bonding; 2) Sigma 2s antibonding; 3) Pi 2p bonding; 4) Pi 2p antibonding.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry of the chromium carbonyl metal complex?",
+    "answer": "Octahedral"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What line on the HR diagram denotes the conditions where an evolving protostar gains a strong enough stellar wind to blow away the cloud of dust and gas surrounding it?",
+    "answer": "Birthline"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three elements that are typically present in the spectra of a type Ia supernova: 1) Hydrogen; 2) Helium; 3) Silicon.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following biological techniques could be used to study the kinetics of phospholipid diffusion in the plasma membrane?",
+    "choices": {
+      "W": "Forster resonance energy transfer",
+      "X": "Photoactivated localization microscopy",
+      "Y": "Stochastic optical reconstruction microscopy",
+      "Z": "Fluorescence recovery after photobleaching"
+    },
+    "answer": "Z) Fluorescence recovery after photobleaching"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Consider a pressure-volume curve of the cardiac cycle. The opening of the mitral valve is marked by point A, closing of the mitral valve by point B, opening of the aortic valve by point C, and closing of the aortic valve by point D. The T wave on an electrocardiogram corresponds to what interval on this pressure-volume curve?",
+    "choices": {
+      "W": "A through B",
+      "X": "B through C",
+      "Y": "C through D",
+      "Z": "D through A"
+    },
+    "answer": "Z) D through A"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What term describes the property of material that refracts light differently depending on its angle of incidence and polarization?",
+    "answer": "Birefringence"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "1 mole of an ideal gas expands to occupy $e^2$ times more volume than initially. If its temperature is constantly 28 Celsius, what is the change in internal energy of the gas in joules to the nearest hundred?",
+    "answer": "0"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Deepfake images are based off of what type of unsupervised learning algorithm?",
+    "answer": "Generative adversarial network"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "The discriminative network within a GAN typically uses which type of neural network, modeled off of the operation of a visual cortex?",
+    "answer": "Convolutional neural network"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of probability distributions is most helpful for predicting the chance of an event happening over a time interval given the event's average rate of occurrence?",
+    "choices": {
+      "W": "Bernoulli",
+      "X": "Poisson",
+      "Y": "Hypergeometric",
+      "Z": "Negative Binomial"
+    },
+    "answer": "X) Poisson"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two identically oriented regular hexagons with side length 6 overlap each other such that the center is located above or below the perimeter of the other. What is the total area of this shape?",
+    "answer": "$\\rac{171\\qrt{3}}{2}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the outcome of the reaction between bromobenzene and n-butylthium?",
+    "choices": {
+      "W": "Lithium will be installed on the benzene ring ortho to bromine",
+      "X": "Lithium will be installed on the benzene ring meta to bromine",
+      "Y": "Lithium will be installed on the benzene ring para to bromine",
+      "Z": "Lithium will substitute bromine on the ring"
+    },
+    "answer": "Z) Lithium will substitute bromine on the ring"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "To 1 significant figure and in joules, how much energy is required to raise the temperature of 35 grams of chlorine gas by 30 degrees Celsius under constant pressure?",
+    "answer": "400 J"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that typically increase in the Atlantic Ocean due to the presence of Saharan dust: 1) Primary productivity; 2) Albedo; 3) Rate of condensation.",
+    "answer": "All"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "During the Archean, more active convection meant that oceanic crust was not fully cooled before subducting and so should have been too buoyant to subduct. This increased buoyancy is thought to be counteracted by the increased prevalence of what dense rock in Archean oceanic crust?",
+    "answer": "Komatiite"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When a ligand binds to a receptor, there is an entropic barrier to binding due to the loss of degrees of freedom. In the simplest case where the ligand binds extremely tightly to the receptor, how many total degrees of freedom are lost from the ligand-receptor system?",
+    "answer": "6"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four signaling molecules that have the net effect of increasing sodium concentration in filtrate: 1) Atrial natriuretic peptide; 2) Aldosterone; 3) Adenosine; 4) Angiotensin II.",
+    "answer": "2 and 4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Take the Lagrangian to be a function of x, the time derivative of x, and time. You find that the Lagrangian of a particular open system is independent of x. This indicates the conservation of what quantity by this system?",
+    "answer": "Linear momentum"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Reynolds number, a dimensionless quantity that predicts fluid flow patterns, is related to the flow speed, a characteristic length, and kinematic viscosity measured in meters squared per second. Given that doubling the flow speed would double the Reynolds number, by what factor is Reynolds number multiplied by if the radius of the pipe was tripled, and the viscosity is doubled?",
+    "answer": "1.5"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What type of radiometer is used by reconnaissance satellites to track the presence and yield of nuclear tests?",
+    "answer": "Bhangmeter"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "A bhangmeter uses which effect of a nuclear explosion to verify that an increase in light is indeed from a nuclear explosion?",
+    "choices": {
+      "W": "Seismic activity from shockwaves",
+      "X": "Double flash",
+      "Y": "Gamma radiation emission",
+      "Z": "Mushroom cloud"
+    },
+    "answer": "X) Double flash"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the term used to describe two matrices if one can be obtained from the other by a sequence of row operations?",
+    "answer": "Row equivalent"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Calculate $(1 + i\\qrt{3})^{3}$.",
+    "answer": "- 8"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name given to liquid crystals prepared by dissolving amphipathic molecules in a solvent?",
+    "answer": "Lyotropic"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "According to the Bohr effect, an increase in the concentration of carbon dioxide will result in which of the following?",
+    "choices": {
+      "W": "Blood pH increases and hemoglobin releasing oxygen",
+      "X": "Blood pH increases and hemoglobin picking up oxygen",
+      "Y": "Blood pH decreases and hemoglobin releasing oxygen",
+      "Z": "Blood pH decreases and hemoglobin picking up oxygen"
+    },
+    "answer": "Y) Blood pH decreases and hemoglobin releasing oxygen"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the density wave theory describing how spiral galaxies maintain their arms?",
+    "choices": {
+      "W": "Stars follow independent paths that concentrate in arms",
+      "X": "An AGN pulls on central stars",
+      "Y": "Nearby galaxies pull stars in complex tidal interactions",
+      "Z": "Galaxies represent eddies in cosmic filaments"
+    },
+    "answer": "W) Stars follow independent paths that concentrate in arms"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A carbon star typically forms after what kind of stellar event, where convection brings core elements to the star's surface?",
+    "answer": "Dredge- up"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term is given to chromosomes that can undergo Robertsonian translocations because their centromere is positioned nearly at the end of the chromosome?",
+    "answer": "Acrocentric"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three biochemical pathways which transketolase participates in: 1) Calvin cycle; 2) Pentose phosphate pathway; 3) Cori cycle.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A ball is attached to a rope and twirled around a vertical rod with non-negligible diameter. Ignoring gravity and air resistance, which of the following is true about the ball's kinetic energy and angular momentum about the center of the rod?",
+    "choices": {
+      "W": "Kinetic energy is conserved but angular momentum is not",
+      "X": "Kinetic energy is not conserved but angular momentum is",
+      "Y": "Both are conserved",
+      "Z": "Neither is conserved"
+    },
+    "answer": "W) Kinetic energy is conserved but angular momentum is not"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of a momentum vs time graph: 1) Its second derivative is jerk; 2) When its derivative is 0, there is no acceleration; 3) Every local minimum is an unstable equilibrium.",
+    "answer": "2 only"
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Albert, with his incredibly deep desire to return to Boston, digs a perfectly straight tunnel through the Earth from Los Angeles to Boston. He then hops in the frictionless tunnel. Assuming the Earth is a uniform sphere, which of the following best describes his position versus time through the tunnel?",
+    "choices": {
+      "W": "Sinusoidal",
+      "X": "Parabolic",
+      "Y": "Sawtooth",
+      "Z": "Gaussian"
+    },
+    "answer": "$W)$ Sinusoidal"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the dependence of the strength of differential tidal forces between two distant bodies on the distance $d$ between them?",
+    "choices": {
+      "W": "Proportional to $d$",
+      "X": "Inversely proportional to $d$ squared",
+      "Y": "Inversely proportional to $d$ cubed",
+      "Z": "Inversely proportional to $d$ to the fourth"
+    },
+    "answer": "$Y)$ Inversely proportional to $d$ cubed"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the average oxidation state of the iron ions in the iron oxide magnetite, with formula $\\athrm{Fe}_{3}\\athrm{O}_{4}$?",
+    "choices": {
+      "W": "2",
+      "X": "7/3",
+      "Y": "8/3",
+      "Z": "3"
+    },
+    "answer": "$Y)$ $8/3$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that ammonia has a $K_{b}$ of $2 \\times 10^{-5}$, when equal volumes of a 0.4 molar ammonia solution and 0.4 molar HCl solution are reacted, to one significant figure, what is the pH of the resulting solution?",
+    "answer": "5"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases has the lowest concentration in the average parcel of dry air?",
+    "choices": {
+      "W": "Argon",
+      "X": "Krypton",
+      "Y": "Carbon monoxide",
+      "Z": "Carbon dioxide"
+    },
+    "answer": "$Y)$ Carbon monoxide"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Yash is initially using a partial cover over his telescope aperture, which only allows light through a circular hole with a radius of 2 centimeters. He then takes the cover off so that he is observing with the whole aperture, which is circular with a diameter of 12 centimeters. By what factor does the light gathering power of his telescope increase when he takes off the cover?",
+    "answer": "9"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the specially modified chlorophyll molecule in Photosystem II that is capable of oxidizing water?",
+    "answer": "$P680$ (accept: $P680+$)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four types of glycosidic linkages that may be found in starch. 1) 1-4 alpha 2) 1-4 beta 3) 1-6 alpha 4) 1-6 beta",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Littleton group at MIT are studying the synapses between neurons of Drosophila flies. Which of the following best describes how a chemical synapse operates?",
+    "choices": {
+      "W": "Neurotransmitter is released from the presynaptic dendrite and binds to the postsynaptic axon",
+      "X": "Calcium ions are released from the presynaptic dendrite and bind to the postsynaptic axon",
+      "Y": "Neurotransmitter is released from the presynaptic axon and binds to the postsynaptic dendrite",
+      "Z": "Calcium ions are released from the presynaptic axon and bind to the postsynaptic dendrite"
+    },
+    "answer": "$Y)$ Neurotransmitter is released from the presynaptic axon and binds to the postsynaptic dendrite"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Littleton group at MIT specifically study the effects of mutations on neurons in Drosophila. By name or number, identify all of the following three mutations that would cause a glutamatergic neuron to lose the ability to engage in long-term potentiation, but not excitatory transmission. 1) Loss-of-function mutation in AMPA receptor 2) Constitutive binding of $\\athrm{Mg^{2 + }}$ to NMDA receptor 3) Loss of function mutation in the glutamate release pathway",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Thomas has the option to buy green onions in bunches of 10 or 13. What is the maximum number of green onions he can NOT buy?",
+    "answer": "107"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following points is a critical point of the function $f(x, y) = x^{2} + y^{2} + 3x + 6y$?",
+    "choices": {
+      "W": "(1, 2)",
+      "X": "(-1, -2)",
+      "Y": "(3/2, 3)",
+      "Z": "(-3/2, -3)"
+    },
+    "answer": "$Z)$ $(-3/2, -3)$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following types of species is the female generally smaller than their male counterpart?",
+    "choices": {
+      "W": "Monogamous",
+      "X": "Polygynous",
+      "Y": "Polyandrous",
+      "Z": "Promiscuous"
+    },
+    "answer": "$Y)$ Polyandrous"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What specific part of the kidney releases the hormone renin?",
+    "answer": "Juxtaglomerular apparatus"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, arrange the following metamorphic rocks in order of increasing metamorphic grade. 1) Slate 2) Migmatite 3) Gneiss 4) Phyllite",
+    "answer": "1, 4, 3, 2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true of the Bowen's reaction series. 1) Minerals with higher crystallization temperatures tend to weather more easily 2) Plagioclase feldspar is the primary constituent of the continuous branch 3) Granite would be expected to have a larger proportion of minerals with high crystallization temperatures",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Fakhri group at MIT are studying applications of theoretical physics to biological processes. Recently, they have shown that topological defects in starfish oocyte membranes are similar to the dynamics of vortices in Bose-Einstein Condensates. Which of the following atoms can form a Bose-Einstein Condensate?",
+    "choices": {
+      "W": "Helium-4",
+      "X": "Neon-21",
+      "Y": "Sodium-22",
+      "Z": "Lithium-8"
+    },
+    "answer": "$W)$ Helium-4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the MIT-Harvard Center for Ultracold atoms are studying interactions between photons in a quantum nonlinear medium. They have shown that due to atomic interactions, photons in this medium acquire an effective mass. Which of the following correctly describes the result of this effective mass?",
+    "choices": {
+      "W": "Photons in the medium now give off Cherenkov radiation",
+      "X": "Photons in the medium no longer travel at the speed of light",
+      "Y": "Photons in the medium no longer obey the conservation of momentum",
+      "Z": "Photons in the medium behave identically to photons in a vacuum"
+    },
+    "answer": "$X)$ Photons in the medium no longer travel at the speed of light"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A train carries a certain number of passengers. At its first stop, $35\\$ of the passengers leave the train. At the second stop, 24 passengers get off the train. At the third and final stop, all remaining passengers get off the train. The number of passengers who left at the third stop happened to be equal to the number of passengers who left at the first stop. How many passengers were originally on the train?",
+    "answer": "80"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the range of the following function defined over all real numbers? $f(x) = (\\os (x) + 2) / (x^{2} + 2)$. Give your answer in interval notation.",
+    "answer": "$(0, 3/2]$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds is most reactive toward a unimolecular nucleophilic substitution reaction mechanism?",
+    "choices": {
+      "W": "Methyl iodide",
+      "X": "Ethyl iodide",
+      "Y": "Isopropyl iodide",
+      "Z": "Tert-butyl iodide"
+    },
+    "answer": "$Z)$ Tert-butyl iodide"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the formal charge on the nitrogen atom in the most stable Lewis structure of the thiocyanate ion?",
+    "answer": "$-1$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which rule of thermodynamics gives an approximation to the molar specific heat capacity of certain elemental solids and states that their specific heat capacities are inversely proportional to their molar masses?",
+    "answer": "Dulong-Petit"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify which of Maxwell's equations that would have to change if magnetic monopoles were discovered: 1) Gauss's law of electricity 2) Gauss's law of magnetism 3) Faraday's law 4) Ampere's law",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Sodium chloride, NaCl, crystallizes in a face-centered cubic lattice of chloride ions, with the sodium ions occupying the holes in between the chloride ions. How many $\\athrm{Cl}^{-}$ ions are in contact with any single $\\athrm{Na}^{+}$ ion?",
+    "answer": "6"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds has the longest wavelength absorbance maximum?",
+    "choices": {
+      "W": "1,2-pentadiene",
+      "X": "1,3-pentadiene",
+      "Y": "2,3-pentadiene",
+      "Z": "1,4-pentadiene"
+    },
+    "answer": "$X)$ 1,3-pentadiene"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the slope of a line with $y$-intercept of 3 that goes through the point (4, 1)?",
+    "answer": "$-1/2$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "You are told that a cubic function has an inflection point at the point (4, 8). How many more points on the graph of the function would you need to be given to completely determine the cubic?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "$Y)$ 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following animals would exhibit a pulmocutaneous circuit?",
+    "choices": {
+      "W": "Mammals",
+      "X": "Reptiles",
+      "Y": "Birds",
+      "Z": "Amphibians"
+    },
+    "answer": "$Z)$ Amphibians"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Given two parents that are heterozygous in 4 genes that follow a dominant-recessive inheritance pattern, what is the probability that the resulting child will be homozygous dominant for at least one trait?",
+    "answer": "175/256"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Johnson group at MIT are focusing on polymer chemistry, with applications in hydrogel chemistry and energy production. Many of the polymers produced by this group involve multiple types of monomers, chained together. What are these polymers with different monomers known as?",
+    "answer": "Copolymers"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Cao group at MIT have been trying to develop mathematical models to describe colloidal suspensions for several years. What term is used to describe the random motion of particles suspended in a medium?",
+    "answer": "Brownian motion"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following particles does NOT have a spin of 1?",
+    "choices": {
+      "W": "Gluon",
+      "X": "Z boson",
+      "Y": "Photon",
+      "Z": "Graviton"
+    },
+    "answer": "$Z)$ Graviton"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Tyler is performing an experiment in which he increases the temperature of an ideal gas from $-23$ degrees Celsius to 87 degrees Celsius. By what factor does the root-mean-square speed of the molecules in the gas change?",
+    "answer": "1.2 (accept: $6/5$)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three minerals from lowest to highest crystallization temperatures: 1) Olivine 2) Muscovite 3) Biotite",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term describes the twin nebulae that often surround a newborn star that glows as a result of gas from bipolar flows?",
+    "answer": "Herbig-Haro object"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What type of survivorship curve do most fish exhibit?",
+    "choices": {
+      "W": "Type I",
+      "X": "Type II",
+      "Y": "Type III",
+      "Z": "Type IV"
+    },
+    "answer": "$Y)$ Type III"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four methods that can transform a proto-oncogene into an oncogene. 1) Amplification of the proto-oncogene 2) Translocation of the proto-oncogene 3) Point mutation in the promoter of a proto-oncogene 4) Point mutation in the enhancer of a proto-oncogene",
+    "answer": "1, 2, 3, 4 (accept: all)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metals has the lowest density?",
+    "choices": {
+      "W": "Lithium",
+      "X": "Beryllium",
+      "Y": "Sodium",
+      "Z": "Magnesium"
+    },
+    "answer": "$W)$ Lithium"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "To one significant figure, how many grams of sodium hydroxide are required to titrate 12.6 grams of nitric acid?",
+    "answer": "8"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A rigid body is in static equilibrium with $1 / 5$ of its volume above the surface of the liquid in which it is submerged. Which of the following is equal to the ratio of the density of the liquid to that of the rigid body?",
+    "choices": {
+      "W": "1/5",
+      "X": "5",
+      "Y": "4/5",
+      "Z": "5/4"
+    },
+    "answer": "$Z)$ $5/4$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A large ball of mass 100 kilograms is dropped from rest in Earth's gravitational field. Air resistance on the ball is known to be proportional to the square of its speed, with a constant coefficient of 1.25 kilograms per meter. Calculate the terminal speed of the ball, to the nearest meter per second.",
+    "answer": "28"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the brightest star in the constellation Auriga?",
+    "answer": "Capella"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three types of tectonic activity that can be observed bordering the Juan de Fuca plate: 1) Divergent 2) Convergent 3) Transform",
+    "answer": "1, 2, 3 (accept: all)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A spherical ice cream scoop of radius $r$ is put in an ice cream cone of radius $r$. In terms of $r$, what is the smallest height the cone can be to make sure the ice cream, even if fully melted, does not overflow? You may assume the density of the ice cream is the same in solid and liquid states.",
+    "answer": "4r"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If a sphere of radius $r$ was dropped into a cone of radius $r$ and height $6r$, what is the percentage of the volume of the sphere that is in the cone?",
+    "choices": {
+      "W": "Between $30\\$ and $40\\$",
+      "X": "Between $40\\$ and $50\\$",
+      "Y": "Exactly $50\\$",
+      "Z": "Between $50\\$ and $60\\$"
+    },
+    "answer": "$X)$ Between $40\\$ and $50\\$"
+  }
+]

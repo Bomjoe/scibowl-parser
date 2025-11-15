@@ -1,0 +1,424 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Letting the acceleration due to gravity be 10 meters per second squared, given that a baseball pitcher can throw a ball at $40 \\athrm{m / s}$, what is the maximum distance, in meters, he can throw the ball before it touches the ground?",
+    "answer": "160"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Sean wants to maximize the range he can throw a baseball before it touches the ground. If there is a $4 \\athrm{m / s}$ wind blowing in the direction he wants to throw, and he can throw at $40 \\athrm{m / s}$, at which angle should he throw the baseball?",
+    "choices": {
+      "W": "Between 0 and 30 degrees",
+      "X": "Between 30 and 45 degrees",
+      "Y": "Between 45 and 60 degrees",
+      "Z": "Between 60 and 90 degrees"
+    },
+    "answer": "Y) BETWEEN 45 AND 60 DEGREES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "According to Descartes’ Rule of Signs, what is the minimum possible number of negative roots to the polynomial $4x^{4} - 5x^{3} + 6x^{2} + 4x + 1$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Akshar can water a plant in 15 seconds, while Olivia can water a plant in 20 seconds. How much time, in seconds, does it take for Akshar and Olivia to water 35 plants if they work perfectly in sync?",
+    "answer": "300"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Excluding water vapor, what is the second most abundant anthropogenic greenhouse gas in the atmosphere?",
+    "answer": "METHANE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is FALSE about occluded fronts?",
+    "choices": {
+      "W": "They usually form around high pressure areas",
+      "X": "They are formed during cyclogenesis",
+      "Y": "Warm fronts become occluded fronts at the triple point",
+      "Z": "They appear as both spikes AND semi-circles on a traditional weather map"
+    },
+    "answer": "W) THEY USUALLY FORM AROUND HIGH PRESSURE AREAS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are studying rotational dynamics. What equation is the rotational analogue of Newton’s second law?",
+    "answer": "TORQUE EQUALS MOMENT OF INERTIA TIMES ANGULAR ACCELERATION (ACCEPT: TAU EQUALS 1 TIMES ALPHA)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the University of Colorado are studying conservation of angular momentum in lasers. By name or number, identify all of the following four equations that are equivalent to conservation of angular momentum: 1) Tau equals 0; 2) J equals 0; 3) D tau d t equals 0; 4) D J d t equals 0.",
+    "answer": "1 AND 4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the process that creates ethylene?",
+    "answer": "YANG CYCLE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 3 actions that are possible of plastids: 1) Detecting gravity; 2) Storing bilirubin; 3) Causing Leigh syndrome.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Sulfur tetrachloride takes what shape?",
+    "answer": "SEESAW"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many isomers does PF2Cl3 have?",
+    "answer": "3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 3 quantities that are always nonnegative: 1) Gravitational potential energy; 2) Spring potential energy; 3) Kinetic energy.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A spring with spring constant $\\athrm{k} = 2$ has a block of mass $5\\athrm{kg}$ attached. If the spring is $0.25$ meters long at equilibrium, what is the maximum potential energy of the spring when compressed to the nearest hundredth?",
+    "answer": "0.06"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true regarding rational numbers?",
+    "choices": {
+      "W": "Multiplying non-integer rational numbers cannot be an integer",
+      "X": "There are countably infinite rational numbers",
+      "Y": "There exist distinct real numbers a and b with a finite rational numbers between a and b",
+      "Z": "Some rational numbers are not complex numbers"
+    },
+    "answer": "X) THERE ARE COUNTABLY INFINITE RATIONAL NUMBERS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Define the mediant of two positive fractions a/b and c/d as $(a + c) / (b + d)$. By name or number, identify all of the following 4 statements that are true about the mediant of two unequal positive fractions: 1) The mediant is strictly greater than the lesser fraction; 2) The mediant can be equal to the lesser fraction; 3) The mediant is strictly lesser than the greater fraction; 4) The mediant can be equal to the greater fraction, but may not be greater than the greater fraction.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Type 1A supernovae originate when white dwarves reach what limit?",
+    "answer": "CHANDRASEKHAR LIMIT"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A type 1A supernova at a distance D from the earth has an apparent magnitude of -10. What is the apparent magnitude of a type 1A supernova at a distance 100D from the earth?",
+    "answer": "0"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Livermore National Lab are studying the absorption and degradation of chemical warfare agents. What class of porous, aluminum-containing compounds are used for absorbing these agents?",
+    "answer": "ZEOLITES"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Livermore National Lab are studying the applications of zeolites. What oxidation state does aluminum take in the zeolite with formula Na2A12Si2O8?",
+    "answer": "+3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 3 vitamins that are commonly associated with causing anemia: 1) Pyridoxamine; 2) Riboflavin; 3) Thiamine.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "While the active form is more abundant in the human body, what is the full name of the non-active form of Vitamin E, which is more commonly found in US diets?",
+    "answer": "GAMMA- TOCOPHEROL"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the average oxygen-oxygen bond order in a molecule of ozone?",
+    "choices": {
+      "W": "1",
+      "X": "1.5",
+      "Y": "2",
+      "Z": "2.5"
+    },
+    "answer": "X) 1.5"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "CFCs, commonly found in old refrigerants, can damage the ozone layer by forming elemental chlorine that reacts with the ozone. What product, along with oxygen, is formed in this reaction?",
+    "answer": "CHLORINE MONOXIDE (ACCEPT: CIO)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A ramp makes a 30 degree angle with the horizontal. A block of mass $10 \\athrm{kg}$ sits unmoving on the ramp. What is the minimum coefficient of static friction between the block and the ramp?",
+    "choices": {
+      "W": "$\\qrt{2}$",
+      "X": "$\\qrt{2} /2$",
+      "Y": "$\\qrt{3}$",
+      "Z": "$\\qrt{3} /3$"
+    },
+    "answer": "Z) $\\qrt{3} /3$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 10 meter long ramp makes a 45 degree angle with the horizontal. A block of mass $10 \\athrm{kg}$ slides down the ramp. The coefficient of kinetic friction between the block and the ramp is $\\qrt{3} /6$. Assuming gravitational acceleration to be 10 meters per second squared, how long does it take for the block to reach the bottom of the ramp, in seconds?",
+    "answer": "$2\\qrt{2}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "$\\og (120)$ can be written as $\\athrm{a}^{*}\\og (2) + \\athrm{b}^{*}\\og (3) + \\athrm{c}^{*}\\og (5)$. If a, b, and c are positive integers, what is the value of $\\athrm{a} + \\athrm{b} + \\athrm{c}$?",
+    "answer": "5"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the quadratic $\\athrm{x}^{\\edge}2 + \\athrm{bx} + 9$ has 2 non-real solutions, how many integer values of b can there be?",
+    "answer": "11"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What kind of dunes are most likely to form in areas with variable wind directions?",
+    "answer": "STAR"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following four steps in the evolution of an angular unconformity in increasing chronological sequence: 1) Deposition; 2) Renewed deposition; 3) Deformation; 4) Erosion.",
+    "answer": "1, 3, 4, 2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the National Energy Technology Laboratory are creating models to simulate fluid dynamics. Making such models is tricky because of the complexity of what equations that govern fluid dynamics?",
+    "answer": "NAVIER-STOKES EQUATIONS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the National Energy Technology Laboratory are using fluid dynamics simulations to help design hydraulic systems. If a U-shaped hydraulic pipe with width 5 centimeters on one side and width 10 centimeters on the other side is subject to a force of 1000 Newtons on its wider side, what is the resultant force on its narrower side, in newtons?",
+    "answer": "250"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What kind of blotting deals with post-translational modifications of proteins?",
+    "answer": "EASTERN BLOTTING"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three amino acids in order of least to furthest traveled on a standard thin-layer chromatography paper: 1) Phenylalanine; 2) Alanine; 3) Tyrosine.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the denticity of EDTA?",
+    "answer": "SIX (ACCEPT: HEXADENTATE)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Pure iron (0) complexes with excess carbon monoxide. What is the coordination number of the formed complex?",
+    "choices": {
+      "W": "3",
+      "X": "4",
+      "Y": "5",
+      "Z": "6"
+    },
+    "answer": "Y) 5"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A car's position is defined by $\\athbf{x}(\\athbf{t}) = \\athbf{t}^{3} - 3\\athbf{t}^{2} + 8\\athbf{t} - 9$. How fast is the car accelerating at time $\\athbf{t} = 3$?",
+    "choices": {
+      "W": "12",
+      "X": "15",
+      "Y": "17",
+      "Z": "20"
+    },
+    "answer": "W) 12"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A car of mass $100 \\athrm{kg}$ is travelling at $35 \\athrm{m / s}$. If it hits a rock of mass $500 \\athrm{kg}$ and stops in $0.5$ seconds, what is the impulse delivered to the car, in Newton-seconds?",
+    "answer": "3500"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A bracelet has 2 blue beads and 8 red beads. How many ways are there to make the bracelet if reflections and rotations of the bracelet are indistinguishable?",
+    "answer": "5"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An ant wants to go from his colony at (0,0) to a sugar cube at (4,5). Given that the ant can only walk upwards and to the right, and 1 unit at a time, how many ways can he get to the sugar cube?",
+    "answer": "126"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the smallest constellation in the night sky?",
+    "answer": "CRUX (ACCEPT: THE SOUTHERN CROSS)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 3 constellations visible in the northern hemisphere during the month of July: 1) Aquila; 2) Cygnus; 3) Lyra.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What process generates unique antigen receptor genes in lymphocytes?",
+    "answer": "VDJ RECOMBINATION"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many paratopes does Immunoglobulin G have?",
+    "answer": "2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "At constant pressure, a system absorbs heat and does expansion work on its surroundings. Which of the following best describes the relationship between delta H and delta U for the system?",
+    "choices": {
+      "W": "Delta H is greater than delta U",
+      "X": "Delta H is less than delta U",
+      "Y": "Delta H is equal to delta U",
+      "Z": "The relationship cannot be determined from the information given"
+    },
+    "answer": "W) DELTA H IS GREATER THAN DELTA U"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Carbon dioxide has a constant volume molar heat capacity closest to which of the following, in Joules per Kelvin per mole?",
+    "choices": {
+      "W": "$3 / 2\\i$ (read: three-halves pi)",
+      "X": "$5 / 2\\i$ (read: five-halves pi)",
+      "Y": "$7 / 2\\i$ (read: seven-halves pi)",
+      "Z": "$9 / 2\\i$ (read: nine-halves pi)"
+    },
+    "answer": "Y) $7 / 2\\i$"
+  }
+]

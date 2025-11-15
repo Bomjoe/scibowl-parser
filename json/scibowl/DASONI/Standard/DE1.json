@@ -1,0 +1,437 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Progression through the cell cycle is regulated by the concentrations of what family of proteins?",
+    "answer": "CYCLINS"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What immune cell is characterized by its CD8 receptor?",
+    "choices": {
+      "W": "Helper T cell",
+      "X": "Cytotoxic T cell",
+      "Y": "Macrophage",
+      "Z": "Neutrophil"
+    },
+    "answer": "X) CYTOTOXIC T CELL"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The reaction of a Lewis acid with a Lewis base forms what type of bond?",
+    "answer": "COORDINATE COVALENT"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "If the enthalpy of formation of one mole of sulfur trioxide from sulfur and oxygen is negative 400 kilojoules and the enthalpy of formation of two moles of sulfur trioxide from oxygen and two moles of sulfur dioxide is negative 200 kilojoules, what is the enthalpy of formation, in kilojoules to one significant figure, of one mole of sulfur dioxide?",
+    "answer": "-300"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the oceanic layer, relatively close to the surface, where density increases quickly with depth?",
+    "answer": "PYCNOCLINE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the name for the darkest portion of a sunspot?",
+    "choices": {
+      "W": "Umbra",
+      "X": "Penumbra",
+      "Y": "Plage",
+      "Z": "Granule"
+    },
+    "answer": "W) UMBRA"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A Sophie-Germain prime is a prime number p such that $2p + 1$ is also prime. What is the smallest prime number that is not a Sophie-Germain prime?",
+    "answer": "7"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many points of intersection are there between the diagonals of a decagon?",
+    "answer": "210"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An object sits at rest on a ramp. When given a small push, it starts accelerating down the ramp. Which of the following must be true about the coefficients of static friction, $\\u_{\\athrm{S}}$ and kinetic friction, $\\u_{\\athrm{K}}$?",
+    "choices": {
+      "W": "$\\u_{\\athrm{K}}$ is greater than $\\u_{\\athrm{S}}$",
+      "X": "$\\u_{\\athrm{K}}$ is less than $\\u_{\\athrm{S}}$",
+      "Y": "$\\u_{\\athrm{K}}$ is equal to $\\u_{\\athrm{S}}$",
+      "Z": "It depends on the normal force"
+    },
+    "answer": "X) $\\u_{\\athrm{K}}$ IS LESS THAN $\\u_{\\athrm{S}}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "On the alien planet Florpum, they use a different measurement system than Earth. Their unit for mass is equivalent to 250 grams. Their unit for time is equivalent to one minute and 40 seconds. Finally, their unit for length is equivalent to 6 kilometers. Their unit of force is equivalent to how many newtons?",
+    "answer": "0.15 N"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A Team members are currently studying cenotes, dolines, and sinkholes created by the chemical weathering of limestone. In what kind of topography would you find these features?",
+    "answer": "KARST"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS B team members are currently studying the cytoskeleton. What term is given to the microfilament-mediated flow of cytoplasm within a cell?",
+    "answer": "CYTOPLASMIC STREAMING"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "RNA polymerase III is responsible for synthesizing transfer RNA. Which of the following types of bonds does it form?",
+    "choices": {
+      "W": "Phosphodiester",
+      "X": "Glycosidic",
+      "Y": "Peptide",
+      "Z": "Ether"
+    },
+    "answer": "W) PHOSPHODIESTER"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Phosphofructokinase is an enzyme involved in glycolysis. When ATP levels are high, ATP binds to a site on phosphofructokinase other than the active site, inhibiting it. What is the term for this type of enzymatic regulation?",
+    "answer": "ALLOSTERY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three acids in order of increasing strength of their conjugate bases: 1) Water 2) Sulfuric acid 3) Ammonium",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The Haber process is the gas-phase reaction between nitrogen and hydrogen to form ammonia. Using Le Chatelier's principle, identify all of the following four changes that would shift the reaction towards the products, given that the reaction is exothermic: 1) Adding catalyst 2) Increasing temperature 3) Increasing pressure 4) Adding nitrogen gas",
+    "answer": "3 AND 4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Ahana draws a HR diagram but accidentally flips the temperature axis. However, she plots the approximate locations of the various types of stars correctly, relative to the new axes. Where on this HR diagram would Ahana place a white dwarf?",
+    "choices": {
+      "W": "Bottom left",
+      "X": "Bottom right",
+      "Y": "Top left",
+      "Z": "Top right"
+    },
+    "answer": "X) BOTTOM RIGHT"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following four events from earliest to most recent: 1) Breakup of Pangea 2) End of the Devonian 3) The Younger Dryas 4) The KT Extinction",
+    "answer": "2, 1, 4, 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Nate has lost his seventy marbles; luckily, he owns several larlbes which he can trade away. Three larlbes may be traded for seven carbles, and four carbles may be exchanged for five narlbes. How many larlbes does Nate need to have to re-acquire his seventy narlbes?",
+    "answer": "24"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A right triangle's shorter leg has a length of 15, and the length of its longer leg differs from the length of the hypotenuse by 1. What is the perimeter of the triangle?",
+    "answer": "240"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Emmy replaces a battery in a circuit with two identical batteries in series. This new circuit has twice the resistance of the old circuit. By what factor is the power dissipated multiplied?",
+    "choices": {
+      "W": "1/2",
+      "X": "2",
+      "Y": "4",
+      "Z": "8"
+    },
+    "answer": "X) 2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Megan spins a cannonball tied to a string in a circle at constant speed. The cannonball weighs 5 kilograms, the string is 2 meters long, and it completes one revolution in 1 second. In Newtons, what is the difference in tension in the string when it is at the bottom of its arc versus the top?",
+    "answer": "98 N"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS B team members are studying fountain pens. Fountain pens transport water-based ink to the nib using feeds that have thin channels cut in it and do not depend on gravity to work. What physical effect do fountain pens likely use to transport ink?",
+    "answer": "CAPILLARY ACTION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS B team members are studying combinations of resistors. How many ways can two resistors with integer resistance, in ohms, be placed in parallel to form a structure with a net resistance of 4 ohms? Assume that the order of the resistors does not matter.",
+    "answer": "5"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Derek decides to study the mechanism of digestion by eating radiolabeled proteins. When the protein is digested into individual amino acids by carboxypeptidases and aminopeptidases, the amino acids will glow. Which part of Derek's digestive tract would glow the most?",
+    "choices": {
+      "W": "Mouth",
+      "X": "Stomach",
+      "Y": "Pancreas",
+      "Z": "Small intestine"
+    },
+    "answer": "Z) SMALL INTESTINE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In secondary growth, what multilayered tissue replaces the epidermis?",
+    "answer": "PERIDERM"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The mineral pyromorphite is a minor ore of lead with chemical formula $\\athrm{Pb}_{5}(\\athrm{PO}_{4})_{3}\\athrm{Cl}$. What is the oxidation state of lead in pyromorphite?",
+    "answer": "+2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the change in internal energy, in joules, when 5 moles of oxygen gas expands isothermally from a volume of 1 liter to a volume of 10 liters? Treat the gas constant as 8.314 joules per mole kelvin.",
+    "answer": "0"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of mass wasting is characterized by the sudden, downslope movement of unconsolidated sediment?",
+    "choices": {
+      "W": "Slide",
+      "X": "Slump",
+      "Y": "Creep",
+      "Z": "Avalanche"
+    },
+    "answer": "Z) AVALANCHE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Reno is located on the leeward side of the Sierra Nevada mountains. Which of the following cloud types could one see in Reno but not in Auburn, California, which is located on the windward side?",
+    "choices": {
+      "W": "Lenticular",
+      "X": "Noctilucent",
+      "Y": "Pyrocumulus",
+      "Z": "Cirrocumulus"
+    },
+    "answer": "W) LENTICULAR"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the product of the real solutions to the equation $x^{x^2 - 7x + 12} = 1$?",
+    "answer": "-12"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Ahana has a bag of 8 different patterned beanbags. For each beanbag, Ahana flips a fair coin, putting the beanbag in either a \heads\ pile or \tails\ pile accordingly. What is the probability that the two piles have the same number of beanbags?",
+    "answer": "35/128"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Light takes a path between two points that always minimizes the time taken. What is this fact known as?",
+    "answer": "FERMAT'S PRINCIPLE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A battery is short circuited using a straight piece of wire. In an ideal system, infinite current would pass through the short circuit. Which of the following best explains the most probable reason why this does not happen in reality?",
+    "choices": {
+      "W": "Eddy currents limit the overall current",
+      "X": "The battery does not reliably provide a constant voltage to the circuit",
+      "Y": "Electrons cannot be accelerated infinitely fast",
+      "Z": "There is resistance in the battery and wire which reduces current"
+    },
+    "answer": "Z) THERE IS RESISTANCE IN THE BATTERY AND WIRE WHICH REDUCES CURRENT"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS A team members are currently studying isomerism. For a carbon compound to have a chiral center, it must have at least one carbon atom with how many unique groups bonded to it?",
+    "answer": "4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS B team members are studying stellar luminosity classes. Order the following three stars in order of increasing luminosity: 1) Rigel 2) The Sun 3) Sirius B",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three terrestrial biomes in order of increasing net primary productivity per unit area: 1) Temperate deciduous forest 2) Temperate grassland 3) Tropical deciduous forest",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three animals that are chordates but not vertebrates: 1) Sea cucumber 2) Lamprey 3) Tunicate",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains the difference between the Lyman and Paschen series?",
+    "choices": {
+      "W": "The Lyman series has $\\athbf{n}_{\\athrm{i}} = 1$ while the Paschen series has $\\athbf{n}_{\\athrm{i}} = 2$",
+      "X": "The Paschen series has $\\athbf{n}_{\\athrm{i}} = 1$ while the Lyman series has $\\athbf{n}_{\\athrm{i}} = 2$",
+      "Y": "The Lyman series has $\\athbf{n}_{\\athrm{i}} = 1$ while the Paschen series has $\\athbf{n}_{\\athrm{i}} = 3$",
+      "Z": "The Paschen series has $\\athbf{n}_{\\athrm{i}} = 1$ while the Lyman series has $\\athbf{n}_{\\athrm{i}} = 3$"
+    },
+    "answer": "Y) THE LYMAN SERIES HAS $\\athbf{N}_{\\athrm{i}} = 1$ WHILE THE PASCHEN SERIES HAS $\\athbf{N}_{\\athrm{i}} = 3$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following four elements in order of increasing first ionization energy: 1) Oxygen 2) Nitrogen 3) Beryllium 4) Boron",
+    "answer": "4, 3, 1, 2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the physical and chemical changes that occur during the process of lithification?",
+    "answer": "DIAGENESIS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Davidson science bowl club has finally gotten around to going telescope-shopping. After several years of deliberation, they have determined that they should get a reflecting telescope. By name or number, identify all of the following telescope varieties the club would consider buying: 1) Galilean 2) Newtonian 3) Cassegrain",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If an apple a day keeps the doctor away, how many apples does it take to fend off a horde of 200 doctors from January 1st, 2000 to December 31st, 2003 inclusive?",
+    "answer": "292,200"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Audrey is preparing to give her sweetheart all the presents from the song \The Twelve Days of Christmas\. This means on the first day, she will give him 1 present, and the nth day she will give her beau all the presents the day before, plus n new ones. Her boyfriend is giving her n presents on the nth day. How many presents will the couple need in total?",
+    "answer": "442"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Name all the fundamental forces that a quark can interact with that an electron cannot.",
+    "answer": "STRONG FORCE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A fire hose has a cross-section of a rectangle with side lengths 11 and 6/7 centimeters. If the nozzle is in the shape of a circle with radius 1 centimeter, how much times faster will water flow out of the nozzle than in the rest of the fire hose, to one sig fig?",
+    "answer": "3"
+  }
+]

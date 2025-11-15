@@ -1,0 +1,637 @@
+Failure:
+[
+  {
+ "question_number":1,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "Low, layered gray clouds that produce light precipitation are called",
+ "choices": {
+ "W": "cumulus.",
+ "X": "stratus.",
+ "Y": "cirrus.",
+ "Z": "nimbus."
+ },
+ "answer": "X- STRATUS"
+ },
+ {
+ "question_number":1,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "The tropical rain forest habitat covers only about seven percent of the Earth's surface but contains what percent of Earth's species?",
+ "choices": {
+ "W": "50 to80",
+ "X": "25 to40",
+ "Y": "10 to25",
+ "Z": "7 to14"
+ },
+ "answer": "W-50 TO80"
+ },
+ {
+ "question_number":2,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "Several years ago in a wide area of the Pacific Ocean, extensive damage was done to coral reefs by the sudden appearance of",
+ "choices": {
+ "W": "stinging brittle stars.",
+ "X": "crown-of-thorns starfish.",
+ "Y": "oval hearturchins.",
+ "Z": "extra large tunicates."
+ },
+ "answer": "X- CROWN- OF- THORNS STARFISH"
+ },
+ {
+ "question_number":2,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "Potential anti-cancer and anti-viral drugs are produced from chemicals extracted from",
+ "choices": {
+ "W": "starfish and sea cucumbers.",
+ "X": "sea cucumbers and seaurchins.",
+ "Y": "seaurchins and feather stars.",
+ "Z": "feather stars and starfish."
+ },
+ "answer": "W- STARFISH AND SEACUCUMBERS"
+ },
+ {
+ "question_number":3,
+ "question_type": "tossup",
+ "category": "computer_science",
+ "answer_type": "multiple_choice",
+ "body": "Which computer pioneer was also a Rear Admiral of the U.S. Navy?",
+ "choices": {
+ "W": "Steve Jobs",
+ "X": "John Backus",
+ "Y": "John von Neumann",
+ "Z": "Grace Hopper"
+ },
+ "answer": "Z- GRACE HOPPER"
+ },
+ {
+ "question_number":3,
+ "question_type": "bonus",
+ "category": "computer_science",
+ "answer_type": "short_answer",
+ "body": "What standard procedure in Pascal opens a file for writing?",
+ "answer": "REWRITE"
+ },
+ {
+ "question_number":4,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "During simple harmonic motion, the magnitude of the acceleration",
+ "choices": {
+ "W": "is constant.",
+ "X": "always increases.",
+ "Y": "remains the same.",
+ "Z": "increases then decreases."
+ },
+ "answer": "Z- INCREASESTHEN DECREASES"
+ },
+ {
+ "question_number":4,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "To decrease the centripetal force on an object travelling in a circular path, you can",
+ "choices": {
+ "W": "increase the speed of the object.",
+ "X": "increase the mass of the object.",
+ "Y": "increase the radius of the circle.",
+ "Z": "decrease the radius of the circle."
+ },
+ "answer": "Y- INCREASE THE RADIUS OF THE CIRCLE"
+ },
+ {
+ "question_number":5,
+ "question_type": "tossup",
+ "category": "general_science",
+ "answer_type": "multiple_choice",
+ "body": "One metal dissolved in another is called",
+ "choices": {
+ "W": "an alloy.",
+ "X": "an assay.",
+ "Y": "a mineral.",
+ "Z": "a ceramic."
+ },
+ "answer": "W- AN ALLOY"
+ },
+ {
+ "question_number":5,
+ "question_type": "bonus",
+ "category": "general_science",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following trees is known to live longer than the Giant Sequoia?",
+ "choices": {
+ "W": "Grey Oak",
+ "X": "Japanese Chestnut",
+ "Y": "Bristlecone pine",
+ "Z": "Ponderosa pine"
+ },
+ "answer": "Y- BRISTLECONE PINE"
+ },
+ {
+ "question_number":6,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following terms refers to the number molecules or ions attached to a central metallic atom?",
+ "choices": {
+ "W": "coordination number",
+ "X": "connection number",
+ "Y": "bonding number",
+ "Z": "none of these"
+ },
+ "answer": "W- COORDINATION NUMBER"
+ },
+ {
+ "question_number":6,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "How many milligrams are in one metric carat?",
+ "answer": "200 MILLIGRAMS"
+ },
+ {
+ "question_number":7,
+ "question_type": "tossup",
+ "category": "astronomy",
+ "answer_type": "multiple_choice",
+ "body": "If you were on the equator, you would have to travel about1000 miles per hour to keep the Sun continuously overhead. About how fast would you have to travel on the Moon to keep the Sun overhead?",
+ "choices": {
+ "W": "1 mile per hour",
+ "X": "10 miles per hour",
+ "Y": "100 miles per hour",
+ "Z": "1000 miles per hour"
+ },
+ "answer": "X-10 MILES PER HOUR"
+ },
+ {
+ "question_number":7,
+ "question_type": "bonus",
+ "category": "astronomy",
+ "answer_type": "multiple_choice",
+ "body": "Pluto's distance from the Sun varies a lot. At its closest approach, it's about30 astronomical units (AU) from the Sun. About how far from the Sun is Pluto at its furthest distance?",
+ "choices": {
+ "W": "35 AU",
+ "X": "40 AU",
+ "Y": "50 AU",
+ "Z": "70 AU"
+ },
+ "answer": "Y-50 AU"
+ },
+ {
+ "question_number":8,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "If an arthropod has three distinct body parts, it is",
+ "choices": {
+ "W": "a crustacean.",
+ "X": "an insect.",
+ "Y": "a chelericate.",
+ "Z": "a millipede."
+ },
+ "answer": "X- AN INSECT"
+ },
+ {
+ "question_number":8,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "A uniramian with one pair of legs on each of its many segments and poison claws is a",
+ "choices": {
+ "W": "centipede.",
+ "X": "millipede.",
+ "Y": "winged insect.",
+ "Z": "wingless insect."
+ },
+ "answer": "W- CENTIPEDE"
+ },
+ {
+ "question_number":9,
+ "question_type": "tossup",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "A job foreman needs to choose TWO workers out of TEN employees. How many different combinations of workers are possible?",
+ "answer": "45"
+ },
+ {
+ "question_number":9,
+ "question_type": "bonus",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "A cube is to be painted. If no two adjacent faces are to be painted the same color, what is the smallest number of colors required?",
+ "answer": "3"
+ },
+ {
+ "question_number":10,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "The direction of an electric field is defined as the direction of the force on a",
+ "choices": {
+ "W": "positive test charge.",
+ "X": "negative test charge.",
+ "Y": "negatively charged sphere.",
+ "Z": "neutral hollow sphere."
+ },
+ "answer": "W- POSITIVE TEST CHARGE"
+ },
+ {
+ "question_number":10,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "As the working voltage of a capacitor increases, the capacitance of the capacitor usually",
+ "choices": {
+ "W": "decreases continuously.",
+ "X": "increases continuously.",
+ "Y": "remains the same.",
+ "Z": "decreases, then increases."
+ },
+ "answer": "Y- REMAINS THE SAME"
+ },
+ {
+ "question_number":11,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following contain sp2 hybridized carbon atoms?",
+ "choices": {
+ "W": "alkanes",
+ "X": "alkenes",
+ "Y": "alkynes",
+ "Z": "cycloalkanes"
+ },
+ "answer": "X- ALKENES"
+ },
+ {
+ "question_number":11,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following is NOT appropriate for a description of benzene?",
+ "choices": {
+ "W": "characteristic reactivity of an alkene",
+ "X": "volatile liquid",
+ "Y": "aromatic hydrocarbon",
+ "Z": "resonance hybridization"
+ },
+ "answer": "W- CHARACTERISTIC REACTIVITY OF AN ALKENE"
+ },
+ {
+ "question_number":12,
+ "question_type": "tossup",
+ "category": "computer_science",
+ "answer_type": "short_answer",
+ "body": "You are programming in BASIC on your PC. What statement do you use in your program if you want the program to stop so that you can assign a value to a variable.",
+ "answer": "INPUT (also accept GET or INKEY)"
+ },
+ {
+ "question_number":12,
+ "question_type": "bonus",
+ "category": "computer_science",
+ "answer_type": "multiple_choice",
+ "body": "During the nineteenth century, a mathematician designed a forerunner of the modern stored-program computer which he named an \analytical engine.\ Who was this mathematician?",
+ "choices": {
+ "W": "Anthony Taylor",
+ "X": "Lord Byron",
+ "Y": "Charles Babbage",
+ "Z": "Joseph Jacquard"
+ },
+ "answer": "Y- CHARLES BABBAGE"
+ },
+ {
+ "question_number":13,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "In a crayfish, the abdomen contains the",
+ "choices": {
+ "W": "sensory hairs.",
+ "X": "mandibles.",
+ "Y": "swimmers.",
+ "Z": "large claws."
+ },
+ "answer": "Y- SWIMMERETS"
+ },
+ {
+ "question_number":13,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "As the larvae of echinoderms become adults, their form changes from",
+ "choices": {
+ "W": "radial symmetry to bilateral symmetry.",
+ "X": "bilateral symmetry to radial symmetry.",
+ "Y": "non-symmetry to bilateral symmetry.",
+ "Z": "non-symmetry to radial symmetry."
+ },
+ "answer": "X- BILATERAL SYMMETRY TO RADIAL SYMMETRY"
+ },
+ {
+ "question_number":14,
+ "question_type": "tossup",
+ "category": "astronomy",
+ "answer_type": "short_answer",
+ "body": "Which planet has the most volcanoes?",
+ "answer": "VENUS"
+ },
+ {
+ "question_number":14,
+ "question_type": "bonus",
+ "category": "astronomy",
+ "answer_type": "multiple_choice",
+ "body": "When the Pioneer10 space mission came to an end in1997, about how far was the Pioneer10 space probe from Earth?",
+ "choices": {
+ "W": "62 million miles",
+ "X": "620 million miles",
+ "Y": "6.2 billion miles",
+ "Z": "62 billion miles"
+ },
+ "answer": "Y-6.2 BILLION MILES"
+ },
+ {
+ "question_number":15,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "Water flows through a horizontal pipe at a constant volumetric rate. At a location where the cross sectional area decreases, the velocity of the fluid",
+ "choices": {
+ "W": "increases.",
+ "X": "decreases.",
+ "Y": "stays the same.",
+ "Z": "stops."
+ },
+ "answer": "W- INCREASES"
+ },
+ {
+ "question_number":15,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "What is the maximum possible speed of impact, in meters per second, upon the surface of the earth for a faraway object initially at rest that falls to earth by virtue of only the earth's gravity?",
+ "choices": {
+ "W": "1.1",
+ "X": "5.5",
+ "Y": "11.2",
+ "Z": "18.7"
+ },
+ "answer": "Y-11.2"
+ },
+ {
+ "question_number":16,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following is NOT a means of preparing carbon dioxide?",
+ "choices": {
+ "W": "burning coke in the absence of air",
+ "X": "combustion of methane",
+ "Y": "heating certain normal carbonates",
+ "Z": "reaction of acids and carbonates"
+ },
+ "answer": "W- BURNING COKE IN THE ABSENCE OF AIR"
+ },
+ {
+ "question_number":16,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following are not lipids?",
+ "choices": {
+ "W": "fats and oils",
+ "X": "starches",
+ "Y": "steroids",
+ "Z": "waxes"
+ },
+ "answer": "X- STARCHES"
+ },
+ {
+ "question_number":17,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "To keep track of pressure, weather maps are drawn with lines connecting points of equal pressure. These lines are called",
+ "choices": {
+ "W": "isotherms.",
+ "X": "equibars.",
+ "Y": "fronts.",
+ "Z": "isobars."
+ },
+ "answer": "Z- ISOBARS"
+ },
+ {
+ "question_number":17,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "About how many years ago did water vapor begin to accumulate in the Earth's early atmosphere?",
+ "choices": {
+ "W": "4 million",
+ "X": "4 billion",
+ "Y": "40 million",
+ "Z": "40 billion"
+ },
+ "answer": "X-4 BILLION"
+ },
+ {
+ "question_number":18,
+ "question_type": "tossup",
+ "category": "general_science",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following is not a major pollutant from automobiles?",
+ "choices": {
+ "W": "carbon monoxide",
+ "X": "unburned hydrocarbons",
+ "Y": "nitrous oxide",
+ "Z": "sulfur dioxide"
+ },
+ "answer": "Z- SULFUR DIOXIDE"
+ },
+ {
+ "question_number":18,
+ "question_type": "bonus",
+ "category": "general_science",
+ "answer_type": "multiple_choice",
+ "body": "The major form of pollution from a nuclear reactor is",
+ "choices": {
+ "W": "radioactivity.",
+ "X": "particulate formation.",
+ "Y": "thermal pollution.",
+ "Z": "noise pollution."
+ },
+ "answer": "Y- THERMAL POLLUTION"
+ },
+ {
+ "question_number":19,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "In one nano-second, gamma rays will travel about what distance in air?",
+ "choices": {
+ "W": "1 inch",
+ "X": "1 foot",
+ "Y": "1 yard",
+ "Z": "1 rod"
+ },
+ "answer": "X-1FOOT"
+ },
+ {
+ "question_number":19,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "A ball is thrown vertically upward and returns to the ground6 seconds later. The height to which the ball rises is closest to",
+ "choices": {
+ "W": "29 meters.",
+ "X": "44 meters.",
+ "Y": "58 meters.",
+ "Z": "78 meters."
+ },
+ "answer": "X-44 METERS"
+ },
+ {
+ "question_number":20,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following is a metallic salt of a fatty acid?",
+ "choices": {
+ "W": "soap",
+ "X": "plastic",
+ "Y": "rubber",
+ "Z": "petroleum"
+ },
+ "answer": "W- SOAP"
+ },
+ {
+ "question_number":20,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following describes the orientation of bonds in an sp3 hybridized atom?",
+ "choices": {
+ "W": "tiragonal",
+ "X": "linear",
+ "Y": "tetrahedral",
+ "Z": "planar"
+ },
+ "answer": "Y- TETRAHEDRAL"
+ },
+ {
+ "question_number":21,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "The genioglossus, the hyoglossus, and the styloglossus are all muscles that control what body part?",
+ "answer": "THE TONGUE"
+ },
+ {
+ "question_number":21,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "Land snails and slugs breathe by means of specially adapted",
+ "choices": {
+ "W": "gills.",
+ "X": "lungs.",
+ "Y": "mantle cavities.",
+ "Z": "hearts."
+ },
+ "answer": "Y- MANTLE CAVITIES"
+ },
+ {
+ "question_number":22,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "Most of what we call background radiation comes from two sources. One is the naturally radioactive elements around us. What is the other source?",
+ "answer": "THE COSMOS (ACCEPT OUTER SPACE OR COSMIC RADIATION)"
+ },
+ {
+ "question_number":22,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "If materials become superconducting when cooled, any magnetic field will be expelled. This is called",
+ "choices": {
+ "W": "diamagnetism.",
+ "X": "repulsion.",
+ "Y": "the Landow Effect.",
+ "Z": "the Meissner effect."
+ },
+ "answer": "Z- THE MEISSNER EFFECT"
+ },
+ {
+ "question_number":23,
+ "question_type": "tossup",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "How many meters are there in a gigameter?",
+ "answer": "ONE BILLION OR10TO THE9TH POWER"
+ },
+ {
+ "question_number":23,
+ "question_type": "bonus",
+ "category": "math",
+ "answer_type": "multiple_choice",
+ "body": "Find the sum of the first20 terms:4,7,10,13, ...",
+ "choices": {
+ "W": "1300",
+ "X": "910",
+ "Y": "780",
+ "Z": "650"
+ },
+ "answer": "Z -650"
+ },
+ {
+ "question_number":24,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "The common name for Pellagra-preventive factor is",
+ "answer": "NIACIN (OR NIACINAMIDE OR NICOTINIC ACID)"
+ },
+ {
+ "question_number":24,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "The first arthropods appeared in the sea about",
+ "choices": {
+ "W": "25,000 years ago.",
+ "X": "100 million years ago.",
+ "Y": "600 million years ago.",
+ "Z": "1 billion years ago."
+ },
+ "answer": "Y-600 MILLION YEARS AGO"
+ },
+ {
+ "question_number":25,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "How many hydrogen atoms are there in the organic compound1,1,2,2-tetrabromoethane?",
+ "answer": "2"
+ },
+ {
+ "question_number":25,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following four elements has the largest atomic radius?",
+ "choices": {
+ "W": "strontium",
+ "X": "francium",
+ "Y": "caesium",
+ "Z": "bromine"
+ },
+ "answer": "X- FRANCIUM"
+ }
+]

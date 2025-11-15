@@ -1,0 +1,424 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the kidneys, sodium-glucose cotransporters are responsible for the reabsorption of glucose in filtrate. These channels are examples of what type of cotransporters where two molecules are moved in the same direction across a membrane?",
+    "answer": "SYMPORTERS"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of the kidneys: 1) As you move from the cortex to the medulla of the kidneys, the osmolality of the interstitial fluid decreases 2) No sodium is reabsorbed in the collecting duct 3) Reabsorption in the thin segment of the ascending limb of the loop of Henle is due to passive transport, while in the thick segment it is due to active transport",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Azeotropes are mixtures of liquids whose compositions cannot be altered by simple distillation. They form because the solutions deviate from what law?",
+    "answer": "RAOULT'S LAW"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Technetium-99 is a very important and widely used radioisotope. Technetium-99 is generated from the decay of what other radioactive isotope?",
+    "answer": "MOLYBDENUM-99"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three cloud types from highest to lowest: 1) Altocumulus 2) Nacreous 3) Noctilucent",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Taking the moist adiabatic lapse rate to be 6.5 degrees centigrade per kilometer and the dry adiabatic lapse rate as 10 degrees centigrade per kilometer, what is the condition of the atmosphere when the environmental lapse rate is 5 degrees centigrade per kilometer?",
+    "choices": {
+      "W": "Absolutely stable",
+      "X": "Conditionally stable",
+      "Y": "Conditionally unstable",
+      "Z": "Absolutely unstable"
+    },
+    "answer": "W) ABSOLUTELY STABLE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In base 8, how many single digit numbers have divisibility rules similar to that of 3 and 9 in base 10 (ie, the number is divisible by that factor if and only if the digit sum of the number is divisible by the factor)?",
+    "answer": "1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of a pentagon with coordinates, clockwise starting at the origin, of (0,0), (2,2), (4,3), (4,1), (1,0)?",
+    "answer": "5.5"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A giant lopsided seesaw is split into 6 and 4 meter sections by the fulcrum. A 3kg jackfruit is placed at the end of the short side, while a 1.5 kg apple is placed at the end of the long side. A pomegranate is placed halfway between the jackfruit and the fulcrum. If the seesaw is now balanced, what is the mass of the pomegranate, in kilograms?",
+    "answer": "1"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An irregularly shaped piece of moss with a mass of 3 kilograms is centrifuged in a machine that applies constant torque. Initially, it is centrifuged about its center of mass and found to have a moment of inertia of 2 kilogram meters squared. As a fraction, what factor is the angular acceleration multiplied by if it is instead spun at an axis parallel to the original but offset by 20 centimeters?",
+    "answer": "50/53"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A Team members are studying dwarf planets and other Kuiper Belt objects. By name or number, identify all of the following three statements that are true regarding these objects: 1) Haumea's moons and fast rotation rate are due to a past collision 2) Charon is Pluto's only moon 3) Eris is the second-most massive dwarf planet",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS B team members are studying scientists whose name is similar to their school's. The Davisson Germer experiment confirmed what quantum mechanical behavior of electrons?",
+    "answer": "WAVE PARTICLE DUALITY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three cell types that would display a MHC class II molecule on their surface: 1) B cell 2) Macrophage 3) Dendritic cell",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Attachment of acetyl groups to lysine residues on histones is generally associated with what form of chromatin?",
+    "answer": "EUCHROMATIN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "After a complex synthesis, Dallin manages to synthesize a compound with 7 stereocenters. What is the maximum number of stereoisomers this compound could have?",
+    "answer": "128"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "During another synthesis, Dallin synthesizes a compound with 2 stereocenters, but notices that it doesn't rotate plane-polarized light. Because he's confident that he did not synthesize a racemic mixture, he suspects the compound is an example of what type of molecule that possesses multiple stereocenters but is achiral?",
+    "answer": "MESO"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the type of desert basin that once contained a lake or pond before all the water evaporated?",
+    "answer": "PLAYA"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following values is closest to the minimum mass a star must have to end its life with a type II supernova?",
+    "choices": {
+      "W": "4 solar masses",
+      "X": "6 solar masses",
+      "Y": "8 solar masses",
+      "Z": "10 solar masses"
+    },
+    "answer": "Y) 8 SOLAR MASSES"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The roots of a cubic with variable x and leading coefficient 1 are 2, 3, and -1. What is the cubic?",
+    "answer": "$x^3 - 4x^2 + x + 6$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Luke and CJ take turns rolling a die, with CJ going first. If Luke rolls an even number, he wins. If CJ rolls a multiple of 3, he wins. What is the probability that Luke wins?",
+    "answer": "1/2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following could be a unit of resistivity?",
+    "choices": {
+      "W": "milliOhms",
+      "X": "Ohm lightyears",
+      "Y": "Ohms per square foot",
+      "Z": "Siemen meters"
+    },
+    "answer": "X) OHM LIGHTYEARS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A circular loop of wire with radius 2 meters is pulled out of a 7 tesla perpendicular magnetic field at 1 meter per second. What is the average emf, in volts and in terms of pi, in the loop while it is leaving the field?",
+    "answer": "7 * PI"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A team members are studying the endocrine system. What class of hormones is derived from the amino acid tyrosine, examples of which include epinephrine and dopamine?",
+    "answer": "CATECHOLAMINES"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS B team members are currently studying magic numbers. Identify all of the following three isotopes whose stability is explained by the principle of magic numbers: 1) Pb-206 2) Sn-132 3) Ir-167",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three vascular tissue cell types that are alive at functional maturity: 1) Sieve tube elements 2) Vessel elements 3) Tracheids",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three traits that are present in both charophytes and embryophytes: 1) Alternation of generations 2) Motile sperm with sporopollenin 3) Multicellular, dependent embryos",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following orbital transitions is commonly responsible for the color of metal complexes?",
+    "choices": {
+      "W": "s-p",
+      "X": "p-p",
+      "Y": "d-d",
+      "Z": "p-d"
+    },
+    "answer": "Y) D-D"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A conductivity meter detects 0.02 siemens over $10\\athrm{cm}$. If the solution contains only table salt, how many milligrams of $\\athrm{NaCl}$ are present in every kg of this solution, to two sig figs?",
+    "answer": "13"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The continuous branch of the Goldich Stability Series is a continuum between two types of feldspar. What two elements are the cations in the two end members of this branch?",
+    "answer": "CALCIUM AND SODIUM"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Active galactic nuclei are often classified based off of how their relativistic jets are oriented relative to an observer. Which of the following types of active galactic nuclei has jets pointed towards an observer?",
+    "choices": {
+      "W": "Quasar",
+      "X": "Type 1 Seyfert galaxy",
+      "Y": "Type 2 Seyfert galaxy",
+      "Z": "Blazar"
+    },
+    "answer": "Z) BLAZAR"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A room with 60 students has 5 in grade 1, 20 in grade 2, 15 in grade 3, 10 in grade 4, and 10 in grade 5. What is the interquartile range of their grades?",
+    "answer": "2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a new futuristic ice cream vending machine, you input how many scoops of ice cream you want, and then the machine serves you that many scoops. The machine is bugging out one day, and you are offered free ice cream - if it survives. If you input n scoops, the ice cream has a $(0.7)^n$ chance of making the drop. How many scoops should you input for the best expected amount of ice cream?",
+    "answer": "3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A light beam enters a mystery liquid from air at 90 degrees to the vertical. If the index of refraction of the liquid is $\\athrm{sqrt}(3)$ times that of air, by how many degrees is it refracted?",
+    "answer": "0"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Emmy shouts at Akshansh to tell him to finish his question writing. In her first shout she puts out 2 joules of sound energy over 10 seconds. In her second shout she puts out 70 joules of sound energy over 14 seconds. How much farther is the maximum distance that Akshansh can hear her second shout compared to her first shout?",
+    "answer": "5"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson MS B Team members are studying if water is wet. They attempt to settle this debate by surveying the other students at the school. Out of 90 students, 42 agree with the statement. How large is the $90\\$ confidence interval for what portion of students agree with the statement?",
+    "choices": {
+      "W": "0.10",
+      "X": "0.17",
+      "Y": "0.35",
+      "Z": "0.47"
+    },
+    "answer": "X) 0.17"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Davidson HS A Team members are studying the effects of attempts to preserve beaches. Which of the following best describes the main concern regarding the construction of groins, breakwaters, and other, similar, structures?",
+    "choices": {
+      "W": "High cost",
+      "X": "Increased erosion downstream due to cutoff of longshore drift",
+      "Y": "Buildup of excess sediment on the upstream side of the structure",
+      "Z": "Increased risk of rip currents"
+    },
+    "answer": "X) INCREASED EROSION DOWNSTREAM DUE TO CUTOFF OF LONGSHORE DRIFT"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Sympatric populations of two species tend to differ more than in allopatric populations due to competition. What is this effect known as?",
+    "answer": "CHARACTER DISPLACEMENT"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Akshansh is studying the effects of a newly discovered hormone. When he exposes cells in culture to the hormone, he finds that the intracellular calcium concentration rises. He also notices the cells show increased activation of phospholipase C. What second messenger most likely caused the calcium release?",
+    "answer": "INOSITOL TRIPHOSPHATE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Wheatstone bridges can be used to most directly measure which of the following properties of a solution?",
+    "choices": {
+      "W": "Reversal potential",
+      "X": "Total dissolved solids",
+      "Y": "Voltage potential",
+      "Z": "Conductivity"
+    },
+    "answer": "Z) CONDUCTIVITY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Chromate and dichromate establish an equilibrium that can be exploited for redox titrations. Identify all of the following three statements that are true about this equilibrium: 1) Decreasing pH shifts the equilibrium towards soluble chromate 2) Addition of barium nitrate shifts the equilibrium towards soluble chromate 3) In dichromate, chromate is in the $+7$ oxidation state",
+    "answer": "NONE OF THEM"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three Lagrange points that are stable and home to Trojan asteroids: 1) L1 2) L3 3) L5",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of volcanic eruptions ranks a 3 to 4 out of 8 on the volcanic explosivity index and is characterized by pyroclastic flows?",
+    "choices": {
+      "W": "Strombolian",
+      "X": "Peleean",
+      "Y": "Hawaiian",
+      "Z": "Plinian"
+    },
+    "answer": "X) PELEEAN"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is (4 to the power of log base 2 of 27) to the power of log base 9 of 7?",
+    "answer": "343"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many Pythagorean triples have a shorter leg of 40?",
+    "answer": "5"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The liquid in a bubble chamber is in what metastable state?",
+    "answer": "SUPERHEATED"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How much energy, in joules and to two sig figs, does a photon with a wavelength equal to the distance light travels in 2 seconds have?",
+    "answer": "$3.3 \\times 10^{-34}$"
+  }
+]

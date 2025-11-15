@@ -1,0 +1,431 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Type II - P and type II - L supernova are distinguished by differences in which of the following?",
+    "choices": {
+      "W": "Hydrogen Lines",
+      "X": "Light Curve",
+      "Y": "Helium Lines",
+      "Z": "Initial Mass"
+    },
+    "answer": "X) Light Curve"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the radius of a photon sphere of a Schwarzschild Black hole with a Schwarzschild radius of $16 \\athrm{km}$?",
+    "answer": "$24 \\athrm{km}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "mathematics",
+    "answer_type": "short_answer",
+    "body": "How many digits does the ternary representation of 245 base 10 have?",
+    "answer": "6"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "mathematics",
+    "answer_type": "short_answer",
+    "body": "Divide 420 base 5 by 10 base 5. Express your answer as a number in base 8.",
+    "answer": "26"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What junction is created by P doping on one side and N doping on the other?",
+    "answer": "PN Junction"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name for the effect shown in which a superconductor will expel a magnetic field?",
+    "answer": "Meissner-Ochsenfeld effect (ACCEPT: Meissner Effect)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the van't hoff factor of the dimerization of benzoic acid in benzene solution?",
+    "answer": "$\\rac{1}{2}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In the fischer esterification reaction, what role does the hydrogen ion play?",
+    "choices": {
+      "W": "Catalyst",
+      "X": "Intermediate",
+      "Y": "Reactant",
+      "Z": "Product"
+    },
+    "answer": "W) Catalyst"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the disease in which the brain lacks dopamine?",
+    "answer": "Parkinson's (ACCEPT: MY DEPRESSION)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the most common neurotransmitter found in the brain?",
+    "answer": "Glutamate"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name all of the following minerals which do NOT have a streak, given that a ceramic plate has a hardness of 6.9 on Moh's hardness scale: 1) Ruby 2) Aquamarine 3) Apatite",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name all of the following 3 which can be considered to be greasy: 1) Talc 2) Gypsum 3) Opal",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What syndrome is characterized by periods of euphoria and periods of heavy depression?",
+    "answer": "Bipolar Disease"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the drug originally used to treat morning sickness in women but could be fatal if the chirality of the mixture was not right?",
+    "answer": "Thalidomide"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "mathematics",
+    "answer_type": "short_answer",
+    "body": "A certain bag contains 3 red balls and 2 blue balls. Another bag contains 7 blue balls and 4 red balls. If 3 balls are picked out of each bag, what is the probability that no red balls are chosen?",
+    "answer": "$0\\$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "mathematics",
+    "answer_type": "short_answer",
+    "body": "Find the inverse of the 3 by 3 matrix with top row 3, 2, 1, middle row 4, 2, 3 and bottom row 1, 2, 0",
+    "answer": "top row 1, - 1/3, - 2/3, middle row - 1/2, 1/6, 1/6, and bottom row - 1, 2/3, 1/3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which of the following",
+    "answer": ""
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If winston churchill likes to make speeches at 1000000 KHZ, and his microphone dies, which of the following frequencies should he talk at to make money",
+    "answer": ""
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A sample of propane is burned inside a sealed elastic box with an oxygenated atmosphere. Which of the following 3 changes will cause the production of more reactants? 1. Doubling the volume 2. Increasing the temperature 3. Adding more propane",
+    "answer": "None"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following 4 cesium halides has the crystal structure with the lowest coordination number?",
+    "choices": {
+      "W": "CeF",
+      "X": "CeCl",
+      "Y": "CeBr",
+      "Z": "CeI"
+    },
+    "answer": "W) CeF"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "11 people made DOE science bowl at a Oak Ridge High School. They had 3 Daniels, and are indistinguishable from one another, but all of the rest are distinguishable. How many ways are there to choose an A and B team if order does not matter and no more than 1 Daniel can be on each team? Assume that each team has 5 people.",
+    "answer": "70 ways"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Give the inverse of the 2x2 matrix with the top row being -4, 3 and the bottom row being 13, 3.",
+    "answer": "The 2x2 matrix with top row -1/17, 1/17 and bottom row of 13/51 and 4/51"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for a fast moving band of thunderstorms which most commonly forms in the midwest, and often forms tornadoes?",
+    "answer": "Derecho"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Give the associated type of tide with each of the following 3 locations: 1) Boston, Massachusetts 2) Galveston, Texas 3) Los Angeles, California",
+    "choices": {
+      "W": "Semidiurnal",
+      "X": "Diurnal",
+      "Y": "Mixed"
+    },
+    "answer": "1) Semidiurnal, 2) Diurnal, 3) Mixed"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Daniel blares loud music. Given that the human pain threshold is 130 decibels, how many times as loud must he play his 50 decibel music to hurt Gideon’s ears?",
+    "answer": "256"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Daniel rides around town, blaring a constant note with a frequency of 432 Hz. He (illegally) drives towards Gideon, who is standing still, at 30 m/s. Given that the speed of sound is $300\\athrm{m / s}$, what is the frequency which Gideon perceives, rounded to the nearest integer?",
+    "answer": "480 Hz"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What scattering effect affects colloids with light (GT)?",
+    "answer": "Tyndall effect"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A gas phase carbon atom with atomic mass 12 amu at its average speed at a temperature T elastically collides rightwards with a gas phase oxygen atom of mass 16 amu moving towards it, also at its average speed. In terms of the gas constant R and the temperature T, what is the speed of the center of mass of the system after the collision?",
+    "answer": "$(3\\qrt{RT/12}+4\\qrt{RT/16})/7$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the molecule that mediates the binding of oxygen to hemoglobin?",
+    "answer": "BPG (Accept: Biphosphoglyerate)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the kinase that is ultimately activated with the production of DAG and IP3 from phosphatidylinositol?",
+    "answer": "Protein Kinase C"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Parent materials which are transported by wind and then deposited are best known as what?",
+    "answer": "Eolian"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name all of the following pairs of parent material transportation methods and names which are correct. 1) Gravity - Colluvial 2) Through Lakes - Lacustrine 3) By ice - glacial 4) Through Oceans - Alluvial",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the common name for the phenomena of which describes lack of coloration?",
+    "answer": "Albino"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the most common protein within blood plasma?",
+    "answer": "Albumin"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A battery is created from the 2 half cells $\\athrm{Fe}^{3 + } / \\athrm{Fe}^{2 + }$ and $\\athrm{Ag / Ag^{+}}$, with a standard cell potential of 1.57 V. When the hydrogen ion concentration is increased 10 fold, what is the new cell potential of the battery, assuming all other conditions remain constant?",
+    "answer": "1.57 V"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What type of MO orbital is formed between two d orbitals?",
+    "answer": "Delta"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "mathematics",
+    "answer_type": "short_answer",
+    "body": "What is $\\in^2(15) + \\os^2(15)$?",
+    "answer": "1"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "mathematics",
+    "answer_type": "short_answer",
+    "body": "What is the name of the theorem that states that every number can be expressed as a sum of 2 fibonacci numbers?",
+    "answer": "Zeckendorf's Theorem"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "According to Zaitsev's rule, the more substituted form of what type of functional group is more favorable as the product of an elimination reaction?",
+    "answer": "Alkene"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "List the following 4 oxides as acidic, basic, or amphoteric: 1. Sodium Ethoxide 2. Carbon Dioxide 3. Aluminum Oxide 4. Magnesium Oxide",
+    "answer": "1) Basic, 2) Acidic, 3) Amphoteric, 4) Basic"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "mathematics",
+    "answer_type": "short_answer",
+    "body": "Evaluate $\\rac{2 + 3i}{3 + 2i}$",
+    "answer": "$ \\rac{12}{13} + \\rac{5}{13}i $"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "mathematics",
+    "answer_type": "short_answer",
+    "body": "Evaluate $\\rac{d}{dx}\\nt_{f(x)}^{g(x)}h(t)dt$",
+    "answer": "$\\athrm{h}(\\athrm{g}(\\athrm{x}))\\athrm{g}^{\\rime}(\\athrm{x}) - \\athrm{h}(\\athrm{f}(\\athrm{x}))\\athrm{f}^{\\rime}(\\athrm{x})$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the velocity of the center of mass after a $50\\athrm{kg}$ object initially at rest explodes into 4 equal sized pieces each of which have no angular momentum around the axis?",
+    "answer": "0"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the cross product of the linear momentum and the position vector?",
+    "answer": "Torque"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following locations would you most likely find a slightly acidic soil?",
+    "choices": {
+      "W": "Amazon Rainforest",
+      "X": "Antarctica",
+      "Y": "Serengeti",
+      "Z": "Sahara Desert"
+    },
+    "answer": "W) Amazon Rainforest"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 soil types in increasing average pH: 1) Calcareous Soils 2) Sulfate Soils 3) Sodic soils",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the molar heat capacity at constant pressure of Neon, in terms of the gas constant R?",
+    "answer": "1.5R"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The angular momentum of a round hollow ball with a mass and radius of 1 kilogram and 6 meters, respectively, is $\\athrm{L} = \\athrm{t}^{4} + 3\\athrm{t}^{3} + 6\\athrm{t}^{2} + 10\\athrm{t} + 15$, where t is time. What is the angular velocity over the time interval from initial $\\athrm{t} = 0$ to $\\athrm{t} = 5$ seconds, in radians per second?",
+    "answer": "240 radians/second"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the cytokine produced by the kidney in response to low levels of erythrocytes in the blood?",
+    "answer": "Erythropoietin (ACCEPT: Hematopoietin)"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What disorder that causes buildup of mucus in the lungs is caused by the incorrect activity of chloride ion channels?",
+    "answer": "Cystic Fibrosis"
+  }
+]

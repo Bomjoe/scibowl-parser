@@ -1,0 +1,449 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Torque is equal to the time derivative of what quantity?",
+    "answer": "ANGULAR MOMENTUM"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How many joules are in 10 watt-hours?",
+    "answer": "36000"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes allosteric inhibition?",
+    "choices": {
+      "W": "An inhibitor binds to the enzyme substrate complex",
+      "X": "An inhibitor binds directly to the substrate",
+      "Y": "An inhibitor binds to a site on the enzyme other than the active site",
+      "Z": "An inhibitor denatures the enzyme by causing the pH of the environment to decrease"
+    },
+    "answer": "Y) AN INHIBITOR BINDS TO A SITE ON THE ENZYME OTHER THAN THE ACTIVE SITE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a population of 100 organisms in Hardy-Weinburg equilibrium, 36 organisms are homozygous recessive for a certain trait. How many organisms are heterozygous for this trait?",
+    "answer": "48"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of unconformity is present when an igneous intrusion is in contact with strata of sedimentary rocks and both rock beds are at the same angle?",
+    "answer": "NONCONFORMITY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three metamorphic rocks that are foliated: 1) Quartzite; 2) Marble; 3) Hornfels.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "In a class of 20 students, the mean score on a certain test is 88, and the standard deviation is 5. What is the z-score of a student who got a 92 on that test?",
+    "choices": {
+      "W": "0.2",
+      "X": "0.3",
+      "Y": "0.4",
+      "Z": "0.8"
+    },
+    "answer": "Z) 0.8"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the smallest positive number that is 3 more than a multiple of 5 and 4 more than a multiple of 6?",
+    "answer": "28"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "For the decomposition of ozone into oxygen gas, doubling the concentration of oxygen gas leads to the reaction rate being halved. What is the reaction order, with respect to oxygen gas, for this reaction?",
+    "answer": "-1"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following can NOT be the molecular formula for a straight chain alkane?",
+    "choices": {
+      "W": "$\\athrm{C_6H_{12}}$",
+      "X": "$\\athrm{C_8H_{18}}$",
+      "Y": "$\\athrm{C_{10}H_{22}}$",
+      "Z": "$\\athrm{C_{20}H_{42}}$"
+    },
+    "answer": "W) $\\athrm{C_6H_{12}}$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison have been studying the interactions of the “ghost” particle with normal matter in the ICECUBE observatory. What class of leptons, also dubbed the “ghost” particle, have very small mass and travel near the speed of light?",
+    "answer": "NEUTRINO"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison are using highly pressurized and dehydrated systems in order to shift products of reactions towards the reactants. The shifting of the equilibrium due to an external stress in chemistry is known by what principle?",
+    "answer": "LE CHATELIER'S PRINCIPLE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A charged particle is traveling perpendicular to an external magnetic field. Doubling which of the following will NOT double the force it experiences?",
+    "choices": {
+      "W": "The particle's velocity",
+      "X": "The particle's charge",
+      "Y": "The particle's mass",
+      "Z": "The strength of the magnetic field"
+    },
+    "answer": "Y) THE PARTICLE'S MASS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A Wheatstone bridge is most commonly used to measure which of the following quantities?",
+    "choices": {
+      "W": "Resistance",
+      "X": "Capacitance",
+      "Y": "Inductance",
+      "Z": "Band gap"
+    },
+    "answer": "W) RESISTANCE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What class of enzymes, which are commonly found in signal transduction pathways, catalyze the transfer of phosphate groups from ATP to proteins?",
+    "answer": "KINASES"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name given to the lateral meristem that produces secondary xylem and phloem?",
+    "answer": "VASCULAR CAMBIUM"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What process results from the slowing of breaking water waves and causes waves to orient nearly perpendicular to shore?",
+    "answer": "WAVE REFRACTION"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "List all of the following three values that are roughly equivalent to one atmosphere: 1) 1000 hectopascals; 2) 760 millimeters of mercury; 3) 15 psi.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the second derivative of $x^{2} - x$ with respect to $x$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A convex polygon has 35 diagonals. How many vertices does the polygon have?",
+    "choices": {
+      "W": "5",
+      "X": "7",
+      "Y": "8",
+      "Z": "10"
+    },
+    "answer": "Z) 10"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "For an aluminum atom, which of the following ionization energies has the largest difference between its previous ionization energy?",
+    "choices": {
+      "W": "First ionization energy",
+      "X": "Second ionization energy",
+      "Y": "Third ionization energy",
+      "Z": "Fourth ionization energy"
+    },
+    "answer": "Z) FOURTH IONIZATION ENERGY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the hybridization of the central iodine atom in the triiodide ion, $\\athrm{I}_3^- \\athrm{II} 3$ minus?",
+    "answer": "$\\athrm{sp}^3\\athrm{d}$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison have been studying the connection between GPCR signaling pathways in the pathogenesis of Type 1 diabetes. In patients with Type 1 diabetes, what pancreatic cells are attacked by their body's own immune system?",
+    "answer": "BETA CELLS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the University of Chicago are studying dark energy in the Dark Energy Survey. Which of the following phenomena would dark energy most likely explain?",
+    "choices": {
+      "W": "Anomalous rotation curves in galaxies",
+      "X": "The precession of the perihelion of mercury",
+      "Y": "The existence of a cosmic microwave background",
+      "Z": "The accelerating expansion of the universe"
+    },
+    "answer": "Z) THE ACCELERATING EXPANSION OF THE UNIVERSE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The fact that the temperature of a system cannot go below absolute zero is a consequence of which of the following laws of thermodynamics?",
+    "choices": {
+      "W": "Zeroth",
+      "X": "First",
+      "Y": "Second",
+      "Z": "Third"
+    },
+    "answer": "Z) THIRD"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Albert Einstein won a Nobel Prize by explaining the photoelectric effect in terms of what \packets\ of light, which was later explained as photons?",
+    "answer": "QUANTA"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What stomach cells control the secretion of pepsinogen, which is converted to pepsin by hydrochloric acid secreted from parietal cells?",
+    "answer": "CHIEF CELLS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What plant root structure, which is made of suberin, forces water and minerals to cross the plasma membrane of an endodermal cell before entering the xylem?",
+    "answer": "CASPARIAN STRIP"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What constellation is Polaris located in?",
+    "answer": "URSA MINOR"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of fossil is NOT a trace fossil?",
+    "choices": {
+      "W": "Mold",
+      "X": "Burrow",
+      "Y": "Coprolite [COP-ruh-lite]",
+      "Z": "Gastrolith"
+    },
+    "answer": "W) MOLD"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers has an odd number of factors?",
+    "choices": {
+      "W": "23",
+      "X": "49",
+      "Y": "58",
+      "Z": "71"
+    },
+    "answer": "X) 49"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A fair die is rolled 100 times. What is the expected value of the sum of the rolls?",
+    "answer": "350"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many atoms are there in each unit cell of a primitive cubic crystal lattice?",
+    "answer": "1"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three molecules that are considered Brønsted-Lowry bases but NOT Arrhenius bases: 1) $\\athrm{NH_3}$ ; 2) $\\athrm{NaOH}$ ; 3) $\\athrm{Mg(OH)_2}$ .",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the University of Chicago are studying alongside Argonne National Lab Scientists at the Center for Nanoscale Materials. One of the materials they are studying is what allotrope of carbon, which consists of a single sheet of carbon atoms arranged in a hexagonal lattice?",
+    "answer": "GRAPHENE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Laboratory of Computational Biophysics at UF are studying the behaviors of small systems and their energy state distributions. For macroscopically large systems of ideal gases, what is the name for the probability distribution that gives the likelihood of a particle being at a certain velocity at a specific temperature?",
+    "answer": "MAXWELL-BOLTZMANN DISTRIBUTION"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 150-gram block, which is initially at rest, experiences an impulse of 3 newton-seconds. What is the velocity of the block after the impulse?",
+    "answer": "20 METERS PER SECOND"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about electric equipotential surfaces is FALSE?",
+    "choices": {
+      "W": "Equipotential surfaces can never intersect",
+      "X": "For an isolated point charge in space, equipotential surfaces are in the form of concentric spheres around the point charge",
+      "Y": "Closely spaced equipotential surfaces correspond to stronger electric fields",
+      "Z": "Equipotential surfaces are tangent to field lines"
+    },
+    "answer": "Z) EQUIPOTENTIAL SURFACES ARE TANGENT TO FIELD LINES"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In eukaryotes, what enzymes in DNA replication are responsible for reducing the super coiling of the DNA double helix ahead of the replication fork?",
+    "answer": "TOPOISOMERASES"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the specific RNA-guided endonuclease which is used in the CRISPR gene editing system to cut DNA at specific locations?",
+    "answer": "CAS9"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In refracting telescopes, what type of aberration results from lenses that are unable to focus all wavelengths of light to one point?",
+    "answer": "CHROMATIC"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three ocean landforms in order from first to last to form, assuming they form in sequence: 1) Guyot [Gy-oh]; 2) Island; 3) Seamount.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Points A and B lie on a circle of radius 6 such that arc AB is 60 degrees. What is the length of the line segment AB?",
+    "answer": "6"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Six blocks have the letters B, G, I, I, K, and N, where the two blocks with the letter I are indistinguishable. How many ways are there to arrange these six blocks in a row?",
+    "answer": "360"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a colligative property?",
+    "choices": {
+      "W": "Boiling point elevation",
+      "X": "Vapor pressure elevation",
+      "Y": "Osmotic pressure",
+      "Z": "Freezing point depression"
+    },
+    "answer": "X) VAPOR PRESSURE ELEVATION"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What specific procedure is used to measure the heat released from a reaction held at constant volume and is typically used for combustion reactions?",
+    "answer": "BOMB CALORIMETRY"
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What experiment fired alpha particles at thin sheets of metal, thus disproving the plum-pudding model of the atom?",
+    "answer": "RUTHERFORD GOLD FOIL EXPERIMENT"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If the following three objects with equal mass and radius are rolled down a ramp at the same time, order them from the first to hit the bottom to the last: 1) Uniform solid sphere; 2) Uniform disk; 3) Uniform hoop.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Juvenile hormone and ecdysteroids regulate what major developmental process in many insects?",
+    "answer": "METAMORPHOSIS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following processes would the T1 phage most likely participate in?",
+    "choices": {
+      "W": "Transduction",
+      "X": "Transformation",
+      "Y": "Conjugation",
+      "Z": "Binary fission"
+    },
+    "answer": "W) TRANSDUCTION"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three planets that have an intrinsic, global-scale magnetic field: 1) Mercury; 2) Venus; 3) Earth.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of metamorphism occurs when a large body of rock undergoes extensive heat and pressure due to large scale processes such as mountain building?",
+    "answer": "REGIONAL METAMORPHISM"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true regarding the Fibonacci sequence?",
+    "choices": {
+      "W": "It always has more odd than even terms",
+      "X": "No squares besides 1 appear in the sequence",
+      "Y": "The ratio of consecutive terms approaches the golden ratio",
+      "Z": "It is strictly nondecreasing"
+    },
+    "answer": "X) NO SQUARES BESIDES 1 APPEAR IN THE SEQUENCE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the decimal representation of the base-six numeral two-four-three-five?",
+    "answer": "599"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What specific type of bond forms when nitrogen's lone pair in ammonia attacks the empty p orbital of boron in boron trifluoride, and is described as a bond formed between Lewis acid-base adducts?",
+    "answer": "COORDINATE COVALENT BOND"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the packing efficiency of a face-centered cubic lattice?",
+    "choices": {
+      "W": "$52\\$",
+      "X": "$68\\$",
+      "Y": "$74\\$",
+      "Z": "$85\\$"
+    },
+    "answer": "Y) $74\\$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison are attempting to understand the relationships between quantum dots and semiconductors for liquid crystal displays. Identify all of the following three elements that would most likely be used for an industrial semiconductor: 1) Carbon; 2) Silicon; 3) Germanium.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Center for Interdisciplinary Inquiry and Innovation in Sexual and Reproductive Health at the University of Chicago is a faculty-led initiative to advance sexual health. The menstrual cycle is an important part of the female reproductive system. Which two anterior pituitary hormones primarily regulate when ovulation occurs in the menstrual cycle?",
+    "answer": "LUTEINIZING HORMONE AND FOLLICLE STIMULATING HORMONE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quantities is equal to the ratio between the dynamic and kinematic viscosities of a fluid?",
+    "choices": {
+      "W": "Bulk modulus",
+      "X": "Reynolds number",
+      "Y": "Density",
+      "Z": "Area"
+    },
+    "answer": "Y) DENSITY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An alpha particle, initially at rest, accelerates across a 4-volt potential. What is the final kinetic energy of the alpha particle in electronvolts?",
+    "answer": "8"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following vitamins is deficient in sufferers of beriberi?",
+    "choices": {
+      "W": "Thiamine",
+      "X": "Biotin",
+      "Y": "Retinol",
+      "Z": "Cobalamin"
+    },
+    "answer": "W) THIAMINE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three stages of the development of a frog from earliest to latest: 1) Gastrulation; 2) Organogenesis; 3) Cleavage.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the Maunder Butterfly diagram most closely associated with?",
+    "choices": {
+      "W": "Moon phases",
+      "X": "Sun spots",
+      "Y": "Mercury's orbit",
+      "Z": "Meteor showers"
+    },
+    "answer": "X) SUN SPOTS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A binary system has two stars of 5 and 7 solar masses. In solar masses, what is the reduced mass of the system?",
+    "answer": "35/12"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A fair six-sided die is rolled 10 times. What is the probability that every roll is different?",
+    "answer": "0"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A set of data has a variance of 5. Suppose each data point is multiplied by 3 and then increased by 2. What is the new variance of this set of data?",
+    "answer": "45"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the degree of unsaturation of the compound $\\athrm{C_6H_6}$?",
+    "answer": "4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "If the reaction of $\\athrm{N}_2$ gas plus $3\\athrm{H}_2$ gas is in equilibrium with $2\\athrm{NH}_3$ gas, then the equilibrium constant of concentration is denoted $\\athrm{K_c}$. Which of the following would be the expression for $\\athrm{K_p}$?",
+    "choices": {
+      "W": "$\\athrm{K_c}$ times the quantity RT squared",
+      "X": "$\\athrm{K_c}$",
+      "Y": "$\\athrm{K_c}$ divided by the quantity RT squared",
+      "Z": "$\\athrm{K_c}$ divided by the quantity RT cubed"
+    },
+    "answer": "Y) $\\athrm{K_c}$ DIVIDED BY THE QUANTITY RT SQUARED"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Center for Condensed Matter Sciences at UF are studying the magnetic properties of fermionic condensates. Which of the following particles is capable of forming a fermionic condensate?",
+    "choices": {
+      "W": "Hydrogen-2",
+      "X": "Helium-3",
+      "Y": "Helium-4",
+      "Z": "Gluon"
+    },
+    "answer": "X) HELIUM- 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Grenning lab at UF have designed a synthesis of common terpenoid cores. Terpenoids are derived from isoprene, with a chemical formula of $\\athrm{C_5H_8}$. How many pi bonds does isoprene have?",
+    "answer": "2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What phenomenon was first studied in pollen grains and describes the random motion of particles suspended in a fluid?",
+    "answer": "BROWNIAN MOTION"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Assuming that the speed of sound in air is 340 meters per second, then what is the fundamental frequency of a 34 centimeter long pipe with two open ends?",
+    "choices": {
+      "W": "200 hertz",
+      "X": "250 hertz",
+      "Y": "500 hertz",
+      "Z": "1000 Hertz"
+    },
+    "answer": "Y) 500 HERTZ"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three steps of a PCR cycle from first to last: 1) Annealing; 2) Denaturation; 3) Extension.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is always an inhibitory neurotransmitter?",
+    "choices": {
+      "W": "GABA",
+      "X": "Epinephrine",
+      "Y": "Acetylcholine",
+      "Z": "Glutamate"
+    },
+    "answer": "W) GABA"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following terms relating to glaciers is NOT correctly matched to its definition?",
+    "choices": {
+      "W": "Erratic - a large boulder carried away from its original location by a glacier",
+      "X": "Kettle - a depression in an outwash plain",
+      "Y": "Crevasse - a thin valley produced by glacial abrasion",
+      "Z": "Arête - a thin ledge of rock that separates two glacial troughs"
+    },
+    "answer": "Y) CREVASSE - A THIN VALLEY PRODUCED BY GLACIAL ABRASION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three hydrogen spectral line series from shortest to longest wavelengths: 1) Balmer Series; 2) Lyman Series; 3) Paschen Series",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A quadrilateral has perpendicular diagonals with lengths of 8 and 12. What is the area of the quadrilateral?",
+    "choices": {
+      "W": "48",
+      "X": "72",
+      "Y": "96",
+      "Z": "192"
+    },
+    "answer": "W) 48"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the definite integral from 1 to 3 of the fraction with numerator 3 dx and denominator $x + 1$.",
+    "answer": "3ln(2)"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three titrations that would result in the formation of a precipitate: 1) Hydrochloric acid and sodium hydroxide; 2) Ammonium bromide and acetate; 3) Hydrofluoric acid and barium hydroxide.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following conformations of cyclohexane is the MOST stable?",
+    "choices": {
+      "W": "Half-chair",
+      "X": "Twist-boat",
+      "Y": "Chair",
+      "Z": "Envelope"
+    },
+    "answer": "Y) CHAIR"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the McDaniel lab at the University of Florida are studying the origins of separate sexes in species evolution. What term is used to describe species that have both male and female sex organs?",
+    "answer": "HERMAPHRODITE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the UIUC are investigating the optics of 3D-printed lenses. Suppose a lens has a focal length of 0.4 meters. What is the power of the lens, in diopters?",
+    "answer": "2.5"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What principle states that every point on a wavefront is the source of new spherical wavelets?",
+    "answer": "HUYGENS PRINCIPLE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "According to the Born interpretation, the probability density of a particle's position is proportional to what power of the wavefunction's magnitude?",
+    "answer": "2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A mother with a blood type of AB and a father with a blood type of B have a child. How many different possible blood types could the child have?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "Y) 3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Mice with a mutation of the ob [o-b] gene were observed to develop obesity. This is because the ob gene codes for what hormone which is produced by adipose tissue, and functions in the regulation of appetite?",
+    "answer": "LEPTIN"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What cycle describes the cyclical opening and closing of Earth's ocean basins due to plate tectonic processes?",
+    "answer": "WILSON CYCLE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding Pluto is NOT true?",
+    "choices": {
+      "W": "Ice on Pluto is primarily composed of nitrogen",
+      "X": "Pluto is tidally locked to its moon Charon",
+      "Y": "Pluto is smaller in volume than Earth's moon",
+      "Z": "Pluto's orbit crosses that of Neptune and Uranus"
+    },
+    "answer": "Z) PLUTO'S ORBIT CROSSES THAT OF NEPTUNE AND URANUS"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A piecewise function is defined by $\\athrm{f}(x) = x + 2$ when $x$ is less than or equal to 1, and $\\athrm{f}(x) = 2x - 1$ when $x$ is greater than 1. Which of the following statements best describes the limit as $x$ approaches 1 of $\\athrm{f}(x)$?",
+    "choices": {
+      "W": "It does not exist",
+      "X": "It exists and equals 1",
+      "Y": "It exists and equals 2",
+      "Z": "It exists and equals 3"
+    },
+    "answer": "W) IT DOES NOT EXIST"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many digits are in the base-3 representation of 9 to the 10th power?",
+    "answer": "21"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What are the units for the rate constant of a third order reaction?",
+    "choices": {
+      "W": "Moles cubed per liters cubed per second",
+      "X": "Moles squared per liters squared per second",
+      "Y": "Liters cubed per moles cubed per second",
+      "Z": "Liters squared per moles squared per second"
+    },
+    "answer": "Z) LITERS SQUARED PER MOLES SQUARED PER SECOND"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the chemical formula for the anhydrous form of sulfuric acid?",
+    "answer": "SO3"
+  }
+]

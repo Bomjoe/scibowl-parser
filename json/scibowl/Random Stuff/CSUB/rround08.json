@@ -1,0 +1,510 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What are the two components of velocity?",
+    "answer": "SPEED AND DIRECTION"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Neutrinos are named in which of the following ways:",
+    "choices": {
+      "W": "after their successive discovery dates",
+      "X": "based on the particles they are linked with",
+      "Y": "based on the Greek letters that describe their relative energies",
+      "Z": "based on their charges and masses"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the systematic name for the compound $\\athrm{N}_2\\athrm{O}$?",
+    "answer": "NITROUS OXIDE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the common name for the following compound: a benzene ring with an OH group attached to carbon #1, a bromine attached to carbon #2, and a bromine attached to carbon #4",
+    "answer": "2,4-DIBROMOPHENOL"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Transferal of immunity from breast milk to the infant is an example of:",
+    "choices": {
+      "W": "passive immunity",
+      "X": "active immunity",
+      "Y": "cell mediated immunity",
+      "Z": "paternal immunity"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The term pulmonic stenosis refers most specifically to:",
+    "choices": {
+      "W": "pneumonia",
+      "X": "an occluded coronary artery",
+      "Y": "a blocked pulmonary valve",
+      "Z": "hypertrophy of the pulmonary valves"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What is the standard spectral classification letter for the Sun?",
+    "answer": "G"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Edwin Hubble devised a system, sometimes called a tuning fork classification, to differentiate what type of celestial bodies?",
+    "answer": "GALAXIES"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In the graph of a curve such as the cosecant curve, the straight vertical line to which the curve moves closer and closer is called what:",
+    "answer": "ASYMPTOTE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the $10^{\\athrm{th}}$ term in the following arithmetic progression: 2, 7, 12...",
+    "answer": "47"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "During the last 18,000 years, nearly all coasts have experienced:",
+    "choices": {
+      "W": "submergence",
+      "X": "emergence",
+      "Y": "world wide decrease in sea level",
+      "Z": "relatively unchanging sea levels"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "What is the name given to a circular or horseshoe-shaped organic reef growing on a submerged volcano, with an occasional small, low, coral sand island surrounding a shallow lagoon:",
+    "answer": "ATOLL"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following do archeologists and sociologists generally believe is the most important prerequisite to development of large cultural systems:",
+    "choices": {
+      "W": "technology",
+      "X": "writing",
+      "Y": "agriculture",
+      "Z": "a monetary system"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is an example of a simple fruit:",
+    "choices": {
+      "W": "sour cherry",
+      "X": "pineapple",
+      "Y": "figs",
+      "Z": "raspberries"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Secondary storage refers to:",
+    "choices": {
+      "W": "processor cache",
+      "X": "hard drives",
+      "Y": "system memory",
+      "Z": "a CPU"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "What is the three-bit natural binary code equivalent of the decimal value $\\rac{3}{8}$?",
+    "answer": "0.011"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What color would be produced when mixing magenta and yellow pigments?",
+    "answer": "RED"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the centripetal force required for an 8 kilogram body traveling at 2 meters per second in a perfect circle with a radius of 2 meters?",
+    "answer": "16\\\\text{NEWTONS}"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is its characteristic geometrical arrangement of a molecule that has a hybrid orbital set of four identical $\\athrm{sp}^{3}$?",
+    "answer": "TETRAHEDRAL"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 gases found in the Earth's atmosphere from the greatest percent by volume of dry air to the least: carbon dioxide; argon; nitrogen; oxygen",
+    "answer": "NITROGEN; OXYGEN; ARGON; CARBON DIOXIDE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following areas of the human body is the zygomatic arch found:",
+    "choices": {
+      "W": "hip",
+      "X": "wrist",
+      "Y": "shoulder",
+      "Z": "head"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Finger nails are mostly composed of what protein?",
+    "answer": "KERATIN"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What is the common name for the group of seven brightest stars in Ursa Major?",
+    "answer": "BIG DIPPER"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What millimeter-sized silicate metal spheres are the most abundant component of chondrites, making up between 50-80% by volume of this type of meteorite?",
+    "answer": "CHONDRULES"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A plane curve that is the locus of all points in the plane equidistant from a given point best describes what geometric figure?",
+    "answer": "CIRCLE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Name two consecutive integers where three times the second plus the first equals 91:",
+    "answer": "22\\\\text{AND}\\23"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT classified as a high-level cloud:",
+    "choices": {
+      "W": "altocumulus",
+      "X": "cirrocumulus",
+      "Y": "cirrostratus",
+      "Z": "cirrus"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "The Namib desert of southwest Africa is an example of what type of desert:",
+    "choices": {
+      "W": "continental",
+      "X": "subtropical",
+      "Y": "rainshadow",
+      "Z": "coastal"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Beekeepers typically use what substance to calm bees?",
+    "answer": "SMOKE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What common substance used by bacteriologists has a different melting point and freezing point?",
+    "answer": "AGAR"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "When doing a hardware setup procedure on a computer, the operator is effectively writing to:",
+    "choices": {
+      "W": "ROM",
+      "X": "RAM",
+      "Y": "C-drive",
+      "Z": "volatile memory"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "What is the name for the high-speed serial bus developed by Apple and Texas Instruments that allows for the connection of up to 63 multiple devices, supports hot-swapping, and transfers data at rates of up to 400 megabits per second:",
+    "choices": {
+      "W": "USB port",
+      "X": "ISO 9660",
+      "Y": "FireWire",
+      "Z": "Hot Port"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the most common term for the motion that is associated with an object that moves without rotating?",
+    "answer": "TRANSLATIONAL"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the total capacitance, in microfarads rounded to the second decimal place, for four capacitors connected in series if each capacitor is rated at 1 microfarad?",
+    "answer": "0.25"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Marble statues around the world have been eaten away as a result of acid rain and the production of what aqueous acid?",
+    "answer": "SULFURIC ACID"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The correct name for the compound $\\athrm{CH}_3\\athrm{OCH}_3$ is:",
+    "choices": {
+      "W": "dimethyl ether",
+      "X": "ethyl ether",
+      "Y": "acetone",
+      "Z": "dimethyloxide"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Aside from the four major blood types, what blood group in the USA is of the greatest clinical importance regarding agglutination reactions?",
+    "answer": "RH"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Multiplication is to differentiation as growth is to:",
+    "choices": {
+      "W": "molting",
+      "X": "division",
+      "Y": "apoptosis",
+      "Z": "development"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the formula for the volume of a right circular cone?",
+    "answer": "$\\rac{1}{3}\\i r^{2}h$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "To the first decimal place, what is the approximate length, in inches, of the arc that is cut off by an angle of $\\rac{\\i}{3}$ radians in a circle that has a radius of 4 inches:",
+    "answer": "4.2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "The now dormant volcanoes at Yellowstone National Park are examples of which of the following types of volcanoes:",
+    "choices": {
+      "W": "basaltic",
+      "X": "rhyolitic",
+      "Y": "andesitic",
+      "Z": "basaltic and andesitic"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is classified as an intrusive igneous rock:",
+    "choices": {
+      "W": "gabbro",
+      "X": "obsidian",
+      "Y": "basalt",
+      "Z": "phyllite"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "In Freudian theory, what are the 3 divisions of the subconscious mind?",
+    "answer": "ID, EGO, SUPEREGO"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Classical conditioning was first studied by what Russian Nobel laureate physiologist?",
+    "answer": "IVAN PAVLOV"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Work is a product of two quantities whose SI units are what?",
+    "answer": "METER AND NEWTON"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A 2.25 kilowatt engine is approximately the same as a:",
+    "choices": {
+      "W": "3 horsepower engine",
+      "X": "33 horsepower engine",
+      "Y": "155 horsepower engine",
+      "Z": "366 horsepower engine"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the general term for a solid crystalline substance made of just one element or compound, such as halite or calcite, that are the constituents of rocks that make up the Earth?",
+    "answer": "MINERAL"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name for a long, calibrated glass tube with a tap at one end that is used vertically, with the tap at the bottom, and whose main use is as a reservoir for a chemical during titration?",
+    "answer": "BURETTE"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "If whole blood is allowed to clot, what is the fluid that is remaining once the clot is removed?",
+    "answer": "SERUM"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a monocot:",
+    "choices": {
+      "W": "Acer rubrum",
+      "X": "Quercus rubra",
+      "Y": "Triticum aestivum",
+      "Z": "Echinacea angustifolia"
+    },
+    "answer": "Y"
+  }
+]

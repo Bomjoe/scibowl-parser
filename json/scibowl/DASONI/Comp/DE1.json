@@ -1,0 +1,418 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the difference between kinesis and taxis?",
+    "choices": {
+      "W": "Kinesis is directed movement in response to a stimulus while taxis is undirected",
+      "X": "Taxis is directed movement in response to a stimulus while kinesis is undirected",
+      "Y": "Kinesis is movement towards a stimulus while taxis is movement away",
+      "Z": "Taxis is movement towards a stimulus while kinesis is movement away"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes the independent evolution of similar traits in different species, one example of which is convergent evolution?",
+    "answer": "HOMOPLASY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many normal modes of vibration are there in CO₂?",
+    "answer": "4"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider the following three step reaction: 1) A produces C exothermically through transition state B 2) C produces E endothermically through transition state D 3) E produces G exothermically through transition state F Identify all of the transition states whose structures most closely resemble E.",
+    "answer": "D"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four scenarios that would result from further increased global temperatures: 1) Increased methane influx into Earth's atmosphere 2) Increased severity of wildfire seasons in the western US 3) Increased number of distinct seasons 4) Increased rate of warming",
+    "answer": "1, 2, AND 4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Given that Jupiter has a year equivalent to twelve Earth years, what is the approximate distance, rounded to the nearest astronomical unit, between Earth and Jupiter when an observer on Jupiter observes that Earth is at inferior conjunction?",
+    "answer": "4"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the indefinite integral of the function secant of x end quantity times tangent of x?",
+    "answer": "SECANT OF X PLUS C"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the 10th positive number that is 2 mod 4, 5 mod 7, and 9 mod 11?",
+    "answer": "174"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Specific volume can be thought of as the inverse of what quantity?",
+    "answer": "DENSITY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 100 kg car starts at the top of a frictionless ramp of height h with a 100 kg weight added to it. It rolls down the ramp and drops its weight at a height b above the bottom of the ramp. It then continues to the bottom and climbs up another frictionless ramp. Express the height it reaches on the second ramp in terms of the ramp height h and the drop height b.",
+    "answer": "h"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A Team members are ordering Chicken McNuggets. Their boxes of nuggets come in sizes of 5, 7, 14, and 20. What is the largest individual number of nuggets that the team cannot order exactly?",
+    "answer": "23"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS B team members are studying fundamental forces. The strong and weak forces have a maximum distance that they can act at because their carrier bosons have what property?",
+    "answer": "MASS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During cytokinesis in plant cells, what microtubule assembly transports vesicles used to construct the cell plate?",
+    "answer": "PHRAGMOPLAST"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In prokaryotes, what sequence of nucleotides in the 5' untranslated region binds the 16S ribosomal RNA, leading to initiation of translation?",
+    "answer": "SHINE-DALGARNO SEQUENCE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What metal carbene complexes serve as catalysts for olefin metathesis reactions?",
+    "answer": "GRUBBS CATALYST"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which transition metal is the primary component of a Grubbs catalyst?",
+    "answer": "RUTHENIUM"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following seismic discontinuities is the closest to the Earth's core?",
+    "choices": {
+      "W": "Conrad discontinuity",
+      "X": "Gutenberg Discontinuity",
+      "Y": "Mohorovicic discontinuity",
+      "Z": "Repetti discontinuity"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the class of massive stars that have shed their outer hydrogen due to strong stellar winds but possess prominent helium, nitrogen, or carbon spectral lines?",
+    "answer": "WOLF-RAYET STAR"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Megan is writing problems for DASONI. Each problem she writes has a $20\\$ chance of being incorporated into the competition. How many questions should she write to have at least a $50\\$ chance of having at least 1 question in the competition?",
+    "answer": "4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is $(1 + \\athrm{i} \\qrt{3})^8$?",
+    "answer": "$-128 + 128\\qrt{3}\\i$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An LC circuit is oscillating at its resonant frequency. What is the period of these oscillations, in seconds and in terms of pi, if the circuit contains a 4 millihenry inductor and a 49 microfarad capacitor?",
+    "answer": "0.028 \\i"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An airplane is in level flight over horizontal ground. Earth's magnetic field near the plane points downward. The wings can be treated as a conducting rod with a slight amount of resistance oriented perpendicular to the plane's velocity. By what factor will the force that an electron in the wings will feel be multiplied if the plane goes twice as fast, the electrical resistance of the wing material is tripled, and the magnetic field is tripled?",
+    "answer": "6"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A Team members are studying spherical coordinate systems. By name or number, identify all of the following three pairs of measurements that would produce identical altitude-azimuth coordinates: 1) Two measurements taken at the same time on the same day but at different locations 2) Two measurements taken two hours apart on the same day at the same location 3) Two measurements taken 24 hours apart at the same location",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS A Team members are studying Strahler stream order. What is the Strahler order of a stream with two tributaries, one of which has two tributaries of its own?",
+    "answer": "2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the purpose of phosphorylating glucose in the first step of glycolysis?",
+    "choices": {
+      "W": "Producing a molecule of ATP",
+      "X": "Producing a molecule of NADH",
+      "Y": "Preparing glucose for cleavage into DHAP and G3P",
+      "Z": "Trapping glucose inside the cell"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Sanger sequencing uses modified nucleotides called ddNTPs to sequence DNA. Which of the following correctly describes the difference between ddNTPs and normal DNA nucleotides?",
+    "choices": {
+      "W": "ddNTPs have only two phosphate groups",
+      "X": "ddNTPs have an extra hydroxyl group at the $2^{\\rime}$ position",
+      "Y": "ddNTPs lack a hydroxyl group at the $3^{\\rime}$ position",
+      "Z": "ddNTPs have the nitrogenous base attached at the $2^{\\rime}$ position"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What mode of radiative decay would occur after intersystem crossing from an excited singlet state to an excited triplet state?",
+    "answer": "PHOSPHORESCENCE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about nitric oxide: 1) It has an MO theory predicted bond order of 3 2) Its HOMO is the $\\i^{*}$ orbital 3) Its LUMO is the $\\i^{*}$ orbital",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds has three polymorphs that are often used as metamorphic index minerals?",
+    "choices": {
+      "W": "$\\athrm{Al}_{2}\\athrm{O}_{3}$",
+      "X": "$\\athrm{Na}_{3}\\athrm{AlF}_{6}$",
+      "Y": "$\\athrm{Al}_{2}\\athrm{SiO}_{5}$",
+      "Z": "CaF2"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals, found abundantly in Australia, is one of the primary ores of lithium?",
+    "choices": {
+      "W": "Epidote",
+      "X": "Pyrolusite",
+      "Y": "Sodalite",
+      "Z": "Spodumene"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ways are there to arrange 7 paintings in a hallway if 3 of them are by the same artist and must be displayed next to each other?",
+    "answer": "720"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many infinitely long 1 inch wide strips are necessary to fully cover the interior of a triangle with side lengths 15 inches, 20 inches, and 25 inches?",
+    "answer": "12"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Light interference could not be used for which of the following?",
+    "choices": {
+      "W": "To separate color channels in a camera",
+      "X": "To focus diverging x-rays",
+      "Y": "To protect sensitive systems from infrared radiation",
+      "Z": "To make a cap for the cavity of a laser"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Name all of the following that are true of birefringence: 1) Deformation affects birefringence in plastics 2) Cubic crystals are often birefringent 3) Birefringent materials can be used to create waveplates",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS A Team members are currently studying ecosystem dynamics. Often, spatially separated populations of the same species will be linked by immigration and emigration, which can help introduce genetic diversity and prevent fixation of harmful alleles. What is the term for these collections of subpopulations?",
+    "answer": "METAPOPULATIONS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A team members are studying hyperfine structure. What intermolecular interaction is most directly responsible for hyperfine structure?",
+    "answer": "DIPOLE-DIPOLE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is not true about myelin and myelination?",
+    "choices": {
+      "W": "Myelination in the peripheral nervous system is carried out by Schwann cells",
+      "X": "Myelination increases capacitance",
+      "Y": "Oligodendrocytes can myelinate several axons",
+      "Z": "Voltage-gated sodium channels are primarily found at nodes of Ranvier"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Postganglionic parasympathetic neurons innervating the heart release what neurotransmitter?",
+    "answer": "ACETYLCHOLINE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In D-glucose, the OH group derived from the aldehyde is found to be in the equatorial position versus the axial position in a 2:1 ratio. In contrast, in cyclohexanol, the same ratio is 5.4:1. This is because the axial position is stabilized by a parallel sigma star orbital. What is this effect called?",
+    "answer": "ANOMERIC EFFECT"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Under isobaric conditions, and to the nearest 2 significant figures, calculate the amount of energy in Joules required to heat 1 mole of carbon tetrachloride gas initially at 600 K to 800 K.",
+    "answer": "5,800"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Granite and Syenite are both intrusive felsic rocks with fairly similar composition. However, they are classified as two distinct rock types due to syenite containing far less of what mineral?",
+    "answer": "QUARTZ"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three regions where you would expect to find high concentrations of siliceous ooze, assuming any oscillation trends are in the neutral phase: 1) Along the coast of Antarctica 2) Along the coast of Peru 3) Along the equator in the Pacific Ocean",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the slope of the line tangent to a circle centered at the origin at point (8,3)?",
+    "answer": "-8/3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A target is made of 10 concentric circles of radius 1 through 10. The innermost circle's area is painted red, and subsequent rings alternate between white and red. What percentage of the target is painted red, to the nearest percent?",
+    "answer": "45%"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Name all of the following forces that conserve strangeness: 1) Electromagnetic 2) Strong 3) Weak",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A hydrogen maser uses what spectral line as a frequency standard?",
+    "answer": "21 cm"
+  }
+]

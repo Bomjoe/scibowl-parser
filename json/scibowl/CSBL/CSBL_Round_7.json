@@ -1,0 +1,502 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Amy the budding scientist is crossing two pea plants. One pea plant is true-breeding for the dominant traits of round and yellow seeds, while the other is true-breeding for wrinkled and green seeds. What fraction of the offspring will be round and have yellow seeds?",
+    "choices": {
+      "W": "0",
+      "X": "1/2",
+      "Y": "1/3",
+      "Z": "1"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "While a 9:3:3:1 phenotypic ratio for the offspring occurs when both parents are heterozygous for both traits in the dihybrid cross, a 9:7 ratio is possible. What genetic phenomenon is indicative of a 9:7 phenotypic ratio?",
+    "answer": "EPISTASIS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "If the standard change in Gibbs free energy of a reaction is negative, which of the following MUST be true at standard temperature and pressure?",
+    "choices": {
+      "W": "Q is greater than 1",
+      "X": "Q is less than 1",
+      "Y": "K is greater than 1",
+      "Z": "K is less than 1"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In an experimental reaction, Joy determines that the equilibrium constant is $2.72$. She is trying to find delta G when this reaction is in equilibrium. Given that the universal gas constant is $8.314\\\\text{J/mol-K}$ and the reaction takes place at $273$ degrees Kelvin, what is delta G at equilibrium.",
+    "answer": "0"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What law states that the gram-atomic heat capacity of an element is constant?",
+    "answer": "DULONG-PETIT LAW"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "At sufficiently high temperatures, when vibrational modes are excited, what fraction of the thermal energy of a gas molecule is ROTATIONAL kinetic energy?",
+    "choices": {
+      "W": "1/2",
+      "X": "2/7",
+      "Y": "3/7",
+      "Z": "3/7"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following descriptions is NOT CORRECT about aa and pahoehoe.",
+    "choices": {
+      "W": "Aa's surface is rough, whereas pahoehoe's is smooth",
+      "X": "Pahoehoe CANNOT turn into aa, whereas aa CAN become pahoehoe",
+      "Y": "Pahoehoe is hotter than aa",
+      "Z": "Pahoehoe and aa can both come from the same volcano"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Some types of igneous formations can intrude into sedimentary strata, causing arching of the beds above while leaving the beds below flat. What is the term for this igneous formation?",
+    "answer": "LACCOLITH"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Kyle is trying to please all of his relatives this holiday season. When he tried to give his chocolates to 5 people, he had 3 left over. Furthermore, when he tried to distribute them to 9 people, he had 6 left over. To ensure that each and every person gets an equal number of chocolates, Arin gave him 2 more. If Kyle had tried to give his entire supply of chocolates to 10 people, how many would he have left over?",
+    "choices": {
+      "W": "2",
+      "X": "4",
+      "Y": "6",
+      "Z": "8"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The Suns and Bucks are back in the NBA Finals, a 7-game series. Each team has a $\\rac{1}{2}$ probability of winning each game, and the games are independent of each other. What is the probability that the series finishes in EXACTLY 5 games.",
+    "answer": "$\\rac{1}{4}$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven Lab have pioneered a technique of using X-ray nanovision to observe bacteria in tissue. Which of the following mechanisms is NOT used by bacteria to generate motion?",
+    "choices": {
+      "W": "Surface Protein Complexes",
+      "X": "Microvilli",
+      "Y": "Flagella",
+      "Z": "Pili"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Argonne National Lab are attempting to use 3-D structures to battle infectious diseases. 2 types of bacteria that they have studied are Listeria and Rickettsia. Identify ALL of the following diseases that are caused by these genera of bacteria: I. Listeriosis II. Rickets III. Rocky Mountain Spotted Fever IV. Typhus",
+    "choices": {
+      "W": "I, II",
+      "X": "I, III, IV",
+      "Y": "II, III, IV",
+      "Z": "I, II, III"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What protein blocks myosin from binding to actin in relaxed muscles?",
+    "answer": "TROPOMYOSIN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids is MOST LIKELY to be found in an alpha helix?",
+    "choices": {
+      "W": "Proline",
+      "X": "Serine",
+      "Y": "Tyrosine",
+      "Z": "Glutamic Acid"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three acids in terms of increasing pKa: I. Sulfuric Acid II. Hydrobromic Acid III. Acetic Acid",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Arin is trying to determine the pKa of histidine. He observes that in a working muscle cell with a pH of $6.9$, the ratio of the deprotonated to protonated forms of histidine is $2.5$. Based on this data, which of the following is closest to the pKa of histidine?",
+    "choices": {
+      "W": "4.5",
+      "X": "5.5",
+      "Y": "6.5",
+      "Z": "7.5"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What number, which is defined as the ratio of inertial forces to viscous forces within a fluid, helps predict flow patterns?",
+    "answer": "REYNOLDS NUMBER"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Adrian is performing an experiment. He increased the temperature of an ideal gas from $-73$ degrees Celsius to $177$ degrees Celsius. By what factor does the root mean square speed of the molecules in the gas change?",
+    "answer": "1.5"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following methods of determining distances to celestial objects is useful for large distances?",
+    "choices": {
+      "W": "Parallax",
+      "X": "Hubble's law",
+      "Y": "Cepheid Variables",
+      "Z": "Radar ranging"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true of stellar evolution and the HR diagram?",
+    "choices": {
+      "W": "White dwarfs can be found in the lower left region of the HR diagram",
+      "X": "The sun falls on the main sequence track",
+      "Y": "The instability strip lies below the main sequence",
+      "Z": "The Hayashi track is a pre-main-sequence phase of stellar evolution"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "According to the Rational Root Theorem, which of the following polynomials could have $x = 4$ as a root",
+    "choices": {
+      "W": "$x^{2} + 6x + 25$",
+      "X": "$3x^{2} + 4x + 6$",
+      "Y": "$4x^{2} + 4x + 28$",
+      "Z": "$5x^{2} + 15x + 30$"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Simplify the following fraction, giving your answer in $a+bi$ form: $\\rac{3 + 6i}{12 - 15i}$",
+    "answer": "$-\\rac{6}{41} + \\rac{13}{41} i$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are studying polymeric materials that can form different solid and liquid phases. Many of these polymers involve multiple types of monomers chained together. What are these polymers with different monomers known as?",
+    "answer": "COPOLYMERS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Berkeley Lab are studying intracellular transport. This is accomplished by either molecular motors that pull vesicles or by what type of motion, characterized by the random motion of particles suspended in a medium?",
+    "answer": "BROWNIAN MOTION"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following organisms that are CORRECTLY Matched with their survivorship curves: I. Birds and Type I II. Fish and Type II III. Humans and Type III",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Adrian the Field Explorer strikes again! He just found a new type of species, and he's observed that the female is generally more showier and outgoing than the male counterpart. Which of the following adjectives best describes this type of species?",
+    "choices": {
+      "W": "Polygamous",
+      "X": "Polygynous",
+      "Y": "Polyandrous",
+      "Z": "Promiscuous"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a colligative property?",
+    "choices": {
+      "W": "Vapor Pressure Elevation",
+      "X": "Osmotic Pressure",
+      "Y": "Freezing Point Depression",
+      "Z": "Boiling Point Elevation"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following solutions based on increasing MAGNITUDE of their freezing point depression. I. A 2 molal solution of calcium chloride II. A 4 molal solution of xenon hexafluoride III. A 1 molal solution of sodium chloride",
+    "answer": "III, II, I"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What angle is the angle of incidence where a 90 degree angle is created between the reflected and refracted ray?",
+    "answer": "BREWSTER'S ANGLE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A resistor is constructed using an infinite number of resistors in parallel. The first resistor has a resistance of 2 ohms, and each successive resistor has a resistance of double the previous one. What is the resistance, in ohms, of the composite?",
+    "answer": "1"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Who’s research led to the formation of the principle of superposition?",
+    "choices": {
+      "W": "Steno",
+      "X": "Cuvier",
+      "Y": "Hutton",
+      "Z": "Ussher"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following statements that are TRUE about unconformities I. They represent extra time II. They represent missing time III. They represent periods of increased deposition IV. They represent periods of non-deposition",
+    "answer": "II and IV"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the partial derivative with respect to $y$ of $6x^{5}y^{3}$",
+    "answer": "$18x^{5}y^{2}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Simplify the following expression: $\\in(21)\\os(21)\\tan(21) + \\in(69)\\os(69)\\tan(69)$",
+    "answer": "1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Pacific Northwest National Lab are studying how innovations to the process of the synthesis of catalysts can be used to greater control multidimensional catalytic structures. Which of the following quantities will INCREASE when a catalyst is added to a reaction?",
+    "choices": {
+      "W": "Activation Energy",
+      "X": "Change in Gibbs Free Energy",
+      "Y": "Rate of Formation of Products",
+      "Z": "Rate of Formation of Reactants"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at the Joint Genome Institute are studying gene expression in metabolic pathways. Which of the following is NOT a tool used to study the expression of a gene?",
+    "choices": {
+      "W": "RNA-Seq",
+      "X": "qRT-PCR",
+      "Y": "DNA Microarray",
+      "Z": "Southern Blotting"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of stomach cells is the intrinsic factor released from?",
+    "choices": {
+      "W": "Chief Cells",
+      "X": "Parietal Cells",
+      "Y": "Goblet Cells",
+      "Z": "D Cells"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During signal transduction, ions are released from the endoplasmic reticulum, resulting in the ions’ binding and activation of signaling proteins. What type of ion is often involved in this process?",
+    "answer": "$\\text{Ca}^{2+}$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following statements that are TRUE with the titration of a strong acid with a weak base: I. The equivalence point has a pH greater than 7 II. The half-equivalence point has the $\\athrm{pH} = \\athrm{pKa}$ III. The titration curve is STEEPEST at the start of the titration",
+    "answer": "II"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the pKa of hydrofluoric acid is $3.1$, what is the pH of a solution where 1 L of 3 M sodium hydroxide is titrated with 11 L of 3 M hydrofluoric acid.",
+    "answer": "2.1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two blocks of masses 60 and 40 kilograms are connected by a cord that passes over a frictionless pulley. What is the distance traveled to the nearest meter by the 60 kilogram block after 10 seconds.",
+    "choices": {
+      "W": "9.8",
+      "X": "49",
+      "Y": "98",
+      "Z": "196"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following particles DO NOT obey Fermi-Dirac statistics?",
+    "choices": {
+      "W": "Top Quark",
+      "X": "Electron",
+      "Y": "Proton",
+      "Z": "Gluon"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At high latitudes, which of the following correctly describes the change in TEMPERATURE and DENSITY as you approach the surface from underwater?",
+    "choices": {
+      "W": "Temperature Increases, Density Remains Constant",
+      "X": "Temperature Decreases, Density Remains Constant",
+      "Y": "Temperature Remains Constant, Density Decreases",
+      "Z": "Temperature remains Constant, Density Remains Constant"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Along the coast of California, when a strong wind blows in from Mexico, Ekman transport causes the movement of water towards which of the following?",
+    "choices": {
+      "W": "Offshore",
+      "X": "Onshore",
+      "Y": "Alongside the shore, southwards",
+      "Z": "Along the shore, northwards"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the surface area of a cube is 72, what is the length of its longest diagonal?",
+    "answer": "6"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "When the hexadecimal, or base 16 number, $1235654$ is converted to decimal, what is its last digit?",
+    "answer": "6"
+  }
+]

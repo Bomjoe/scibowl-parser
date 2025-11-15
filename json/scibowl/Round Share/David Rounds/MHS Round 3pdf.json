@@ -1,0 +1,436 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A pure orange light shines on a photocell, but no current flows in the circuit. Identify, by name or number, all of the following sources of light that could activate the circuit: 1) Bright red light; 2) Dim red light; 3) Bright white light; 4) Dim white light.",
+    "answer": "3, 4"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In an ideal LC circuit, what is the time difference between all of the energy in the circuit being stored in the inductor and all of the energy being stored in the capacitor?",
+    "choices": {
+      "W": "No time difference",
+      "X": "One-eighth of a period of oscillation",
+      "Y": "One-quarter of a period of oscillation",
+      "Z": "One-half of a period of oscillation"
+    },
+    "answer": "Y) ONE-QUARTER OF A PERIOD OF OSCILLATION"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Igneous rocks that have a significantly high FeO content, low silica content, and more than $18\\$ MgO composition are described as what?",
+    "choices": {
+      "W": "Ultramafic",
+      "X": "Meta",
+      "Y": "Felsic",
+      "Z": "Extrusive"
+    },
+    "answer": "W) Ultramafic"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "List the following events in chronological order according to the nebular theory: 1) Planetesimals collide together creating larger bodies in space; 2) Dust and ice particles collide to form larger particles; 3) A nebula forms from gas and dust left over from the big bang or super novas.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the least energetically favorable conformer of cyclohexane?",
+    "answer": "HALF CHAIR"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following statements that are true about stereoisomerization: 1) Constitutional isomers can be chiral; 2) All molecules which contain one or more asymmetric carbons are chiral; 3) Any molecule with a stereocenter must have a stereoisomer; 4) Some diastereomers have mirror image relationships.",
+    "answer": "1, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What heritable illness is characterized by the body's inability to produce enough hemoglobin, or regular hemoglobin which causes anemia in the patient.",
+    "answer": "THALASSEMIA"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What is the response of the immune system to downregulation of major histocompatibility complex molecules on somatic cells?",
+    "choices": {
+      "W": "B cells are activated and antibodies are released.",
+      "X": "T cells are activated, resulting in cytotoxic response",
+      "Y": "NK cells induce apoptosis of the affected cells",
+      "Z": "Macrophages engulf the pathogen and display its antigens"
+    },
+    "answer": "Y) NK cells induce apoptosis of the affected cells"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "19 has a remainder of 3 when divided by 4, what is the remainder of 19 to the 5th power when it is divided by 8?",
+    "answer": "3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit as x approaches b of the fraction with numerator square root of x - square root of b and denominator of x minus b, where b is greater than 0.",
+    "answer": "$1/(2\\qrt{b})$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding the combination of 2 springs with equal positive spring constants is correct.",
+    "choices": {
+      "W": "The equivalent spring constant for springs in series is always greater than that of springs in parallel.",
+      "X": "The equivalent spring constant for springs in parallel is always greater than that of springs in series.",
+      "Y": "The equivalent spring constant for springs in parallel is always equal to the spring constant for springs in series squared.",
+      "Z": "The equivalent spring constant for springs in parallel is always the same as that of springs in series."
+    },
+    "answer": "X) THE EQUIVALENT SPRING CONSTANT FOR SPRINGS IN PARALLEL IS ALWAYS GREATER"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A virtual image is formed 8cm from a convex mirror with a focal length of 10cm. How far in centimeters from the mirror is the object that created this virtual image?",
+    "answer": "40cm"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The lithosphere and asthenosphere can be classified as which of the following respectively?",
+    "choices": {
+      "W": "Rigid, plastic",
+      "X": "Plastic, expanding",
+      "Y": "Continuous, expanding",
+      "Z": "Continuous, Rigid"
+    },
+    "answer": "W) RIGID, PLASTIC"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term in geology is used to describe a sheet of rock that is formed in the fracture of a preexisting rock body. The magmatic variety is formed from the flow of magma through cracks that solidify into sheet intrusions.",
+    "answer": "DIKE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following addition reactions proceeds in an anti-Markovnikov fashion?",
+    "choices": {
+      "W": "Hydrohalogenation",
+      "X": "Chlorination",
+      "Y": "Hydroboration oxidation",
+      "Z": "Oxymercuration demercuration"
+    },
+    "answer": "Y) HYDROBORATION OXIDATION"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "While conducting a UV-Vis spectrophotometric analysis, you find that your absorbance value is 1, which was determined using an appropriate blank. What is your percent transmittance for this experiment?",
+    "answer": "$10\\$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following effects ethylene has on plants: 1) Decreased shoot growth; 2) Increases lateral root growth of the plants; 3) Stimulates root hair production by the radicle.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What effect in oncology states that: in anaerobic conditions, cancerous cells favor glycolysis for energy production over oxidative phosphorylation.",
+    "answer": "WARBURG EFFECT"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the largest 2 digit positive number that is divisible by 7 and the reverse of its digits is also divisible by 7?",
+    "answer": "77"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the saddle point of the following function: $\\athrm{f(x,y) = x^3 + 3xy + y^3}$.",
+    "answer": "(0,0)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following equipment that would induce an electromotive force by a changing magnetic flux: 1) Electric generator; 2) Transformer; 3) Eddy Current Brake; 4) Mass Spectrometer",
+    "answer": "4 ONLY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A spaceship moves by you at a speed of 0.25c and suddenly they shoot a neutrino beam that has a speed of 0.8c. What is the speed that you measure the neutrino beam to be moving in terms of c?",
+    "answer": "0.875C"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify, by name or number, all of the following types of mass movements that would primarily occur in an arctic environment: 1) Soil Creep; 2) Solifluction; 3) Lahar.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The mineral Beryl is colorless when in its pure form, however when you add trace amounts of chromium and vanadium, the color changes. What is the new color of beryl, when you add chromium and vanadium?",
+    "answer": "GREEN"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What part of the DNA molecule is taken advantage of when conducting a gel electrophoresis lab on a DNA sample?",
+    "choices": {
+      "W": "Nitrogenous Base",
+      "X": "Deoxyribose sugar",
+      "Y": "Phosphate ion",
+      "Z": "Histones"
+    },
+    "answer": "Y) PHOSPHATE ION"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What extracellular matrix glycoprotein is responsible for the regulation of neuronal migration, where the expression of these proteins are significantly lower for patients with Schizophrenia or bipolar disorder?",
+    "answer": "REELIN"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many points of inflection does the titration curve of the titration of 0.5 molar solution of $H_2SO_4$ have when titrated with a 0.5 molar solution of NaOH?",
+    "answer": "1"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many signals does the aldehyde $(CH_3)_3CCH_2CHO$ have in $^1H$ NMR and $^{13}C$ NMR spectra respectively?",
+    "answer": "3, 4"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many diagonals does a regular polygon with 43 sides have?",
+    "answer": "860"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the definite integral from 0 to $\\i / 2$ of $\\in^{2020}(x) / (\\os^{2020}(x) + \\in^{2020}(x)) \\ dx$.",
+    "answer": "$\\i / 4$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "According to Bohr theory, when a Hydrogen atom makes a transition from an $n = 5$ to an $n = 2$ state, the radial distance of the electron from the nucleus changes by",
+    "choices": {
+      "W": "$3a_o$",
+      "X": "$5a_o$",
+      "Y": "$21a_o$",
+      "Z": "$25a_o$"
+    },
+    "answer": "Y) 21a_o"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What particles are depicted as wavy lines in a Feynman diagram, and have limited existence due to Heisenberg's Uncertainty principle?",
+    "answer": "VIRTUAL"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In a basic environment with a reagent of Bromine, what is the major product of the oxidation of thiol?",
+    "answer": "DISULFIDE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following choices is closest to the boiling point of $Br_2$ liquid, given that delta $H = 31\\\\athrm{kJ}$ and delta $S = 93\\\\athrm{J / K}$",
+    "choices": {
+      "W": "288 Kelvin",
+      "X": "332 Kelvin",
+      "Y": "359 Kelvin",
+      "Z": "401 Kelvin"
+    },
+    "answer": "X) 332 KELVIN"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What cell is analogous to phagocytes, however are found in the immune system of invertebrates instead?",
+    "answer": "HEMOCYTE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Both water and glucose share a hydroxyl group that can serve as a substrate for a reaction with the terminal phosphate of ATP catalyzed by hexokinase. Glucose, however, is about a million times more reactive as a substrate than water. The best explanation is that:",
+    "choices": {
+      "W": "The larger glucose binds better to the enzyme; it induces a conformational change in hexokinase that brings active-site amino acids into position for catalysis",
+      "X": "Water normally will not reach the active site because it is hydrophobic",
+      "Y": "Water and the second substrate, ATP, compete for the active site, resulting in a competitive inhibition of the enzyme",
+      "Z": "The hydroxyl group of water is attached to an inhibitory H atom while the glucose hydroxyl group is attached to C"
+    },
+    "answer": "W) THE LARGER GLUCOSE BINDS BETTER TO THE ENZYME; IT INDUCES A CONFORMATIONAL CHANGE IN HEXOKINASE THAT BRINGS ACTIVE-SITE AMINO ACIDS INTO POSITION FOR CATALYSIS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What forms when an island submerges and a ring like formation of algae and coral remains?",
+    "answer": "ATOLL"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term used to measure the intensity of solar radiation and is equal to one gram calorie per square centimeter per minute?",
+    "answer": "LANGLEY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A right triangle with integer side lengths all less than 10 is drawn. A circle is then inscribed in it. What is the area of the inscribed circle?",
+    "answer": "pi"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "When the GCD and LCM of two positive integers are multiplied their product is 200. How many different values could be the greatest GCD of the two integers?",
+    "answer": "4"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the maximum number of 4W light bulbs that could be connected with a 12V source with the circuit allowing a maximum current of 5A?",
+    "answer": "15"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A parallel-plate capacitor of capacitance $1 \\u \\athrm{F}$ is connected to a 2 V battery. The battery is disconnected, and the plate separation is reduced by a factor of two. What is the final voltage in volts on the capacitor?",
+    "answer": "1V"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the last 2 digits of $31^{786}$?",
+    "answer": "81"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the smallest positive value $\\lpha$ for which the curves $y = \\lpha x^2 + \\lpha x + 1 / 24$ and $x = \\lpha y^2 + \\lpha y + 1 / 24$ are tangent to each other.",
+    "answer": "$2/3$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Athletes who often privately credit their victories to their own abilities, and their losses to bad breaks, lousy officiating, or the other team's exceptional performance, are exhibiting which psychological concept?",
+    "choices": {
+      "W": "A low self-esteem",
+      "X": "The spotlight effect",
+      "Y": "Incompetence",
+      "Z": "The self-serving bias"
+    },
+    "answer": "Z) THE SELF-SERVING BIAS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three eukaryotes that have plastids which originated from endosymbiosis of red algae: 1) Dinoflagellates; 2) Euglenids; 3) Apicomplexans",
+    "answer": "1, 3"
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What property describes the ability of a liquid to contact and spread over a solid surface?",
+    "answer": "WETTING"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two fixed 1-coulomb point charges are placed 2 meters apart. A point charge of mass 10 kilograms and charge –1 coulomb is placed at the point exactly halfway between the charges. The negative point charge is then given a small displacement perpendicular to the axis connecting the two positive charges. To one significant figure, what is the period of small oscillations?",
+    "answer": "$2\\times10^{-4}$ SECONDS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following interneurons are lateral inhibitory neurons that interact with ganglion cells of the retina?",
+    "choices": {
+      "W": "Amacrine cells",
+      "X": "Bipolar cells",
+      "Y": "Horizontal cells",
+      "Z": "Lugaro cells"
+    },
+    "answer": "W) AMACRINE CELLS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 molecules that can act as a substrate for glycogen synthase: 1) UTP-Glucose; 2) Glucose 1-Phosphate; 3) CDP-Glucose; 4) UDP-Glucose",
+    "answer": "4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many integer values of $n$ between 1 and 1000 inclusive satisfy the modular equation 6 times $n$ is equivalent to 5 mod 12?",
+    "answer": "0"
+  },
+  {
+    "question_number": 3,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A bivariate function $f(x, y)$ is defined to be 1 when $xy$ is greater than 1 and 0 otherwise. Compute the integral from 0 to 2 of the integral from 0 to 2 of $f(x, y)$ dy dx.",
+    "answer": "$3 - 2\\n(2)$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following regions could the latent heat flux of the ocean be positive?",
+    "choices": {
+      "W": "An area where advection fog is occurring",
+      "X": "An area where a hurricane is forming",
+      "Y": "Over a polynya",
+      "Z": "The latent heat flux of the ocean is never positive"
+    },
+    "answer": "W) AN AREA WHERE ADVECTION FOG IS OCCURRING"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Because of inverse Compton scattering, the cosmic microwave background is distorted such that photons gain energy on average from colliding with electrons in galaxy clusters. What is the term for this effect?",
+    "answer": "SUNYAEV-ZELDOVICH EFFECT"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When nitrogen dioxide is bubbled through water, it disproportionately into nitric oxide and what other species?",
+    "answer": "NITRIC ACID"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is the use of a special reagent, N,O-dimethyl hydroxylamine to control selectivity. Answer the following three questions regarding the image: 1) What is the name of the functional group formed after the first step? 2) The lack of over-addition to the carbonyl compound occurs as a result of a stable cyclic intermediate with how many atoms in the ring? 3) What functional group would have been formed if either of the two addition reactions were performed without the first step?",
+    "answer": "1) WEINREB-AMIDE; 2) 5; 3) ALCOHOL"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers are using the internet to understand the mechanics of the phantom. Which of the following protocols guarantees byte order and correctness of a message?",
+    "choices": {
+      "W": "HTTP",
+      "X": "IP",
+      "Y": "TCP",
+      "Z": "UDP"
+    },
+    "answer": "Y) TCP"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers love to find asymmetries. For 10 points total, answer the following 3 questions regarding the following image. 1) What model is depicting the transition states; 2) Between syn and anti, which one will likely be the major product; 3) What is the lightest element in the images shown?",
+    "answer": "1) ZIMMERMAN TRAXLER; 2) SYN; 3) HYDROGEN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A photon scatters off of a charged particle with a Compton wavelength of $2.4 \\times 10^{-12}$ meters with a scattering angle of $120^{\\irc}$. To two significant figures, what is the change in wavelength of the proton, in meters?",
+    "answer": "$3.6 \\times 10^{-12}$ METERS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "auditory_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Depicted in the audio file is a car honking their horn as they pass by a stationary observer. Answer the following 2 questions regarding this sound: I) What is the name of the effect shown, which is the change in frequency of a wave with a moving source or observer? II) The observer measures the frequency of the horn to be 800 hertz as it passes and 700 hertz as it drives directly away. If the speed of sound is $350 \\athrm{m/s}$, what is the speed of the car?",
+    "answer": "I) DOPPLER; II) 50 M/S"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 bases in RNA that would dimerize when hit with UV light; 1) Adenine; 2) Cytosine; 3) Guanine; 4) Uracil. who cares, either way they are wrong",
+    "answer": "2 AND 4"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Answer the following three questions about the diseased cell shown in the scanning electron microscope image: 1) What is the name for the yellow-colored pathogen? 2) What co-receptor on the blue cell distinguishes it from other cells that have a TCR? 3) An envelope protein of the yellow-colored pathogen is known to bind to the receptor CCR5. CCR5 is a receptor for what class of molecules that induce the movement of leukocytes along the molecules’ concentration gradients?",
+    "answer": "1) HIV; 2) CD-4; 3) CHEMOKINES"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ways are there to color a 1 by 6 grid of squares such that 3 squares are black, 3 squares are white, and no 3 squares in a row are the same color?",
+    "answer": "14"
+  },
+  {
+    "question_number": 9,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a circle of radius 5. A point is drawn outside the circle such that the length of a tangent from it to the circle has length 8. What is the shortest distance from the point to the circle?",
+    "answer": "$\\qrt{89} - 5$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "visual_toss-up",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shown in the image are three nucleosynthetic pathways on a log-log graph of relative energy output versus temperature, with the Sun’s temperature shown as a reference point. Match each of the following three pathways to the curves labeled A, B, and C: 1) triple alpha process; 2) CNO cycle; 3) pp chain.",
+    "answer": "1) C; 2) B; 3) A"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 waves which would be better modeled with the Boussinesq Approximation than the Stokes Expansion: 1) Deep water gravity waves; 2) Deep water capillary waves; 3) Shallow water gravity waves; 4) Tsunamis.",
+    "answer": "3 AND 4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name of the organic reducing reagent, which is a bulky organoaluminum reagent capable of reducing nitriles into aldehydes?",
+    "answer": "DIBAL"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "To 2 significant figures and in joules per kelvin, what is the change in entropy when 2 moles of a linear triatomic ideal gas undergo free adiabatic expansion from an initial volume of 4 liters to a final volume of 11 liters?",
+    "answer": "17"
+  }
+]

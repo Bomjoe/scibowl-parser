@@ -1,0 +1,443 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A mass on a spring undergoes simple harmonic oscillation in one dimension. Suppose Tyler plots the momentum of the mass on the $y$ -axis and the position of the mass on the $x$ -axis. According to conservation of energy, which of the following shapes best describes how the plot will look?",
+    "choices": {
+      "W": "Ellipse",
+      "X": "Line",
+      "Y": "Sinusoid",
+      "Z": "Parabola"
+    },
+    "answer": "W) Ellipse"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A horizontal spring with spring constant 50 newtons per meter is attached to a 5-kilogram block and is stretched to 5 meters from the equilibrium point. Once let go, the maximum velocity of the block is $v_{1}$ . If another spring of spring constant 75 newtons per meter is attached in series to the previous spring, and the composite is stretched to 5 meters from equilibrium with the same block attached, it will experience a maximum velocity of $v_{2}$ . What the ratio of $v_{1}$ to $v_{2}$ ?",
+    "answer": "$\\qrt{15} /3$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true about Population I stars: 1) They are commonly found in the central bulge of a galaxy 2) They are metal-poor 3) They are younger than Population II stars",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three cloud layers of Saturn's atmosphere from lowest to highest: 1) Ammonia 2) Ammonia hydrosulfide 3) Water",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the McGee group at MIT are studying the paleoclimate of the Indian Ocean. In particular, they are analyzing calcium carbonate cave formations from Madagascar to accomplish this task. What term describes these cave formations that can form both on the roof and floor of caves?",
+    "answer": "Speleothem"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the McGee group at MIT are studying the patterns of precipitation at the last glacial maximum. In particular, they are analyzing the movement of what zone associated with low pressure near the equator and converging trade winds?",
+    "choices": {
+      "W": "Intertropical Convergence Zone",
+      "X": "ITCZ",
+      "Y": "doldrums",
+      "Z": ""
+    },
+    "answer": "Intertropical Convergence Zone"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Express the following quantity as a single logarithm in base $10: 2 + \\og_{10} 3 + 3 \\og_{10} 5$ .",
+    "answer": "$\\og_{10} 37500$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the name of the theorem which is the special case of the mean value theorem where the function takes equal values at both endpoints of the interval?",
+    "answer": "Rolle's theorem"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four statements that are true about single circulation, where animals have a two-chambered heart: 1) The atria are oxygen-poor 2) The atria are oxygen-rich 3) The ventricles are oxygen-poor 4) The ventricles are oxygen-rich",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following animals would you expect a penguin's circulatory system to be most similar to?",
+    "choices": {
+      "W": "Panda",
+      "X": "Snake",
+      "Y": "Crocodile",
+      "Z": "Frog"
+    },
+    "answer": "W) Panda"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds cannot act as a Lewis acid?",
+    "choices": {
+      "W": "$\\athrm{BCl}_{3}$",
+      "X": "$\\athrm{CCl}_{4}$",
+      "Y": "$\\athrm{SiCl}_{4}$",
+      "Z": "$\\athrm{SbF}_{5}$"
+    },
+    "answer": "X) $\\athrm{CCl}_{4}$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When $\\athrm{BF}_{3}$ acts as a Lewis acid and accepts an electron pair, which of the following orbitals on $\\athrm{BF}_{3}$ does the electron pair interact with?",
+    "choices": {
+      "W": "A pi bonding orbital",
+      "X": "A pi antibonding orbital",
+      "Y": "A sigma antibonding orbital",
+      "Z": "A non-bonding p orbital"
+    },
+    "answer": "Z) A non-bonding p orbital"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What gas law states that with constant temperature, the volume occupied by a gas is inversely proportional to the pressure of the gas?",
+    "answer": "Boyle's law"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the ratio of the longest wavelength of light emitted by the hydrogen Balmer series to the longest wavelength of light emitted by the hydrogen Lyman series?",
+    "answer": "27/5"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for the mudflows that commonly accompany stratovolcanoes?",
+    "answer": "Lahars"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three periods of Mars' history from earliest to latest: 1) Amazonian 2) Hesperian 3) Noachian",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The \Seven Bridges of Konigsberg\ problem was proposed and proven to have no solution by which mathematician?",
+    "choices": {
+      "W": "Dijkstra",
+      "X": "Euler",
+      "Y": "Poincare",
+      "Z": "Cauchy"
+    },
+    "answer": "X) Euler"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The repeating decimal 0.444 (read: 0.444 repeating) in base $b$ equals the base-10 fraction $1 / 2$ . What is the value of $b$ ?",
+    "choices": {
+      "W": "6",
+      "X": "7",
+      "Y": "8",
+      "Z": "9"
+    },
+    "answer": "Z) 9"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Li group at MIT takes a quantitative approach to studying cell biology. In order to to determine the position of a specific complex on mRNA, they use the antibiotic Puromycin to halt translation. What intracellular complex does Puromycin inhibit?",
+    "answer": "Ribosome"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Li group also studies the control of various sigma factors in bacteria, which bind to specific stretches of DNA. What general process are sigma factors involved in?",
+    "answer": "Transcription"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In still water, the surroundings' reflection produces an image that is mirror-like in appearance. Which of the following terms best describes this reflection?",
+    "choices": {
+      "W": "Diffuse",
+      "X": "Specular",
+      "Y": "Anisotropic",
+      "Z": "Hysteretic"
+    },
+    "answer": "X) Specular"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which of the four fundamental interactions is responsible for beta minus decay?",
+    "answer": "Weak Interaction"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following processes would most likely be affected if Vitamin K was deficient?",
+    "choices": {
+      "W": "Oxidative phosphorylation",
+      "X": "Steroid formation",
+      "Y": "Protein formation",
+      "Z": "Blood clotting"
+    },
+    "answer": "Z) Blood clotting"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true regarding animal development: 1) Cortical rotation establishes the dorsal-ventral axis 2) Cleavage in bird eggs is prevalent over the majority of the fertilized egg 3) The animal-vegetal axis determines the dorsal-ventral axis",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, rank the following three spectral types from highest to lowest temperature: 1) A0 2) A5 3) B3",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three types of waves in increasing order of amplitude: 1) Surface waves 2) P waves 3) S waves",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three substances whose solubility in water increases with increasing temperature: 1) Ammonia gas 2) Hydrogen chloride gas 3) Sodium hydroxide",
+    "answer": "None of them"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three compounds in order of increasing acidity: 1) Phenol 2) Acetic acid 3) Trifluoroacetic acid",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following transformations on the 2D plane does NOT preserve area?",
+    "choices": {
+      "W": "Shear",
+      "X": "Rotation",
+      "Y": "Dilation",
+      "Z": "Reflection"
+    },
+    "answer": "Y) Dilation"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive three-digit numbers contain only even digits?",
+    "answer": "100"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two infinite sheets of charge are laid parallel to each other at a distance $d$ apart. One sheet has a charge of $Q$ , the other a charge of $-2Q$ . If a point at the midpoint between the two sheets has an electric field of magnitude $E$ , what is the magnitude of the electric field at a point a distance $d$ on the other side of the sheet with charge $Q$ ?",
+    "answer": "$E / 3$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An police car has a broken siren so that it produces a constant frequency of 1500 hertz at rest instead of oscillating frequency. The police car is chasing a stolen microphone at a speed of 77 miles per hour relative to the air, but the criminal is able to match their velocity exactly. Given that the speed of sound is 770 miles per hour, what frequency in hertz does the microphone measure?",
+    "answer": "1500 hertz"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Dinca group at MIT is working on the synthesis of metal organic frameworks for small molecule activation. One example of a molecule they are trying to activate is nitric oxide. What is the N-O (read: $N O$ ) bond order in nitric oxide?",
+    "answer": "2.5"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Dinca group at MIT is working on the synthesis of metal organic frameworks to reduce carbon dioxide. If the metal catalyst reduces carbon dioxide to another gas, what is the identity of this gas?",
+    "answer": "Carbon monoxide"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What type of pathogen is interferon production primarily associated with?",
+    "choices": {
+      "W": "Bacteria",
+      "X": "Viruses",
+      "Y": "Fungi",
+      "Z": "Parasitic worms"
+    },
+    "answer": "X) Viruses"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the process in which an immune cell proliferates after contact with an antigen?",
+    "answer": "Clonal selection"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "On a spacetime diagram using natural units, the motion of a photon can be described using a line that makes what angle, in degrees, with the time axis?",
+    "answer": "45 degrees"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An inclined plane with an ideal mechanical advantage of 4 is fitted with a pulley system with an ideal mechanical advantage of 5 to form a single complex machine. Ben finds that when he uses the machine to slide a block up, the actual mechanical advantage is 3.7. Expressed as a percentage to the nearest tenth, what is the efficiency of the machine?",
+    "answer": "18.5%"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four conditions which are sufficient to ensure that the plane can be tesselated with congruent copies of a polygon $P$ : 1) $P$ is a triangle. 2) $P$ is a rectangle. 3) $P$ is a trapezoid. 4) $P$ is a kite.",
+    "answer": "1, 2, 3, 4"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ways are there to paint exactly 3 of the faces of a regular octahedron red, if rotations and reflections are not considered distinct?",
+    "answer": "3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three solids which can be considered network solids: 1) $\\athrm{SiO_2}$ 2) Diamond 3) $\\athrm{I}_2$",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three changes that would decrease the rate constant of a gas phase reaction: 1) Decreasing the activation energy 2) Decreasing the temperature 3) Decreasing the pressure",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three events of the early universe from earliest to latest: 1) Recombination 2) Inflation 3) Grand Unification",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following four metamorphic rocks by increasing metamorphism: 1) Slate 2) Gneiss 3) Phyllite 4) Schist",
+    "answer": "1, 3, 4, 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which mass extinction event 251 million years ago defines the boundary between the Paleozoic and Mesozoic eras?",
+    "answer": "Permian"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The adaptive radiation of mammals can be mapped to the same time frame as the extinction of terrestrial dinosaurs. Which of the following groups is NOT one of the groups that emerged from this adaptive radiation event?",
+    "choices": {
+      "W": "Cynodonts",
+      "X": "Monotremes",
+      "Y": "Marsupials",
+      "Z": "Eutherians"
+    },
+    "answer": "W) Cynodonts"
+  }
+]

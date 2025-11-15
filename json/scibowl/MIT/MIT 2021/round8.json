@@ -1,0 +1,515 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A light wave is propagating in the positive $x$ direction. If at a given point in time, its electric field points in the negative $y$ direction, in which direction does its corresponding magnetic field point?",
+    "choices": {
+      "W": "Positive $x$",
+      "X": "Negative $x$",
+      "Y": "Positive $z$",
+      "Z": "Negative $z$"
+    },
+    "answer": "Z) Negative $z$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A train moving at $60\\$ of the speed of light relative to Nancy has a clock at one end. Oscar synchronizes his watch with this clock and walks a distance of 10 light seconds in his frame, ending at other end of the train. As observed from Nancy's frame, what is the magnitude of the difference in time, in seconds, between the clock and Oscar's watch?",
+    "answer": "4.8 seconds"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of these molecules are IR inactive?",
+    "choices": {
+      "W": "$\\athrm{CO}_{2}$",
+      "X": "$\\athrm{N}_{2}$",
+      "Y": "$\\athrm{H}_{2}\\athrm{O}$",
+      "Z": "Cyclopentane"
+    },
+    "answer": "X) $\\athrm{N}_{2}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following bonds is strongest?",
+    "choices": {
+      "W": "Silicon-hydrogen single bond",
+      "X": "Silicon-oxygen single bond",
+      "Y": "Silicon-fluorine single bond",
+      "Z": "Silicon-chlorine single bond"
+    },
+    "answer": "Y) Silicon fluorine single bond"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the polar equation $r = 5 / (4 + 9 \\os (\\theta))$ ?",
+    "choices": {
+      "W": "Ellipse with major axis parallel to x-axis",
+      "X": "Ellipse with major axis parallel to y-axis",
+      "Y": "Hyperbola with major axis parallel to x-axis",
+      "Z": "Hyperbola with major axis parallel to y-axis"
+    },
+    "answer": "Y) Hyperbola with major axis parallel to x-axis"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What branch of geometry replaces Euclid's Fifth Postulate with the statement, \For any given line $R$ and point $P$ not on $R$, in the plane containing both line $R$ and point $P$ there are at least two distinct lines through $P$ that do not intersect $R$\?",
+    "answer": "Hyperbolic geometry"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at MIT are currently studying protein folding and conformation. An important step is to isolate pure mixtures, where researchers typically rely on chromatographic separation. Which of the following chromatographic methods would be most suitable for separating an ATP-dependent protein from one that is not ATP-dependent?",
+    "choices": {
+      "W": "Size-exclusion",
+      "X": "Cation exchange",
+      "Y": "Anion exchange",
+      "Z": "Affinity"
+    },
+    "answer": "Z) Affinity"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at MIT are currently studying translational regulation mechanisms. In prokaryotic translation, what is the term for the process employed by the trp (trip) operon where the formation of a hairpin structure may lead to blocked translation?",
+    "answer": "Attenuation"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true regarding soil particle-ion interactions?",
+    "choices": {
+      "W": "Negatively charged ions bind well with soil particles",
+      "X": "Neutral pH is ideal for ion- soil particle interactions",
+      "Y": "Ions are not involved with soil damage",
+      "Z": "Synthetic bacterial genes in plants may lead to acid secretion to uptake aluminum cations"
+    },
+    "answer": "Z) Synthetic bacterial genes in plants may lead to acid secretion to uptake aluminum cations"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which of the 20 amino acids is most likely to occupy the largest area on a Ramachandran (RAA-muh-CHAAN-druhn) Plot?",
+    "answer": "Glycine"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true regarding a wave approaching the shore?",
+    "choices": {
+      "W": "Its velocity remains constant",
+      "X": "Its wavelength decreases",
+      "Y": "Its waveheight decreases",
+      "Z": "Its frequency increases"
+    },
+    "answer": "X) Its wavelength decreases"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which zone of the ocean is abrasion most intense?",
+    "choices": {
+      "W": "Neritic",
+      "X": "Intertidal",
+      "Y": "Surf",
+      "Z": "Swash"
+    },
+    "answer": "Y) Surf"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following unit cells has the highest packing efficiency?",
+    "choices": {
+      "W": "Simple cubic",
+      "X": "Body-centered cubic",
+      "Y": "Diamond cubic",
+      "Z": "Face-centered cubic"
+    },
+    "answer": "Z) Face-centered cubic"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A body-centered cubic unit cell has atoms with radii of 340 picometers. To one significant figure and in picometers, what is the side length of the unit cell?",
+    "answer": "800 picometers"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids is NOT classified as hydrophobic?",
+    "choices": {
+      "W": "Proline",
+      "X": "Alanine",
+      "Y": "Phenylalanine (FEE-null-AL-uh-neen)",
+      "Z": "Serine"
+    },
+    "answer": "Z) Serine"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Assuming physiological pH, calculate the overall charge of this peptide, whose residues are represented with their one-letter abbreviations: A.S.P.A.R.T.A.T.E.",
+    "answer": "0"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at MIT are using relativistic effects in galaxy clustering as a new probe of what process in the early universe which explains the apparent problem that distant parts of the cosmic microwave background are isotropic?",
+    "answer": "Cosmic inflation (ACCEPT: cosmological inflation, inflation)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at MIT are studying the results of the LIGO detectors of gravitational waves. Which of the following statements is NOT true about gravitational waves?",
+    "choices": {
+      "W": "They are often studied by Everhart-Thornley detectors.",
+      "X": "Quantum radiation pressure noise dominates LIGO detectors at frequencies below 100 hertz.",
+      "Y": "They travel at the speed of light.",
+      "Z": "The first indirect evidence of gravitational waves came from a neutron star binary."
+    },
+    "answer": "W) They are often studied by Everhart-Thornley detectors"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $Z$ is a standard normal random variable, then what is the expectation of $Z^{3}$?",
+    "answer": "0"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sam repeatedly draws balls from a bag containing 4 different balls, uniformly at random with replacement. What is the expected value of the number of draws it will take Sam to have seen all the balls?",
+    "answer": "25/3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pairs correctly describes both a property of an ideal ammeter and the appropriate location of an ammeter to measure the current along a segment of a circuit?",
+    "choices": {
+      "W": "Infinite resistance, connected in parallel",
+      "X": "Zero resistance, connected in parallel",
+      "Y": "Infinite resistance, connected in series",
+      "Z": "Zero resistance, connected in series"
+    },
+    "answer": "Z) Zero resistance, connected in series"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A capacitor is fully charged in a circuit, and then is taken out without discharging. A dielectric is then placed between the plates of the capacitor. What happens to the charge and voltage across the capacitor, respectively?",
+    "choices": {
+      "W": "Charge stays the same, voltage increases",
+      "X": "Charge stays the same, voltage decreases",
+      "Y": "Charge decreases, voltage increases",
+      "Z": "Charge decreases, voltage decreases"
+    },
+    "answer": "X) Charge stays the same, voltage decreases"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following classes of spiral galaxies is most similar to a lenticular galaxy?",
+    "choices": {
+      "W": "Sa",
+      "X": "Sb",
+      "Y": "Sc",
+      "Z": "Sd"
+    },
+    "answer": "W) Sa"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following four evolutionary events chronologically: 1) First birds 2) First mammals 3) First flowering plants 4) First arthropods",
+    "answer": "4, 2, 1, 3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What empirical law states that each planet is approximately twice as far from the sun as the previous planet?",
+    "answer": "Titius-Bode law (accept: Bode's law)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Nemesis was a brown dwarf which was theorized to exist in the solar system beyond the Oort Cloud. However, sky surveys have since ruled out its existence, because it otherwise likely would have been detected by telescopes observing in which of the following regions of the EM spectrum?",
+    "choices": {
+      "W": "Ultraviolet",
+      "X": "Infrared",
+      "Y": "Microwave",
+      "Z": "Radio"
+    },
+    "answer": "X) Infrared"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The propagation of electrical signals between adjacent plant cells is mediated through what pores, which are generally used in symplastic pathways and are located in the plant cell wall?",
+    "answer": "Plasmodesmata"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plants do NOT exhibit thigmomastic (thig-muh-NA-stik) movement?",
+    "choices": {
+      "W": "Common sundew",
+      "X": "Low's pitcher plant",
+      "Y": "Touch-me-not",
+      "Z": "Venus flytrap"
+    },
+    "answer": "X) Low's pitcher plant"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, arrange the following three steps in the order that they occur in a Carnot cycle, beginning from isothermal expansion: 1) Isothermal compression 2) Adiabatic compression 3) Adiabatic expansion",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What particles with net zero color are composed of three gluons?",
+    "answer": "Glueballs"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three solvents which are miscible with water: 1) Acetone 2) Diethyl ether 3) Hexane",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In thin layer chromatography with silica as the stationary phase, which of the following solvent systems is most likely to produce the largest $R_{f}$ value for a given organic compound?",
+    "choices": {
+      "W": "Hexane",
+      "X": "20 percent dichloromethane in hexane",
+      "Y": "20 percent diethyl ether in hexane",
+      "Z": "20 percent ethyl acetate in hexane"
+    },
+    "answer": "Z) 20 percent ethyl acetate in hexane"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about the circumcircle of a triangle is NOT true?",
+    "choices": {
+      "W": "The circumcircle is always the smallest circle which encloses the triangle.",
+      "X": "The radius of the circumcircle is a term in the extended Law of Sines.",
+      "Y": "The center of the circumcircle is always at an equal distance to each of the vertices of the triangle.",
+      "Z": "The circumcircle of a right triangle always has one of the sides of the triangle as a diameter."
+    },
+    "answer": "W) The circumcircle is always the smallest circle which encloses the triangle."
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Suppose that a cone has a radius of 1 and a height of 2. What is the volume of the largest possible cylinder that can be inscribed within the cone such that the bases of the cylinder are parallel to the base of the cone?",
+    "answer": "$8\\i /27$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Bawendi group at MIT are studying the science and applications of nanocrystals. What term refers to semiconductor nanocrystals that that are generally under $10 \\athrm{nm}$ in diameter and are subject to quantum confinement?",
+    "answer": "quantum dots (accept: artificial atoms)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Drennan group are visualizing metalloproteins and metalloenzymes by combining X-ray crystallography and a technique where frozen samples are vitrified in liquid ethane, have electron beams passed through them, and then imaged by aligning and sub-volume averaging many low-resolution frames of individual proteins. What is this technique called?",
+    "answer": "Cryogenic electron microscopy (accept: cryo-EM)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following features would most strongly indicate the presence of star formation?",
+    "choices": {
+      "W": "Bok globule",
+      "X": "H1 region",
+      "Y": "WHIM",
+      "Z": "Galactic filaments"
+    },
+    "answer": "W) Bok globule"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term describes the alternating light and dark bands on glaciers that form due to the trapping of air bubbles in the winter and sediments in the summer respectively?",
+    "answer": "Ogives"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What type of cells synthesize bone tissue?",
+    "answer": "Osteoblasts (do not accept: osteocytes or osteoclasts)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following hormones mediates epiphyseal plate fusion?",
+    "choices": {
+      "W": "Testosterone",
+      "X": "Progesterone (pro-JESS-ter-own)",
+      "Y": "Estrogen",
+      "Z": "Androsterone (an-DRAW-ster-own)"
+    },
+    "answer": "Y) Estrogen"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What theorem of calculus states that the integral of the curl over a surface is equal to the line integral of the vector field around the boundary of the surface?",
+    "answer": "Stokes' Theorem"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the integral of the flux of the vector field $x\\ot{i} +y\\ot{j} +z\\ot{k}$ (read: $x$ i-hat plus...) out of a sphere centered at the origin of radius 2?",
+    "answer": "$32\\i$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true about the reduction of oxygen to water?",
+    "choices": {
+      "W": "Oxygen will not be reduced at low potential",
+      "X": "The presence of a catalyst will change the thermodynamic potential of oxygen reduction",
+      "Y": "At intermediate potentials, oxygen will be reduced to hydrogen peroxide instead of water",
+      "Z": "The standard reduction potential at pH 7 is higher than the standard reduction potential at pH 14"
+    },
+    "answer": "Z) The standard reduction potential at pH 7 is higher than the standard reduction potential at pH 14"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "If the standard reduction potential from oxygen to water at pH 0 is 1.23 volts, which of the following values is closest to the reduction potential at pH 4 in volts?",
+    "choices": {
+      "W": "1.0",
+      "X": "0.9",
+      "Y": "0.8",
+      "Z": "0.7"
+    },
+    "answer": "W) 1.0"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Given that the Schwarzschild radius of the Sun is approximately 3 kilometers, which of the following is closest to the Schwarzschild radius of Sirius A, which has a mass of roughly 2 solar masses?",
+    "choices": {
+      "W": "3 kilometers",
+      "X": "4 kilometers",
+      "Y": "6 kilometers",
+      "Z": "12 kilometers"
+    },
+    "answer": "Y) 6 kilometers"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A spacecraft in a circular orbit about the Earth then undergoes a short burn to quickly increase its velocity tangentially to its orbit. Which of the following terms best describes the point in its new orbit that the burn was performed, assuming the orbit is still bound?",
+    "choices": {
+      "W": "Periapsis",
+      "X": "Apoapsis (read: a-po-AP-sis)",
+      "Y": "Co-vertex",
+      "Z": "The spacecraft does not return to this point"
+    },
+    "answer": "W) Periapsis"
+  }
+]

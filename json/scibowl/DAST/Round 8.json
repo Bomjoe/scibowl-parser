@@ -1,0 +1,430 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Magma underneath a volcano forms basalt and gabbro when cooled. Which of the following features is the volcano most likely to have?",
+    "choices": {
+      "W": "Cinder cone",
+      "X": "Shield volcano",
+      "Y": "Stratovolcano",
+      "Z": "Lava dome"
+    },
+    "answer": "X) SHIELD VOLCANO"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What silicate group has a base structural unit of $\\athrm{Si}_2\\athrm{O}_6^{4-}$, contains chains of silicates, and includes the amphiboles and pyroxenes?",
+    "answer": "INOSILICATES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three absorptions by increasing wavenumber in Infrared Spectroscopy:1) N–H stretch;2) aldehyde C–O stretch;3) N–O asymmetric stretch.",
+    "answer": "3,2,1"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the standard oxidation potential for the Silver (I) ion is $-0.80 \\athrm{~V}$, and the standard reduction potential for the Thallium (III) ion is $+0.72 \\athrm{~V}$, calculate the voltage of a galvanic cell which reduces $\\athrm{Ag}^+$ at the cathode and oxidizes $\\athrm{Ti}^{3+}$ at the anode.",
+    "answer": "+0.08 \\athrm{~V}"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Chronic myelogenous leukemia occurs when a reciprocal translocation swaps a large portion of chromosome22 with a small fragment of chromosome9. What is the name for the new small chromosome22?",
+    "answer": "PHILADELPHIA CHROMOSOME"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Justin has run out of vegetables that taste good to him, so he wants to bioengineer a new one. In order to do this, he uses what technique in which plant cells of different species have their cell walls removed and are then combined to form hybrid cells that grow in a culture?",
+    "answer": "PROTOPLAST FUSION"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the value of the integral from0 to infinity of the fraction with numerator e and denominator open parentheses pi times x close parentheses dx?",
+    "choices": {
+      "W": "0",
+      "X": "pi to the power of e",
+      "Y": "e to the power of pi",
+      "Z": "It diverges"
+    },
+    "answer": "Z) IT DIVERGES"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the indefinite integral of sine of x times the square root of open parentheses1 plus tangent of x squared close parentheses with respect to x?",
+    "answer": "- \\n(\\os(x)) + C"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following actions will double the gravitational binding energy of a spherical planet?",
+    "choices": {
+      "W": "Doubling its mass",
+      "X": "Doubling its radius",
+      "Y": "Halving its mass",
+      "Z": "Halving its radius"
+    },
+    "answer": "Z) HALVING ITS RADIUS"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What magnetic state is commonly referred to in quantum chaos theory and contains spins that are completely random, making it analogous to the random positional disorder in amorphous materials?",
+    "answer": "SPIN GLASS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Lab have recently been investigating quantum computers. Pure states of the quantum bit, or qubit, can be represented on the surface of what3-D geometric model?",
+    "answer": "BLOCH SPHERE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Idaho National Lab have been attempting to create new nanotechnologies using conducting plates with small separation. They’ve been trying to apply what effect, in which the space between two conducting plates will have restrictions on virtual particle frequencies, causing a negative energy density?",
+    "answer": "CASIMIR EFFECT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true regarding carbocation rearrangements?",
+    "choices": {
+      "W": "Hydride shifts favor the formation of secondary carbocations because they are more stable than tertiary carbocations",
+      "X": "Methyl shifts favor the formation of secondary carbocations because they are more stable than tertiary carbocations",
+      "Y": "A hydride shift can occur that moves a tertiary carbocation to the vinylic position, creating a resonance-stabilized carbocation",
+      "Z": "A hydride shift can occur that moves a tertiary carbocation to the allylic position, creating a resonance-stabilized carbocation"
+    },
+    "answer": "Z) A HYDRIDE SHIFT CAN OCCUR THAT MOVES A TERTIARY CARBOCATION TO THE ALLYLIC POSITION, CREATING A RESONANCE- STABILIZED CARBOCATION"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three isotopes by increasing binding energy per nucleon:1) Tin-119;2) Uranium-238;3) Iron-56.",
+    "answer": "2,1,3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements pertaining to chromatin and its modifications is FALSE?",
+    "choices": {
+      "W": "Telomeres are more likely to be composed of euchromatin than heterochromatin",
+      "X": "Euchromatin has a dispersed arrangement when compared to heterochromatin",
+      "Y": "Euchromatin can be easily used to transcribe genes, while heterochromatin cannot",
+      "Z": "According to the histone code hypothesis, methylation and phosphorylation of neighboring residues on a histone tail should cause loosening of chromatin"
+    },
+    "answer": "W) TELOMERES ARE MORE LIKELY TO BE COMPOSED OF EUCHROMATIN THAN HETEROCHROMATIN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four statements regarding piwi-associated RNAs that are true:1) They induce the conversion of euchromatin to heterochromatin via acetylation of lysine residues on histone tails;2) They inhibit transposon expression;3) They can be found in both animals and plants;4) They are a type of noncoding RNA.",
+    "answer": "2 AND4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $f$ of $x$, $y$ equals $x$ squared times $y$, what is the partial derivative with respect to $x$ of the partial derivative with respect to $y$ of $f$ plus the partial derivative with respect to $y$ of the partial derivative with respect to $x$ of $f$?",
+    "answer": "$4x$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $f$ be a function that removes the leftmost and rightmost digits of a positive integer and outputs the new, shortened number. For example, $f$ of1234 equals23, and $f$ of12 equals0. X is a positive integer with all nonzero digits such that X is divisible by12, $f$ of X is divisible by45, and $f$ of $f$ of X equals0. How many possible values of X are there?",
+    "answer": "6"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for a geologic structure where the strata have an uniform dip in the same direction and approximately the same angle?",
+    "answer": "HOMOCLINE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four types of faults that are characteristic of a detachment fault:1) Reverse fault;2) Thrust fault;3) Megathrust fault;4) Normal fault.",
+    "answer": "4 ONLY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A strip is made of two metals, zinc and copper, which have linear expansion coefficients of $2.6 \\times10^{-5}$ and $1.7 \\times10^{-5}$, respectively. Which of the following best describes what happens when the strip is heated?",
+    "choices": {
+      "W": "The strip will bend toward the copper.",
+      "X": "The strip will bend toward the zinc.",
+      "Y": "The strip will not bend.",
+      "Z": "More information about the amount that the strip is heated is needed in order to determine how the strip will behave."
+    },
+    "answer": "W) THE STRIP WILL BEND TOWARD THE COPPER."
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A container of water of mass12 kilograms has a temperature20 degrees Celsius. A hot2-kilogram metal with temperature150 degrees Celsius is placed inside the water to cool down. To the nearest degree, what is the temperature of the metal after it reaches thermal equilibrium with the water if the heat capacity of the water is4200 Joules per kilogram Celsius and if the heat capacity of the metal is126 Joules per kilogram Celsius?",
+    "answer": "21 DEGREES CELSIUS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab are modelling the flow of water through plants to better understand resource distribution pathways. What hypothesis, the prevailing theory regarding plant nutrient transport, claims that xylem sap rises due to transpiration?",
+    "answer": "COHESION- TENSION HYPOTHESIS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Laboratory are using the Advanced Photon Source to study the primordial atmosphere of Earth. Molecules released from the outgassing process eventually react with crustal rocks to form what class of minerals?",
+    "answer": "CARBONATES"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "At Cape Cod, a spring tide is measured on the morning of September5th. At what month and date is the next neap tide most likely to occur?",
+    "answer": "SEPTEMBER12TH"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The tropical atmosphere fluctuates on30-to-90-day intervals. This fluctuation is responsible for the inverse relationship between the tropical activity in the Western North Pacific basin and the North Atlantic basin, as well as Pineapple Express events in California. What phenomenon dictates these weather patterns?",
+    "answer": "MADDEN- JULIAN OSCILLATION"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What name is given to a wave that maintains its shape while it moves as a result of the cancellation of dispersion?",
+    "answer": "SOLITON"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements about solitons that are true:1) They are localized to a specific region;2) Combining two solitons results in a bion;3) They are unaffected in collisions with other solitons.",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four drugs that are commonly used to treat breast cancer of the subtype Luminal A:1) Herceptin;2) Taxol;3) Tamoxifen;4) Lapatinib.",
+    "answer": "2 AND3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are NOT true regarding the pentose phosphate pathway:1) The first step is the reduction of glucose6-phosphate as it accepts an electron from NADPH;2) It occurs in the cytosol in mammals;3) A reversal of its nonoxidative phase is essentially the Calvin Cycle.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the bond angle in $\\athrm{NO}_2$?",
+    "choices": {
+      "W": "106 degrees",
+      "X": "118 degrees",
+      "Y": "134 degrees",
+      "Z": "162 degrees"
+    },
+    "answer": "Y)134 DEGREES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "One mole of a real gas at0 degrees Celsius occupies1 liter of volume. If the van der Waals parameters are $a$ equals10 atmosphere liters-squared per mole-squared and $b$ equals .05 liters per mole, which of the following is closest to the pressure of the gas?",
+    "choices": {
+      "W": "6.5 atmospheres",
+      "X": "13 atmospheres",
+      "Y": "26 atmospheres",
+      "Z": "52 atmospheres"
+    },
+    "answer": "X)13 ATMOSPHERES"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the closest to the value of the integral from1 to400 of the natural log of $x$ dx minus the natural log of400 factorial?",
+    "choices": {
+      "W": "-100",
+      "X": "0",
+      "Y": "100",
+      "Z": "10000"
+    },
+    "answer": "X)0"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $f$ of $x, y, z$ equals $x$ times $y$ minus $y$ times the natural log of $z$, find the Laplacian of $f$.",
+    "answer": "$y / z^2$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Argonne National Lab are studying nickel–bismuth compounds using the Advanced Photon Source to research the interactions between ferromagnetic and diamagnetic materials. Diamagnetic materials are defined to have what values for magnetic susceptibility?",
+    "choices": {
+      "W": "negative",
+      "X": "zero",
+      "Y": "positive",
+      "Z": "imaginary"
+    },
+    "answer": "W) NEGATIVE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Laboratory are studying the impact of energy production on aquatic ecosystems. Recently, climate change has caused coral to bleach. What organisms are expelled from the coral polyp when bleaching occurs?",
+    "answer": "ALGAE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Two pentane molecules are separated at a certain distance. If the distance between the molecules is halved, by what factor does the attractive force between them change?",
+    "answer": "128"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding molecular orbitals:1) All sigma bonding orbitals have zero nodal planes crossing the internuclear axis;2) Bonding orbitals are constructed more from atomic orbitals of an electropositive element, and antibonding orbitals are constructed more from atomic orbitals of an electronegative element;3) The molecular orbitals in a carbon-carbon triple bond create a region of electron density that lacks cylindrical symmetry due to pi molecular orbitals.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Sid kicks a ball into the air at an angle of60 degrees at20 meters per second. When the ball is at its highest point, what is the radius of curvature of its trajectory in meters, given that $g =10$ meters per second squared?",
+    "answer": "10"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Three spherical shells of masses5,10, and15 kilograms that have inner radii and outer radii of1 and2 meters,2 and3 meters, and3 and4 meters, respectively, are placed inside each other, with the small shell being placed in the middle shell, which is then placed in the large shell. A torque of17 newton meters is applied tangent to the outer shell. Find the acceleration at a point on the outer surface of the largest shell in meters per seconds squared.",
+    "answer": "1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If log of2 equals0.301 and if log of3 equals0.477, what is log of15?",
+    "answer": "1.176"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $a$ and $b$ be the two distinct roots of $x$ squared plus $20x$ plus21. Compute $a$ squared minus $20b$.",
+    "answer": "379"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In prokaryotes, what sequence serves as the ribosomal binding site for mRNA, as opposed to the5 prime cap in eukaryotes?",
+    "answer": "SHINE- DALGARNO SEQUENCE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three monosaccharides that are aldoses:1) glucose;2) ribose;3) fructose.",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The optical depth decreases as an observer looks toward the edges of the Sun in the sky as opposed to the center of the disk. This leads to what phenomenon where the central part of the disk appears to be brighter than the edges?",
+    "answer": "LIMB DARKENING"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A star is16 times as massive as the Sun. What factor of the Sun's lifetime will this star's lifetime be?",
+    "answer": "1/1024"
+  }
+]

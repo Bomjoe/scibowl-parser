@@ -1,0 +1,394 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By number, list all of the following 4 statements that are true about second order elimination reactions: 1) If NaOEt or sodium ethoxide is used as a base then the reaction will follow generally Zaitsev's Rule; 2) If NaOtBu or sodium tert butoxide is used as a base then the reaction will favor the Zaitsev product; 3) The leaving group and the adjacent hydrogen must exhibit a syn-periplanar conformation; 4) A tertiary substrate is preferred over a primary substrate.",
+    "answer": "1 AND 4"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the gas phase reaction between ozone and an alkene, ozone attacks the carbon carbon double bond, forming a primary ozonide, which then decomposes into a carbonyl and what other intermediate?",
+    "answer": "CRIEGEE INTERMEDIATE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Giving your answer in terms of x, evaluate the indefinite integral of lnx.",
+    "answer": "$x\\n x - x$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Giving your answer in terms of x, evaluate the indefinite integral for xlnx.",
+    "answer": "$x^{2}\\n x - \\rac{1}{4} x^{2}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Birds are animals which use the ZW sex determination system. How many types of sex chromosomes are found in a bird sperm cell?",
+    "answer": "1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Histone acetylation is a process by which acetyl groups are added to histone tails, promoting transcription. Which amino acid is acetylated in this process?",
+    "answer": "LYSINE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "To the nearest joule, how much work is done by 2 moles of an ideal gas that expands from 10 liters to 27.18 liters at 100 K?",
+    "answer": "1663"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "For a sample of monatomic ideal gas in a rigid container, 90 joules of energy is required to increase the temperature by 10 K. How much energy, in joules, is required to increase the temperature by 100 K under isobaric conditions for the same amount of gas?",
+    "answer": "1500"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At high latitudes, which of the following best describes how ocean temperature changes with increasing depth?",
+    "choices": {
+      "W": "Temperature increases with increasing depth",
+      "X": "Temperature decreases with increasing depth",
+      "Y": "Temperature increases up to a certain point, and then decreases",
+      "Z": "Temperature does not change significantly with increasing depth"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 3 which are terrigenous sediments: 1) Calcium Carbonates; 2) Abyssal clay; 3) Manganese Nodules.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Consider 5x5 matrix M. A basis for the column space of M contains 3 vectors. How many vectors does a basis for the null space of M contain?",
+    "answer": "2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find an orthonormal basis for the null space for the 2x2 matrix with first row 4 3 and second row -4 -3.",
+    "answer": "THE COLUMN VECTOR WITH ENTRIES $\\rac{3}{5}$ and $-\\rac{4}{5}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compartments of the cow’s stomach is incorrectly matched with its function",
+    "choices": {
+      "W": "The rumen is the first chamber that food enters",
+      "X": "The reticulum contains cellulose digesting microorganisms",
+      "Y": "The omasum is where digestion by a cow’s own enzymes occurs",
+      "Z": "The abomasum is the last chamber that food enters"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Enterochromaffin cells in the stomach produce large quantities of what tryptophan derived neurotransmitter?",
+    "answer": "SEROTONIN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following groups of silicates contains silicon tetrahedrons arranged in single chains?",
+    "choices": {
+      "W": "Amphibole",
+      "X": "Pyroxene",
+      "Y": "Mica",
+      "Z": "Feldspar"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three minerals that are carbonates: 1) Dolomite; 2) Sphalerite; 3) Galena.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Huckel Molecular Orbital Theory would be most applicable to which of the following groups of molecules?",
+    "choices": {
+      "W": "Carbonyls",
+      "X": "Conjugated hydrocarbons",
+      "Y": "High spin ligands",
+      "Z": "Low spin ligands"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider the propylene anion $\\athrm{H}_{2}\\athrm{CCHCH}_{2}$. How many nodes do the HOMO and LUMO contain, respectively?",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A particle of charge q travels with constant speed v in the xy-plane and a constant magnetic field is applied in the positive z direction. What conic section represents the path that the particle takes?",
+    "choices": {
+      "W": "Hyperbola",
+      "X": "Ellipse",
+      "Y": "Circle",
+      "Z": "Parabola"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle of charge 10 microcoulombs and mass 0.1 grams travels in the positive z direction with speed 4 meters per second in a magnetic field. Find the direction and magnitude in Tesla of the magnetic field required for the charge to maintain its velocity. Assume g is equal to 10 meters per second squared.",
+    "answer": "2.5 T IN THE POSITIVE X DIRECTION"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 nitrogenous wastes by increasing number of nitrogen atoms per molecule: 1) Ammonia; 2) Urea; 3) Uric Acid.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What disaccharide which is found in many anhydrobiotic roundworms, is also utilised as a membrane protectant in insects to avoid freezing?",
+    "answer": "TREHALOSE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Vibrations can cause molecules of certain hypervalent geometries, most notably the trigonal bipyramidal geometry, to isomerize by exchanging two axial ligands for two equatorial ligands. What is the name for these vibrations, which is the most widely accepted mechanism for pseudorotation?",
+    "answer": "BERRY MECHANISM"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "One mechanism proposed for the racemization of octahedral complexes with 3 bidentate rings is the Ray-Dutt twist. What is the name of the pathway with a similar mechanism that does not break any metal-ligand bonds?",
+    "answer": "BAILAR TWIST"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following minerals in decreasing order of crystallization temperature: 1) Pyroxene, 2) Olivine, 3) Quartz",
+    "answer": "2,1,3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What soil order refers to that which contains young soils in which the parent material is volcanic ash and cinders, deposited by recent volcanic activity?",
+    "choices": {
+      "W": "Andisols",
+      "X": "Oxisols",
+      "Y": "Vertisols",
+      "Z": "Gelisols"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Dan Ni can solve 1 problem in 40 minutes and Dan Ni's evil clone, Nan Di, who is better than him in every way, can solve 40 problems in 1 minute. How many problems can these two creatures solve, working together, in 80 minutes?",
+    "answer": "3202"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following theorems states that the complex numbers are algebraically closed?",
+    "choices": {
+      "W": "Abel-Ruffini Theorem",
+      "X": "Fundamental Theorem of Calculus",
+      "Y": "Fundamental Theorem of Arithmetic",
+      "Z": "Fundamental Theorem of Algebra"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Find the capacitance of a circuit with 1 capacitor with capacitance C in parallel to 2 capacitors in series with capacitance 2C.",
+    "answer": "2C"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a cube with length L in which point charges of charge Q are placed on each vertex. The electrical potential energy of the configuration can be represented as a fraction with numerator a times k times Q-squared and denominator L, where k is Coulomb’s constant and a is a constant. What is the value of a?",
+    "answer": "$\\qrt{3} + 6\\qrt{2} + 12$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "During the contact process, what catalyst is used to oxidize sulfur dioxide to sulfur trioxide in the presence of oxygen?",
+    "choices": {
+      "W": "Palladium",
+      "X": "Vanadium pentoxide",
+      "Y": "Aluminum oxide",
+      "Z": "Silica"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Provide the balanced net ionic equation for the reaction of potassium dichromate with iron(II) sulfate in acidic conditions. You may disregard states of matter in your answer.",
+    "answer": "$6Fe^{2+} + Cr_{2}O_{7}^{2-} + 14H^{+} \\ightarrow 6Fe^{3+} + 2Cr^{3+} + 7H_{2}O$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is most likely to form a neutron star after dying?",
+    "choices": {
+      "W": "Brown dwarf less than 0.8 solar masses",
+      "X": "Medium star between 0.8-8 solar masses",
+      "Y": "Giant star between 8-20 solar masses",
+      "Z": "Giant star exceeding 20 solar masses"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of these constellations will only be seen in the southern hemisphere?",
+    "choices": {
+      "W": "Orion",
+      "X": "Canis major",
+      "Y": "Crux",
+      "Z": "Cassiopeia"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Give, in order, the number of angular nodes for each of the following 5 orbitals: 5s, 2p, 4d, 7f, 10g",
+    "answer": "0, 1, 2, 3, 4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about atomic orbitals is not true?",
+    "choices": {
+      "W": "Quantization of the energy of atomic orbitals helped solve the problem of UV catastrophe",
+      "X": "The number of orbitals are conserved when atomic orbitals combine to form molecular orbitals",
+      "Y": "An atomic orbital with principal number n and azimuthal number L has n-L radial nodes",
+      "Z": "P orbitals contribute more to bonding with increasing principal number"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Karan sleeps from 6 AM to 3 PM. However, Karan forgot to write questions for his Science Bowl round, which is due at 3 PM, so he sets an alarm for every 30 minutes starting from 12 PM up to 2 PM. Every time the alarm goes off, Karan has a $\\rac{1}{2}$ chance of waking up. What is the probability that Phillip is forced to write all of the questions because Karan doesn't wake up?",
+    "answer": "$\\rac{1}{32}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "When the roots to the equation $\\eft(\\rac{x - \\qrt{2}}{2}\\ight)^4 = -1$ is graphed on the complex plane, the 4 points form a square. Find the area of the square.",
+    "answer": "2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the genus and species of insect with four chromosomes that was used as a test subject by TH Morgan?",
+    "answer": "Drosophila melanogaster"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following terms best describes large chromosomes with over a thousand strands formed by repeated DNA replication without cell division, often found in Drosophila salivary glands?",
+    "choices": {
+      "W": "Polythene chromosome",
+      "X": "Multiploid chromosome",
+      "Y": "Polyploid chromosome",
+      "Z": "Drosophila chromosome"
+    },
+    "answer": "W"
+  }
+]

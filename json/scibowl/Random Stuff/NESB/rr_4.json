@@ -1,0 +1,648 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify a silica-rich, relatively light-colored intrusive rock composed primarily of potassium feldspar, quartz, sodium plagioclase, hornblende, and mica?",
+    "answer": "GRANITE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following land forms is not associated with glacial erosion?",
+    "choices": {
+      "W": "Cirques",
+      "X": "Kames",
+      "Y": "Fiords",
+      "Z": "Homs"
+    },
+    "answer": "X- KAMES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The hormones that cause the tissues of an embryo to develop male organs are",
+    "choices": {
+      "W": "androgens.",
+      "X": "estrogens.",
+      "Y": "FSH.",
+      "Z": "LH."
+    },
+    "answer": "W- ANDROGENS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "During early development, human male and female embryos are identical in appearance for the first",
+    "choices": {
+      "W": "six weeks.",
+      "X": "eight weeks.",
+      "Y": "three months.",
+      "Z": "five months."
+    },
+    "answer": "W- SIX WEEKS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Encapsulation is",
+    "choices": {
+      "W": "a form of abstraction.",
+      "X": "information hiding.",
+      "Y": "combining data and behavior.",
+      "Z": "none of the above"
+    },
+    "answer": "X- INFORMATION HIDING"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "In a relational database",
+    "choices": {
+      "W": "all information is represented as values in a table.",
+      "X": "logical aspects are separated from physical aspects.",
+      "Y": "NULL values are always valid datatypes.",
+      "Z": "all of the above"
+    },
+    "answer": "Z- ALL OF THE ABOVE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The person who first realized that an electric current produces a magnetic field was",
+    "choices": {
+      "W": "Hans Oersted.",
+      "X": "Albert Einstein.",
+      "Y": "Michael Faraday.",
+      "Z": "William Gilbert."
+    },
+    "answer": "W- HANS OERSTED"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The Earth's magnetic south pole is located in",
+    "choices": {
+      "W": "Alaska.",
+      "X": "Australia.",
+      "Y": "Russia.",
+      "Z": "Canada."
+    },
+    "answer": "Z- CANADA"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Halving a musical note's amplitude",
+    "choices": {
+      "W": "halves its frequency.",
+      "X": "decreases its loudness.",
+      "Y": "doubles its speed.",
+      "Z": "halves its wavelength."
+    },
+    "answer": "X- DECREASES ITS LOUDNESS"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What is the name for the process for making hydrocarbon oils from coal, lignite, or natural gas, which was first used in Germany?",
+    "answer": "FISHER-TROPSCH (PROCESS)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Aldehydes or ketones that contain numerous hydroxyl groups are called",
+    "choices": {
+      "W": "proteins.",
+      "X": "carbohydrates.",
+      "Y": "nucleic acids.",
+      "Z": "lipids."
+    },
+    "answer": "X- CARBOHYDRATES"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a class of lipids?",
+    "choices": {
+      "W": "waxes",
+      "X": "steroids",
+      "Y": "fats",
+      "Z": "amino acids"
+    },
+    "answer": "Z- AMINO ACIDS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Our understanding of the universe has been advanced greatly by Newtonian mechanics, relativity theories and quantum mechanics. A more recent development involves the rules of mechanics that deal with unstable systems called",
+    "choices": {
+      "W": "gravitational theory.",
+      "X": "chaos theory.",
+      "Y": "time motion theory.",
+      "Z": "Lorentz contractions."
+    },
+    "answer": "X- CHAOS THEORY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "A telescope's magnifying power is defined by",
+    "choices": {
+      "W": "focal length of eye piece times the focal length of the objective.",
+      "X": "focal length of the eye piece divided by the length of the objective.",
+      "Y": "focal length of the objective times the focal length of the eye piece.",
+      "Z": "focal length of the objective divided by the focal length of the eye piece."
+    },
+    "answer": "Z- FOCAL LENGTH OF THE OBJECTIVE DIVIDED BY THE FOCAL LENGTH OF THE EYE PIECE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Before it is released from the ovary, the ovum does not",
+    "choices": {
+      "W": "become diploid.",
+      "X": "receive nutrients.",
+      "Y": "become larger.",
+      "Z": "undergo meiosis."
+    },
+    "answer": "W- BECOME DIPLOID"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The head of a sperm contains a small cap that contains the enzyme vital to",
+    "choices": {
+      "W": "more sperm production.",
+      "X": "its mobility.",
+      "Y": "fertilization.",
+      "Z": "its development."
+    },
+    "answer": "Y- FERTILIZATION"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A system for the representation of a point in space in terms of its distance, measured along a set of mutually perpendicular axes is called",
+    "choices": {
+      "W": "Cartesian coordinates.",
+      "X": "Polar coordinates.",
+      "Y": "Cassini coordinates.",
+      "Z": "Weissmann coordinates."
+    },
+    "answer": "W- CARTESIAN COORDINATES"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A part of a solid, such as a cone or pyramid, lying between the base and a plane parallel to the base, which intersects with the solid, is called a",
+    "answer": "FRUSTUM"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A rectifier is a",
+    "choices": {
+      "W": "triode.",
+      "X": "diode.",
+      "Y": "semiconductor.",
+      "Z": "transistor."
+    },
+    "answer": "X- DIODE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following does not correctly describe a diode?",
+    "choices": {
+      "W": "It consists of a filament and a plate",
+      "X": "It is a type of glass vacuum tube",
+      "Y": "There is a flow of electrons in it",
+      "Z": "It is filled with argon gas"
+    },
+    "answer": "Z- IT IS FILLED WITH ARGON GAS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An example of a polysaccharide is",
+    "choices": {
+      "W": "glycogen.",
+      "X": "pentose.",
+      "Y": "glucose.",
+      "Z": "sucrose."
+    },
+    "answer": "W- GLYCOGEN"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The unfolding of a protein by heat or extreme pH is called",
+    "choices": {
+      "W": "hydrogenation.",
+      "X": "denaturation.",
+      "Y": "dehydrogenation.",
+      "Z": "hydration."
+    },
+    "answer": "X- DENATURATION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true of a binary search tree?",
+    "choices": {
+      "W": "A binary tree has a finite set of vertices",
+      "X": "Each vertex of a binary tree is either empty or is the root of two disjoint binary subtrees",
+      "Y": "A binary tree has an infinite set of vertices",
+      "Z": "the binary subtrees of a vertex are called the left and right subtrees"
+    },
+    "answer": "Y- A BINARY TREE HAS AN INFINITE SET OF VERTICES"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "In a binary search tree, at each node NI with key KI",
+    "choices": {
+      "W": "the keys to the left of NI are half of the keys to the right of NI.",
+      "X": "all the keys in the right subtree of NI are less than KI, and all keys in the left subtree of node NI are greater than KI.",
+      "Y": "all the keys in the left subtree of NI are less than KI, and all keys in the right subtree of node NI are greater than KI.",
+      "Z": "all the keys below node NI have the value KI."
+    },
+    "answer": "Y- ALL THE KEYS IN THE LEFT SUBTREE OF NI ARE LESS THAN KI AND ALL THE KEYS IN THE RIGHT SUBTREE OF NODE NI ARE GREATER THAN KI"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Not all viruses",
+    "choices": {
+      "W": "are enclosed in a membrane.",
+      "X": "have a protein coat.",
+      "Y": "are noncellular.",
+      "Z": "contain DNA or RNA"
+    },
+    "answer": "W- ARE ENCLOSED IN A MEMBRANE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Botulism attacks the",
+    "choices": {
+      "W": "digestive system.",
+      "X": "reproductive system.",
+      "Y": "respiratory system.",
+      "Z": "nervous system."
+    },
+    "answer": "Z- NERVOUS SYSTEM"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The plasma flowing from the sun due to the solar wind meets the earth's electrical fields in the",
+    "choices": {
+      "W": "troposphere.",
+      "X": "ionosphere.",
+      "Y": "magnetosphere.",
+      "Z": "stratosphere."
+    },
+    "answer": "Y- MAGNETOSPHERE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The Sun's corona is",
+    "choices": {
+      "W": "hotter than the Sun's visible surface.",
+      "X": "cooler than the Sun's visible surface.",
+      "Y": "in thermal equilibrium with the Sun's photosphere.",
+      "Z": "in thermal equilibrium with the Sun's Chromosphere."
+    },
+    "answer": "W- HOTTER THAN THE SUN'S VISIBLE SURFACE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Semiconductors",
+    "choices": {
+      "W": "are better electrical conductors than metals.",
+      "X": "are much larger than vacuum tubes.",
+      "Y": "must be replaced more frequently than vacuum tubes.",
+      "Z": "do not give off as much heat as vacuum tubes."
+    },
+    "answer": "Z- DO NOT GIVE OFF AS MUCH HEAT AS VACUUM TUBES"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Semiconductors",
+    "choices": {
+      "W": "may behave like diodes.",
+      "X": "are insulators.",
+      "Y": "transmit electric current in two directions.",
+      "Z": "do not have many advantages over vacuum tubes."
+    },
+    "answer": "W- MAY BEHAVE LIKE DIODES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Carbohydrates that cannot be broken down into smaller units are called",
+    "choices": {
+      "W": "starches.",
+      "X": "monosaccharides.",
+      "Y": "polysaccharides.",
+      "Z": "disaccharides."
+    },
+    "answer": "X- MONOSACCHARIDES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following vitamins is water-soluble?",
+    "choices": {
+      "W": "vitamin A",
+      "X": "vitamin C",
+      "Y": "vitamin D",
+      "Z": "vitamin E"
+    },
+    "answer": "X- VITAMIN C"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify a fine grained extrusive rock derived from a low-silica melt that is rich in iron and magnetism?",
+    "answer": "BASALT"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Of the following glacial deposits, which would exhibit the poorest aquifer properties?",
+    "choices": {
+      "W": "Drumlins",
+      "X": "Eskers",
+      "Y": "Plains",
+      "Z": "Kames"
+    },
+    "answer": "W- DRUMLINS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is responsible for the changing of the seasons in North America?",
+    "choices": {
+      "W": "The Earth's axis is not perpendicular to the ecliptic",
+      "X": "The Earth's orbit is elliptical",
+      "Y": "The Earth's axis precesses",
+      "Z": "The Sun moves through space"
+    },
+    "answer": "W- THE EARTH'S AXIS IS NOT PERPENDICULAR TO THE ECLIPTIC"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why a sailboat can sail into the wind?",
+    "choices": {
+      "W": "Archimedes' Principle",
+      "X": "Bernoulli's Law",
+      "Y": "Pascal's Law",
+      "Z": "Reynold's Numbers"
+    },
+    "answer": "X- BERNOULLI'S LAW"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Selective doping of a silicon chip",
+    "choices": {
+      "W": "forms the connections between diodes and transistors.",
+      "X": "causes certain areas to become diodes while other areas become transistors.",
+      "Y": "allows it to be connected to other electrical devices.",
+      "Z": "makes it extremely long-lasting."
+    },
+    "answer": "X- CAUSES CERTAIN AREAS TO BE DIODES WHILE OTHER AREAS BECOME TRANSISTORS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Integrated circuits",
+    "choices": {
+      "W": "are used as amplifiers and switches.",
+      "X": "do not need connections between their diodes and transistors.",
+      "Y": "only contain a small number of diodes and transistors.",
+      "Z": "have only limited usefulness."
+    },
+    "answer": "W- ARE USED AS AMPLIFIERS AND SWITCHES"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "According to the viral theory of cancer, normal cells are transformed into cancerous cells by",
+    "choices": {
+      "W": "malignant viruses.",
+      "X": "benign viruses.",
+      "Y": "viral protein coats.",
+      "Z": "oncogenes."
+    },
+    "answer": "Z- ONCOGENES"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Robert Koch did each of the following except",
+    "choices": {
+      "W": "discover the cause of tuberculosis.",
+      "X": "discover the cause of anthrax.",
+      "Y": "help to identify the carrier of bubonic plague.",
+      "Z": "help develop the germ theory of infectious disease."
+    },
+    "answer": "Y- HELP TO IDENTIFY THE CARRIER OF BUBONIC PLAGUE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The amount of heat needed to raise the temperature of one gram of a substance is called",
+    "answer": "SPECIFIC HEAT"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Cholesterol is an example of",
+    "choices": {
+      "W": "a wax.",
+      "X": "a fat.",
+      "Y": "an oil.",
+      "Z": "a steroid."
+    },
+    "answer": "Z- A STEROID"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A material that glows when struck by electrons is said to be",
+    "answer": "FLUORESCENT"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following does a radio transmitter not do?",
+    "choices": {
+      "W": "Change sound into electromagnetic waves",
+      "X": "Send amplified signals to an antenna",
+      "Y": "Change radio waves into sound waves",
+      "Z": "Send out radio signals that have specific frequencies"
+    },
+    "answer": "Y- CHANGE RADIO WAVES INTO SOUND WAVES"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the next term in the Fibonacci sequence whose last three terms were - 34, 55, 89",
+    "answer": "144"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A set of linearly independent vectors that spans a vector space is called a",
+    "choices": {
+      "W": "subspace",
+      "X": "eigenvector",
+      "Y": "group",
+      "Z": "basis"
+    },
+    "answer": "Z- BASIS"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "One characteristic of all algae is that they contain",
+    "answer": "CHLOROPHYLL"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The cluster of cells that forms in the blastocyst produces three cell layers during",
+    "choices": {
+      "W": "gastrulation.",
+      "X": "implantation.",
+      "Y": "cleavage.",
+      "Z": "double fertilization."
+    },
+    "answer": "W- GASTRULATION"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many electrons are shared between carbon atoms in the compound ethanol?",
+    "answer": "2"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Originally, the term reduction meant",
+    "choices": {
+      "W": "removal of electrons.",
+      "X": "addition of electrons.",
+      "Y": "reaction with oxygen.",
+      "Z": "removal of oxygen."
+    },
+    "answer": "Z- REMOVAL OF OXYGEN"
+  }
+]

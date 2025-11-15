@@ -1,0 +1,492 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A T-S diagram can be used to visualize the changes in temperature and specific entropy that take place during a thermodynamic cycle. Which of the following quantities can be calculated as the area enclosed by a clockwise cycle on a T-S diagram?",
+    "choices": {
+      "W": "Entropy change",
+      "X": "Heat released",
+      "Y": "Heat absorbed",
+      "Z": "Thermal efficiency"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, list all of the following circuit components that have a non-linear relationship between voltage and current: 1) Transistor; 2) Resistor; 3) Diode.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Anka is suffering from abnormal sleeping patterns where she wakes up during the night multiple times and experiences narcolepsy. Anka most likely has damage to which of the following?",
+    "choices": {
+      "W": "Suprachiasmatic nucleus",
+      "X": "Substantia nigra",
+      "Y": "Amygdala",
+      "Z": "Basal nuclei"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Allen grows a plant belonging to the Cactaceae family. After measuring the pH of the central vacuole, he realizes that the pH decreases during the day and increases during the night. Identify all of the following three statements that are true of his plant: 1) It lacks photosystem II in its bundle-sheath cells; 2) It likely uses PEP carboxylase to fix $\\athrm{CO}_{2}$ during the day; 3) It likely possesses a high stomatal density.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What type of isomerism is exhibited by S and R BINAP, which arise as different enantiomers due to steric hindrance preventing free rotation around a single bond?",
+    "answer": "ATROPISOMERISM"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about the transition state of $\\athrm{S}_{\\athrm{N}}2$ reactions: 1) It displays 3 center 4 electron bonding; 2) The leaving group and nucleophile display positive partial charges; 3) The nucleophile attacks at a 180 degree angle to the leaving group.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A particle moving in the $x - y$ plane has its velocity defined parametrically such that $v_{x}(t) = 3t$ and $v_{y}(t) = 4t$. How far does the particle travel between the times $t = 0$ and $t = 4$?",
+    "answer": "40"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two real numbers are chosen independently and uniformly at random between 0 and 1. What is the probability that the two numbers differ by no more than $\\rac{1}{3}$?",
+    "answer": "5/9"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all the following four groups of organisms that would form siliceous ooze: 1) Foraminifera; 2) Diatoms; 3) Radiolarians; 4) Coccolithophores.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A binary system is composed of Star A and star B. The binary system has a period of 12 years and an average distance of 12 AU. If the ratio of the distances from the center of mass for stars A and B is 2:1, what are the masses of star A and B respectively in solar masses?",
+    "answer": "4 AND 8"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Los Alamos National Laboratory recently imaged heart RNA—long, non-coding RNA critical to stem cell programming—using small-angle X-ray scattering. What group of small non-coding RNA have a strong function in endogenous gene expression?",
+    "choices": {
+      "W": "miRNA",
+      "X": "siRNA",
+      "Y": "piRNA",
+      "Z": "giRNA"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at the Joint Genome Institute are attempting to manipulate bacterial colonies to change nitrogen concentrations in ecosystems. Which of the following genera of bacteria do NOT engage in nitrogen fixation?",
+    "choices": {
+      "W": "Anabaena",
+      "X": "Nitrosomona",
+      "Y": "Rhizobium",
+      "Z": "Campylobacter"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following combinations of circuit components will take the longest to lose half of its energy after it is disconnected from a battery?",
+    "choices": {
+      "W": "2 ohm resistor and 6 microfarad capacitor",
+      "X": "3 ohm resistor and 12 microhenry inductor",
+      "Y": "4 ohm resistor and 2 microfarad capacitor",
+      "Z": "5 ohm resistor and 10 microhenry inductor"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three changes that would increase the physical separation between intensity peaks on the screen in a double-slit diffraction setup: 1) Increasing the distance between the slits; 2) Increasing the distance between the occluding slits and the screen; 3) Decreasing the wavelength of light.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a proto-oncogene?",
+    "choices": {
+      "W": "HER2",
+      "X": "BRCA1",
+      "Y": "APC",
+      "Z": "p53"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What organ do invertebrates such as insects use to detect gravity and maintain equilibrium?",
+    "answer": "STATOCYST"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following alkene addition reactions is NOT a syn addition?",
+    "choices": {
+      "W": "Catalytic hydrogenation",
+      "X": "Oxymercuration",
+      "Y": "Hydroboration-oxidation",
+      "Z": "Osmium tetroxide dihydroxylation"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about crystal field theory: 1) All d orbitals are lowered in energy upon formation of a metal complex; 2) Octahedral complexes experience larger splitting than tetrahedral complexes; 3) Almost all tetrahedral complexes are low spin.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By number, identify all of the following three scenarios that are examples of a type II error: 1) A doctor testing the efficacy of a new drug incorrectly concludes that the drug does not improve a patient’s symptoms; 2) A researcher testing a new sports drink incorrectly concludes that the sports drink significantly enhances performance; 3) A car manufacturer evaluating a new engine incorrectly concludes that the engine decreases fuel efficiency.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many two digit positive integers have the property that they are divisible by their units digit?",
+    "answer": "41"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term is given to the icy core of the comet that releases dust to form the dust tail?",
+    "answer": "NUCLEUS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The double-exhaust model describes what group of astronomical objects that emit strong radio waves from twin-lobed hotspots?",
+    "answer": "DOUBLE-LOBED RADIO GALAXY"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Laboratory are studying the molecular orbitals of Fe-complexes. In hemoglobin and cytochromes, iron is bound to what heterocyclic macrocycle complexes?",
+    "answer": "PORPHYRIN RING"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Labs have been using Lanthanide Binding Tags to bind proteins and become a fluorescent locator during 3D and 2D X-Ray imaging. What is the likely use of these tags?",
+    "choices": {
+      "W": "To help purify the protein by increasing its affinity for pellets during gel filtration chromatography",
+      "X": "To increase the efficiency of protein binding during IC-PMS",
+      "Y": "To allow the protein to be localized with electron paramagnetic resonance spectroscopy",
+      "Z": "To determine the subcellular localization of the tagged proteins."
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A convex lens has a focal length of 40 cm. What distance would an object have to be placed in front of the lens in centimeters such that the image distance is equal to the object distance?",
+    "answer": "80"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, list all the combinations of colors that the two quarks in a pion could have: 1) Red, anti-green; 2) Green, blue; 3) Anti-green, anti-red.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Angiotensin-converting-enzyme inhibitors are used to treat which of the following conditions?",
+    "choices": {
+      "W": "Hypertension",
+      "X": "Beriberi",
+      "Y": "Diabetes insipidus",
+      "Z": "Pernicious anemia"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all the following three cellular junctions that are stabilized by cadherins: 1) Desmosome; 2) Adherens junction; 3) Gap junction.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes the spontaneity of the autoionization of water?",
+    "choices": {
+      "W": "Spontaneous at all temperatures",
+      "X": "Non-spontaneous at all temperatures",
+      "Y": "Spontaneous at low temperatures",
+      "Z": "Spontaneous at high temperatures"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three elements in increasing third ionization energy: 1) Indium; 2) Calcium; 3) Chlorine.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Express the complex number $(1 + i)^{-6}$ in standard form.",
+    "answer": "$i/8$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Determine the number of ordered triplets $(x, y, z)$ of odd positive integers such that $x + y + z = 99$.",
+    "answer": "1225"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The drainage of Lake Agassiz led to the widespread deposition of lacustrine clays enriched with vermiculites. The fine grained materials lead to increase in boreal forest development due to the high potassium concentrations and high acidity. What basic soil order resulted from the drainage of Lake Agassiz?",
+    "choices": {
+      "W": "Mollisol",
+      "X": "Alfisol",
+      "Y": "Spodosol",
+      "Z": "Vertisol"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three objects that are supported solely by neutron degeneracy pressure: 1) Black hole; 2) O type star; 3) Neutron star.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Fermi National Accelerator Laboratory constantly detect muons formed from cosmic rays as they collide with Earth's atmosphere. However, the half-life calculated in laboratories is too short for these muons to reach Earth's surface. What effect predicted by special relativity must be accounted for to predict these muons that survive longer than they should?",
+    "answer": "TIME DILATION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Fermilab have been studying the fluctuations of synchrotron photons and found that their oscillations closely model a poisson distribution. They produced these photons via what device, which is composed of alternating dipole magnets that rapidly oscillate electrons?",
+    "answer": "UNDULATOR"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Quantum nonlocality is a direct conclusion of which theorem that disproves the existence of local, hidden variable theories if quantum mechanics is to be considered?",
+    "answer": "BELL'S THEOREM"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three quantities that approach infinity as velocity approaches the speed of light: 1) Momentum; 2) Mass energy; 3) Total energy.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What specialized hyphae do arbuscular mycorrhizal fungi use to extract nutrients from, or exchange nutrients with, their plant host?",
+    "answer": "HAUSTORIA"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What specific enzyme is responsible for the cleavage of phospholipids into arachidonic acid and lysophosphatidic acid?",
+    "answer": "PHOSPHOLIPASE $\\athbf{A}_2$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules does NOT display 3 center 4 electron bonding?",
+    "choices": {
+      "W": "Phosphorus pentachloride",
+      "X": "Allyl anion",
+      "Y": "Tin tetrachloride",
+      "Z": "Triiodide"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "According to the Debye model, the entropy of a solid at very low temperatures is proportional to the temperature raised to what power?",
+    "answer": "3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "16 teams participate in a double elimination tournament. If the probability of each team winning each individual game is $\\rac{1}{2}$, what is the probability that the winner of the tournament will be undefeated?",
+    "answer": "$\\rac{1}{2}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Isosceles triangle ABC has $\\athrm{AB} = \\athrm{AC}$. The angle bisector of angle ABC intersects AC at point D. Given triangle ABD is also isosceles, determine the smallest possible value of angle ABC in degrees.",
+    "answer": "$360/7$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes how ocean cores can be utilized for proxy climate data?",
+    "choices": {
+      "W": "Inclusions of pollen grains",
+      "X": "Variation in settling rates of particulates",
+      "Y": "Carbon isotope ratios in fossilized detritus",
+      "Z": "Oxygen isotope ratios in carbonate shells"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What specific ocean zone is characterized by being above the open ocean and having enough light for photosynthesis?",
+    "answer": "EPIPELAGIC"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the SLAC National Accelerator Laboratory have been studying stomata mediated bacterial infections of plants. They discovered that some plants can provide immunity for other plants by activating their stomatal regulation pathways that are dependent on which of the following hormones?",
+    "choices": {
+      "W": "Gibberellins",
+      "X": "Auxins",
+      "Y": "Abscisic acid",
+      "Z": "Strigolactones"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab have been working with orthorhombic pseudo-perovskite crystals. While cooling, negative magnetization was discovered. They measured the magnetization via the backscattering of what particle, used because it can measure events in the nanosecond time scale?",
+    "answer": "NEUTRON"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following potential energy functions does not have a stable equilibrium?",
+    "choices": {
+      "W": "$\\os (\\athbf{x})$",
+      "X": "$\\athbf{x}^{2} - 8\\athbf{x} + 3$",
+      "Y": "$\\athbf{x}^{3} - \\athbf{x}^{2} + \\athbf{x}$",
+      "Z": "$\\athbf{e}^{\\athbf{x}} - \\athbf{x}$"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A tank of water with density $1000 \\athrm{kg / m}^3$ is filled to a height of 15 meters. A hole is drilled in the side so that a jet of water streams out a horizontal distance $d$. In meters, what is the maximum possible value of $d$?",
+    "answer": "15"
+  }
+]

@@ -1,0 +1,541 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Interferons are produced most commonly when:",
+    "choices": {
+      "W": "the nervous system perceives pain",
+      "X": "when mast cells bind compliment",
+      "Y": "the immune system reacts to a viral infection",
+      "Z": "implantation has occurred"
+    },
+    "answer": "Y) THE IMMUNE SYSTEM REACTS TO A VIRAL INFECTION"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Multiple sclerosis is a degenerative disorder that destroys what specific nerve structure?",
+    "answer": "MYELIN SHEATH (ACCEPT: MYELIN)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What does the acronym STP stand for?",
+    "answer": "STANDARD TEMPERATURE AND PRESSURE (ACCEPT: $0^\\irc\\athrm{C}$ OR 273 K AND 1 ATM OR 760 mm Hg)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "At standard temperature and pressure, 1 mole of gas occupies how many liters of volume?",
+    "answer": "22.4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Department of Energy's Brookhaven National Lab is the home of the RHIC, which is world's highest energy particle collider. What do the letters R, H, I, and C each respectively stand for?",
+    "answer": "RELATIVISTIC HEAVY ION COLLIDER"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Assuming air resistance is negligible and the gravitational acceleration is 10 meters per second squared, what is the distance traveled, in meters, by a body in free fall after 5 seconds if it started from rest?",
+    "answer": "125"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Pallas, Iris, Hidalgo, and Adonis are all well known to astronomers as:",
+    "choices": {
+      "W": "variable stars",
+      "X": "minor planets",
+      "Y": "places on mars",
+      "Z": "mountains on the moon"
+    },
+    "answer": "X) MINOR PLANETS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "A star with a brightness at the lower limit of human vision is typically given what value?",
+    "answer": "6"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If A and B are sets such that A is a subset of B but A does not equal B, then A is called what in regards to B:",
+    "choices": {
+      "W": "empty set",
+      "X": "universal set",
+      "Y": "proper subset",
+      "Z": "roster set"
+    },
+    "answer": "Y) PROPER SUBSET"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Name 2 consecutive ODD integers where 5 times the second minus 6 times the first equals 55:",
+    "answer": "- 45 AND - 43 (must be in order)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "In terms of vulcanology, where in the Earth is the so-called Ring of Fire located:",
+    "choices": {
+      "W": "around the Pacific Ocean basin",
+      "X": "between the South American and African Plate",
+      "Y": "along the Mid-Atlantic ridge",
+      "Z": "along the Australian-Indian Plate"
+    },
+    "answer": "W) AROUND THE PACIFIC OCEAN BASIN"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "Order the following three types of magma based on their viscosity, starting with the least viscous: rhyolitic, basaltic, andesitic",
+    "answer": "BASALTIC, ANDESITIC, RHYOLITIC"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following medical instruments delivers the least ionizing radiation to the typical patient:",
+    "choices": {
+      "W": "MRI",
+      "X": "PET",
+      "Y": "CAT",
+      "Z": "X-ray"
+    },
+    "answer": "W) MRI"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Famous for her writing in 1928 of \The Coming of Age in Samoa\, who posited the revolutionary idea that cultural expectations shaped sexual development?",
+    "answer": "MARGARET MEAD"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "The file extension .ZIP (read as: dot, Z, I, P) refers to what type of file:",
+    "choices": {
+      "W": "file compression",
+      "X": "QuickTime movie",
+      "Y": "graphics",
+      "Z": "Excel worksheet"
+    },
+    "answer": "W) FILE COMPRESSION"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "What is the minimum amount of RAM required for the proper execution of Windows 98:",
+    "choices": {
+      "W": "4 MB",
+      "X": "16 MB",
+      "Y": "24 MB",
+      "Z": "32 MB"
+    },
+    "answer": "Y) 24 MB"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The cricoid (Pron: kri-koyd) cartilage is part of the:",
+    "choices": {
+      "W": "pelvic symphysis",
+      "X": "larynx",
+      "Y": "knee",
+      "Z": "rib cage"
+    },
+    "answer": "X) LARYNX"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Gram positive is to blue as gram negative is to:",
+    "answer": "RED (ACCEPT: PINK)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Two identical beakers are placed in a sealed bell-jar. Beaker 1 contains 50 milliliters of pure water and Beaker 2 contains 50 milliliters of a saturated sugar solution in water. Slowly, the levels of solution will change such that:",
+    "choices": {
+      "W": "beaker 1 decreases and beaker 2 increases",
+      "X": "beaker 2 decreases and beaker 1 increases",
+      "Y": "both beakers decrease",
+      "Z": "both remain unchanged"
+    },
+    "answer": "W) BEAKER 1 DECREASES AND BEAKER 2 INCREASES"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the substrate for which catalase has the greatest affinity?",
+    "answer": "HYDROGEN PEROXIDE (ACCEPT: $\\athrm{H}_2\\athrm{O}_2$)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Although known to the Chinese as early as the $11^{\\text{th}}$ century, what term, named after its $19^{\\text{th}}$ century discoverer, indicates the temperature at which ferromagnets lose their magnetism?",
+    "answer": "CURIE POINT (ACCEPT: CURIE TEMPERATURE)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Order the following from the WORST electrical conductor to the BEST electrical conductor: pure water, aluminum, steel, dry wood",
+    "answer": "PURE WATER, DRY WOOD, STEEL, ALUMINUM"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What constellation that is prominent in the summer sky in North America is recognized by the distinctive \W\ shape of its 5 brightest stars?",
+    "answer": "CASSIOPEIA"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "In A.D. 1054, Chinese astronomers observed the appearance of a new star, whose location is now occupied by:",
+    "choices": {
+      "W": "a white dwarf",
+      "X": "a brown dwarf",
+      "Y": "a supernova remnant containing a pulsar",
+      "Z": "an emission nebula"
+    },
+    "answer": "Y) A SUPERNOVA REMNANT CONTAINING A PULSAR"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An angle measures $\\rac{\\i}{4}$ radians. In radians and degrees, how much is half the angle?",
+    "answer": "$\\rac{\\i}{8}$ AND 22.5°"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Of the 75 cars in a lot, two-fifths are Chevy's. If four-ninths of the cars that are not Chevy's are Fords, how many of the cars on the lot are neither Chevy's nor Fords?",
+    "answer": "25 (ACCEPT: 1/3)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals is used as the primary ore of aluminum:",
+    "choices": {
+      "W": "bauxite",
+      "X": "galena",
+      "Y": "magnetite",
+      "Z": "hematite"
+    },
+    "answer": "W) BAUXITE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following geological periods is youngest?",
+    "choices": {
+      "W": "Cambrian",
+      "X": "Jurassic",
+      "Y": "Tertiary",
+      "Z": "Devonian"
+    },
+    "answer": "Y) TERTIARY"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What is the most common term for the difference in the brightness of an object's image and the brightness of the surroundings?",
+    "answer": "CONTRAST"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "EKG is to the heart as EEG is to the what?",
+    "answer": "BRAIN"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which protocol is used when web content is transferred over the internet:",
+    "choices": {
+      "W": "SMTP",
+      "X": "HTTP",
+      "Y": "HTML",
+      "Z": "MIME"
+    },
+    "answer": "X) HTTP"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "The oldest programming language still in common use today is:",
+    "choices": {
+      "W": "COBOL",
+      "X": "LISP",
+      "Y": "FORTRAN",
+      "Z": "ADA"
+    },
+    "answer": "Y) FORTRAN"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What is the single most important way that health care personnel can prevent self infection or spreading infections in hospitals:",
+    "choices": {
+      "W": "receiving full immunizations",
+      "X": "proper use of antibiotics",
+      "Y": "wearing face masks",
+      "Z": "washing their hands"
+    },
+    "answer": "Z) WASHING THEIR HANDS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the anatomical term for movement of a bone towards the midline of the body?",
+    "answer": "ADDUCTION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the simplest amino acid?",
+    "answer": "GLYCINE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A sample of gas has a volume of 6 liters at a temperature of 300K. If the pressure remains constant and the temperature is raised to 400K, what is the new volume of the gas, in liters:",
+    "answer": "8"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What two Nobel laureates, while working at Berkeley California, are often credited with co-discovering more elements than any other scientists?",
+    "answer": "GLENN SEABORG AND ALBERT GHIORSO (ACCEPT: SEABORG AND GHIORSO)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What is the average acceleration of a golf ball struck from rest and reaching a maximum speed of 80 meters per second at a displacement of 3 meters from the point of contact:",
+    "choices": {
+      "W": "13 m/sec2",
+      "X": "530 m/sec2",
+      "Y": "1066 m/sec2",
+      "Z": "2020 m/sec2"
+    },
+    "answer": "Y) 1066 M/SEC2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What is the force that causes fusion in stars?",
+    "answer": "GRAVITY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The biggest known asteroid is named:",
+    "choices": {
+      "W": "Vesta",
+      "X": "Icarus",
+      "Y": "Ceres",
+      "Z": "Eros"
+    },
+    "answer": "Y) CERES"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many faces does an dodecahedron have, and what shape are the faces:",
+    "choices": {
+      "W": "12, equilateral triangles",
+      "X": "12, pentagons",
+      "Y": "20, equilateral triangles",
+      "Z": "20, pentagons"
+    },
+    "answer": "X) 12, PENTAGONS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The line whose equation is $3x - 4y - 3 = 0$ passes through the $x$ - and $y$ - axes at what points?",
+    "answer": "(1, 0) AND (0, $\\rac{3}{4}$) (ACCEPT: $x = 1$, $y = \\rac{3}{4}$)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Which rock is the best example of a product of extreme weathering?",
+    "choices": {
+      "W": "peridotite (Pron: pear-id-o-tite)",
+      "X": "schist (Pron: shist)",
+      "Y": "siltstone",
+      "Z": "limestone"
+    },
+    "answer": "Y) SILTSTONE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "In miles per second, the typical velocity of an S-wave near the Earth's surface is which of the following:",
+    "choices": {
+      "W": "3.7",
+      "X": "2.2",
+      "Y": "9.7",
+      "Z": "0.6"
+    },
+    "answer": "X) 2.2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following does NOT occur in mitosis:",
+    "choices": {
+      "W": "DNA synthesis",
+      "X": "sets of sister chromatids line up singly",
+      "Y": "sister chromatids separate as the centromere divides",
+      "Z": "kinetochores (Pron: kin-et-oh-kors) divide"
+    },
+    "answer": "W) DNA SYNTHESIS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A lack of the neurotransmitter dopamine in the brain of humans causes what disease:",
+    "answer": "PARKINSON'S"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In thin-layer chromatography, the movement of the solvent through the solid phase is accomplished by:",
+    "choices": {
+      "W": "gravity",
+      "X": "an inert carrier gas such as nitrogen",
+      "Y": "evaporation",
+      "Z": "capillary action"
+    },
+    "answer": "Z) CAPILLARY ACTION"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the general term for a procedure used to separate components of different boiling points from a liquid mixture by vaporizing the liquid and passing the vapor through a separation glass column packed with glass beads?",
+    "answer": "FRACTIONAL DISTILLATION"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When mixing equal proportions of blue and green light, what color light is produced?",
+    "answer": "CYAN"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If we consider that the higher the specific activity of a radioactive isotope the more particles or electromagnetic radiation it emits per unit time, which of the following has the least specific activity:",
+    "choices": {
+      "W": "uranium-238",
+      "X": "strontium",
+      "Y": "iodine-131",
+      "Z": "xenon-133"
+    },
+    "answer": "W) URANIUM-238"
+  }
+]

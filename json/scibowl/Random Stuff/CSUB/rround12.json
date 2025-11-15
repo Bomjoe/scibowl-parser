@@ -1,0 +1,563 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "For two sound sources heard simultaneously, one of which vibrates at 50 hertz and the other vibrates at 60 hertz, what is the beat frequency in beats per second?",
+    "answer": "10"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the acceleration of a bike traveling in a straight line if the bike slows from $40 \\athrm{km / hr}$ to $10 \\athrm{km / hr}$ in 5 seconds? Give your answer in $\\athrm{km / hr / sec}$ .",
+    "answer": "- 6"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The formula, $\\athrm{PV} = \\athrm{nRT}$ , is a representation of what gas law?",
+    "answer": "IDEAL GAS LAW"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Of the following, which is the strongest acid:",
+    "choices": {
+      "W": "sulfuric",
+      "X": "perchloric",
+      "Y": "hydrochloric",
+      "Z": "phosphoric"
+    },
+    "answer": "X) PERCHLORIC"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Gel filtration column chromatography will separate proteins based primarily on what physical difference?",
+    "answer": "SIZE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A good transmission electron microscope has a resolving power of about:",
+    "choices": {
+      "W": "0.5 microns",
+      "X": "50 nanometers",
+      "Y": "0.2 nanometers",
+      "Z": "0.01 angstroms"
+    },
+    "answer": "Y) 0.2 NANOMETERS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "According to the Gregorian calendar, in what year AD will the next centurial leap year occur?",
+    "answer": "2400"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "As understood by the Greek astronomer Aristarchus, horizontal parallax is to shifts of a viewer's position on different points of the Earth, as annual parallax is to shifts of a viewer's position:",
+    "choices": {
+      "W": "as the earth moves around the sun",
+      "X": "as the moon moves through the lunar year",
+      "Y": "as the sun moves around the earth",
+      "Z": "as the celestial sphere moves about the earth"
+    },
+    "answer": "W) AS THE EARTH MOVES AROUND THE SUN"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The sine of theta is negative if the angle terminates in what two Quadrants of the Cartesian coordinate system?",
+    "answer": "III AND IV"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "To the nearest whole number, calculate the maximum height that could be attained for the following equation, where height at time $t$ is given by the equation: $y = 3t^2 - 3t + 15$",
+    "answer": "14"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Oxygen and nitrogen molecules in the atmosphere preferentially scatter light of shorter wavelengths causing the sky to appear blue owing to what type of scattering:",
+    "choices": {
+      "W": "Rayleigh",
+      "X": "Mie",
+      "Y": "Crepuscular",
+      "Z": "parallel"
+    },
+    "answer": "W) RAYLEIGH"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "It is estimated that about 95% of all tsunamis are initiated by what event?",
+    "answer": "EARTHQUAKES"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "A common type of distortion in CRT monitors in which horizontal and vertical lines bend outwards towards the edge of the display is called:",
+    "choices": {
+      "W": "barrel distortion",
+      "X": "pincushion distortion",
+      "Y": "spherical distortion",
+      "Z": "trapezoid distortion"
+    },
+    "answer": "W) BARREL DISTORTION"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "The largest number of individuals of a particular species that can by be maintained indefinitely in a given part of the environment is defined by what ecological term:",
+    "choices": {
+      "W": "biomic load",
+      "X": "biomass limit",
+      "Y": "cohort load",
+      "Z": "carrying capacity"
+    },
+    "answer": "Z) CARRYING CAPACITY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a network topology in which all the computers on the network are connected to a central computer:",
+    "choices": {
+      "W": "bus",
+      "X": "star",
+      "Y": "ring",
+      "Z": "mesh"
+    },
+    "answer": "X) STAR"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "What term describes the number of pixels contained on a display monitor, expressed in terms of the number pixels on the horizontal axis and the number on the vertical axis?",
+    "answer": "RESOLUTION"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true about the index of refraction:",
+    "choices": {
+      "W": "it has no units",
+      "X": "the refractive index for air is lower than glass",
+      "Y": "optical devices take advantage of it to improve resolution",
+      "Z": "the refractive index for oil is lower than air"
+    },
+    "answer": "Z) THE REFRACTIVE INDEX FOR OIL IS LOWER THAN AIR"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "To the nearest whole number and in kilometers per hour, what is the speed of a frog swimming at a constant 10 kilometers per hour directly across a river that has a downstream current of 4 kilometers per hour?",
+    "answer": "11"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A chemical reaction between a fat and a base that produces a soap is generally known as what type of reaction?",
+    "answer": "SAPONIFICATION"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following solutions are immiscible:",
+    "choices": {
+      "W": "carbon tetrachloride and octane",
+      "X": "ethanol and water",
+      "Y": "carbon tetrachloride and water",
+      "Z": "sulfuric acid and water"
+    },
+    "answer": "Y) CARBON TETRACLORIDE AND WATER"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In what part of the chloroplast is Photosystem Two located?",
+    "answer": "THYLAKOID MEMBRANE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following vegetations is NOT properly matched with its biome:",
+    "choices": {
+      "W": "gymnosperms and boreal forest",
+      "X": "C4 plants and deserts",
+      "Y": "eucalyptus and temperate rain forest",
+      "Z": "deciduous forest and Taiga"
+    },
+    "answer": "Z) DECIDUOUS FOREST AND TAIGA"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "How far away, in parsecs, is a star with a parallax of 0.25 arc seconds?",
+    "answer": "4"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Assuming there was a full moon was at 11:30 PM at a given place on April $7^{\\athrm{th}}$ of a certain year, what date would the full moon occur in the following month?",
+    "answer": "MAY $6^{\\athrm{TH}}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes a curve generated by a point on the circumference of a circle which rolls on the inside of a fixed circle and whose rolling circle has a diameter one-fourth of that of the fixed circle:",
+    "choices": {
+      "W": "hypercycloid",
+      "X": "epicycloid",
+      "Y": "hypocycloid",
+      "Z": "astroid"
+    },
+    "answer": "Z) ASTROID"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the solution set of the following inequality: $\\rac{(-x + 3)}{4} > - \\rac{2}{3}$",
+    "answer": "$x< \\rac{17}{3}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals is used as the primary ore of lead:",
+    "choices": {
+      "W": "graphite",
+      "X": "galena",
+      "Y": "bauxite",
+      "Z": "hematite"
+    },
+    "answer": "X) GALENA"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Pedogeography is a branch of science that involves the study of the geographic distribution of:",
+    "choices": {
+      "W": "fossils",
+      "X": "soils",
+      "Y": "rivers",
+      "Z": "trees"
+    },
+    "answer": "X) SOILS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Operant conditioning is most notably concerned with which of the following:",
+    "choices": {
+      "W": "stimulus response mechanisms",
+      "X": "responses influenced by the consequences of the responses",
+      "Y": "Hull's postulate theorem approach to theorizing",
+      "Z": "theoretical aspects of personality such as free will"
+    },
+    "answer": "X) RESPONSES INFLUENCED BY THE CONSEQUENCES OF THE RESPONSES"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "A severe and chronic deficiency in what vitamin causes the disease known as beriberi:",
+    "choices": {
+      "W": "thiamine",
+      "X": "niacin",
+      "Y": "vitamin C",
+      "Z": "vitamin D"
+    },
+    "answer": "W) THIAMINE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "This more recent messaging protocol, for use via the internet, allows a client to access and manipulate electronic messages on a server as though they were saved locally:",
+    "choices": {
+      "W": "MIME",
+      "X": "FTP",
+      "Y": "HTTP",
+      "Z": "IMAP"
+    },
+    "answer": "Z) IMAP"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "SSL, a protocol developed by Netscape to transmit private documents through the internet, stands for what:",
+    "answer": "SECURE SOCKETS LAYER"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a type of lepton (PRON: LEP-tawn):",
+    "choices": {
+      "W": "electron",
+      "X": "kaon (PRON: KAY-on)",
+      "Y": "neutrino",
+      "Z": "muon (PRON: MEW-on)"
+    },
+    "answer": "X) KAON"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a car, starting from rest, accelerates constantly at 4 meters/sec $^2$ for 10 seconds and then undergoes a constant negative acceleration of $-4$ meters/sec $^2$ for 3 seconds, how fast is the car traveling, in meters/second, at the end of the 13 seconds?",
+    "answer": "28"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of these organic compounds has more than two rings in its molecular structure:",
+    "choices": {
+      "W": "xylene",
+      "X": "cholesterol",
+      "Y": "tetrahydrofuran",
+      "Z": "glycine"
+    },
+    "answer": "X) CHOLESTEROL"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When ethene undergoes hydrogenation in the presence of a catalyst, what compound is formed?",
+    "answer": "ETHANE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Apoptosis is primarily under the control of what gene?",
+    "answer": "P 53"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a rare amino acid but a common constituent of collagen:",
+    "choices": {
+      "W": "tyrosine (Pron: tie-row-seen)",
+      "X": "proline",
+      "Y": "4-hydroxyproline (Pron: 4-hydroxy-pro-leen)",
+      "Z": "2-iodotyrosine (Pron: 2-eye-od-oh-tie-row-seen)"
+    },
+    "answer": "Y) 4-HYDROXYPROLINE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is considered an even trigonometric function:",
+    "choices": {
+      "W": "sine",
+      "X": "cosine",
+      "Y": "tangent",
+      "Z": "cosecant"
+    },
+    "answer": "X) COSINE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given the following sets of points, Q (0, 0) and P (6, 5), find the distance between them:",
+    "answer": "$\\qrt{61}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Deserts lying immediately east of the Cascade and Sierra Nevada mountain ranges are examples of what type of desert:",
+    "choices": {
+      "W": "coastal",
+      "X": "continental",
+      "Y": "rainshadow",
+      "Z": "subtropical"
+    },
+    "answer": "Y) RAINSHADOW"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "The mistral, a cold, dry wind that flows under the influence of gravity down the Rhone Valley in France and out onto the Mediterranean sea, is an example of what type of wind:",
+    "choices": {
+      "W": "Chinook",
+      "X": "polar",
+      "Y": "katabatic",
+      "Z": "sea breeze"
+    },
+    "answer": "Y) KATABATIC"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Aflatoxin (Pron: aff-luh-toxin) is a toxin that is most likely found in which of the following:",
+    "choices": {
+      "W": "moldy nuts",
+      "X": "barbequed meats",
+      "Y": "processed meats",
+      "Z": "raw shellfish"
+    },
+    "answer": "W) MOLDY NUTS"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What is the alternate common term for the f-number in a typical camera lens?",
+    "answer": "APERTURE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In Planck's equation $\\athrm{E} = h\\nu$ , (pronounced: E equals h new), $h$ represents which of the following:",
+    "choices": {
+      "W": "photon energy in joules",
+      "X": "photon speed in kilometers per second",
+      "Y": "Planck's constant",
+      "Z": "the quantum energy of a single electron"
+    },
+    "answer": "Y) PLANCK'S CONSTANT"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of materials make the best high-temperature superconductors:",
+    "choices": {
+      "W": "metals",
+      "X": "non-metals",
+      "Y": "gasses",
+      "Z": "transuranics"
+    },
+    "answer": "X) NON-METALS"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the most accurate name for a molecule of glycerol with all three hydroxyl groups esterified to fatty acids:",
+    "choices": {
+      "W": "triacylglycerol",
+      "X": "fatty glycerol",
+      "Y": "esterified lipid",
+      "Z": "triesterglyceride"
+    },
+    "answer": "W) TRIACYLGLYCEROL"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the general term for a cold-welding process for zinc coating of steel parts, which results in a thin, uniform zinc coating of controlled thickness?",
+    "answer": "GALVANIZATION"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Ergocalciferol (Pron: er-go-kal-sif-er-ol) and cholecalciferol (Pron: kol-kal-sif-er-ol) are names for two forms of what vitamin?",
+    "answer": "VITAMIN D"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plants fixes $\\athrm{CO}_{2}$ by crusulacean (Pron: krass-you-lay-see-un) acid metabolism:",
+    "choices": {
+      "W": "sedum (Pron: see-dum)",
+      "X": "tomato",
+      "Y": "parsley"
+    },
+    "answer": "W) SEDUM"
+  }
+]

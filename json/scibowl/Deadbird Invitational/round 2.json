@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "In a voltaic battery, what part of the cell is responsible for the oxidation half-reaction?",
+    "answer": "ANODE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "What gas law states that the volume of a gas is inversely proportional to its pressure?",
+    "answer": "BOYLE'S LAW"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers is the greatest common divisor of20 and68?",
+    "choices": {
+      "W": "2",
+      "X": "4",
+      "Y": "6",
+      "Z": "8"
+    },
+    "answer": "X)4"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 statements that are true about triangles;1) Their area can be calculated using Heron’s formula;2) Triangles have exactly three sides and three vertices;3) The Pythagorean theorem can be used to solve for a missing side in a right triangle.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "What is the name for a diploid cell that forms when a haploid sperm fuses with a haploid egg?",
+    "answer": "ZYGOTE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "The crossing over of genes between homologous chromosomes during meiosis occurs during which of the following stages?",
+    "choices": {
+      "W": "Prophase I",
+      "X": "Metaphase I",
+      "Y": "Anaphase I",
+      "Z": "Telophase I"
+    },
+    "answer": "W) PROPHASE I"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What crater-like volcanic feature typically forms after a volcano erupts and collapses?",
+    "answer": "CALDERA"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In astronomy, declination in the sky is analogous to longitude on the surface of the Earth. What other measure in the sky is analogous to latitude on the surface of the Earth?",
+    "answer": "RIGHT ASCENSION"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In how many ways can4 people be arranged in a line?",
+    "answer": "24"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two angles of a triangle are50 degrees and90 degrees. In degrees, what is the third angle of this triangle?",
+    "answer": "40"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "What quantity, whose SI base unit is the ampere, is equal to voltage divided by resistance in Ohm's Law?",
+    "answer": "CURRENT"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "Two resistors are connected in series to a battery. If the resistors have resistances of5 ohms and3 ohms, what is the equivalent resistance of this circuit, in ohms, assuming the battery has no internal resistance?",
+    "answer": "8"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Livermore National Lab are studying states of matter. Which of the following states of matter has a definite volume but an indefinite shape?",
+    "choices": {
+      "W": "Solid",
+      "X": "Liquid",
+      "Y": "Gas",
+      "Z": "Plasma"
+    },
+    "answer": "X) LIQUID"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are looking into the properties of group17 on the Periodic table, the halogens. Identify all of the following3 properties that characterize halogens:1) Very reactive;2) Nonmetallic;3) Contain6 valence electrons in their orbital shells.",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "What biochemical reaction is responsible for joining two amino acids together by removing a water molecule?",
+    "answer": "DEHYDRATION SYNTHESIS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Sponges, krill, and baleen whales all gather food by utilizing what method of feeding that involves the straining of suspended particles?",
+    "answer": "FILTER FEEDING"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following most accurately describes our Sun?",
+    "choices": {
+      "W": "White dwarf star",
+      "X": "Red supergiant",
+      "Y": "Yellow dwarf star",
+      "Z": "Black hole"
+    },
+    "answer": "Y) YELLOW DWARF STAR"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pairs of astronomers created a diagram that shows the relationship between a star's absolute magnitude and its luminosity?",
+    "choices": {
+      "W": "Watson and Crick",
+      "X": "Henderson and Hasselbach",
+      "Y": "Michelson and Morley",
+      "Z": "Hertzsprung and Russell"
+    },
+    "answer": "Z) HERTZSPRUNG AND RUSSELL"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following regular polygons cannot completely tessellate a two-dimensional plane?",
+    "choices": {
+      "W": "Triangle",
+      "X": "Square",
+      "Y": "Pentagon",
+      "Z": "Hexagon"
+    },
+    "answer": "Y) PENTAGON"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If it takes Edward10 minutes to mow a lawn and Luke8 minutes to mow a lawn, how long, in minutes, would it take to mow the lawn if they worked together?",
+    "answer": "40/9"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a requirement for a body to be in equilibrium?",
+    "choices": {
+      "W": "The net force on the body must be zero",
+      "X": "The net torque on the body must be zero",
+      "Y": "The object must be stationary",
+      "Z": "The rotational velocity of the object must be constant"
+    },
+    "answer": "Y) THE OBJECT MUST BE STATIONARY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "What is the angular acceleration, in radians per second squared, of a body with a moment of inertia of2 kilogram meters squared when a constant torque of magnitude80 newton meters is applied to it?",
+    "answer": "40"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Idaho National Lab have been investigating the role of different nitrogen isotopes on the growth of potatoes. Isotopes of the same element differ in their number of what subatomic particle?",
+    "answer": "NEUTRONS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are studying hydrogen atoms. How many neutrons are in the nuclei of the most common isotope of hydrogen atoms?",
+    "answer": "0"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "The fluid-mosaic model is a model that describes the fluid-like movement of proteins and glycolipids in what cell organelle?",
+    "answer": "CELL MEMBRANE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 processes in cellular respiration that occur in the cytosol of the cell:1) Krebs cycle;2) Electron transport chain;3) Glycolysis.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A psychrometer, a tool consisting of two identical thermometers mounted side by side, would most likely be used to measure which of the following types of humidity?",
+    "choices": {
+      "W": "Relative",
+      "X": "Absolute",
+      "Y": "Saturated",
+      "Z": "Specific"
+    },
+    "answer": "W) RELATIVE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following3 eras in the Phanerozoic eon from earliest to latest:1) Mesozoic;2) Cenozoic;3) Paleozoic.",
+    "answer": "3,1,2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that the surface area of a cube is600 square meters, in cubic meters, what is the volume of the cube?",
+    "answer": "1000"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the slope of the line perpendicular to one that passes through the points (2, -4) and (5,8)?",
+    "answer": "-1/4"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements is NOT a gas at room temperature?",
+    "choices": {
+      "W": "Carbon",
+      "X": "Nitrogen",
+      "Y": "Oxygen",
+      "Z": "Fluorine"
+    },
+    "answer": "W) CARBON"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "What is the name of a property for a material that does not change regardless of the quantity of the material, such as melting point?",
+    "answer": "INTENSIVE PROPERTY"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the AAAS are studying the origins of flowering plants and pollinators. When Steve the botanist observes a common daisy, in what flower organ would he most likely find the highest concentration of pollen?",
+    "answer": "STAMEN"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are investigating the properties of regolith on the surface of Earth’s moon. In Earth’s soil profile, what soil horizon serves as the intermediate between the unweathered bedrock and the solum?",
+    "answer": "C HORIZON"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "What is the name of the theory stating that all organisms develop through the natural selection of inherited variations that increase their fitness in a community?",
+    "answer": "THEORY OF EVOLUTION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "The thylakoid membrane is present in which of the following organelles?",
+    "choices": {
+      "W": "Ribosome",
+      "X": "Mitochondria",
+      "Y": "Chloroplast",
+      "Z": "Nucleus"
+    },
+    "answer": "Y) CHLOROPLAST"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the only planet in the solar system which has a slower rotation time than revolution time?",
+    "answer": "VENUS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following celestial bodies has Trojan asteroids orbiting around it?",
+    "choices": {
+      "W": "The sun",
+      "X": "Mars",
+      "Y": "Jupiter",
+      "Z": "Pluto"
+    },
+    "answer": "X) JUPITER"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the x-coordinate of the vertex of a parabola with equation $y = x^2 +4x -5$?",
+    "answer": "-2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Name all of the following three statements which are true of parabolas:1) They may have a degree of either one or two;2) They must open either upwards or downwards;3) Some parabolas have no vertex",
+    "answer": "NONE OF THEM"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true of the gravitational force according to Newton's law of universal gravitation?",
+    "choices": {
+      "W": "It follows the inverse square law",
+      "X": "It can be either attractive or repulsive",
+      "Y": "It is independent of mass",
+      "Z": "The gravitational constant is greater than1"
+    },
+    "answer": "W) IT FOLLOWS THE INVERSE SQUARE LAW"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "The gravitational force between two objects is F. Giving your answer in terms of F, what will the new gravitational force be if the distance between the objects is quadrupled and the mass of each object is doubled?",
+    "answer": "F/4"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals is NOT a metamorphic rock?",
+    "choices": {
+      "W": "Migmatite",
+      "X": "Gneiss",
+      "Y": "Basalt",
+      "Z": "Slate"
+    },
+    "answer": "Y) BASALT"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "When comparing conditions observed during an El Niño event to normal conditions, which of the following best describes the difference?",
+    "choices": {
+      "W": "Strengthening of the west-to-east flow",
+      "X": "Reversal of the west-to-east flow",
+      "Y": "Strengthening of the east-to-west flow",
+      "Z": "Reversal of the east-to-west flow"
+    },
+    "answer": "Z) REVERSAL OF THE EAST-TO-WEST FLOW"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Adipose tissue and blood are examples of which of the following types of tissues?",
+    "choices": {
+      "W": "Epithelial",
+      "X": "Nervous",
+      "Y": "Muscle",
+      "Z": "Connective"
+    },
+    "answer": "Z) CONNECTIVE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "COVID-19, Lyme disease, and rabies are all examples of what types of disease that can be transferred to a human by other animals?",
+    "answer": "ZOONOTIC"
+  }
+]

@@ -1,0 +1,511 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the sum of the distinct prime factors of 4242?",
+    "choices": {
+      "W": "106",
+      "X": "111",
+      "Y": "113",
+      "Z": "124"
+    },
+    "answer": "113"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the positive real solution to the equation $\\rac{1}{x - 1} - \\rac{1}{x + 1} = \\rac{1}{2}$?",
+    "answer": "$\\qrt{5}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the condition when the environmental lapse rate is between the dry adiabatic and wet adiabatic lapse rates?",
+    "answer": "Conditional instability"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The surface temperature of a star is 5800 K. What is the peak wavelength of radiation of this star in nanometers, assuming the star is a blackbody?",
+    "choices": {
+      "W": "",
+      "X": "",
+      "Y": "",
+      "Z": ""
+    },
+    "answer": "500 nm"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the oxidation state of Sulfur in the Sulfate anion?",
+    "choices": {
+      "W": "",
+      "X": "",
+      "Y": "",
+      "Z": ""
+    },
+    "answer": "+6"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In it solid state, $\\athrm{PCl}_5$ is an ionic compound. According to valence shell electron repulsion theory, what are the molecular geometries around the cation and anion respectively in $\\athrm{PCl}_5$?",
+    "answer": "Tetrahedral, Octahedral"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which connective tissue type is the only one characterized by the presence of all fiber types and is found in widespread locations throughout the body?",
+    "answer": "Areolar"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a fiber type found in typical connective tissue extracellular matrix?",
+    "choices": {
+      "W": "Elastic",
+      "X": "Hyaline",
+      "Y": "Reticular",
+      "Z": "Collagen"
+    },
+    "answer": "X) Hyaline"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which principle dictates that the path which light takes through any medium from one point to another will be the path that takes the least time?",
+    "answer": "Fermat's principle (of least time)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 75 kg human is walking at $3.5 \\athrm{m / s}$. The person then accelerates at a rate of $1 \\athrm{m / s}^2$, until they reach a speed of $8.5 \\athrm{m / s}$. What is the average power exerted by the person while they were accelerating?",
+    "answer": "450 W"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals is a nickel ore?",
+    "choices": {
+      "W": "Cinnabar",
+      "X": "Rutile",
+      "Y": "Pentlandite",
+      "Z": "Cassiterite"
+    },
+    "answer": "Y) Pentlandite"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A rock contains quartz, muscovite, orthoclase and plagioclase feldspar. What element is the plagioclase feldspar likely rich in?",
+    "answer": "Sodium"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds are insoluble in aqueous solution?",
+    "choices": {
+      "W": "Glucose",
+      "X": "Calcium Hydroxide",
+      "Y": "Sodium Nitrate",
+      "Z": "Silver Chromate"
+    },
+    "answer": "Z) Silver Chromate"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When excess ammonia is added to a solution of Copper (II) Sulfate, a royal blue complex forms. What is the oxidation state of copper in this complex?",
+    "answer": "+2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate $\\rac{7! \\dot 10!}{8! \\dot 8!}$.",
+    "answer": "45/4"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $T(n) = \\rac{n(n+1)}{2}$, what is the value of $T(1) + T(2) + T(3) + T(4) + T(5)$?",
+    "answer": "35"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the hollow bony stalk that connects the hypothalamus to the hypophysis, AKA pituitary gland?",
+    "answer": "(Ethmoidal) Infundibulum"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes the finger-like projections at the ends of the fallopian tubes at the site of the ovaries which direct maturing eggs into the tubes?",
+    "answer": "Fimbriae"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An ideal gas is allowed to freely expand. Which of the following is true about this free expansion?",
+    "choices": {
+      "W": "Work is performed by the gas during the expansion.",
+      "X": "Temperature drops as the gas expands further outward.",
+      "Y": "The gas loses internal energy during the expansion.",
+      "Z": "No heat is lost by the gas during the expansion."
+    },
+    "answer": "Z) No heat is lost by the gas during the expansion."
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Order the following quantities from least magnitude to greatest magnitude. 1) the rms speed of hydrogen gas at room temperature 2) the most probable speed of hydrogen gas at room temperature 3) the most probable speed of helium gas at room temperature",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A rectangular prism has edge lengths 3 inches, 4 inches and 5 inches. If the length of each edge is increased by 10 percent, to the nearest whole percent, by what percent will the volume of the prism increase?",
+    "choices": {
+      "W": "21",
+      "X": "30",
+      "Y": "31",
+      "Z": "33"
+    },
+    "answer": "Z) 33"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many integers greater than 10 are comprised of distinct odd digits and have their digits arranged in ascending order?",
+    "answer": "26"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following experimental conditions would not favor a unimolecular elimination mechanism between an alkyl chloride and a potentially nucleophilic base?",
+    "choices": {
+      "W": "Using a polar aprotic solvent",
+      "X": "Heating the reaction mixture",
+      "Y": "Using a low concentration of base",
+      "Z": "Using a weak base"
+    },
+    "answer": "W) Using a polar aprotic solvent"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many distinct alkenes can be formed by heating 3-iodo-2,4 dimethylpentane with Sodium Carbonate in aqueous Ethanol?",
+    "answer": "2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Parabolic sand dunes require the presence of which of the following to form?",
+    "choices": {
+      "W": "Vegetation",
+      "X": "Variable winds",
+      "Y": "Limited sand supply",
+      "Z": "Abundant sand supply"
+    },
+    "answer": "W) Vegetation"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A yardang is formed by what erosional agent?",
+    "answer": "Wind"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two household appliances, with power ratings of 240 W and 300 W, are put in a series circuit, powered by a 120 V power source. How much current do the appliances draw from the power source?",
+    "answer": "4.5 A"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In a series circuit consisting of an AC voltage source with angular frequency $\\mega$, an inductor with inductance L, and a capacitor with capacitance C, the graph of the current of the circuit over time lags the graph of the source voltage over time. Which of the following is true about this circuit?",
+    "choices": {
+      "W": "C is greater than L.",
+      "X": "$\\mega$ is less than 1/sqrt(LC).",
+      "Y": "L is greater than C.",
+      "Z": "$\\mega$ is greater than 1/sqrt(LC)"
+    },
+    "answer": "X) $\\mega$ is less than 1/sqrt(LC)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Occam's Razor, which states that the simplest hypothesis that explains data should be selected, can be applied to which theory explaining the construction of phylogenetic trees?",
+    "answer": "Maximum parsimony (accept Theory of..., Tree of...)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In bipeds, the anatomical directional terms superior and inferior describe the \head\ and \foot\ ends of the body. In quadrupeds, which terms correspond to the \head\ and \foot\ ends of the body?",
+    "answer": "Cranial/Caudal (must have both to get points, accept any form of conjunction between two words but make sure to specify correspondence)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Seven consecutive even integers have a sum of 406. What is the sum of the least and the greatest of the seven integers?",
+    "choices": {
+      "W": "112",
+      "X": "116",
+      "Y": "120",
+      "Z": "124"
+    },
+    "answer": "X) 116"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Consider convex quadrilateral ABCD. If diagonal AC bisects diagonal BD and angle BAC is congruent to angle DAC, then which of the following three statements must be true? 1) ABCD is a parallelogram. 2) ABCD is a kite. 3) ABCD is a rhombus.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Dioptase is a bluish green mineral which was discovered in the late 18th century in Karagandy Province, Kazakhstan. Which of the following elements is most likely a component of Dioptase?",
+    "choices": {
+      "W": "Magnesium",
+      "X": "Calcium",
+      "Y": "Boron",
+      "Z": "Copper"
+    },
+    "answer": "Z) Copper"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Dioptase is a cyclosilicate, meaning it contains a chain of silicate groups in a ring. What is the ratio of Oxygen atoms to Silicon atoms in a generic cyclosilicate skeleton?",
+    "answer": "3:1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which of the following sugars are not part of the pentose-phosphate pathway at any stage?",
+    "choices": {
+      "W": "Sedeoheptulose",
+      "X": "Erythrose",
+      "Y": "Xylulose",
+      "Z": "Mannose"
+    },
+    "answer": "Z) Mannose"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Hemoglobin's quaternary structure consists of two alpha proteins and two beta proteins, which is arranged in two alpha-beta oligomers. What term corresponds to a repeating oligomer motif?",
+    "answer": "Protomer"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following is not a form of hard stabilization of coastlines?",
+    "choices": {
+      "W": "Breakwater",
+      "X": "Jetty",
+      "Y": "Groin",
+      "Z": "Dredging Boat"
+    },
+    "answer": "Z) Dredging Boat"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What are the four main elements found in most samples of olivine, considering it's position on Bowen's reaction series.",
+    "answer": "Silicon, Oxygen, Iron, Magnesium"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What principle of quantum mechanics states that, for very large quantum numbers, a quantum system should begin to agree with their classical equivalents?",
+    "answer": "Correspondence principle"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In the liquid drop model of the nucleus, the energy due to repulsion of the protons in a nucleus is estimated using atomic number (Z) and mass number (A). Which of the following expressions is proportional to this estimated repulsion?",
+    "choices": {
+      "W": "Z(Z - 1) / (A^(2 / 3))",
+      "X": "Z(Z - 1) / (A^(1/3))",
+      "Y": "Z(Z - 1)",
+      "Z": "Z / A"
+    },
+    "answer": "X) Z(Z - 1) / (A^(1/3))"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for a large metamorphic mineral crystal that has formed after its surrounding small crystals?",
+    "answer": "Porphyroblast"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What mineral group is most commonly found in porphyroblasts of metamorphic rocks?",
+    "answer": "Garnet"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Brian starts running at a speed of 5 mi/h. Two minutes later, Carla starts running along the same route as Brian. If it takes Carla 10 minutes to catch up to Brian, at what speed is Carla running, in miles per hour?",
+    "choices": {
+      "W": "27/5",
+      "X": "60/11",
+      "Y": "11/2",
+      "Z": "6"
+    },
+    "answer": "Z) 6"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The product of 312 and x is a perfect square. What is the least possible positive integer value of x?",
+    "answer": "78"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following bases could deprotonate ethanol in high yield?",
+    "choices": {
+      "W": "Sodium Hydroxide",
+      "X": "Sodium Hydride",
+      "Y": "Sodium Acetate",
+      "Z": "Sodium Phenoxide"
+    },
+    "answer": "X) Sodium Hydride"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Coulomb's law predicts that the force of attraction between 2 ions in the gas phase decreases inversely proportionally to $r^2$ (read as: r squared). The force of attraction between an ion and a polar molecule decreases inversely proportionally to r to what power?",
+    "answer": "3"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the root hair analogue in bryophytes and algae that serve in water absorption and aid the process of capillary action?",
+    "answer": "Rhizoid"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What bacterial class are the genera Streptococcus, Staphylococcus, and Listeria found under?",
+    "answer": "Bacilli"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball which is initially at rest explodes, sending two fragments of masses m and 5m in opposite directions. What is the ratio of the kinetic energy of the less massive fragment to that of the more massive fragment?",
+    "answer": "5 : 1"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A thin hoop of mass $2\\athrm{kg}$ and radius $3\\athrm{m}$ rolls down a ramp with a length of $20\\athrm{m}$ and an angle of 30 degrees. Assuming that $\\athrm{g}$ is $10\\athrm{m / s}^2$, what is the speed of the hoop at the bottom of the ramp?",
+    "answer": "$10\\athrm{m / s}$"
+  }
+]

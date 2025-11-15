@@ -1,0 +1,454 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An electron is travelling in a region with an electric and magnetic field orthogonal to each other and perpendicular to the electron's velocity. There is a special velocity for which there is no net force on the electron. If the magnetic field is 5 milliteslas and if the electric field is 35 Newtons per coulomb, find this special velocity in meters per second.",
+    "answer": "7000"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A charge of $-2$ microcoulombs is fixed in place at the origin of an infinite number line. Another charge of 1 microcoulomb is fixed in place at $x$ equals 2. To the nearest tenth, find the sum of the $x$-values where a third charge could be placed so that it does not move.",
+    "answer": "6.8"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that are aromatic: 1) Cyclopentadiene; 2) Pyridine; 3) Naphthalene.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Certain ceramic materials have the property that neighboring atoms are positioned in an antiparallel arrangement, but due to the spins of neighboring atoms being different in magnitude, the magnetic moments do not cancel. These materials are best classified as which of the following?",
+    "choices": {
+      "W": "sub-paramagnetic",
+      "X": "antiferromagnetic",
+      "Y": "ferrimagnetic",
+      "Z": "metamagnetic"
+    },
+    "answer": "Y) FERRIMAGNETIC"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three parameters that can be externally observed in a black hole according to the no-hair theorem: 1) Mass; 2) Electric Charge; 3) Angular Momentum.",
+    "answer": "ALL OF THEM"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Choosing from increases, decreases, or no change, identify how each of the following factors changes as depth increases in an ocean: 1) density of water; 2) temperature; 3) salinity.",
+    "answer": "1) INCREASES 2) DECREASES 3) DECREASES"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "SLAC researchers discovered that shooting protons with electrons of increasingly high energies resulted in a drop in the strength of the strong force holding together quarks, dropping down to the scale of the weak force. This is best described by what property of quarks?",
+    "choices": {
+      "W": "Infrared slavery",
+      "X": "Asymptotic freedom",
+      "Y": "Fluxional decay",
+      "Z": "Gluonic screening"
+    },
+    "answer": "X) ASYMPTOTIC FREEDOM"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Lab are constructing nanomaterials that can revolutionize drug delivery. They made DNA origami cages that are conjugated to functional molecules using what class of biocompatible reactions?",
+    "answer": "CLICK CHEMISTRY (ACCEPT: CLICK)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The complex number $z$ equals 2 times $e$ raised to the $i$ pi over 4 power. If $z$ equals $a + bi$, what is the value of open parenthesis $a$ plus $b$ close parenthesis squared?",
+    "answer": "8"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alice crosses out an integer from the $n$th row of Pascal's triangle. Bob also crosses out an integer in the same row that has not yet been crossed out. If the probability that these two integers have the same value is 1 over 2021, what is the sum of the possible values of $n$?",
+    "answer": "4041"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the specific name of the type of fungal root association where no mantle is formed around the root, but hyphae branch throughout the cortex?",
+    "answer": "ARBUSCULAR MYCORRHIZAE (ACCEPT: ENDOMYCORRHIZAE; DO NOT ACCEPT: MYCORRHIZAE)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four animals that are examples of chondrichthyes [kaan-DRIK-theez]: 1) Stingray; 2) Skate; 3) Whale shark; 4) Lamprey.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "If the radius of a planet is doubled and if its mass is quadrupled, by what factor is the escape velocity of the planet multiplied?",
+    "choices": {
+      "W": "1/2",
+      "X": "sqrt(2)/2",
+      "Y": "sqrt(2)",
+      "Z": "2"
+    },
+    "answer": "Y) sqrt(2) (ACCEPT WORD FORMS)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Pre–main sequence stars below three solar masses tend to follow well-defined paths. These stars follow the Hayashi track, which is a nearly vertical curve on the Hertzsprung-Russell diagram. After a radiative zone develops in stars above 0.5 solar masses, what path do these stars tend to follow, which is characterized by a slow collapse, almost constant luminosity, and a horizontal movement on the H–R diagram?",
+    "answer": "HENYEY TRACK"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In degrees, find the sum of the angles in any five-pointed star.",
+    "answer": "1440"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $D$ be powerful if $D$ is a units digit such that the expected value of the units digit of $D$ raised to the $n$th power is 5 for all positive integers $n$. Find the sum of all powerful positive integers.",
+    "answer": "38"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following orbitals has 5 nodes, 1 of which is an angular node?",
+    "choices": {
+      "W": "5s",
+      "X": "5p",
+      "Y": "5d",
+      "Z": "6p"
+    },
+    "answer": "Z) 6P"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Phosphorus pentafluoride has a trigonal bipyramidal geometry, and the axial bonds are longer than the equatorial bonds. This is because the axial bonds exhibit what form of bonding with 2 electron pairs holding together 3 atoms?",
+    "answer": "3- CENTER- 4- ELECTRON BONDING (ACCEPT: 3C- 4E)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that accurately represent an object undergoing underdamped oscillations: 1) The object will pass through the equilibrium point one time; 2) The motion of the object can be expressed using an exponential function; 3) It will oscillate forever.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A spring is connected to a wall and a mass that is in simple harmonic motion with an angular frequency of omega. The spring is then split into thirds, and two of the pieces are connected in series and attached to the mass and the wall. Find the square of the new angular frequency of oscillation in terms of omega.",
+    "answer": "1.5 OMEGA SQUARED"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following choices accurately describes a characteristic of C3, C4, or CAM plants?",
+    "choices": {
+      "W": "CAM plants have no effective countermeasures to photorespiration",
+      "X": "C3 plants generally open their stomata at night",
+      "Y": "PEP carboxylase plays an important role in C4 plant photosynthesis",
+      "Z": "C3 plants do not use photosystem I during photosynthesis"
+    },
+    "answer": "Y) PEP CARBOXYLASE PLAYS AN IMPORTANT ROLE IN C4 PLANT PHOTOSYNTHESIS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The autosomal gene DAST can be inherited from either parent, but it is only expressed when it is inherited from the mother. This is an example of what type of epigenetic inheritance?",
+    "answer": "GENOMIC IMPRINTING (ACCEPT: PARENTAL IMPRINTING, IMPRINTING)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Los Alamos National Laboratory are conducting quantitative whole-rock analyses on geologic samples. To do this, they use what phenomenon, which occurs when high-energy photons ionize atoms in the sample, causing them to emit lower-energy photons?",
+    "answer": "X- RAY FLUORESCENCE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Joint Genome Institute are studying how neuronal cells responsible for immunity develop during gestation. What is the name for cells responsible for imparting immunity to the central nervous system?",
+    "answer": "MICROGLIA"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers is NOT a possible complex root to the equation $x$ to the fourth power plus $x$ cubed plus $x$ squared plus $x$ plus one equals zero?",
+    "choices": {
+      "W": "e to the 2 $i$ pi over 5",
+      "X": "e to the $i$ pi",
+      "Y": "e to the 6 $i$ pi over 5",
+      "Z": "e to the 8 $i$ pi over 5"
+    },
+    "answer": "X) e TO THE $i$ pi (ACCEPT WORD FORMS)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Dylan somehow has a seven-sided die with sides numbered from 1 to 7. However, the value of each side indicates how many times more likely the die is to land on that side than it is to land on the side labeled 1. What is the expected value of a roll of this die?",
+    "answer": "5"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The magnetic field 5 centimeters from the center of a wire with a radius of 15 centimeters is 1 tesla. What is the magnetic field 12 centimeters from the center of the wire to the nearest tenth and in teslas?",
+    "answer": "2.4"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The production of top quarks in particle accelerators is almost always achieved through the fusion of",
+    "choices": {
+      "W": "Strange quarks",
+      "X": "Gluons",
+      "Y": "Pions",
+      "Z": "Neutrons"
+    },
+    "answer": "X) GLUONS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three compounds by increasing boiling point: 1) 1-methylcyclohexanol; 2) cyclohexanol; 3) $n$-heptanol.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What rule in organic chemistry forces all bridgehead carbons to be $\\athrm{sp}^{2}$-hybridized?",
+    "answer": "BREDT'S RULE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding Jupiter's Great Red Spot: 1) It is a powerful cyclone; 2) It is constantly expanding on the surface of Jupiter; 3) The red coloration is thought to be the result of organic compounds irradiated by ultraviolet light.",
+    "answer": "3 ONLY (NOTE: The Great Red Spot is an anticyclone.)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding Cepheid variables is FALSE?",
+    "choices": {
+      "W": "Cepheids with longer pulsation periods are intristically more luminous than Cepheids with shorter pulsation periods",
+      "X": "Type I Cepheids have higher metallicities and shorter pulsation periods than Type II Cepheids",
+      "Y": "Most Cepheids are typically fifty to one hundred times more luminous than the Sun",
+      "Z": "Cepheid variables are used to measure distances to nearby galaxies"
+    },
+    "answer": "Y) MOST CEPHEID VARIABLES ARE TYPICALLY FIFTY TO ONE HUNDRED TIMES MORE LUMINOUS THAN THE SUN"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which of the three meninges lies closest to the cranium?",
+    "answer": "DURA MATER"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Providing your answers as positive or negative, classify the following three bacteria as being either gram positive or gram negative: 1) Escherichia coli; 2) Chlamydia trachomatis; 3) Yersinia pestis.",
+    "answer": "1) NEGATIVE; 2) NEGATIVE; 3) NEGATIVE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many stereoisomers does the molecule 2,3-butanediol have?",
+    "answer": "3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "If the ionization energy of the hydrogen atom is given as 13.6 electronvolts, what is the difference in the energies of a 3s-electron that's part of a carbon 5-plus ion and a 2p-electron that's part of a different carbon 5-plus ion, in electronvolts?",
+    "answer": "68"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Rushil rides a bus to school on any 4 out of 5 days in the school week. Sid rides the same bus on any 2 out of 5 days in the school week. What is the probability of both of them being on the bus on the same day at least once in the week?",
+    "answer": "1"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A 13-14-15 triangle is rotated fully around its side with length 14. Find the volume of the object created.",
+    "answer": "672pi"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following solutions to Einstein’s equations is correctly matched with its black hole type?",
+    "choices": {
+      "W": "Schwarzschild metric; rotating and uncharged",
+      "X": "Kerr metric; nonrotating and charged",
+      "Y": "Reissner–Nordström [rise-nuhr nord-strum] metric; nonrotating and uncharged",
+      "Z": "Kerr–Newman metric; rotating and charged"
+    },
+    "answer": "Z) KERR-NEWMAN METRIC; ROTATING, CHARGED"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Currently, most astronomers believe that dark energy can be expressed by the cosmological constant in Einstein’s field equations. However, if dark energy can be expressed by quintessence, what will likely happen to the universe at the end of its life?",
+    "choices": {
+      "W": "Slowing expansion over time",
+      "X": "Constant expansion over time",
+      "Y": "Accelerating expansion over time",
+      "Z": "Contraction over time"
+    },
+    "answer": "Y) ACCELERATING EXPANSION OVER TIME"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Livermore National Laboratory are studying the composition of the Earth's core. What evidence supports the conclusion that the Earth's inner core is not made of pure iron?",
+    "choices": {
+      "W": "The magnetic field is too weak for the inner core to be pure iron.",
+      "X": "Pure iron would liquefy even under the intense pressure.",
+      "Y": "The core is not dense enough to be made of pure iron.",
+      "Z": "Pure iron would lead to different seismic patterns."
+    },
+    "answer": "Y) THE CORE IS NOT DENSE ENOUGH TO BE MADE OF PURE IRON."
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are comparing the properties of different types of superconductors to understand the proper usage of each type. Identify all of the following three statements that are true regarding superconductors: 1) Type I superconductors exhibit a gradual loss of magnetization, while Type II superconductors have an instant loss of magnetization; 2) Magnetic field lines can pass through Type II superconductors at certain points, a phenomenon known as flux pinning; 3) Type I superconductors usually have higher critical temperatures than Type II superconductors.",
+    "answer": "2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following circuit components is a part of a field effect transistor?",
+    "choices": {
+      "W": "Base",
+      "X": "Gate",
+      "Y": "Emitter",
+      "Z": "Bridge"
+    },
+    "answer": "X) GATE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three pairs of conservation laws and Noether symmetries that are incorrectly matched: 1) Conservation of mass-energy and time invariance; 2) Conservation of linear momentum and space invariance; 3) Conservation of angular momentum and angular invariance.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements accurately describes the role of cyclic AMP in the lac operon?",
+    "choices": {
+      "W": "cAMP binds to DNA and downregulates transcription of glucose",
+      "X": "cAMP binds to CAP [C-A-P] and upregulates transcription of glucose",
+      "Y": "cAMP binds to DNA and downregulates transcription of glucose",
+      "Z": "cAMP binds to CAP and upregulates transcription of glucose"
+    },
+    "answer": "Z) CAMP BINDS TO CAP AND UPREGULATES TRANSCRIPTION OF GLUCOSE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding bryophytes is FALSE?",
+    "choices": {
+      "W": "Phylogenetic evidence suggests that bryophytes diverged from plants early in the history of plant evolution",
+      "X": "Bryophyte rhizoids anchor the gametophyte to the ground and primarily function in nutrient absorption",
+      "Y": "In gametophytes, archegonia produce eggs and antheridia produce sperm",
+      "Z": "In sporophytes, the seta is analogous in structure and in function to the stems of vascular plants"
+    },
+    "answer": "X) BRYOPHYTE RHIZOIDS ANCHOR THE GAMETOPHYTE TO THE GROUND AND PRIMARILY FUNCTION IN NUTRIENT ABSORPTION"
+  }
+]

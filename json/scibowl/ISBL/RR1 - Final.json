@@ -1,0 +1,400 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 types of faults that only form in areas of compressive stress. I. Thrust fault; II. Reverse fault; III. Normal fault",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What general name is given to the cycle of El Niño and La Niña in the southern pacific?",
+    "answer": "EL NINO SOUTHERN OSCILLATION (Accept: ENSO)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which one of the following is NOT a phase in mitosis?",
+    "choices": {
+      "W": "Prophase",
+      "X": "Metaphase",
+      "Y": "Anaphase",
+      "Z": "Postphase"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes a molecule that has both hydrophobic and hydrophilic regions?",
+    "answer": "AMPHIPHATIC"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name of the compound with chemical formula $\\athrm{H}_2\\athrm{O}_2$?",
+    "answer": "HYDROGEN PEROXIDE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many iron atoms are in one formula unit of iron (III) oxide?",
+    "answer": "2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A slice of pie of area $9\\i$ inches squared has radius 6 inches. What percent of the full pie does this slice include?",
+    "answer": "$25\\$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Brennan the farmer is tasked with forming a pen for his cows. What shape should he make his field in order to maximize the area the cows have given a fixed amount of fencing?",
+    "choices": {
+      "W": "Equilateral triangle",
+      "X": "Square",
+      "Y": "Octagon",
+      "Z": "Circle"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Brennan slides a $3\\athrm{kg}$ block at $10\\athrm{m / s}$ towards a $12\\athrm{kg}$ block that is initially at rest. If the blocks stick together, at what speed do the blocks move after the collision?",
+    "answer": "$2\\athrm{m / s}$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The gravitational force is dependent on the distance between two bodies raised to what power?",
+    "choices": {
+      "W": "2",
+      "X": "1",
+      "Y": "- 1",
+      "Z": "- 2"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the theoretical remnant of a white dwarf that has cooled until it no longer emits significant light?",
+    "answer": "BLACK DWARF"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Brennan observes a star to have a parallax angle of 0.02 arcseconds. In parsecs, how far away is it?",
+    "answer": "50 parsecs"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What tissue transports water and minerals from the roots of the plant to the shoots?",
+    "answer": "XYLEM"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Bramblebacks eat Porgs, and Porgs eat Krugs. In percent, how much of the original energy of a Krug do you expect to transfer to a Brambleback?",
+    "answer": "$1\\$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Dr. Hee creates a 2 liter solution with water and 0.5 moles of ammonium chloride. What is the molarity of the chloride ions in the solution?",
+    "answer": "0.25 (moles per liter OR molar)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Dr. Hee is now working with a saturated solution of copper (II) chloride. To this solution, he adds solid potassium chloride. Which of the following three statements are true? I. No potassium chloride will dissolve. II. A copper (II) chloride precipitate will form. III. The Ksp value of the copper chloride will decrease.",
+    "answer": "II ONLY"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Compute $\\tan (- 405^\\irc)$",
+    "choices": {
+      "W": "Sqrt(2)/2",
+      "X": "- Sqrt(2)/2",
+      "Y": "1",
+      "Z": "-1"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Compute $\\os^{-1}(\\qrt{3} / 2) + \\in^{-1}(\\qrt{2} / 2)$",
+    "answer": "$5\\i/12$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If the mass of an object is quadrupled and its volume is doubled, by what factor is its density changed?",
+    "answer": "2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the absolute difference, in atmospheres, between the gauge pressure and absolute pressure at the bottom of a 10 meter column of water under standard temperature and pressure conditions?",
+    "answer": "1 atm"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 volcanic features in terms of increasing silica in erupted lava. I. Yellowstone; II. Hawaiian Islands; III. Andes Mountains",
+    "answer": "II, III, I"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Two mountainous glaciers travel down separate valleys then merge into a single glacier in a single valley. How many lateral moraines are produced?",
+    "choices": {
+      "W": "2",
+      "X": "3",
+      "Y": "4",
+      "Z": "5"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes the short fragments of DNA produced by the discontinuous replication of the lagging strand?",
+    "answer": "OKAZAKI FRAGMENTS"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What process describes when organisms diversify rapidly from an ancestral species into a multitude of new forms?",
+    "answer": "ADAPTIVE RADIATION"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Consider the reaction 3A plus 8B yields 2C. If 17 moles of A are reacted with 17 moles of B, which substance will be the limiting reactant?",
+    "choices": {
+      "W": "A",
+      "X": "B",
+      "Y": "C",
+      "Z": "The reactants are in stoichiometric proportions"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 26,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three salts in order of increasing lattice energy. I. Potassium iodide; II. Calcium sulfide; III. Lithium chloride",
+    "answer": "I, III, II"
+  },
+  {
+    "question_number": 27,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the x coordinate of the vertex of the parabola with equation $- x^2 + 2x - 3$?",
+    "answer": "1"
+  },
+  {
+    "question_number": 28,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of a triangle with sides 11, 60, and 61?",
+    "answer": "330"
+  },
+  {
+    "question_number": 29,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Bernoulli's principle is derived from the conservation of what quantity?",
+    "choices": {
+      "W": "Momentum",
+      "X": "Energy",
+      "Y": "Mass",
+      "Z": "Volume"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 30,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following laws best quantifies the electrostatic force acting between two charged particles?",
+    "choices": {
+      "W": "Gauss's Law",
+      "X": "Ampere's Law",
+      "Y": "Faraday's Law of Induction",
+      "Z": "Coulomb's Law"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 31,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The gravitational influence of what two planets cause the Kirkwood Gaps?",
+    "answer": "MARS, JUPITER"
+  },
+  {
+    "question_number": 32,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about Earth's Moon is false?",
+    "choices": {
+      "W": "Lunar maria are more basaltic than lunar highlands",
+      "X": "The division between night and day on the Moon is called the terminator",
+      "Y": "The moon's far side is more cratered than the side facing Earth",
+      "Z": "The moon has no magnetosphere"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 33,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not one of Mendel's Laws?",
+    "choices": {
+      "W": "Independent Assortment",
+      "X": "Segregation",
+      "Y": "Dominance",
+      "Z": "Continuous Inheritance"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 34,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes the state of steady internal, physical, chemical, and social conditions maintained by living systems?",
+    "answer": "HOMEOSTASIS"
+  },
+  {
+    "question_number": 35,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following temperatures is closest to the melting point of potassium chloride?",
+    "choices": {
+      "W": "1 Kelvin",
+      "X": "10 Kelvin",
+      "Y": "100 Kelvin",
+      "Z": "1000 Kelvin"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 36,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following compounds that are soluble in water. I. Lithium hydroxide; II. Silver chloride; III. Magnesium bromide;",
+    "answer": "I, III"
+  },
+  {
+    "question_number": 37,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Brennan's height varies directly with how much he sleeps and inversely with how much he works. If he doubles the amount of sleep he gets and halves the amount he works, how many times taller will Brennan be?",
+    "answer": "4"
+  },
+  {
+    "question_number": 38,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many proper subsets are there in a set with 5 distinct elements?",
+    "choices": {
+      "W": "32",
+      "X": "31",
+      "Y": "30",
+      "Z": "29"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 39,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What name is given to the effect in which the frequency of a wave is changed due to a relative velocity between the source and observer?",
+    "answer": "DOPPLER EFFECT"
+  },
+  {
+    "question_number": 40,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A proton is made up of which of the following combinations of quarks?",
+    "choices": {
+      "W": "3 up",
+      "X": "2 up, 1 down",
+      "Y": "1 up, 2 down",
+      "Z": "3 down"
+    },
+    "answer": "X"
+  }
+]

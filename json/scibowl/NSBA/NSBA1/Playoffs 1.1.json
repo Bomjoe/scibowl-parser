@@ -1,0 +1,214 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A vertically polarized beam of light with intensity I first passes through a polarizer placed at an angle of 30 degrees to the vertical, then passes through a second polarizer which is polarized horizontally. What is the resulting intensity of the beam of light?",
+    "choices": {
+      "W": "3I/32",
+      "X": "3I/16",
+      "Y": "3I/8",
+      "Z": "I/2"
+    },
+    "answer": "$3I/16$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the average power, in watts, of an AC circuit with a resistance of 12 ohms and a current over time described by $I = 3\\os(5t)$?",
+    "answer": "54"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When a sugar created from the breakdown of glycogen in the muscle is put into glycolysis. How many net molecules of ATP are produced?",
+    "answer": "3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 processes in which a Holliday junction is likely to form: 1) Double-Strand Break repair; 2) DNA Ligation; 3) Genetic recombination",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Convert the base 3 numeral 210210 to base 9.",
+    "answer": "723"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alice and Bob each choose a random lattice point with x- and y-coordinates between 1 to 5, inclusive. Given that the two points are distinct, what is the probability that the distance between them is 1?",
+    "answer": "2/15"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A melted pingo or palsia is structurally most similar to which of the following glacial outwash plane features?",
+    "choices": {
+      "W": "Kame",
+      "X": "Kettle",
+      "Y": "Esker",
+      "Z": "Drumlin"
+    },
+    "answer": "X) KETTLE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the best-proposed explanation for the presence of lobate scarps on the surface of Mercury?",
+    "choices": {
+      "W": "Reverse faults on Mercury led to an uplifting of Mercury's crust",
+      "X": "Mercury's core began to cool, leading to an overall contraction of the planet",
+      "Y": "Tectonic plate collisions in Mercury led to crustal uplifting",
+      "Z": "Divergence of tectonic plates led to the creation of rifts in Mercury's crust"
+    },
+    "answer": "X) MERCURY'S CORE BEGAN TO COOL, LEADING TO AN OVERALL CONTRACTION OF THE PLANET"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organic molecules is the least nucleophilic?",
+    "choices": {
+      "W": "Propene",
+      "X": "Benzene",
+      "Y": "2-methylpropene",
+      "Z": "Toluene"
+    },
+    "answer": "X) BENZENE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "3 moles of a diatomic gas is heated isochorically such that its temperature increases 18 degrees Celsius. To 2 significant figures, how much energy in joules was inputted?",
+    "answer": "1100"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following inhibitions that would lower the Vmax of a reaction: 1) Competitive; 2) Uncompetitive; 3) Noncompetitive.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Answer the following 2 questions regarding the image below: 1) What are the first 4 elements in the in-order traversal of this tree; 2) What is the fewest amounts of red-black rotations to balance this tree?",
+    "answer": "1) 1 3 4 6; 2) 2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In quantum field theories like QED, what technique redefines quantities to allow them to resolve divergent results and make sense of infinite integrals in perturbation theory?",
+    "answer": "RENORMALIZATION"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A double slit experiment is constructed with slit separation of 1 millimeter and source distance 10 meters. If light of wavelength 500 nanometers is incident on the apparatus, what is the distance between the center of the screen and the first minimum in millimeters?",
+    "answer": "2.5"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Damage to the Broca's area would lead to which of the following aphasias?",
+    "choices": {
+      "W": "Comprehensive aphasia",
+      "X": "Anomic aphasia",
+      "Y": "Expressive aphasia",
+      "Z": "Chromatic aphasia"
+    },
+    "answer": "Y) EXPRESSIVE APHASIA"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the difference between assimilated transport in the vegetative and fruiting stages?",
+    "choices": {
+      "W": "Vegetative only goes up, while fruiting goes up and down",
+      "X": "Vegetative only goes up, while fruiting only goes up",
+      "Y": "Vegetative goes up and down, while fruiting goes up and down",
+      "Z": "Vegetative goes up and down, while fruiting only goes up."
+    },
+    "answer": "Z) VEGETATIVE GOES UP AND DOWN, WHILE FRUITING ONLY GOES UP."
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the formula of the monic quadratic with $7 + 9i$ as a root?",
+    "answer": "$x^{2} - 14x + 130$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An integer factor of 2020 is chosen at random, and then an integer factor of that number is chosen at random. What is the probability that the second factor is even?",
+    "answer": "7/18"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "When a star starts burning hydrogen in its core, it begins its life on the main sequence of the HR diagram. What is the name given to this point where the star first appears on the main sequence?",
+    "answer": "ZERO AGE MAIN SEQUENCE (ACCEPT: ZAMS)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 igneous rocks from highest to lowest plagioclase content: 1) Peridotite; 2) Obsidian; 3) Scoria; 4) Dacite.",
+    "answer": "3, 4, 2, 1"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 ions in order of increasing size: 1) $K^{+}$ ; 2) $Na^{+}$ ; 3) $Cl^{-}$ .",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the electron count of the central vanadium atom in the complex [V(CH3)4(CO)]",
+    "answer": "12"
+  }
+]

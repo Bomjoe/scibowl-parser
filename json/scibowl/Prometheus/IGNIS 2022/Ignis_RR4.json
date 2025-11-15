@@ -1,0 +1,518 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "A nuclear winter could be caused by the ejection of light-absorbing particles into what layer of the atmosphere, where they would have a longer lifetime than those near the surface?",
+    "answer": "Stratosphere"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "What term describes the hypothetical point at which technological growth becomes uncontrollable and irreversibly alters human civilization?",
+    "answer": "Technological singularity"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The graph of the function $y = 2x^{2} + y^{2} + 4x - 5y - 5$ is an example of what conic section?",
+    "choices": {
+      "W": "Circle",
+      "X": "Ellipse",
+      "Y": "Parabola",
+      "Z": "Hyperbola"
+    },
+    "answer": "X) Ellipse"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find all real solutions to the equation: $2\\qrt{x} + 3\\qrt[4]{x} - 2 = 0$",
+    "answer": "$\\rac{1}{16}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The standard reduction potential of $\\athrm{Fe}_{3}^{+}$ to iron metal is -0.04, while the standard reduction potential of $\\athrm{Ni}_{2}^{+}$ to nickel metal is -0.23. For a standard galvanic cell with solutions of $\\athrm{Fe}_{3}^{+}$ and $\\athrm{Ni}_{2}^{+}$ in different compartments, what is the cell potential?",
+    "answer": "0.19"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three gases by increasing rate of effusion at 400 kelvin through a pinhole: 1) Oxygen; 2) Hydrogen fluoride; 3) Ammonia.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What atmospheric circulation cell is bounded by the equatorial low and subtropical high?",
+    "choices": {
+      "W": "Hadley",
+      "X": "Ferrel",
+      "Y": "Walker",
+      "Z": "Polar"
+    },
+    "answer": "W) Hadley"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three unconformities that commonly only involve sedimentary rocks: 1) Angular unconformity; 2) Nonconformity; 3) Disconformity.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Two species of corn plants can be crossed to produce a hybrid offspring that is infertile. This offspring randomly duplicates its genome, and now can self cross to produce more of itself, creating a new species. This is an example of which of the following?",
+    "choices": {
+      "W": "Sympatric speciation",
+      "X": "Allopatric speciation",
+      "Y": "Founder effect",
+      "Z": "Bottleneck effect"
+    },
+    "answer": "W) Sympatric speciation"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What sex determination system is utilized by individuals of hymenoptera and other social insects?",
+    "answer": "Haplodiploid system"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A fluid is added to a container where two pistons of non-equal areas are touching the fluid. On a piston with area 20 square centimeters, a force pushes down with a force of 70 newtons. The piston on the other side with area 40 square centimeters experiences an upward force of what magnitude, in newtons?",
+    "answer": "140"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following base and height dimensions for a ramp would ensure the largest magnitude of acceleration of a block placed at the top?",
+    "choices": {
+      "W": "Base: 5, Height: 3",
+      "X": "Base: 4, Height: 3",
+      "Y": "Base: 3, Height: 5",
+      "Z": "Base: 4, Height: 4"
+    },
+    "answer": "Y) Base: 3, Height: 5"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "In game theory, what thought experiment involves two completely rational agents either cooperating for a mutual reward or betraying each other for an individual reward?",
+    "answer": "Prisoner's dilemma"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "One early proposal for determining whether a computer program exhibits human-level intelligence was to see if a human judge could discern textual messages sent by a computer from those sent by a human. What is this evaluation known as?",
+    "answer": "Turing test"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $45\\$ of a certain number $x$ is 50, what is $27\\$ of $x$?",
+    "answer": "30"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Tyler draws a number from all integers between 1 and 90, inclusive and at random. What is the probability that Tyler draws a number relatively prime to both 5 and 6?",
+    "answer": "$\\rac{4}{15}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the average oxidation state of oxygen in $\\athrm{O_2F_2}$?",
+    "answer": "$+1$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pairs of elements will have the highest bond dissociation energy?",
+    "choices": {
+      "W": "Silver and fluorine",
+      "X": "Carbon and fluorine",
+      "Y": "Silver and iodine",
+      "Z": "Carbon and iodine"
+    },
+    "answer": "X) Carbon and fluorine"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Quintessence and the cosmological constant are two proposed forms of what form of energy which is responsible for the accelerating expansion of the universe?",
+    "answer": "Dark energy"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the percentage of the total energy in the universe that is made up of dark energy?",
+    "choices": {
+      "W": "30",
+      "X": "50",
+      "Y": "70",
+      "Z": "90"
+    },
+    "answer": "Y) 70"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The enzyme nitrogenase is most directly involved in which of the following processes?",
+    "choices": {
+      "W": "Ammonification",
+      "X": "Nitrogen fixation",
+      "Y": "Denitrification",
+      "Z": "Nitrification"
+    },
+    "answer": "X) Nitrogen fixation"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three vitamins that are fat soluble: 1) A; 2) B3; 3) E.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following changes to the force applied on a spherical surface and the radius of the sphere would result in the smallest change in pressure?",
+    "choices": {
+      "W": "Force is doubled, radius is tripled",
+      "X": "Force is tripled, radius is quadrupled",
+      "Y": "Force is tripled, radius is doubled",
+      "Z": "Force is quadrupled, radius is tripled"
+    },
+    "answer": "Y) Force is tripled, radius is doubled"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A graduate student calculated the mass of a gold nucleus by summing the masses of the protons and neutrons within it. The mass they calculated is:",
+    "choices": {
+      "W": "Greater than the actual mass",
+      "X": "Less than the actual mass",
+      "Y": "Equal to the actual mass",
+      "Z": "Mass relative to actual mass is dependent on the specific isotope of gold"
+    },
+    "answer": "W) Greater than the actual mass"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which chemical element is used in the core of implosion-type nuclear weapons, such as the one used in the Trinity test?",
+    "choices": {
+      "W": "Uranium",
+      "X": "Neptunium",
+      "Y": "Plutonium",
+      "Z": "Thorium"
+    },
+    "answer": "Y) Plutonium"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "As the global effects of climate change continue to develop, the local climate of Western Europe is predicted to cool due to the disruption of what Atlantic ocean current?",
+    "answer": "Gulf stream"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "In base 10, the sum of AB and CD is AEF, where each letter represents a unique integer digit. Which of the following integers could C equal?",
+    "choices": {
+      "W": "3",
+      "X": "5",
+      "Y": "7",
+      "Z": "9"
+    },
+    "answer": "Z) 9"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many unique triangles with integer side lengths have a perimeter of 36 and area of 72?",
+    "answer": "0"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reactions is a redox reaction?",
+    "choices": {
+      "W": "$2\\athrm{NO}_{2}\\ongrightarrow \\athrm{N}_{2}\\athrm{O}_{4}$",
+      "X": "$\\athrm{P_4O_{10} + 6H_2O\\ongrightarrow 4H_3PO_4}$",
+      "Y": "HCl + NaHCO3 NaCI + H2O + CO2",
+      "Z": "$2\\athrm{H}_{2}\\athrm{O}_{2}\\ongrightarrow 2\\athrm{H}_{2}\\athrm{O} + \\athrm{O}_{2}$"
+    },
+    "answer": "Z) $2\\athrm{H}_{2}\\athrm{O}_{2}\\ongrightarrow 2\\athrm{H}_{2}\\athrm{O} + \\athrm{O}_{2}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A basic buffer is prepared using $10^{-3}$ moles of an acid with a pKa of 3 and $10^{-3}$ moles of the acid's conjugate acid. What is the pH of the buffer?",
+    "answer": "3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the oxidation state of iron in pyrite?",
+    "answer": "+2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Abigail is studying the land formations in Mt. Washington and discovers a dike that cuts through an older body of granite. Which of the following principles allows her to determine the relative age of the two rocks?",
+    "choices": {
+      "W": "Superposition",
+      "X": "Original horizontality",
+      "Y": "Lateral continuity",
+      "Z": "Cross-cutting relationships"
+    },
+    "answer": "Z) Cross-cutting relationships"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would occur more often in C3 plants than in C4 plants?",
+    "choices": {
+      "W": "Thriving in high-intensity light",
+      "X": "Photorespiration",
+      "Y": "PEP carboxylase fixes CO2",
+      "Z": "Open stomata at night"
+    },
+    "answer": "X) Photorespiration"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three viruses that belong to the family retroviridae: 1) HIV; 2) Rhinovirus; 3) Coronavirus.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What general technique is used to modulate the properties of electronic materials by introducing impurities to modify their band structure?",
+    "answer": "Doping"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements, when presented as an impurity in silicon, would result in a p-type semiconductor?",
+    "choices": {
+      "W": "Phosphorus",
+      "X": "Antimony",
+      "Y": "Carbon",
+      "Z": "Boron"
+    },
+    "answer": "Z) Boron"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "What is the term to describe hardy organisms that are the first to colonize barren environments or disrupted steady-state ecosystems?",
+    "choices": {
+      "W": "Foundation species",
+      "X": "Climax species",
+      "Y": "Keystone species",
+      "Z": "Pioneer species"
+    },
+    "answer": "Z) Pioneer species"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "AI boxing refers to a proposal to mitigate the risk of unaligned AI by doing which of the following?",
+    "choices": {
+      "W": "Isolating it from the world at large except for select communication channels",
+      "X": "Placing the AI's communications under the oversight of another AI system",
+      "Y": "Separating an AI's capabilities programming from its safety programming, to prevent the two interfering",
+      "Z": "Building the AI out of modular systems so that each module can be safety-tested individually"
+    },
+    "answer": "W) Isolating it from the world at large except for select communication channels"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Currently, the time on a digital clock is 12:28. A palindrome time is when the time with colon removed is a palindrome, such as at 2:12 or 10:01. How many minutes are there until the next palindrome time?",
+    "answer": "33"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the degree measure of the angle formed by the hour and minute hand at 12:28 on an analog clock?",
+    "answer": "154"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements appears closest to red during a flame test?",
+    "choices": {
+      "W": "Sodium",
+      "X": "Magnesium",
+      "Y": "Potassium",
+      "Z": "Calcium"
+    },
+    "answer": "Z) Calcium"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Carbon-14, which has a half-life of 6,000 years, is initially present in a geologic deposit and decays without replacement, while all carbon-12 initially present does not decay. When the ratio of carbon-12 to carbon-14 in the geologic deposit triples, which of the following is closest to the number of years that have passed?",
+    "choices": {
+      "W": "6000",
+      "X": "12000",
+      "Y": "18000",
+      "Z": "24000"
+    },
+    "answer": "X) 12000"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of radiation would best inform a team of scientists about the presence of dust near a galaxy's center?",
+    "choices": {
+      "W": "Ultraviolet",
+      "X": "Infrared",
+      "Y": "Radio",
+      "Z": "Optical"
+    },
+    "answer": "X) Infrared"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Saturn's largest known moon, Titan, is notable for having clouds and lakes primarily composed of what chemical compound?",
+    "answer": "Methane"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Klinefelter's syndrome is characterized by how many copies of the X chromosome?",
+    "answer": "2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Huntington's disease is characterized by which of the following inheritance patterns?",
+    "choices": {
+      "W": "Autosomal dominant",
+      "X": "Autosomal recessive",
+      "Y": "Sex-linked dominant",
+      "Z": "Sex-linked recessive"
+    },
+    "answer": "W) Autosomal dominant"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A student is observing the properties of electrons ejected from a material when exposed to light. What quantity of the material can the student measure along with the electron kinetic energy to find the energy of the photons?",
+    "answer": "Work function"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In the Stern-Gerlach experiment, the deflection of silver atoms in a magnetic field was due to what quantum property of the atoms?",
+    "choices": {
+      "W": "Orbital angular momentum",
+      "X": "Spin",
+      "Y": "Charge",
+      "Z": "Mass"
+    },
+    "answer": "X) Spin"
+  }
+]

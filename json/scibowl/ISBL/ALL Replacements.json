@@ -1,0 +1,506 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 minerals in order of increasing hardness. I. Graphite; II. Orthoclase; III. Corundum",
+    "answer": "I, II, III"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Order the following four moons in terms of increasing mass. I. Ganymede; II. Deimos; III. Earth's Moon; IV. Enceladus",
+    "choices": {
+      "W": "II, IV, III, I",
+      "X": "II, III, IV, I",
+      "Y": "II, III, I, IV",
+      "Z": "II, IV, I, III"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During which phase of meiosis does crossing- over occur?",
+    "answer": "PROPHASE I"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Male stickleback fish will not attack fish without red stripes, but will attack unrealistic fish models with red stripes. This is an example of what type of behavior?",
+    "answer": "FIXED ACTION PATTERN"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A certain reaction has a rate constant with units 1 over molar seconds. The order of the reaction is",
+    "choices": {
+      "W": "First",
+      "X": "Second",
+      "Y": "Third",
+      "Z": "Zeroth"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Free rotation about single bonds is characteristic of what VSEPR hybridization?",
+    "answer": "$\\athrm{SP}^3$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If his coworkers speak at a rate of 200 words per minute and he only pays attention $20\\$ of the time, what fractional proportion of the words of his coworker does he hear?",
+    "answer": "1/5"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the angle formed between the minute and hour hand at the time 10:30?",
+    "answer": "135 degrees"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How many ways can 3 couples fill 6 seats at a movie theater if each couple must sit together?",
+    "answer": "48"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following moons that orbit a planet lying past the solar system's frost line? I. Triton; II. Phobos; III. Io",
+    "answer": "I, III"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the Gulf Stream current that runs along the US east coast?",
+    "choices": {
+      "W": "Warm water and eastern boundary",
+      "X": "Cold water and eastern boundary",
+      "Y": "Warm water and western boundary",
+      "Z": "Cold water and western boundary"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes the failure of one or more pairs of homologous chromosomes or sister chromatids to separate during cell division?",
+    "answer": "NONDISJUNCTION"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Chordata and Echinodermata fall into what clade, characterized by the formation of the mouth secondary to the anus?",
+    "answer": "DEUTEROSTOME"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reactions is a double- replacement reaction?",
+    "choices": {
+      "W": "$2\\athrm{Mg} + \\athrm{O}_2$ yields $2\\athrm{MgO}$",
+      "X": "$2\\athrm{H}_2\\athrm{O}$ yields $2\\athrm{H}_2 + \\athrm{O}_2$",
+      "Y": "$\\athrm{AgNO_3 + NaCl}$ yields $\\athrm{AgCl + NaNO_3}$",
+      "Z": "$\\athrm{Zn + 2HCl}$ yields $\\athrm{ZnCl_2 + H_2}$"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many unpaired electrons are in a neutral fluorine atom?",
+    "answer": "2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In square centimeters, what is the surface area of a cylinder of radius 5 cm and height 10 cm in terms of pi?",
+    "answer": "150 pi centimeters squared"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the sum of the first 3 terms in a geometric sequence with 4th term 64 and 5th term 32?",
+    "choices": {
+      "W": "1792",
+      "X": "1536",
+      "Y": "896",
+      "Z": "384"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What geological feature is formed at a convergent boundary between two tectonic plates when one plate is forced beneath the other?",
+    "answer": "SUBDUCTION ZONE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A binary star system has one star with mass 4 solar masses and semi- major axis 3 AU. The other star has a mass of 6 solar masses. What is its semi- major axis?",
+    "answer": "2 AU"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes a body cavity formed from the mesoderm?",
+    "answer": "COELOM"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three phyla that contain true tissues: I - Porifera, II - Cnidaria, III - Platyhelminthes",
+    "answer": "II, III"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Thorium- 228 atoms naturally undergo alpha decay to produce radium- 224. Given that the atomic number of radium is 88, how many neutrons are in a radium- 224 nucleus?",
+    "answer": "136"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Brennan dissolves 3 moles of sodium chloride into 1 liter of water. If water's freezing point depression constant is approximately 2, by how many degrees Celsius does the water's freezing point decrease?",
+    "answer": "12"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If theta is an angle in the 2nd quadrant and cos of theta is - 3/5, what is the value of sin of theta?",
+    "answer": "4/5"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "An unfair coin is 5 times more likely to land on heads than it is on tails. What is the probability that Brennan flips said coin 4 times and gets tails every time?",
+    "choices": {
+      "W": "1/625",
+      "X": "256/625",
+      "Y": "1/1296",
+      "Z": "625/1296"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Compared to the Sun, a star has half the radius and twice the surface temperature. How many times greater is its luminosity?",
+    "answer": "4"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gasses is considered the strongest greenhouse gas?",
+    "choices": {
+      "W": "Water vapor",
+      "X": "Carbon dioxide",
+      "Y": "Sulfur dioxide",
+      "Z": "Methane"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following phyla has the most species?",
+    "choices": {
+      "W": "Arthropoda",
+      "X": "Annelida",
+      "Y": "Cnidaria",
+      "Z": "Chordata"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "After which of the following scenarios would you expect primary succession to occur?",
+    "choices": {
+      "W": "A flood in a grassland area",
+      "X": "A volcanic eruption",
+      "Y": "A fire burns through a forest",
+      "Z": "A hurricane blows through a marshland area"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Brennan has 7 foil balls for his cats, stuck under one of his three bookshelves. By how many microstates can this macrostate be realized?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "3",
+      "Z": "7"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "After Brennan tries and fails to retrieve his foil balls, all 7 are still stuck under the same bookshelf. What is the entropy of this macrostate?",
+    "answer": "0"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Which two of the following three equations never intersect? I. $2y = 4x + 7$; II. $4y - 14 = 16x$; III. $y = 4x + 14$",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the square root of the expression $11 - 4\\qrt{7}$ in the form $a + b \\qrt{7}$?",
+    "answer": "- 2 + \\qrt{7}"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What name is given to obducted chunks of oceanic crust, which are often found near current or former subduction zones?",
+    "answer": "OPHIOLITES"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name describing bodies who cross planetary orbits between Jupiter and Neptune?",
+    "answer": "CENTAURS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The cortical reaction is triggered by the release of what positively charged, divalent ion into the cytosol?",
+    "answer": "$\\athrm{Ca}^{2+}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Ident all of the following three statements which are true of C4 plants: I - PEP Carboxylase reduces photorespiration, II - There is temporal separation of carbon fixation and the Calvin cycle, III - Calvin cycle occurs in bundle- sheath cells",
+    "answer": "I, III"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "At 1 atmosphere, what must the temperature be for the enthalpy of formation of molecular oxygen (O2) to be zero Joules?",
+    "choices": {
+      "W": "$37^{\\irc}\\athrm{C}$",
+      "X": "$25^{\\irc}\\athrm{C}$",
+      "Y": "$0^{\\irc}\\athrm{C}$",
+      "Z": "0 K"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Heat is transferred to a system containing 1 mol of an ideal gas such that its temperature rises by $20\\athrm{K}$ and the volume increases by $2\\athrm{L}$. In Joules, what is the net change in energy to the system, $\\elta \\athrm{U}$? Assume the constant of molar heat capacity under constant volume, $\\athrm{C_v}$, to be 12.5 (J/mol K).",
+    "answer": "250 J"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Variance is proportional to the population standard deviation raised to what power?",
+    "choices": {
+      "W": "-1",
+      "X": "0",
+      "Y": "1",
+      "Z": "2"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the point (5, 2) is reflected across the line $\\athrm{x} = - 12$, then across the line $\\athrm{y} = \\athrm{x}$, what are the final coordinates of the point?",
+    "answer": "(2, -29)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Using luminosity decline rate, the Phillips Relation allows astronomers to use what type of supernovae as a standard candle?",
+    "answer": "TYPE IA"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What name is given to intrusive igneous rocks that form close to the surface and appear more like extrusive rocks than plutonic rocks?",
+    "answer": "HYPABYSSAL"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A pineapple is an example of what type of fruit?",
+    "choices": {
+      "W": "Simple",
+      "X": "Aggregate",
+      "Y": "Multiple",
+      "Z": "Accessory"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following parts of the adult brain originates from the embryonic forebrain in humans?",
+    "choices": {
+      "W": "Medulla Oblongata",
+      "X": "Pons",
+      "Y": "Hypothalamus",
+      "Z": "Cerebellum"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The acid- or base- catalyzed tautomerization of an enol results in a molecule with what functional group?",
+    "answer": "KETONE"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A molecule of toluene (C7H8) contains how many chemically distinct carbon molecules?",
+    "choices": {
+      "W": "1",
+      "X": "3",
+      "Y": "5",
+      "Z": "7"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In terms of pi and in centimeters squared, what is the lateral surface area of a cone with radius 5 cm and height 12 cm?",
+    "answer": "65pi cm^2"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Brennan the penguin sits at the origin of a coordinate grid. Every minute, Brennan waddles one unit north, south, east, or west, choosing between them at random. What is the probability that Brennan is back at the origin 4 waddles later?",
+    "answer": "9/64"
+  },
+  {
+    "question_number": 26,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "According to the island equilibrium model, which of the following islands would have the greatest amount of species diversity?",
+    "choices": {
+      "W": "Small island, close to the mainland",
+      "X": "Small island, far from the mainland",
+      "Y": "Large island, close to the mainland",
+      "Z": "Large island, far from the mainland"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 26,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Brennan has a rare disorder in which his pancreas is no longer able to produce enzymes. Identify all of the four following macromolecules which would have impaired digestion: I - Carbohydrates, II - Proteins, III - Nucleic Acids, IV - Fats",
+    "answer": "All"
+  }
+]

@@ -1,0 +1,377 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What type of receptors are least likely to be found on the plasma membrane?",
+    "choices": {
+      "W": "Estrogen receptor",
+      "X": "Adrenergic receptor",
+      "Y": "Cholinergic receptor",
+      "Z": "Dopamine receptor"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Psychoactive drugs that produce hallucinatory effects such as mescaline and psilocybin typically mimic what neurotransmitter via activation of 5-HT receptors?",
+    "answer": "SEROTONIN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the coefficient of the $\\athrm{x}^{3}\\athrm{y}^{2}$ term in the binomial expansion of $(2\\athrm{x} + \\athrm{y})^{5}$?",
+    "answer": "80"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A 4 by 4 by 4 magic cube is constructed with the first 64 positive integers, such that the sum of each row, column, and diagonal is equal. What is the sum of the numbers in each row of the magic cube?",
+    "answer": "130"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Catherine the goldfish is looking out the top of her fishbowl, which is filled with water with an index of refraction $\\athrm{n} = 1.333$. To two decimal places, what is the sine of the largest angle from vertical that she can look and see outside her fishbowl?",
+    "answer": "0.75"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "According to the Yukawa model, which particle mediates the residual strong force?",
+    "choices": {
+      "W": "Gluons",
+      "X": "Pions",
+      "Y": "Neutrinos",
+      "Z": "Tachyons"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of a body of water entrapped within an atoll or barrier islands, usually elongated parallel to the shore?",
+    "answer": "LAGOON"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true about Balmer lines?",
+    "choices": {
+      "W": "Cool stars exhibit weak Balmer lines because most of the hydrogen are found near the ground state",
+      "X": "Hot stars exhibit weak Balmer lines because most of the hydrogen are excited above n=2",
+      "Y": "Combined with the absorption lines of other elements, it allows for precise identification of spectral class",
+      "Z": "Combined with the emission lines of other elements, it allows for precise identification of spectral class"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Laboratory used electron microscopy to visualize what happens when phosphorus is exposed to oxygen at room temperature. Which thermodynamically stable allotrope of phosphorus did they use?",
+    "choices": {
+      "W": "White",
+      "X": "Red",
+      "Y": "Black",
+      "Z": "Violet"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Los Alamos National Laboratory are studying the use of biocatalysts. One of the benefits of using biocatalysts is the ability to exclusively target one bond over another. What is this property called?",
+    "choices": {
+      "W": "Regiosepific",
+      "X": "Regioselective",
+      "Y": "Enantiosepific",
+      "Z": "Enantioselective"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The Coulomb equation can be modified with what parameter to derive the Born-Meyer equation for lattice energy, which accounts for the interaction between point charges in an overall lattice?",
+    "answer": "MADELUNG CONSTANT"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The reduction potential for the $\\athrm{Cu}^{2 + } / \\athrm{Cu}$ couple is $+0.34$ volts, while the reduction potential for the $\\athrm{Cu}^{+} / \\athrm{Cu}$ couple is $+0.52$ volts. To two significant figures, what is the reduction potential for the $\\athrm{Cu}^{2 + } / \\athrm{Cu}^{+}$ couple in volts?",
+    "answer": "+0.16"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for a simple stimulus that triggers a fixed-action pattern, such as the aggressive behavior in male sticklebacks?",
+    "answer": "SIGN STIMULUS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why the Michaelis-Menten equation does not work for allosteric enzymes?",
+    "choices": {
+      "W": "Cooperativity is not accounted for",
+      "X": "Allosteric modulators act as noncompetitive inhibitors",
+      "Y": "Multimeric enzymes need separate plots for each subunit",
+      "Z": "Allosteric enzymes cannot be saturated"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "In 2020, the AP test scores for all students have a standard deviation of 1. What is the standard deviation of the distribution of sample means for populations containing 625 students from the general population, according to the central limit theorem?",
+    "choices": {
+      "W": "1/625",
+      "X": "1/25",
+      "Y": "1/5",
+      "Z": "1"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many of the first 100 triangular numbers are divisible by 6?",
+    "answer": "33"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In which direction would the angular velocity vector for the ticking second hand on a clock point?",
+    "choices": {
+      "W": "Clockwise",
+      "X": "Counterclockwise",
+      "Y": "Into the clock",
+      "Z": "Out of the clock"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A copper wire is cut in half, keeping its radius constant. By which of the following factors will its conductivity change?",
+    "choices": {
+      "W": "1/2",
+      "X": "1",
+      "Y": "2",
+      "Z": "4"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What front forms when an immobile cold and an immobile warm front meet, creating a stagnant front line?",
+    "answer": "STATIONARY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all the following three environments that would create mudcracks: 1) Continental shelves; 2) Tidal flats; 3) Playa lakes",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Laboratory have developed a faster forensics method for the detection of ricin, a deadly toxin found in castor beans. Ricin stops protein synthesis by inactivating what cellular organelles?",
+    "answer": "RIBOSOMES"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Laboratory used powerful laser impulses on an iron sample and discovered that iron can rearrange into different unit cell structures, such as hexagonal close packing at high enough temperatures. Identify all of the following three statements that are true about the hexagonal close packing structure of iron: 1) It contains tetrahedrally coordinated iron atoms; 2) It has a higher packing efficiency than face centered cubic packing; 3) It contains 4 iron atoms per unit cell.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following orbitals has the highest energy in the MO diagram of dinitrogen?",
+    "choices": {
+      "W": "$\\igma_{2p}$",
+      "X": "$\\igma_{2p}^{*}$",
+      "Y": "$\\i_{2p}$",
+      "Z": "$\\i_{2p}^{*}$"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "For a reaction carried out over a wide range of temperatures, a graph is plotted of the natural log of the rate constant versus one over the temperature. In terms of the activation energy $\\athbf{E}_{\\athrm{a}}$, the pre-exponential factor $\\athbf{A}$, and the universal gas constant $\\athbf{R}$, what are the slope and y intercepts of the line produced, respectively?",
+    "choices": {
+      "W": "$\\athrm{E}_{\\athrm{a}} / \\athrm{R}$ and $1 / \\athrm{A}$",
+      "X": "$\\athrm{E}_{\\athrm{a}} / \\athrm{R}$ and $\\n (\\athrm{A})$",
+      "Y": "$\\athrm{-E}_{\\athrm{a}} / \\athrm{R}$ and $1 / \\athrm{A}$",
+      "Z": "$\\athrm{-E}_{\\athrm{a}} / \\athrm{R}$ and $\\n (\\athrm{A})$"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a part of the phylum Lycophyta?",
+    "choices": {
+      "W": "Quillworts",
+      "X": "Liverworts",
+      "Y": "Club mosses",
+      "Z": "Spike mosses"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What hormone acts antagonistically to juvenile hormone and is responsible for the initiation of metamorphosis within insects?",
+    "answer": "ECDYSTEROID"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive integers between 1 and 160, inclusive, are divisible by 8 or 10 but not both?",
+    "answer": "32"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For two complementary angles $\\lpha$ and $\\eta$, if $\\in (\\lpha) + \\in (\\eta) = 1 / 3$, what is $\\in^3 (\\lpha) + \\in^3 (\\eta)$?",
+    "answer": "13/27"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "By Kepler's first law, the eccentricity of a planet's orbit must be which of the following?",
+    "choices": {
+      "W": "0",
+      "X": "Between 0 and 1",
+      "Y": "1",
+      "Z": "Greater than 1"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three choices which would increase the volume energy density between the plates of a parallel plate capacitor: 1) Increasing plate separation, holding voltage constant; 2) Increasing plate separation, holding charge constant; 3) Inserting a dielectric between the plates, holding charge constant.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Droplets of lava that erupt from Kilauea and cool rapidly form what are colloquially termed Pele's tears. What is the most accurate description of these tears?",
+    "choices": {
+      "W": "Phaneritic and mafic",
+      "X": "Phaneritic and felsic",
+      "Y": "Aphanitic and mafic",
+      "Z": "Aphanitic and felsic"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "You are looking for Permian and Cambrian fossils along a dome that formed 250 million years ago. Where along the dome would you look for each fossil respectively?",
+    "choices": {
+      "W": "Permian fossils near the center, Cambrian fossils near the edge",
+      "X": "Permian fossils near the edge, Cambrian fossils near the center",
+      "Y": "Permian fossils near the top, Cambrian fossils near the bottom",
+      "Z": "Permian fossils near the bottom, Cambrian fossils near the top"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Princeton Plasma Physics Laboratory used advanced algorithms to help confine heat more efficiently in stellarators, a type of fusion reactor. The code was adapted from modelling turbulence in what torus shaped fusion reactor?",
+    "answer": "TOKAMAK"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Laboratory are teaching quantum computers to apply statistical mechanics on the complex plane for both fermions and bosons. At high temperatures and low particle density, both Fermi-Dirac statistics and Bose-Einstein statistics converge on what type of particle statistics?",
+    "answer": "MAXWELL BOLTZMANN STATISTICS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the slope of the line produced by graphing the Gibbs free energy of an isobaric closed system against the change in total entropy in terms of the temperature T?",
+    "answer": "- 1/T"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type":

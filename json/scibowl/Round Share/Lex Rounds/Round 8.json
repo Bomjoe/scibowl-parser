@@ -1,0 +1,380 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the derangement of 6?",
+    "choices": {
+      "W": "513",
+      "X": "247",
+      "Y": "244",
+      "Z": "265"
+    },
+    "answer": "Z) 265"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Baranyai's Theorem states that the k vertices of the hypergraph may be partitioned into subsets of r vertices in $\\inom{k-1}{r-1}$ ways. Thus, 13 vertices of a hypergraph can be partitioned into how many subsets of 5 vertices?",
+    "choices": {
+      "W": "460",
+      "X": "495",
+      "Y": "515",
+      "Z": "535"
+    },
+    "answer": "X) 495"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Give the full electron configuration of Cu.",
+    "answer": "1s^2 2s^2 2p^6 3s^2 3p^6 4s^1 3d^{10}"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Give the full electron configuration of Ra.",
+    "answer": "1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^6 5s^2 4d^{10} 5p^6 6s^2 4f^{14} 5d^{10} 6p^6 7s^2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What two monosaccharides make up sucrose?",
+    "answer": "GLUCOSE AND FRUCTOSE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the number of cellulose molecules that are in a microfibril?",
+    "choices": {
+      "W": "10",
+      "X": "35",
+      "Y": "80",
+      "Z": "125"
+    },
+    "answer": "Y) 80"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the term for a gently sloping layer of bedrock, usually coming off a mountain, that can form a bajada with the mountain’s eroded sediment?",
+    "choices": {
+      "W": "Pediment",
+      "X": "Mesa",
+      "Y": "Derecho",
+      "Z": "Wadi"
+    },
+    "answer": "W) PEDIMENT"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of Kepler’s Laws describes a planet’s orbit as an ellipse with the sun at one focus?",
+    "answer": "KEPLER’S FIRST LAW"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "State all of the following 4 units that can be used to measure magnetic field strength: 1) Tesla 2) Gauss 3) Weber per square meter 4) Ampere-Volt",
+    "answer": "1, 2 AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the net electric flux, to the nearest 100 kilovolt-meters, through a gaussian surface with a radius of 5 meters and an enclosed charge of 4.5 microcoulombs?",
+    "answer": "500"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "2021 independent fair coins are tossed by Ephram. What is the expected number of consecutive TT pairs?",
+    "choices": {
+      "W": "101",
+      "X": "202",
+      "Y": "505",
+      "Z": "1010"
+    },
+    "answer": "Y) 505"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Three clever monkeys divide a pile of bananas. The first monkey takes some bananas from the pile, keeps three-fourths of them, and divides the rest equally between the other two. The second monkey takes some bananas from the pile, keeps one-fourth of them, and divides the rest equally between the other two. The third monkey takes the remaining bananas from the pile, keeps one-twelfth of them, and divides the rest equally between the other two. Given that the pile starts out with a positive number of bananas, each monkey receives a whole number of bananas whenever the bananas are divided, and the numbers of bananas the first, second, and third monkeys have at the end of the process are in the ratio 3:2:1, what is the least possible total for the number of bananas?",
+    "choices": {
+      "W": "338",
+      "X": "372",
+      "Y": "408",
+      "Z": "422"
+    },
+    "answer": "Y) 408"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What element in the group 1A on the periodic table has the highest ionization energy?",
+    "answer": "HYDROGEN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a colorless ion?",
+    "choices": {
+      "W": "Fe^{2+}",
+      "X": "Fe^{3+}",
+      "Y": "Pb^{3+}",
+      "Z": "Zn^{2+}"
+    },
+    "answer": "Z) Zn^{2+}"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Valine is substituted for what amino acid in the formation of a sickle-cell?",
+    "choices": {
+      "W": "Glutamic Acid",
+      "X": "Lysine",
+      "Y": "Glycine",
+      "Z": "Aspartic Acid"
+    },
+    "answer": "W) GLUTAMIC ACID"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is an essential amino acid?",
+    "choices": {
+      "W": "Leucine",
+      "X": "Serine",
+      "Y": "Alanine",
+      "Z": "Glutamate"
+    },
+    "answer": "W) LEUCINE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "How many constellations are officially recognized?",
+    "choices": {
+      "W": "77",
+      "X": "88",
+      "Y": "99",
+      "Z": "101"
+    },
+    "answer": "X) 88"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name all of the following constellations through which the ecliptic does not pass: 1) Draco 2) Aquarius 3) Leo 4) Pisces",
+    "answer": "1) DRACO"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball is falling off a 150 meter high cliff at a terminal velocity of 8 meters per second. What is the net force on the ball, in newtons?",
+    "answer": "0"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A block of mass 5 kilograms is initially sitting atop a frictionless ramp at a height of 3.2 meters. If the block slides down the ramp and, as it moves with a constant velocity after sliding down the ramp, collides into a spring with a spring constant 8 Newtons/meter, by how much is the spring compressed, in simplest radical form in meters?",
+    "answer": "$2\\qrt{10}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "10 friends are solving the following problem where each person will give an answer to this question and they are the only individuals answering this question. Your answer to this problem will be an integer 0 through 100. From all the individuals who submitted an answer to this problem, let the average answer be $\\amma$. Find the value of $\\eft|\\rac{13}{10}\\amma \\ight|$. If the correct answer is $x$ and your submitted answer is $y$ then your score will be $|x - y|$. If one of them accidentally wrote 50 then the number the remaining 9 people should each choose so that their score is minimized can be written as $\\rac{m}{n}$. Find $m + n$.",
+    "choices": {
+      "W": "25",
+      "X": "26",
+      "Y": "27",
+      "Z": "28"
+    },
+    "answer": "Y) 27"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Ephram has 6 Among Us Tasks to complete. Admin: Swipe Card Electrical: Calibrate Distributor Shields: Prime Shields Weapons: Clear Asteroids Medbay: Submit Scan Navigation: Chart Course The distance from Navigation to Medbay is 1 The distance from Medbay to Weapons is 2 The distance from Weapons to Shields is 4 The distance from Shields to Electrical is 8 The distance from Electrical to Admin is 16 His first task has to be Weapons and then he can choose to do whatever task he wants to do next then what is the maximum distance I travel to finish all my tasks exactly once?",
+    "answer": "86"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The mole fraction of nitrogen in the air is 0.8899. Calculate the partial pressure of N2 in air when the atmospheric pressure is 760. (3 sig figs) torr?",
+    "answer": "676"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A sample of gas at 15 degrees celsius and 1 atm has a volume of 3 L. What volume will this gas occupy at 45 degrees celsius and 1 atm.",
+    "answer": "3.31"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which organelle responsible for hydrolyzing macromolecules is not present in plant cells?",
+    "answer": "LYSOSOME"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What protein subunit makes up microfilaments?",
+    "answer": "ACTIN"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Arroyos are found in which one of the following biomes?",
+    "choices": {
+      "W": "Tundra",
+      "X": "Forest",
+      "Y": "Aquatic",
+      "Z": "Desert"
+    },
+    "answer": "Z) DESERT"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Outwash plains form in front of melting glaciers, and carry sediment away from the glacier. What type of stream is usually predominant in outwash plains?",
+    "answer": "BRAIDED STREAMS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What quantity is represented by the area under the curve of a force vs position graph?",
+    "answer": "WORK"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A solid ball of mass 10 kilograms and radius 2 meters rolls without slipping down an incline of height 7 meters. What is the final linear velocity of the ball at the bottom of the ramp, in appropriate units?",
+    "answer": "10"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Internal combustion engines, which rely on the principles of adiabatic processes, have an internal energy that is equal to the negative of what quantity?",
+    "answer": "WORK"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Calculate the COP of an ideal refrigerator that operates between temperatures of 180 and 330 Kelvin.",
+    "answer": "1.2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Jefferson National Lab have studied the lifetime of the neutral pion, which is shortened by the breaking of chiral symmetry predicted by quantum chromodynamics. What is the name for the breaking of chiral symmetry?",
+    "choices": {
+      "W": "Chiral Break",
+      "X": "Chiral Error",
+      "Y": "Chiral Anomaly",
+      "Z": "Chiral Disruption"
+    },
+    "answer": "Y) CHIRAL ANOMALY"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Lab, Fermi, Lawrence Berkeley National Lab, and others around the world are building new focusing and kicker magnets for the LHC, which increase the chance of potential collisions. Which of the following terms describes the rate at which the particles are made to collide?",
+    "choices": {
+      "W": "Instantaneous Luminosity",
+      "X": "Quantum Luminosity",
+      "Y": "Collision Luminosity",
+      "Z": "Hadron Luminosity"
+    },
+    "answer": "W) INSTANTANEOUS LUMINOSITY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Los Alamos National Lab drive cars, which use heat engines to operate. When heat engines are used to produce energy through fossil fuels, the excess heat released as the output of the heat engine needs to be absorbed by the surrounding environment, raising its temperature. What is the name given to the resulting pollution type?",
+    "choices": {
+      "W": "Thermal Pollution",
+      "X": "Heat Death Pollution",
+      "Y": "Carbon-Capture Pollution",
+      "Z": "Entropic Pollution"
+    },
+    "answer": "W) THERMAL POLLUTION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at SLAC use the Fermi Gamma Ray Telescope, which orbits at 350 miles above the Earth, to search for signs of what elusive particles that allow galaxies to spin at their current velocities without falling apart?",
+    "answer": "DARK MATTER"
+  }
+]

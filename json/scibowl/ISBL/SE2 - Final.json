@@ -1,0 +1,436 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 types of precipitation that are liquid at some point as they fall to Earth. I. Hail; II. Virga; III. Sleet; IV. Snow",
+    "answer": "II, III"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Brennan's shipping company is shipping 100 thousand rubber ducks from China to Seattle. Unfortunately, a terrible Alaskan storm wrecks their boat and the rubber ducks are spilled in the Northern Pacific gyre. Where will the most rubber ducks accumulate with respect to the gyre?",
+    "choices": {
+      "W": "To the east",
+      "X": "To the west",
+      "Y": "To the south",
+      "Z": "In the middle"
+    },
+    "answer": "Z) IN THE MIDDLE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following animals would you expect to have the longest alimentary canal?",
+    "choices": {
+      "W": "Koala",
+      "X": "Lion",
+      "Y": "Human",
+      "Z": "Shark"
+    },
+    "answer": "W) Koala"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following hormones does NOT play a role in apical dominance?",
+    "choices": {
+      "W": "Auxin",
+      "X": "Cytokinin",
+      "Y": "Ethylene",
+      "Z": "Strigolactone"
+    },
+    "answer": "Y) ETHYLENE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The principal quantum number of an electron determines",
+    "choices": {
+      "W": "The size of its orbital",
+      "X": "The shape of its orbital",
+      "Y": "The orientation of its orbital",
+      "Z": "The value of its spin"
+    },
+    "answer": "W) THE SIZE OF ITS ORBITAL"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following has the largest ionic radius?",
+    "choices": {
+      "W": "$\\athbf{S}^{2 - }$",
+      "X": "$\\athrm{Cl}^{- }$",
+      "Y": "Ar",
+      "Z": "$\\athbf{K}^{+}$"
+    },
+    "answer": "W) $\\athbf{S}^{2 - }$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many solutions on the closed interval from 0 to $2\\i$ does the equation $\\os (\\athrm{x}) = \\in (\\athrm{x})$ have?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "Y) 2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the sum of all the coefficients in the expansion of the polynomial $(\\athrm{x} + \\athrm{y})^{\\edge}6?$",
+    "choices": {
+      "W": "64",
+      "X": "81",
+      "Y": "729",
+      "Z": "2048"
+    },
+    "answer": "W) 64"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What are the 3 flavors of neutrinos?",
+    "answer": "MUON, ELECTRON, AND TAU"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "4 objects are released at the same time down a ramp. If they roll without slipping, in what order do the objects reach the bottom from first to last? I. Hoop; II. Solid Sphere; III. Cylinder; IV. Hollow Sphere",
+    "answer": "II, III, IV, I"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The methods used to determine distances to various objects are most effective at their ideal distance ranges. Order the following three methods in order of increasing ideal ranges. I. Hubble's Law; II. Cepheid Variables; III. Parallax",
+    "answer": "III, II, I"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the nuclear fusion process occurring at the center of a red giant?",
+    "answer": "TRIPLE ALPHA PROCESS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which one of the following is NOT a post-transcriptional modification of pre-mRNA?",
+    "choices": {
+      "W": "5' Cap",
+      "X": "3' UTR",
+      "Y": "Splicing",
+      "Z": "Poly A Tail"
+    },
+    "answer": "X) 3' UTR"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Brennan the cellular biologist wants to visualize regions in a plant cell using a dye that is only fluorescent in acidic environments. Identify all of the four following regions where you would expect to find fluorescence: I - Mitochondrial Matrix, II - Mitochondrial Intermembrane Space, III - Thylakoid Lumen, IV - Chloroplast Stroma",
+    "answer": "II, III"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A weak acid has a $K_a$ value of $2.0 \\times 10^{-5}$. What is the $K_b$ value of its conjugate base?",
+    "answer": "$5.0 \\times 10^{-10}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "With six sigma-bonds, three pi-bonds, and six carbon atoms, what is the bond order of benzene?",
+    "answer": "1.5"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of $5\\athrm{i}^5 - 3\\athrm{i}^4$ in the form of $a + bi$?",
+    "answer": "-3 + 5i"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Brennan the magician modifies a standard deck of 52 cards so that there are no cards with faces or prime numbers. What is the expected value of a card he randomly selects from this new deck?",
+    "answer": "19/3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The conductivity of a material is given by the resistivity raised to what power?",
+    "answer": "-1"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the distribution of charge on a charged copper sphere?",
+    "choices": {
+      "W": "Concentrated at the center",
+      "X": "Concentrated more at the center than at the outside",
+      "Y": "Evenly distributed throughout its volume",
+      "Z": "Evenly distributed along the outer surface"
+    },
+    "answer": "Z) Evenly distributed along the outer surface"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Olivine forms a solid solution in which magnesium is replaced by iron. The magnesium-rich end member is called forsterite. What is the name of the iron-rich end member?",
+    "answer": "Fayalite"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of soil would you be likely to find in an area underlain with significant amounts of permafrost?",
+    "choices": {
+      "W": "Alfisols",
+      "X": "Histosols",
+      "Y": "Oxisols",
+      "Z": "Gelisols"
+    },
+    "answer": "Z) GELISOLS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Porgs have either white, grey, or black fur. Wookies hunt Porgs on black and white chessboards. As a result, grey Porgs have difficulty hiding compared to their white and black counterparts. What type of selection do you expect to see in Porgs?",
+    "answer": "DISRUPTIVE SELECTION"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Brennan has been diagnosed with Hashimoto's Disease, a form of hypothyroidism. Identify all of the following four symptoms Brennan would be expected to have: I - Rapid Heartbeat, II - Weight Loss, III - Thyroid Swelling, IV - Increased Sensitivity to Cold",
+    "answer": "III, IV"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the relationship between 1,4-heptadiene and 4,7-heptadiene?",
+    "choices": {
+      "W": "Same compound",
+      "X": "Structural isomers",
+      "Y": "Diastereomers",
+      "Z": "Enantiomers"
+    },
+    "answer": "W) SAME COMPOUND"
+  },
+  {
+    "question_number": 26,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The beta minus decay of potassium 42 creates which of the following isotopes?",
+    "choices": {
+      "W": "Calcium 41",
+      "X": "Calcium 42",
+      "Y": "Calcium 43",
+      "Z": "Scandium 43"
+    },
+    "answer": "X) CALCIUM 42"
+  },
+  {
+    "question_number": 27,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The range of some function $\\athrm{f(x)}$ is the closed interval from -5 to 10. If $\\athrm{g(x)}$ is $\\rac{f^{-1}(x)}{x - 7}$, what is the domain of $\\athrm{g(x)}$?",
+    "choices": {
+      "W": "All real numbers between 5 and 10",
+      "X": "All real numbers between 5 and 10, excluding 7",
+      "Y": "All real numbers between -5 and 10",
+      "Z": "All real numbers between -5 and 10, excluding 7"
+    },
+    "answer": "Z) ALL REAL NUMBERS BETWEEN -5 AND 10, EXCLUDING 7"
+  },
+  {
+    "question_number": 28,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What value of $\\athrm{x}$ satisfies the equation $\\og_4(x + 7) = \\og_{16}(x + 13)$?",
+    "answer": "-4"
+  },
+  {
+    "question_number": 29,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The energy of a photon is proportional to its wavelength raised to what power?",
+    "answer": "-1"
+  },
+  {
+    "question_number": 30,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not an equivalent unit to the watt?",
+    "choices": {
+      "W": "Joule per second",
+      "X": "Volt amp",
+      "Y": "Newton meter per second",
+      "Z": "Volt per ohm"
+    },
+    "answer": "Z) Volt per ohm"
+  },
+  {
+    "question_number": 31,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following statements that are true of open clusters compared with globular clusters. I. Open clusters are older; II. Open clusters have fewer stars; III. Open clusters are more metallic; IV. Open clusters are more uniformly shaped.",
+    "answer": "II, III"
+  },
+  {
+    "question_number": 32,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A planet orbits a star of 3 solar masses with a semi-major axis of 12 AU. In years, what is the period of this planet?",
+    "answer": "24"
+  },
+  {
+    "question_number": 33,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Removing which of the following plant structures will lead to a lack of phototropism in a plant?",
+    "choices": {
+      "W": "Apical Meristem",
+      "X": "Vascular Cylinder",
+      "Y": "Root Hairs",
+      "Z": "Root Cap"
+    },
+    "answer": "W) APICAL MERISTEM"
+  },
+  {
+    "question_number": 34,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Brennan is studying hemophilia in a human population at Hardy-Weinberg equilibrium. He notices that $5\\$ of males are affected by the disease. Given that hemophilia is a sex-linked trait, what is the frequency of hemophilia allele?",
+    "answer": "0.05"
+  },
+  {
+    "question_number": 35,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The dipole moment of a neutral diatomic molecule depends on all of the following except?",
+    "choices": {
+      "W": "distance between atomic nuclei",
+      "X": "magnitude of charge",
+      "Y": "percent ionic character",
+      "Z": "sign of charge on the larger atom"
+    },
+    "answer": "Z) SIGN OF CHARGE ON THE LARGER ATOM"
+  },
+  {
+    "question_number": 36,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Permanganate is often used as an oxidizing agent due its high reduction potential. How many electrons are involved in the half-reaction where permanganate is reduced to manganese (II)?",
+    "choices": {
+      "W": "1",
+      "X": "3",
+      "Y": "5",
+      "Z": "7"
+    },
+    "answer": "Y) 5"
+  },
+  {
+    "question_number": 37,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the derivative of the function $\\athrm{xsin(x)}$ with respect to $x$?",
+    "answer": "$\\athrm{xcos(x) + sin(x)}$"
+  },
+  {
+    "question_number": 38,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The set of integers 1, 3, 9, 11, and $x$ has the same mean and median. What is the sum of the two largest possible values of $x$?",
+    "answer": "27"
+  },
+  {
+    "question_number": 39,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why birds are able to stand on exposed high voltage electric wires without being shocked?",
+    "choices": {
+      "W": "Their feet are strong enough insulators to prevent current from flowing through them",
+      "X": "The wires quickly oxidize upon contact forming an insulating layer",
+      "Y": "The alternating current creates such a quickly oscillating voltage that they do not get shocked",
+      "Z": "They are not connected to a surface of lower voltage so there is no voltage difference driving current through their bodies"
+    },
+    "answer": "Z) THEY ARE NOT CONNECTED TO A SURFACE OF LOWER VOLTAGE SO THERE IS NO VOLTAGE DIFFERENCE DRIVING CURRENT THROUGH THEIR BODIES"
+  },
+  {
+    "question_number": 40,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A large number of physics equations take the form of $\\rac{1}{2} ax^2$ where $a$ and $x$ are relevant quantities. This is mathematically due to the integration of which of the following functions of $x$?",
+    "choices": {
+      "W": "a/x",
+      "X": "ax",
+      "Y": "ax^2",
+      "Z": "ax^3"
+    },
+    "answer": "X) ax"
+  }
+]

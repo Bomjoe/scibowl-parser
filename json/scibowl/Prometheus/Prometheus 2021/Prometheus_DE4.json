@@ -1,0 +1,494 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Longtermism - Multiple Choice AI ethics theorists such as Stuart Russell believe that a large source of AI risk would originate from which military application of AI?",
+    "choices": {
+      "W": "Cybersecurity",
+      "X": "Monitoring of nuclear weapons",
+      "Y": "Lethal autonomous weapons systems",
+      "Z": "Battlefield healthcare"
+    },
+    "answer": "Y) Lethal autonomous weapons systems"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Longtermism - Short Answer AI safety advocates have lobbied for a ban on lethal autonomous weapons systems through a UN agreement that currently restricts incendiary weapons and land mines. What is the name of this agreement?",
+    "answer": "Convention on Certain Conventional Weapons (ACCEPT: CCW)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Math - Short Answer Find $\\im_{x \\to 0} f(x) = \\rac{3x^3 - x}{\\in x}$ [the limit as x approaches 0 of f of x equals the fraction with numerator three x cubed minus x and denominator sine of x].",
+    "answer": "-1"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Math - Short Answer [Read slowly] In triangle ABC, AD is the angle bisector of angle A which splits BC into BD of length 2 and CD of length 3. Given that AD has length 6, what is the length of the longest side of triangle ABC?",
+    "answer": "$3\\qrt{7}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Chemistry - Multiple Choice The breathalyzer is a common breath alcohol test, the original design of which used dichromate to oxidize any alcohols in the breath. Upon oxidation of the alcohol, the device turns green. Which oxidation state of chromium is responsible for this green color?",
+    "choices": {
+      "W": "+2",
+      "X": "+3",
+      "Y": "+5",
+      "Z": "+6"
+    },
+    "answer": "X) +3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Chemistry - Short Answer A weak acid has a pKa of 3.8. If 100 mL of a 0.2 molar sample of this weak acid is titrated with 0.2 molar sodium hydroxide, then to two significant figures, what is the pH of the titration mixture at the equivalence point?",
+    "answer": "8.4"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Earth and Space - Short Answer An atmospheric Rossby wave always moves towards what cardinal direction?",
+    "answer": "East"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Earth and Space - Short Answer In the 2021 eruption of Cumbre Vieja [KOOM-bray vee-AY-ha], new vents were often preceded by explosions of groundwater heated by rising magma. What type of eruption were these events?",
+    "answer": "Phreatic [free- A- dik]"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Biology - Multiple Choice Increased sympathetic input to contractile cardiomyocytes [CAR-dee-oh-MY-oh-sites] would most likely cause which of the following effects?",
+    "choices": {
+      "W": "Increased end systolic [sis-TALL-ik] volume",
+      "X": "Increased end diastolic [die-uh-STALL-ik] volume",
+      "Y": "Decreased end systolic volume",
+      "Z": "Decreased end diastolic volume"
+    },
+    "answer": "Y) Decreased end systolic volume"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Biology - Multiple Choice Which of the following animals would a cetacean [see-TAY-shun], such as a whale, be least closely related to?",
+    "choices": {
+      "W": "Cattle",
+      "X": "Giraffes",
+      "Y": "Horses",
+      "Z": "Pigs"
+    },
+    "answer": "Y) Horses"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Physics - Multiple Choice Which of the following is least accurate regarding the adiabatic expansion of an ideal gas?",
+    "choices": {
+      "W": "Entropy is conserved in a reversible adiabatic expansion",
+      "X": "Entropy increases in the adiabatic expansion into vacuum",
+      "Y": "Reversible adiabatic expansion results in a macrostate that cannot be created through successive irreversible expansions",
+      "Z": "Reversible adiabatic expansion yields a lower final pressure than isothermal expansion to the same volume"
+    },
+    "answer": "X) Entropy increases in the adiabatic expansion into vacuum"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of the quantum Hall effect: 1) It is most common at higher temperatures; 2) The fractional Hall effect is exhibited if the electrons are replaced by composite fermions; 3) Hall resistance is quantized.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Longtermism - Short Answer In terms of their target, HSP90 inhibitors are an example of which type of antiviral drug?",
+    "answer": "Chaperone protein inhibitors"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Longtermism - Multiple Choice Which of the following factors is a great disadvantage of using chaperone protein inhibitors as antiviral drugs?",
+    "choices": {
+      "W": "Potential damage to human host cells",
+      "X": "Discoveries require research into protein folding",
+      "Y": "Studies are difficult to perform under controlled conditions",
+      "Z": "Potential contribution to antiviral resistance"
+    },
+    "answer": "W) Potential damage to human host cells"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Math - Short Answer Let $f(x)$ be the real polynomial with least degree and leading coefficient 1 that has $-1 - 2i$ as one of its roots. What is $f(1)$ ?",
+    "answer": "8"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive integers less than or equal to 2022 are relatively prime to 2022?",
+    "answer": "672"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Chemistry - Multiple Choice The IR spectrum of a certain organic compound has two peaks near 3300 inverse centimeters. Which of the following choices is most likely the functional group associated with this signal?",
+    "choices": {
+      "W": "Carboxylic [CAR-box- IH-lik] acid",
+      "X": "Alcohol",
+      "Y": "Primary amine [A-mean]",
+      "Z": "Secondary amine"
+    },
+    "answer": "Y) Primary amine"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The standard reduction potential for the reduction of $\\athrm{Cr}^{2 + }$ to $\\athrm{Cr}$ metal is -0.90 V, and the standard reduction potential for the conversion of $\\athrm{Cr}^{3 + }$ to $\\athrm{Cr}^{2 + }$ is -0.42 V. What is the standard reduction potential for $\\athrm{Cr}^{3 + }$ to $\\athrm{Cr}$ metal?",
+    "answer": "-0.74"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of faults that could form under tensional stress: 1) Detachment; 2) Listric [LIS-trik]; 3) Ring.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why the central bulge of spiral galaxies typically appears less blue than their spiral arms?",
+    "choices": {
+      "W": "Heavier elements are pulled to the center",
+      "X": "Short wavelengths are absorbed by material in the bulge",
+      "Y": "Spiral arms are hotter due to star formation",
+      "Z": "The bulge typically contains older Population II stars"
+    },
+    "answer": "Z) The bulge typically contains older Population II stars"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Biology - Multiple Choice Which of the following genes is not found in every retrovirus?",
+    "choices": {
+      "W": "Rev",
+      "X": "Pol",
+      "Y": "Gag",
+      "Z": "Env"
+    },
+    "answer": "W) Rev"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three digestive enzymes that are found on the brush border: 1) Aminopeptidase [uh-ME-no-PEP-ti-dace]; 2) Trypsin [TRIP-sin]; 3) Dextrinase [DEX-trih-nase].",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Physics - Multiple Choice Dilution refrigeration can cool below 1 K via the interaction of a concentrated and a dilute phase of helium. Which of the following best characterizes the composition of the concentrated and dilute phase respectively?",
+    "choices": {
+      "W": "Concentrated is pure helium-3, dilute is rich in helium-3",
+      "X": "Concentrated is pure helium-3, dilute is rich in helium-4",
+      "Y": "Concentrated is pure helium-4, dilute is rich in helium-3",
+      "Z": "Concentrated is pure helium-4, dilute is rich in helium-4"
+    },
+    "answer": "X) Concentrated is pure helium-3, dilute is rich in helium-4"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A ball is dropped from height $H$ . Each time it hits the ground, it rebounds at exactly half the speed that it collided with. After it stops bouncing, how far has it traveled, in terms of $H$ ?",
+    "choices": {
+      "W": "$\\rac{4H}{3}$",
+      "X": "$\\rac{5H}{3}$",
+      "Y": "$\\rac{8H}{3}$",
+      "Z": "$3H$"
+    },
+    "answer": "X) $\\rac{5H}{3}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Longtermism - Short Answer The fireball of a nuclear weapon is primarily caused by the emission of what type of radiation from the blast?",
+    "answer": "X-rays"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "The widely-mocked advice to duck and cover from a nuclear blast actually provides substantial protection from a blast wave at high distances. Which of the following factors does not contribute to the effect of a nuclear blast wave?",
+    "choices": {
+      "W": "Static overpressure",
+      "X": "Dynamic pressure",
+      "Y": "Directional pressure",
+      "Z": "Blast winds"
+    },
+    "answer": "Y) Directional pressure"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Math - Multiple Choice Two circles with radius 6 are placed such that the center of each lies on the other's circumference. If they intersect at points A and B, what is the measure of arc AB on either circle?",
+    "choices": {
+      "W": "$2\\i$",
+      "X": "$3\\i$",
+      "Y": "$4\\i$",
+      "Z": "$6\\i$"
+    },
+    "answer": "Y) $4\\i$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the term that describes the statistical phenomenon in which two variables that may be positively associated in a population could be independent or even negatively associated in all subpopulations?",
+    "answer": "Simpson's Paradox"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Chemistry - Short Answer What is the total electron count of the complex cisplatin [sis-PLA-tin] with chemical formula $\\athrm{Pt(Cl_2)(NH_3)_2}$ ?",
+    "answer": "16"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Let $\\elta$ be the energy difference between the t2g and eg orbitals in the cobalt (III) tetrammine [TEH-truh-meen] complex. In terms of $\\elta$ , what is the stabilization energy of the cobalt (III) hexamine [HEX-uh-meen] complex predicted by the crystal field model?",
+    "answer": "$\\rac{27\\elta}{2}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Earth and Space - Short Answer Researchers recently suggested that there may be life present on Venus after detecting high concentrations of what compound in the planet's atmosphere?",
+    "answer": "Phosphine"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following features would most likely be associated with patterned or polygonal ground?",
+    "choices": {
+      "W": "Pingo",
+      "X": "Playa [PLAH-yuh]",
+      "Y": "Normal fault",
+      "Z": "Sinkhole"
+    },
+    "answer": "W) Pingo"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Biology - Multiple Choice Which of the following appendages has many components which are structurally homologous to bacterial flagellar [fluh-JEH- ler] proteins?",
+    "choices": {
+      "W": "Eukaryotic flagellum",
+      "X": "Sex-Pilus [PI-lus]",
+      "Y": "Type III secretion system",
+      "Z": "Chaperone-Usher System"
+    },
+    "answer": "Y) Type III Secretion System"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three bacteria which are Epsilon proteobacteria: 1) E. coli; 2) V. cholerae; 3) H. pylori [pie-LOR-ee].",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Physics - Short Answer Scientists at the Large Hadron Collider at CERN are studying algorithms for analyzing quark-gluon plasmas through p-p collisions. One such class of algorithms are clustering algorithms, which organize detector data into tightly collimated cones of hadronization products. What are these cones most commonly known as?",
+    "answer": "Jets"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two spacecraft travel towards each other at $0.9c$. To the nearest tenth, in terms of $c$, what is the difference in speeds that a stationary observer sees the gap between them closing at and the speed one spacecraft sees the other traveling at?",
+    "answer": "0.8c"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Longtermism - Multiple Choice Which of the following is NOT a route to artificial general intelligence that is generally considered promising by researchers?",
+    "choices": {
+      "W": "Whole brain emulation",
+      "X": "Quantum computation",
+      "Y": "Turing test success",
+      "Z": "De novo AGI"
+    },
+    "answer": "Y) Turing test success"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three situations that may potentially be examples of the unilateralist's curse in AI development: 1) Tragedy of the Commons; 2) Gain-of-function research leading to engineered pandemics; 3) Geoengineering.",
+    "answer": "All"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Math - Short Answer What is the sum of the digits of the cube of the number 10101?",
+    "answer": "27"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is $\\nt_{0}^{1} \\rac{1}{1 + x^{2}} dx$ [the definite integral from 0 to 1 of one over the quantity one plus x squared end quantity dx]?",
+    "answer": "$\\rac{\\i}{4}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Chemistry - Multiple Choice Which of the following best explains why lithium fluoride is only slightly soluble in water?",
+    "choices": {
+      "W": "Lithium is a hard acid, fluoride is a hard base",
+      "X": "Lithium is a hard acid, fluoride is a soft base",
+      "Y": "Lithium is a soft acid, fluoride is a hard base",
+      "Z": "Lithium is a soft acid, fluoride is a soft base"
+    },
+    "answer": "W) Lithium is a hard acid, fluoride is a hard base"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider a cyclic series of elementary reactions: A converts to B which converts to C which converts to A, with rate constants, in units of inverse seconds, of 3, 1, and 6. If the reaction is started with 9 moles of A, then when the reaction reaches equilibrium, how many moles of A remain?",
+    "answer": "2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Earth and Space - Short Answer When Comet Hale-Bopp passed near the Sun in 1997, it was observed to have an unusual orange-yellow tail composed primarily of what element?",
+    "answer": "Sodium"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that would likely have a positive correlation with the luminosity of a galaxy: 1) Age; 2) Metallicity; 3) Peak wavelength.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Biology - Multiple Choice Which of the following enzymes in the citric acid cycle catalyses a dehydration reaction followed by a hydration reaction?",
+    "choices": {
+      "W": "Citrate synthase",
+      "X": "Aconitase [a- KON-ih- tace]",
+      "Y": "Succinyl-CoA [SUCK- sih- nul KO AY] synthase",
+      "Z": "Fumarase [FEW- muh- race]"
+    },
+    "answer": "X) Aconitase"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What component of the RNA-induced signalling complex contains a domain which interacts with piRNA [PI R N A], and is responsible for the degradation of mRNA in RNA-interference?",
+    "answer": "Argonaute [AR- guh- not]"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Event 1 occurs at a time and place such that another event, event 2, can neither influence nor be influenced by event 1. This separation between events 1 and 2 can be characterized by what description of the spacetime interval between them?",
+    "answer": "Spacelike"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An object with charge 1 coulomb and mass 1 kg initially at rest is in a magnetic field of 4 Teslas perpendicular to its velocity. A changing electric field given by the function $12t^2 + 2$ is applied parallel to the direction of motion. After 3 seconds, what force does the magnetic field exert on the charge?",
+    "answer": "456"
+  }
+]

@@ -1,0 +1,379 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why the interference pattern predicted in Young’s double slit experiment differed slightly from the actual empirical observation?",
+    "choices": {
+      "W": "The particle like nature of light interfering",
+      "X": "The superposition of photons on the interference pattern",
+      "Y": "Rays were theoretically treated as parallel",
+      "Z": "Diffraction around slit openings"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 10 kilogram block is suspended from a roof by three massless ropes: one is at 30 degrees above the horizontal and to the left of the block; a second is directly vertical; and a third is 60 degrees above the horizontal and to the right of the block. If the tension in the vertical rope is 20 newtons, then expressing your answer in simplest radical form, what is the tension in the third, rightmost rope?",
+    "answer": "$40\\qrt{3}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What mechanism most likely forms malachite?",
+    "choices": {
+      "W": "Magmatic Differentiation",
+      "X": "Hydrothermal Enrichment",
+      "Y": "Placer Deposition",
+      "Z": "Secondary Replacement"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name all of the following 3 statements concerning hydrothermal enrichment that are true: 1) Sedimentary Exhalative deposits are fluvial; 2) Skarn is formed with calcalkaline fluids; 3) Porphyries are found near Mid ocean ridges.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry of acetylene?",
+    "answer": "LINEAR"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three coordination complexes that exhibit paramagnetism: 1) $\\athrm{Ni(CO)_4}$ ; 2) $\\athrm{[Fe(SCN)_6]^{3 - }}$ ; 3) $\\athrm{[PtCl_4]^{2 - }}$ .",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that $f(x) = x^{3} + x + 1$ , find the slope of the tangent line of f inverse of x at $x = 1$ .",
+    "answer": "1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Going up to the $x^{2}$ term, what is the Maclaurin series approximation of e-squared?",
+    "answer": "5"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the central cavity of sponges?",
+    "answer": "SPONGOCOEL"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the head side of the tapeworm?",
+    "answer": "SCOLEX"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a reason why there is no Ekman transport in the atmospheric circulation cells, while it is found in surface ocean currents?",
+    "choices": {
+      "W": "Circulation cells are driven by pressure gradient force",
+      "X": "Ocean waves are driven by prevailing winds",
+      "Y": "Friction has a significantly larger effect in oceans compared to circulation cells",
+      "Z": "Coriolis has a small, but meaningful contribution to both fluid phenomena"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What atmospheric phenomenon causes the distinctive Sargassum Seaweed to coalesce into large linear swaths?",
+    "answer": "LANGMUIR CIRCULATION"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Given that the $\\athrm{pK}_{\\athrm{a}}$ of acetylene is 25, the $\\athrm{pK}_{\\athrm{a}}$ of ammonia is 37, and the $\\athrm{pK}_{\\athrm{a}}$ of water is 15.7, which of the following bases could be used to deprotonate acetylene?",
+    "choices": {
+      "W": "Ammonia",
+      "X": "Sodium amide",
+      "Y": "Water",
+      "Z": "Sodium hydroxide"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of the hydride anion: 1) It is larger than the fluoride anion; 2) It can act as a strong base on its own; 3) It can act as a strong nucleophile on its own.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many terminal zeroes does 2020! have?",
+    "answer": "503"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In the 2020 Summer Olympics, a total of X athletes will participate. These X athletes can be divided into 3, 4, 5, and 7 rows without a remainder. If there are less than 2020 athletes competing and the value of X is such that it yields the minimum number of athletes remaining when they are divided into 13 rows, what is X?",
+    "answer": "1,680"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What effect is exemplified by the role of the sulfur atom in sulfur mustard during intramolecular $\\athrm{S}_\\athrm{N}2$ reactions and is defined as the interaction of an electron pair with an adjacent reaction center?",
+    "answer": "ANCHIMERIC ASSISTANCE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the HOMO of each of the following 3 molecules in their most common state as singlet, doublet, or triplet, respectively: 1) $\\athrm{O}_2^{2 - }$ ; 2) $\\athrm{O}_2$ ; 3) $\\athrm{O}_2^+$ .",
+    "answer": "SINGLET, TRIPLET, DOUBLET"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following groups of cnidarians do not possess a medusa stage?",
+    "choices": {
+      "W": "Anthozoans",
+      "X": "Scyphozoans",
+      "Y": "Cubozoans",
+      "Z": "Hydrozoans"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for a group of cephalopods with external shells?",
+    "answer": "NAUTILUSES"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "According to BCS theory, superconductivity is caused by the interaction between what two particles?",
+    "choices": {
+      "W": "Electron and electron hole",
+      "X": "Electron hole and phonon",
+      "Y": "Phonon and exciton",
+      "Z": "Electron and phonon"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A one dimensional box contains 64 particles. If the number of particles in the box is halved while the length of the box is doubled, by what factor will the zero point energy and the highest occupied energy state change by, respectively?",
+    "answer": "Zero point energy: $1 / 4$ , Highest energy state: 1/16"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The ability for carbonates to form varies with depth. What is the name for the ocean depth found near the mixed layer below which the rate of calcite dissolution increases dramatically due to a pressure effect?",
+    "answer": "LYSOCLINE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name all of the following gemstone-mineral pairs which are correctly paired together: 1) Peridot and olivine; 2) Opal and Quartz; 3) Ruby and Corundum.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the oxidation number of the central carbon of isopropanol?",
+    "answer": "0"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The $\\athrm{Mn}^{2 + } / \\athrm{Mn}(\\athrm{s})$ couple has a standard reduction potential of -1.2 volts, while the $\\athrm{Mn}^{3 + } / \\athrm{Mn}(\\athrm{s})$ couple has a standard reduction potential of +1.5 volts. What is the standard reduction potential of the $\\athrm{Mn}^{2 + } / \\athrm{Mn}^{3 + }$ couple?",
+    "answer": "-0.3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the first 12 perfect cubes?",
+    "answer": "6,084"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Solve for x in the equation x(x-1)(x-2)-(x-1)^3 = -1",
+    "answer": "2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for a crown of ciliated tentacles that function in feeding, are found in a namesake major clade of Bilateria?",
+    "answer": "LOPHOPHORE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the individual units of tapeworm that come after the scolex?",
+    "answer": "PROGLOTTIDS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three particles that follow Fermi-Dirac statistics: 1) Muon; 2) Gluon; 3) Neutron.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about work in an isothermal process: 1) The amount of work done in an irreversible process is always greater than in a reversible process; 2) The amount of work done in an isothermal process is equal in magnitude to the change in heat; 3) Free expansion is an irreversible process and does no work.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 stages of a star’s life from first to last: 1) White Dwarf; 2) Red Giant; 3) Yellow Dwarf.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What specific type of proton proton chain sequence is the most energetic and helium 3 directly captures a proton to form helium 4 in the last step?",
+    "answer": "PROTON PROTON CHAIN 4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds is nonaromatic?",
+    "choices": {
+      "W": "$\\athrm{C}_{8}\\athrm{H}_{8}^{+}$",
+      "X": "$\\athrm{C}_{8}\\athrm{H}_{8}$",
+      "Y": "$\\athrm{C}_{8}\\athrm{H}_{8}^{-}$",
+      "Z": "$\\athrm{C}_{18}\\athrm{H}_{18}$"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following crown ethers is best for sequestering the $\\athrm{Mg}^{2 + }$ cation?",
+    "choices": {
+      "W": "12- crown- 4",
+      "X": "15- crown- 5",
+      "Y": "18- crown- 6",
+      "Z": "21- crown- 7"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the remainder when $4^{2020}$ is divided by 3?",
+    "answer": "1"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following powers of 10 is closest to $4^{300}$ ?",
+    "choices": {
+      "W": "175",
+      "X": "180",
+      "Y": "185",
+      "Z": "190"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following nuclides would decay via electron capture?",
+    "choices": {
+      "W": "Carbon 11",
+      "X": "Boron 11",
+      "Y": "Nitrogen 12",
+      "Z": "Nitrogen 15"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice

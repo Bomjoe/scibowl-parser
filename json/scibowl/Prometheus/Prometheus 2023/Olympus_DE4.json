@@ -1,0 +1,518 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Among the significant barriers to interstellar travel is the incessant obsolescence postulate. Which of the following best explains this thought?",
+    "choices": {
+      "W": "We should not embark until we have a spacecraft that can best protect us from collisions",
+      "X": "We should not embark until we can cryogenically freeze so humans can survive the voyage",
+      "Y": "We should not embark until a spacecraft can transport a civilization-level population to increase the chance of survival",
+      "Z": "We should not embark until we have developed the fastest spacecraft possible because it will overtake any others"
+    },
+    "answer": "Z) We should not embark until we have developed the fastest spacecraft possible because it will overtake any others"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not an example of survivorship bias?",
+    "choices": {
+      "W": "Every college student should drop out because Mark Zuckerburg succeeded as a college dropout",
+      "X": "World War II planes needed repair on the sections that showed the most damage caused by enemy bullets",
+      "Y": "People with greater health insurance coverage will take more risks, leading to more insurance use",
+      "Z": "Purchasing stocks that match Warren Buffet's portfolio will lead to greater returns than the general market"
+    },
+    "answer": "Y) People with greater health insurance coverage will take more risks, leading to more insurance use"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A regular dodecagon is inscribed in a unit circle. The area of the dodecagon has what integer value?",
+    "answer": "3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the slant asymptote of the equation $y = (x^{2} + 3x + 2) / (x - 2)$ ?",
+    "answer": "$y = x + 5$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "During the reaction between benzene and chlorine in the presence of an aluminum trichloride catalyst, which of the following bonds acts as the nucleophile for the addition of chlorine to the aromatic pi system?",
+    "choices": {
+      "W": "Carbon-hydrogen sigma bond",
+      "X": "Carbon-carbon pi bond",
+      "Y": "Chlorine-chlorine sigma bond",
+      "Z": "Aluminum-chlorine sigma bond"
+    },
+    "answer": "X) Carbon-carbon pi bond"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the hexacarbonyl complex of neutral chromium, how many unpaired electrons does the central chromium atom have?",
+    "answer": "0"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The radiometric age of certain crystals in. sphere and other minerals may be reset during which of the following interactions?",
+    "choices": {
+      "W": "Exposure to radioactive minerals.",
+      "X": "Contact metamorphism",
+      "Y": "Shearing during regional metamorphism",
+      "Z": "Fluid interactions during deformation"
+    },
+    "answer": "Z) Fluid interactions during deformation"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Seismic tomography shows that some subducted plates are unable to dive into the lower mantle, but instead flatten out at what boundary within the mantle?",
+    "answer": "Transition zone"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During homologous recombination, what key intermediate structure is formed that allows for the transfer of DNA between chromosomes?",
+    "answer": "Holliday junction"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids is ketogenic?",
+    "choices": {
+      "W": "Leucine",
+      "X": "Serine",
+      "Y": "Glycine",
+      "Z": "Aspartate"
+    },
+    "answer": "W) Leucine"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is consistent between three-dimensional quantum mechanics and classical mechanics?",
+    "choices": {
+      "W": "Rotations about different axes do not commute",
+      "X": "Repeated measurements of different observables yield the same result",
+      "Y": "Spatial frequencies define positional evolution",
+      "Z": "Temporal frequencies define temporal evolution"
+    },
+    "answer": "W) Rotations about different axes do not commute"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A charged particle that is initially stationary is quickly accelerated to some non-relativistic speed in the positive $x$ -direction. Identify all of the following directions along which one would expect electromagnetic radiation: 1) Positive-$x$ ; 2) Negative-$y$ ; 3) Between negative-$x$ and positive-$y$ .",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "The liquid drop model of the atomic nucleus is based on what formula, which provides a good approximation of atomic masses, but does not account for magic numbers?",
+    "answer": "Semi- empirical mass formula (ACCEPT: Bethe- Weizsäcker formula)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which type of neural network, commonly used for image processing, is based on applying translationally-invariant filters to an image?",
+    "choices": {
+      "W": "Time delay neural network",
+      "X": "Deep neural network",
+      "Y": "Fully connected neural network",
+      "Z": "Convolutional neural network"
+    },
+    "answer": "Z) Convolutional neural network"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many distinct positive divisors does $30^{4}$ have?",
+    "answer": "125"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Suppose you have 2 red balls, 1 blue ball, and 1 green ball in a bag. You draw balls from the bag one at a time without replacement until you have drawn one ball of each color. What is the probability that the last ball you draw is blue?",
+    "answer": "5/12"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the ratio of the heat capacity of a triatomic gas in a constant volume process to the heat capacity of helium in a constant pressure process?",
+    "choices": {
+      "W": "0.8",
+      "X": "1.2",
+      "Y": "1.6",
+      "Z": "2.0"
+    },
+    "answer": "X) 1.2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three molecules that have no active modes in Raman spectroscopy: 1) Hydrogen; 2) Ethane; 3) Carbon dioxide.",
+    "answer": "None"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A neutron star can cool off quickly by what process that emits neutrinos and antineutrinos, which more easily travel through a neutron star compared to photons?",
+    "answer": "Urca process"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Blandford-Znajek process of energy extraction is currently the preferred model of the power needed for the formation of what component of an active galactic nucleus?",
+    "answer": "Jets"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In order to selectively elute a protein from a solution via chelation with a metal ion, six residues of which of the following amino acids are typically engineered onto the C-terminus of the protein?",
+    "choices": {
+      "W": "Serine",
+      "X": "Lysine",
+      "Y": "Arginine",
+      "Z": "Histidine"
+    },
+    "answer": "Z) Histidine"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following changes would you expect to see to the slope and the Y intercept, respectively, of a Lineweaver-Burke plot during noncompetitive inhibition of an enzyme?",
+    "choices": {
+      "W": "Slope increases, Y intercept increases",
+      "X": "Slope increases, Y intercept remains the same",
+      "Y": "Slope remains the same, Y intercept increases",
+      "Z": "Slope remains the same, Y intercept decreases"
+    },
+    "answer": "W) Slope increases, Y intercept increases"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following values is closest to the currently accepted value for the coupling constant of the electromagnetic field?",
+    "choices": {
+      "W": "0.0001",
+      "X": "0.001",
+      "Y": "0.01",
+      "Z": "0.1"
+    },
+    "answer": "Y) 0.01"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A 2.50 mole sample of an ideal gas expands reversibly and isothermally at 360 kelvin until its volume is doubled. What is the increase in entropy of the gas, in joules per kelvin?",
+    "choices": {
+      "W": "7.2",
+      "X": "14.4",
+      "Y": "21.6",
+      "Z": "28.8"
+    },
+    "answer": "X) 14.4"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "The training of a perceptron will fail if the data that it is being trained to classify does not satisfy which property of sets of points?",
+    "answer": "Linear separability"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "In game theory, which course of action maximizes the payoff from a coordination game?",
+    "choices": {
+      "W": "Picking the same outcome as the other player",
+      "X": "Picking the outcome that maximizes the other player's gain",
+      "Y": "Picking the outcome that beats what the other player did last time",
+      "Z": "Picking the outcome that maximizes your minimum score"
+    },
+    "answer": "W) Picking the same outcome as another player"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many integers between 1 and 20 inclusive, are not divisible by a perfect square greater than 1?",
+    "answer": "13"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive numbers with each digit greater than 3 are divisible by 8?",
+    "answer": "27"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three compounds by increasing London dispersion forces: 1) Nitrogen; 2) Chloroform; 3) Benzene.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following changes to 2-bromopentane would most accelerate its SN2 reaction with potassium cyanide in tetrahydrofuran?",
+    "choices": {
+      "W": "Installing a carbonyl group at the alpha carbon",
+      "X": "Installing a carbonyl group at the beta carbon",
+      "Y": "Substituting potassium cyanide with potassium azide",
+      "Z": "Replacing the solvent with an alcohol"
+    },
+    "answer": "X) Installing a carbonyl group at the beta carbon"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the smallest possible Shreve order of the trunk stream in a watershed with 15 first order tributary streams?",
+    "answer": "15"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of winds that are commonly associated with rain shadows: 1) Fohn winds; 2) Chinook winds; 3) Katabatic winds.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant hormones can be produced by the degradation of tRNAs?",
+    "choices": {
+      "W": "Cytokinins",
+      "X": "Abscisic Acid",
+      "Y": "Auxins",
+      "Z": "Giberellins"
+    },
+    "answer": "W) Cytokinins"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What organelle contains the malate-aspartate shuttle?",
+    "answer": "Mitochondrion"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What law in electromagnetism may be seen as analogous to Newton's third law in classical mechanics and Le Chatelier's principle in chemistry?",
+    "answer": "Lenz's law"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The average intensity of sunlight on Earth's surface is 700 watts per meter squared. What is the amount of energy, in joules, that falls on a solar collector having an area of 0.5 meters squared in 4 hours?",
+    "choices": {
+      "W": "$2.5\\times 10^{6}$",
+      "X": "$5\\times 10^{6}$",
+      "Y": "$7.5\\times 10^{6}$",
+      "Z": "$1\\times 10^{7}$"
+    },
+    "answer": "X) $5\\times 10^{6}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following vaccine technologies was developed first?",
+    "choices": {
+      "W": "Live-attenuated pathogen",
+      "X": "Inactivated pathogen",
+      "Y": "Subunit",
+      "Z": "Toxoid"
+    },
+    "answer": "W) Live-attenuated pathogen"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "In a simplified feedforward neural network, what mathematical operation does a hidden layer most closely correspond to?",
+    "choices": {
+      "W": "Regularization",
+      "X": "Linear transformation",
+      "Y": "Nonlinear transformation",
+      "Z": "Classification"
+    },
+    "answer": "Y) Nonlinear transformation"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not the number of edges of a regular polyhedron?",
+    "choices": {
+      "W": "6",
+      "X": "8",
+      "Y": "12",
+      "Z": "30"
+    },
+    "answer": "X) 8"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many natural numbers less than 100 do not contain the digits 0 or 5?",
+    "answer": "72"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "L-glucose and L-galactose are an example of a pair of what type of stereoisomers, where only one chiral center of the stereoisomers is inverted in configuration?",
+    "answer": "Epimers"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A sample of 1-bromobutane is exposed to a solution of trimethylamine N-oxide, followed by treatment with methylthium. What is the IUPAC name of the compound produced?",
+    "choices": {
+      "W": "2-pentanol",
+      "X": "2-pentanone",
+      "Y": "2-methyl-2-pentanol",
+      "Z": "Methyl butanoate"
+    },
+    "answer": "W) 2-pentanol"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A white dwarf's radius is proportional to its mass raised to what power?",
+    "choices": {
+      "W": "1/2",
+      "X": "1/3",
+      "Y": "- 1/3",
+      "Z": "- 1"
+    },
+    "answer": "Y) - 1/3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The GZK limit is an upper limit bound for the energy of protons coming from distant galaxies. What causes this bound to exist only for protons traveling a long distance?",
+    "choices": {
+      "W": "Interactions with the interstellar medium",
+      "X": "Interactions with the heliosphere",
+      "Y": "Interactions with the cosmic microwave background",
+      "Z": "Interactions with dark matter"
+    },
+    "answer": "Y) Interactions with the cosmic microwave background"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Peristaltic activity in the small intestine called an MMC can be caused by the release of which peptide hormone from the small intestine?",
+    "answer": "Motilin"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of tertiary structure: 1) Salt bridges are stronger in solvents that have a lower dielectric constant; 2) Thermophilic bacteria contain higher proportions of disulfide bonds in proteins; 3) Adding reduced glutathione would likely denature an immunoglobulin chain containing a disulfide bond.",
+    "answer": "All"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the term for the dimensionless parameter that describes how underdamped an oscillator is?",
+    "answer": "Q factor (ACCEPT: Quality factor)"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Tyler decides to dig a tunnel straight through the center of the earth, but unknowingly digs a tunnel off-center by a distance of $R / 2$ , where $R$ is the radius of the earth. What is the ratio of the period of oscillations he observes to the period of oscillations he expects?",
+    "answer": "1"
+  }
+]

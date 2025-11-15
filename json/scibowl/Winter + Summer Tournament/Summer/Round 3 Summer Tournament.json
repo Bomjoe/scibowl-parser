@@ -1,0 +1,398 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes a region within a magnetic material that has uniform magnetization?",
+    "choices": {
+      "W": "Magnetic pole",
+      "X": "Magnetosphere",
+      "Y": "Magnetic domain",
+      "Z": "Magnetic line"
+    },
+    "answer": "Y) MAGNETIC DOMAIN"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An object is launched at 15 degrees from the ground at an initial velocity of $10\\athrm{m / s}$. Assuming gravity is $10\\athrm{m / s^2}$ how far away will it land in meters?",
+    "answer": "5m"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What macromolecule is simultaneously produced with insulin during its post translational modification",
+    "answer": "C-PEPTIDE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "If Bob were to take a cross section from the stem of a monocot, how are the vascular bundles arranged?",
+    "choices": {
+      "W": "The xylem and phloem form concentric rings",
+      "X": "The vascular bundles form concentric rings",
+      "Y": "The xylem and phloem are scattered throughout the stem",
+      "Z": "The vascular bundles are scattered throughout the stem"
+    },
+    "answer": "Z) THE VASCULAR BUNDLES ARE SCATTERED THROUGHOUT THE STEM"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which covalent compound can be formed from ammonium cyanate through the Wohler synthesis?",
+    "answer": "UREA"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Select all of the following primary alcohols which are not miscible with water. 1) Methanol 2) Ethanol 3) Propanol 4) n-butanol",
+    "answer": "4 ONLY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In the past 800,000 years, Earth’s period of glacial maximums has followed a period of about 100,000 years. Which of the following periodic changes can be attributed as the main forcing factor to cause these glacial maximums?",
+    "choices": {
+      "W": "Axial obliquity",
+      "X": "Axial precession",
+      "Y": "Brightness of the sun",
+      "Z": "Eccentricity"
+    },
+    "answer": "Z) ECCENTRICITY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In order for a surface low to gain in intensity, which of the following needs to occur at high altitudes?",
+    "choices": {
+      "W": "Convergence",
+      "X": "Divergence",
+      "Y": "Absolute geostrophic flow",
+      "Z": "Conditional geostrophic flow"
+    },
+    "answer": "X) DIVERGENCE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "You flip a coin 7 times. What is the probability of flipping more heads than tails?",
+    "answer": "$\\rac{1}{2}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the smallest n such that n! contains at least 6 trailing zeroes?",
+    "answer": "25"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 choices that are considered inertial reference frames where astronomical motions are negligible. 1) In a merry go round 2) An airplane taking off in its runway 3) High Speed train on cruise mode.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What observatory works with ICECUBE to detect cosmic rays between 100GeV and 100TeV in Puebla Mexico?",
+    "answer": "HAWC OBSERVATORY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "If two parents of a child are carriers for an autosomal dominant disease, what is the probability that their child is a carrier as well? Express your answer as a reduced fraction.",
+    "answer": "$\\rac{1}{2}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Geoff is brought to the emergency room after being hit with a baseball bat on the side of his leg immediately below the knee. He is unable to dorsiflex his foot. Which of the following nerves is most likely injured?",
+    "choices": {
+      "W": "Peroneal",
+      "X": "Tibial",
+      "Y": "Femoral",
+      "Z": "Obturator"
+    },
+    "answer": "W) PERONEAL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following does not represent an increase in entropy?",
+    "choices": {
+      "W": "Condensation of water",
+      "X": "Dissolution of NaCl in water",
+      "Y": "Sublimation of CO2",
+      "Z": "Gas Evolution"
+    },
+    "answer": "W) CONDENSATION OF WATER"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Consider the mass spectrometry graphs for n-butanol, sec butanol, and tert butanol. Order the relative areas of the m/z=57 peaks for the three butanol isomers by increasing area. The mass of butanol is 74",
+    "choices": {
+      "W": "N BUTANOL, SEC BUTANOL, TERT BUTANOL",
+      "X": "",
+      "Y": "",
+      "Z": ""
+    },
+    "answer": "N BUTANOL, SEC BUTANOL, TERT BUTANOL"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which ion is the most common ion in seawater?",
+    "choices": {
+      "W": "Sodium",
+      "X": "Sulfate",
+      "Y": "Magnesium",
+      "Z": "Chloride"
+    },
+    "answer": "Z) CHLORIDE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The internal structural damage of many zircon crystals is caused by self-irradiation from the radioactive decay of uranium and thorium in the crystal structure. This process of continuous structural disintegration is known as what?",
+    "answer": "METAMICTIZATION"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $2 = \\athrm{x}^{\\edge}\\athrm{x}^{\\edge}\\athrm{x}$ to the infinitely many xs, what is x?",
+    "answer": "$\\qrt{2}$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the indefinite integral of $\\os (\\athrm{x})^{*}\\os (\\in (\\athrm{x}))\\athrm{dx}$?",
+    "answer": "SIN(SIN(X))+C"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the maximum number of 4W light bulbs that could be connected with a 12V source with the circuit allowing a maximum current of 5A?",
+    "answer": "15"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the electric flux through a Gaussian surface of area A enclosing an electric dipole where each charge has an equal magnitude of q?",
+    "answer": "0"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The photoreceptor phytochrome is responsible for what response an organism has to seasonal changes in daylength.",
+    "answer": "PHOTOPERIODISM"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following happens to hemoglobin when one of its subunits takes up an oxygen molecule?",
+    "choices": {
+      "W": "The hemoglobin’s affinity for oxygen decreases",
+      "X": "The hemoglobin’s affinity for oxygen is unaffected",
+      "Y": "The hemoglobin’s affinity for oxygen increases",
+      "Z": "The change in the hemoglobin is dependant on which subunit the oxygen molecule bonded with"
+    },
+    "answer": "Y) The hemoglobin’s affinity for oxygen increases"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What equation is responsible for relating the equilibrium constants for a reaction with varying measurements of temperature?",
+    "choices": {
+      "W": "Van't Hoff Equation",
+      "X": "Arrhenius Equation",
+      "Y": "Clausius Clapeyron Equation",
+      "Z": "Boltzmann Equation"
+    },
+    "answer": "W) VAN'T HOFF EQUATION"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a way to commonly use zeolites?",
+    "choices": {
+      "W": "Zeolites are used as ion exchange beds for commercial water purification",
+      "X": "Zeolites assist silver in naturally emitting light",
+      "Y": "Zeolites are used to remove nitrogen in compressed air to supply oxygen in flights.",
+      "Z": "Zeolites are used in conjunction with beta blockers to reduce blood pressure"
+    },
+    "answer": "Z) ZEOLITES ARE USED IN CONJUNCTION WITH BETA BLOCKERS TO REDUCE BLOOD PRESSURE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the main formation mechanism of tropospheric ozone?",
+    "choices": {
+      "W": "Splitting of H2O into H2 and O by ionosphere-to-ground electrolysis, recombination of O and O2 into ozone",
+      "X": "Splitting of NO2 into NO and O by high energy radiation, then recombination of O and O2 into ozone",
+      "Y": "Combination of two O2 molecules, releasing O3 and O",
+      "Z": "Splitting of O2 into two O radicals, recombination of O radical with O2 into ozone"
+    },
+    "answer": "X) SPLITTING OF NO2 INTO NO AND O BY HIGH ENERGY RADIATION, THEN RECOMBINATION OF O AND O2 INTO OZONE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is indicative of a Type 1a supernova?",
+    "choices": {
+      "W": "Strong silicon line at $615~\\athrm{nm}$, no hydrogen lines",
+      "X": "Strong helium lines, no hydrogen lines",
+      "Y": "Strong iron line at $810~\\athrm{nm}$, no hydrogen lines",
+      "Z": "Strong helium and hydrogen lines"
+    },
+    "answer": "W) STRONG SILICON LINE AT 615 NM, NO HYDROGEN LINES"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Toph flips a quarter four times. Find the probability that the quarter lands heads exactly twice.",
+    "answer": "$\\rac{3}{8}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the sum of all positive rational numbers that are less than 1 and that have denominator of 20 when written in lowest terms.",
+    "answer": "4"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What hydrogen series lies in the infrared section of the spectrum and overlaps with the Brackett series?",
+    "answer": "PASCHEN SERIES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What kind of flow is considered drag-induced flow either between parallel flat plates or between concentric rotating cylinders",
+    "choices": {
+      "W": "Poiseuille flow",
+      "X": "Couette flow",
+      "Y": "Viscous flow",
+      "Z": "Navier flow"
+    },
+    "answer": "X) COUETTE FLOW"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes a plant cell whose membrane has separated from its cell wall due to dehydration?",
+    "answer": "PLASMOLYSIS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In prokaryotes, which polymerase is used to carry out most of DNA replication?",
+    "choices": {
+      "W": "DNA Polymerase 1",
+      "X": "DNA Polymerase 2",
+      "Y": "DNA Polymerase 3",
+      "Z": "RNA Polymerase 3"
+    },
+    "answer": "Y) DNA POLYMERASE 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 weak acids in order of increasing pKa values. 1) HClO 2) HBrO 3) HIO",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What isomer differs by the exchange of a ligand with an anion or a neutral molecule that is outside the coordination sphere?",
+    "answer": "IONIZATION"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following minerals has a sheet-like silicate structure? 1) Biotite 2) Muscovite 3) Microcline 4) Talc",
+    "answer": "1,2,4"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Large, euhhedral crystals of muscovite embedded in an igneous rock are indicative of which of the following environments?",
+    "choices": {
+      "W": "Quick cooling time at high temperatures",
+      "X": "Quick cooling time at low temperatures",
+      "Y": "Slow cooling time at high

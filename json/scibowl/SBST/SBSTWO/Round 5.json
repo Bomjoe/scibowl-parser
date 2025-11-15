@@ -1,0 +1,148 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The Daniell cell uses two electrodes, one made of copper and another made of what element?",
+    "answer": "ZINC"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that a first-order reaction has a half-life of 12 seconds, how many seconds does it take for the reactants to reach one sixteenth of their initial concentration?",
+    "answer": "48"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which moon of Saturn has the highest albedo in the Solar System?",
+    "answer": "ENCHELADUS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Asteroids are distributed unevenly in the asteroid belt. What regions of the asteroid belt contain very few asteroids due to orbital resonances with Jupiter?",
+    "answer": "KIRKWOOD GAPS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the partial derivative with respect to $y$ of $7x^{3}y^{6}$?",
+    "answer": "$42x^{3}y^{5}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the population standard deviation of the set of the following 4 numbers: {6, 7, 9, 14}?",
+    "answer": "SQUARE ROOT OF 38 DIVIDED BY 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following laws was modified by Maxwell to include a term for the displacement current?",
+    "choices": {
+      "W": "Gauss' law of electricity",
+      "X": "Gauss' law of magnetism",
+      "Y": "Ampere's law",
+      "Z": "Faraday's law"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Coulomb's constant can be written in the form one over the quantity four pi times what fundamental constant?",
+    "answer": "PERMITTIVITY OF FREE SPACE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC national laboratory are studying a metalloenzyme used to convert methane to methanol. What is the change in carbon's oxidation state in this reaction?",
+    "answer": "$+2$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab have recently formed a 2-dimensional diamond-like structure via compression of few-layer graphene samples. Identify all of the following three statements that are true about this diamond structure: 1) It was formed via compression under 4 to 6 megapascals; 2) The material conducts electricity well; 3) The material formed has a greater hardness than the graphene substrate.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During photosynthesis, P680 is continuously reduced and oxidized. What molecule is the source of electrons for the reduction of P680?",
+    "answer": "WATER"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "tRNAs possess an anticodon to each codon found in an mRNA molecule. Identify all of the following three statements that are true of tRNA: 1) There are more types of tRNA than codons; 2) There are more types of aminoacyl tRNA synthetases than tRNAs; 3) There are more types of anticodons than types of amino acids.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is log base 9 of the quantity 27 cubed?",
+    "answer": "4.5"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Moonjay has a pile of ovals that when divided into groups of 4, there is one opal left over; when divided into groups of 5, there are 3 opals left over, and when divided into groups of 7 there are 4 left over. What is the least number of opals Moonjay could have?",
+    "answer": "53"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two charged particles are separated by a distance of one meter, and feel a force of attraction of F. If the distance between the particles is doubled, in terms of F, what is the new force of attraction between the particles?",
+    "answer": "F/4"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following thermodynamic quantities is a path function?",
+    "choices": {
+      "W": "Internal energy",
+      "X": "Work",
+      "Y": "Entropy",
+      "Z": "Helmholtz free energy"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Many biological molecules possess metal cofactors in order to function. While hemoglobin contains iron, chlor

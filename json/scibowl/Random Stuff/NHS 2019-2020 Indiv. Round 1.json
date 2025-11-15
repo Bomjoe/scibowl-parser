@@ -1,0 +1,390 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "When travelling at or near terminal velocity, the magnitude of the force of air resistance upon an object is proportional to the velocity of the object to what power?",
+    "choices": {
+      "W": "1",
+      "X": "3/2",
+      "Y": "2",
+      "Z": "5/2"
+    },
+    "answer": "Y) 2"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following types of scattering that are considered to be inelastic: 1) Raman; 2) Compton; 3) Thomson; 4) Rayleigh.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for the central body cavity of most invertebrates, which contains the circulatory fluid?",
+    "answer": "HEMOCOEL"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A plant is said to have chlorosis, a condition where insufficient chlorophyll is produced due to a mineral deficiency, when its leaves turn what characteristic color?",
+    "answer": "YELLOW"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three species in which carbon does NOT form four bonds: 1) Carbon monoxide; 2) Methyl carbocation; 3) Ethanol.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following diatomic molecules is NOT diamagnetic?",
+    "choices": {
+      "W": "C2",
+      "X": "N2",
+      "Y": "O2",
+      "Z": "F2"
+    },
+    "answer": "Y) O2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are TRUE concerning dot products: 1) They produce vectors; 2) The dot product of parallel vectors is zero; 3) They are commutative.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the derivative of $x^x$ with respect to $x$ when $x = e$.",
+    "answer": "$2e^e$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What element is present in the mineral dolomite that is not present in calcite?",
+    "answer": "MAGNESIUM"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name all of the following four plutons that are concordant: 1) Laccolith; 2) Batholith; 3) Sill; 4) Dike.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Livermore National Lab have been studying carbon nanotubes for their potential applications as channels in biological membranes. Which of the following is true regarding carbon nanotubes?",
+    "choices": {
+      "W": "They are electrically insulating",
+      "X": "$\\athrm{sp}^3$ hybridized carbon atoms",
+      "Y": "They contain a delocalized system of pi electrons",
+      "Z": "They exhibit low tensile strength"
+    },
+    "answer": "Y) THEY CONTAIN A DELOCALIZED SYSTEM OF PI ELECTRONS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Lab have been developing new methods to produce radiochemical products for a variety of applications. What general type of nuclear reaction, characterized by the conversion of one nuclide to another, could be used in this process?",
+    "answer": "TRANSMUTATION"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the signed area between the $x$-axis and the curve $y = \\in x - \\tan x$ on the interval $-1$ to $1$?",
+    "answer": "0"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "It takes Sharon 1.5 hours to sort 60 books, and it takes Evan 4 hours to sort 80 books. How long will it take Sharon and Evan to sort 300 books if they work together?",
+    "answer": "5 HOURS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What glial cells in the central nervous system perform the same role as Schwann cells in the peripheral nervous system?",
+    "choices": {
+      "W": "Astrocytes",
+      "X": "Oligodendrocytes",
+      "Y": "Microglia",
+      "Z": "Ependymal cells"
+    },
+    "answer": "X) OLIGODENDROCYTES"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In response to mechanical stress, some plants slow stem elongation, thicken the stem, and curve it away from the source of stress. What is the term given for this type of response?",
+    "answer": "TRIPLE RESPONSE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are NOT true regarding the bromination of alkenes: 1) The reaction proceeds via a syn-addition; 2) The reaction follows Markovnikov's rule; 3) The reaction produces a carbocation intermediate.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "If the temperature of a black body is doubled, then by what factor is the wavelength of its emitted radiation multiplied?",
+    "choices": {
+      "W": "1/4",
+      "X": "1/2",
+      "Y": "2",
+      "Z": "4"
+    },
+    "answer": "X) 1/2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Laboratory have been using X-rays to study the chemical composition of materials. What type of radiation, emitted when charged particles are accelerated radially through a magnetic field, can be used to produce these X-rays?",
+    "answer": "SYNCHROTRON RADIATION"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Argonne National Lab have been looking for ways to maximize the efficiency of solar cells. One of the most promising designs uses the structure of calcium titanate, which is the chemical name for which of the following minerals?",
+    "choices": {
+      "W": "Vermiculite",
+      "X": "Perovskite",
+      "Y": "Dolomite",
+      "Z": "Rutile"
+    },
+    "answer": "X) PEROVSKITE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following most accurately describes the matter distribution of the universe from the standpoint of an observer on Earth and on the gigaparsec scale?",
+    "choices": {
+      "W": "Isotropic, heterogeneous",
+      "X": "Isotropic, homogenous",
+      "Y": "Anisotropic, homogeneous",
+      "Z": "Anisotropic, heterogenous"
+    },
+    "answer": "X) ISOTROPIC, HOMOGENEOUS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What hypothesized region of the solar system contains trillions of icy bodies that are thought to be the source of long-period comets?",
+    "answer": "OORT CLOUD"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the amount of energy, in joules, stored in a 4-farad capacitor with a potential difference of 23 volts?",
+    "answer": "1,058"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The integral form of Gauss’ law for magnetism states that a closed surface integral across a magnetic vector field for any region of space equals which of the following?",
+    "choices": {
+      "W": "The enclosed volume integral of magnetic flux",
+      "X": "The enclosed volume integral of the bound electric field",
+      "Y": "The permeability of the enclosed region divided by the volume of the region",
+      "Z": "Zero"
+    },
+    "answer": "Z) ZERO"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "On which face of the Golgi apparatus are vesicles with unpackaged proteins received?",
+    "answer": "CIS FACE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all the following that are examples of torpor: 1) Brumation; 2) Estivation; 3) Hibernation.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Mike picks three letters randomly from the list of letters A, B, C, D, and E. What is the chance that Mike picks the letters B, D, and E in any order?",
+    "answer": "$10\\$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the volume of the solid generated when the curve $f(x) = x^{2} + 1$ is rotated about the $x$-axis from $x = 0$ to $x = 1$?",
+    "answer": "$28\\i /15$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Order the following substances from lowest to highest in terms of their dielectric constants at 300K: 1) Polyethylene; 2) Air; 3) Water; 4) Titanium dioxide.",
+    "answer": "2, 1, 3, 4"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding momentum is true?",
+    "choices": {
+      "W": "Angular and linear momentum share the same units",
+      "X": "Linear momentum is a vector while angular momentum is a scalar",
+      "Y": "All collisions preserve linear momentum",
+      "Z": "Some collisions do not preserve angular momentum"
+    },
+    "answer": "Y) ALL COLLISIONS PRESERVE LINEAR MOMENTUM"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following responses correctly describes the relationship between Cepheid variable and RR Lyrae variable stars?",
+    "choices": {
+      "W": "Cepheid variables are brighter and pulsate more frequently than RR Lyrae variables",
+      "X": "Cepheid variables are brighter and pulsate less frequently than RR Lyrae variables",
+      "Y": "Cepheid variables are fainter and pulsate more frequently than RR Lyrae variables",
+      "Z": "Cepheid variables are fainter and pulsate less frequently than RR Lyrae variables"
+    },
+    "answer": "X) CEPHEID VARIABLES ARE BRIGHTER AND PULSATE LESS FREQUENTLY THAN RR LYRAE VARIABLES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What process occurs when glaciers cause rocks to become dislodged and join the glacier's load?",
+    "choices": {
+      "W": "Abrasion",
+      "X": "Striation",
+      "Y": "Plucking",
+      "Z": "Attrition"
+    },
+    "answer": "Y) PLUCKING"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What term describes a flash of light produced by a high-energy particle striking a fluorescent material?",
+    "answer": "SCINTILLATION"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "1-chlorobutane is reacted with potassium tert-butoxide in acetone. What functional group is predominantly formed by this reaction?",
+    "choices": {
+      "W": "Alcohol",
+      "X": "Alkene",
+      "Y": "Aldehyde",
+      "Z": "Carboxylic acid"
+    },
+    "answer": "X) ALKENE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Jimmy has a bag containing 3 red, 4 blue, and 5 green marbles. If he removes marbles from the bag randomly, how many must he remove in order to ensure he takes out at least 1 of each color?",
+    "answer": "10"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the unit digit of $4^{358}$?",
+    "answer": "6"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What plant hormone is responsible for promoting seed dormancy and drought tolerance?",
+    "answer": "ABSCISIC ACID"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true about glucagon?",
+    "choices": {
+      "W": "Glucagon is produced by the alpha cells of the pancreas and decreases blood sugar levels",
+      "X": "Glucagon is produced by the alpha cells of the pancreas and increases blood sugar levels",
+      "Y": "Glucagon is produced by the beta cells of the pancreas and decreases blood sugar levels",
+      "Z": "Glucagon is produced by the beta cells of the pancreas and increases blood sugar levels"
+    },
+    "answer": "X) GLUCAGON IS PRODUCED BY THE ALPHA CELLS OF THE PANCREAS AND INCREASES BLOOD SUGAR LEVELS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When tin is heated in air, it forms tin (IV) oxide. However, when lead is heated in air, it forms

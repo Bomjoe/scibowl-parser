@@ -1,0 +1,484 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids absorbs ultraviolet light the best?",
+    "choices": {
+      "W": "Histidine",
+      "X": "Tyrosine",
+      "Y": "Tryptophan",
+      "Z": "Isoleucine"
+    },
+    "answer": "Y) TRYPTOPHAN"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the muscular valve that controls the flow of bile and pancreatic juices into the duodenum?",
+    "answer": "SPHINCTER OF ODDI"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is the logical negation of the claim: “For all i in the naturals, there exists j in the naturals such that i is less than j”?",
+    "choices": {
+      "W": "For all i in the naturals, there exists j in the naturals such that i is greater than j",
+      "X": "For all i in the naturals, there exists j in the naturals such that i is greater than or equal to j",
+      "Y": "There exists i in the naturals such that, for all j in the naturals, i is greater than j",
+      "Z": "There exists i in the naturals such that, for all j in the naturals, i is greater than or equal to j"
+    },
+    "answer": "Z) THERE EXISTS i IN THE NATURALS SUCH THAT, FOR ALL j IN THE NATURALS, i IS GREATER THAN OR EQUAL TO j"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Consider the column vector $\\athbf{v}_1$ with entries1,2,2 and the column vector $\\athbf{v}_2$ with entries2,0,0. Let w equal the span of $\\athbf{v}_1$ and $\\athbf{v}_2$. If $\\athbf{v}_1$ is one vector in some orthogonal basis of w, find a possible value for another vector in that basis using the Gram-Schmidt process.",
+    "answer": "THE COLUMN VECTOR WITH ENTRIES16/9, -4/9, -4/9"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following substrates can sodium borohydride not reduce?",
+    "choices": {
+      "W": "acid chlorides",
+      "X": "aldehydes",
+      "Y": "ketones",
+      "Z": "amines"
+    },
+    "answer": "Z) AMINES"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify which of the following three compounds are strong bases in water.1) $\\athrm{Mg(OH)_2}$ [magnesium hydroxide]2) $\\athrm{NaH}$ [sodium hydride]3) Grignard reagent",
+    "answer": "1,2, AND3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "For a Uranium –234 isotope that undergoes decay chains becoming a stable nuclide of lead with the neutron count of124, how many alpha decay steps have occurred in this nuclear transformation? There is a total of11 steps.",
+    "choices": {
+      "W": "Eight",
+      "X": "Seven",
+      "Y": "Six",
+      "Z": "Five"
+    },
+    "answer": "Y) SEVEN"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is not true of a damped harmonic oscillator system?",
+    "choices": {
+      "W": "If the system is underdamped it will reach the equilibrium position faster than if it were critically damped",
+      "X": "If the system is overdamped it will reach the equilibrium position slower than if it were critically damped",
+      "Y": "If the system is underdamped it will oscillate around the equilibrium position after reaching it",
+      "Z": "If the system is overdamped it will oscillate around the equilibrium position after reaching it"
+    },
+    "answer": "Z) IF THE SYSTEM IS OVERDAMPED IT WILL OSCILLATE AROUND THE EQUILIBRIUM POSITION AFTER REACHING IT"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes oxidative deamination?",
+    "choices": {
+      "W": "Conversion of an amino acid to a carboxylic acid and ammonia",
+      "X": "Conversion of an amino acid to a keto acid and ammonia",
+      "Y": "Conversion of the amine group of an amino acid to a carboxylic acid",
+      "Z": "Conversion of the amine group of an amino acid to a keto acid"
+    },
+    "answer": "X) CONVERSION OF AN AMINO ACID TO A KETO ACID AND AMMONIA"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following Cas9 domains is incorrectly matched with its function?",
+    "choices": {
+      "W": "RuvC: Cleaves the non-target DNA strand",
+      "X": "HNH: Cleaves the target DNA strand",
+      "Y": "PAM interacting domain: Initiation of cleavage activity",
+      "Z": "Rec1: Binding guide RNA"
+    },
+    "answer": "Y) PAM INTERACTING DOMAIN: INITIATION OF CLEAVAGE ACTIVITY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following rules predicts that lone pair orbitals should have higher s-character and, more generally, states that hybrid orbitals of greater p-character tend to be directed at more electronegative substituents?",
+    "choices": {
+      "W": "Bent's rule",
+      "X": "Woodward-Hoffman rules",
+      "Y": "Wade's rules",
+      "Z": "Tolman's rule"
+    },
+    "answer": "W) BENT'S RULE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reactions is most exothermic?",
+    "choices": {
+      "W": "$\\athrm{N}_2\\athrm{H}_4\\ightarrow \\athrm{N}_2 +2\\athrm{H}_2$",
+      "X": "$3\\athrm{N}_2\\athrm{H}_4\\ightarrow4\\athrm{NH}_3 + \\athrm{N}_2$",
+      "Y": "$4\\athrm{NH}_3 + \\athrm{N}_2\\athrm{H}_4\\ightarrow3\\athrm{N}_2 +8\\athrm{H}_2$",
+      "Z": "$\\athrm{N}_2\\athrm{H}_4 +2\\athrm{H}_2\\athrm{O}\\ightarrow2\\athrm{NH}_3 + \\athrm{H}_2\\athrm{O}_2$"
+    },
+    "answer": "X) $3\\athrm{N}_2\\athrm{H}_4\\ightarrow4\\athrm{NH}_3 + \\athrm{N}_2$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What makes Type Ia supernovae different from Ib, Ic, and type II supernovae?",
+    "choices": {
+      "W": "Type Ia supernovae only involve one star",
+      "X": "Type Ia supernovae do not originate from stellar core collapses",
+      "Y": "Type Ia supernovae make up the vast majority of all supernovae",
+      "Z": "Type Ia are not as luminous"
+    },
+    "answer": "X) TYPE Ia SUPERNOVAE DO NOT ORIGINATE FROM STELLAR CORE COLLAPSES"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In what region of the Hertzsprung-Russell diagram can RR Lyrae and Cepheid variables be found?",
+    "choices": {
+      "W": "Main sequence",
+      "X": "Hayashi track",
+      "Y": "Instability strip",
+      "Z": "Red-giant branch"
+    },
+    "answer": "Y) INSTABILITY STRIP"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A sound source is at rest at point X. Bob stands at a point a distance r from X. Bob moves so that he is now a distance2r from X. The intensity of the sound at this new point assuming everything else stays constant is how many times the intensity of the sound at the original point?",
+    "choices": {
+      "W": "1",
+      "X": "½",
+      "Y": "¼",
+      "Z": "½"
+    },
+    "answer": "Y)¼"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The adiabatic constant of an ideal gas is1.5, and the molecular mass of the gas is30 g/mol. Assume that the universal gas constant is approximated to8 J/mol K. If the temperature of the gas is127 degrees Celsius, what is the speed of sound through the gas in meters per second and to one significant digit?",
+    "answer": "400 m/s"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following shapes have eccentricity values of0 and1, respectively?",
+    "choices": {
+      "W": "Parabola and hyperbola",
+      "X": "Parabola and ellipse",
+      "Y": "Circle and ellipse",
+      "Z": "Circle and parabola"
+    },
+    "answer": "Z) CIRCLE AND PARABOLA"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the volume of the tetrahedron bounded by the equation $3x +3y +2z =6$ and the coordinate planes.",
+    "answer": "2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What compound enables the body to absorb cobalamin and is the product of the parietal cells?",
+    "answer": "INTRINSIC FACTORS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following causes a right shift in the Oxygen-Hemoglobin Dissociation Curve?",
+    "choices": {
+      "W": "Higher pH",
+      "X": "Lower Temperature",
+      "Y": "Higher concentrations of2,3-BPG",
+      "Z": "Lower partial pressure of Carbon Dioxide"
+    },
+    "answer": "Y) HIGHER CONCENTRATIONS OF2,3-BPG"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a reason that correctly explains the stability of benzene?",
+    "choices": {
+      "W": "Benzene has alternating single and double bonds, exchanging in fast equilibrium around the ring to make it undetectable by NMR",
+      "X": "Benzene has no unpaired pi electrons in the antibonding orbitals",
+      "Y": "Benzene has overlapping $p$ orbitals in one continuous system",
+      "Z": "Benzene has6 pi electrons in the ring, which is a Huckel number"
+    },
+    "answer": "W) BENZENE HAS ALTERNATING SINGLE AND DOUBLE BONDS, EXCHANGING IN FAST EQUILIBRIUM AROUND THE RING TO MAKE IT UNDETECTABLE BY NMR"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following concepts can be used to explain the weak acid property of hydrofluoric acid?",
+    "choices": {
+      "W": "London Dispersion Forces",
+      "X": "Ion pairs",
+      "Y": "Ionic bonding",
+      "Z": "Induced dipole-dipole moment"
+    },
+    "answer": "X) ION PAIRS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes a lake that has layers that intermix at least once a year?",
+    "choices": {
+      "W": "Amicitc",
+      "X": "Holomictic",
+      "Y": "Meromictic",
+      "Z": "Unimictic"
+    },
+    "answer": "X) HOLOMICTIC"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not true of manganese nodules?",
+    "choices": {
+      "W": "They must remain buried under sediment to grow",
+      "X": "They are classified as hydrogenous sediment",
+      "Y": "They are of economic interest because they contain valuable metals",
+      "Z": "They grow at the rate of1-10 millimeters per million years"
+    },
+    "answer": "W) THEY MUST REMAIN BURIED UNDER SEDIMENT TO GROW"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "For a lens of focal length20 cm, what will be the image distance, in centimeters, for an object30 cm from the lens? Assume the thickness of the lens is negligible.",
+    "answer": "60"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the term for self-reinforcing waves that maintain their shape while traveling at constant speed?",
+    "answer": "SOLITON"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let A be a set of3 distinct elements and B be a set of5 distinct elements. How many distinct functions exist that map A to B?",
+    "answer": "125"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Consider a probability measure $\\athrm{Pr} / \\athrm{P - R} /$ on a sample space S. Which of the following statements is not true as a direct result of Kolmogorov's axioms?",
+    "choices": {
+      "W": "For all events E in S, $\\athrm{Pr}(\\athrm{E}) =0$ if and only if E is the empty set",
+      "X": "For all events E in S, $\\athrm{Pr}(\\athrm{E}) \\eq0$",
+      "Y": "$\\athrm{Pr}(\\athrm{S}) =1$",
+      "Z": "For all disjoint events $\\athrm{E}_{1}$ and $\\athrm{E}_{2}$ in S, $\\athrm{Pr}(\\athrm{E}_{1} \\up \\athrm{E}_{2}) = \\athrm{Pr}(\\athrm{E}_{1}) + \\athrm{Pr}(\\athrm{E}_{2})$"
+    },
+    "answer": "W) FOR ALL EVENTS E IN S, $\\athrm{Pr}(\\athrm{E}) =0$ IF AND ONLY IF E IS THE EMPTY SET"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true of cardiac muscle?",
+    "choices": {
+      "W": "It is multipennate",
+      "X": "It contains Nissl Bodies",
+      "Y": "It is fusiform",
+      "Z": "It contains Intercalated Disks"
+    },
+    "answer": "Z) IT CONTAINS INTERCALATED DISKS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following proteins is NOT associated with the M line of a sarcomere?",
+    "choices": {
+      "W": "Myomesin",
+      "X": "Obscurin",
+      "Y": "Dystrophin",
+      "Z": "M-protein"
+    },
+    "answer": "X) OBSCURIN"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the standard concentration, in milligrams per liter, of nitrate that is suitable for drinking water?",
+    "choices": {
+      "W": "100",
+      "X": "10",
+      "Y": "1",
+      "Z": "0.1"
+    },
+    "answer": "X)10"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following corallivores, when overpopulated, have massive damaging effects on coral reefs?",
+    "choices": {
+      "W": "Triton",
+      "X": "Crown of Thorns Starfish",
+      "Y": "Diadema",
+      "Z": "Pencilurchins"
+    },
+    "answer": "X) CROWN OF THORNS STARFISH"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Rayleigh and Love waves differ from P and S waves in which way?",
+    "choices": {
+      "W": "They travel faster",
+      "X": "They are compression waves",
+      "Y": "They are surface waves",
+      "Z": "They do not dissipate quickly"
+    },
+    "answer": "Y) They are surface waves"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Select all of the following that are more abundant in river water than in ocean water:1) Silica;2) Calcium;3) Bicarbonate.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quadric surfaces corresponds to the equation $-3x^{2} +2y^{2} - z =0$?",
+    "choices": {
+      "W": "Cylinder",
+      "X": "Elliptic paraboloid",
+      "Y": "Hyperbolic paraboloid",
+      "Z": "Hyperboloid of one sheet"
+    },
+    "answer": "Y) HYPERBOLIC PARABOLOID"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three subgraphs that a finite planar graph cannot contain according to Kuratowski’s theorem:1) $\\athrm{K}_{3,3}$ [K-sub-3-3];2) $\\athrm{K}_{3,5}$ [K-sub-3-5];3) $\\athrm{K}_{5}$ [K-sub-5].",
+    "answer": "1 AND3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Suppose there is a wire carrying a current going to the top of the page. Point A is on the page and to the left of the current. What is the direction of the current at point A?",
+    "choices": {
+      "W": "Into page",
+      "X": "Out of page",
+      "Y": "Top of page",
+      "Z": "Bottom of page"
+    },
+    "answer": "X) OUT OF PAGE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the equivalent capacitance of a circuit with a5V battery and2 capacitors, each with a capacitance of1F, connected in parallel?",
+    "answer": "2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What type of reaction would occur if the potential to the right of the species is higher than the potential on the left on a Latimer diagram?",
+    "answer": "DISPROPORTIONATION"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In thermodynamics, which of the following will the Gibbs Free energy be equal to in a system at constant temperature and pressure?",
+    "choices": {
+      "W": "maximum expansion work",
+      "X": "maximum non-expansion work",
+      "Y": "minimum heat transfer",
+      "Z": "internal energy"
+    },
+    "answer": "X) MAXIMUM NON- EXPANSION WORK"
+  }
+]

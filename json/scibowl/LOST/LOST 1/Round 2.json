@@ -1,0 +1,480 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What principle in quantum mechanics can be reformed to state that short-lived states do not have definite energies?",
+    "answer": "HEISENBERG'S UNCERTAINTY PRINCIPLE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A frictionless Atwood machine with a massless pulley and string is constructed with two blocks of masses 2 and 3 kilograms. In SI base units, what is the downward acceleration of the 3 kilogram block to three significant figures?",
+    "answer": "1.96"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Steroid hormones trigger cellular responses via the activation of which of the following?",
+    "choices": {
+      "W": "Adenylyl cyclase",
+      "X": "Guanylyl cyclase",
+      "Y": "Transcription factors",
+      "Z": "Protein kinase A"
+    },
+    "answer": "Y) TRANSCRIPTION FACTORS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all the following three responses that would occur due to a sympathetic agonist: 1) Increased contractility; 2) Increased heart rate; 3) Dilated pupils",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What constant in the Arrhenius equation is used to relate the rate constant of a reaction to the activation energy of the reaction, and accounts for the frequency of collisions?",
+    "answer": "PRE-EXPONENTIAL FACTOR"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The Ostwald process has an overall chemical equation $4\\athrm{NH}_3 + 5\\athrm{O}_2 \\ightarrow 4\\athrm{NO} + 6\\athrm{H}_2\\athrm{O}$ with all chemical species in the gas phase, and is heavily exothermic. Identify all of the following three changes to the system that would shift the Ostwald process towards the products: 1. Increasing the volume of the reaction vessel 2. Increasing the temperature of the reaction vessel 3. Adding helium to the reaction vessel at constant volume",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The four captains of LHS science bowl buy four different Rubik's cubes, and place them on a table. The Rubik's cubes are then randomly distributed to the captains. What is the probability that no captain is given their own Rubik's cube?",
+    "answer": "$\\rac{3}{8}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A pyramid is constructed from unit cubes with a 5 by 5 unit base, a 3 by 3 unit second layer, and a 1 by 1 third layer. What is the surface area of the pyramid?",
+    "answer": "86"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What type of lifting occurs when localized hotspots called thermals lift air masses into the atmosphere?",
+    "choices": {
+      "W": "Orographic",
+      "X": "Frontal",
+      "Y": "Convergence",
+      "Z": "Convective"
+    },
+    "answer": "Z) CONVECTIVE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "By which of the following mechanisms does interstellar reddening occur?",
+    "choices": {
+      "W": "Thomson scattering",
+      "X": "Compton scattering",
+      "Y": "Rayleigh scattering",
+      "Z": "Mie scattering"
+    },
+    "answer": "Y) RAYLEIGH SCATTERING"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Spallation Neutron Source probed ytterbium silicate, a magnetic rare earth silicate. At very low temperatures, most ytterbium silicate molecules occupy low energy degenerate states to form what state of matter?",
+    "answer": "BOSE EINSTEIN CONDENSATE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Laboratory are studying soil quality. What term describes the usage of organisms to enhance the quality of soils by adding essential materials into an ecosystem?",
+    "answer": "BIOLOGICAL AUGMENTATION"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the energy stored in a 40 milliradar capacitor when it is connected to a 1.5 volt AA battery in millijoules?",
+    "answer": "45 MILLIJOULES"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Three quantum levels A, B, and C exist in a hydrogen atom in order of decreasing quantum number n. The wavelength of a photon emitted by a transition from A to C is 200 nanometers, while the wavelength of a photon emitted by a transition from A to B is 300 nanometers. What is the wavelength of a photon in nanometers emitted by a transition from B to C?",
+    "answer": "600 NANOMETERS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Ubiquitinated proteins are recycled by what large multimeric protein complex?",
+    "answer": "PROTEASOMES"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Respiratory distress syndrome is caused by the lack of what substance within the lungs that lower the surface tension within alveoli?",
+    "answer": "SURFACTANTS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three gases in increasing Van der Waals $a$ parameter at STP: 1) Helium; 2) Hydrogen fluoride; 3) Carbon dioxide.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following salts is the least soluble in water at STP?",
+    "choices": {
+      "W": "Lithium phosphate",
+      "X": "Silver acetate",
+      "Y": "Barium hydroxide",
+      "Z": "Calcium chloride"
+    },
+    "answer": "W) LITHIUM PHOSPHATE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ways can a fair coin be flipped 5 times such that there are more heads than tails?",
+    "answer": "16"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the determinant of the 3 by 3 matrix with first row 1, 0, 2; second row 3, 0, 2; and third row 3, 5, 1?",
+    "answer": "20"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "After Mount Mazama violently erupted 7,000 years ago, what type of geologic feature, currently home to Crater Lake, was created?",
+    "answer": "CALDERA"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following river dimensions would have the fastest flow rate?",
+    "choices": {
+      "W": "Rectangular canal with sides 5 and 10",
+      "X": "Rectangular canal with sides 5 and 15",
+      "Y": "Semicircular canal with radius 5",
+      "Z": "Semicircular canal with radius 10"
+    },
+    "answer": "Z) SEMICIRCULAR CANAL WITH RADIUS 10"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Laboratory are studying more efficient ways of extracting fossil fuels that do not include fracking. From what type of sedimentary rocks are these scientists most likely extracting fossil fuels?",
+    "answer": "SHALE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Pacific Northwest National Laboratory are studying the effects of GDF15 on type I diabetes. Which of the following groups of animals would scientists researching type I diabetes experiment on?",
+    "choices": {
+      "W": "Obese diabetic mice",
+      "X": "Non-obese diabetic mice",
+      "Y": "Obese diabetic chimpanzees",
+      "Z": "Non-obese diabetic chimpanzees"
+    },
+    "answer": "X) NON-OBESE DIABETIC MICE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "During the radioactive decay of carbon 11 to boron 11, an electron is captured by the nucleus, releasing a neutrino and converting a proton in the nucleus to what subatomic particle?",
+    "answer": "NEUTRON"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The motion of a 2 kilogram particle can be described by the function $\\athbf{x}(\\athbf{t}) = 5\\athbf{t}^{3} - 6\\athbf{t} + 8$. At $\\athbf{t} = 6$, what is the net force acting on the particle, in newtons?",
+    "answer": "360"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT derived from the ectoderm?",
+    "choices": {
+      "W": "Epidermis",
+      "X": "Teeth",
+      "Y": "Adrenal medulla",
+      "Z": "Thyroid"
+    },
+    "answer": "Z) THYROID"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why plants that lack cyclic electron flow or photorespiration grow normally under low light but struggle in intense light?",
+    "choices": {
+      "W": "These processes inhibit plant growth",
+      "X": "These processes promote plant growth",
+      "Y": "These processes are photoprotective",
+      "Z": "These processes are energy intensive"
+    },
+    "answer": "Y) THESE PROCESSES ARE PHOTOPROTECTIVE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many unpaired electrons does a high spin $\\athrm{Mn}^{2+}$ ion have?",
+    "answer": "5"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three elements in increasing electron affinity: 1) Chlorine; 2) Carbon; 3) Gold.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A heronian triangle has all sides of integer lengths. How many heronian triangles exist with two sides of length 7 and 11?",
+    "answer": "13"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the coefficient of the $\\athrm{x}^{3}$ term when the polynomials $-2\\athrm{x}^{4} + 3\\athrm{x}^{3} + 7\\athrm{x}^{2} - 4\\athrm{x} + 5$ and $4\\athrm{x}^{3} + 5\\athrm{x}^{2} - 3\\athrm{x} + 2$ are multiplied?",
+    "answer": "-15"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a difference between white and black smokers?",
+    "choices": {
+      "W": "Black smokers emit more sulfides",
+      "X": "Black smokers have a higher pH",
+      "Y": "Black smokers are hotter",
+      "Z": "Black smokers are closer to the magma source"
+    },
+    "answer": "X) BLACK SMOKERS HAVE A HIGHER pH"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The replacement of calcium by magnesium in calcium carbonate results in the formation of what mineral?",
+    "answer": "DOLOMITE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Ames National Laboratory have discovered a ferromagnetic material that is not based on rare earth metals. They added antimony impurities to an iron tin alloy that lead to greatly increased magnetic properties. What is this process generally known as?",
+    "answer": "DOPING"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at the National Renewable Energy Laboratory are studying how to more efficiently extract gas hydrates. Once thought of as rare, they have been discovered in abundance in which of the following locations?",
+    "choices": {
+      "W": "Deserts",
+      "X": "Continental shelves",
+      "Y": "Glaciers",
+      "Z": "Rainforests"
+    },
+    "answer": "X) CONTINENTAL SHELVES"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A satellite in circular orbit around the Earth has a potential energy of -1020 joules. What is the total mechanical energy of the satellite in joules?",
+    "answer": "-510"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When Karen crushes sugar crystals, she sees a bluish glow. What phenomenon is she observing?",
+    "answer": "TRIBOLUMINESCENCE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Tyler, an avid Hawaiian zoologist, finds an animal in the wild with a tough exoskeleton. Which of the following additional observations is correctly matched with its identification?",
+    "choices": {
+      "W": "Malpighian tubules means it is a velvet worm",
+      "X": "Pseudocoelom means it is an annelid",
+      "Y": "Two membranous wings means it is a beetle",
+      "Z": "Book lungs means it is an arachnid"
+    },
+    "answer": "Z) BOOK LUNGS MEANS IT IS AN ARACHNID"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In most cnidarians, interconnected nerve cells form what diffuse nervous system, which controls the contraction and expansion of the gastrovascular cavity? Unlike the nervous systems of other animals, this nervous system lacks clusters of neurons that perform specialized functions.",
+    "answer": "NERVE NET"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Three isomers A, B, and C isomerize through the cyclic mechanism A to B to C to A. If the enthalpies of formation of A and B are -6 and +8 kilojoules per mole, what is the enthalpy of formation of C in kilojoules per mole?",
+    "answer": "-2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the ratio of the vibrational frequency of the bond in dihydrogen to the vibrational frequency of the bond in dideuterium, in simplest radical form, assuming that the bonds have equal strength?",
+    "answer": "$\\qrt{2}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the remainder when $2^{2020} + 3^{2020}$ is divided by 5?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "Y) 2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the 32nd digit to the right of the decimal point in the decimal representation of $1 / 14$?",
+    "answer": "7"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term describes the reconnection events on the Sun that spew out massive amounts of ionized gas from the corona?",
+    "answer": "CORONAL MASS EJECTIONS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the minimum spectral class required for a star to form an emission nebula around it?",
+    "answer": "B"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Livermore National Laboratory are studying the process of cloud formation. Silver salts made from what halogen are used as condensation nuclei to seed artificial clouds?",
+    "choices": {
+      "W": "Fluorine",
+      "X": "Chlorine",
+      "Y": "Bromine",
+      "Z": "Iodine"
+    },
+    "answer": "Z) IODINE"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Laboratory are studying the properties of subatomic particles. What quantum property based on an intrinsic form of angular momentum is the basis for differences between the Fermi-Dirac and Bose-Einstein statistics?",
+    "answer": "SPIN"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the resistance in ohms of a light bulb that uses 60 W when plugged into a 120 V power source?",
+    "answer": "240"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A heat engine running between 300 K and 400 K exhausts 90 J of heat for every 10 J it does in work. What percent of the efficiency of a Carnot engine running between the same two temperatures does this heat engine have?",
+    "answer": "40%"
+  }
+]

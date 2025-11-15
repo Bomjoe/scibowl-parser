@@ -1,0 +1,472 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Ball A has mass $m$ and kinetic energy $E$. It collides partially inelastically with a stationary ball B also of mass $m$. Which of the following best describes the kinetic energy of ball B after the collision?",
+    "choices": {
+      "W": "It is equal to 0",
+      "X": "It is between 0 and $E$",
+      "Y": "It is equal to $E$",
+      "Z": "It is greater than $E$"
+    },
+    "answer": "$X$) It is between 0 and $E$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, rank the following three objects by speed from slowest to fastest: 1) Light wave 2) Car traveling at 40 meters per second 3) Oxygen molecule at room temperature",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Lamason group at MIT are studying how bacteria migrate through tissues. Which of the following do bacteria NOT use as a method of generating motion?",
+    "choices": {
+      "W": "Flagella",
+      "X": "Surface protein complexes",
+      "Y": "Pili",
+      "Z": "Microvilli"
+    },
+    "answer": "$Z$) Microvilli"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Lamason group at MIT are studying Rickettsia and Listeria bacteria. Which of the following diseases is NOT caused by these genera of bacteria?",
+    "choices": {
+      "W": "Typhus",
+      "X": "Rickets",
+      "Y": "Listeriosis",
+      "Z": "Rocky Mountain spotted fever"
+    },
+    "answer": "$X$) Rickets"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many electrons are transferred in the complete combustion of one molecule of methane?",
+    "answer": "8"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "To the nearest whole number, what is the pressure in atmospheres of 3 moles of an ideal gas at 480 kelvin in a container of volume 12 liters?",
+    "answer": "10 atmospheres"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals does NOT belong to the sulfide group?",
+    "choices": {
+      "W": "Hematite",
+      "X": "Sphalerite",
+      "Y": "Pyrite",
+      "Z": "Cinnabar"
+    },
+    "answer": "$W$) Hematite"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "How does the age of rock vary with increasing distance from the center of a syncline?",
+    "choices": {
+      "W": "Constant",
+      "X": "Older",
+      "Y": "Younger",
+      "Z": "Varies randomly"
+    },
+    "answer": "$X$) Older"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find all solutions to the equation $\\qrt{8 - x} = x + 4$.",
+    "answer": "$x = -1$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Emily is multiplying the 6 complex roots of the equation $x^{6} = 1$, but forgets one of them. The product she gets is $- \\rac{1}{2} + \\rac{\\qrt{3}}{2} i$. Which root did she forget?",
+    "answer": "$\\rac{1}{2} + \\rac{\\qrt{3}}{2} i$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term is used to describe a behavior that reduces the fitness of the individual performing it, but increases the fitness of the population overall?",
+    "answer": "Altruism"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, rank the following four structures in order from least compact to most compact: 1) Double helix 2) Nucleosomes 3) Loop domains 4) Metaphase chromosome",
+    "answer": "1, 2, 3, 4"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Drennan group at MIT are interested in resolving the structure of many proteins, including key enzymes in metabolic pathways. To do so, they utilize what technique, which relies on the diffraction of low wavelength electromagnetic radiation to resolve structures?",
+    "answer": "X-ray crystallography"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Johnson group at MIT are synthesizing biodegradable thermoset polymers to be used in drug delivery. A common example of polymerization is done through 1-alkenes via a radical propagation step, though these methods can be prone to severe branching and their stereochemistry is difficult to control. What $d^{0}$ organometallic catalysts can be used to synthesize linear polymers of 1-alkenes while also controlling the stereochemistry of the product?",
+    "answer": "Ziegler-Natta catalysts"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The presence of an enlarged thyroid gland, or goiter, may suggest the deficiency of which element?",
+    "choices": {
+      "W": "Iron",
+      "X": "Sulfur",
+      "Y": "Iodine",
+      "Z": "Phosphorus"
+    },
+    "answer": "$Y$) Iodine"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which vitamin does the skin help to produce when exposed to ultraviolet light?",
+    "answer": "Vitamin D"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "William is working in the lab and sees that another student is pouring a beaker of warm tap water into an aqueous solution of concentrated sulfuric acid. Why might this be a bad decision?",
+    "choices": {
+      "W": "Sulfuric acid explodes upon exposure to air.",
+      "X": "William is not using distilled water, and is contaminating their solution with metal ions.",
+      "Y": "Adding water to acid may cause the solution to rapidly heat up and boil, which may splash concentrated acid.",
+      "Z": "The water will neutralize the sulfuric acid."
+    },
+    "answer": "$Y$) Adding water to acid may cause the solution to rapidly heat up and boil, which may splash concentrated acid."
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In the classic demonstration of pouring concentrated sulfuric acid on sucrose, what type of reaction is occurring?",
+    "choices": {
+      "W": "Oxidation",
+      "X": "Hydrogenation",
+      "Y": "Dehydrogenation",
+      "Z": "Dehydration"
+    },
+    "answer": "$Z$) Dehydration"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A wire with a radius of $a$ and a length of $l$ has a resistance of $R$. If another wire has a radius of $2a$ and a length of $l / 2$, what is its resistance in terms of $R$?",
+    "choices": {
+      "W": "4R",
+      "X": "R",
+      "Y": "R/4",
+      "Z": "R/8"
+    },
+    "answer": "$Z$) $R/8$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 7-kilogram mass is at rest on a frictionless surface, and a 4-kilogram mass moves towards it at 5 meters per second. If they collide perfectly elastically, and move along the same axis after the collision, what is the speed, in meters per second, of the 7-kilogram mass after the collision?",
+    "answer": "$40/11$ meters per second"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, arrange the following three minerals in order of increasing hardness on the Mohs hardness scale. 1) Gypsum 2) Calcite 3) Quartz",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The inclusion of which of the following elements gives rubies their distinctive red color?",
+    "choices": {
+      "W": "Titanium",
+      "X": "Chromium",
+      "Y": "Iron",
+      "Z": "Vanadium"
+    },
+    "answer": "$X$) Chromium"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a 9 by 9 square grid, what is the maximum number of unit squares that can be picked so that no two chosen squares touch, even diagonally?",
+    "answer": "25"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the only Pythagorean triple whose side lengths are all between 20 and 30, inclusive?",
+    "answer": "20, 21, 29"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following atoms has the lowest ionization energy?",
+    "choices": {
+      "W": "Lithium",
+      "X": "Beryllium",
+      "Y": "Boron",
+      "Z": "Cesium"
+    },
+    "answer": "$Z$) Cesium"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reactions has a negative change in entropy at standard conditions?",
+    "choices": {
+      "W": "Elemental carbon reacts with oxygen gas to produce carbon monoxide",
+      "X": "Elemental carbon reacts with oxygen gas to produce carbon dioxide",
+      "Y": "Dinitrogen tetroxide dissociates into two molecules of nitrogen dioxide",
+      "Z": "Nitrogen dioxide dimerizes to form dinitrogen tetroxide"
+    },
+    "answer": "$Z$) Nitrogen dioxide dimerizes to form dinitrogen tetroxide"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at MIT's Materials Research Laboratory have been investigating photonics and optical devices in order to provide more secure methods of communication. To do this, they study the interactions of light with different materials. What is the name of the phenomenon by which a light ray changes direction as it goes from one medium to another?",
+    "answer": "Refraction"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researches at MIT's Laboratory for Nuclear Science are developing new detectors in order to measure the direction from which the wind of dark matter blows on Earth. Which of the following is used as direct evidence of the existence of dark matter?",
+    "choices": {
+      "W": "Flattened galaxy rotation curve",
+      "X": "Splitting of spectral lines from sources near black holes",
+      "Y": "Inertial drag of objects moving through space",
+      "Z": "Light scattering as it passes through empty space"
+    },
+    "answer": "$W$) Flattened galaxy rotation curve"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following Galilean moons of Jupiter is the MOST geologically active?",
+    "choices": {
+      "W": "Io",
+      "X": "Europa",
+      "Y": "Ganymede",
+      "Z": "Callisto"
+    },
+    "answer": "$W$) Io"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metamorphic facies is most strongly associated with a subduction zone?",
+    "choices": {
+      "W": "Facies occupying low temperature, low pressure zones",
+      "X": "Facies occupying low temperature, high pressure zones",
+      "Y": "Facies occupying high temperature, low pressure zones",
+      "Z": "Facies occupying high temperature, high pressure zones"
+    },
+    "answer": "$X$) Facies occupying low temperature, high pressure zones"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the general process by which nitrogen in the form of ammonia and nitrates is returned to the atmosphere?",
+    "answer": "Denitrification"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which antibody is commonly known to pass through the human placenta from a mother to her fetus, not only conferring temporary immunity to some pathogens, but also neutralizing some vaccines if administered too early?",
+    "answer": "Immunoglobulin G"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is 2020 in Roman numerals?",
+    "answer": "MMXX"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $a$ and $b$ are positive integers satisfying $ab + 4 = 2a + 5b$, how many possible values are there for the ordered pair $(a, b)$?",
+    "answer": "4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What class of elementary particles were initially proposed by Pauli in order to conserve momentum in beta decay?",
+    "answer": "Neutrinos"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A charge of $+3.0$ coulombs is placed in a constant magnetic field of magnitude 12 teslas. Given that the charge travels at an angle of 30 degrees to the magnetic field, what is the magnitude of the particle's velocity in meters per second to two significant figures if it is found that it is acted on by a force of 48 newtons?",
+    "answer": "2.7 meters per second"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Yash stands 1 meter from a speaker, and notices that the sound level is 97 decibels. He walks away such that his new position is 10 meters from the speaker. What is the new sound level, in decibels?",
+    "answer": "77"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify of the following four quantities that are quantized in a classical system. 1) Charge 2) Number of atoms 3) Volume 4) Temperature",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "David wants to give his 10 indistinguishable marbles to 4 friends. Assuming marbles cannot be split and each friend will get at least one marble, how many ways are there for David to give away his marbles?",
+    "answer": "84"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ordered triples $(x,y,z)$ of positive integers satisfy $xyz = 2020$?",
+    "answer": "54"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following hormones is produced by the posterior pituitary gland?",
+    "choices": {
+      "W": "Gonadotropin releasing hormone",
+      "X": "Follicle stimulating hormone",
+      "Y": "Antidiuretic hormone",
+      "Z": "Triiodothyronine"
+    },
+    "answer": "$Y$) Antidiuretic hormone"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four molecules that are produced from the conversion of pyruvate into acetyl coA. 1) $\\athrm{CO}_{2}$ 2) NADPH 3) $\\athrm{NAD}^{+}$ 4) $\\athrm{H}^{+}$",
+    "answer": "1 and 4"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, arrange the following three features of a passive continental margin in order of increasing incline: 1) Continental shelf 2) Continental slope 3) Continental rise",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three microorganisms that are associated with the production of siliceous ooze: 1) Radiolarians 2) Diatoms 3) Coccolithophores",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When the combustion of methane with oxygen gas to form carbon dioxide and water is balanced with lowest, whole number coefficients, what is the coefficient of oxygen gas?",
+    "answer": "2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following choices is an effect that cannot be caused by a catalyst?",
+    "choices": {
+      "W": "Lowering of reaction activation energy",
+      "X": "Providing an alternative mechanism for reaction",
+      "Y": "Shifting the equilibrium towards the products",
+      "Z": "Decreasing the rate of reaction"
+    },
+    "answer": "$Y$) Shift the equilibrium towards the products"
+  }
+]

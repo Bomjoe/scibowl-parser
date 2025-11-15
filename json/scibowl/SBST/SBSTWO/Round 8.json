@@ -1,0 +1,424 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A car is traveling at 10 meters per second to the right and another car is traveling at 20 meters per second to the left. If both cars decelerate at a constant rate of $-5$ meters per second squared, then what is the minimum initial distance in meters between the cars such that they do not collide?",
+    "answer": "50"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding motion in polar coordinates but NOT in Cartesian coordinates: 1) Unit vectors vary with position; 2) Unit vectors have nonzero time derivatives; 3) Unit vectors are not always orthogonal to each other.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three features of Saturn’s rings from outermost to innermost: 1) Cassini division; 2) Encke gap; 3) C ring.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ocean currents is an eastern boundary current?",
+    "choices": {
+      "W": "Kuroshio current",
+      "X": "The Gulf stream",
+      "Y": "Brazil current",
+      "Z": "Benguela current"
+    },
+    "answer": "Z) BENGUELA CURRENT"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A photoelectron spectrum of an unknown element displays only three peaks, all of which have the same amplitude. What element is most likely being investigated?",
+    "answer": "CARBON"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Treating a primary alcohol with two equivalents of pyridinium chlorochromate yields which of the following functional groups as the major product?",
+    "choices": {
+      "W": "Ester",
+      "X": "Carboxylic acid",
+      "Y": "Aldehyde",
+      "Z": "Ketone"
+    },
+    "answer": "Y) ALDEHYDE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three diseases that exhibit a heterozygote advantage: 1) Malaria; 2) Cystic fibrosis; 3) Tay-Sachs.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "John observes antheridia and archegonia in a certain plant he found outside his house. Identify all of the following three statements that are likely true of this plant: 1) Most of its cells are diploid; 2) It is a gymnosperm; 3) It possesses sporangia.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC national laboratory are studying synchrotron radiation produced in insertion devices containing repeating arrays of magnets. What is the name given to these arrays of magnets?",
+    "answer": "UNDULATOR"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Livermore National Lab are developing electrochemical reactors using 3D printing to convert carbon dioxide into useful fuels such as ethene. In this reaction, how many moles of electrons are transferred per mole of ethene?",
+    "answer": "12"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The point with coordinates $(7, -2)$ is reflected across the $y$-axis, translated 3 units upward, and then reflected across the line $y = x$. What are the coordinates of the new point?",
+    "answer": "(1, -7)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many pythagorean triples, with numbers all less than or equal to 30, contain at least 1 prime number?",
+    "answer": "5"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Argonne National Lab are developing new thin-film technologies for applications in photovoltaic cells. They are attempting to surpass the maximum efficiency for a single p-n junction, which is known as the Shockley-Queisser limit. Which of the following values is closest to this limit?",
+    "choices": {
+      "W": "$15\\$",
+      "X": "$30\\$",
+      "Y": "$45\\$",
+      "Z": "$60\\$"
+    },
+    "answer": "X) $30\\$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Linac Coherent Light Source are observing X-ray scattering by compressing what group 8 metal with laser-driven shocks to earth-core-like pressures?",
+    "answer": "IRON"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three observations that would be indicative of a K-selected species: 1) Densely populated environment; 2) Type III survivorship curve; 3) Iteroparous.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three cells that express MHC Class I: 1) Erythrocyte; 2) Dendritic cell; 3) B cell.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three alkene reactions that proceed via an anti addition: 1) Hydrogenation; 2) Hydroboration-oxidation; 3) Bromination.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three solutions in terms of increasing percentage deprotonation: 1) 1-molar hydrofluoric acid; 2) 2-molar hydrofluoric acid; 3) 1-molar hydrocyanic acid.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle's position can be described by the parametric equations $x(t) = 4\\os (3t)$ and $y(t) = 4\\in (3t)$. What is the magnitude of the particle's centripetal acceleration?",
+    "answer": "36"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A battery with an emf of 6 volts is connected to a lightbulb of variable resistance and a resistor of 3 ohms in parallel. In watts, what is the maximum power that can be dissipated across the circuit?",
+    "answer": "24"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three features that can be found in reverse faults: 1) Fault block mountains; 2) Horsts; 3) Joints.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following latitudes is the oceanic pycnocline the least well developed?",
+    "choices": {
+      "W": "0 degrees north",
+      "X": "30 degrees north",
+      "Y": "60 degrees north",
+      "Z": "90 degrees north"
+    },
+    "answer": "Z) 90 DEGREES NORTH"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three points that would lie outside the sphere with equation $x^{2} + y^{2} + z^{2} = 202$: 1) (1, 10, 10); 2) (13, 9, 4); 3) (5, 11, 8).",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the polar graph with equation $r$ squared equals the fraction with numerator 2 and denominator 9 sine squared of theta plus 4 cosine squared of theta?",
+    "choices": {
+      "W": "A line",
+      "X": "An ellipse",
+      "Y": "A parabola",
+      "Z": "A vertical hyperbola"
+    },
+    "answer": "X) AN ELLIPSE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at SLAC National Accelerator Lab are using resonance inelastic X-ray scattering, or RIXS, in pump-probe experiments. Which of the following cannot be observed using RIXS?",
+    "choices": {
+      "W": "Thomson scattering",
+      "X": "Electron-phonon interactions",
+      "Y": "Charge excitations",
+      "Z": "Compton scattering"
+    },
+    "answer": "W) THOMSON SCATTERING"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are searching for new materials to serve as catalysts for bulky organic molecules. One example of such materials are zeolites. Identify all of the following three statements that are true regarding zeolites: 1) They are a type of ceramic; 2) They are acidic; 3) They exhibit hexagonal geometry.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three rocks and minerals that are likely to form karst topography: 1) Dolostone; 2) Gypsum; 3) Hornblende.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three regions of the solar system in terms of increasing distance from the sun: 1) Termination shock; 2) Heliosheath; 3) Heliopause.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three changes that would increase the solubility of calcium fluoride in water: 1) Increasing temperature; 2) Adding sodium fluoride; 3) Adding hydrochloric acid.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A given reaction has a standard Gibbs free energy change of $-8.3$ kilojoules per mole at 1000 kelvins. To one decimal place, what is the equilibrium constant for this reaction?",
+    "answer": "2.7"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three phyla of animals from most to least basal: 1) Porifera; 2) Nematoda; 3) Platyhelminthes.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A population is initially in Hardy-Weinberg equilibrium with 1000 individuals possessing allele frequencies of $\\athrm{q} = 0.6$ and $\\athrm{p} = 0.4$. A freak accident kills $50\\$ of the individuals possessing both $\\athrm{q}$ alleles. If the next generation regains Hardy-Weinberg frequencies, what proportion of them will be heterozygous?",
+    "answer": "24/49"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A sequence is given by having first term 3, and each subsequent term is equivalent to 4 times the previous term plus 14. How many of the first 20 terms are divisible by 7?",
+    "answer": "0"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A dodecahedron is randomly painted red on two of its faces, and green on every other face. What is the probability that the two red faces are adjacent?",
+    "answer": "5/11"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A refrigerator has a coefficient of performance of 2. What is the efficiency of its corresponding heat engine?",
+    "answer": "1/3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Five objects of masses 1, 2, 3, 4, and 5 kilograms are placed 1, 2, 3, 4, and 5 meters from the origin, respectively, in the positive $x$ direction. How far away from the origin is the center of mass of the system?",
+    "answer": "11/3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three groups of cytoskeletal elements that are mainly responsible for bearing tension: 1) Microfilaments; 2) Microtubules; 3) Intermediate filaments.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A tree that is experiencing extensive secondary growth cannot exchange gases through stomata. Instead, it exchanges air through which raised areas of the periderm?",
+    "answer": "LENTICELS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three dilute solutions in terms of increasing van't Hoff factor: 1) Sodium chloride; 2) Calcium chloride; 3) Calcium fluoride.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "It is observed that more substituted alkenes are more stable. A common explanation for this is that the empty pi star orbital on the alkene interacts with neighboring filled C—H sigma bonds. What is the term for this phenomenon?",
+    "answer": "HYPERCONJUGATION"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the graph of the complex equation: the absolute value of the quantity $z - 2i$ equals the absolute value of the quantity $z + 4$, when plotted in the complex plane?",
+    "choices": {
+      "W": "A circle",
+      "X": "An ellipse",
+      "Y": "A line",
+      "Z": "A point"
+    },
+    "answer": "Y) A LINE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An equiangular hexagon has sides of lengths 2, 6, 2, 6, 2 and 6, in that order. What is the area of the hexagon?",
+    "answer": "22 TIMES THE SQUARE ROOT OF 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements regarding the Maunder Minimum that are correct: 1) During solar eclipses, the corona was not visible; 2) It correlated with the Little Ice Age; 3) It resulted in a decrease in the solar constant.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "For most stars, the mass luminosity relationship states that luminosity is proportional to mass to the 3.5th power. However, as the mass approaches the Eddington limit, which value does the exponential factor approach?",
+    "answer": "1"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A series RLC circuit has a resistance of 3 ohms, a capacitor of capacitance 10 farads and an inductor of inductance 10 henrys. In hertz, which of the following is the frequency of oscillation of the circuit at resonance?",
+    "choices": {
+      "W": "1",
+      "X": "0.5",
+      "Y": "0.3",
+      "Z": "0.1"
+    },
+    "answer": "Z) 0.1"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A block has a mass of 5 kilograms and an initial momentum of 20 kilogram meters per second, sliding on a surface with friction. Assuming the acceleration due to gravity is 10 meters per second and if the block slows to a stop over 10 meters, what is the coefficient of kinetic friction?",
+    "choices": {
+      "W": "0.04",
+      "X": "0.08",
+      "Y": "0.16",
+      "Z": "0.2"
+    },
+    "answer": "X) 0.08"
+  }
+]

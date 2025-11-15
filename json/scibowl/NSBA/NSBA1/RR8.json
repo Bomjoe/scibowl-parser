@@ -1,0 +1,478 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A train is moving at a constant velocity of 6 meters per second. Suddenly, it starts raining, causing the train to gain mass at a rate of 9 kilograms per second. What is the magnitude of the force needed to keep the train at a constant velocity?",
+    "answer": "54 NEWTONS"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In a plasma, which of the following functions best describes the dependence of the electric potential on distance?",
+    "choices": {
+      "W": "1 / r",
+      "X": "1 / r2",
+      "Y": "$\\athrm{e}^{-r} / \\athrm{r}$",
+      "Z": "$\\athrm{e}^{-r} / \\athrm{r}^{2}$"
+    },
+    "answer": "Y) $\\athrm{e}^{-r} / \\athrm{r}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In alcohol fermentation in cells, what molecule is reduced by NADH to form ethanol?",
+    "answer": "ACETALDEHYDE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a function of acetylcholine?",
+    "choices": {
+      "W": "Dilates blood vessels",
+      "X": "Increases membrane permeability to chloride ion.",
+      "Y": "Inhibits adenylyl cyclase",
+      "Z": "Contracts smooth muscles"
+    },
+    "answer": "X) INCREASES MEMBRANE PERMEABILITY TO CHLORIDE ION"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 functions that are invertible: 1) $y = x$ ; 2) $y = x^{2}$ ; 3) $y = x^{3}$ .",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Set A consists of all the positive even integers less than 100 and Set B consists of all the positive integers less than 100 that are relatively prime to 100. What is the cardinality of the symmetric difference between set A and set B?",
+    "answer": "89"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What glacial depositional structure is a long ridge formed from sediment deposited from a glacier meltwater tunnel?",
+    "answer": "ESKER"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At the end of the sun's lifetime, it will form a galactic structure that most nearly resembles which of the following?",
+    "choices": {
+      "W": "Crab nebula",
+      "X": "Ring nebula",
+      "Y": "Trifid nebula",
+      "Z": "Wild Duck Cluster"
+    },
+    "answer": "X) RING NEBULA"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How many $\\athrm{sp}^2$ hybridized oxygen atoms are present in 1 molecule of ozone?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "Z) 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 bonds in order of increasing average BDE (big dick energy): 1) H-C; 2) H-H; 3) H-F.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Oak Ridge National Lab are using computers connected to the internet. Which of the following specifies what network a computer is on?",
+    "choices": {
+      "W": "Port number",
+      "X": "Serial number",
+      "Y": "MAC address",
+      "Z": "IP address"
+    },
+    "answer": "Z) IP ADDRESS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Los Alamos National Lab are investigating the properties of uniform hypergraphs, which extend the notion of a graph by having edges connect more than 2 vertices together. If a uniform hypergraph has 1000 vertices, what is the minimum number of edges necessary to make the hypergraph connected if each edge connects 8 vertices?",
+    "answer": "143"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What experiment measured the movement of a charged parallel-plate capacitor, which provided evidence that there was no luminiferous aether?",
+    "answer": "TROUTON-NOBLE EXPERIMENT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In a coaxial cable, the inner conductor has radius 1 meter and the outer conductor has radius 2 meters, and they have currents of 5 and 4 amperes, respectively. If both currents have the same direction, then what is the ratio of the strength of the magnetic field outside the cable to that between the two conductors?",
+    "answer": "7/5"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Melanocyte-stimulating hormone acts on which of the following body systems?",
+    "choices": {
+      "W": "Lymphatic",
+      "X": "Respiratory",
+      "Y": "Reproductive",
+      "Z": "Integumentary"
+    },
+    "answer": "Z) INTEGUMENTARY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 groups of viruses that have a DNA genome, according to the Baltimore classification: 1) Group 1; 2) Group 4; 3) Group 6.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the number of digits in the number 2 to the 100th plus 3 to the 100th?",
+    "choices": {
+      "W": "30",
+      "X": "50",
+      "Y": "70",
+      "Z": "90"
+    },
+    "answer": "X) 50"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alice uses the tangent line approximation on the function $\\n (x)$ at $x = 20$ to try to estimate $\\n (55)$ . If $\\n (20) = 3.00$ , what would she estimate $\\n (55)$ to be?",
+    "answer": "4.75"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best compares the density and composition of oceanic crust with respect to continental crust?",
+    "choices": {
+      "W": "More dense, more felsic",
+      "X": "More dense, less felsic",
+      "Y": "Less dense, more felsic",
+      "Z": "Less dense, less felsic"
+    },
+    "answer": "X) MORE DENSE, LESS FELSIC"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Salt wedging is most likely to occur within which of the following Koppen climate classifications?",
+    "choices": {
+      "W": "A",
+      "X": "B",
+      "Y": "C",
+      "Z": "D"
+    },
+    "answer": "X) B"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the organic product formed when benzaldehyde undergoes a Clemmensen reduction?",
+    "answer": "TOLUENE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many unfilled tetrahedral holes are present in the unit cell of zinc blende?",
+    "answer": "4"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Lab are studying how the 3D arrangement of molecules affects dimerization. Identify all of the following 3 molecules which dimerize to a significant degree at STP: 1) NO₂; 2) NH₃; 3) BH₃.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at SLAC National Lab are modifying the Haber process of creating ammonia from hydrogen and nitrogen such that it is feasible at STP. Which of the following statements best explains why the classical Haber process could not practically function at STP?",
+    "choices": {
+      "W": "At standard pressure, the reaction rate is too slow",
+      "X": "At standard pressure, the equilibrium favors the reactants",
+      "Y": "At standard temperature, the reaction rate is too slow",
+      "Z": "At standard temperature, the equilibrium favors the reactants"
+    },
+    "answer": "Y) AT STANDARD TEMPERATURE, THE REACTION RATE IS TOO SLOW"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 particles that have antisymmetric wavefunctions upon exchange: 1) Neutrino; 2) Muon; 3) Proton.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An observer is moving away from a light source and notices that it has a redshift of $z = 0.25$ . What fraction of the speed of light are they moving at?",
+    "answer": "9/41"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "If marriages in Alabama are always between two siblings, then what is the coefficient of relatedness between an Alabama husband and wife?",
+    "choices": {
+      "W": "0.25",
+      "X": "0.5",
+      "Y": "0.75",
+      "Z": "1"
+    },
+    "answer": "X) 0.5"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following vitamins is most commonly involved with reactions in the human body that release $\\athrm{CO_2}$ ?",
+    "choices": {
+      "W": "Thiamine",
+      "X": "Pyridoxine",
+      "Y": "Folate",
+      "Z": "Cobalamin"
+    },
+    "answer": "W) THIAMINE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 quadrilaterals that necessarily have at least one pair of equal internal angles: 1) Parallelogram; 2) Kite; 3) Trapezoid.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The roots of the polynomial $z^{2022} - 1$ are plotted on the complex plane and connected to form a simple convex polygon. To the nearest hundredth, what is the area of this polygon?",
+    "answer": "3.14"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Galaxy-rich clusters mostly contain elliptical galaxies and what other type of galaxy, denoted $\\athrm{S_0}$ , that is an intermediate between elliptical and spiral galaxies?",
+    "answer": "LENTICULAR"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true about the moon Phobos: 1) Phobos is expected to eventually escape Mars' gravity; 2) Phobos is tidally locked to Mars; 3) Phobos orbits Mars approximately twice every Martian day.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 salts in order of increasing solubility in water: 1) Lead chloride; 2) Calcium fluoride; 3) Barium acetate.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following isotopes is NOT stable?",
+    "choices": {
+      "W": "Oxygen- 17",
+      "X": "Phosphorus- 32",
+      "Y": "Nitrogen- 15",
+      "Z": "Sulfur- 34"
+    },
+    "answer": "X) PHOSPHORUS- 32"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Sandia National Lab are studying the coordination of different crystal structures. Order the following 3 crystal structures in terms of increasing coordination number: 1) Simple cubic; 2) Body-centered cubic; 3) Face-centered cubic.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are studying superconductivity in twisted bilayer graphene. Twisted bilayer graphene consists of two graphene layers twisted at a small angle apart from each other, forming what kind of interference pattern?",
+    "answer": "MOIRE PATTERN"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Waves A and B have a beat frequency of 6 Hertz. Waves B and C have a beat frequency of 9 Hertz. In hertz, which of the following could be the beat frequency of waves A and C?",
+    "choices": {
+      "W": "3",
+      "X": "6",
+      "Y": "9",
+      "Z": "12"
+    },
+    "answer": "W) 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An object is placed 10 centimeters from a concave lens with a focal length of 15 centimeters. In centimeters, what is the distance between the object and the image?",
+    "answer": "4"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids would you expect to find the LEAST of in collagen?",
+    "choices": {
+      "W": "Glycine",
+      "X": "Alanine",
+      "Y": "Isoleucine",
+      "Z": "Proline"
+    },
+    "answer": "Y) ISOLEUCINE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the ratio of glucose consumed of a glucose-fed yeast in an anaerobic environment to a glucose-fed yeast in an aerobic environment in order for it to produce the same amount of ATP?",
+    "choices": {
+      "W": "16",
+      "X": "10",
+      "Y": "6",
+      "Z": "4"
+    },
+    "answer": "W) 16"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the 50th term in the arithmetic sequence with first 3 terms 5, 2, - 1?",
+    "answer": "- 142"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "5 boys and 3 girls are standing in a circle. Nowhere can three boys or two girls be standing adjacent to each other. How many ways are there to arrange the students?",
+    "answer": "720"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three configurations of the moon at which a spring tide could occur: 1) First quarter; 2) Waning gibbous; 3) New moon.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the approximate depth of the low-velocity zone in the mantle?",
+    "choices": {
+      "W": "50-100 kilometers",
+      "X": "100-200 kilometers",
+      "Y": "200-410 kilometers",
+      "Z": "410-660 kilometers"
+    },
+    "answer": "X) 100- 200 KILOMETERS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following orbitals of hydrogen has the greatest average distance from the nucleus?",
+    "choices": {
+      "W": "2p",
+      "X": "3s",
+      "Y": "3p",
+      "Z": "3d"
+    },
+    "answer": "X) 3s"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that readily form hydrates: 1) Cyclopropanone; 2) 2-Pentanone; 3) Formaldehyde.",
+    "answer": "1 AND 3"
+  }
+]

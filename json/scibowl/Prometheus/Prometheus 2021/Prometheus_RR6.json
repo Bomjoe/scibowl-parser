@@ -1,0 +1,518 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "In 2012, Nick Bostrom [BOSS-truhm] first argued for the position that an artificial intelligence can have practically any combination of intelligence level and final goals. What is this position called?",
+    "choices": {
+      "W": "Goal induction hypothesis",
+      "X": "Goal independence hypothesis",
+      "Y": "Principle of independent action",
+      "Z": "Orthogonality thesis"
+    },
+    "answer": "Z) Orthogonality thesis"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "In this same paper, Bostrom argued that a wide range of sufficiently intelligent AIs would pursue similar intermediate goals, regardless of final goal. What is this hypothesis called?",
+    "choices": {
+      "W": "Final-intermediate divergence",
+      "X": "Terminal convergence",
+      "Y": "Instrumental convergence",
+      "Z": "Mediated orthogonality"
+    },
+    "answer": "Y) Instrumental convergence"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the numerical coefficient of the third term in the binomial expansion of $(2x + 3y)^5$?",
+    "choices": {
+      "W": "240",
+      "X": "480",
+      "Y": "720",
+      "Z": "960"
+    },
+    "answer": "Y) 720"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "$2^{50}$ is closest to which of the following powers of 10?",
+    "choices": {
+      "W": "10",
+      "X": "15",
+      "Y": "20",
+      "Z": "25"
+    },
+    "answer": "X) 15"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many distinct signals are present in the H1 NMR spectrum of neopentane?",
+    "answer": "1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In thin layer chromatography, what value is defined as the ratio between the distance traveled of the component to that of the solvent?",
+    "answer": "Retention factor (ACCEPT: $R_{f}$)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A proposed explanation for rapid prehistoric global warming is based on a feedback loop involving the melting of what ice-like deposits on the ocean floor, which form a crystalline structure that traps methane?",
+    "answer": "Clathrates"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The difference between a laccolith [LACK-uh-lith] and a sill is most directly caused by which of the following properties of a magma?",
+    "choices": {
+      "W": "Viscosity",
+      "X": "Temperature",
+      "Y": "Gas content",
+      "Z": "Depth"
+    },
+    "answer": "W) Viscosity"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following neurotransmitters is considered a biogenic amine [A-mean]?",
+    "choices": {
+      "W": "Acetylcholine [uh-SEE-dul-KO-leen]",
+      "X": "Dopamine",
+      "Y": "Substance P",
+      "Z": "Glutamate"
+    },
+    "answer": "X) Dopamine"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three ions in order of increasing contribution to resting membrane potential in a typical neuron at rest: 1) $\\athrm{Na^{+}}$ ; 2) $\\athrm{K^{+}}$ ; 3) $\\athrm{Ca^{2 + }}$ .",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following conditions that are required for the speed of light to be $c$ : 1) An inertial frame of reference; 2) A vacuum; 3) A stationary source of light.",
+    "answer": "2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What principle states that systems described with quantum theory agree with classical theory at large quantum numbers?",
+    "answer": "Correspondence principle"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following diseases is not currently a target for eradication?",
+    "choices": {
+      "W": "Polio",
+      "X": "Dracunculiasis [druh-KUN-gyuh-LIE-uh-sis]",
+      "Y": "Yaws",
+      "Z": "Rinderpest"
+    },
+    "answer": "Z) Rinderpest"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following traits in a disease would make eradication unfeasible?",
+    "choices": {
+      "W": "It does not have a vaccine to prevent it",
+      "X": "It is highly contagious",
+      "Y": "It is spread through an animal vector",
+      "Z": "It is spread by infected water"
+    },
+    "answer": "Y) It is spread through an animal vector"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many sides does a regular congruent polygon have if each of its exterior angles measures 2.4 degrees?",
+    "answer": "150"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The Cartesian coordinates $(1,1,\\qrt{2})$ can be rewritten as what triplet of numbers in spherical coordinates?",
+    "choices": {
+      "W": "2, 30 degrees, 60 degrees",
+      "X": "2, 45 degrees, 45 degrees",
+      "Y": "4, 30 degrees, 60 degrees",
+      "Z": "4, 45 degrees, 45 degrees"
+    },
+    "answer": "X) 2, 45 degrees, 45 degrees"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What principle states that in the ground state of an atom or ion, electrons fill subshells of the lowest energy level before filling subshells of higher energy?",
+    "answer": "Aufbau [OFF- bough] Principle"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When the natural logarithm of a reaction's equilibrium constant is plotted against one over temperature, what is the slope of the line, in terms of the reaction enthalpy H, reaction entropy S, and ideal gas constant R?",
+    "answer": "$- \\rac{H}{R}$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why black dwarf stars have never been observed by astronomers?",
+    "choices": {
+      "W": "They emit very little light",
+      "X": "Their gravity is extremely weak",
+      "Y": "Most decomposed soon after the Big Bang",
+      "Z": "The universe is too young for them to form"
+    },
+    "answer": "Z) The universe is too young for them to form"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three Milankovitch [mih-LAHN-ko-vich] cycles that could change the date of perihelion: 1) Eccentricity; 2) Obliquity [uh-BLIK-wh-dee]; 3) Apsidal [APP-sih-dull] precession.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Trypanosoma brucei [truh-PA-nuh-ZO-muh BROO-say], the organism which causes sleeping sickness, belongs to what group of flag-elled [FLA-juh-lay-did] protists, which are named due to the presence of an organelle containing a large mass of DNA?",
+    "answer": "Kinetoplastida [kih-NEE-duh-PLAS-tih-duh]"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following four animals from oldest to most recent to evolve: 1) Mammals; 2) Birds; 3) Fish; 4) Reptiles.",
+    "answer": "3, 4, 1, 2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A pendulum's amplitude, length, and mass are all tripled, while the gravity acting upon the system is halved. By what factor is the period of the pendulum multiplied?",
+    "answer": "$\\qrt{6}$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In an alternate universe, if the permeability constant of free space were to change while the permutivity constant remains the same, which of the following would change?",
+    "choices": {
+      "W": "Speed of light",
+      "X": "Electric field outside a spherical conductor",
+      "Y": "Electric field inside a spherical conductor",
+      "Z": "Magnetic field outside an ideal solenoid [SOL-eh-noyd]"
+    },
+    "answer": "W) Speed of light"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the rate of global economic growth per year over the course of human history?",
+    "choices": {
+      "W": "Quadratic",
+      "X": "Subexponential",
+      "Y": "Exponential",
+      "Z": "Superexponential"
+    },
+    "answer": "Z) Superexponential"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Negative utilitarianism [yew-TIL-uh-TARE-yuh-nism] is a moral philosophy distinct from traditional utilitarianism by focusing on minimizing the aggregate amount of what?",
+    "answer": "Suffering (ACCEPT: Disutility, pain)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Joseph builds 5.2 houses and Sydney builds 2.4 houses each hour. If Joseph is paid $20 per hour and Sydney is paid $10 per hour, which of the following is closest to the least possible cost for a total of 104 new houses?",
+    "choices": {
+      "W": "$371",
+      "X": "$400",
+      "Y": "$416",
+      "Z": "$433"
+    },
+    "answer": "X) $400"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Noah picks a random positive integer n and makes n evenly spaced horizontal cuts and n evenly spaced vertical cuts into an unit square. He then takes one of the resulting figures and calculates its area. The sum of all possible areas Noah can end up with is closest to which of the following numbers?",
+    "choices": {
+      "W": "0.4",
+      "X": "0.5",
+      "Y": "0.6",
+      "Z": "0.7"
+    },
+    "answer": "Y) 0.6"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the formal charge of the central atom in the iodine tetrachloride anion?",
+    "answer": "-1"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Order the following three bonds in order of increasing average bond dissociation enthalpy: 1) Carbon-hydrogen; 2) Carbon-carbon; 3) Carbon-fluorine.",
+    "choices": {
+      "W": "",
+      "X": "",
+      "Y": "",
+      "Z": ""
+    },
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Hornfels [HORN-fellz] and quartzite typically form from what type of metamorphism?",
+    "answer": "Contact"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In 2021, currents in the Gulf Stream were measured to be moving at their slowest rate in over 1,600 years. Which of the following factors is most directly contributing to the gradual decline of these Atlantic currents?",
+    "choices": {
+      "W": "Heat-driven increase in atmospheric convection",
+      "X": "Melting of glaciers in Greenland",
+      "Y": "Decreased surface albedo",
+      "Z": "Rising sea levels"
+    },
+    "answer": "X) Melting of glaciers in Greenland"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Angiotensin-(1-7) [AN-jee-uh-TEN-sin ONE SEVEN] has opposing effects to angiotensin II. Which of the following would you expect the primary effect of angiotensin-(1-7) release to be?",
+    "choices": {
+      "W": "Increased heart rate",
+      "X": "Decreased heart rate",
+      "Y": "Increased blood pressure",
+      "Z": "Decreased blood pressure"
+    },
+    "answer": "Z) Decreased blood pressure"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes the arrangement of microtubules doublets in a motile cilium [SIH-lee-um]?",
+    "choices": {
+      "W": "9+0",
+      "X": "9+1",
+      "Y": "9+2",
+      "Z": "9+3"
+    },
+    "answer": "Y) 9+2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A positively charged object is attracted by a rod 1 meter away. If the charges of both objects are doubled, what new distance from the rod, in meters, would create a force with half the strength as before?",
+    "answer": "8"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A planet orbiting the sun travels in an elliptical path with semi major axis A and semi minor B. If, after applying a thrust, its new semi major axis is 3A and semi minor is 2B, by what factor is its angular momentum multiplied?",
+    "choices": {
+      "W": "2√3",
+      "X": "2 3",
+      "Y": "√3",
+      "Z": "3 2"
+    },
+    "answer": "W) 2√3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which type of machine learning involves taking in pairs of inputs and outputs to model an input-output function?",
+    "answer": "Supervised learning"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which type of statistical analysis, used in supervised learning, systematically estimates the relationship between a dependent variable and a set of independent variables?",
+    "answer": "Regression analysis"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Three concentric circles have radii [RAY-dee-eye] of lengths 5, 7, and 10. A region in this shape is shaded if it is contained within an odd number of circles. What is the area of the shaded regions of this shape?",
+    "answer": "$76\\i$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is $\\im_{(x,y)\\to (0,\\i)}\\rac{\\os xy + \\in xy}{2y}$?",
+    "choices": {
+      "W": "0",
+      "X": "$\\rac{1}{\\i}$",
+      "Y": "$\\rac{1}{2\\i}$",
+      "Z": "$\\rac{1}{3\\i}$"
+    },
+    "answer": "Y) $\\rac{1}{2\\i}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following materials is a molecular solid?",
+    "choices": {
+      "W": "Silica",
+      "X": "Water-ice",
+      "Y": "Silicon carbide",
+      "Z": "Nichrome [NYE-krome]"
+    },
+    "answer": "X) Water-ice"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the bond order of the oxygen-oxygen bond in the superoxide anion?",
+    "answer": "1.5"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The intensity of sunspot magnetic fields can be determined by the strength of spectral line splitting that occurs due to what effect?",
+    "answer": "Zeeman effect"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "At its formation, the CMBR is estimated to have had a temperature of 3000 K. To one significant figure, what is the value of its redshift due to the expansion of the universe?",
+    "answer": "1000"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Mediated by AMPA and NMDA receptors, what term is given to repeated stimulation of a neuronal synapse leading to a long-lasting increase in synaptic strength?",
+    "answer": "Long-term potentiation (ACCEPT: LTP)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Amyloid [A-mih-loyd] beta has been shown to have antimicrobial properties, and recent studies have shown that it can translocate from the gut to the brain. Through what cranial nerve, which is responsible for parasympathetic innervation of the gut, does amyloid beta travel?",
+    "answer": "Cranial nerve X (ACCEPT: Vagus nerve)"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following changes would decrease the period of small angled pendulum oscillations?",
+    "choices": {
+      "W": "Relocating the pendulum to the moon",
+      "X": "Increasing the amplitude of oscillations",
+      "Y": "Replacing the pendulum with one half the length but twice the mass",
+      "Z": "Tripling the mass of the pendulum"
+    },
+    "answer": "Y) Replacing the pendulum with one half the length but twice the mass"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A square loop of wire with side length $9\\athrm{m}$ is angled at 30 degrees from a uniform magnetic field of 3 teslas. If the current through the loop is 1 ampere, what is the magnitude of the torque exerted on the loop by the magnetic field?",
+    "answer": "$\\rac{243}{2}$"
+  }
+]

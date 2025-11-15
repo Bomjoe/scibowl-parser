@@ -1,0 +1,470 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "In reinforcement learning, an agent acts to maximize which property over its operation?",
+    "answer": "Expected cumulative reward"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "In some reinforcement learning problems, a system cannot fully predict which decisions will maximize expected cumulative reward. What is this property of problems called?",
+    "answer": "Partial observability"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Suppose the numbers $x!$ [x factorial] and $y!$ [y factorial] when written in base 13 both have 126 trailing zeroes. What is the greatest possible value of $y - x$?",
+    "answer": "12"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is $\\im_{x \\to 0} \\rac{\\in x - x}{x^3}$ [the limit as x approaches 0 of the fraction with numerator sine of x minus x and denominator x cubed]?",
+    "answer": "$- \\rac{1}{6}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three nuclei that are NMR active: 1) Carbon-14; 2) Nitrogen-14; 3) Phosphorus-35.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the ratio of the number of rotational degrees of freedom to the number of vibrational degrees of freedom present in methane?",
+    "answer": "$\\rac{1}{3}$ (ACCEPT: 1:3)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In a large thunderstorm cloud, a net charge is created as rising snow collides with what form of precipitation, which is created when supercooled water freezes onto an ice crystal?",
+    "answer": "Graupel (DO NOT ACCEPT: Hail)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three seas that are located on a continental shelf: 1) Sea of Japan; 2) North Sea; 3) Caspian Sea.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three elements whose deficiency in plants causes chlorosis [klor-OH-sis]: 1) Iron; 2) Magnesium; 3) Nitrogen.",
+    "answer": "All"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Bacterial RNA polymerase is a holoenzyme in its active form. The polymerase core associates with what additional protein that enables promoter recognition?",
+    "answer": "Sigma factor"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By what factor is the resonant frequency of an RLC circuit multiplied if the resistance is multiplied by 3, the inductor has 4 times the turn density, and the capacitor has double the initial dielectric constant?",
+    "answer": "$\\rac{\\qrt{2}}{8}$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify of the following three factors that would affect the terminal velocity of a ball thrown off of a plane: 1) Temperature of the air; 2) Mass of the ball; 3) Density of air.",
+    "answer": "All"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "The phrase communicable disease originates from the use of what public health process that involves identifying persons exposed to a disease?",
+    "answer": "Contact tracing (DO NOT ACCEPT: Quarantine)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which of these is NOT considered major evidence that the 1889 Russian Flu was caused by a zoonotic coronavirus?",
+    "choices": {
+      "W": "Long-term neurological symptoms",
+      "X": "A common cold coronavirus diverged from a bovine coronavirus around 1890",
+      "Y": "Symptoms included loss of taste and smell",
+      "Z": "It was less severe than typical influenza pandemics"
+    },
+    "answer": "Z) It was less severe than typical influenza pandemics"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Let $x$ be the least real number greater than 1 such that $\\os (x) = \\os x^{2}$ [cosine x equals cosine of the quantity x squared], where the arguments are in degrees. What is $x$ rounded to the nearest integer?",
+    "choices": {
+      "W": "9",
+      "X": "14",
+      "Y": "18",
+      "Z": "20"
+    },
+    "answer": "Y) 18"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The graph with the equation $\\rac{-x^{2}}{4} - y^{2} = z - 3$ [the quantity negative x squared over four minus y squared equals z minus three] is an example of what three-dimensional shape?",
+    "choices": {
+      "W": "Cone",
+      "X": "Ellipsoid",
+      "Y": "Hyperboloid",
+      "Z": "Elliptic paraboloid"
+    },
+    "answer": "Z) Elliptic paraboloid"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Delta and lambda isomerism occurs in molecules with what geometry?",
+    "answer": "Octahedral"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What are diastereomers [DIE-uh-STARE-yuh-mers] that differ only at one stereocenter known as?",
+    "answer": "Epimers"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following components of the interstellar medium typically has the lowest temperature?",
+    "choices": {
+      "W": "Molecular clouds",
+      "X": "Intercloud medium",
+      "Y": "Coronal gas",
+      "Z": "H II regions"
+    },
+    "answer": "W) Molecular clouds"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of meteorites that are considered stony: 1) Chondrites [KON-drites]; 2) Achondrites; 3) Mesosiderites [MEZ-uh-SIGH-der-ites].",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During the summer, one may notice a bluish haze that hovers over mountains. This gas is actually emitted by plants to cope with heat by stabilizing photosynthetic membranes within the plant's cells. What is this compound, which is also the building block of terpenes [TER-peens]?",
+    "answer": "Isoprene [EYE-suh-preen]"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Using the Frank-Starling law, identify all of the following three factors that would decrease with an increase in end diastolic [die-uh-STALL-ik] volume: 1) Stroke volume; 2) Strength of ventricular contraction; 3) Sarcomere length.",
+    "answer": "None"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What is the name of the effect that causes objects orbiting stars to lose their angular momentum due to the star's radiation pressure?",
+    "choices": {
+      "W": "Penrose process",
+      "X": "Poynting-Robertson effect",
+      "Y": "Thomson effect",
+      "Z": "Cherenkov effect"
+    },
+    "answer": "X) Poynting-Robertson effect"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not true about the Poynting-Robertson drag?",
+    "choices": {
+      "W": "It primarily affects small particles",
+      "X": "It causes particles to spiral towards the sun",
+      "Y": "Its magnitude is proportional to the square of the particle's velocity",
+      "Z": "Its magnitude increases relative to gravity as the particle approaches the star"
+    },
+    "answer": "Y) Its magnitude is directly proportional to the square of the particle's velocity"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What term describes an optimization algorithm optimized for a particular purpose by another optimization algorithm?",
+    "answer": "Mesa optimizer"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What term classifies the state where a mesa-optimizer's objective is aligned with the base objective?",
+    "answer": "Inner alignment"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What principle explains the phenomenon where 80 percent of outcomes often come from 20 percent of related inputs?",
+    "answer": "Pareto Principle"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $f(x) = \\rac{e^{x}}{x^{2}}$ [f of x equals e to the x over x squared], what is $f^{\\rime}(x)$ [f prime of x]?",
+    "answer": "$\\rac{(e^{x})(x - 2)}{x^{3}}$ (ACCEPT: $\\rac{x e^{x} - 2 e^{x}}{x^{3}}$)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What functional group is formed when a phenyl [FEE-null] grignard [GRIN-yerd] reagent reacts with acetaldehyde [A-sih- TAL- duh-hide]?",
+    "choices": {
+      "W": "Ketone",
+      "X": "Primary alcohol",
+      "Y": "Secondary alcohol",
+      "Z": "Tertiary alcohol"
+    },
+    "answer": "Y) Secondary alcohol"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the Tollens' [TALL-inz] test of glucose, what species acts as the oxidizing agent?",
+    "answer": "$\\athrm{Ag^{+}}$ (DO NOT ACCEPT: Silver)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following lakes would be least likely to form in a polar region?",
+    "choices": {
+      "W": "Solution",
+      "X": "Endorheic",
+      "Y": "Pluvial",
+      "Z": "Amictic"
+    },
+    "answer": "W) Solution"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metamorphic facies would most likely form in a Wadati-Benioff [wuh-DAH-di BEN-ee-off] zone?",
+    "choices": {
+      "W": "Amphibolite",
+      "X": "Eclogite",
+      "Y": "Granulite",
+      "Z": "Sanidinite"
+    },
+    "answer": "X) Eclogite"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In Photosystem II, a water molecule in converted to oxygen through a cycle of 5 oxidation states of what transition metal?",
+    "answer": "Manganese"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which class of enzymes hydrolyze cell membrane phospholipids to form arachidonic [air-A-kih-DON-ik] acid, which act as a precursor to prostaglandins [PROS-uh-GLAN-dins] as a part of the inflammatory response?",
+    "answer": "Phospholipase A2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the molar heat capacity of aluminum at room temperature, in joules per mole kelvin?",
+    "choices": {
+      "W": "2",
+      "X": "5",
+      "Y": "10",
+      "Z": "25"
+    },
+    "answer": "Z) 25"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The thermodynamic beta of a system is defined as $\\eta = \\rac{1}{kT}$ where $k$ is Boltzmann's constant. In terms of SI base units, what are the units of the thermodynamic beta?",
+    "answer": "$\\athrm{kg}^{- 1}\\athrm{m}^{- 2}\\athrm{s}^{2}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which type of electric generator relies on the inverse of the Peltier [PEL-tee-yay] effect to generate electricity?",
+    "answer": "Thermoelectric generator (accept Seebeck effect generator)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Thermoelectric generators have been suggested to be integrated with photovoltaic technology to take advantage of what advantage of thermoelectric generators?",
+    "choices": {
+      "W": "Increased efficiency from infrared spectra",
+      "X": "Increased compatibility with combined infrastructure",
+      "Y": "Replacing electricity storage with thermal storage",
+      "Z": "Greater scalability than steam generators"
+    },
+    "answer": "W) Increased efficiency from infrared spectra"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What are the polar coordinates of the point (8, 15), with the angle measure to the nearest degree?",
+    "choices": {
+      "W": "(17, 28)",
+      "X": "(17, 37)",
+      "Y": "(17, 53)",
+      "Z": "(17, 62)"
+    },
+    "answer": "Z) (17, 62)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a best-of-seven series, Team A has home field for games 1, 2, 6, and 7 and Team B has home field for games 3, 4, and 5. The probability that Team A wins a home game is 0.6 and the probability that Team A wins an away game is 0.5. What is the probability that either team wins all of the first four games?",
+    "answer": "0.13 (ACCEPT: $13\\$)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When chemists use boron trichloride as a Lewis acid in chemical synthesis, the sample must be water-free. This is because boron trichloride will react with water to yield what boron-containing compound?",
+    "answer": "$\\athrm{B(OH)_3}$ (ACCEPT: Boric acid, $\\athrm{H_3BO_3}$)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In sugars, the substituent on carbon 1 typically prefers an axial rather than an equatorial position. What is the name of the effect that dictates this?",
+    "answer": "Anomeric effect"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds has a spectral line whose peak is at the lowest temperature?",
+    "choices": {
+      "W": "Hydrogen",
+      "X": "Titanium oxide",
+      "Y": "Ionized helium",
+      "Z": "Ionized iron"
+    },
+    "answer": "X) Titanium oxide"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three stellar fusion processes in which the rate of fusion is inversely proportional to the star's density: 1) Proton-proton chain; 2) CNO cycle; 3) Triple alpha process.",
+    "answer": "None"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Pacemaker potentials in the heart are generated by HCN channels, which rhythmically depolarize pacemaker cells to generate a steady heart rate. In order to modulate their activity, they bind what signaling molecule that increases the likelihood of the channel opening?",
+    "answer": "Cyclic AMP (ACCEPT: cAMP, cGMP, cCMP)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When a woody plant is injured, parenchymal [pair-EN-kih-mull] cells in the heartwood produce outgrowth that partially block xylem vessels. What is the term for this process?",
+    "answer": "Tylosis"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "For which of the following elements can EPR spectroscopy be used for?",
+    "choices": {
+      "W": "Beryllium",
+      "X": "Oxygen",
+      "Y": "Nitrogen",
+      "Z": "Magnesium"
+    },
+    "answer": "X) Oxygen"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "At higher temperatures, Einstein's relation for heat capacity of solids approaches a constant value in accordance with which heat capacity relation?",
+    "answer": "Dulong-Petit Law"
+  }
+]

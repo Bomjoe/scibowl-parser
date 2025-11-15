@@ -1,0 +1,659 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "A total solar eclipse is likely when",
+    "choices": {
+      "W": "Full moon occurs at descending node.",
+      "X": "New moon occurs at ascending node.",
+      "Y": "New moon occurs at apogee.",
+      "Z": "New moon occurs at perigee."
+    },
+    "answer": "X- NEW MOON OCCURS AT ASCENDING NODE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The Zodiacal Light is due to",
+    "choices": {
+      "W": "scattering of Sunlight from interplanetary dust particles.",
+      "X": "refraction of Sunlight by the Earth's Atmosphere.",
+      "Y": "scattering of Sunlight by ice crystals in the stratosphere.",
+      "Z": "multiple reflection of Sunlight between the Moon and the Earth."
+    },
+    "answer": "W- SCATTERING OF SUNLIGHT FROM INTERPLANETARY DUST PARTICLES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The immune system responds to a serious infection by producing white blood cells and",
+    "choices": {
+      "W": "mucus.",
+      "X": "marker proteins.",
+      "Y": "pain.",
+      "Z": "fever."
+    },
+    "answer": "Z- FEVER"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "One advantage of fever is that a higher-than-normal temperature may",
+    "choices": {
+      "W": "cause an increase of lymphocytes.",
+      "X": "increase growth of some viruses.",
+      "Y": "stop growth of some microorganisms.",
+      "Z": "cause an increase in agglutination."
+    },
+    "answer": "Y- STOP GROWTH OF SOME MICROORGANISMS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Heat engines",
+    "choices": {
+      "W": "produce heat.",
+      "X": "convert mechanical energy to heat energy.",
+      "Y": "convert heat energy to mechanical energy.",
+      "Z": "change steam to water."
+    },
+    "answer": "Y- CONVERT HEAT ENERGY TO MECHANICAL ENERGY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Heat engines are classified according to where the",
+    "choices": {
+      "W": "compression takes place.",
+      "X": "combustion takes place.",
+      "Y": "exhaust takes place.",
+      "Z": "intake takes place."
+    },
+    "answer": "X- COMBUSTION TAKES PLACE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In a redox reaction, how do the numbers of electrons gained and lost compare?",
+    "choices": {
+      "W": "The two numbers are always equal.",
+      "X": "The number lost is greater than the number gained.",
+      "Y": "The number lost is less than the number gained.",
+      "Z": "There is no general relationship between the two numbers."
+    },
+    "answer": "W- THE TWO NUMBERS ARE ALWAYS EQUAL"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In an electroplating process, the object to be plated is the",
+    "choices": {
+      "W": "anode.",
+      "X": "cathode.",
+      "Y": "electrolyte.",
+      "Z": "plating metal."
+    },
+    "answer": "X- CATHODE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "What type of projection is used to draw a road map?",
+    "choices": {
+      "W": "Mercator",
+      "X": "Robinson",
+      "Y": "Conic",
+      "Z": "Contour"
+    },
+    "answer": "Y- CONIC"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "What is the difference between hard water and soft water?",
+    "choices": {
+      "W": "Hard water is denser than soft water",
+      "X": "Hard water contains a greater quantity of minerals than soft water",
+      "Y": "Hard water contains more ions of magnesium and calcium than soft water",
+      "Z": "Hard water is more difficult to freeze than soft water"
+    },
+    "answer": "Y- HARD WATER CONTAINS MORE IONS OF MAGNESIUM AND CALCIUM THAN SOFT WATER"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "A compiler translates",
+    "choices": {
+      "W": "from a programming language as a source to a machine-oriented language as a target.",
+      "X": "from a machine language as a source to an assembly language as a target.",
+      "Y": "from a programming language to a high-level plan as a target.",
+      "Z": "from a machine-dependent assembly language to byte code."
+    },
+    "answer": "W- FROM A PROGRAMMING LANGUAGE AS A SOURCE TO A MACHINE- ORIENTED LANGUAGE AS A TARGET"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not an SQL command?",
+    "choices": {
+      "W": "Update",
+      "X": "Select",
+      "Y": "Remove",
+      "Z": "Insert"
+    },
+    "answer": "Y- REMOVE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Fuel cells do not run down and do not require recharging because",
+    "choices": {
+      "W": "oxidation occurs at both the anode and the cathode.",
+      "X": "reduction occurs at both the anode and the cathode.",
+      "Y": "the fuel is supplied continuously.",
+      "Z": "both half reactions are very energetic."
+    },
+    "answer": "Y- THE FUEL IS SUPPLIED CONTINUOUSLY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The scientist who built the first battery was",
+    "choices": {
+      "W": "Avogadro.",
+      "X": "Ampere.",
+      "Y": "Galvani.",
+      "Z": "Volta."
+    },
+    "answer": "Z- VOLTA"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Any substance that triggers a specific defense of the immune system is",
+    "choices": {
+      "W": "an interferon.",
+      "X": "an antigen.",
+      "Y": "a microorganism.",
+      "Z": "a virus."
+    },
+    "answer": "X- AN ANTIGEN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The process by which antibodies link viruses to form a large mass is",
+    "choices": {
+      "W": "inflammation.",
+      "X": "infection.",
+      "Y": "phagocyte production.",
+      "Z": "agglutination."
+    },
+    "answer": "Z- AGGLUTINATION"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The heat removed from the freezer compartment of a refrigerator radiates to the outside from the",
+    "choices": {
+      "W": "condenser coils.",
+      "X": "storage tank.",
+      "Y": "freezer unit.",
+      "Z": "compressor."
+    },
+    "answer": "W- CONDENSER COILS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "During evaporation",
+    "choices": {
+      "W": "both cooling and heating effects result.",
+      "X": "the refrigerant is absorbed.",
+      "Y": "heat absorption leaves an object's temperature lower than before.",
+      "Z": "water molecules change from the gas to the liquid phase."
+    },
+    "answer": "Y- HEAT ABSORPTION LEAVES AN OBJECT'S TEMPERATURE LOWER THAN BEFORE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A contour map of the hydraulic head in a confined aquifer is called the",
+    "choices": {
+      "W": "water table.",
+      "X": "potentiometric surface.",
+      "Y": "terrain.",
+      "Z": "slope."
+    },
+    "answer": "X- POTENTIOMETRIC SURFACE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which is not an example of a concordant rock mass?",
+    "choices": {
+      "W": "Lopolith",
+      "X": "Sill",
+      "Y": "Laccolith",
+      "Z": "Dike"
+    },
+    "answer": "Z- DIKE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The production of antibodies following the first injection of a vaccine is a",
+    "choices": {
+      "W": "lymph node reaction.",
+      "X": "suppressor T-cell reaction.",
+      "Y": "primary immune response.",
+      "Z": "secondary immune response."
+    },
+    "answer": "Y- PRIMARY IMMUNE RESPONSE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Pasteur proved that sheep could be protected against anthrax by injecting them with",
+    "choices": {
+      "W": "weakened anthrax viruses.",
+      "X": "weakened anthrax bacteria.",
+      "Y": "dead anthrax viruses.",
+      "Z": "dead anthrax bacteria."
+    },
+    "answer": "X- WEAKENED ANTHRAX BACTERIA"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A diesel engine",
+    "choices": {
+      "W": "is an external-combustion engine.",
+      "X": "has spark plugs.",
+      "Y": "burns fuel outside the engine.",
+      "Z": "is a compression-ignition engine."
+    },
+    "answer": "Z- IS A COMPRESSION- IGNITION ENGINE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "When the fuel burns in a gasoline engine, the heat added to the gases in the cylinder",
+    "choices": {
+      "W": "decreases the energy of the exhaust.",
+      "X": "is converted to work.",
+      "Y": "is unrelated to work.",
+      "Z": "is unrelated to work and decreases the energy of the exhaust."
+    },
+    "answer": "X- IS CONVERTED TO WORK"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is used as the standard reference electrode?",
+    "choices": {
+      "W": "Hydrogen electrode",
+      "X": "Zinc electrode",
+      "Y": "Copper electrode",
+      "Z": "Carbon electrode"
+    },
+    "answer": "W- HYDROGEN ELECTRODE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Devices that use redox reactions either to produce or use electricity are called",
+    "choices": {
+      "W": "voltaic cells.",
+      "X": "electrolytic cells.",
+      "Y": "batteries.",
+      "Z": "electrochemical cells."
+    },
+    "answer": "Z- ELECTROCHEMICAL CELLS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If the first derivative of a function at a point is zero, and the second derivative is negative, then the point is a",
+    "choices": {
+      "W": "local minima.",
+      "X": "inflection point.",
+      "Y": "discontinuity.",
+      "Z": "local maxima."
+    },
+    "answer": "Z- LOCAL MAXIMA"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many distinct arrangements are there for six beads on a necklace?",
+    "choices": {
+      "W": "720",
+      "X": "120",
+      "Y": "60",
+      "Z": "30"
+    },
+    "answer": "Y-60 (5/2)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "The only species of cat that lives and hunts in groups is",
+    "choices": {
+      "W": "lion.",
+      "X": "leopard.",
+      "Y": "jaguar.",
+      "Z": "cougar."
+    },
+    "answer": "W- LION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What is the name of the island in the Caribbean that was recently devastated by the Soufriere Hills volcano?",
+    "answer": "MONTSERRAT"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The Salk vaccine against poliomyelitis contained three slightly different",
+    "choices": {
+      "W": "killed polio viruses.",
+      "X": "weakened polio viruses.",
+      "Y": "killed polio antibodies.",
+      "Z": "weakened polio antibodies."
+    },
+    "answer": "W- KILLED POLIO VIRUSES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Paralysis often results from polio because the polio virus",
+    "choices": {
+      "W": "activates suppressor T-cells.",
+      "X": "activates killer T-cells.",
+      "Y": "kills muscle cells.",
+      "Z": "kills nerve cells."
+    },
+    "answer": "Z- KILLSNERVE CELLS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Kepler's discovery that planets move in elliptical orbits was based upon observations of",
+    "choices": {
+      "W": "Venus.",
+      "X": "Mars.",
+      "Y": "Jupiter.",
+      "Z": "The Earth's moon."
+    },
+    "answer": "X- MARS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The planet Venus appears brightest",
+    "choices": {
+      "W": "When it is at opposition.",
+      "X": "When its phase is full.",
+      "Y": "About a month before or after inferior conjunction.",
+      "Z": "When it is at superior conjunction."
+    },
+    "answer": "Y- ABOUT A MONTH BEFORE OR AFTER INFERIOR CONJUNCTION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Insulation materials reduce heat loss because they",
+    "choices": {
+      "W": "are poor conductors.",
+      "X": "reduce evaporation.",
+      "Y": "block out the sun.",
+      "Z": "promote convection."
+    },
+    "answer": "W- ARE POOR CONDUCTORS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The properties of a medium that affect the speed of waves traveling through it are the",
+    "choices": {
+      "W": "color and density of the medium.",
+      "Z": "color and phase of the medium.",
+      "Y": "density and elasticity of the medium."
+    },
+    "answer": "Y- DENSITY AND ELASTICITY OF THE MEDIUM"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The ability of a cell reaction to move electrons through a wire between voltaic cells is called the cell",
+    "choices": {
+      "W": "potential.",
+      "X": "current.",
+      "Y": "power.",
+      "Z": "energy."
+    },
+    "answer": "W- POTENTIAL"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A voltaic cell in which the electrolyte is a paste is called a",
+    "choices": {
+      "W": "fuel cell.",
+      "X": "lead storage battery.",
+      "Y": "wet cell.",
+      "Z": "dry cell."
+    },
+    "answer": "Z- DRY CELL"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Chemical weathering of sodium and plagioclase feldspar result in hydrous aluminous silicates otherwise known as?",
+    "choices": {
+      "W": "Evaporites",
+      "X": "Clay minerals",
+      "Y": "Precipitates",
+      "Z": "Sheet silicates"
+    },
+    "answer": "X- CLAY MINERALS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Monocline, syncline and anticline are structural geology terms that are used to describe",
+    "choices": {
+      "W": "Folds.",
+      "X": "Plate Boundaries.",
+      "Y": "Faucets.",
+      "Z": "Geosynclines."
+    },
+    "answer": "W- FOLDS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "What is the programming language used to create Web pages?",
+    "answer": "HTML"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Use DeMorgan's Law to restate not(p and q)",
+    "choices": {
+      "W": "(not p) or (not q)",
+      "X": "(p) or (q)",
+      "Y": "(p) and (q)",
+      "Z": "(not p) and (not q)"
+    },
+    "answer": "W- (NOT P) OR (NOT Q)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the third bone in the inner ear?",
+    "answer": "STAPES OR STIRRUP"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The most effective attacking cells in the immune system are",
+    "choices": {
+      "W": "helper T-cells.",
+      "X": "killer T-cells.",
+      "Y": "plasma cells.",
+      "Z": "mast cells."
+    },
+    "answer": "X- KILLER T-CELLS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of125 to the two-thirds power?",
+    "answer": "25"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A teacher is said to have asked Carl Gauss to add up all the numbers from1 to100. Gauss was declared a genius when he answered the question immediately at age eight. Since you are older, add up all the whole numbers up to and including1 million.",
+    "answer": "500 BILLION,500 THOUSAND (500,000,500,000)"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A charged particle is moving in a UNIFORM magnetic field. If the direction of motion of the charged particle is parallel to the magnetic field, describe the shape of the charged particle's path.",
+    "answer": "STRAIGHT LINE"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The speed of sound waves is greater in steel than in air due to steel's",
+    "choices": {
+      "W": "greater mass.",
+      "X": "lesser elasticity.",
+      "Y": "greater density.",
+      "Z": "lesser density."
+    },
+    "answer": "Y- GREATER DENSITY"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Calculate the maximum number of electrons that can exist in the $\\athrm{n} =4$ level.",
+    "answer": "32"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Electrolysis is the process by which electricity is used to",
+    "choices": {
+      "W": "divide chemical reactions into half reactions.",
+      "X": "melt sodium chloride.",
+      "Y": "charge the anode and cathode.",
+      "Z": "bring about a nonspontaneous chemical change."
+    },
+    "answer": "Z- BRING ABOUT ANONSPONTANEOUS CHEMICAL CHANGE"
+  }
+]

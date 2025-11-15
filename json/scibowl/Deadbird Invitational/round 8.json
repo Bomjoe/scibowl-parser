@@ -1,0 +1,397 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 ions that carry a minus 1 charge: 1) Bicarbonate; 2) Phosphate; 3) Acetate.",
+    "answer": "1 AND 3 ONLY"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "A basic solution is formed by dissolving 1 mole of lithium hydroxide in 10 liters of water. What is the pOH of this solution?",
+    "answer": "1"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions is considered to be odd?",
+    "choices": {
+      "W": "Cosine of x",
+      "X": "Square root of x",
+      "Y": "Sine of x",
+      "Z": "Floor of x"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If theta is an angle such that the sine of theta is negative 5/13 and theta is between pi and 3pi/2 radians, what is the value of secant of x?",
+    "answer": "NEGATIVE $\\rac{13}{12}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following actions would salicylic acid and jasmonic acid NOT be involved in?",
+    "choices": {
+      "W": "Directional growth in response to touch",
+      "X": "Systemic acquired resistance",
+      "Y": "Effector-triggered immunity",
+      "Z": "Hypersensitive responses"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three actions that the RAAS system would do to counteract a drop in blood volume: 1) Increasing water reabsorption; 2) Increasing $\\athrm{Na^{+}}$ reabsorption; 3) Increasing vascular tone.",
+    "answer": "ALL OF THEM"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term describes the outside curve of a stream channel where erosion occurs at the fastest rate?",
+    "answer": "CUT BANK"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Laterite soils have a characteristic rusty red color due to the intense chemical weathering that weathers away most of the calcite and silica. Instead, what two elements are abundant in laterites?",
+    "answer": "IRON AND ALUMINIUM"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the asymptotes of the graph of the equation $\\athrm{y} = \\rac{\\athrm{x} + 2}{\\athrm{x}^2 - 4}$?",
+    "choices": {
+      "W": "Vertical asymptote at $\\athrm{x} = -2$ and no horizontal asymptote",
+      "X": "Vertical asymptote at $\\athrm{x} = -2$ and horizontal asymptote at $\\athrm{y} = 0$",
+      "Y": "Vertical asymptote at $\\athrm{x} = 2$ and no horizontal asymptote",
+      "Z": "Vertical asymptote at $\\athrm{x} = 2$ and horizontal asymptote at $\\athrm{y} = 0$"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the units digit of $7^{55} \\times 8^{34}$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "An RC circuit consists of a resistor of resistance 30 ohms and a capacitor of capacitance 2 farads connected in series to a 9-volt battery. What is the time constant, in seconds, of this circuit?",
+    "answer": "60"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "An object is placed 5 centimeters in front of a concave mirror with a focal length of 2 centimeters. Which of the following best describes the image produced?",
+    "choices": {
+      "W": "Real and upright",
+      "X": "Real and inverted",
+      "Y": "Virtual and upright",
+      "Z": "Virtual and inverted"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are studying the properties of hydrothermal vents in the ocean. Black smokers, one type of hydrothermal vent, mainly emit what class of minerals?",
+    "answer": "METAL SULFIDES"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 objects that provide evidence for star formation: 1) Herbig-Haro objects; 2) Population II stars; 3) Bok globules.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following regions of the vertebrate brain is mainly responsible for processing olfactory input and regulating complex processes?",
+    "choices": {
+      "W": "Forebrain",
+      "X": "Midbrain",
+      "Y": "Hindbrain",
+      "Z": "Cerebellum"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "What type of cell is dependent on signals from helper T cells and utilize toxic proteins to kill cells infected by viruses before the pathogens fully mature?",
+    "answer": "CYTOTOXIC T CELLS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements is the third most abundant in the universe?",
+    "choices": {
+      "W": "Lithium",
+      "X": "Beryllium",
+      "Y": "Carbon",
+      "Z": "Oxygen"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following nuclear reactions releases the most energy?",
+    "choices": {
+      "W": "Hydrogen to helium",
+      "X": "Helium to beryllium",
+      "Y": "Beryllium to oxygen",
+      "Z": "Nitrogen to silicon"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If there is a rectangular prism with length 4, width 12, and height 3, which of the following is the length of the diagonal of the prism?",
+    "choices": {
+      "W": "$5\\qrt{5}$",
+      "X": "13",
+      "Y": "$8\\qrt{3}$",
+      "Z": "15"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The midpoint of a line AB on the coordinate plane is (1.5, 2). If the coordinates of A are (3, -4), what is the location of point B?",
+    "answer": "(0, 8)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "Hydrogen gas and Helium gas are put in the same container. Hydrogen effuses at some rate a, while Helium effuses at a rate b. What is the ratio of rate a to b?",
+    "answer": "$\\qrt{2}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules is considered to be paramagnetic?",
+    "choices": {
+      "W": "$\\athrm{NO}_2$",
+      "X": "$\\athrm{CO}_2$",
+      "Y": "$\\athrm{SF}_6$",
+      "Z": "$\\athrm{CH}_4$"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Idaho National Laboratory are studying the origins of the universe. Which two fundamental forces are thought to have split from each other last during the grand unification epoch?",
+    "answer": "ELECTROMAGNETISM AND WEAK FORCE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Name all of the following four fundamental forces that affect electrons: 1. Gravity; 2. Electromagnetism; 3. Strong nuclear force; 4. Weak nuclear force.",
+    "answer": "1, 2, AND 4"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of intercellular junctions welds adjacent cells together?",
+    "choices": {
+      "W": "Plasmodesmata",
+      "X": "Gap junctions",
+      "Y": "Tight junctions",
+      "Z": "Desmosomes"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Innate immune cells dedicated to destroying pathogens in mammals rely on what recognition protein that produces signals to initiate defense responses?",
+    "answer": "TOLL-LIKE RECEPTORS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following shoreline features is NOT an erosional feature?",
+    "choices": {
+      "W": "Tombolo",
+      "X": "Marine terrace",
+      "Y": "Sea arch",
+      "Z": "Sea cliffs"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The K-Pg boundary event marked the end of what period, and the beginning of what period, respectively?",
+    "answer": "CRETACEOUS, PALEOGENE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit as x approaches infinity of the fraction with numerator e to the x and denominator x factorial?",
+    "answer": "0"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A six-sided die is unfairly weighted such that the probability of rolling a certain number is directly proportional to its square. What is the probability that a multiple of 3 will be rolled on this die?",
+    "answer": "$\\rac{45}{91}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "What law in physics states that quantum systems must reproduce results from classical physics at sufficiently large scales?",
+    "answer": "CORRESPONDENCE PRINCIPLE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "A monatomic gas is held at 0 degrees Celsius, and the average kinetic energy of the molecules of this gas is measured to be K. If instead a diatomic gas is placed under the same conditions, which of the following is closest to its average molecular kinetic energy in terms of K?",
+    "choices": {
+      "W": "$\\rac{3K}{2}$",
+      "X": "$\\rac{5K}{3}$",
+      "Y": "$\\rac{5K}{2}$",
+      "Z": "$2K$"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Livermore National Lab are studying the Tobacco mosaic virus and its structure. What is the name of the helical protein shell that encloses the mosaic virus' RNA molecule?",
+    "answer": "CAPSID"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Ames National Lab are researching the Bergeron process in clouds near the coasts of Maine to better understand how nor'easters form. What is the specific meteorological term that describes how falling ice crystals collide and combine?",
+    "answer": "AGGREGATION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Nayeon, a singer on the kpop band TWICE, is singing. When she is singing, small jets of air pass through moving vocal cords. What is the name for the measure of volume that describes how much air is inhaled and exhaled with each breath?",
+    "answer": "TIDAL VOLUME"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Sophie the gardener is growing succulents in her greenhouse. She observes that one of her plants is long, abnormally thin, and white, while her other plants are growing healthily. The long and thin plant is an example of what type of plant that focuses their energy towards growing up against gravity and towards a light source?",
+    "answer": "ETIOLATED PLANTS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Star A has a temperature of 5000 K, while star B has a temperature of 15000 K. Given that both stars have the same radius, what is the ratio of the luminosity of star A to star B?",
+    "answer": "$\\rac{1}{81}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In the Hubble tuning fork, which of the following types of galaxies is labeled as S0?",
+    "choices": {
+      "W": "Lenticular",
+      "X": "Barred spiral",
+      "Y": "Grand design spiral",
+      "Z": "Elliptical"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If a regular polygon has 12 sides, which of the following is equal to the number of diagonals of this polygon?",
+    "choices": {
+      "W": "36",
+      "X": "54",
+      "Y": "72",
+      "Z": "90"
+    },
+    "

@@ -1,0 +1,467 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the minimum number of times a deck of 52 cards must be shuffled to thoroughly mix the cards?",
+    "choices": {
+      "W": "2",
+      "X": "5",
+      "Y": "7",
+      "Z": "12"
+    },
+    "answer": "7"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Although the chance of YOUR winning a state lottery twice is as low as one chance in 17 trillion, what is the chance that SOMEONE will win twice?",
+    "choices": {
+      "W": "1 in 10",
+      "X": "1 in 30",
+      "Y": "1 in 3000",
+      "Z": "1 in 1,000,000"
+    },
+    "answer": "1 IN 30"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The Modulus of Elasticity for a material refers to",
+    "choices": {
+      "W": "the ability of a material to resist corrosion.",
+      "X": "the ratio of stress over strain.",
+      "Y": "the maximum load over the cross sectional area.",
+      "Z": "none of the above"
+    },
+    "answer": "THE RATIO OF STRESS OVER STRAIN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Many common household fluids, such as margarine, undergo a decrease in viscosity when subjected to a shearing force. What is this property called?",
+    "answer": "THIXOTROPIC"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In a seed, the region at the base of the hypocotyl is the",
+    "choices": {
+      "W": "epicotyl.",
+      "X": "shaft.",
+      "Y": "radicle.",
+      "Z": "silk."
+    },
+    "answer": "RADICLE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In reproduction in a pine tree,",
+    "choices": {
+      "W": "two sperm fertilize the egg.",
+      "X": "two sperm disintegrate.",
+      "Y": "the pollen tube contains three sperm.",
+      "Z": "the pollen tube grows into the ovules."
+    },
+    "answer": "THE POLLEN TUBE GROWS INTO THE OVULES"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An atom is defined as the smallest part of an element that",
+    "choices": {
+      "W": "contains at least one proton, neutron, and electron.",
+      "X": "retains the chemical identity of that element.",
+      "Y": "can carry an electric charge.",
+      "Z": "is affected in a cathode ray tube."
+    },
+    "answer": "RETAINS THE CHEMICAL IDENTITY OF THAT ELEMENT"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The fact that carbon dioxide always contains 73 percent oxygen by mass is an illustration of",
+    "choices": {
+      "W": "the ideas of Democritus.",
+      "X": "the law of conservation of matter.",
+      "Y": "the law of constant composition.",
+      "Z": "Dalton's atomic theory of matter."
+    },
+    "answer": "THE LAW OF CONSTANT COMPOSITION"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "All languages except machine language must be translated into machine language. This is done with",
+    "choices": {
+      "W": "a syntax translator.",
+      "X": "a language translator.",
+      "Y": "an assembler.",
+      "Z": "a code checker."
+    },
+    "answer": "ALANGUAGE TRANSLATOR"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "An IF-THEN-ELSE structure is also known as",
+    "choices": {
+      "W": "a test structure.",
+      "X": "an iterative structure.",
+      "Y": "a selection control structure.",
+      "Z": "none of the above"
+    },
+    "answer": "A SELECTION CONTROL STRUCTURE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "New African violet plants can grow asexually from fallen",
+    "choices": {
+      "W": "leaves.",
+      "X": "stems.",
+      "Y": "endosperms.",
+      "Z": "flowers."
+    },
+    "answer": "LEAVES"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Grafts are successful only if the two plant parts involved are firmly connected to each other at their",
+    "choices": {
+      "W": "vascular cambium.",
+      "X": "cork cambium.",
+      "Y": "apical meristem.",
+      "Z": "heartwood."
+    },
+    "answer": "VASCULAR CAMBIUM"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The temperature of a gas is held constant while its volume is reduced. The pressure the gas exerts on the walls of its container increases because its molecules",
+    "choices": {
+      "W": "strike the container walls more often.",
+      "X": "strike the container walls with higher speeds.",
+      "Y": "strike the container walls with greater force.",
+      "Z": "all of the above"
+    },
+    "answer": "STRIKE THE CONTAINER WALLS MORE OFTEN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How many joules of energy are consumed if a 100 watt light bulb is operated for 10 MINUTES?",
+    "answer": "60,000"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What information about electrons is given by the electron configuration of an atom?",
+    "choices": {
+      "W": "paths within the principal quantum level",
+      "X": "density of the electron cloud",
+      "Y": "average angular momentum",
+      "Z": "distribution among orbitals"
+    },
+    "answer": "DISTRIBUTION AMONG ORBITALS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Under what conditions can two electrons occupy the same orbital?",
+    "choices": {
+      "W": "never",
+      "X": "if they have opposite spins",
+      "Y": "if they have parallel spins",
+      "Z": "if they have different principal quantum numbers"
+    },
+    "answer": "IF THEY HAVE OPPOSITE SPINS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "What makes Sirius the brightest star in the night sky?",
+    "choices": {
+      "W": "apparent magnitude",
+      "X": "parallax",
+      "Y": "color",
+      "Z": "absolute magnitude"
+    },
+    "answer": "APPARENT MAGNITUDE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Rigel does not look as bright in the night sky as Sirius although it has greater",
+    "choices": {
+      "W": "apparent magnitude.",
+      "X": "parallax.",
+      "Y": "absolute magnitude.",
+      "Z": "black hole."
+    },
+    "answer": "ABSOLUTE MAGNITUDE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "When an alpha particle hits an atom of element 13, aluminum, with a mass of 27, an atom of element 15, phosphorus, with a mass of 30 is produced. What atomic particle is also produced in this process?",
+    "choices": {
+      "W": "proton",
+      "X": "positron",
+      "Y": "neutron",
+      "Z": "deuteron"
+    },
+    "answer": "NEUTRON"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Refracting telescopes, if uncorrected, suffer from chromatic aberration. Chromatic aberration occurs because",
+    "choices": {
+      "W": "red light is focused more strongly than blue light.",
+      "X": "blue light is focused more strongly than red light.",
+      "Y": "the outer light rays are focused more strongly than the central rays.",
+      "Z": "the central light rays are focused more strongly than the outer rays."
+    },
+    "answer": "BLUE LIGHT IS FOCUSED MORE STRONGLY THAN RED LIGHT"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When a sample of an element is vaporized in a flame, it releases energy in the form of",
+    "choices": {
+      "W": "a continuous spectrum.",
+      "X": "gamma rays.",
+      "Y": "light of all wavelengths.",
+      "Z": "light of only certain wavelengths."
+    },
+    "answer": "LIGHT OF ONLY CERTAIN WAVELENGTHS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A systematic variation in the properties of elements going down a group or across a period is called a",
+    "choices": {
+      "W": "block characteristic.",
+      "X": "periodic law.",
+      "Y": "periodic trend.",
+      "Z": "triad configuration."
+    },
+    "answer": "PERIODIC TREND"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The class Anthozoa contains",
+    "choices": {
+      "W": "sea anemones and jellyfish.",
+      "X": "jellyfish and hydras.",
+      "Y": "hydras and corals.",
+      "Z": "corals and sea anemones."
+    },
+    "answer": "CORALS AND SEA ANEMONES"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Most sea anemones, unlike corals,",
+    "choices": {
+      "W": "are colonial polyps.",
+      "X": "are solitary polyps.",
+      "Y": "have skeletons of limestone.",
+      "Z": "have skeletons of calcium carbonate."
+    },
+    "answer": "ARE SOLITARY POLYPS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Great Rift Valley in Africa is a",
+    "choices": {
+      "W": "mid-ocean ridge.",
+      "X": "convergent plate boundary.",
+      "Y": "divergent plate boundary.",
+      "Z": "transform fault boundary."
+    },
+    "answer": "DIVERGENT PLATE BOUNDARY"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A fossil fern that helps support the theory of continental drift is",
+    "choices": {
+      "W": "Mesosaurus.",
+      "X": "Glossopteris.",
+      "Y": "Glomar.",
+      "Z": "Pangaea."
+    },
+    "answer": "GLOSSOPTERIS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Mendeleev arranged the elements in his periodic table in order of increasing",
+    "choices": {
+      "W": "atomic number.",
+      "X": "mass number.",
+      "Y": "ionization energy.",
+      "Z": "atomic mass."
+    },
+    "answer": "ATOMIC MASS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Electronegativity is the ability of an atom to",
+    "choices": {
+      "W": "release electrons.",
+      "X": "become an ion.",
+      "Y": "conduct an electric current.",
+      "Z": "attract electrons in a chemical bond."
+    },
+    "answer": "ATTRACT ELECTRONS IN A CHEMICAL BOND"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A block of wood initially at rest slides down an inclined plane. Neglecting friction, the kinetic energy of the block at the bottom of the plane is",
+    "choices": {
+      "W": "all converted into heat.",
+      "X": "equal to its potential energy when it was at the top of the plane.",
+      "Y": "less than its kinetic energy at the top of the plane.",
+      "Z": "dependant on the materials of which the block is made."
+    },
+    "answer": "EQUAL TO ITS POTENTIAL ENERGY WHEN IT WAS AT THE TOP OF THE PLANE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Name any four of the six quarks.",
+    "answer": "UP, DOWN, CHARM, STRANGE, TOP (or truth), BOTTOM (or beauty)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Almost every kind of plant and animal is affected by one or more parasitic",
+    "choices": {
+      "W": "flatworms.",
+      "X": "ascarids.",
+      "Y": "roundworms.",
+      "Z": "cnidarians."
+    },
+    "answer": "ROUNDWORMS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The nervous system of a roundworm does not include",
+    "choices": {
+      "W": "ganglia.",
+      "X": "sense organs.",
+      "Y": "nerves.",
+      "Z": "a brain."
+    },
+    "answer": "A BRAIN"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An example of an actinide element is",
+    "choices": {
+      "W": "radium.",
+      "X": "iridium.",
+      "Y": "thorium.",
+      "Z": "cerium."
+    },
+    "answer": "THORIUM"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In the compound ammonia",
+    "choices": {
+      "W": "each hydrogen has a partial negative charge.",
+      "X": "the nitrogen has a full positive charge.",
+      "Y": "the N-H bond is an ionic bond.",
+      "Z": "the Lewis structure will have one unshared pair of electrons."
+    },
+    "answer": "THE LEWIS STRUCTURE WILL HAVE ONE UNSHARED PAIR OF ELECTRONS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "In 1991 two scientists at Columbia University established a new record for the number of digits in the value of pi. Approximately how many digits did they produce?",
+    "

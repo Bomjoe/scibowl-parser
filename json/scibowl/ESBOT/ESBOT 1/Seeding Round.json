@@ -1,0 +1,94 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Huntington's disease is characterized by repeats of what 3 nucleotide sequence?",
+    "answer": "CAG"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following iron minerals is most resistant to chemical weathering?",
+    "choices": {
+      "W": "Magnetite",
+      "X": "Hematite",
+      "Y": "Goethite",
+      "Z": "Limonite"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An ellipse has 2 foci at (-3,0) and (3,0) and includes the point (0,4). What is the area of this ellipse?",
+    "answer": "$20\\i$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A metal plate has a coefficient of linear expansion of 0.006 inverse Kelvins and an original area of 100 square meters. The temperature of the plate increases by 5 Kelvins. What is the new area of the plate to the nearest square meter?",
+    "choices": {
+      "W": "101",
+      "X": "103",
+      "Y": "104",
+      "Z": "106"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Iodometry is most commonly used to determine the concentration of what types of compounds?",
+    "answer": "Oxidizing agents"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What region of the inner ear is responsible for detecting horizontal acceleration?",
+    "answer": "Utricle"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Tatooine orbits 3 AU away from a binary star system with masses of 1 solar mass and 3 solar masses. What is its orbital period to the nearest year?",
+    "answer": "6"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many radial and angular nodes respectively are contained in a 3d orbital?",
+    "answer": "0 and 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A spaceship is in orbit with average mechanical energy of -78J. It fires its rockets and increases its average kinetic energy by 34 J. What is the average total mechanical energy in the orbit now?",
+    "answer": "$-112\\\\athrm{J}$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $\\athrm{a}^{2} + \\athrm{b} = 6$ and $\\athrm{a} + \\athrm{b}^{2} = 7$, then what is the value of $\\athrm{a}^{2}\\athrm{b}^{2} + \\athrm{a}^{3} + \\athrm{b}^{3} + \\athrm{ab}$?",
+    "answer": "42"
+  }
+]

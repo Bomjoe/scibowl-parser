@@ -1,0 +1,430 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the relation that compares the intrinsic luminosity and the rotational velocity of a spiral galaxy?",
+    "answer": "TULLY-FISHER RELATION"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Hubble tuning-fork diagram is a diagram that visually represents classifications of galaxies. What class of galaxy is located at the fork in the diagram, appearing to contain structural properties of both spiral and elliptical galaxies?",
+    "answer": "LENTICULAR GALAXIES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An object is placed 30 centimeters away from a concave mirror with a radius of curvature of 40 centimeters. Which of the following best describes what happens to the image of the object as the object moves closer to the mirror?",
+    "choices": {
+      "W": "It enlarges and then flips right side up",
+      "X": "It shrinks and then flips right side up",
+      "Y": "It enlarges and then flips upside down",
+      "Z": "It shrinks and then flips upside down"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A Carnot refrigerator has a coefficient of performance of 3. If it has a hot reservoir of temperature 27 degrees Celsius, what is the temperature of its cold reservoir in degrees Celsius?",
+    "answer": "-198"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term used to describe plastids containing small starch grains that settle under the influence of gravity and play a role in plant geotropism?",
+    "answer": "STATOLITHS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The hyper-sensitive response of a plant leads to the release of what signaling molecule that is exported out of infected cells and induces systemic acquired resistance?",
+    "answer": "METHYLSALICYLIC ACID"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $x$ is positive, what is the minimum value of eight $x$ plus the fraction with numerator two and denominator $x$?",
+    "answer": "8"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two circles with centers M and N intersect at X and Y such that angle MXN equals 90 degrees. If A and B lie on circle M and circle N, respectively, such that the line segment AB contains X, compute angle AYB in degrees.",
+    "answer": "90"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Oak Ridge National Lab have been studying guanidinium hydrochloride, a compound well-known for its high protein denaturing power due to its ability to induce the breaking of hydrogen bonds in water. Which of the following would best describe guanidinium hydrochloride?",
+    "choices": {
+      "W": "Kosmotrope",
+      "X": "Chaotrope",
+      "Y": "Lyotrope",
+      "Z": "Hydrotrope"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Ames Lab are utilizing ultraviolet spectroscopy to elucidate the structures of biologically active compounds. Order the following electronic transitions by increasing absorbed wavelength: 1) n to pi star; 2) pi to sigma star; 3) pi to pi star.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that have only London dispersion forces acting between the molecules: 1) $\\athrm{CF_4}$ ; 2) $\\athrm{CaBr_2}$ ; 3) $\\athrm{NF_3}$.",
+    "answer": "1"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding unit cells: 1) FCC packs less efficiently than BCC; 2) Ionic solids with similarly sized cations and anions take up a shape with interlocked primitive cubic cells; 3) The structure of $\\athrm{CuBr}$ is likely to have filled octahedral holes, while the structure of $\\athrm{AgCl}$ is likely to have filled tetrahedral holes.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In a certain region there exists a magnetic field of 5 milliteslas pointing out of the page and an electric field of 12 newtons per coulomb pointing down the page. If an electron is travelling through the region perpendicular to both fields in a straight line, find the direction of its velocity.",
+    "answer": "LEFT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A cannon launches a bullet at 50 meters per second and at an angle of 15 degrees that is on target to hit a house. Another cannon is placed on the opposite side of the house, half the distance that the first cannon is from the house. Unfortunately, it is slightly deformed, causing the bullets it shoots to have a smaller velocity than the other cannon. What is the minimum velocity, in meters per second, that the deformed cannon needs to hit the house?",
+    "answer": "25"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Three Kanye fans and three Drake fans stand in a line in a random order. What is the probability they stand in an alternating pattern?",
+    "answer": "1/10"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Compute the value of the sum from $n$ equals 1 to 10 of the fraction with numerator 2 raised to the $n$ th power minus 1 and denominator 2 raised to the $n$ th power, rounded to the nearest tenth.",
+    "answer": "9"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The competence of a stream is defined as the largest particle that the stream can move. If the velocity of a stream is doubled, then by what factor is the competence multiplied?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "4",
+      "Z": "8"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Going along a river from the headwaters to the mouth, identify whether the following three quantities increase, decrease, or remain the same: 1) flow velocity; 2) discharge; 3) gradient.",
+    "answer": "1) INCREASE; 2) INCREASE; 3) DECREASE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "XIST, a non-coding RNA, plays an essential role in which of the following processes?",
+    "choices": {
+      "W": "Meiosis",
+      "X": "Alternative splicing",
+      "Y": "Receptor-mediated endocytosis",
+      "Z": "Lyonization"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Cyclic electron flow utilizes all of the following except",
+    "choices": {
+      "W": "Ferredoxin",
+      "X": "Plastocyanin",
+      "Y": "Plastoquinone",
+      "Z": "Cytochrome complex"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Om has a furnace, and he wants to use it to melt a lead–tin alloy. However, his furnace only operates at a specific temperature. If Om wishes to completely melt the alloy, the minimum temperature his furnace can be would be at what point on the alloy's phase diagram?",
+    "choices": {
+      "W": "critical point",
+      "X": "lambda point",
+      "Y": "peritectic point",
+      "Z": "eutectic point"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three species by increasing nucleophilicity: 1) OH⁻; 2) SH⁻; 3) CH₃⁻.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National are using machine learning algorithms to search for strong candidates of what effect, where the distortion of light can be used to find distances to celestial objects?",
+    "answer": "GRAVITATIONAL LENSING"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Fermilab are colliding different particles to discover properties of new subatomic particles. In particular, they are colliding fermions due to their numerous special properties. Identify all of the following three statements that are TRUE of fermions: 1) Two fermions can not exist in the same state; 2) Fermions have non-integer spins; 3) Fermions can often be described using the Maxwell-Boltzmann distribution.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four statements that are true regarding spherical geometry: 1) Similar triangles are always congruent; 2) The sum of the measures of the internal angles of a triangle can be any number greater than or equal to 180 degrees; 3) For each line there exists only one line that is parallel to it; 4) A spherical surface always has positive curvature.",
+    "answer": "1 AND 4"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Give the expression for the indefinite integral of $2x$ times the sine of open parenthesis $x$ squared close parenthesis times the cosine of open parenthesis $x$ squared close parenthesis $\\athrm{dx}$.",
+    "answer": "$1 / 2 \\in^2 (x^2) + C$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "12 train cars are connected to each other. A force of 15 newtons is applied to the first train car. What is the force that the seventh train car exerts on the eighth train car?",
+    "answer": "5 NEWTONS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Alice wants to shoot a cannonball at a target 50 meters away and 40 meters off the ground. She wants to hit it so that the cannonball reaches it at the top of its trajectory. What is the tangent of the angle that she needs to shoot the cannonball at from the horizontal so that she is able to accomplish this?",
+    "answer": "1.6"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three acids by increasing pKa: 1) acetic acid; 2) dichloroacetic acid; 3) trichloroacetic acid.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "According to MO theory, find the number of filled pi star molecular orbitals in $\\athrm{N}_2$.",
+    "answer": "0"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In a binary star system, one of the stars has a mass of 50 solar masses. If the reduced mass of the system is 40 solar masses, in terms of solar masses, what is the mass of the other star?",
+    "answer": "200"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In spectroscopic binary systems, emission or absorption lines allow astronomers to observe two stars. What effect allows astronomers to deduce the existence of multiple stars in these systems?",
+    "answer": "DOPPLER EFFECT"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Sahil's parents took him to a buffet instead of the eye doctor, and because he wanted to turn into the superhero Sailman, he decided to eat a lot of food. However, he accidentally ate too much and may have overdosed on certain vitamins. Identify all of the following four vitamins on which Sahil could have overdosed without it being lethal: 1) ascorbic acid; 2) retinol; 3) cholecalciferol; 4) pyridoxine.",
+    "answer": "1 AND 4"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a dihybrid cross between a wild-type F1 fruit fly and a homozygous recessive fruit fly where the genes for body color and wing size are linked, 592 offspring are wild type, 617 are black vestigial, 281 are gray vestigial, and 310 are black normal. Rounded to the nearest centimorgan, determine the distance between the loci of these two genes.",
+    "answer": "33"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The graph of a quadratic equation with leading coefficient 1 and roots 1 and 3 is shifted up 1 unit on the Cartesian plane. Identify all distinct roots of the shifted graph.",
+    "answer": "2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the remainder when 2021 to the 2021st power to the 2021st power is divided by 2022?",
+    "answer": "2021"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An object's position as a function of time is given as $x$ of $t$ equals 4 times the sine of open parenthesis 3 times $t$ over 2 close parenthesis. What is the angular frequency of oscillations of the object?",
+    "answer": "3/2"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle of charge 10 coulombs is shot perpendicular into a uniform magnetic field of strength 12 milliteslas. The particle has a mass of 1.25 kilograms and is shot at 48 meters per second. Find the radius of the path, in meters, that the particle takes.",
+    "answer": "500 METERS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Idaho National Lab are researching the efficiency and applications of different types of fuel cells. Which of the following is not a limitation of proton exchange membrane fuel cells?",
+    "choices": {
+      "W": "Size",
+      "X": "Water management",
+      "Y": "Catalyst vulnerability",
+      "Z": "Operating temperature"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Los Alamos National Lab are studying how plane waves propagate. They are investigating what vector defined to be the electric field crossed with the magnetic field divided by the permeability of free space?",
+    "answer": "POYNTING VECTOR"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the most common form of stalactites?",
+    "choices": {
+      "W": "Flowstones",
+      "X": "Lavacicles",
+      "Y": "Speleothems",
+      "Z": "Speleogens"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following phases best describes what superior planets are almost always viewed at from the perspective of an inferior planet?",
+    "choices": {
+      "W": "New",
+      "X": "Crescent",
+      "Y": "Gibbous",
+      "Z": "Full"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Poor hybridization in compounds may result in high p-character of orbitals used for bonds, resulting in approximately what bond angle, in degrees?",
+    "answer": "90"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following radicals by decreasing stability: 1) allylic; 2) secondary; 3) vinylic; 4) benzylic.",
+    "answer": "4, 1, 2, 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a secondary messenger in cellular signal transduction pathways?",
+    "choices": {
+      "W": "Inositol triphosphate",
+      "X": "Diacylglycerol",
+      "Y": "Cyclic AMP",
+      "Z": "Phosphatidylcholine"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What ion is secretin [secrete-IN] responsible for stimulating the release of from the pancreas?",
+    "answer": "BICARBONATE"
+  }
+]

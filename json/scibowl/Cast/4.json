@@ -1,0 +1,466 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions is not differentiable over its domain?",
+    "choices": {
+      "W": "\\\\in (x)\\",
+      "X": "\\\\n (x)\\",
+      "Y": "\\\\athrm{x}^{2} + 4\\athrm{x} + 5\\",
+      "Z": "\\\\athrm{x}^{2 / 3}\\"
+    },
+    "answer": "Z) \\\\athrm{x}^{2 / 3}\\"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the integral from -π/2 to π/2 of sin(|x|) (read: sine of the absolute value of x).",
+    "answer": "2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What outer region of the solar system is the source of long-source comets?",
+    "answer": "OORT CLOUD"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Oort cloud only extends to the edge of the Sun’s sphere of gravitational influence, beyond which galactic gravitational forces are dominant. Which of the following terms best characterizes that sphere of influence for any given astronomical object?",
+    "choices": {
+      "W": "Roche sphere",
+      "X": "Hill sphere",
+      "Y": "Tidal sphere",
+      "Z": "Bow sphere"
+    },
+    "answer": "X) HILL SPHERE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at SLAC Accelerator National Lab are studying endocrine and metabolic disorders. If not enough vasopressin is being secreted by the body, what gland can be most expected to be functioning improperly?",
+    "answer": "POSTERIOR PITUITARY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Oak Ridge National Lab are studying the thyroid gland. What disease is characterized by an enlarged thyroid, puffy eyes, and hyperthyroidism?",
+    "choices": {
+      "W": "Goiter",
+      "X": "Graves' Disease",
+      "Y": "Hashimoto's disease",
+      "Z": "Thyroid nodule"
+    },
+    "answer": "X) GRAVES' DISEASE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Anurag, the father, is heterozygous for a certain trait that Brandon, the mother, is homozygous dominant for. If they have a child, which of the following disorders would be impossible for the baby to get?",
+    "choices": {
+      "W": "Neurofibromatosis",
+      "X": "Marfan syndrome",
+      "Y": "Kearns-Sayre Syndrome",
+      "Z": "Phenylketonuria"
+    },
+    "answer": "Z) PHENYLKETONURIA"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "All calico cats have a barr body. The results of this phenomenon are best related to which of the following?",
+    "choices": {
+      "W": "Point coloration",
+      "X": "Polygenic traits",
+      "Y": "Mosaicism",
+      "Z": "Genetic Linkage"
+    },
+    "answer": "Y) MOSAICISM"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would be the predicted bond order of oxidoboron, with chemical formula BO?",
+    "choices": {
+      "W": "1",
+      "X": "1.5",
+      "Y": "2",
+      "Z": "2.5"
+    },
+    "answer": "Z) 2.5"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the highest occupied molecular orbital, or HOMO, in carbon monoxide?",
+    "choices": {
+      "W": "\\\\igma_{2\\athrm{p}}\\",
+      "X": "\\\\igma_{2\\athrm{p}}^{*}\\",
+      "Y": "\\\\i_{2\\athrm{p}}\\",
+      "Z": "\\\\i_{2\\athrm{p}}^{*}\\"
+    },
+    "answer": "W) \\\\igma_{2\\athrm{p}}\\"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two charged particles of negligible mass exert a Coulombic force towards each other of magnitude F. If the charge on each particle doubles, and the distance between the particles quadruples, what is the new force the particles exert on each other?",
+    "answer": "F/4"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two charged particles, both with charge Q, are repulsed by an electrostatic force of magnitude F. The charge on one particle increases, and the charge on the other particle decreases by the same amount, so that the sum of the charges is still 2Q. If the new force is still repulsive, but only has magnitude F/2, find the charge, in terms of Q, of the particle with the heavier charge.",
+    "answer": "\\\\rac{2 + \\qrt{2}}{2}\\athrm{Q}\\"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many distinct complex roots of the equation \\\\athrm{x}^{64} - \\athrm{x}^{32} = 0\\ are there?",
+    "answer": "33"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Centennial High School's football team has a record of 12-24. After Brandon joins the team, they have a \\75\\\\ chance of winning. What is the probability that the team will win at least 2 of the next 5 games?",
+    "answer": "63/64"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which one of the following is an aggregate fruit?",
+    "choices": {
+      "W": "Pineapple",
+      "X": "Strawberry",
+      "Y": "Fig",
+      "Z": "Tomato"
+    },
+    "answer": "X) STRAWBERRY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 4 characteristics that are not usually found in asparagus: 1) Cambium; 2) Taproot; 3) Leaves that follow Kranz anatomy; 4) PEP carboxylase as a means of carbon fixation.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Lab are studying the applications of high temperature superconductors, including uses in maglev train technology. What effect causes all external magnetic fields to be expelled from a superconductor?",
+    "answer": "MEISSNER EFFECT"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the National Renewable Energy Laboratory have been studying ways to overcome the challenge of forming high temperature superconductors into wires. This was not a challenge with traditional conductive materials like copper because of what property?",
+    "answer": "DUCTILITY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "During what geological period did the majority of the materials that form lignite originate from?",
+    "answer": "CARBONIFEROUS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Classify each of the following rocks as either metamorphic, sedimentary, or igneous: 1) Garnet Schist 2) Slate 3) Diorite 4) Quartzite",
+    "answer": "METAMORPHIC, METAMORPHIC, IGNEOUS, METAMORPHIC"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Walden inversion is a phenomenon characteristic to which of the following reaction mechanisms?",
+    "choices": {
+      "W": "SN1",
+      "X": "SN2",
+      "Y": "E1",
+      "Z": "E2"
+    },
+    "answer": "X) SN2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Potassium tert-butoxide reacts with 2-bromo-3-methylpentane in an E2 reaction. What is the major organic product formed?",
+    "answer": "3- METHYL PENT- 1- ENE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a particle with mass \\1\\athrm{kg}\\ is at the point (0,0) on the xy-plane, moving in the positive x direction with velocity 10 meters per second, and it feels a force with magnitude 5 Newtons in the positive y direction, what will be its position after 10 seconds?",
+    "answer": "(100, 250)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "According to Noether's theorem, because the laws of physics are invariant under time translation, what fundamental principle of physics must be true?",
+    "answer": "CONSERVATION OF ENERGY"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let \\\\athrm{p(x)}\\ be a polynomial with roots \\\\athrm{x} = 2\\ and \\\\athrm{x} = 6\\ . What are the roots of \\\\athrm{p(x^2 - x)}\\ ?",
+    "answer": "- 2, - 1, 2, 3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "There are 3 green, 3 red, and 3 blue marbles in a bag. If I draw 3 marbles at random, what is the probability I draw 1 red, 1 green, and 1 blue marble in any order?",
+    "answer": "9/28"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of Kepler's laws is closest to the law of conservation of angular momentum?",
+    "answer": "KEPLER'S SECOND LAW"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A satellite in an elliptical orbit with semimajor axis R and semiminor axis R/3 has kinetic energy K at apogee. What is the kinetic energy of the satellite, in terms of K, at perigee?",
+    "answer": "9K"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Laboratory are studying the pigments carried by some protists. Dinoflagellates cause what phenomenon, often characterized by a discoloration in the affected body of water?",
+    "answer": "RED TIDE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Oak Ridge National Laboratory are studying methods of bioremediation. Which of the following terms best describes coke adding cultured microorganisms into the subsurface?",
+    "choices": {
+      "W": "Biosparging",
+      "X": "Bioaugmentation",
+      "Y": "Bioslurping",
+      "Z": "Biostimulation"
+    },
+    "answer": "X) BIOAUGMENTATION"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding endocrine hormones is TRUE?",
+    "choices": {
+      "W": "Follicle-stimulating hormone is made by the hypothalamus",
+      "X": "Cushing syndrome is caused by an abnormal level of cortisol",
+      "Y": "Ghrelin is responsible for glyceroneogenesis in the body",
+      "Z": "The precursor to melatonin is tyrosine"
+    },
+    "answer": "X) CRUSHING SYNDROME IS CAUSED BY AN ABNORMAL LEVEL OF CORTISOL"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify the types of cells in the Pancreas that secrete each of the following hormones: 1) Somatostatin 2) Amylin 3) Ghrelin 4) Pancreatic polypeptide",
+    "answer": "DELTA, BETA, EPSILON, PP CELLS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the density of mercury is \\13.5 \\athrm{g / mL}\\ , how high would a barometer filled with water read at atmospheric pressure, to 1 significant figure in meters?",
+    "answer": "10"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A rigid cylinder fitted with a piston is filled with 0.1 moles of carbon dioxide and 0.1 moles of dry ice with negligible volume at 1 atmosphere. The piston is then lifted such that the volume inside the cylinder is quadrupled. What is the new pressure inside of the cylinder, in atmospheres?",
+    "answer": "0.5"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 4 quantities which are in units of \\\\athrm{kg m / s? 1)}\\ Impulse; 2) Energy; 3) Force; 4) Momentum.",
+    "answer": "1 AND 4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If Bob applies a force on an object with a magnitude of 5 Newtons, and the object travels a distance of 4 meters, which of the following is not a possible value for the work, in Joules, that Bob does on the object?",
+    "choices": {
+      "W": "- 14",
+      "X": "0",
+      "Y": "14",
+      "Z": "28"
+    },
+    "answer": "Z) 28"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Triangle ABC has an area of 17. Side AB has a length of 5, and side BC has a length of 8. What is the sine of angle B?",
+    "answer": "17/20"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two chords AB and CD of a circle intersect at point E. Given that E is the midpoint of CD, \\\\athrm{AE} = 2\\ , and \\\\athrm{BE} = 18\\ , what is the value of CD?",
+    "answer": "12"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about the Earth's atmosphere is FALSE?",
+    "choices": {
+      "W": "Meteors burn up in the mesosphere",
+      "X": "The ozone layer is in the stratosphere",
+      "Y": "Particles in the exosphere frequently escape into space",
+      "Z": "Temperature in the thermosphere decreases with height"
+    },
+    "answer": "Z) TEMPERATURE IN THE THERMOSPHERE DECREASES WITH HEIGHT"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What kind of clouds are most commonly known for forming underneath other clouds?",
+    "choices": {
+      "W": "Nimbostratus",
+      "X": "Lenticular",
+      "Y": "Noctilucent",
+      "Z": "Mammatus"
+    },
+    "answer": "Z) MAMMATUS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What protein, often used by newborns to combat heat loss, is found in brown adipose tissue?",
+    "answer": "THERMOGENIN"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Air moves unidirectionally through what long tubes that are the most important airways in a bird's lungs?",
+    "answer": "PARABRONCHI"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A ball is dropped from a height h, and it hits the ground with velocity v sub h. If a ball is dropped from a height h, and another ball is thrown from the ground with initial velocity v sub h, at which height will the balls hit each other?",
+    "choices": {
+      "W": "Between 0 and \\\\athrm{h} / 2\\",
+      "X": "At \\\\athrm{h} / 2\\",
+      "Y": "Between \\\\athrm{h} / 2\\ and h",
+      "Z": "Indeterminate"
+    },
+    "answer": "Y) BETWEEN H/2 AND H"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A person who weighs 120 pounds stands on a scale in an elevator. When the elevator accelerates downwards with acceleration a, the scale shows a weight of 100 pounds. What weight does the scale show when the elevator accelerates upward with acceleration 2a?",
+    "answer": "160"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the coordination number of the atoms in a sample of pure iron?",
+    "choices": {
+      "W": "4",
+      "X": "6",
+      "Y": "8",
+      "Z": "12"
+    },
+    "answer": "Y) 8"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The element TWICE-ium has a molar mass of 100 and takes a simple cubic lattice. Given that TWICE-ium has an atomic radius of 100 picometers and assuming Avogadro's number is \\6*10^{23}\\ , what is the density of TWICE-ium in grams per cubic centimeter, to 1 significant figure?",
+    "answer": "20"
+  }
+]

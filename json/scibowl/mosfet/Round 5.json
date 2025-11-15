@@ -1,0 +1,478 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two sound waves with frequencies of 230 hertz and 240 hertz interfere with each other. What is the beat frequency of the resultant wave?",
+    "answer": "10 HERTZ"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT an example of systematic error?",
+    "choices": {
+      "W": "A scale randomly differs by a few grams for each measurement",
+      "X": "The Earth is not a perfect sphere when calculating the local acceleration of gravity",
+      "Y": "A spring does not precisely follow Hooke's law",
+      "Z": "The molar mass of an element has a small margin of error"
+    },
+    "answer": "W) A scale randomly differs by a few grams for each measurement"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Lysozymes are responsible for the destruction of bacterial cell walls because they catalyze the hydrolysis of which of the following polymers?",
+    "choices": {
+      "W": "Cellulose",
+      "X": "Chitin",
+      "Y": "Peptidoglycan",
+      "Z": "Amylose"
+    },
+    "answer": "Y) PEPTIDOGLYCAN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What compound adds two carbons to oxaloacetate in the citric acid cycle to form citrate?",
+    "answer": "ACETYL-COA"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term is used to describe the depth zone of the ocean in which photosynthesis can occur?",
+    "answer": "PHOTIC ZONE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A star with a mass of 4 solar masses fuses hydrogen into helium through what specific six-stage sequence of reactions?",
+    "answer": "CNO CYCLE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A fair coin is flipped and lands tails. What is the probability that each of the next two coin flips also land tails?",
+    "answer": "$\\rac{1}{4}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A sequence is defined by $a_{1} = 1$, $a_{2} = 3$, and for $n > 0$, $a_{n + 2} = 3a_{n + 1} - 2a_{n}$. What is the value of $a_{5}$?",
+    "answer": "31"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements will have the greatest electronegativity difference when bonded to fluorine?",
+    "choices": {
+      "W": "Boron",
+      "X": "Carbon",
+      "Y": "Nitrogen",
+      "Z": "Oxygen"
+    },
+    "answer": "W) BORON"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The reaction A yields B is known to be a third order reaction with respect to A. How many times as fast will the reaction be if the initial concentration of A is tripled?",
+    "answer": "27"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison have been studying the application of metamaterials in our everyday lives. Metamaterials are important because they often have a negative value for what dimensionless number, defined as the speed of light in a vacuum over the phase velocity of the light in the material?",
+    "answer": "INDEX OF REFRACTION"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Iowa State University are studying the effects egg consumption has on those with Type 2 diabetes. Which of the following statements correctly describes Type 2 Diabetes?",
+    "choices": {
+      "W": "The body is unable to produce any insulin",
+      "X": "The body is unable to produce any glucagon",
+      "Y": "The body is able to produce some insulin, but it isn't enough or cells are resistant",
+      "Z": "The body is able to produce some glucagon, but it isn't enough or cells are resistant"
+    },
+    "answer": "Y) THE BODY IS ABLE TO PRODUCE SOME INSULIN, BUT IT ISN'T ENOUGH OR CELLS ARE RESISTANT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What quantity equals the area under a curve on a P-V diagram?",
+    "answer": "WORK"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following substances has the largest average distance between molecules at room temperature?",
+    "choices": {
+      "W": "Aluminum",
+      "X": "Glass",
+      "Y": "Water",
+      "Z": "Neon"
+    },
+    "answer": "Z) NEON"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What functional unit of the kidney controls the concentration of soluble substrates in urine via absorption and secretion?",
+    "answer": "NEPHRON"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Blood is classified as which of the following types of tissue?",
+    "choices": {
+      "W": "Connective",
+      "X": "Epithelial",
+      "Y": "Muscular",
+      "Z": "Nervous"
+    },
+    "answer": "W) CONNECTIVE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals is an iron ore?",
+    "choices": {
+      "W": "Dolomite",
+      "X": "Galena",
+      "Y": "Cinnabar",
+      "Z": "Hematite"
+    },
+    "answer": "Z) HEMATITE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A stellar object has a parallax angle measurement of 0.25 arcseconds. To the nearest integer, how far away, in light years, is the object?",
+    "answer": "13"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many digits does 10 to the 2020th power have?",
+    "answer": "2021"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the magnitude of the complex number $a + 5i$ is equal to 6, then what is the absolute value of $a$?",
+    "answer": "$\\qrt{11}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "According to VSEPR theory, what is the molecular geometry of nitrogen dioxide?",
+    "answer": "BENT"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements most accurately describes the Aufbau principle?",
+    "choices": {
+      "W": "Electrons will occupy previously unoccupied orbitals before pairing up",
+      "X": "Electrons can not have the same set of quantum numbers",
+      "Y": "Electrons treat degenerate orbitals as the same",
+      "Z": "Electrons will occupy the lowest energy orbital as they are filled"
+    },
+    "answer": "Z) ELECTRONS WILL OCCUPY THE LOWEST ENERGY ORBITAL AS THEY ARE FILLED"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the University of Florida's Department of Astronomy are studying the diversity of planetary systems orbiting red dwarfs. To which of the following spectral classes do red dwarfs belong?",
+    "choices": {
+      "W": "O",
+      "X": "B",
+      "Y": "F",
+      "Z": "M"
+    },
+    "answer": "Z) M"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Bartlett group at UF have studied the photoelectron spectrum of polyethylene. How many hydrogen atoms does a single molecule of ethylene have?",
+    "answer": "4"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pairs of particles will annihilate upon collision?",
+    "choices": {
+      "W": "Electron and positron",
+      "X": "Proton and neutron",
+      "Y": "Electron and photon",
+      "Z": "Photon and positron"
+    },
+    "answer": "W) ELECTRON AND POSITRON"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that are considered thermodynamic state functions: 1) Work; 2) Heat; 3) Internal energy.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What form of genetic drift occurs when a new population is formed with a different gene pool from the original population?",
+    "answer": "FOUNDER EFFECT"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following structures would a photon passing through the eye reach last?",
+    "choices": {
+      "W": "Retina",
+      "X": "Lens",
+      "Y": "Cornea",
+      "Z": "Vitreous humor"
+    },
+    "answer": "W) RETINA"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What process takes place when soluble particles in soil are washed out and redeposited in a lower layer, often stripping topsoil of nutrients?",
+    "answer": "LEACHING"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three metamorphic rocks by increasing metamorphic grade: 1) Gneiss; 2) Phyllite; 3) Slate.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Suppose two planes intersect in 3D space. Which of the following best describes the intersection of the two planes?",
+    "choices": {
+      "W": "A single point",
+      "X": "A single line",
+      "Y": "Two parallel lines",
+      "Z": "Two intersecting lines"
+    },
+    "answer": "X) A SINGLE LINE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "9 people go to a party. If each person shakes hands with every other person exactly once, how many handshakes will occur?",
+    "answer": "36"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three species that appear in the equilibrium constant expression for the reaction of solid carbon and oxygen gas to form carbon dioxide gas: 1) C; 2) $\\athrm{O}_2$; 3) $\\athrm{CO}_2$.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following species is NOT colorless when dissolved in water?",
+    "choices": {
+      "W": "NaCl",
+      "X": "KMnO4",
+      "Y": "ZnCl2",
+      "Z": "KBr"
+    },
+    "answer": "X) KMnO4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Colina research group at UF are using organic microporous materials for use in separating and storing small gases. Which of the following gases are they LEAST likely dealing with?",
+    "choices": {
+      "W": "$\\athrm{H}_2$",
+      "X": "$\\athrm{N}_2$",
+      "Y": "$\\athrm{C}_3\\athrm{H}_8$",
+      "Z": "$\\athrm{O}_2$"
+    },
+    "answer": "Y) $\\athrm{C}_3\\athrm{H}_8$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the University of Chicago are studying how complex protein structures with no purpose can accumulate over time in organisms. What term best describes a structure that has no functional purpose in an organism?",
+    "answer": "VESTIGIAL"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "According to the second law of thermodynamics, which of the following quantities of the universe cannot decrease?",
+    "choices": {
+      "W": "Volume",
+      "X": "Enthalpy",
+      "Y": "Temperature",
+      "Z": "Entropy"
+    },
+    "answer": "Z) ENTROPY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The position of a particle in terms of time, $t$, is described by the equation $\\athbf{x}(t) = t^2 + 4t + 3$. What is the change in position of the particle from $t = 1$ to $t = 2$?",
+    "answer": "7"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What process do neutrophils and macrophages use to engulf and digest large particles such as microbes?",
+    "answer": "PHAGOCYTOSIS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a primary function of the kidneys?",
+    "choices": {
+      "W": "Production of vitamin D",
+      "X": "Filtration of blood",
+      "Y": "Regulation of blood pressure",
+      "Z": "Storage of glycogen"
+    },
+    "answer": "Z) STORAGE OF GLYCOGEN"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What pulsating stars, which can be used as standard candles, have a larger period and luminosity than the related RR Lyrae variables?",
+    "answer": "CEPHEID VARIABLES"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Dolomite's chemical formula is different from calcite because dolomite also contains what element that is not found in calcite?",
+    "answer": "MAGNESIUM"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A point has the coordinates (5, 3). It is reflected across the y-axis and translated 2 units up. What are the coordinates of the new point?",
+    "answer": "(-5, 5)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A standard die is rolled twice. What is the probability that the sum of the two rolls equals 7?",
+    "answer": "$\\rac{1}{6}$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gas laws is not represented in the combined gas law?",
+    "choices": {
+      "W": "Boyle's law",
+      "X": "Gay Lussac's law",
+      "Y": "Henry's law",
+      "Z": "Charles's law"
+    },
+    "answer": "Y) HENRY'S LAW"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When carbon tetrachloride and water are mixed together, a layer of water forms over a layer of carbon tetrachloride. Which of the following occurs when iodine crystals are dissolved in this mixture?",
+    "choices": {
+      "W": "Iodine dissolves in water because iodine is polar",
+      "X": "Iodine dissolves in water because iodine is non-polar",
+      "Y": "Iodine dissolves in carbon tetrachloride because iodine is polar",
+      "Z": "Iodine dissolves in carbon tetrachloride because iodine is non-polar"
+    },
+    "answer": "Z) IODINE DISSOLVES IN CARBON TETRACHLORIDE BECAUSE IODINE IS NON-POLAR"
+  }
+]

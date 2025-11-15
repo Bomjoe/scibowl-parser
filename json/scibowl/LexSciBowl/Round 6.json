@@ -1,0 +1,430 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the University of Southampton are studying chaotic physical phenomena, including turbulence. What dimensionless quantity quantifies the turbulence of a fluid?",
+    "answer": "REYNOLDS NUMBER"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Los Alamos National Laboratory are studying the Quantum Butterfly effect. The butterfly effect is named after what quintessential demonstration of chaos theory?",
+    "answer": "LORENZ ATTRACTOR (ACCEPT: LORENZ SYSTEM)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "An orchid mantis that disguises itself as a bright flower to lure prey exhibits what kind of mimicry?",
+    "choices": {
+      "W": "Batesian",
+      "X": "Mullerian",
+      "Y": "Peckhamian",
+      "Z": "Self"
+    },
+    "answer": "Y) PECKHAMIAN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What kind of symbiotic relationship is exhibited between the bread mold Penicillium and certain bacteria?",
+    "answer": "ANTIBIOSIS (ACCEPT: ANTAGONISM, AMENSALISM)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 4 changes to a standard copper-zinc galvanic cell that would increase the measured cell potential: 1) Increasing the concentration of copper (II); 2) Decreasing the concentration of copper (II); 3) Increasing the concentration of zinc (II); 4) Decreasing the concentration of zinc (II).",
+    "answer": "1 AND 4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "At 298 K, a concentration cell with two solutions of $\\athrm{Ag^{+}}$ has a measured cell potential of 0.075 V. To one significant figure, by what factor must the concentration of the more concentrated cell be multiplied by to double the measured cell potential?",
+    "answer": "20"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two particles have both charge and mass, and feel an attractive force of F to each other, which is a combination of the electrostatic force and the gravitational force. When the charge of one particle is doubled, the two particles feel an attractive force of 4F/3 towards each other. If the charges of the particles had remained at their original values, but the mass of one particle was doubled instead, then what would be the force the particles felt towards each other?",
+    "answer": "5F/3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A car with mass 2,000 kg is driving up a ramp with a 30 incline. If the car exerts a force of 10,000 N, and it moves a vertical distance of 10 meters high in 2 seconds, what is the power exerted over those 2 seconds, in Watts?",
+    "answer": "100,000"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "On Anurag's farm, there are chickens and cows. If there are 72 heads and 150 feet not including Anurag, how many chickens are there on Anurag's farm?",
+    "answer": "69"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The product of the factors of $12^{4}$ can be written as $12^{n}$ , where n is a positive integer. What is the value of n?",
+    "answer": "90"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Billie the Blithe Blower blows into a closed pipe that is 2 meters long. Being blithe, Billie wants to know the wavelength of the second lowest note she could blow, in meters. What is it?",
+    "answer": "8/3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Barry the Big Bellower bellows a note at 100 decibels. His friend, Wally the Wimpy Whisperer, who is standing a negligible distance away, wants to join in, so he tries his best and yells a note at 80 decibels. To the nearest integer, what is the intensity, in decibels, of the sound the two produce in combination?",
+    "answer": "100"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the US Department of Energy have been engineering systems of RNA with CAD to study genetic expression in microorganisms. Which of the following is found in prokaryotes?",
+    "choices": {
+      "W": "snRNA",
+      "X": "miRNA",
+      "Y": "RNase P",
+      "Z": "snoRNA"
+    },
+    "answer": "Y) RNASE P"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the US Department of Energy have also been studying TATA box equivalents in prokaryotes. Disregarding 5 prime and 3 prime ends, what is the DNA sequence of that equivalent?",
+    "answer": "TATAAT"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What phylum of fungi do ectomycorrhizal fungi belong to?",
+    "answer": "GLOMEROMYCOTA"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements describing imperfect fungi is FALSE?",
+    "choices": {
+      "W": "They are classified based on the morphological species concept",
+      "X": "They are a polyphyletic group",
+      "Y": "They include fungi that cause athlete's foot",
+      "Z": "They utilize budding processes to reproduce"
+    },
+    "answer": "Z) THEY UTILIZE BUDDING PROCESSES TO REPRODUCE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements shows two near-equal peaks in mass spectrometry?",
+    "choices": {
+      "W": "Fluorine",
+      "X": "Chlorine",
+      "Y": "Bromine",
+      "Z": "Iodine"
+    },
+    "answer": "Y) BROMINE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The base peak in a mass spectrum of 3-pentanone has a mass to charge ratio closest to which of the following?",
+    "choices": {
+      "W": "43",
+      "X": "57",
+      "Y": "71",
+      "Z": "86"
+    },
+    "answer": "X) 57"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If an object of mass m falling through the air with a velocity v experiences a drag force of magnitude F, what is the magnitude of the drag force experienced by an object falling with mass 3m and velocity 4v?",
+    "answer": "16F"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If the air temperature is 70 degrees Fahrenheit, and water takes 5 minutes to cool from 170 degrees Fahrenheit to 120 degrees Fahrenheit, what will its temperature be in 5 more minutes, in degrees Fahrenheit?",
+    "answer": "95"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A brandohedron is a convex polyhedron with 100 vertices and 69 faces. How many edges does a brandohedron have?",
+    "choices": {
+      "W": "167",
+      "X": "168",
+      "Y": "169",
+      "Z": "There is not enough information to determine the answer"
+    },
+    "answer": "W) 167"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "There are 30 different complex numbers z such that $z^{30} = 1$ . For how many of these is $z^5$ a real number?",
+    "answer": "10"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What period of rapid expansion immediately follows the Big Bang?",
+    "answer": "COSMIC INFLATION (ACCEPT: INFLATION)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following four epochs in the history of the universe in chronological order: 1) Grand unification; 2) Planck; 3) Quark; 4) Inflationary.",
+    "answer": "2, 1, 4, 3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Livermore National Laboratory are studying the properties of chemical warfare agents in the gas phase. In the virial expansion, what does the second virial coefficient account for?",
+    "choices": {
+      "W": "Size of the gas particles",
+      "X": "dimerization of gaseous species",
+      "Y": "Bimolecular attraction of particles",
+      "Z": "Trimolecular repulsions of particles"
+    },
+    "answer": "Y) MOLECULAR ATTRACTION OF PARTICLES"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Idaho National Laboratory are studying vapor enriching methods to separate radioactive gases. When separating a 1:1 mixture of Bromine vapor (molar mass 160) and Argon (molar mass 40) via effusion, how many effusion steps are needed to obtain a 16:1 ratio of Argon to Bromine Vapor?",
+    "answer": "4"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What kind of survivorship curve do squirrels follow?",
+    "answer": "TYPE II"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What kind of evolution is illustrated by Red Queen dynamics?",
+    "choices": {
+      "W": "Disruptive selection",
+      "X": "Fluctuating selection",
+      "Y": "Kin selection",
+      "Z": "Sexual dimorphism"
+    },
+    "answer": "X) FLUCTUATING SELECTION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following has the highest boiling point?",
+    "choices": {
+      "W": "Chloromethane",
+      "X": "Dichloromethane",
+      "Y": "Trichloromethane",
+      "Z": "Carbon tetrachloride"
+    },
+    "answer": "Z) CARBON TETRACHLORIDE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Two molecules experience London dispersion forces of magnitude F when at a distance D from each other. In terms of F to one significant figure, what will the magnitude of the London dispersion forces between the two molecules be at a distance 1.5D?",
+    "answer": "0.06F"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a material has an index of refraction of 10 million, to 2 significant figures, how many meters does light travel in the material in 1 minute?",
+    "answer": "1800"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A bar of metal with mass M lies on the x axis between $x = 0$ and $x = 1$ , with the density at a point $x$ being 6 $\\quare$ . What is the $x$ -coordinate of the center of mass of the bar, in terms of M?",
+    "answer": "7/M"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the geometric mean of the roots of $\\athrm{x}^{3} - 11\\athrm{x}^{2} + 34\\athrm{x} - 27?$",
+    "answer": "3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $\\athrm{r}_{1}, \\athrm{r}_{2}, \\athrm{r}_{3}$ be roots of the polynomial $\\athrm{x}^{3} + 5\\athrm{x}^{2} - 4\\athrm{x} + 9$ . What is the value of $1 / \\athrm{r}_{1} + 1 / \\athrm{r}_{2} + 1 / \\athrm{r}_{3}?$",
+    "answer": "4/9"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What region around a rotating black hole drags spacetime and is a means of theoretically extracting energy from black holes?",
+    "answer": "ERGOSPHERE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four spacetime metrics which predict the existence of an ergosphere: 1) Schwarzschild; 2) Kerr; 3) Reissner-Nordstrom; 4) Kerr-Newman.",
+    "answer": "2, 4"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Ignoring spin-spin coupling, how many peaks would a H1 NMR spectrum of 2-butanol have?",
+    "answer": "6"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "An organic compound with formula C4H8O2 shows a single peak in H1 NMR. What is this compound's IUPAC name?",
+    "answer": "1,4- DIOXANE (ACCEPT: 1,4- DIOXACYCLOHEXANE)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following techniques was used extensively in the Human Genome Project?",
+    "choices": {
+      "W": "Next-gen sequencing",
+      "X": "Southern blotting",
+      "Y": "Phage Induction",
+      "Z": "Polymerase Chain Reaction"
+    },
+    "answer": "Z) POLYMERASE CHAIN REACTION"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four things that are used in Sanger Sequencing: 1) DNA Primer; 2) Deoxynucleotides; 3) Buffer; 4) Cations.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "During what era did Laurasia form?",
+    "answer": "MESOZOIC"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the new geologic period currently being proposed to describe the period of which humans have had significant impact on the Earth?",
+    "answer": "ANTHROPOCENE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "If the horizontal and the vertical component of the earth's magnetic field are equal, what is the resulting angle of dip?",
+    "answer": "45 DEGREES"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the theory that explains how Earth gets its magnetic field from convection currents of the molten outer core and the solid inner core?",
+    "answer": "DYNAMO EFFECT"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three shapes that can tessellate the plane: 1) Scalene triangle; 2) Kite; 3) Regular octagon.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the term for the set of numbers in between 0 and 1 with no 1s in their ternary representation?",
+    "answer": "CANTOR SET"
+  }
+]

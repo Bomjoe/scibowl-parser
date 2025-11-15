@@ -1,0 +1,428 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following is closest to the average period of the Madden Julian Oscillation?",
+    "answer": "2 months"
+  },
+  {
+    "question_number": 1,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Pictured below is my favorite rock from my rock collection. It is primarily composed of two minerals both of which have a high specific gravity, and contain sulfur. Answer the following two questions about the rock: 1) What are the two minerals this rock is made of? 2) The darker mineral most commonly forms in what type of mineral deposit?",
+    "answer": "Barite and Sphalerite; Hydrothermal"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The solution for electromagnetic wave propagation in a given waveguide only transmits power above a certain frequency. What is the name of the waves generated below that frequency, which do not carry net power over long distances?",
+    "answer": "Evanescent waves"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What formulation of classical mechanics expresses system evolution as the propagation of an isosurface of the action or principal function through phase space, and is often said to be the classical mechanical analogue to the Schrödinger equation?",
+    "answer": "Hamilton-Jacobi"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When conducting certain kinds of reactions, very strong acids are required. In these cases, differentiating solvents are used to increase the effective acidity of acidic compounds. Which of the following identifies a differentiating solvent for acids and explains why it is differentiating?",
+    "choices": {
+      "W": "NaOH, since it is a good proton acceptor",
+      "X": "$\\athrm{NH_4}^+$ , since it is a good proton donor",
+      "Y": "$\\athrm{CH_3CH_2OH}$ , since it is a weak proton acceptor",
+      "Z": "$\\athrm{CH_3COOH}$ , since it is a weak proton donor"
+    },
+    "answer": "Y) $\\athrm{CH_3CH_2OH}$ , since it is a weak proton acceptor"
+  },
+  {
+    "question_number": 3,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The given diagram shows a unit cell for a compound containing gold and sulfur atoms. Answer the following 3 questions about this compound: 1) Which element is represented by the yellow circles? 2) What is the d electron count of the gold atoms in this crystal? 3) What type of magnetism does this crystal display?",
+    "answer": "Sulfur; 10; diamagnetism"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The function $f$ from the integers to the integers satisfies [f of open parenthesis x plus y close parenthesis equals f of x plus f of y]. Which of the following integers is a possible value of $f(6)$ ?",
+    "choices": {
+      "W": "2020",
+      "X": "2021",
+      "Y": "2022",
+      "Z": "2023"
+    },
+    "answer": "Y) 2022"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that $x$ is a real number such that $x - 4\\qrt{x + 8} = 13$ [x minus 4 times the square root of quantity x plus 8 equals 13], what is the value of $x$ ?",
+    "answer": "41"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A recently formed white dwarf has a mass of 1.2 solar masses. Order the abundances in increasing order of the following 3 elements in the star: 1) Helium 2) Carbon 3) Oxygen",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Pictured below is a radar image of the surface of Titan which shows its peculiar longitudinal dunes. Answer the following two questions about the image: 1) Rather than formation by consistent winds these dunes are formed by bursts of storm winds which flow opposite to the prevailing wind direction. Towards which cardinal direction do these storm winds flow? 2) The sands which form these dunes are much more cohesive than silica sands and are predicted to have a very different composition than the sands found on earth. By mass, what element is likely the primary constituent of these sands?",
+    "answer": "East; Carbon"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Apoptosis is a highly regulated cellular process involving several classes of proteins. Which of the following describes the role of Smac [smack] in apoptosis?",
+    "choices": {
+      "W": "It is an IAP that inhibits apoptosis",
+      "X": "It is a BH3-only member of the Bcl2 [B C L 2] family that promotes apoptosis",
+      "Y": "It is an inhibitor of the endonuclease CAD",
+      "Z": "It is an anti-IAP that promotes apoptosis"
+    },
+    "answer": "Z) It is an anti-IAP that promotes apoptosis"
+  },
+  {
+    "question_number": 6,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Answer the following three questions about the diagram shown below 1) What is the name of this pathway? 2) In what two organelles does this pathway occur in mammals? 3) What is the final product of this pathway, labeled X in the diagram?",
+    "answer": "Beta oxidation; Mitochondria and peroxisomes; Acetyl-CoA"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers with the National Cancer Institute are studying cancer cells and their ability to metabolize ketone bodies. Which of the following molecules is not a carbonyl containing compound that is synthesized from acetyl coa during ketogenesis.",
+    "answer": "$\\eta$ - hydroxy $\\eta$ - methylbutyric acid"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Sandia National Lab are studying the kinetics of chemical reactions. $\\athrm{O}_{2}$ gas, despite being a very good oxidant, has an abnormally low reactivity. Which of the following best explains why?",
+    "choices": {
+      "W": "$\\athrm{O}_{2}$ exists in a triplet state, but can only react after transitioning to a singlet state",
+      "X": "$\\athrm{O}_{2}$ has an abnormally high bond enthalpy, increasing the activation energy",
+      "Y": "Excess p orbital overlap in $\\athrm{O}_{2}$ increases the strength of the double bond",
+      "Z": "Reaction of $\\athrm{O}_{2}$ is very entropically unfavorable"
+    },
+    "answer": "W) $\\athrm{O}_{2}$ exists in a triplet state, but can only react after transitioning to a singlet state"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Vedang is calculating a one-sample z-interval for a proportion. If his confidence level is $95\\$ , then what is the critical value that he used?",
+    "choices": {
+      "W": "1.645",
+      "X": "1.960",
+      "Y": "2.326",
+      "Z": "2.576"
+    },
+    "answer": "X) 1.960"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Vedang is calculating the proportion of grass touchers in Enloe Science Olympiad. If he is calculating a $95\\$ confidence interval based on a sample size of 100 and a sample proportion of 0.1, then to one significant figure, what is his margin of error?",
+    "answer": "0.06"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the group velocity of a wave with dispersion relation $\\mega = 2k^{2} + 3$ and a wavenumber of 2?",
+    "answer": "8"
+  },
+  {
+    "question_number": 9,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The given image shows 4 different wavefunctions for a quantum particle. Answer the following 3 questions about the image: 1) Which of the following 4 wavefunctions is a wavefunction for a quantum harmonic oscillator? 2) What is the ratio between the energy of the quantum harmonic oscillator in part A and the ground state of the same quantum harmonic oscillator? 3) Thanush wishes to decompose this wavefunction into position states. What is the name of the distribution which is the eigenfunction for the position operator?",
+    "answer": "W; 5; Dirac delta function"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following genes is not included in the 4 stem cell “master” genes, also known as the Yamanaka factors? [read slowly]",
+    "choices": {
+      "W": "Foxp2 [f o x p 2]",
+      "X": "Oct3/4 [o c t 3 slash 4]",
+      "Y": "Sox2 [s o x 2]",
+      "Z": "Klf4 [k l f 4]"
+    },
+    "answer": "W) Foxp2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In Eagles, eye color is controlled by 3 genes and follows polygenic inheritance. When a true breeding red- eyed eagle is crossed with a true breeding white- eyed eagle, the offspring’s eyes are all pink. If two eagles from the F1 generation are crossed, what is the probability the offspring also has pink eyes?",
+    "answer": "5/16"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "There are 120 distinct five-digit integers that can be formed with the digits 3, 4, 5, 6, and 9. What is the average between the least and greatest of these numbers?",
+    "answer": "65556"
+  },
+  {
+    "question_number": 11,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The following analog clock has two hands that can move independently of each other. The clock performs a sequence of hand movements so that on each movement, one of the two hands moves clockwise to the next number on the clock while the other hand does not move. What is the number of sequences of 6 hand movements such that during the sequence, the angle between the two hands is never more than 90 degrees?",
+    "answer": "48"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Taken with respect to the carbonyl, which of the following is closest to the angle measure that a nucleophile would attack a ketone at?",
+    "choices": {
+      "W": "90",
+      "X": "107",
+      "Y": "120",
+      "Z": "180"
+    },
+    "answer": "X) 107"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Compared to standard state and in Joules per mol, what is the difference in chemical potential to two significant figures of the iron atoms in an alloy of iron and carbon where iron has a mol fraction of 0.37 and a temperature of 300 Kelvin?",
+    "answer": "-2500"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In plants, auxin is transported through both polar and nonpolar methods throughout the shoots and roots. In the polar transport of auxin, what specific class of efflux transport proteins are involved with the directional export of auxin from parenchyma cells",
+    "answer": "PIN proteins"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A man is walking by a river when he notices his first cousin drowning in the river. If left alone, his cousin only has a 2/9 chance of survival, as he is not a very good swimmer. However, if the man attempts to rescue his cousin, he has a probability x of succeeding, and if he fails both he and his cousin will drown. What is the minimum value of x for this rescue to be evolutionarily favorable according to Hamilton's rule",
+    "answer": "74/81"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab are studying fusion energy production. What quantity describes the distance over which the electrostatic effects of a charged particle extend in a plasma?",
+    "answer": "Debye length"
+  },
+  {
+    "question_number": 14,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Johns Hopkins University are using the Linac Coherent Light Source at SLAC national lab to study the properties of carbon steels at extreme pressures and temperatures. Shown is the Iron Carbon binary phase diagram. Answer the following questions about carbon steel. Note that you may want to enlarge the image to see fine detail. 1) In the steelmaking process, pure iron is heated to the austenite phase to increase its ability to absorb carbon. What is the crystal system of Austenite? 2) In a certain steelmaking process pure iron is heated to 1350 degrees Celsius and doped with carbon until it fully liquifies. It is then cooled very slowly to ambient conditions. To the nearest tenth of a percent, what are the carbon contents of each phase in the final mixture?",
+    "answer": "FCC; 2.1 and 4.3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true comparing ethene and butadiene: I) The HOMO of butadiene is higher energy than the HOMO of ethene II) The LUMO of butadiene is higher energy than the LUMO of ethene III) The gap between the HOMO and LUMO in butadiene is smaller than the same gap in ethene",
+    "answer": "All"
+  },
+  {
+    "question_number": 15,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Pictured is a IR spectrum for a molecule in carbon tetrachloride solution. Answer the following two questions about the image. 1) What is the molecule depicted in the IR spectrum? 2) When water is added to a solution of this molecule it reacts to completion to form what product?",
+    "answer": "Formaldehyde; Methane-1,1- diol"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 macroscopic variables that define a canonical ensemble: I) Pressure II) Chemical potential III) Temperature",
+    "answer": "III only"
+  },
+  {
+    "question_number": 16,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When charged particles accelerate, the changes in electric field are limited by the speed of light and take time to propagate through space. Shown below are the electric field diagrams of various accelerating positive charges, with all charges either starting or ending with zero velocity. Answer the following two questions about these diagrams: 1) Which of the diagrams corresponds to a particle quickly accelerating from zero initial speed to a relativistic final speed? 2) Which of the diagrams corresponds to a particle decelerating at a moderate rate from a nonrelativistic initial speed to zero final speed?",
+    "answer": "X, V"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Enloe High School are using various machine learning algorithms to analyze the sentiment of human beings. In machine learning, what graphical tool is used to evaluate the performance of a binary classifier by plotting the true positive rate against the false positive rate at various threshold settings?",
+    "answer": "ROC curve"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Lab are studying the process of nuclear decay. Identify all of the following 3 types of decay that can begin and end with a spin-0 nucleus: I) Beta decay II) Gamma decay III) Internal conversion",
+    "answer": "I and III"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A student performs X-ray Diffraction on a sample of optically clear silica glass. Which of the following best describes the diffraction pattern he sees?",
+    "choices": {
+      "W": "Scattered Spots from Laue Diffraction",
+      "X": "A series of rings corresponding to each miller index of silica",
+      "Y": "A few wide diffuse bands",
+      "Z": "No signal"
+    },
+    "answer": "Y) A few wide diffuse bands"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Thanush does a forbidden ritual in his basement and summons a demon that deuterates [dew-ter-ates] all the freshwater on earth! Identify all of the following three changes that would directly result from the deuteration [dew-ter-ation]: I) Stream competency would increase II) Rate of downcutting would increase III) Stream capacity would increase",
+    "answer": "All"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A 2 x 2 matrix, $A$ , can be diagonalized as $PDP^{-1}$ [P D P inverse] where $P$ has entries [2 3 1 2] and $D$ has entries [2 0 0 1]. What is the sum of the eigenvalues of the matrix $A^4$ ?",
+    "answer": "17"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A sound wave is moving through a medium with density of 3 kilograms per meter cubed and speed of sound 120 meters per second. The maximum pressure displacement of the sound wave is 6 Pascals. In Watts per meter squared, what is the average intensity of the sound wave?",
+    "answer": "0.05"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Brian is orbiting 50 kilometers from a neutron star with an angular velocity of 1250 radians per second. If the neutron star is emitting peak radiation at a 3 nanometer wavelength, what is the peak wavelength that Brian sees to the nearest tenth of a nanometer?",
+    "answer": "2.9"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following carbonyl containing compounds from least to greatest reactivity. 1) Acid Anhydride 2) Amide 3) Ester",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ligands would be most likely to create square planar electron geometry when coordinated with a $\\athrm{Ni}^{2 + }$ ion?",
+    "choices": {
+      "W": "CI-",
+      "X": "OH-",
+      "Y": "EDTA",
+      "Z": "CO"
+    },
+    "answer": "Z) CO"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The activation of macrophages by helper T cells is regulated by the release of what specific cytokine?",
+    "answer": "Interleukin 2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "An image of an EKG is shown below. What type of rhythm is shown in this image?",
+    "choices": {
+      "W": "1st Degree Heart Block",
+      "X": "2nd Degree Heart Block",
+      "Y": "3rd Degree Heart Block",
+      "Z": "Atrial Fibrillation"
+    },
+    "answer": "W) 1st Degree Heart Block"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Mercury’s sidereal orbital period is approximately 88 days. To the nearest earth day, what is its sidereal rotational period?",
+    "answer": "59 days"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The rate of star formation in a galaxy is closely related to which of the following powers of the surface gas density",
+    "choices": {
+      "W": "-1",
+      "X": "0.5",
+      "Y": "1.5",
+      "Z": "3"
+    },
+    "answer": "Y) 1.5"
+  }
+]

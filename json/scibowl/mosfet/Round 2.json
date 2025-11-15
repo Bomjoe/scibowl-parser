@@ -1,0 +1,448 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two charged particles are separated by a distance d and experience an electrostatic force F. If the two particles are moved to a new separation of3d, in terms of F, what is the new electrostatic force between the two particles?",
+    "answer": "$\\rac{F}{9}$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Order the following three particles by increasing mass:1) Lithium nucleus;2) Electron;3) Proton.",
+    "answer": "2,3,1"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT one of the three domains of life?",
+    "choices": {
+      "W": "Archaea",
+      "X": "Bacteria",
+      "Y": "Eukarya",
+      "Z": "Plantae"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What substance which is stored in the gallbladder, is essential to the digestion of lipids and fats due to its emulsifying properties?",
+    "answer": "BILE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the process in which new oceanic crust forms between tectonic plates as a result of upwelling?",
+    "answer": "SEAFLOOR SPREADING"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "List all of the following three star types that are correctly matched to their location on the Hertzsprung-Russell diagram:1) Blue supergiant: top right;2) Red giant: top left;3) White dwarf: bottom right.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers is prime?",
+    "choices": {
+      "W": "905",
+      "X": "906",
+      "Y": "907",
+      "Z": "908"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A circle has a radius of6. What is the ratio of its area to its circumference?",
+    "answer": "3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What type of bond is found in diatomic fluorine?",
+    "choices": {
+      "W": "Single bond",
+      "X": "Double bond",
+      "Y": "Triple bond",
+      "Z": "Quadruple bond"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three elements by increasing metallic character:1) Oxygen;2) Potassium;3) Silicon.",
+    "answer": "1,3,2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at UW Madison are studying metal interactions with amide linkages in enzymes in order to develop new drug delivery methods. Amide linkages are most commonly found in what class of macromolecules?",
+    "choices": {
+      "W": "Proteins",
+      "X": "Nucleic acids",
+      "Y": "Carbohydrates",
+      "Z": "Lipids"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Johns Hopkins University are studying the application of certain substances in powering quantum computers in the future. What substances are they studying which are characterized by zero electric resistance?",
+    "answer": "SUPERCONDUCTORS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What circuit element stores energy in an electric field by separating charge?",
+    "answer": "CAPACITOR"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle travels in a circle of radius5 meters and has a constant angular velocity of6 radians per second. What is the centripetal acceleration of the particle?",
+    "answer": "180 $\\text{m/s}^2$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What protein, which contains a porphyrin ring coordinated to an iron atom, transports oxygen molecules in red blood cells?",
+    "answer": "HEMOGLOBIN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following processes do NOT occur in fungi?",
+    "choices": {
+      "W": "Catabolism",
+      "X": "Photosynthesis",
+      "Y": "DNA replication",
+      "Z": "Mitosis"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In what layer of the atmosphere is the ozone layer found?",
+    "answer": "STRATOSPHERE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The collision of black holes releases energy in the form of what type of waves, which travel at the speed of light?",
+    "answer": "GRAVITATIONAL WAVES"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The side length of a cube is doubled. By what factor is the volume of the cube multiplied by?",
+    "choices": {
+      "W": "2",
+      "X": "4",
+      "Y": "6",
+      "Z": "8"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $\\athrm{f}(x) =2x^{2}$ and $\\athrm{g}(x) = x +3$, what is $\\athrm{f}(\\athrm{g}(2))$?",
+    "answer": "50"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements has the highest electronegativity?",
+    "choices": {
+      "W": "Carbon",
+      "X": "Oxygen",
+      "Y": "Silicon",
+      "Z": "Sodium"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many electrons are in p orbitals for an oxygen atom in its ground state?",
+    "answer": "4"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison are studying the oxidation of organic compounds by inorganic oxidants by adding it dropwise into a solution. What is the laboratory procedure for the slow addition into the analyte to determine an unknown concentration of a solution with the use of a burette?",
+    "answer": "TITRATION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Iowa State University’s Department of Geological and Atmospheric Sciences are studying the process of exhumation, which allows ancient oceanic rock to reach the surface. The rock they are studying dates back to what period of the Mesozoic Era, which follows the Jurassic?",
+    "answer": "CRETACEOUS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The momentum of a particle is plotted on the y-axis, and time is plotted on the x-axis. What quantity is represented by the slope of this graph?",
+    "answer": "FORCE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name of a piece of glass that is often triangular in shape and is used to break up light into its different colors?",
+    "answer": "PRISM"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In addition to the chloroplast, what organelle's membrane has an electron transport chain containing ubiquinone?",
+    "answer": "MITOCHONDRIA"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "After mitosis, order the following three phases of the cell cycle from earliest to latest:1) S phase;2) G1 phase;3) G2 phase.",
+    "answer": "2,1,3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Mid-Atlantic Ridge, the East Pacific Rise, and the East African Rift are all examples of what type of plate boundary?",
+    "answer": "DIVERGENT"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true about black holes?",
+    "choices": {
+      "W": "Black holes cannot be binary partners with stars",
+      "X": "The event horizon marks the boundary of a black hole",
+      "Y": "Black holes are at the center of most large galaxies",
+      "Z": "Black holes form from stars with cores of greater than three solar masses"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following points is exactly5 units away from the line $x =3$?",
+    "choices": {
+      "W": "(-2, -8)",
+      "X": "(1,8)",
+      "Y": "(0,4)",
+      "Z": "(3,4)"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two prime numbers sum to15. What is the product of the two numbers?",
+    "answer": "26"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What acid has formula $\\athrm{CH}_3\\athrm{COOH}$ and is the conjugate acid of acetate?",
+    "answer": "ACETIC ACID"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three bonds by increasing length:1) Carbon-carbon single bond;2) Carbon-carbon triple bond;3) Carbon-carbon double bond",
+    "answer": "2,3,1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison are studying how to manufacture better and more efficient photovoltaic cells. Photovoltaic cells are used in what type of renewable energy generation?",
+    "answer": "SOLAR"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at UW Madison are currently studying the applications of photoredox chemical reactions in order to engage otherwise inert chemical groups. Which of the following statements is TRUE about redox reactions?",
+    "choices": {
+      "W": "A species that loses electrons undergoes oxidation",
+      "X": "A species that loses electrons undergoes reduction",
+      "Y": "A species that loses protons undergoes oxidation",
+      "Z": "A species that loses protons undergoes reduction"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name for the type of collision where total kinetic energy is completely conserved?",
+    "answer": "ELASTIC COLLISION"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A parallel plate capacitor with capacitance C consists of two square plates, each with a surface area of16 square centimeters, separated by1 millimeter. If the surface area of each plate is increased to48 square centimeters, then what is the new capacitance of the capacitor?",
+    "answer": "3C"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What cells, which are composed of an axon, are the fundamental units of the brain?",
+    "answer": "NEURONS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "ATP is a derivative of what nucleobase?",
+    "answer": "ADENINE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding stars is true?",
+    "choices": {
+      "W": "Most of a sun-like star's lifetime is spent fusing hydrogen to helium",
+      "X": "Red stars generally have the hottest surface temperatures",
+      "Y": "Stars of high mass tend to have the longest lifetimes",
+      "Z": "Stars of one solar mass will eventually become a neutron star"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term is used to describe large early solar system bodies that collided and combined to create protoplanets?",
+    "answer": "PLANETESIMALS"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A triangle has a50 degree and a60 degree angle. What is the degree measure of the third angle?",
+    "answer": "70"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Solve the following system of equations for $x$ and $y$: $9x - y =2$ and $-2x + y =5$.",
+    "answer": "$x =1$ AND $y =7$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following atomic subshells fits2 electrons?",
+    "choices": {
+      "W": "4s",
+      "X": "2p",
+      "Y": "3d",
+      "Z": "5f"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A photon is emitted from an electron falling from one energy level to another. Which of the following pairs of energy levels would emit a photon with the highest frequency?",
+    "choices": {
+      "W": "$\\athrm{n} =5$ to $\\athrm{n} =3$",
+      "X": "$\\athrm{n} =5$ to $\\athrm{n} =2$",
+      "Y": "$\\athrm{n} =4$ to $\\athrm{n} =2$",
+      "Z": "$\\athrm{n} =4$ to $\\athrm{n} =1$"
+    },
+    "answer": "Z"
+  }
+]

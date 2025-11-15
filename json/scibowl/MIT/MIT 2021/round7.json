@@ -1,0 +1,437 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Lippard group at MIT are studying the potential use of difluoromethyl groups as substitutes for hydroxyl groups due to their ability to participate in what type of interaction?",
+    "answer": "Hydrogen bonding"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Dinca group at MIT are studying the reaction of copper metal organic frameworks with nitric oxide, leading to a disproportionation. What two nitrogen compounds are formed as a result of this reaction?",
+    "answer": "$\\athrm{NO}_2$ and $\\athrm{N}_2\\athrm{O}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Given that an individual has a normal blood pressure of $120\\athrm{mmHg}$ (millimeters mercury) for systole (SIS-tol-lee) and $80\\athrm{mmHg}$ for diastole (dye-AS-tol-lee), which of the following best approximates the mean arterial pressure in terms of mmHg?",
+    "choices": {
+      "W": "80",
+      "X": "90",
+      "Y": "100",
+      "Z": "120"
+    },
+    "answer": "X) 90"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following terms best describes a muscle contraction where the load on the muscle remains constant?",
+    "choices": {
+      "W": "Isotonic",
+      "X": "Isometric",
+      "Y": "Isoferulic",
+      "Z": "Isomeric"
+    },
+    "answer": "W) Isotonic"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Limb Darkening is an optical effect that is caused by the absorption of light by what layer of the sun?",
+    "answer": "Photosphere"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A galaxy is observed to have a redshift of 0.6. At what fraction of the speed of light is the galaxy moving away from the observer?",
+    "answer": "39/89"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A Daniel cell is a galvanic cell in which copper (II) is reduced by zinc. In a Daniel cell with a salt bridge composed of potassium nitrate, what pair of ions accumulate at the anode as the cell generates electricity?",
+    "choices": {
+      "W": "$\\athrm{Zn}^{2 + }$, $\\athrm{K}^{+}$",
+      "X": "$\\athrm{Zn}^{2 + }$, $\\athrm{NO}_{3}^{-}$",
+      "Y": "$\\athrm{Cu}^{2 + }$, $\\athrm{K}^{+}$",
+      "Z": "$\\athrm{Cu}^{2 + }$, $\\athrm{NO}_{3}^{-}$"
+    },
+    "answer": "X) $\\athrm{Zn}^{2 + }$, $\\athrm{NO}_{3}^{-}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many sigma bonds are in a molecule of butane?",
+    "answer": "13"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In a double slit experiment, which of the following changes will cause the interference pattern to become more spread out?",
+    "choices": {
+      "W": "Increasing the wavelength of the light",
+      "X": "Polarizing the light parallel to the direction of the slits instead of using unpolarized light",
+      "Y": "Decreasing the width of each slit",
+      "Z": "Increasing the distance between the slits"
+    },
+    "answer": "W) Increasing the wavelength of the light"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A double slit experiment is set up with two slits with a width 1 micron each and distance of 10 microns between them. The distance to the screen on which a pattern forms is much larger than the distance between the slits. When one of the slits is covered, which of the following statements is true about the new intensity pattern, compared to the old one?",
+    "choices": {
+      "W": "It has a single peak in the location of an old minimum",
+      "X": "It has a single peak in the location of an old maximum",
+      "Y": "It has several peaks, and the closest minimum to the center is at the location of an old minimum",
+      "Z": "It has several peaks, and the closest minimum to the center is at the location of an old maximum"
+    },
+    "answer": "Z) It has several peaks, and the closest minimum to the center is at the location of an old maximum"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the largest possible determinant of a $2 \\times 2$ matrix with all entries being single digit positive integers?",
+    "answer": "80"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many $2 \\times 2$ nonsingular matrices satisfy the property that each of their entries are distinct integers between 1 through 6 inclusive?",
+    "answer": "344"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three layers of the ophiolite complex from top to bottom: 1) Gabbro 2) Pillow basalts 3) Sheeted dike complexes",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What device is associated with the process by which microwave spectral lines are generated by a comet via stimulated emission?",
+    "answer": "Masers"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Niles group at MIT is studying malaria. What genus of mosquito is responsible for transmitting the malaria pathogen?",
+    "answer": "Anopheles"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Niles group at MIT specifically studies heme metabolism by the malaria parasite. What is the name of the ringed structures which surround the iron atom in heme?",
+    "answer": "Porphyrin"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "If the current half-life of a zeroth-order reaction is 10 seconds, how many seconds are required for the reaction to go to completion?",
+    "answer": "20"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Giving your answer as a decimal to the nearest tenth, what is the ratio of the rate of effusion of hydrogen gas at 150 kelvin to that of water vapor at 600 kelvin?",
+    "answer": "1.5"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "As a fraction in simplest form, how many degrees does an hour hand travel in the time it takes for the second hand on a clock to travel halfway around the clock?",
+    "answer": "1/4 degree"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two of the side lengths of a triangle are 10 units and 10 units. How many possible values are there for the third side length if the area of the triangle is an integer number of square units?",
+    "answer": "99"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Untranslated regions, or UTRs, of mRNAs are important in which of the following processes?",
+    "choices": {
+      "W": "Transcript stabilization",
+      "X": "Exon splicing",
+      "Y": "Intron splicing",
+      "Z": "Recognition by tRNA"
+    },
+    "answer": "W) Transcript stabilization"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Poly-A capture is used in single-cell RNA-sequencing to primarily remove what type of RNA?",
+    "answer": "Ribosomal RNA"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In terms of $c$, the speed of light in a vacuum, what is the speed of light in a nonmagnetic material with dielectric constant $k = 4$?",
+    "answer": "$c / 2$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Albert is ice skating on a strange rink with a banked turn banked at an angle of 45 degrees. If this turn has a radius of 2 meters, and using $g$ equals 10 meters per second squared, at what speed in meters per second should 80-kilogram Albert go through the turn so he does not slide up or down the rink?",
+    "answer": "$2\\qrt{5}$ meters per second"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at MIT have experimentally confirmed Hawking's theorem that the surface area of a black hole cannot decrease. According to the Bekenstein-Hawking formula, what thermodynamic quantity of black holes is proportional to their surface area?",
+    "answer": "Entropy"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at MIT used the Wallace Observatory to observe the transit of Mercury. Mercury has the unique property that it is in a spin-orbit resonance with the sun. Which of the following equals the ratio of Mercury's rotational period to its period of revolution?",
+    "choices": {
+      "W": "1 to 2",
+      "X": "2 to 3",
+      "Y": "3 to 4",
+      "Z": "3 to 5"
+    },
+    "answer": "X) 2 to 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers does not divide $3^{12} - 2^{12}$?",
+    "choices": {
+      "W": "5",
+      "X": "7",
+      "Y": "11",
+      "Z": "13"
+    },
+    "answer": "Y) 11"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In 2006, what conjecture in topology was proven by Grigori Perelman, who later declined the 1 million dollar prize from the Clay Institute?",
+    "answer": "Poincaré conjecture"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes a hormone that leads to the release of another hormone?",
+    "answer": "Tropic"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true regarding GFR, or glomerular filtration rate: 1) The renal clearance rate is equivalent to the GFR for inulin, a polysaccharide that's only filtered and not excreted nor secreted 2) Constricting the afferent arteriole leads to an increased GFR 3) Dilating the efferent arteriole leads to increased GFR",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three elements that will be present in absorption spectra of a Type 1c supernova: 1) Hydrogen 2) Helium 3) Oxygen",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the process that involves metamorphism with substantial chemical change by hydrothermal fluids?",
+    "answer": "Metasomatism"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The magnetic field is commonly written as the curl of another quantity, known as the magnetic vector potential. Which of Maxwell's equations mathematically guarantees that this is possible?",
+    "choices": {
+      "W": "Gauss's law for electricity",
+      "X": "Faraday's law",
+      "Y": "Gauss's law for magnetism",
+      "Z": "Ampere-Maxwell law"
+    },
+    "answer": "Y) Gauss's law for magnetism"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four musical instruments that would emit a different range of pitches of sound on Mars than from what they would emit on Earth: 1) Flute 2) Harp 3) Saxophone 4) Xylophone",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the average oxidation state of the sulfur atoms in $\\athrm{Na}_{2}\\athrm{S}_{4}\\athrm{O}_{6}$?",
+    "answer": "$\\rac{5}{2}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry of the central iodine atom in $\\athrm{I}_{3}^{-}$?",
+    "answer": "Linear"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If a force is exerted on an object along the positive $x$-axis, then which of the following could be the torque vector about a pivot that lies on the negative $z$-axis?",
+    "choices": {
+      "W": "$8\\at{j}$",
+      "X": "$-5\\at{j}$",
+      "Y": "$4\\at{i}$",
+      "Z": "$-9\\at{i}$"
+    },
+    "answer": "W) $8\\at{j}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A mass on a spring undergoing simple harmonic oscillation has a maximum displacement of 1.6 meters from equilibrium and a period of 4 seconds. To the nearest meter per second squared, what is the maximum magnitude of the acceleration experienced by the mass?",
+    "answer": "4 meters per second squared"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of ground tissue cells is most likely to contain lignin?",
+    "choices": {
+      "W": "Parenchyma",
+      "X": "Collenchyma",
+      "Y": "Epidermal",
+      "Z": "Sclerenchyma"
+    },
+    "answer": "Z) Sclerenchyma"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the effective population size of a population with 600 females and 400 males?",
+    "answer": "960"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Silver does not dissolve in aqua regia due to passivation from what compound?",
+    "answer": "Silver chloride"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Leah is titrating permanganate solution of unknown concentration by adding excess potassium iodide, followed by backtitration of the liberated iodine with thiosulfate. By name or number, identify all of the following three statements which would lead to the measured concentration of permanganate being lower than the actual concentration: 1) Leah forgets to acidify the permanganate solution 2) Leah accidentally doubles the amount of potassium iodide added 3) Leah rinses her buret with water instead of thiosulfate solution before the back titration",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the product of the greatest common divisor and least common multiple of 12 and 16?",
+    "answer": "192"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Three latitude and three longitude lines are drawn on a globe. How many points on the globe lie on the intersection of two or more of these lines?",
+    "answer": "20"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What word, German for \desert mountains,\ describes the remnants of a mountain after erosion in a late stage desert landscape?",
+    "answer": "Inselbergs"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three rock layers from top to bottom in a typical transgression sequence: 1) Limestone 2) Sandstone 3) Shale",
+    "answer": "1, 3, 2"
+  }
+]

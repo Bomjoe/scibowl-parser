@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An acute triangle ABC is inscribed in a circle with center at point O. If angle ABC is 40 degrees, what is angle AOC?",
+    "answer": "$80$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the minimum value of $2^{n}$ mod 2020 for any positive integer $n$?",
+    "answer": "$2$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In a mid-latitude cyclone, what type of front is formed when the cold front overtakes a warm front?",
+    "answer": "OCCLUDED FRONT"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds likely composes the upper atmospheric clouds on Jupiter?",
+    "choices": {
+      "W": "Methane",
+      "X": "Dimethyl sulfide",
+      "Y": "Hydrogen sulfide",
+      "Z": "Ammonia"
+    },
+    "answer": "Z) AMMONIA"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Real objects do not radiate as much thermal energy as predicted by the Stefan–Boltzmann law. What quantity is equal to the ratio of an object’s measured thermal radiation to its ideal thermal radiation?",
+    "answer": "EMISSIVITY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Electrons can possess magnetic moments due to their spin and orbital angular momentum. What relativistic phenomenon is a result of the interaction between these two?",
+    "answer": "SPIN- ORBIT COUPLING (ACCEPT: SPIN- ORBIT INTERACTION)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Rank the following three ions in terms of decreasing concentration in the intracellular fluid of a resting neuron: 1) $\\athrm{Na^{+}}$ ; 2) $\\athrm{Cl^{-}}$ ; 3) $\\athrm{K^{+}}$ .",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of plant ground tissue that possess secondary cell walls: 1) Parenchyma; 2) Collenchyma; 3) Sclerenchyma.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many normal vibrational modes does one molecule of acetylene have?",
+    "answer": "$7$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three carbon dioxide vibrational modes that are considered to be Raman active: 1) Asymmetric C–O stretch; 2) Symmetric C–O stretch; 3) Symmetrical bend in plane.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are working on new solvent extraction methods that employ magnetic fields to act on paramagnetic metal ions. Identify all of the following three metal ions that are paramagnetic: 1) Na$^{+}$; 2) Cr$^{3+}$; 3) Zn$^{2+}$.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Fermilab are conducting particle physics experiments in order to ascertain information about the early universe. One of their experiments focuses on the conversion of what particles to electrons without the emission of neutrinos?",
+    "answer": "MUONS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Insects secrete what form of nitrogenous waste?",
+    "answer": "URIC ACID"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During inflammation, which class of leukocytes may migrate into the blood to become mast cells and release histamine?",
+    "answer": "BASOPHILS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Solid contours on a high level isobaric chart represent what quantity?",
+    "answer": "ELEVATION (ACCEPT: HEIGHT; ALTITUDE)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following most closely approximates the time of the last geomagnetic reversal, in years?",
+    "choices": {
+      "W": "1,000",
+      "X": "10,000",
+      "Y": "100,000",
+      "Z": "1,000,000"
+    },
+    "answer": "Z) 1,000,000"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds is the least suitable nucleophile for an SN2 reaction?",
+    "choices": {
+      "W": "Ethanol",
+      "X": "Methylamine",
+      "Y": "Sodium iodide",
+      "Z": "Sodium methoxide"
+    },
+    "answer": "W) ETHANOL"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three liquids in terms of increasing viscosity: 1) Mercury; 2) Water; 3) Diethyl ether.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three classes of functions that have a finite Taylor series expansion: 1) Polynomials, 2) Rational functions, 3) Hyperbolic trig functions.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive three-digit integers have a bigger units digit than tens digit?",
+    "answer": "$405$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Lab have been developing methods for performing artificial photosynthesis. In these methods, titanium dioxide is used for the water-splitting reaction that is traditionally catalyzed by what enzyme in plants?",
+    "answer": "OXYGEN- EVOLVING (ACCEPT: WATER- SPLITTING COMPLEX)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Livermore National Lab are using short laser pulses to remove atoms from the surface of metals. Lasers are generated by shooting photons at excited electrons, causing them to relax to their ground state. What is the term for this process?",
+    "answer": "STIMULATED EMISSION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Most jet engines employ which of the following thermodynamic cycles?",
+    "choices": {
+      "W": "Carnot cycle",
+      "X": "Stirling cycle",
+      "Y": "Otto cycle",
+      "Z": "Brayton cycle"
+    },
+    "answer": "Z) BRAYTON CYCLE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding electric field lines: 1) Induced electric field lines form closed loops; 2) Equipotential lines are always parallel to electric field lines; 3) More closely-spaced electric field lines correspond to stronger electric fields.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How many net pi bonds are formed during a sigmatropic rearrangement?",
+    "choices": {
+      "W": "- 1",
+      "X": "0",
+      "Y": "1",
+      "Z": "2"
+    },
+    "answer": "X) 0"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When $\\athrm{H}_{2}$ forms a side-on complex with a tungsten center, which of the following is most likely to occur?",
+    "choices": {
+      "W": "The H-H bond strength decreases because tungsten donates electrons into the H-H sigma star orbital",
+      "X": "The H-H bond strength increases because tungsten donates electrons into the H-H sigma orbital",
+      "Y": "The H-H bond strength decreases because tungsten donates electrons into the H-H pi star orbital",
+      "Z": "The H-H bond strength increases because tungsten donates electrons into the H-H pi orbital"
+    },
+    "answer": "W) THE H-H BOND STRENGTH DECREASES BECAUSE TUNGSTEN DONATES ELECTRONS INTO THE H-H SIGMA STAR ORBITAL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three organelles that are enclosed by a double membrane: 1) Nucleus; 2) Glyoxysome; 3) Chloroplast.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What enzyme in red blood cells is responsible for the rapid conversion of water and carbon dioxide into carbonic acid?",
+    "answer": "CARBONIC ANHYDRASE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A group on the integers mod 256 is abelian. Which of the following operations could NOT be the operation associated with this group?",
+    "choices": {
+      "W": "Addition",
+      "X": "Subtraction",
+      "Y": "Multiplication",
+      "Z": "Binary XOR [ex or]"
+    },
+    "answer": "X) SUBTRACTION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A right trapezoid ABCD has bases AB and CD, and angles ABC and BCD are each 90 degrees. Side BC has length 16, side DA has length 20, and the area of the trapezoid is 400. What is the length of the longer base?",
+    "answer": "$31$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the largest tectonic plate on Earth?",
+    "choices": {
+      "W": "Eurasian plate",
+      "X": "North American plate",
+      "Y": "Pacific plate",
+      "Z": "Indo-Australian plate"
+    },
+    "answer": "Y) PACIFIC PLATE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following stellar spectral classes is most likely associated with an emission nebula?",
+    "choices": {
+      "W": "K",
+      "X": "M",
+      "Y": "G",
+      "Z": "O"
+    },
+    "answer": "Z) O"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Lab are using cryoelectron microscopy to characterize the activated CAS9 guide RNA complex in E. coli. E. coli guide RNA is likely to exhibit sequence specificity for nucleic acids in which of the following organisms?",
+    "choices": {
+      "W": "Treponema pallidum",
+      "X": "T4",
+      "Y": "Plasmodium falciparum",
+      "Z": "HIV"
+    },
+    "answer": "X) T4"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab have been looking for cost-effective ways to enrich molybdenum isotopes. They have developed a method that used parts such as acrylic contractors, which were produced by what technique?",
+    "answer": "3D PRINTING"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Curie’s law states that the magnetization of a paramagnetic sample is directly proportional to what quantity?",
+    "answer": "EXTERNAL MAGNETIC FIELD (ACCEPT: APPLIED MAGNETIC FIELD; MAGNETIC FIELD)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name for devices containing one p–n junction that convert light into electrical current?",
+    "answer": "PHOTODIODE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions best approximates the prime-counting function of $x$?",
+    "choices": {
+      "W": "$x$ over the natural log of $x$",
+      "X": "$x$ over the natural log of the quantity $x^{2}$",
+      "Y": "$x$ over the square root the natural log of $x$",
+      "Z": "$x$ over the square root of the natural log of the quantity $x^{2}$"
+    },
+    "answer": "W) $x$ OVER THE NATURAL LOG OF $x$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the indefinite integral of the tangent squared of $x$ with respect to $x$?",
+    "answer": "$\\tan (x) - x + C$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three solar system bodies that are known to have permanent polar ice caps: 1) Mars; 2) The Earth's moon; 3) Venus.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three features that would usually be associated with an extensional tectonic regime: 1) Graben and horst topography; 2) Normal faulting; 3) Low angle thrust faulting.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Esters can be hydrolyzed under acidic conditions to form carboxylic acids and what other functional group?",
+    "answer": "ALCOHOL"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "For which of the following gas-phase reactions is the change in enthalpy the same as the change in internal energy?",
+    "choices": {
+      "W": "Dissociation of water vapor to form hydrogen and oxygen gas",
+      "X": "Formation of ammonia from hydrogen and nitrogen gas",
+      "Y": "Hydrogenation of ethene to form ethane",
+      "Z": "Formation of carbon dioxide and hydrogen gas from water vapor and carbon monoxide"
+    },
+    "answer": "Z) FORMATION OF CARBON DIOXIDE AND HYDROGEN GAS FROM WATER VAPOR AND CARBON MONOXIDE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "PYY is a hormone that suppresses the action of what hormone released by the walls of the stomach to increase hunger?",
+    "answer": "GHRELIN"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What two monomers collectively compose the polysaccharide peptidoglycan?",
+    "answer": "N- ACETYLMUAMIC ACID AND N- ACETYLGLUCOSAMINE (ACCEPT: NAM AND NAG)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Suppose a charged particle moves with an initial velocity neither parallel nor perpendicular to a uniform magnetic field. What type of curve will be traced out by its resultant motion?",
+    "answer": "HELICAL"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding statistical mechanics: 1) All microstates have equal probability of being occupied: 2) Entropy is proportional to the natural log of the number of microstates; 3) Canonical ensembles have a fixed number of particles.",
+    "answer": "ALL"
+  }
+]

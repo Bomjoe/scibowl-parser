@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Select all of the following 3 groups of protists that have heteromorphic generations: I) Brown Algae II) Plasmodium III) Paramecium",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Select all of the following 4 characteristics that are true of frogs: I) They utilize negative pressure breathing II) They are poikilotherms III) They undergo meroblastic cleavage IV) They have 3 chambered hearts",
+    "answer": "II, IV"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the angle in degrees formed by the minute and hour hands of a clock at 6:30?",
+    "answer": "15"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Nikhil is planning on walking from his house to the 2023 Genshin Expo. Nikhil lives at (0,0) and the Genshin Expo is at (6,4), and can only walk North or East on lattice points. However, he wants to avoid a patch of grass on the way there, which is located at (4,3). How many ways are there for Nikhil to go to the Genshin Expo without touching grass?",
+    "answer": "105"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Calcrete most commonly forms in which of the following Koppen climate classifications?",
+    "choices": {
+      "W": "A",
+      "X": "B",
+      "Y": "C",
+      "Z": "D"
+    },
+    "answer": "X) B"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 minerals by increasing melting point: 1) Anorthite 2) Albite 3) Sanidine",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Princeton University are probing the electronic structures of Iron Germanates under compression in diamond anvil cells at HP-CAT at the Advanced Photon Source in Argonne National Lab. In particular they want to figure out the pressure at which iron in mantel silicates transition from low to high spin. Which of the following techniques do they use to determine this transition?",
+    "choices": {
+      "W": "Mossbauer spectroscopy",
+      "X": "X-ray Fluorescence spectroscopy",
+      "Y": "Electron back-scattering diffraction",
+      "Z": "Positron emission tomography"
+    },
+    "answer": "W) Mossbauer spectroscopy"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Idaho National Laboratory are studying thermophilic archaea found in the hot spring and geysers in Yellowstone and their heat shock proteins. What is the name of the atp dependent group II chaperonin that is considered to be the prototypical archeal chaperonin.",
+    "answer": "Thermosome"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Kaiwen's rocket engine parts have arrived in a box with a total mass of 80 kilograms. He places the box on frictionless wheels and pushes it forwards with a force of 40 Newtons. After 4 seconds of pushing, he accidentally engages the brakes and the box skids away from him with a friction force of 160 Newtons. How far in meters does the box travel after the brakes are engaged?",
+    "answer": "1"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In a gas, both conduction and convection play a role in heat transfer. What quantity, defined as the kinematic viscosity divided by the conductivity, estimates the relative contributions of each type of heat transfer?",
+    "choices": {
+      "W": "Reynold's number",
+      "X": "Prandtl number",
+      "Y": "Stokes number",
+      "Z": "Poisson number"
+    },
+    "answer": "X) Prandtl number"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In a molecule of methylamine, electrons in which of the following hybrid orbitals will have the highest S character?",
+    "choices": {
+      "W": "N lone pair",
+      "X": "C-H bond",
+      "Y": "N-H bond",
+      "Z": "C-N bond"
+    },
+    "answer": "W) N lone pair"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A certain isomer of 10 annulene is planar. How many of its double bonds are cis?",
+    "answer": "3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sukrith is writing down his square roots. He writes down the square root of some integer n to the nearest thousandth. However, he spilled ink on the integer part of the square root! If all he can see is the fractional part, then what is the smallest value of n when the fractional part is equal to [point seven three two]?",
+    "answer": "3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Consider an element of the permutation group $\\athrm{P}^5$ [P five] that maps the sequence 1, 2, 3, 4, 5 to the sequence 4, 5, 3, 2, 1. What is the order of this element?",
+    "answer": "4"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is responsible for the sporadic variability in luminosity of RS Canum Venaticorum variable Stars?",
+    "choices": {
+      "W": "Eddington Valve",
+      "X": "Stellar Surface Features",
+      "Y": "Gravitational Lensing",
+      "Z": "Planetary Transits"
+    },
+    "answer": "X) Stellar Surface Features"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following statements is true of our models of galactic formation and evolution? W) Top-down theory underestimates the high relative frequency of large galaxies X) Bottom-up theory underestimates the high relative frequency of large galaxies Y) Top-down theory correctly estimates the high relative frequency of smaller galaxies Z) Bottom-up theory correctly estimates the high relative frequency of smaller galaxies",
+    "answer": "Z) Bottom up theory correctly estimates the high relative frequency of smaller galaxies"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following enzymes is not used in the energy payoff phase of glycolysis?",
+    "choices": {
+      "W": "Phosphoglyceromutase [foss- fo- gliss- er- o- mut- ase]",
+      "X": "Gluconolactonase [glu- con- o- lac- ton- ase]",
+      "Y": "Enolase",
+      "Z": "Triose Phosphate Dehydrogenase"
+    },
+    "answer": "X) Gluconolactonase"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Using the Lineweaver-Burk equation, what is the ratio of the substrate concentration to the Michaelis constant if the fractional saturation of the enzyme is 2/11?",
+    "answer": "2/9"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Thanush is examining the wavefunction of his pet electron. He notices that at $t = 0$ , his electron has a wavefunction of $\\si (x)$ [psi of x]. He wants to determine the uncertainty of his electron's momentum. To do so, he decomposes the electron's wave function into momentum eigenstates. What mathematical operation does he apply to the wave function to achieve this?",
+    "answer": "Fourier transform"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "One mole of a monatomic ideal gas is kept at constant pressure. Its temperature is increased from 100 Kelvin to 200 Kelvin. In terms of physical constants, what is the change in entropy of the gas?",
+    "answer": "$\\rac{5}{2} R \\n (2)$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What quantity, which is approximately equal to the negative of the Mulliken electronegativity, is defined as the partial derivative of internal energy with respect to particle number?",
+    "answer": "Chemical potential"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions could represent reactant concentration as a function of time for a reaction governed by the rate law [rate equals k times square root of the concentration of A]",
+    "choices": {
+      "W": "[C equals 3 e to the negative 4 t]",
+      "X": "[C equals 4 divided by the quantity 2t plus 5]",
+      "Y": "[C equals open parentheses 3 minus 2t close parentheses squared]",
+      "Z": "[C equals 1 divided by open parentheses 3t plus 1 close parentheses squared]"
+    },
+    "answer": "$Y) C = (3 - 2t)^2$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "According to Andersonian fault theory, which of the following is true of Reverse Faults?",
+    "choices": {
+      "W": "The largest stress is oriented parallel to the direction of strike",
+      "X": "The largest stress is oriented parallel to the vertical",
+      "Y": "The largest stress is oriented parallel to the direction of dip",
+      "Z": "The largest stress is oriented perpendicular to the direction strike and the vertical"
+    },
+    "answer": "X) The largest stress is oriented parallel to the vertical"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 locations by increasing difference in water level between high tide and 12 hours 25 minutes after high tide: 1) Tampa, Florida 2) San Diego, California 3) Wilmington, NC",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The coiling of snail shells is regulated by a maternal effect gene, where a right-handed shell D [big D] is dominant to a left-handed shell d [little d]. If a female snail with genotype Dd [big D little d] is crossed with a male snail of genotype dd [little d little d], what is the expected phenotypic ratio of right handed to left handed snails in the F2 generation?",
+    "answer": "1:1"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Due to a mutation, the GTPase Ran [ran] has stopped functioning. This would most affect the import of molecules into what organelle?",
+    "answer": "Nucleus"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the National Institute of Health and the CDC are studying various antigens with ELISA [eh - lie - sa]. Which of the following types of ELISA is considered to be both highly sensitive and highly specific.",
+    "choices": {
+      "W": "Direct",
+      "X": "Indirect",
+      "Y": "Sandwich",
+      "Z": "Competitive"
+    },
+    "answer": "Y) Sandwich"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Scientists at NASA have recently launched the James Webb space telescope which has started to take ultra high resolution images of space. Which of the following is the primary contributor to the loss of resolving power in modern telescopes as determined by the Rayleigh criterion? W) Chromatic Aberration X) Diffraction through the objective Y) Diffraction through the focus Z) Lens Impurity",
+    "answer": "X) Diffraction through the objective"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 pairs of vector quantities that must always be collinear: I) Angular velocity and angular momentum II) Relativistic force and relativistic acceleration III) Velocity and relativistic momentum",
+    "answer": "III only"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 potential energy functions that could create closed orbits that obey Kepler's second law: \n\n\n$$\\athrm{I)~}U = 1 / r^{2}$$ $$\\athrm{II)~}U = r^{2}$$ $$\\athrm{III)~}U = \\rctan (r)$$",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $M, A, T,$ and $H$ are positive integers such that $M^{2} + A^{2} = 74$ and $T^{2} + H^{2} = 41$ , what is the value of $M + A + T + H$ ?",
+    "answer": "21"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let a two digit number $AB$ be nice if the sum of the product of the digits and the sum of the digits of the number is equal to the number. What is the sum of all nice numbers?",
+    "answer": "531"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the effect in which a radical is stabilized by both an electron donating and electron withdrawing group?",
+    "answer": "Captodative effect"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 hydrides which would be appropriate to reduce a ketone into an alcohol in an aqueous solution: I) NaH II) NaBH4 III) LiAlH4",
+    "answer": "II only"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of long term potentiation: I) Activation of NMDA receptors requires depolarization of neurons by multiple activations of AMPA receptors II) At negative resting membrane potentials, NMDA receptors are blocked by $\\athrm{Mg2 + }$ ions III) NMDA receptors and long term potentiation are linked with the mediation of excitotoxicity",
+    "answer": "All"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of phyllotaxis describes an arrangement where each successive pair of leaves is at a right angle to the previous pair?",
+    "choices": {
+      "W": "Whorled",
+      "X": "Opposite",
+      "Y": "Decussate",
+      "Z": "Distichous"
+    },
+    "answer": "Y) Decussate"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Princeton Plasma Physics Laboratory are studying the properties of superconducting materials. Identify all of the following three traits that are characteristic of Type II superconductors: I) Most pure element superconductors are Type II II) They exhibit a gradual transition to superconductivity as they reach the critical temperature III) They generally have high critical temperatures",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Lab are studying black holes. Which of the following spacetime metrics would be most appropriate for analyzing a charged, rotating black hole?",
+    "choices": {
+      "W": "Schwarzchild",
+      "X": "Kerr",
+      "Y": "Kerr-Newman",
+      "Z": "Reissner-Nordstrom"
+    },
+    "answer": "Y) Kerr-Newman"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Thanush is holding a stopwatch in his hand and begins to throw it. He's been hitting the gym quite often, so his throw involves a period of constant acceleration to a relativistic speed and then a period of zero acceleration after he releases the stopwatch. Which of the following best describes how the clock's ticking speed changes over the course of the throwing motion?",
+    "choices": {
+      "W": "Always speeds up",
+      "X": "Always slows down",
+      "Y": "Slows down, then speeds up",
+      "Z": "Slows down, then remains constant"
+    },
+    "answer": "Z) Slows down, then remains constant"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An ideal 2 Volt source is connected in series with a 200 Ohm resistor. A 600 Ohm resistor is connected in parallel with a 0.02 Amp current source, and both of these components are connected in series with the existing circuit so the current source is directed out of the positive voltage terminal. What is the Thevenin equivalent voltage and resistance, respectively, of the whole system?",
+    "answer": "14 Volts, 800 Ohms"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three properties that occur in cholesteric liquid crystals: I) Optical activity II) Two distinct melting points III) Contains well-defined layers",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Colin is dissolving sodium in a strange liquid. After he adds some sodium, it turns a deep shade of blue. What color does this solution turn after much more sodium is added?",
+    "answer": "Bronze/Gold/Metallic/Yellow (ACCEPT: Anything metallic or gold)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The Feng family has 10 children total, 6 who are boys and 4 who are girls. A surveyor asks each of the 10 children how many brothers they have. Then, the surveyor asks each of them how many sisters they have. What is the average of all of the responses the surveyor was given?",
+    "answer": "9/2 (ACCEPT: 4.5)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the divergence of the vector field $xyi + zj + 4xyzk$ ?",
+    "answer": "$y + 4xy$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the primary cause for the periodicity in the cosmic microwave background radiation?",
+    "answer": "Baryon Acoustic Oscillations"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 phenomena which are occurring as a result of the tidal acceleration of the Moon: I) The Earth's rotational period is slowing II) The Moon is falling towards the earth III) The Moon's rotational period is slowing",
+    "answer": "I and III"
+  }
+]

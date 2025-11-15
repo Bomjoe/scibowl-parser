@@ -1,0 +1,500 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "In thermonuclear weapons, the secondary fission core is usually composed of lithium deuteride because it can form tritium when bombarded with neutrons. The resulting tritium and deuterium can undergo fission reactions to create what nuclear isotope?",
+    "answer": "Helium-4"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "In which nuclear weapon design are two subcritical masses brought together in order to create a critical mass?",
+    "choices": {
+      "W": "Gun",
+      "X": "Implosion",
+      "Y": "Thermonuclear",
+      "Z": "Neutron"
+    },
+    "answer": "W) Gun"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Consider the Fibonacci sequence $F$ defined as $F_{n} = F_{n - 1} + F_{n - 2}$. Given that $F_{k}$ ends with 0, which of the following can NOT be the units digit of $F_{k + 2}$?",
+    "choices": {
+      "W": "1",
+      "X": "5",
+      "Y": "7",
+      "Z": "9"
+    },
+    "answer": "X) 5"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following should be the resulting outcome of a hypothesis test if the $p$-value is greater than the originally determined significance level?",
+    "choices": {
+      "W": "Accept the null hypothesis",
+      "X": "Fail to accept the null hypothesis",
+      "Y": "Reject the null hypothesis",
+      "Z": "Fail to reject the null hypothesis"
+    },
+    "answer": "Z) Fail to reject the null hypothesis"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Neon gas is present inside a sealed chamber with a movable piston. The pressure of the neon gas is then plotted against the volume of the piston as the piston is expanded externally. Which of the following best describes what this graph would look like?",
+    "choices": {
+      "W": "Line with positive slope",
+      "X": "Line with negative slope",
+      "Y": "Curve increasing toward horizontal asymptote",
+      "Z": "Curve decreasing toward horizontal asymptote"
+    },
+    "answer": "Z) Curve decreasing toward horizontal asymptote"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The compound trans-1-methyl-3-chlorocyclohexane adopts its most stable chair conformation when the chlorine and methyl substituents are in what type of conformational positions, respectively?",
+    "answer": "Axial, equatorial"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following factors would least affect the flow velocity of a stream?",
+    "choices": {
+      "W": "Stream gradient",
+      "X": "Hydraulic radius",
+      "Y": "Channel roughness",
+      "Z": "Sediment load"
+    },
+    "answer": "Z) Sediment load"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three locations that are correctly matched to the expected tidal pattern at that location: 1) San Francisco Bay and mixed; 2) New Orleans and diurnal; 3) Chesapeake Bay and diurnal.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During periods of starvation, fatty acids are broken down by the liver into which molecules that are released into the blood?",
+    "answer": "Ketone bodies"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three species from most to least related to C. elegans: 1) Earthworm; 2) Scorpion; 3) Sand dollar.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What term describes the loops of electric current induced within conductors by a changing magnetic field in the conductor or by the relative motion of a conductor in a magnetic field?",
+    "answer": "Eddy currents (ACCEPT: Foucault's currents)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A heat pump transfers heat from one reservoir at 200 kelvin to another reservoir at 300 kelvin. If 760 joules of work are done on the pump, then in joules, how much heat is expelled from the cold reservoir?",
+    "choices": {
+      "W": "304",
+      "X": "456",
+      "Y": "1520",
+      "Z": "2280"
+    },
+    "answer": "Y) 1520"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "While global warming is occurring in most regions of Earth, the term climate change is preferred because not all of Earth is warming. Which of the following regions of Earth has undergone net cooling in the last 100 years?",
+    "choices": {
+      "W": "Central South America",
+      "X": "Central Antarctica",
+      "Y": "Northern Atlantic Ocean",
+      "Z": "Western Pacific Ocean"
+    },
+    "answer": "Y) Northern Atlantic Ocean"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "In game theory, what is the term for the decision rule that minimizes the maximum possible loss from a decision?",
+    "answer": "Minimax"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If inflation is assumed to be 10 percent per year, then to the nearest hundred dollars, how much will ten thousand dollars be worth in today's money after 5 years?",
+    "choices": {
+      "W": "8,200",
+      "X": "7,200",
+      "Y": "6,200",
+      "Z": "5,200"
+    },
+    "answer": "Y) 6,200"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the surface area of a right circular cone with radius 8 and height 6?",
+    "answer": "$144\\i$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases would be detected at the anode when an aqueous solution of lithium fluoride is electrolyzed?",
+    "choices": {
+      "W": "Hydrogen",
+      "X": "Fluorine",
+      "Y": "Oxygen",
+      "Z": "Water"
+    },
+    "answer": "Y) Oxygen"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The pKa of hydrofluoric acid is 3 in aqueous solution. What is the pH of a 0.1 molar solution of potassium fluoride?",
+    "answer": "8"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The current expansion of the universe can be modeled locally as being proportional to what power of the redshift?",
+    "choices": {
+      "W": "2",
+      "X": "1",
+      "Y": "-1",
+      "Z": "-2"
+    },
+    "answer": "X) 1"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three isotopes that are preliminary fusion isotopes in brown dwarfs: 1) Hydrogen-1; 2) Lithium-6; 3) Deuterium.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What is the coefficient of relatedness between an uncle and his niece?",
+    "choices": {
+      "W": "$50\\$",
+      "X": "$25\\$",
+      "Y": "$12.5\\$",
+      "Z": "$6.25\\$"
+    },
+    "answer": "Y) $25\\$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the germination of a bean seed, order the following three regions by increasing distance from the root: 1) Cotyledon; 2) Epicotyl; 3) Hypocotyl.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Einstein added what term to his field equations to allow for a static universe, now interpreted as a vacuum energy density?",
+    "answer": "Cosmological constant problem (ACCEPT: Vacuum catastrophe, Lambda)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A thin metal sheet is initially at rest in space. A flashlight is then beamed directly at the sheet for some time to give it a constant speed. If the intensity of the flashlight is tripled and the beaming time is halved, by what factor does the velocity of the metal sheet change?",
+    "answer": "$\\rac{3}{2}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why N95 masks are better at preventing the spread of airborne pathogens than normal cloth-based masks?",
+    "choices": {
+      "W": "N95 masks use strong electrostatic potentials that trap pathogens",
+      "X": "N95 masks use a strong adhesive coating that traps pathogens",
+      "Y": "N95 masks use denser material that traps pathogens",
+      "Z": "N95 masks use HEPA filtration to trap pathogens"
+    },
+    "answer": "W) N95 masks use strong electrostatic potentials that trap pathogens"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Nuclear winter is speculated to arise from the injection of which substance, arising from the incomplete combustion of organic molecules from cities and nearby forests, into the stratosphere?",
+    "answer": "Black carbon (ACCEPT: Soot)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $f$ is an injective function, and $g$ is a surjective function, then identify all of the following three properties that the composition $g$ of $f$ will necessarily possess: 1) Injectivity; 2) Surjectivity; 3) Bijectivity.",
+    "answer": "None"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In terms of $t$, what is the characteristic polynomial of the 2x2 matrix with first row 6, 8 and second row 3, 2?",
+    "answer": "$t^{2} - 8t - 12$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What point on the phase diagram of a binary mixture represents the absolute minimum temperature at which the mixture will melt?",
+    "answer": "Eutectic [yoo- TEC- tic]"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three properties that describe silver bromide: 1) Water soluble; 2) Amorphous; 3) Electrically conductive.",
+    "answer": "None"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following points along a gaining river will its discharge usually be highest?",
+    "choices": {
+      "W": "Headwaters",
+      "X": "Mouth",
+      "Y": "Confluence",
+      "Z": "Bifurcation"
+    },
+    "answer": "X) Mouth"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The most precipitation would be expected in which of the following places on a 500 millibar height map?",
+    "choices": {
+      "W": "Downstream of a ridge",
+      "X": "Upstream of a ridge",
+      "Y": "Downstream of a trough",
+      "Z": "Upstream of a trough"
+    },
+    "answer": "Y) Downstream of a trough"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During the reaction from glucose to form glucose-6-phosphate, 1 ATP is used by the enzyme hexokinase. When the phosphate group is transferred, what metal ion cofactor remains bound to ATP?",
+    "answer": "$\\athrm{Mg}^{2+}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Many people who develop heat acclimatization develop a decreased $\\athrm{Na}^{+}$ ion concentration in their sweat and drastically reduced temperatures. Secretion of what hormone is responsible for the decreased concentration of $\\athrm{Na}^{+}$?",
+    "answer": "Aldosterone"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of elementary particles that are fermions: 1) Gauge bosons; 2) Leptons; 3) Quarks.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Consider a system of units where astronomical units, solar masses, and years are the units of length, mass, and time. In these units, what is the value of the gravitational constant?",
+    "choices": {
+      "W": "$\\rac{1}{2\\i}$",
+      "X": "1",
+      "Y": "$2\\i$",
+      "Z": "$4\\i^2$"
+    },
+    "answer": "Z) $4\\i^2$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "DALL-E 2 generates images using what type of machine learning system, which learns by recreating an image from one with artificially added noise?",
+    "choices": {
+      "W": "Diffusion model",
+      "X": "Generative adversarial network",
+      "Y": "Autoencoder",
+      "Z": "Inverse classification model"
+    },
+    "answer": "Diffusion model"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "The volcanic eruptions that score highest on the volcanic explosivity index fall under what category?",
+    "choices": {
+      "W": "Pelean",
+      "X": "Plinian",
+      "Y": "Strombolian",
+      "Z": "Vulcanian"
+    },
+    "answer": "X) Plinian"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements about tessellation that are true: 1) The regular octagon tiles the plane; 2) There exist convex pentagons which tile the plane; 3) All triangles tile the plane.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following sets of 3 vectors can NOT be a basis for $R^3$?",
+    "choices": {
+      "W": "$(1,1,2),(2,2,1),(1,0,1)$",
+      "X": "$(1, -1,2),(1,2, -1),(2,1,1)$",
+      "Y": "$(1,2,4),(1,3,9),(1,4,16)$",
+      "Z": "$(1,2,1),(2,1,2),(2,2,1)$"
+    },
+    "answer": "X) $(1, -1,2),(1,2, -1),(2,1,1)$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Upon vigorous heating, potassium nitrate releases oxygen gas to form what other compound?",
+    "answer": "$\\athrm{KNO}_2$ (Accept: Potassium nitrite)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following statements that are true of SN2 reactions: 1) The reaction occurs in one step; 2) The rate law is bimolecular; 3) Ethanol is a better solvent than THF for SN2 reactions",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What process is likely responsible for the observation of blue stragglers in an otherwise reddish globular cluster?",
+    "choices": {
+      "W": "Mass stratification",
+      "X": "Extreme mass loss due to combined stellar winds",
+      "Y": "Mass transfer",
+      "Z": "Stellar collisions"
+    },
+    "answer": "Y) Mass transfer"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Mass transfer in white dwarf-red giant binaries can occur over long periods of time and can ultimately result in what type of bright stellar event when fusion is kickstarted on the white dwarf's surface?",
+    "answer": "Nova (ACCEPT: Recurrent novae; DO NOT ACCEPT: Supernova)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The drug L-dopa is used to treat Parkinson's disease because it is converted to dopamine in the brain. What enzyme catalyzes this conversion?",
+    "answer": "Dopa decarboxylase"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Inclusion cell disease is caused by a defective enzyme, which phosphorylates mannose in what cellular organelle?",
+    "answer": "Golgi Apparatus"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A current is flowing through an infinite wire and the magnetic field at various radial distances is measured. What is the ratio of the magnetic field measured at a radial distance R versus 2R?",
+    "answer": "2"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the term given to the observation that a quark of a single color can never be observed in isolation?",
+    "answer": "Color confinement"
+  }
+]

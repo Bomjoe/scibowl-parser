@@ -1,0 +1,412 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 blotting techniques that are correctly associated with the structures they study. 1) Eastern and RNA; 2) Western and Proteins; 3) Northwestern and Post Translational Modifications.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 choices that are true regarding phyllotaxy. 1) Opposite is the most common phyllotaxy 2) Sunflowers exemplify a distichous phyllotaxy 3) Grasses exemplifies a whorled phyllotaxy",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true of polymetallic nodules: 1) They are most abundant in abyssal plains; 2) They grow extremely slowly; 3) They are mostly composed of manganese oxide by mass.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 bodies of water by decreasing average sea-surface salinity: 1) Pacific Ocean; 2) Atlantic Ocean; 3) Mediterranean Sea.",
+    "answer": "3 2 1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the following:",
+    "answer": "4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "x and y are chosen independently and uniformly at random from the closed interval [0,2]. What is the probability that $xy \\eq 1$?",
+    "choices": {
+      "W": "$\\rac{1 + \\n 4}{4}$",
+      "X": "$\\rac{1 + \\n 2}{2}$",
+      "Y": "$\\rac{3}{4}$",
+      "Z": "$\\rac{\\i}{4}$"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What fictitious force is a consequence of a reference frame with a changing angular velocity?",
+    "answer": "Azimuthal force OR Euler force"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The processional frequency of a Foucault pendulum located at a certain polar angle $\\theta$ is directly related to which of the following trigonometric functions of $\\theta$?",
+    "choices": {
+      "W": "sine",
+      "X": "cosine",
+      "Y": "hyperbolic tangent",
+      "Z": "tangent"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three choices that are TRUE regarding interactions between strictly alcohols and a hydrogen halide. 1) A primary alcohol and a hydrogen halide undergo SN1 2) A secondary alcohol and a hydrogen halide undergo SN2 3) A tertiary alcohol and a hydrogen halide undergo E1",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the following statements which are true regarding nucleation: 1) Nucleation is usually unpredictable even in identical systems; 2) Heterogeneous nucleation is much more common than homogeneous nucleation; 3) Nucleation can produce solids, liquids, and gasses",
+    "answer": "All"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What organic compound, which recycles ADP to ATP in vertebrates, is often used as a booster of athletic performance and is known to increase retention of water in myocytes?",
+    "answer": "Creatine"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Which of the following is true of piezoelectricity? 1) It is reversible 2) It can be observed in ceramics 3) It cannot be observed in crystals",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 pairs which correctly match the hormone and the gland which it is released from: 1) Thyroid releasing hormone and Anterior Pituitary; 2) Thyroid Stimulating Hormone and Hypothalamus; 3) Thyroxine and Anterior Pituitary.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 phylums which represent bryophytes. 1) Liverworts; 2) Hornworts; 3) Mosses.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of galaxy, found at the center of the Hubble tuning fork diagram, is shaped like a solid disk and is intermediate between spirals and ellipticals?",
+    "answer": "LENTICULAR or S0"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Galaxy A has a stellar velocity dispersion of $50 \\athrm{km / s}$ in its galactic bulge, and has a central black hole with a mass of 10 million solar masses. If Galaxy B has a velocity dispersion of 100 $\\athrm{km / s}$ in its bulge, what is the approximate mass of the black hole at Galaxy B's center?",
+    "answer": "320 MILLION SOLAR MASSES"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Define a sequence with the following recurrence relation: $a_1 = 1$, $a_2 = 1$, $a_{n} = a_{n-1} + a_{n-2}$ for $n \\eq 3$. For example, $a_3 = 2$, $a_4 = 3$. If $a_n = 55$, then evaluate $n$.",
+    "answer": "10"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the following expression: $\\um_{k=1}^{100} \\rac{1}{k(k+1)}$",
+    "answer": "100/101"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The tidal force on an object is proportional to what power of the distance from the source?",
+    "answer": "-3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two spaceships A and B travel at 4c/5 and 3c/5 with respect to a stationary frame, as shown in the figure. How fast should spaceship C travel so that its captain sees spaceships A and B approach her at the same speed?",
+    "answer": "5c/7"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following components that could be present in a SN2 reaction, regarding the substrate and reagent properties, respectively: 1) Primary substrate, strong base, weak nucleophile; 2) Tertiary substrate, weak base, strong nucleophile; 3) Tertiary substrate, strong base, strong nucleophile",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements which are true of enantiomers: 1) Enantiomers exhibit identical optical properties; 2) Enantiomers are structural isomers; 3) Enantiomers exhibit identical physical properties.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "NASA astronomers observe that small, bright nebulae form when narrow jets of partially ionized gas ejected by newly born stars interact with clouds of gas and dust. What are these nebulae called?",
+    "answer": "Herbig-Haro objects"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What is the tool used to create light with perfectly parallel waves that will not spread during propagation?",
+    "answer": "Collimator"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What group of conducting-system fibers located within the interventricular septum propagates action potentials from the AV node?",
+    "answer": "BUNDLE OF HIS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true about skeletal muscles?",
+    "choices": {
+      "W": "Units are connected by gap junctions",
+      "X": "They contain dense bodies to help with contraction",
+      "Y": "Units consistently undergo cell division",
+      "Z": "When muscles contract, the H zone shrinks"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following rocks would you NOT expect to find in the lunar highlands?",
+    "choices": {
+      "W": "Anorthosite",
+      "X": "Breccia",
+      "Y": "Basalt",
+      "Z": "Norite"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following that are plausible hypotheses for how supermassive black holes could have formed: 1) accretion of nearby matter over billions of years; 2) rapid infall of matter inside a massive quasi-star; 3) mergers between intermediate-mass precursors; 4) direct collapse of a low-metallicity gas cloud.",
+    "answer": "1 2 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the only positive composite integer that does not divide $(n-1)!$",
+    "answer": "4"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the arc length of the function $f(x) = \\qrt{1 - x^2}$ from $x = -1$ to $x = 3$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which of the following 4 systems are examples of chaotic motion? 1) Inverted pendulum 2) Kapitza's pendulum 3) Double pendulum 4) Inverted double pendulum",
+    "answer": "3 and 4 only"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What mathematical method is often used to solve initial value problems with differential equations that are not numerically solvable, a notable application being in the double pendulum?",
+    "answer": "Runge-Kutta method"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following wavelengths, in nanometers, is closest to the longest possible wavelength of electromagnetic radiation sufficient to eject photoelectrons from silver given that the work function is $4.7\\athrm{eV}$?",
+    "choices": {
+      "W": "100",
+      "X": "250",
+      "Y": "350",
+      "Z": "450"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What term describes donation of electron density into p-orbitals from neighboring sigma bonds that stabilizes carbocations?",
+    "answer": "HYPERCONJUGATION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What term describes the equilibrium that makes the Earth's lithosphere seem as if it floats upon the asthenosphere, which controls the elevation of regions of the crust depending on the density of the underlying rock?",
+    "answer": "Isostasy; isostatic equilibrium"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What term describes the natural parallel electric current flowing on or beneath the surface of the Earth, which is used to map subsurface geophysical structures?",
+    "answer": "Telluric current; Earth current"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What condition involves an enlarged thyroid gland due to elevated concentrations of thyroid stimulating hormones?",
+    "answer": "GOITER"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following IS NOT a factor which directly impacts resistance inside of a blood vessel according to Poiseuille's Law?",
+    "choices": {
+      "W": "Fluid viscosity",
+      "X": "Length of the vessel",
+      "Y": "Fluid turbulence",
+      "Z": "Radius of the vessel"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Researchers hypothesize that some parts of the Canadian Cordillera, that seem completely unrelated to the neighboring geography, have actually been accreted onto the North American plate. What is the general name for these crustal fragments that are accreted onto the crust of another plate as the plate it's on gets subducted?",
+    "answer": "TERRANE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following minerals is least likely to be found in placer deposits? W) Gypsum X) Gold Y) Platinum Z) Wolframite",
+    "answer": "W"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Define $v_2(n)$ as the largest integer k such that $2^k \\id n$. If $v_2(a) = 10$ and $v_2(b) = 20$, what is $v_2(a + b)$?",
+    "answer": "10"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find $dy/dx$ given the parametrically defined curve $x = 2\\os(2t)$ and $y = -3\\in(2t)$ in terms of $t$.",
+    "answer": "$\\rac{3}{2} \\ot(2t)$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The potential for a mass hanging from a spring is $V(y) = ky^2 + my$, where $y = 0$ corresponds to the initial equilibrium position of the spring when nothing is hanging on it. Find the angular frequency of small oscillations around the equilibrium point.",
+    "answer": "$\\qrt{k/m}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A small mass rests on top of a fixed, frictionless sphere. The mass is given a small push and slides downward. Find the point it loses contact with the sphere, and express your answer in an inverse trigonometric ratio.",
+    "answer": "inverse cosine of $\\rac{2}{3}$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of liquids most generally undergo particle deposition?",
+    "choices": {
+      "W": "Solutions",
+      "X": "Crystalloids",
+      "Y": "Colloids",
+      "Z": "Suspensions"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What group of resonance stabilized intermediate complexes, including dihydrogen complexes, is a result of nucleophilic attack on the aromatic ring?",
+    "answer": "Sigma Complex (ACCEPT: Arenium Ion)"
+  }
+]

@@ -1,0 +1,419 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "X-Risk",
+    "answer_type": "short_answer",
+    "body": "What type of algorithm, commonly used in machine learning, applies a function in various iterations to linear combinations of outputs from the previous iteration?",
+    "answer": "Neural network"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "X-Risk",
+    "answer_type": "multiple_choice",
+    "body": "Interpretability is a field of machine learning focused on which of the following research objectives?",
+    "choices": {
+      "W": "Applying theoretical ideas from AI alignment to modern AI systems",
+      "X": "Allowing AI systems to learn human values in training",
+      "Y": "Developing ways for AI systems to respond to conditions outside the training data",
+      "Z": "Allowing learned models to be more easily understandable by humans"
+    },
+    "answer": "Z) Allowing learned models to be more easily understood by humans"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "Math",
+    "answer_type": "short_answer",
+    "body": "John buys a pizza with diameter 16 inches and cuts it into 8 identical slices. What is the perimeter of each slice, in inches?",
+    "answer": "$2\\i + 16$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "Math",
+    "answer_type": "multiple_choice",
+    "body": "Alice sits at the bottom left of a 5 by 5 grid of dots while Bob sits at the top right. Every second, Alice randomly moves either one step right or one step up and Bob randomly moves either one step down or one step left. If either of them tries to move off the grid, they will instead not move. What is the probability that, at some point, Alice and Bob meet?",
+    "choices": {
+      "W": "1/16",
+      "X": "53/256",
+      "Y": "1/4",
+      "Z": "35/128"
+    },
+    "answer": "Z) 35/128"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "Chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT an assumption of kinetic molecular theory about particles in a gas?",
+    "choices": {
+      "W": "Particles have negligible volume",
+      "X": "Particles have no net speed",
+      "Y": "Particle collisions conserve kinetic energy",
+      "Z": "Particles have no attractive forces"
+    },
+    "answer": "X) Particles have no net speed"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "Chemistry",
+    "answer_type": "short_answer",
+    "body": "An aqueous solution of an alkali metal's hydroxide is electrolyzed. What gas is produced at the electrolytic cell's anode?",
+    "answer": "Oxygen"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "Earth and Space",
+    "answer_type": "multiple_choice",
+    "body": "The rapid quenching of pillow basalts produces what mineraloid on the surface of these rock formations?",
+    "choices": {
+      "W": "Opal",
+      "X": "Chert",
+      "Y": "Obsidian",
+      "Z": "Greywacke"
+    },
+    "answer": "Y) Obsidian"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "Earth and Space",
+    "answer_type": "short_answer",
+    "body": "An island is surrounded by a fringing reef. When this island is eroded to form a seamount, the reef will remain behind, forming what circular feature in the ocean?",
+    "answer": "Atoll"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "Biology",
+    "answer_type": "short_answer",
+    "body": "What form of endocytosis do cells use to transport small fluids inside the cell via the budding of small vesicles from the plasma membrane?",
+    "answer": "Pinocytosis"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "Biology",
+    "answer_type": "multiple_choice",
+    "body": "Kinases are enzymes that are responsible for transferring a phosphate group onto proteins. Cyclic AMP is necessary for the activation of which of the following kinases?",
+    "choices": {
+      "W": "Protein Kinase A",
+      "X": "Protein Kinase C",
+      "Y": "Phosphofructokinase",
+      "Z": "Hexokinase"
+    },
+    "answer": "W) Protein Kinase A"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "Physics",
+    "answer_type": "short_answer",
+    "body": "What law relates the current density in a resistive material to the electric field experienced throughout the material?",
+    "answer": "Ohm's law"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "Physics",
+    "answer_type": "multiple_choice",
+    "body": "The peak of the Maxwell-Boltzmann velocity distribution indicates what information about the gas molecules it represents?",
+    "choices": {
+      "W": "Root-mean-square speed",
+      "X": "Average speed",
+      "Y": "Lower-bound speed",
+      "Z": "Most probable speed"
+    },
+    "answer": "Z) Most probable speed"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "X-Risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following environmental changes most directly leads to desertification?",
+    "choices": {
+      "W": "Increase in agriculture",
+      "X": "Removal of vegetation",
+      "Y": "Increase in temperature",
+      "Z": "Decrease in rainfall"
+    },
+    "answer": "X) Removal of vegetation"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "X-Risk",
+    "answer_type": "multiple_choice",
+    "body": "The Kardashev scale is a measure of which of the following aspects of a civilization?",
+    "choices": {
+      "W": "Intelligence",
+      "X": "Level of cooperation",
+      "Y": "Technological advancement",
+      "Z": "Resistance to extinction"
+    },
+    "answer": "Y) Technological advancement"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "Math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a measure of dispersion among a set of data points?",
+    "choices": {
+      "W": "Mean",
+      "X": "Median",
+      "Y": "Mode",
+      "Z": "Range"
+    },
+    "answer": "Z) Range"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "Math",
+    "answer_type": "short_answer",
+    "body": "A circle is inscribed in a square. To the nearest tenth, what is the probability that a random point inside the square will also be inside the circle?",
+    "answer": "0.8"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "Chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three chemical species by increasing atomic radius: 1) $\\athrm{S}^{2 - }$ ; 2) $\\athrm{Cl}^{-}$ ; 3) Ar.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "Chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the bond order of the oxygen-oxygen covalent bond in the ozone molecule?",
+    "answer": "1.5"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "Earth and Space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true regarding sunspots?",
+    "choices": {
+      "W": "They are warmer than surrounding areas",
+      "X": "Their cycle has a period of approximately 11 years",
+      "Y": "They are often found in pairs with magnetic fields pointing opposite directions",
+      "Z": "Sunspots at the equator move faster than sunspots near the poles"
+    },
+    "answer": "W) They are warmer than surrounding areas"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "Earth and Space",
+    "answer_type": "short_answer",
+    "body": "Order the following three layers of the sun from innermost to outermost: 1) Radiative zone; 2) Convective zone; 3) Photosphere.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "Biology",
+    "answer_type": "short_answer",
+    "body": "What ATPase is most responsible for maintaining the resting potential of a neuron?",
+    "answer": "Sodium-potassium pump"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "Biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three structures that are typically considered modified stems: 1) Rhizome; 2) Stolon; 3) Tuber.",
+    "answer": "All"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "Physics",
+    "answer_type": "short_answer",
+    "body": "The beta decay of atoms is mediated by what fundamental force?",
+    "answer": "Weak nuclear force"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "Physics",
+    "answer_type": "short_answer",
+    "body": "Beta plus decay products include an electron neutrino and what other subatomic particle?",
+    "answer": "Positron"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "X-Risk",
+    "answer_type": "short_answer",
+    "body": "What is the process in which an excess of nutrients in a lake causes growth of plant life and death of animal life from the resulting lack of oxygen?",
+    "answer": "Eutrophication"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "X-Risk",
+    "answer_type": "multiple_choice",
+    "body": "Some fusion-based nuclear weapons were specially designed to minimize property damage by emitting most of their radiation in the form of what type of particle?",
+    "choices": {
+      "W": "Photon",
+      "X": "Helium nucleus",
+      "Y": "Neutron",
+      "Z": "Electron"
+    },
+    "answer": "Y) Neutron"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "Math",
+    "answer_type": "short_answer",
+    "body": "For what radian values of x between 0 and $2\\i$ inclusive does $\\in (x)$ equal $\\os (x)$ ?",
+    "answer": "$\\rac{\\i}{4}$ and $\\rac{5\\i}{4}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "Math",
+    "answer_type": "short_answer",
+    "body": "One fourth of all families own a cat, and of the families that own a cat, one tenth own a dog. Additionally, two fifths of all families own a dog. What is the probability that a randomly selected family that owns a dog also owns a cat?",
+    "answer": "1/16"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "Chemistry",
+    "answer_type": "short_answer",
+    "body": "Transition metal complexes with four ligands around the metal center can exhibit a square planar geometry or what other geometry?",
+    "answer": "Tetrahedral"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "Chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three ionic compounds by increasing lattice energy: 1) MgO; 2) NaCl; 3) MgCl2.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "Earth and Space",
+    "answer_type": "short_answer",
+    "body": "What term describes the fractures exhibited by evenly cooling flood basalts that create a regular hexagonal pattern?",
+    "answer": "Columnar jointing"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "Earth and Space",
+    "answer_type": "multiple_choice",
+    "body": "The rainfall and snowfall around a lake is highest on its west side. From which of the following directions does the prevailing wind likely come from?",
+    "choices": {
+      "W": "North",
+      "X": "South",
+      "Y": "East",
+      "Z": "West"
+    },
+    "answer": "Y) East"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "Biology",
+    "answer_type": "multiple_choice",
+    "body": "Galen is finding islands to claim for his kingdom, and finds two islands, which he names Island A and Island B. Island A is farther from the mainland, and has higher species diversity and richness than island B. According to the island biogeography model, which of the following can you conclude about island B?",
+    "choices": {
+      "W": "It is smaller than island A",
+      "X": "It is larger than island A",
+      "Y": "It is the same size as island A",
+      "Z": "It has more disturbance than island A"
+    },
+    "answer": "W) It is smaller than island A"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "Biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the function of the Casparian [cas-PAIR-ee-in] strip?",
+    "choices": {
+      "W": "Prevents water from entering the phloem",
+      "X": "Prevents sugar from entering the xylem",
+      "Y": "Forces water to move through a semipermeable membrane",
+      "Z": "Forces sugars to move through a membrane transport protein"
+    },
+    "answer": "Y) Forces water to move through a semipermeable membrane"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "Physics",
+    "answer_type": "multiple_choice",
+    "body": "Stimulated emission within a laser is done through the excitation of what subatomic particles?",
+    "choices": {
+      "W": "Neutrons",
+      "X": "Protons",
+      "Y": "Electrons",
+      "Z": "Positrons"
+    },
+    "answer": "Y) Electrons"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "Physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three particles that have integer spin: 1) Proton; 2) Z-Boson; 3) Gluon.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "X-Risk",
+    "answer_type": "multiple_choice",
+    "body": "The mRNA-based vaccines used to combat COVID-19 encode which of the following parts of the virus?",
+    "choices": {
+      "W": "Spike protein",
+      "X": "Capsid",
+      "Y": "Viral envelope",
+      "Z": "Viral genome"
+    },
+    "answer": "W) Spike protein"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "X-Risk",
+    "answer_type": "multiple_choice",
+    "body": "Dolly the sheep was the first mammal to be cloned from what type of cell?",
+    "choices": {
+      "W": "Gamete [GAM-eet]",
+      "X": "Germ cell",
+      "Y": "Stem cell",
+      "Z": "Somatic cell"
+    },
+    "answer": "Z) Somatic cell"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "Math",
+    "answer_type": "multiple_choice",
+    "body": "A regular $n$ -gon has integer internal angle measures. Which of the following can possibly be $n$ ?",
+    "choices": {
+      "W": "72",
+      "X": "75",
+      "Y": "80",
+      "Z": "100"

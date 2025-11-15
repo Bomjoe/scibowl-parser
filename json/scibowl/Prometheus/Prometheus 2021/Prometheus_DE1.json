@@ -1,0 +1,518 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which 6th century pandemic killed approximately 6 million people and contributed to a loss of territory by empires?",
+    "answer": "The Plague of Justinian"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "The plague of Justinian was caused by Yersinia pestis, which, despite its rare status in the modern day, still has not been eradicated. Why is it not considered a candidate for eradication?",
+    "choices": {
+      "W": "It is spread by animal vectors",
+      "X": "There is no vaccine against it",
+      "Y": "It can remain on surfaces for long periods of time",
+      "Z": "Outbreaks are too infrequent to target it for eradication"
+    },
+    "answer": "W) It is spread by animal vectors"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "$\\rac{3^{2022} + 3^{2020}}{3^{2022} - 3^{2020}}$ is equivalent to what real number?",
+    "answer": "$\\rac{5}{4}$ (ACCEPT: 1.25)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the eccentricity of the ellipse with equation $16x^{2} + 25y^{2} = 100?$",
+    "choices": {
+      "W": "$\\rac{3}{4}$",
+      "X": "$\\rac{3}{5}$",
+      "Y": "$\\rac{4}{5}$",
+      "Z": "$\\rac{5}{4}$"
+    },
+    "answer": "X) $\\rac{3}{5}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Since molecular bromine readily adds across double bonds, which of the following bromine containing reagents is typically used to add bromine to the allyl position of an alkene?",
+    "choices": {
+      "W": "NBS",
+      "X": "AgBr",
+      "Y": "HOBr",
+      "Z": "CHMgBr"
+    },
+    "answer": "W) NBS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the character of the boron-boron bond in diboron according to molecular orbital theory?",
+    "choices": {
+      "W": "1 sigma bond with bond order 1",
+      "X": "2 sigma bonds with bond order $\\rac{1}{2}$",
+      "Y": "1 pi bond with bond order 1",
+      "Z": "2 pi bonds with bond order $\\rac{1}{2}$"
+    },
+    "answer": "Z) 2 pi bonds with bond order $\\rac{1}{2}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ores would be least likely to produce acid mine drainage?",
+    "choices": {
+      "W": "Bornite",
+      "X": "Pyrite",
+      "Y": "Magnetite",
+      "Z": "Sphalerite"
+    },
+    "answer": "Y) Magnetite"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following conditions would most likely create a mesocyclone?",
+    "choices": {
+      "W": "Strong wind shear",
+      "X": "Strong downdraft",
+      "Y": "Conditional instability",
+      "Z": "High-altitude convergence"
+    },
+    "answer": "W) Strong wind shear"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the reduced mitochondria found in the Parabasalid group?",
+    "answer": "Hydrogenosomes"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three parts of the kidney where the osmolarity of the extracellular fluid increases: 1) Ascending limb of the loop of Henle; 2) Collecting duct; 3) Descending limb of the loop of Henle.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What type of magnetism that is least affected by changes in temperature is most common in ionic crystals and has a negative magnetic susceptibility?",
+    "answer": "Diamagnetism"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Cookie dough is spread on a conveyor belt moving at velocity $v$ to the right. A circular cookie cutter stamps out cake as it passes by underneath. Taking relativistic lengths into account, what shape does the stamped out cake make?",
+    "choices": {
+      "W": "Circular",
+      "X": "Squashed in the direction of of the belt's motion",
+      "Y": "Stretched in the direction of the belt's motion",
+      "Z": "It depends on the speed of the conveyor belt"
+    },
+    "answer": "Y) Stretched in the direction of the belt's motion"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Researcher and essayist Brian Tomasik has been influential in writing about a new type of existential risk, in which the concern is catastrophic amounts of future suffering rather than the end of civilization. What is this risk called?",
+    "answer": "S- risk"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following existential risks is not considered an s-risk?",
+    "choices": {
+      "W": "Far-future harms to animals",
+      "X": "Risk from bioengineering of viruses",
+      "Y": "Misaligned artificial intelligence",
+      "Z": "Far-future value drift"
+    },
+    "answer": "X) Risk from bioengineering of viruses"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let x be a three digit number with three equal digits and let y be a three digit number with three distinct digits. What is the minimum possible difference between the two numbers?",
+    "answer": "2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "According to Vieta's formulas, the product of the roots $r_1$ , $r_2$ , and $r_3$ of the polynomial $P(x) = ax^3 + bx^2 + cx + d$ equals which of the following?",
+    "choices": {
+      "W": "- b",
+      "X": "a",
+      "Y": "- c",
+      "Z": "- d"
+    },
+    "answer": "Z) - d"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules is IR active?",
+    "choices": {
+      "W": "Methane",
+      "X": "Diatomic oxygen",
+      "Y": "Diatomic nitrogen",
+      "Z": "Diatomic hydrogen"
+    },
+    "answer": "W) Methane"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases has the highest $b$ van der Waals parameter?",
+    "choices": {
+      "W": "Argon",
+      "X": "Chlorine",
+      "Y": "Carbon Dioxide",
+      "Z": "Ammonia"
+    },
+    "answer": "X) Chlorine"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What cosmological theory of galaxy formation states that small variations in the primordial universe created so-called seeds that built up the large-scale structures we see today?",
+    "answer": "Bottom-up theory"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Sirius is a binary system consisting of two stars, one with twice the mass of the other. Measuring from the barycenter, what is the ratio of the distance from the larger star to the distance from the smaller star?",
+    "answer": "1 to 2 (ACCEPT: $\\rac{1}{2}$)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Immunophenotyping involves the characterization of the cell types present in a patient's immune system. Modern lab techniques allow exquisite specificity, sorting millions of cells into distinct populations. What technique is most commonly used in immunophenotyping studies?",
+    "choices": {
+      "W": "MALDI-TOF mass spectrometry",
+      "X": "Flow cytometry",
+      "Y": "Immunoprecipitation",
+      "Z": "Affinity chromatography"
+    },
+    "answer": "X) Flow cytometry"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Many muscles are set up in antagonistic pairs, where one muscle contracts while the other relaxes. A motor neuron causes contraction of one muscle while an inhibitory interneuron prevents the motor neuron innervating the other muscle from causing contraction. Identify all of the following four neurotransmitters that the inhibitory interneuron could release: 1) GABA; 2) Glutamate; 3) Acetylcholine; 4) Glycine.",
+    "answer": "1 and 4"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A cylinder has an outer radius B and an inner radius A. By what factor is the rate of heat transfer multiplied by if both the inner and outer radius are squared?",
+    "answer": "$\\rac{1}{2}$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Water's index of refraction is 1.3, and the critical angle for the interface between medium A and water is 30 degrees. If light has a critical angle of 60 degrees, in an interface between medium A and B, which of the following is closest to the index of refraction of medium B?",
+    "choices": {
+      "W": "1.12",
+      "X": "1.75",
+      "Y": "2.25",
+      "Z": "2.6"
+    },
+    "answer": "Y) 2.25"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following diseases, contrary to its name, is not caused by a poxvirus?",
+    "choices": {
+      "W": "Monkeypox",
+      "X": "Smallpox",
+      "Y": "Cowpox",
+      "Z": "Chickenpox"
+    },
+    "answer": "Z) Chickenpox"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Chickenpox is in the same family as which virus, which is considered a major cause of myalgic encephalomyelitis?",
+    "answer": "Epstein- Barr virus"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many arithmetic sequences of three terms exist such that all three terms are part of the set 1, 2, 3, 4, 5?",
+    "answer": "13 (DO NOT ACCEPT: 8)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the approximation for $f(1)$ using Euler's method with two equal steps given the initial condition $f(0) = 1$ and the differential equation $\\rac{dy}{dx} = 2y + 1$ ?",
+    "choices": {
+      "W": "2.5",
+      "X": "3.5",
+      "Y": "4.5",
+      "Z": "5.5"
+    },
+    "answer": "Z) 5.5"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the degree of unsaturation of maleic anhydride?",
+    "answer": "4"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The bond between oxygen and hydrogen in water is said to be polar covalent since there is higher electron density on oxygen than hydrogen. Which of the following differences best explains this difference?",
+    "choices": {
+      "W": "Valence electrons in hydrogen are in an $n = 1$ orbital, giving them a lower energy than those in oxygen",
+      "X": "Valence electrons in hydrogen are in an $l = 0$ orbital, giving them lower energy than those in oxygen",
+      "Y": "Valence electrons in oxygen are in an $n = 1$ orbital, giving them lower energy than those in hydrogen",
+      "Z": "Valence electrons in oxygen are in an $l = 1$ orbital, so the lower effective nuclear charge gives them a lower energy than those in hydrogen"
+    },
+    "answer": "Z) Valence electrons in oxygen in an $l = 1$ orbital, so the lower effective nuclear charge gives them a lower energy than those in hydrogen"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In which of Earth's four compositional layers do earthquake waves typically travel the fastest?",
+    "answer": "Mantle"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Pyritization of fossils would most likely occur in which of the following depositional environments?",
+    "choices": {
+      "W": "Oxygen-rich lacustrine",
+      "X": "Anoxic lacustrine",
+      "Y": "Oxygen-rich marine",
+      "Z": "Anoxic marine"
+    },
+    "answer": "Z) Anoxic marine"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Histone modifications play an extremely important role in the regulation of gene expression. What amino acid, which can be both methylated and acetylated, is most commonly modified in histones?",
+    "answer": "Lysine"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Based on their listed functions, identify all of the following three compounds that would inhibit protein synthesis in bacteria but not in eukaryotes: 1) Tetracycline, inhibits binding of charged tRNAs to the 30S ribosomal subunit; 2) Chloramphenicol, inhibits peptide bond formation by binding to the 70S ribosome; 3) Cycloheximide, blocks exit side of the 60S ribosomal subunit.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What type of spectroscopy uses radio waves to excite nuclei, which gives important information on a molecule's structure?",
+    "choices": {
+      "W": "X-ray",
+      "X": "NMR",
+      "Y": "Raman",
+      "Z": "Spark emission"
+    },
+    "answer": "X) NMR"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An object with a mass of 2 grams and a charge of 1 coulomb is moving perpendicular to a magnetic field with a strength of $4 \\times 10^{-3}$ teslas. Due to centripetal acceleration, the object moves in a circular path with a radius of 25 centimeters. What is the object's velocity, in meters per second?",
+    "answer": "0.5"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which thought experiment suggests that in utilitarianism, the welfare of a being that experiences sufficiently massive amounts of happiness would be put above all other considerations?",
+    "answer": "Utility monster"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which analogous thought experiment suggests that a world containing some number of people living in utopian conditions would be worse than a world containing a sufficiently large number of people experiencing only 'Muzak and potatoes?'",
+    "answer": "Repugnant conclusion"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following double-angle identities does not equal $\\os 2x$ ?",
+    "choices": {
+      "W": "$\\os^{2}x - \\in^{2}x$",
+      "X": "$2\\os x\\in x$",
+      "Y": "$2\\os^{2}x - 1$",
+      "Z": "$1 - 2\\in^{2}x$"
+    },
+    "answer": "X) $2\\os x\\in x$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Compute $\\nt_{\\rac{\\i}{4}}^{\\rac{9\\i}{4}}\\in^{2}x + \\os^{2}xdx$",
+    "answer": "$2\\i$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements exhibits the weakest inert pair effect?",
+    "choices": {
+      "W": "Tin",
+      "X": "Lead",
+      "Y": "Gallium",
+      "Z": "Polonium"
+    },
+    "answer": "Y) Gallium"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four functional groups that are ortho-para directors in electrophilic aromatic substitutions: 1) Hydroxyl; 2) Trifluoromethyl; 3) Chloro; 4) Aldehyde.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The solar tachocline separates which of the following regions of the Sun?",
+    "choices": {
+      "W": "Chromosphere and photosphere",
+      "X": "Photosphere and convective zone",
+      "Y": "Convective zone and radiative zone",
+      "Z": "Radiative zone and core"
+    },
+    "answer": "Y) Convective zone and radiative zone"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three star types that are typically Population I stars: 1) RR Lyrae variables; 2) B-type main sequence stars; 3) Classical Cepheid variables.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true about transcription and post-transcriptional processing?",
+    "choices": {
+      "W": "Addition of the 5 prime cap occurs after introns are removed",
+      "X": "Alternative splicing occurs after pre-mRNA is exported to the cytoplasm",
+      "Y": "The TATA box is not found in bacteria",
+      "Z": "Silencers are typically found immediately upstream of the gene they regulate"
+    },
+    "answer": "Y) The TATA box is not found in bacteria"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four statements that are true regarding human chorionic gonadotropin, abbreviated as hCG: 1) hCG is produced by the trophoblast, which eventually forms the placenta; 2) hCG stimulates the production of progesterone by supporting the corpus luteum; 3) A primary method of testing for pregnancy is by measuring hCG in the blood or urine.",
+    "answer": "All"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An observer throws a clock in a circle at a constant speed of 0.96c. To the observer, how long does it appear to take, in seconds, for one second to elapse on the clock?",
+    "answer": "$\\rac{25}{7}$ sec"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A system of gas molecules is in equilibrium with its surroundings such that the root mean square speed of the molecules was found to be $2\\qrt{6}$ meters per second. In meters per second, what speed are the majority of the gas molecules within the system moving with?",
+    "answer": "4"
+  }
+]

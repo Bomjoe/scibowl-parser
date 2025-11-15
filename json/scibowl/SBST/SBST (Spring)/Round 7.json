@@ -1,0 +1,478 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A scientist crosses a pea plant that is true breeding for the dominant traits of round and yellow seeds with a plant that is true breeding for wrinkled and green seeds. What percent of the offspring will have round, yellow seeds?",
+    "choices": {
+      "W": "0%",
+      "X": "25%",
+      "Y": "50%",
+      "Z": "100%"
+    },
+    "answer": "Z)100%"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Sieve cells are long, conducting cells in the phloem that do not form sieve tubes. Similar to how sieve tube members are associated with companion cells, sieve cells are flanked with what type of nourishing cell?",
+    "answer": "ALBUMINOUS CELLS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "At sufficiently high temperatures, when vibrational modes are excited, what fraction of the thermal energy of a diatomic gas molecule is translational kinetic energy?",
+    "choices": {
+      "W": "2/3",
+      "X": "3/5",
+      "Y": "3/7",
+      "Z": "5/7"
+    },
+    "answer": "Y)3/7"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A pipe has water flowing at $10 \\athrm{m / s}$ through a section with a radius of14 centimeters. Farther down, the pipe narrows to a radius of2 centimeters. In pascals, what is the difference in pressure to two significant figures and in scientific notation, between the two pipe sections, given that the density of water is $1000 \\athrm{kg / m}^3$?",
+    "answer": "1.2 \\times10^8"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules can undergo keto-enol tautomerization?",
+    "choices": {
+      "W": "Formaldehyde",
+      "X": "3-pentanone",
+      "Y": "Formic acid",
+      "Z": "Dimethyl ether"
+    },
+    "answer": "X)3-PENTANONE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cyclic hydrocarbons experiences the least strain?",
+    "choices": {
+      "W": "Cyclobutane",
+      "X": "Cyclopentane",
+      "Y": "Chair cyclohexane",
+      "Z": "Boat cyclohexane"
+    },
+    "answer": "Y) CHAIR CYCLOHEXANE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals does NOT have a chemical formula of $\\athrm{SiO_2}$?",
+    "choices": {
+      "W": "Sillimanite",
+      "X": "Coesite",
+      "Y": "Tridymite",
+      "Z": "Quartz"
+    },
+    "answer": "W) SILLIMANITE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Type Ia supernovae are distinguished from other Type I supernovae by the presence of a spectral line of what element?",
+    "answer": "SILICON (ACCEPT: SINGLY IONIZED SILICON, SI I)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are studying secondary organic aerosols, which form from photochemical reactions involving volatile organic compounds, or VOCs. Identify all of the following four pollutants that are considered VOCs:1) Benzene;2) Carbon monoxide;3) Polyethylene;4) Formaldehyde.",
+    "answer": "1 AND4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "In1964, scientists at Brookhaven National Laboratory decided to test theoretical predictions for the number of solar neutrinos that would convert chlorine atoms into argon atoms. When the experiment was conducted, it was found that only a third as many of the argon atoms were found compared to the theoretical figure. This discrepancy is due to what phenomenon, which was later confirmed by the Sudbury Neutrino Observatory?",
+    "answer": "NEUTRINO OSCILLATION (DO NOT ACCEPT: FLAVOR OSCILLATION)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A triangle has side lengths of5,7, and8. Which of the following statements is true?",
+    "choices": {
+      "W": "The circumcenter and orthocenter are both inside the triangle.",
+      "X": "The circumcenter is inside the triangle, while the orthocenter is outside the triangle",
+      "Y": "The circumcenter is outside the triangle, while the orthocenter is inside the triangle",
+      "Z": "The circumcenter and orthocenter are both outside the triangle"
+    },
+    "answer": "W) THE CIRCUMCENTER AND ORTHOCENTER ARE BOTH INSIDE THE TRIANGLE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Convex quadrilateral ABCD has an inscribed circle. If $\\athrm{AB} =12$, $\\athrm{BC} =15$, and $\\athrm{CD} =23$, what is $\\athrm{DA}$?",
+    "answer": "20"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Primary xylem and secondary xylem are formed from what meristematic tissue types, respectively?",
+    "choices": {
+      "W": "Procambium, vascular cambium",
+      "X": "Vascular cambium, procambium",
+      "Y": "Procambium, cork cambium",
+      "Z": "Vascular cambium, cork cambium"
+    },
+    "answer": "W) PROCAMBIUM, VASCULAR CAMBIUM"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Giving your answer as a fraction, and assuming no incest, what is the coefficient of relatedness between a human and her second cousin?",
+    "answer": "1/32"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A student measures the periods of a pendulum of fixed length at sea level to calculate the acceleration due to gravity. Which of the following changes would make her measured period of the pendulum swing smaller in magnitude?",
+    "choices": {
+      "W": "The same experiment is conducted in a sealed chamber20 miles below ground",
+      "X": "The same experiment is conducted on the top of a5 mile high mountain",
+      "Y": "The pendulum’s center of mass is shifted closer to the point of rotation",
+      "Z": "There is more friction between the point of rotation and the pendulum"
+    },
+    "answer": "Y) THE PENDULUM’S CENTER OF MASS IS SHIFTED CLOSER TO THE POINT OF ROTATION"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A bouncy ball is dropped from a height of3 meters. Each time it bounces, it loses a third of its kinetic energy. What total distance, in meters, will it travel before it comes to rest?",
+    "answer": "15"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A sequence has first term1 and second term2, with all following terms equal to the sum of all of the terms before it. What is the tenth term?",
+    "choices": {
+      "W": "89",
+      "X": "144",
+      "Y": "192",
+      "Z": "384"
+    },
+    "answer": "Z)384"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the largest prime factor of the quantity $5^{6} +5^{8} +5^{10}$?",
+    "answer": "31"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not true regarding roche moutonnées [ROH-sh moo-tun-AYS]?",
+    "choices": {
+      "W": "Plucking occurs on the lee side",
+      "X": "Abrasion occurs on the stoss side",
+      "Y": "The less steep side of roche moutonnées dips towards the direction of glacial movement",
+      "Z": "Roche moutonnées are strictly erosional structures"
+    },
+    "answer": "Y) THE LESS STEEP SIDE OF ROCHE MOUTONNEES DIPS TOWARDS THE DIRECTION OF GLACIAL MOVEMENT"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three layers of the solar atmosphere in terms of increasing temperature:1) Corona;2) Chromosphere;3) Photosphere.",
+    "answer": "3,2,1"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are using metal-organic frameworks, or MOFs, to adsorb refrigerants. After the ban of CFCs, these MOFs are being used to adsorb what organofluorine compounds?",
+    "answer": "HYDROFLUOROCARBONS (ACCEPT: HFCs)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Livermore National Lab are studying the release of carbonyl sulfide, or OCS, from forest fires. Identify all of the following three statements about carbonyl sulfide that are true:1) It is bent;2) The carbon-oxygen bond is longer than the carbon-sulfur bond;3) The formal charge on the carbon is $+1$.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the cross product of the two vectors $4i +6j$ and $i -3j$?",
+    "answer": "-18k"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A convex quadrilateral ABCD has $\\athrm{AB} =1$, $\\athrm{BC} =2$, $\\athrm{CD} =3$, and angles ABC and BCD equal to120 degrees. What is the length of AD?",
+    "answer": "\\qrt{19}"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What buffer system maintains the internal pH of the fluids of all cells?",
+    "answer": "PHOSPHATE BUFFER SYSTEM (ACCEPT: PHOSPHATE)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Inside the human mouth, starch can be split into maltose by what enzyme?",
+    "answer": "AMYLASE (ACCEPT: SALIVARY AMYLASE)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two reflective objects are placed in front of a uniform beam of light, normal to the rays. One is a disk, and the other is a sphere with the same diameter. Which of the following best describes the net radiation force?",
+    "choices": {
+      "W": "Greater on the disk",
+      "X": "Greater on the sphere",
+      "Y": "The same on both",
+      "Z": "Zero"
+    },
+    "answer": "W) GREATER ON THE DISK"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quarks is most massive?",
+    "choices": {
+      "W": "Strange",
+      "X": "Charm",
+      "Y": "Up",
+      "Z": "Down"
+    },
+    "answer": "X) CHARM"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three species in terms of increasing acid dissociation constant in water:1) $\\athrm{NH_4Cl}$;2) $\\athrm{HCl}$;3) $\\athrm{Fe}^{3+}$.",
+    "answer": "1,3,2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three degrees of substitution in terms of increasing likelihood of attack in acid-catalyzed epoxide ring opening:1) Primary;2) Secondary;3) Tertiary.",
+    "answer": "2,1,3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Two planets orbit the same star. One planet has orbital period $T$ and semimajor axis $a$, while the other planet has orbital period $2T$. In terms of $a$, what is its semimajor axis?",
+    "choices": {
+      "W": "$a$ times the cube root of4",
+      "X": "Two $a$ times the square root of2",
+      "Y": "$2a$",
+      "Z": "$4a$"
+    },
+    "answer": "W) A TIMES THE CUBE ROOT OF4"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three clastic rock types in terms of increasing quartz to clay ratio:1) Quartz arenite;2) Greywacke;3) Siltstone.",
+    "answer": "3,2,1"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Livermore National Lab are using beryllium-10 to date moraines left by tropical glaciers during the Last Glacial Maximum. Beryllium-10 undergoes beta-minus decay to boron-10, which is stable. If a sample contains beryllium-10 and there is no other source of boron-10, how many half-lives have gone by if there is15 times more boron-10 than beryllium-10?",
+    "answer": "4"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "By using the ChemCam instrument on the Curiosity rover, scientists at Los Alamos National Lab have found evidence of evaporite deposits in Gale crater. They observed high concentrations of dry calcium sulfate, which is also present on Earth as what common evaporite mineral?",
+    "choices": {
+      "W": "Halite",
+      "X": "Gypsum",
+      "Y": "Anhydrite",
+      "Z": "Calcite"
+    },
+    "answer": "Y) ANHYDRITE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What cranial nerve innervates the sinoatrial node of the heart?",
+    "answer": "VAGUS NERVE (ACCEPT: X,10)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What structures receive impulses from the Atrioventricular node and branch out into Purkinje [PER-kin-jee] fibers?",
+    "answer": "BUNDLES OF HIS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following combinations of resistance and capacitance in series will discharge with the shortest time constant?",
+    "choices": {
+      "W": "20 ohms and5 microfarads",
+      "X": "50 ohms and2 microfarads",
+      "Y": "100 ohms and4 microfarads",
+      "Z": "30 ohms and3 microfarads"
+    },
+    "answer": "Z)30 OHMS AND3 MICROFARADS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Name all of the following four quantities that change sign upon time reversal:1) Poynting vector,2) Electric field,3) Magnetic field,4) Force.",
+    "answer": "1 AND3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The Daniell cell makes use of the oxidation of what metal?",
+    "answer": "ZINC"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A student is tasked with deciphering the identity of an unknown white solid. When added to water, only a small amount of the solid dissolves, but after an excess of ammonia is bubbled through the solution, the solid turns gray. Which of the following is the likely identity of the solid?",
+    "choices": {
+      "W": "Mercury I chloride",
+      "X": "Lead II chloride",
+      "Y": "Silver chloride",
+      "Z": "Lithium carbonate"
+    },
+    "answer": "W) MERCURY I CHLORIDE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Responsible for generating almost all nuclei heavier than iron-56, the s-process and r-process function via the capture of what subatomic particle?",
+    "answer": "NEUTRON"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Lunar highlands are primarily composed of what rock?",
+    "answer": "ANORTHOSITE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the partial derivative with respect to $y$ of $4x^{6}y^{4}$?",
+    "answer": "16x^{6}y^{3}"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An ant is at the origin. Every second, he picks one of four directions (positive $x$, positive $y$, negative $x$, or negative $y$) and travels1 unit in that direction. After6 seconds, the ant is at the point $\\athrm{P} = (x, y)$. What is the probability that the sum of the absolute values of $x$ and $y$ equals6?",
+    "answer": "63 \\ver1024"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When acetone is dissolved in chloroform in a certain ratio, the two compounds cannot be separated by fractional distillation. Which of the following best explains this phenomenon?",
+    "choices": {
+      "W": "Acetone and chloroform experience more favorable interactions and form a minimum-boiling azeotrope",
+      "X": "Acetone and chloroform experience more favorable interactions and form a maximum-boiling azeotrope",
+      "Y": "Acetone and chloroform experience less favorable interactions and form a minimum-boiling azeotrope",
+      "Z": "Acetone and chloroform experience less favorable interactions and form a maximum-boiling azeotrope"
+    },
+    "answer": "X) ACETONE AND CHLOROFORM EXPERIENCE MORE FAVORABLE INTERACTIONS AND FORM A MAXIMUM-BOILING AZEOTROPE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "2,3-dichlorobutane is reacted with excess potassium tert-butoxide. Which of the following functional groups will form?",
+    "choices": {
+      "W": "Disubstituted alkene",
+      "X": "Cumulated diene",
+      "Y": "Conjugated diene",
+      "Z": "Unconjugated diene"
+    },
+    "answer": "Y) CONJUGATED DIENE"
+  }
+]

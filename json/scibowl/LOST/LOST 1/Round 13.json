@@ -1,0 +1,192 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a physical system is rotationally symmetric, then what conservation law must it exhibit according to Noether's theorem?",
+    "answer": "CONSERVATION OF ANGULAR MOMENTUM"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What approximation method in quantum mechanics estimates the energy levels of a complicated system by expressing its Hamiltonian as a power series and taking the first few terms?",
+    "answer": "PERTURBATION THEORY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Those with Urbach-Wiethe disease typically develop symmetrical calcification in what central portion of the limbic system, leading to reduced emotional responses?",
+    "answer": "AMYGDALA"
+  },
+  {
+    "question_number": 2,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The image depicts linear electron flow during the light reaction of photosynthesis in a rose. Answer the following two questions regarding this image: I. What is the name of the electron carrier labeled A, which functions to shuttle electrons in both linear and cyclic electron flow and what transition metal is coordinated within the protein?II. What is the name of the reduced form of the pair of central chlorophyll molecules in photosystem II labeled B, which are amongst the most powerful of oxidizing agents in its oxidized?",
+    "answer": "1) PLASTOCYANIN AND COPPER; 2) P680"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following could not describe a normal mode in a centrosymmetric molecule?",
+    "choices": {
+      "W": "Both IR and raman active",
+      "X": "IR active but raman inactive",
+      "Y": "IR inactive but raman active",
+      "Z": "Both IR and raman inactive"
+    },
+    "answer": "W) BOTH IR AND RAMAN ACTIVE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When methyl vinyl ketone is treated with a gilman reagent and analyzed using infrared spectroscopy, which of the four IR spectrums shown could be the product?",
+    "answer": "X"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The positive two digit integer AB has 12 divisors. How many divisors does the four digit integer ABAB have?",
+    "answer": "24"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Robert starts with the polynomial $f(x) = x^2 + x + 1$. Every second, he either adds or subtracts 1 from $f$. What is the probability that after 2017 seconds, $f$ has a real root?",
+    "answer": "$\\rac{1}{2}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cannot produce an absorption spectra?",
+    "choices": {
+      "W": "Ionized hydrogen",
+      "X": "Singly ionized helium",
+      "Y": "Doubly ionized oxygen",
+      "Z": "Doubly ionized sulfur"
+    },
+    "answer": "W) IONIZED HYDROGEN"
+  },
+  {
+    "question_number": 5,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Displayed is a X-ray photo of the Bullet Cluster, taken by the Chandra Observatory in 2005 and remains one of the most studied clusters due to it providing evidence for the existence of dark matter. Answer the following three questions regarding the bullet cluster: I. What galactic event is occurring in the Bullet Cluster?II. The Bullet Cluster provides wide evidence for dark matter by disproving what theory that hypothesizes that gravity acts differently in low acceleration environments?III. The dark matter within the galaxies is mainly studied via what phenomena which can be measured via the distortion of light coming from behind the Bullet Cluster?",
+    "answer": "1) GALACTIC COLLISION (ACCEPT: GALACTIC CANNIBALISM); 2) MOND (ACCEPT: MODIFIED NEWTONIAN DYNAMICS); 3) GRAVITATIONAL LENSING."
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Labs have been using solid state fluorine 19 NMR spectroscopy to probe the structures of various materials. In trigonal bipyramidal molecules such as $\\athrm{PF}_5$ at low temperatures, two sets of signals are observed for axial and equatorial fluorine in the fluorine 19 NMR spectrum. However, at high temperatures both signals converge into one signal due to what vibrational effect?",
+    "answer": "BERRY PSUEDO- ROTATION"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "DOE researchers at Argonne National Labs have been studying the properties of the SARS-COV2 spike protein via the crystallization of different encoded proteins in the two reading frames, termed rep1a and rep1b. Depicted in the image is an image of the virus, along with labeled proteins. Answer the following two questions concerning SARS-COV2: I. What specific receptor does the spike protein attach to in order to enter cells?II. Which of the following is the genome of SARS-COV2? W) ssRNA X) ssDNA Y) dsRNA Z) dsDNA",
+    "answer": "1) ACE II RECEPTOR; 2) W) SSRNA."
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A lamp sits near the earth emitting electromagnetic radiation of a certain wavelength. An observer rests $10\\athrm{km}$ above the lamp. When the observer sees the light, it is gravitationally redshifted by $1\\athrm{nm}$. If we repeat this experiment near the moon where the gravitational field is $\\$ that of earth and the observer now sits $20\\athrm{km}$ above the lamp, what is the new redshift?",
+    "choices": {
+      "W": "$0.1\\ambda$",
+      "X": "$0.3\\ambda$",
+      "Y": "$\\ambda$",
+      "Z": "$2\\ambda$"
+    },
+    "answer": "X) $0.3\\ambda$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The wavelength that a detector measures from a light source moving towards it is $500\\athrm{nm}$. The light source is traveling $\\rac{1}{2}\\athrm{c}$ in the detector's reference frame. What is the proper wavelength emitted by the source?",
+    "choices": {
+      "W": "$500\\athrm{nm}$",
+      "X": "$682\\athrm{nm}$",
+      "Y": "$866\\athrm{nm}$",
+      "Z": "$920\\athrm{nm}$"
+    },
+    "answer": "Y) $866\\athrm{NM}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The plasmids of what bacterial species do scientists exploit to transfer foreign DNA into plant cultures?",
+    "answer": "AGROBACTERIUM TUMEFACIENS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all the following three changes that would occur to a Lineweaver–Burk plot after you add an uncompetitive inhibitor: 1) Slope increases; 2) Y-intercept decreases; 3) X-intercept decreases.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following protecting groups can not be removed under acidic conditions?",
+    "choices": {
+      "W": "Boc [Bok]",
+      "X": "Fmoc [F-mok]",
+      "Y": "Acetals",
+      "Z": "Orthoesters"
+    },
+    "answer": "X) FMOC"
+  },
+  {
+    "question_number": 9,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Shown is a catalytic cycle for an organometallic coupling reaction, with the intermediates labelled 1 through 4. Answer the following three questions: I. What is the general name of this class of coupling reactions? II. What mechanistic step is represented by the transformation of intermediate 3 to 4? III. What is the oxidation state of palladium in intermediate 3?",
+    "answer": "1) SUZUKI COUPLING; 2) TRANSMETALLATION; 3) +2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Compute the sum of the squares of the eigenvalues of the matrix with first row 4, –1, and second row 1, 1.",
+    "answer": "15"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A positive integer is called an imposter if it can be expressed in the form $2^{a} + 2^{b}$ where $a$ and $b$ are distinct non-negative integers. How many positive integers less than 2020 are imposters?",
+    "answer": "10"
+  }
+]

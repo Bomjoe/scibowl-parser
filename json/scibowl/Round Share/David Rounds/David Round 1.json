@@ -1,0 +1,399 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The function $x = 3t + 5t^{5}$ is the function for a particle's position in meters at a given time in seconds. In meters per second squared, what is the particle's acceleration at $t = 3$?",
+    "answer": "2700"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The function $x = at^{2} + bt^{3}$ is the function for a particle's position in m at a given time in seconds. What would the units have to be for a and b respectively?",
+    "answer": "$\\rac{m}{s^2}$ and $\\rac{m}{s^3}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "A new optical sensor developed at Lawrence Berkeley National Lab is able to detect and depict data from buildings damaged by earthquakes immediately after the earthquake has happened. What process is the reason behind buildings tilting and sinking during an earthquake?",
+    "answer": "SOIL LIQUEFACTION"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Berkeley National Lab have recently discovered a new plastic named polydiketoenamine. This plastic is set to replace what plastic that is most commonly used to create water bottles with repeating $\\athrm{C_{10}H_8O_4}$ units?",
+    "choices": {
+      "W": "High-Density Polyethylene",
+      "X": "Poly Vinyl Chloride",
+      "Y": "Polyethylene Terephthalate",
+      "Z": "Styrofoam"
+    },
+    "answer": "Y) POLYETHYLENE TEREPHTHALATE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pairs arises from phonons attracting another electron to form a weakly bonded electron pair according to BCS theory?",
+    "choices": {
+      "W": "Doublet",
+      "X": "Cooper Pair",
+      "Y": "Valence Pair",
+      "Z": "Bose Einstein Pair"
+    },
+    "answer": "X) COOPER PAIR"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The following reaction: $2\\athrm{ICl}(g) \\eftrightarrow \\athrm{I_2}(g) + \\athrm{Cl_2}(g)$ has a pressure constant of $10^{-8}$. Initially, in closed vessel ICl has a partial pressure of 0.250 atm and the partial pressure of both $\\athrm{I_2}$ and $\\athrm{Cl_2}$ is 0.375 atm. What is the partial pressure in atm of ICl once the system reaches equilibrium to the nearest hundredth?",
+    "answer": "0.01"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many members of the ring does a molecule of cyclized fructose have?",
+    "answer": "5"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What carbohydrate is similar to that of glycogen, however is found in plants?",
+    "choices": {
+      "W": "Cellulose",
+      "X": "Glutamate",
+      "Y": "Amylopectin",
+      "Z": "Maltose"
+    },
+    "answer": "Y) AMYLOPECTIN"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Completely factor the following polynomial: $2x^{2} + 8x + 8$",
+    "answer": "$2(x + 2)^2$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many integers between 98 and 122 are odd?",
+    "answer": "12"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all the following 3 things that are possible results from an earthquake. 1) Tsunami 2) Fires 3) Landslides",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What inosilicate is used to refer to a dark amphibole often found in igneous and metamorphic rocks?",
+    "answer": "HORNBLENDE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Berkeley National Lab have recently detailed the first technique to isolate active microbes in a soil sample. These scientists found single cell organisms that bind to a specific amino acid that is responsible for angiogenesis. What is this amino acid?",
+    "choices": {
+      "W": "Methionine",
+      "X": "Glycine",
+      "Y": "Lysine",
+      "Z": "Valine"
+    },
+    "answer": "W) METHIONINE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers around the world have worked toward the detection of gravitational waves called LIGO which won the 2017 Nobel Physics Prize. The first star collision that these scientists detected were from the merging of what two types of stars?",
+    "answer": "Neutron Stars"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A glycoside is formed from what kind of bond, that is often described as a covalent bond that joins carbohydrates together?",
+    "answer": "GLYCOSIDIC BONDS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids has a hydrophilic polar side chain?",
+    "choices": {
+      "W": "Glycine",
+      "X": "Alanine",
+      "Y": "Valine",
+      "Z": "Serine"
+    },
+    "answer": "Z) SERINE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball is thrown off a cliff that's 40 meters tall. Assuming gravity is $10 \\rac{m}{s^2}$, and the ball has a velocity of 40 m/s when the ball is half way down, what is the drop velocity of the ball?",
+    "answer": "40"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What is the minimum absolute magnitude of displacement for the sum of 4 vectors with magnitude x, 2x, 4x, and 8x.",
+    "choices": {
+      "W": "x",
+      "X": "-15x",
+      "Y": "15x",
+      "Z": "0"
+    },
+    "answer": "W) x"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What atom acts as the oxidizing agent in the following reaction: $MnO_2 + 4HCl \\ightarrow MnCl_2 + Cl_2 + 2H_2O$?",
+    "choices": {
+      "W": "Mn",
+      "X": "O",
+      "Y": "H",
+      "Z": "Cl"
+    },
+    "answer": "W) Mn"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the unit for the Rate Constant for a first order reaction?",
+    "answer": "1/s"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many zeroes are there at the end of 50 factorial?",
+    "choices": {
+      "W": "0",
+      "X": "12",
+      "Y": "24",
+      "Z": "50"
+    },
+    "answer": "X) 12"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "For how many integer values of n is $100 \\times (2/3)^n$ equal to the value of an integer?",
+    "choices": {
+      "W": "Infinitely many",
+      "X": "0",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "Z) 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The two end members of the olivine solid solution series, $Mg_2SiO_4$ and $Fe_2SiO_4$, have drastically different melting points, at 1900 C and 1200 C respectively. What property of the metal cations causes this drastic difference?",
+    "answer": "IONIC RADIUS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What volcanic rock is used as an abrasive in beauty salons, notably mainly used for its porous texture and low density?",
+    "choices": {
+      "W": "Basalt",
+      "X": "Pumice",
+      "Y": "Rhyolite",
+      "Z": "Andesite"
+    },
+    "answer": "X) PUMICE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What organelle is responsible for the breakdown of fatty acid chains through the process of beta oxidation?",
+    "choices": {
+      "W": "Peroxisome",
+      "X": "Lysosome",
+      "Y": "Rough Endoplasmic Reticulum",
+      "Z": "Smooth Endoplasmic Reticulum"
+    },
+    "answer": "W) PEROXISOME"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is an explanation for the lack of membrane bound organelles in mature erythrocytes?",
+    "choices": {
+      "W": "During mitosis erythrocytes lose membrane bound organelles due to unexpected errors happening in anaphase.",
+      "X": "Through evolution, erythrocytes have gotten rid of vestigial membrane bound organelles.",
+      "Y": "Erythrocytes lose organelles as it matures in order to make way for hemoglobin.",
+      "Z": "Erythrocytes do not have a lack of organelles"
+    },
+    "answer": "Y) ERYTHROCYTES LOSE ORGANELLES AS IT MATURES IN ORDER TO MAKE WAY FOR HEMOGLOBIN"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Berkeley National Lab have recently pieced together the largest US-Based dark matter detector. Approximately what percent of the universe is composed of dark matter?",
+    "choices": {
+      "W": "10%",
+      "X": "25%",
+      "Y": "50%",
+      "Z": "85%"
+    },
+    "answer": "X) 25%"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Laboratory have discovered a new Metal Oxide that is quoted as able to “activate electrical current flow by itself”. This new technology will be able to help the advancement of what kind of materials commonly made out of semimetals?",
+    "answer": "SEMICONDUCTOR"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What boson has a positive charge and is responsible for mediating the weak nuclear force?",
+    "answer": "W+ BOSON"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What type of mechanics operates based on the difference of kinetic energy and potential energy of the system, which through Noether’s Theorem explains symmetries?",
+    "answer": "Lagrangian Mechanics"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Chemical erosion is most commonly attributed to what feature of the erodant?",
+    "answer": "ACIDITY"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What substance is postulated to be responsible for keeping galaxies rotating and not flying apart?",
+    "answer": "DARK MATTER"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What chemical principle is responsible for divers receiving compression sickness?",
+    "choices": {
+      "W": "Boyle's Law",
+      "X": "Henry's Law",
+      "Y": "Deep Sea Compression Law",
+      "Z": "Dalton's Law"
+    },
+    "answer": "X) HENRY'S LAW"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Give the standard state of matter for the following 3 elements 1) Carbon 2) Bromine 3) Mercury",
+    "answer": "SOLID, LIQUID, LIQUID"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Rounding your answer to the nearest thousandth, what is the hypotenuse of a right isosceles triangle with legs of length 1 cm?",
+    "answer": "1.414"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the value of 10 choose 1 + 10 choose 2 + 10 choose 3 + ... + 10 choose 9?",
+    "choices": {
+      "W": "1018",
+      "X": "1022",
+      "Y": "1024",
+      "Z": "1028"
+    },
+    "answer": "X) 1022"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many translational and rotational degrees of freedom does an atom of Ne have respectively?",
+    "answer": "3, 0"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about colloids is not true?",
+    "choices": {
+      "W": "The Tyndall effect is an effect that comes from the fact that colloids can reflect light.",
+      "X": "A stable emulsion requires an emulsifying agent to be present.",
+      "Y": "Foams are only the suspension of gas in a solid.",
+      "Z": "The properties of stained glasses can be explained by an aqueous suspension of metal clusters

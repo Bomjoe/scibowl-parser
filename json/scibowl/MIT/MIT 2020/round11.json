@@ -1,0 +1,496 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which histone subunit is NOT part of the core histone?",
+    "choices": {
+      "W": "H1",
+      "X": "H2A",
+      "Y": "H3",
+      "Z": "H4"
+    },
+    "answer": "W) H1"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four hormones that are amines: 1) Epinephrine 2) Melatonin 3) Thyroxine 4) Calcitonin",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of $N$ if a regular polygon with $N$ sides has an interior angle of 175 degrees?",
+    "answer": "72"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the remainder when $2020^{200}$ is divided by 19?",
+    "choices": {
+      "W": "4",
+      "X": "6",
+      "Y": "14",
+      "Z": "17"
+    },
+    "answer": "Z) 17"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Buchwald group at MIT are interested in developing next-generation ligands. To this end, they are employing organometallic coupling chemistry in order to generate ligands that are constrained in rotation about single bonds by steric effects. What form of isomerism does this cause?",
+    "answer": "Atropisomerism"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Wendlandt group at MIT are developing new selective, catalytic reactions. One example of a stereoselective reaction is the electrocyclic ring closure reaction. By name or number, identify each of the following electrocyclic ring-closing reactions that use a disrotatory stereochemical course: 1) Thermal ring closure of a six-pi electron system 2) Photochemical ring closure of a four-pi electron system 3) Photochemical ring closure of a six-pi electron system",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are TRUE of type 1a supernovae: 1) They are typically more luminous than type II supernovae 2) Their luminosity peaks are primarily due to the decay of nickel-56 3) They are typically seen near regions of active star formation",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What common metamorphic index mineral forms from clay minerals as a result of contact metamorphism?",
+    "answer": "Chlorite"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Acetone, a volatile liquid, is placed in a sealed container with a movable piston at room temperature. After letting the pressure in the container rise to acetone's vapor pressure, the piston is pushed down and the volume of the container is decreased. By name or number, identify all of the following three statements that are true about the container after the volume is decreased: 1) The amount of liquid inside the container remains the same 2) The pressure inside the container has decreased 3) The pressure inside the container has increased",
+    "answer": "None of them"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following diagrams depicts how the standard free energy of formation for compounds varies with temperature?",
+    "choices": {
+      "W": "Frost-Ebsworth Diagram",
+      "X": "Latimer Diagram",
+      "Y": "Ellingham Diagram",
+      "Z": "Slater Diagram"
+    },
+    "answer": "Y) Ellingham Diagram"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gives the ratio between the energy density of the electric field of an electromagnetic wave to the energy density of the magnetic field energy density?",
+    "choices": {
+      "W": "1/2",
+      "X": "1",
+      "Y": "2",
+      "Z": "4"
+    },
+    "answer": "X) 1"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Indicate, by name or number, all of the following three statements that are true of the electric field of an ideal dipole: 1) The divergence is zero everywhere but the origin 2) The strength of the electric field falls off as $1 / r^{2}$ 3) The electric field points radially outward",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains the 21 centimeter line commonly used in radio astronomy to detect the galactic interstellar medium?",
+    "choices": {
+      "W": "In neutral hydrogen, very high electron energy levels are close together, so a low-energy photon is emitted in a transition between levels",
+      "X": "In molecular hydrogen, rotational energy is quantized with small differences between levels, so a low-energy photon is emitted when the rotation changes",
+      "Y": "In neutral hydrogen, ground state electrons have a slightly higher energy when the spin is anti-aligned with that of the proton than when it is aligned, so a low-energy photon is emitted when the spin flips",
+      "Z": "In neutral hydrogen, ground state electrons have a slightly higher energy when the spin is aligned with that of the proton than when it is anti-aligned, so a low-energy photon is emitted when the spin flips"
+    },
+    "answer": "Z) In neutral hydrogen, ground state electrons have a slightly higher energy when the spin is aligned with that of the proton than when it is anti-aligned, so a low-energy photon is emitted when the spin flips"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Bob the Boulder is studying the local geology of MIT, and notices that as he walks in any direction away from campus, he encounters the same series of rock strata. Taking a sample of each, he determines that the one furthest from MIT has crystals containing the isotopes Uranium-238 and Lead-206 in equal proportions, while the rocks closest to MIT have the isotopes Uranium-235 and Lead-207 in equal proportions. Which of the following structures could MIT be sitting in the middle of?",
+    "choices": {
+      "W": "Anticline",
+      "X": "Syncline",
+      "Y": "Dome",
+      "Z": "Basin"
+    },
+    "answer": "Z) Basin"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If Albert flips a fair coin 8 times, what is the probability he flips more heads than tails?",
+    "choices": {
+      "W": "43/128",
+      "X": "93/256",
+      "Y": "1/2",
+      "Z": "93/128"
+    },
+    "answer": "X) 93/256"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the probability of getting more than 55 heads when flipping a fair coin 100 times?",
+    "choices": {
+      "W": "5%",
+      "X": "10%",
+      "Y": "15%",
+      "Z": "20%"
+    },
+    "answer": "Y) 15%"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An infinitely long charged cylindrical shell rotates with constant angular velocity. Which of the following best describes the magnetic field generated by the shell?",
+    "choices": {
+      "W": "Linear with $r$ inside the shell, zero outside the shell",
+      "X": "Linear with $r$ inside the shell, decays as $1 / r^{2}$ outside the shell",
+      "Y": "Constant inside the shell, zero outside the shell",
+      "Z": "Constant inside the shell, decays as $1 / r^{2}$ outside the shell"
+    },
+    "answer": "Y) Constant inside the shell, zero outside the shell"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements which must be true regarding wavefunctions: 1) Wavefunctions must be continuous 2) The derivative of wavefunctions must be continuous 3) The wavefunction for an even potential must be even",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "At what stage of mitosis do microtubules start connecting to chromosome kinetochores?",
+    "choices": {
+      "W": "Prophase",
+      "X": "Prometaphase",
+      "Y": "Metaphase",
+      "Z": "Anaphase"
+    },
+    "answer": "X) Prometaphase"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 4 viruses that have double stranded genetic material: 1) Adenovirus 2) Influenza virus 3) Parvovirus 4) Rotavirus",
+    "answer": "1 and 4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, arrange the following three radicals in increasing stability: 1) Vinyl radical 2) Allyl radical 3) Tertbutyl radical",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "According to Bent's rule, the distribution of s and p character in nitrogen's hybrid orbitals in $\\athrm{NH}_{3}$ is not an even $\\athrm{sp}^{3}$ for all orbitals. Which of the following statements best describes how the hybrid orbital containing the lone pair changes to stabilize the molecule?",
+    "choices": {
+      "W": "It has increased s character, and the energy of the bonds are lowered.",
+      "X": "It has increased s character, and the energy of the lone pair is lowered.",
+      "Y": "It has increased p character, and the energy of the bonds are lowered.",
+      "Z": "It has increased p character, and the energy of the lone pair is lowered."
+    },
+    "answer": "X) It has increased s character, and the energy of the lone pair is lowered."
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Gore group at MIT are studying theoretical ecology, using mathematical tools to model populations. Some populations exhibit a minimal critical population size, under which they will not survive. This is an example of what type of effect?",
+    "answer": "Allee effect"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Yaffe group at MIT are studying signaling pathways, especially in the context of cancer. Which of the following signal pathways is unlikely to be used for communication between two spatially separated cell populations? W) RTK signaling X) Notch signaling Y) JAK-STAT signaling Z) Wnt signaling",
+    "answer": "X) Notch signalling"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the largest possible real domain of the following function: $f(x) = \\in (x) / \\n (x)$ ?",
+    "choices": {
+      "W": "$(-\\nfty ,\\nfty)$",
+      "X": "$(0,\\nfty)$",
+      "Y": "$(1,\\nfty)$",
+      "Z": "$(0,1)\\up (1,\\nfty)$"
+    },
+    "answer": "Z) $(0,1)\\up (1,\\nfty)$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An ant on the coordinate plane is at the origin and wishes to reach the point $(4,0)$. However, there is a solid disk blocking its path. This disk is centered at the point $(2,0)$ and has radius 1. What is the shortest possible distance the ant can walk to reach its destination without entering the interior of the disk?",
+    "answer": "$2\\qrt{3} +\\i /3$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Plasma Science and Fusion Center at MIT have recently received renewed funding for stellarator fusion experiments in Germany at the Max Planck Institute of Plasma Physics. Which of the following choices provides accurate reasoning for why stellarators may sometimes prove to be more useful than tokamaks in fusion experiments?",
+    "choices": {
+      "W": "Stellarators do not require a current to be driven through the plasma itself to generate the magnetic field containing the plasma",
+      "X": "More particles in tokamaks are in unconfined orbits than in stellarators, and thus overall lose more energy to diffusion",
+      "Y": "The effective plasma volume in stellarators is much larger than those of tokamaks, on average",
+      "Z": "Stellarators in the trapped-electron mode routinely results in inwards transport flux, while it is stabilized for tokamaks"
+    },
+    "answer": "W) Stellarators do not require a current to be driven through the plasma itself to generate the magnetic field containing the plasma"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the MIT Atomic, Molecular, and Optical Physics Group are looking into ways of using Bose-Einstein Condensate as coolants to establish superfluidity in certain materials by forcing them into a state in which their atoms are non-interacting and occupy a nonzero degeneracy pressure, even at 0 Kelvin. What is the name for this state of matter?",
+    "answer": "Fermi gas"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Physicists use the small angle approximation to simplify many calculations. The small angle approximation is NOT useful for analyzing which of the following systems?",
+    "choices": {
+      "W": "Simple pendulum",
+      "X": "Spherical mirrors",
+      "Y": "Fresnel diffraction",
+      "Z": "Fraunhofer diffraction"
+    },
+    "answer": "Y) Fresnel diffraction"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true of paramagnetic materials: 1) They have negative magnetic susceptibility 2) The induced magnetization is directly proportional to magnetic field strength 3) They exhibit hysteresis loops",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Radio observations of the Crab Nebula show that the gas in the nebula is emitting radiation, thought to be caused by high speed electrons spiralling through the magnetic field produced by the central neutron star. What is the term for this radiation?",
+    "answer": "Synchrotron radiation"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "An array of radio telescopes has an effective diameter of 12 kilometers. When observing at a wavelength of 12 centimeters, what is its angular resolution, in arcseconds to the nearest tenth?",
+    "answer": "2.5 arcseconds"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What polymer primarily strengthens xylem in vascular plants?",
+    "choices": {
+      "W": "Cellulose",
+      "X": "Amylopectin",
+      "Y": "Amylose",
+      "Z": "Lignin"
+    },
+    "answer": "Z) Lignin"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following five cells of the retina from ventral to dorsal. 1) Horizontal cells 2) Amacrine cells 3) Rods and cones 4) Ganglion cells 5) Pigmented retinal epithelium",
+    "answer": "4, 2, 1, 3, 5"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How many nodal planes does the LUMO of hexatriene have?",
+    "choices": {
+      "W": "2",
+      "X": "3",
+      "Y": "4",
+      "Z": "5"
+    },
+    "answer": "Y) 4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 3 statements which are true about the Diels-Alder reaction: 1) The more nucleophilic end of the diene will interact with the most electrophilic end of the dienophile 2) The endo product is the more thermodynamically favorable product 3) If there are no stereogenic centers on the diene, the reaction will always produce a pair of enantiomers as the major product",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A protein with which of the following pI values would elute last in a cation-exchange column with a buffer pH of 6?",
+    "choices": {
+      "W": "4.8",
+      "X": "5.2",
+      "Y": "7.0",
+      "Z": "7.4"
+    },
+    "answer": "W) 4.8"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Name all of the four following hormones that could raise blood glucose: 1) Cortisol 2) Epinephrine 3) Inulin 4) Glucagon",
+    "answer": "1, 2, 4"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the failed arm of a triple junction?",
+    "answer": "Aulacogen"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Within regions in stars where hydrogen and helium are partially ionized, the opacity can increase with temperature, causing the stellar atmosphere to become unstable against radial pulsations. What is the term for this mechanism?",
+    "answer": "Kappa mechanism"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the largest possible number of local maxima that a real-valued polynomial of degree 9 can have?",
+    "choices": {
+      "W": "4",
+      "X": "5",
+      "Y": "8",
+      "Z": "9"
+    },
+    "answer": "W) 4"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many ways are there to tile a 4 by 3 board with identical 2 by 1 tiles?",
+    "choices": {
+      "W": "3",
+      "X": "7",
+      "Y": "11",
+      "Z": "19"
+    },
+    "answer": "Y) 11"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following BEST approximates how resistivity changes as temperature increases for a classical conductor?",
+    "choices": {
+      "W": "Decreases at all temperatures",
+      "X": "Increases quadratically at all temperatures",
+      "Y": "Zero at low temperatures; increases linearly at high temperatures",
+      "Z": "Nonzero constant at low temperatures; increases linearly at high temperatures"
+    },
+    "answer": "Z) Nonzero constant at low temperatures; increases linearly at high temperatures"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Yash creates a solar system model consisting of a massless spring with rest length zero fixed at one end and attached to a marble on the other end. The marble moves without friction. Due to the difference between the spring force and gravity, this is not a perfect simulation of the solar system. By name or number, identify all of the following four statements about this system which are generally true: 1) The marble moves in an ellipse 2) The spring sweeps out area at a constant rate 3) The square of the marble's orbital period is proportional to the cube of the semi-major axis of the ellipse",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The addition reaction of HBr to isobutylene has an inverse kinetic isotope effect. Which of the following statements is true?",
+    "choices": {
+      "W": "The difference in zero point energies between a C-H bond and a C-D bond is smaller in $\\athrm{sp}^{2}$ hybridized carbons compared to $\\athrm{sp}^{3}$ hybridized carbons",
+      "X": "The difference in zero point energies between a C-H bond and a C-D bond is larger in $\\athrm{sp}^{2}$ hybridized carbons compared to $\\athrm{sp}^{3}$ hybridized carbons",
+      "Y": "The difference in zero point energies of the C-H bond and the C-D bond in the transition state is smaller than the difference in the zero point energies in the reactant",
+      "Z": "The difference in zero point energies of the C-H bond and the C-D bond in the transition state is larger than the difference in the zero point energies in the product"
+    },
+    "answer": "W) The difference in zero point energies between a C-H bond and a C-D bond is smaller in $\\athrm{sp}^{2}$ hybridized carbons compared to $\\athrm{sp}^{3}$ hybridized carbons"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "You discover a square planar complex $ML_{4}$, where M is a transition metal and L is a ligand. You find that the degeneracy of the d-orbitals in increasing energy in the complex is 2, 1, 1, 1. Identify all of the following 3 classifications the ligand L can fall under: 1) sigma donor 2) pi donor 3) pi acceptor",
+    "answer": "2 only"
+  }
+]

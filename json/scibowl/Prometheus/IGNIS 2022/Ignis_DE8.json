@@ -1,0 +1,506 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x-risk",
+    "answer_type": "short_answer",
+    "body": "Microplastics may cause unwanted mesoglia cell activation because of their newly found ability to overcome what semi-permeable membrane in mice?",
+    "answer": "Blood-brain barrier"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x-risk",
+    "answer_type": "multiple_choice",
+    "body": "A scientist is forecasting the time required to build a space telescope. If the scientist used reference class forecasting, which would be the primary means of information used in the forecast?",
+    "choices": {
+      "W": "The sum of contractors' estimates of time required for different parts",
+      "X": "The time required to build space telescopes in the past",
+      "Y": "The aggregated time estimates of their colleagues",
+      "Z": "The combination of multiple estimation methods weighted based on intuition"
+    },
+    "answer": "X) The time required to build space telescopes in the past"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Consider the arithmetic sequence with first term1, common difference4, and last term33. What is the remainder when the sum of the terms in the sequence is divided by12?",
+    "answer": "9"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Kenny creates a rectangular prism out of white unit cubes measuring7 units by4 units by5 units. He paints the entire surface area blue and splits the prism into its component unit cubes. In simplest form, what is the probability that a randomly chosen unit cube will be completely unpainted?",
+    "answer": "3/14"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A solution of which of the following salts will appear light green?",
+    "choices": {
+      "W": "$\\athrm{MnCl_2}$",
+      "X": "$\\athrm{CoCl_2}$",
+      "Y": "$\\athrm{NiCl_2}$",
+      "Z": "$\\athrm{ZnCl_2}$"
+    },
+    "answer": "Y) $\\athrm{NiCl_2}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Solutions A and B are formed by dissolving a small, equal mass of glucose in equal volumes of water and ethanol, respectively. Given that ethanol has a density of approximately800 kilograms per cubic meter, which of the following will be true about solutions A and B?",
+    "choices": {
+      "W": "The molarity of solution A is greater than the molarity of solution B",
+      "X": "The molarity of solution B is greater than the molarity of solution A",
+      "Y": "The molarity of solution A is greater than the molarity of solution B",
+      "Z": "The molarity of solution B is greater than the molarity of solution A"
+    },
+    "answer": "Z) The molarity of solution B is greater than the molarity of solution A"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following latitudes is ocean salinity typically the highest?",
+    "choices": {
+      "W": "0 degrees",
+      "X": "30 degrees north",
+      "Y": "60 degrees north",
+      "Z": "90 degrees north"
+    },
+    "answer": "X)30 degrees north"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals is a sorousilicate?",
+    "choices": {
+      "W": "Amphibole",
+      "X": "Epidote",
+      "Y": "Olivine",
+      "Z": "Topaz"
+    },
+    "answer": "X) Epidote"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "During which of the following phases of the cell cycle is the cyclin component of MPF degraded?",
+    "choices": {
+      "W": "G2 phase",
+      "X": "S phase",
+      "Y": "Metaphase",
+      "Z": "Anaphase"
+    },
+    "answer": "Z) Anaphase"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three processes that are facilitated by the3' UTR:1) Binding of miRNA;2) Binding of ribosomes;3) Polyadenylation.",
+    "answer": "1 and3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A photon of wavelength $\\ambda$ has the same energy as an arbitrary, stationary, unbound particle. To what power of the particle's mass will $\\ambda$ vary with?",
+    "answer": "-1"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A particle moving at $0.5c$ has its kinetic energy measured by a student. However, the student forgets to factor in relativistic effects. How many times greater would the kinetic energy have been if the student had not forgotten relativistic effects?",
+    "choices": {
+      "W": "$\\rac{16\\qrt{3}}{3}$",
+      "X": "$\\rac{32\\qrt{3}}{3}$",
+      "Y": "$\\rac{16\\qrt{5}}{5}$",
+      "Z": "$\\rac{32\\qrt{5}}{5}$"
+    },
+    "answer": "W) $\\rac{16\\qrt{3}}{3}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x-risk",
+    "answer_type": "short_answer",
+    "body": "Efforts at controlling African Trypanosomiasis involve controlling the population of what fly that serves as its main vector?",
+    "answer": "Tsetse fly"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x-risk",
+    "answer_type": "short_answer",
+    "body": "What term is used to describe the idea that as the number of trials in a random experiment increases, the average of the results of the trials will converge to the expected value?",
+    "answer": "Law of large numbers"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The first2022 natural numbers are written, and the number1 is erased. Any number that is either4 or7 greater than an erased number is also erased until no more numbers can be erased. What is the largest number that is not erased?",
+    "answer": "18"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For a natural number $n$ with16 factors, $n^3$ can have at most how many factors?",
+    "answer": "256"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How many normal modes of vibration does allele, $\\athrm{C}_3\\athrm{H}_4$, have?",
+    "choices": {
+      "W": "15",
+      "X": "16",
+      "Y": "18",
+      "Z": "19"
+    },
+    "answer": "X)16"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following four conformations of butane from most to least energetic:1) Eclipsed;2) Synperiplanar;3) Gauche;4) Antiperiplanar.",
+    "answer": "2,1,3,4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What phenomenon's effect results in an Einstein ring when a massive structure warps the incident light from behind it?",
+    "answer": "Gravitational lensing"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Relativistic corrections provide how many times of a greater redshift than classical results for an object moving away at $0.96\\athrm{c}$?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "Z)4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Ganglion cells receive signals from what cells in the retina, which gather input from several rods or cones?",
+    "answer": "Bipolar cells"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following electron acceptors of the light reactions is the last to receive electrons?",
+    "choices": {
+      "W": "Pheophytin",
+      "X": "Oxygen evolving complex",
+      "Y": "Ferredoxin",
+      "Z": "Plastocyanin"
+    },
+    "answer": "Y) Ferredoxin"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An electron is traveling in the positive z-direction in a region with a uniform magnetic field pointing in the negative y-direction. In what direction does the Lorentz force point?",
+    "answer": "- x"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two concentric electric potential rings of radius A and B have a radially outward electric field emanating from their shared center. The electric field as a function of $r$ is given as $\\rac{\\lpha}{r}$. What is the potential difference when going from the ring of radius A to radius B?",
+    "answer": "$\\lpha \\n \\rac{A}{B}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x-risk",
+    "answer_type": "multiple_choice",
+    "body": "The assumption that all members of a category, even if they do not share most traits typical of that category, have a certain trait is referred to by what name?",
+    "choices": {
+      "W": "Positive bias",
+      "X": "Noncentral fallacy",
+      "Y": "No true Scotsman",
+      "Z": "Straw man"
+    },
+    "answer": "X) Noncentral fallacy"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x-risk",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three methods that can be classified under unsupervised learning:1) K-means clustering,2) Neural networks,3) Principal component analysis.",
+    "answer": "All"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If two of the roots of the cubic polynomial $x^{3} + ax^{2} + bx + c =0$ are1 and -1, then what is the value of b?",
+    "answer": "-1"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the partial derivative with respect to y of $y\\n (xyz)$?",
+    "answer": "$\\n (xyz) +1$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "If the rate of effusion of diatomic hydrogen gas at STP is given as some variable $x$, what would be the expected rate of effusion of neon gas, in terms of $x$?",
+    "answer": "$\\rac{\\qrt{10}}{10}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the first step of the theoretical Solvay process, carbon dioxide and ammonia are bubbled through a concentrated solution of sodium chloride. This precipitates sodium bicarbonate, leaving behind what salt in solution?",
+    "answer": "Ammonium chloride"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What letter in the Koppen classification system describes most land along the equator?",
+    "answer": "A"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A fault that is nearly vertical at the surface but smoothly connects to a decollement plane parallel to the surface is best described as what type of fault?",
+    "choices": {
+      "W": "Listric",
+      "X": "Strike-slip",
+      "Y": "Dip-slip",
+      "Z": "Oblique"
+    },
+    "answer": "W) Listric"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Vitamin C is required for the hydroxylation of which of the following amino acids in collagen?",
+    "choices": {
+      "W": "Histidine",
+      "X": "Alanine",
+      "Y": "Proline",
+      "Z": "Arginine"
+    },
+    "answer": "Y) Proline"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Jerry wants to increase gene expression in a certain area of the cell by acetylating histones. To which amino acid are the acetyl groups attached?",
+    "choices": {
+      "W": "Proline",
+      "X": "Histidine",
+      "Y": "Valine",
+      "Z": "Lysine"
+    },
+    "answer": "Z) Lysine"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "According to the equipartition theory for a monatomic molecule moving at speed $v$, what percent of the inverse thermodynamic beta quantity is summed per degree of freedom to find the average energy?",
+    "choices": {
+      "W": "25",
+      "X": "50",
+      "Y": "75",
+      "Z": "100"
+    },
+    "answer": "X)50"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A spring-mass system undergoes simple harmonic motion with period $T$. The spring is removed, cut into $n$ equal-sized, smaller springs, and all $n$ springs are attached to the mass. The new spring-mass system is again set into simple harmonic motion. What is the new period of oscillations?",
+    "choices": {
+      "W": "$T\\dot n$",
+      "X": "$T\\dot \\qrt{n}$",
+      "Y": "$\\rac{T}{\\qrt{n}}$",
+      "Z": "$\\rac{T}{n}$"
+    },
+    "answer": "Z) $\\rac{T}{n}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x-risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following classes of tasks that forms part of the data mining process is designed to discover groups and structures in the data that are similar without using known structures in the data?",
+    "choices": {
+      "W": "Clustering",
+      "X": "Classification",
+      "Y": "Regression",
+      "Z": "Summarization"
+    },
+    "answer": "W) Clustering"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x-risk",
+    "answer_type": "short_answer",
+    "body": "Schistosomiasis is caused by parasitic trematodes whose life cycle depends on two hosts, one being humans. To what class of organisms does the other host belong?",
+    "answer": "Gastropoda"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the largest prime factor of $3^{8} -1$?",
+    "answer": "41"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the remainder when $2^{2023}$ is divided by17?",
+    "answer": "9"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What thermodynamic quantity represents the maximum work that can be performed in a system by non-expansion processes?",
+    "answer": "Gibbs free energy"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A chemistry student seeks to convert an alcohol to an ether. Which of the following types of reagents should they use first on the alcohol before reacting it with an alkyl halide?",
+    "choices": {
+      "W": "Oxidizing agent",
+      "X": "Reducing agent",
+      "Y": "Acid",
+      "Z": "Base"
+    },
+    "answer": "Z) Base"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify which of the following three nuclear processes one would expect to generate heat within an asymptotic red giant:1) Triple-alpha process;2) CNO cycle;3) Proton-proton chain.",
+    "answer": "All"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Seyfert galaxies are known for strong X-ray emission lines sourced from the galactic center as they contain what structures surrounded by dense, hot gas?",
+    "answer": "Active galactic nuclei"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following animals contains a single ventricle and single atrium?",
+    "choices": {
+      "W": "Fish",
+      "X": "Bird",
+      "Y": "Crocodile",
+      "Z": "Platypus"
+    },
+    "answer": "W) Fish"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Kevin is trying to find amino acids that absorb light in the same range of light as DNA. Identify all of the following three amino acids that he could use:1) Alanine;2) Cysteine;3) Methionine.",
+    "answer": "None"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "At the Neel temperature, antiferromagnetic materials transition into materials possessing what type of magnetism?",
+    "choices": {
+      "W": "Paramagnetism",
+      "X": "Diamagnetism",
+      "Y": "Ferromagnetism",
+      "Z": "Ferrimagnetism"
+    },
+    "answer": "W) Paramagnetism"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The kinetic energy and potential energy of an object moving at speed $v_{0}$ is given by $\\u \\dot v_{0}^{2}$ and $U(y) = y^{2} -3y -9$, respectively. What is the acceleration of the object when it is located at $y =5$?",
+    "answer": "$- \\rac{7}{2\\u}$"
+  }
+]

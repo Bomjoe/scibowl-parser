@@ -1,0 +1,436 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Boiling occurs when the vapor pressure above a liquid becomes equal to or greater than what quantity?",
+    "answer": "ATMOSPHERIC PRESSURE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds has the lowest boiling point?",
+    "choices": {
+      "W": "$\\athrm{H}_2\\athrm{O}$",
+      "X": "$\\athrm{H}_2\\athrm{S}$",
+      "Y": "HF",
+      "Z": "$\\athrm{PH}_3$"
+    },
+    "answer": "Z) $\\athrm{PH}_3$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What object is formed when a pulsar exceeds its TOV mass limit?",
+    "answer": "BLACK HOLE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following moraine types is characterized by the merging of two lateral moraines?",
+    "choices": {
+      "W": "End moraine",
+      "X": "Medial moraine",
+      "Y": "Ground moraine",
+      "Z": "Shear moraine"
+    },
+    "answer": "X) MEDIAL MORAINE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the distance between the points (8, –4) and (3, 8)?",
+    "answer": "13"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the volume of a regular tetrahedron with a side length of 4?",
+    "answer": "$\\rac{16\\qrt{2}}{3}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Hydroxylation of foreign substances to render them soluble occurs in which of the following organelles?",
+    "choices": {
+      "W": "Rough endoplasmic reticulum",
+      "X": "Smooth endoplasmic reticulum",
+      "Y": "Golgi apparatus",
+      "Z": "Peroxisome"
+    },
+    "answer": "X) SMOOTH ENDOPLASMIC RETICULUM"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three occurrences that would increase DNA expression: 1) Increase DNA methylation; 2) Decrease histone acetylation; 3) Increase histone phosphorylation.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What elementary particle is often interpreted as an electron traveling backwards in time?",
+    "answer": "POSITRON"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A camera lens with a focal length of 40 millimeters photographs a 5 meter tall tree from a distance of 10 meters. To the nearest millimeter, how tall is the image of the tree?",
+    "answer": "20"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Berkeley National Lab are combining a series of techniques to identify and characterize all of the regulatory regions of the human genome. Which of the following is NOT an example of a regulatory region?",
+    "choices": {
+      "W": "Exon",
+      "X": "Promoter",
+      "Y": "Silencer",
+      "Z": "Enhancer"
+    },
+    "answer": "W) EXON"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Fermilab are attempting to induce pair production using Higgs bosons. Higgs bosons are theoretically able to undergo pair production because they have what charge?",
+    "answer": "ZERO"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT needed to perform Sanger sequencing?",
+    "choices": {
+      "W": "Thermocycler",
+      "X": "dNTPs",
+      "Y": "ddNTPs",
+      "Z": "Primers"
+    },
+    "answer": "W) THERMOCYCLER"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "At what two amino acid residues is O-linked glycosylation most likely to occur?",
+    "answer": "SERINE AND THREONINE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The derivative of linear momentum with respect to time is equal to what physical quantity?",
+    "answer": "FORCE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A mass hangs on a string at a 45 degree angle from the vertical inside a car driving at constant speed around a circle with a radius of 10 meters. To the nearest tenth, how many meters per second is the car traveling?",
+    "answer": "9.9"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "X-ray bursters are commonly thought to be composed of a star and what other object?",
+    "answer": "PULSARS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of nebulae: 1) Planetary nebulae may be formed from the death of M type stars; 2) Dark nebulae can be classified as HII regions; 3) Reflection nebulae often appear red due to interstellar reddening.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following acids has the strongest conjugate base?",
+    "choices": {
+      "W": "Hydrofluoric acid",
+      "X": "Hydrochloric acid",
+      "Y": "Nitric acid",
+      "Z": "Sulfuric acid"
+    },
+    "answer": "W) HYDROFLUORIC ACID"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding neutral solutions: 1) pH always equals 7; 2) pH always equals pOH; 3) As temperature increases, pH increases.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the partial derivative with respect to $x$ of the expression $3x^2 y$?",
+    "answer": "$6xy$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many lattice points are completely inside the circle centered at (0, 0) and with radius 5?",
+    "answer": "69"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Oak Ridge National Lab are attempting to characterize interactions at the liquid-liquid interface during solvent extraction. Solvent extraction is a laboratory technique in which a solute is partitioned between two immiscible solvents of greatly different polarity. Which of the following pairs of solvents may be used in solvent extraction?",
+    "choices": {
+      "W": "Ethanol and methanol",
+      "X": "Hexane and butane",
+      "Y": "Water and diethyl ether",
+      "Z": "Water and acetone"
+    },
+    "answer": "Y) WATER AND DIETHYL ETHER"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are investigating the metal-metal bonding in the rhenium-fluorine ion $\\athrm{Re_4F_{18}}^{6-}$. Indicating sign, what is the average oxidation state of the rhenium atoms in this ion?",
+    "answer": "$+3$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In which organ is most of the body’s glycogen stored?",
+    "answer": "LIVER"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three regions of the brain that are derived from the hindbrain: 1) Cerebellum; 2) Thalamus; 3) Pons.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the equivalent resistance in ohms of a system of two resistors connected in parallel with individual resistances of 2 and 6 ohms?",
+    "answer": "$\\rac{3}{2}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the term for vectors used in AC circuits to describe the frequencies and amplitude of waves graphically?",
+    "answer": "PHASORS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two sides of a triangle have lengths of 9 and 6. What is the largest possible area of the triangle?",
+    "answer": "27"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An equilateral convex hexagon ABCDEF has side length 1. Angles B, D, and F are each 150 degrees, and angles A, C, and E are each 90 degrees. What is the area of this hexagon?",
+    "answer": "$\\rac{3 + \\qrt{3}}{2}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "There is a neap tide at a beach on July 5th. When will the next spring tide be at the same beach?",
+    "choices": {
+      "W": "July 6th",
+      "X": "July 12th",
+      "Y": "July 19th",
+      "Z": "July 26th"
+    },
+    "answer": "X) JULY 12TH"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "While studying metal sulfides, Jay finds mysterious brown cubes of goethite [GUR-tite], an iron hydroxide mineral that does not crystallize in the isometric crystal system. He believes that the goethite has replaced a sulfide mineral. What mineral has the goethite most likely replaced?",
+    "answer": "PYRITE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three solids in terms of increasing band gap: 1) Lead; 2) Germanium; 3) Diamond.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three diatomic species in terms of increasing bond order as predicted by molecular orbital theory: 1) $\\athrm{C}_{2}^{+}$ ; 2) $\\athrm{N}_{2}^{-}$ ; 3) $\\athrm{F}_{2}^{2+}$.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true about polynomials of $x$?",
+    "choices": {
+      "W": "If the degree of a polynomial is odd, then the polynomial always has a real root",
+      "X": "If the degree of a polynomial is 5 or greater, then the polynomial cannot be factored over the rationals",
+      "Y": "Accounting for multiplicity, the number of roots a polynomial has is the same as its degree",
+      "Z": "Polynomials cannot have any terms containing $x$ to a negative exponent"
+    },
+    "answer": "X) IF THE DEGREE OF A POLYNOMIAL IS 5 OR GREATER, THEN THE POLYNOMIAL CANNOT BE FACTORED OVER THE RATIONALS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alice and Bob each roll a die. What is the probability that Alice’s roll is higher than Bob’s roll?",
+    "answer": "$\\rac{5}{12}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An 8-millifarad capacitor and 200-millihenry inductor are connected in series. In radians per second, what is the angular frequency of the resulting LC oscillations?",
+    "answer": "25"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A satellite of mass $m$ is in an orbit of radius $r$. If $m$ is doubled, then identify all of the following three quantities that also must change: 1) Orbital velocity; 2) Escape velocity; 3) Total mechanical energy.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Eddington limit refers to a limit on what property of stars?",
+    "answer": "LUMINOSITY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following semi-permanent pressure systems would experience clockwise flow?",
+    "choices": {
+      "W": "South Pacific high",
+      "X": "Aleutian low",
+      "Y": "Icelandic low",
+      "Z": "Azores high"
+    },
+    "answer": "Z) AZORES HIGH"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following bacteria is gram negative?",
+    "choices": {
+      "W": "Bacillus anthracis",
+      "X": "Clostridium botulinum",
+      "Y": "Staphylococcus aureus",
+      "Z": "Escherichia coli"
+    },
+    "answer": "Z) ESCHERICHIA COLI"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the general term for inactive peptides that must be cleaved before they reach an active form?",
+    "answer": "ZYMOGEN"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Livermore National Lab are investigating the natural dimerization of amyloid beta proteins. The aggregation of amyloid beta proteins is an indicator for what neurodegenerative disease?",
+    "answer": "ALZHEIMER'S DISEASE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Ames Lab have developed a honeycomb vanadium lattice doped with iodine which displays ferromagnetism at 49 kelvins. However, the ferromagnetic properties of this lattice do not agree with standard mathematical models. What classical model of ferromagnetism represents discrete electron dipoles as a 2D lattice?",
+    "answer": "ISING MODEL"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Boron trichloride is a strong Lewis acid because it is able to accept a pair of electrons into what specific empty orbital on the boron atom?",
+    "answer": "2P"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Hydrogen bromide is added to a solution of 1-butene and then irradiated with ultraviolet light. Identify all of the following three statements that are correct regarding this reaction: 1) The reaction proceeds in an anti-Markovnikov fashion; 2) The major product is an alkyl bromide; 3) The major product is chiral.",
+    "answer": "1 AND 2"
+  }
+]

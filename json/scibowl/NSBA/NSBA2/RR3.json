@@ -1,0 +1,476 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the trp operon and the role of tryptophan in its regulation?",
+    "choices": {
+      "W": "Inducible, inducer",
+      "X": "Inducible, coinducer",
+      "Y": "Repressible, repressor",
+      "Z": "Repressible, corepressor"
+    },
+    "answer": "Z) REPRESSIBLE, COREPRESSOR"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three biological processes that involve a recombinase enzyme:1) Archaeal DNA repair;2) Maturation of human B-cells;3) Cre-Lox genetic knock-in",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following3 compounds in order of increasing van’t Hoff factor in water:1) Magnesium chloride;2) Glucose;3) Sodium chloride.",
+    "answer": "2,3,1"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following4 ligands that are generally considered to be strong field ligands:1) Chloride;2) Fluoride;3) Bromide;4) Iodide.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "Order the following3 steps from first to last in the compilation of human-readable code to machine code:1) Optimization;2) Lexing;3) Parsing",
+    "answer": "2,3,1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 tree traversals that are considered depth first search:1) Preorder;2) Inorder;3) Postorder.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Before the Sun reached the main sequence, it evolved horizontally along the H-R diagram following what path, which describes the evolution of all stars greater than roughly0.5 solar masses?",
+    "answer": "HENYEY TRACK"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The average amount of energy radiated away from Earth at any given point is S. Assuming Earth has a perfect radiation balance, in terms of S, what is the maximum possible amount of incoming energy at that point under direct sunlight?",
+    "answer": "4S"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many odd integers between1 and100 inclusive are divisible by3?",
+    "answer": "17"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A sphere has a regular octahedron inscribed within it. What is the ratio of the volumes of the sphere to the octahedron?",
+    "answer": "PI"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A system with a time-invariant Lagrangian satisfies the conservation of energy. This is a consequence of what theorem, which states that every differentiable symmetry of a physical system’s action has an associated conservation law?",
+    "answer": "NOETHER’S THEOREM"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In accordance with the Dulong-Petit Law, the molar heat capacity of many solid elements at room temperature is around three times the universal gas constant. This observation matches the prediction of the equipartition theorem applied with how many quadratic degrees of freedom?",
+    "choices": {
+      "W": "3",
+      "X": "4",
+      "Y": "5",
+      "Z": "6"
+    },
+    "answer": "Z)6"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Rank the following three components of the electron transport chain by increasing reduction potential:1) Complex I;2) Complex III;3) Ubiquinone",
+    "answer": "1,3,2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A gene has three alleles; allele A is dominant to allele B, which is dominant to allele C. Two organisms with genotypes AB and BC produce an arbitrarily large amount of offspring, and the F1 generation breeds with themselves at random to produce an arbitrarily large amount of F2 offspring. What is the expected proportion of organisms in the F2 generation that exhibit the C phenotype?",
+    "answer": "1/16"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following chemical species would have the greatest nucleophilicity for an $\\athrm{S_N2}$ reaction on a primary carbon?",
+    "choices": {
+      "W": "Acetate",
+      "X": "Iodide",
+      "Y": "Hydroxide",
+      "Z": "Chloride"
+    },
+    "answer": "X) IODIDE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many electrons occupy the $t_{2g}$ orbitals of the $[CoF_6]^{3- }$ complex?",
+    "answer": "4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following sorting algorithms has a linear time complexity?",
+    "choices": {
+      "W": "Quick",
+      "X": "Radix",
+      "Y": "Bubble",
+      "Z": "Merge"
+    },
+    "answer": "X) RADIX"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "What phenomenon, which commonly affects CPUs running at high speeds, occurs when the clock signal running the computer is not perfectly periodic?",
+    "answer": "Jitter"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The luminosity of bodies in hydrostatic equilibrium is bounded because radiation pressure cannot exceed the gravitational force on the outer layers of the star. What is the term for the theoretical limit of a star's luminosity derived from this principle?",
+    "answer": "EDDINGTON LIMIT"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why the deposition of black carbon on glacier surfaces does not create a positive feedback loop?",
+    "choices": {
+      "W": "Black carbon stabilizes glaciers, increasing their lifetimes",
+      "X": "Aerosols act as cloud condensation nuclei, decreasing Earth's albedo",
+      "Y": "Black carbon is not created by human activity",
+      "Z": "The associated warming does not create more black carbon"
+    },
+    "answer": "Z) The associated warming does not create more black carbon"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the circumradius of a right triangle with legs of length7 and24?",
+    "answer": "12.5"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Two lines are drawn in the coordinate plane: $\\athrm{y} = \\athrm{ax} + \\athrm{b}$ and $\\athrm{y} = \\athrm{bx} + \\athrm{a}$ . A unit circle is drawn centered at the intersection point of these two lines, and the two lines split the unit circle into four parts. Which of the following choices of a and b makes the four parts most similar to each other in area?",
+    "choices": {
+      "W": "$\\athrm{a} = -2$ , $\\athrm{b} =5$",
+      "X": "$\\athrm{a} = -1$ , $\\athrm{b} =6$",
+      "Y": "$\\athrm{a} =1$ , $\\athrm{b} =8$",
+      "Z": "$\\athrm{a} =2$ , $\\athrm{b} =9$"
+    },
+    "answer": "X) $\\athrm{A} = -1$ , $\\athrm{B} =6$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In their differential form, which of Maxwell's equations relates the curl of the electric field to the time derivative of the magnetic field?",
+    "choices": {
+      "W": "Ampere's Law",
+      "X": "Faraday's law",
+      "Y": "Gauss's law",
+      "Z": "Gauss's law for magnetism"
+    },
+    "answer": "X) FARADAY'S LAW"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In a one-dimensional quantum harmonic oscillator, what is the ratio of the energies of the lowest energy level to the fifth lowest energy level, where energy is defined to be zero at the bottom of the potential well?",
+    "answer": "1/9"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is accurate about the several globin genes encoded in the human genome?",
+    "choices": {
+      "W": "Adult hemoglobin binds oxygen more strongly than fetal hemoglobin.",
+      "X": "The different globin genes are classified as orthologs.",
+      "Y": "A hemoglobin protein can bind up to four oxygen molecules.",
+      "Z": "Hemoglobin and oxygen exhibit negative cooperativity."
+    },
+    "answer": "Y) A HEMOGLOBIN PROTEIN CAN BIND UP TO FOUR OXYGEN MOLECULES."
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The antibiotic novobiocin is a small-molecule competitive inhibitor of the enzyme DNA gyrase. Which of the following is NOT true about novobiocin and DNA gyrase?",
+    "choices": {
+      "W": "According to Michaelis-Menten kinetics, novobiocin does not change the $\\athrm{V}_{\\athrm{max}}$ of DNA gyrase.",
+      "X": "DNA gyrase has both nuclease and ligase domains.",
+      "Y": "Bacterial resistance to $\\eta$ - lactam antibiotics is likely unrelated with resistance to novobiocin.",
+      "Z": "Mutations in nuclear importins can confer resistance to novobiocin."
+    },
+    "answer": "Z) MUTATIONS IN NUCLEAR IMPORTINS CAN CONFER RESISTANCE TO NOVOBIOCIN."
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The pKa values for phosphoric acid are2.1,7.2, and12.4. At what pH value is the relative concentration of $\\athrm{HPO_4}^{2 - }$ maximized?",
+    "answer": "9.8"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following diatomic gas molecules would have the lowest constant volume heat capacity at50 Kelvin?",
+    "choices": {
+      "W": "Hydrogen",
+      "X": "Nitrogen",
+      "Y": "Oxygen",
+      "Z": "Fluorine"
+    },
+    "answer": "W) HYDROGEN"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following algorithms is an example of an asymmetric-key encryption algorithm?",
+    "choices": {
+      "W": "SHA256",
+      "X": "Diffie-Hellman",
+      "Y": "MD5",
+      "Z": "AES"
+    },
+    "answer": "X) Diffie-Hellman"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "Which of the following options correctly describes a difference between stochastic gradient descent and gradient descent?",
+    "answer": "X) SGD CALCULATES GRADIENTS WITH BATCHES OF DATA WHILE GD CALCULATES GRADIENTS WITH THE ENTIRE DATASET"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "When viewing text through a clear piece of calcite, it appears twice when refracted through the crystal. What term is given to the property that allows this double refraction?",
+    "answer": "BIREFRINGENCE (ACCEPT: ANISOTROPY)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Tully-Fisher relation is used to approximate the distance to a galaxy by comparing its luminosity to which of the following properties?",
+    "choices": {
+      "W": "Rotational velocity",
+      "X": "Metallicity",
+      "Y": "Age",
+      "Z": "Density"
+    },
+    "answer": "W) ROTATIONAL VELOCITY"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive integers have both of the following2 properties: I) They have2 digits in base5, and II) They have3 digits in base4.",
+    "answer": "9"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A function f is defined as $\\athrm{f(x) = ax^2 +12x +18}$ . For what value of $a$ do $\\athrm{f(x)}$ and $\\athrm{f^2(x)}$ [f prime of x] share a root?",
+    "answer": "2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following thermodynamic cycles is represented as a rectangle on a temperature-entropy graph?",
+    "choices": {
+      "W": "Brayton cycle",
+      "X": "Carnot cycle",
+      "Y": "Otto cycle",
+      "Z": "Stirling cycle"
+    },
+    "answer": "X) CARNOT CYCLE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true regarding polarization and refraction between two arbitrary media, according to the Fresnel [READ: fray-NELL] equations?",
+    "choices": {
+      "W": "There always exists an angle of incidence at which reflected light is only polarized normal to the plane of incidence.",
+      "X": "There always exists an angle of incidence at which reflected light is only polarized in the plane of incidence.",
+      "Y": "There always exists an angle of incidence above which there is no reflected light.",
+      "Z": "There always exists an angle of incidence at which the reflectance and transmittance sum to two."
+    },
+    "answer": "W) THERE ALWAYS EXISTS AN ANGLE OF INCIDENCE AT WHICH REFLECTED LIGHT IS ONLY POLARIZED NORMAL TO THE PLANE OF INCIDENCE."
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the lateral line of fish, what gelatinous structure covers the hair cells, protecting them from damage?",
+    "answer": "CUPULA"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four cell junctions that are incorrectly matched to what cytoskeletal element they bind to:1) Tight junctions and actin;2) Desmosomes and intermediate filaments;3) Hemidesmosomes and actin;4) Adherens junctions and intermediate filaments",
+    "answer": "3 AND4"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Sometimes, half-reactions occur at a different potential from the reduction potential. What is the term for this difference between the actual and ideal potentials?",
+    "answer": "OVERPOTENTIAL"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The mean free path of a gas at1 atmosphere and $300\\athrm{K}$ is90 nanometers. In nanometers, what is the mean free path of the same gas at2 atmospheres and $900\\athrm{K}$ ?",
+    "answer": "135"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following data types in Java is not a primitive?",
+    "choices": {
+      "W": "float",
+      "X": "char",
+      "Y": "String",
+      "Z": "long"
+    },
+    "answer": "Y) String"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "What type of security breach involves unauthorized code being executed in the web browser of a victim?",
+    "answer": "Cross site scripting (ACCEPT: XSS)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Antarctica's climate is isolated from the effects of subtropical ocean gyres due to the flow of what fast-flowing current surrounding the continent?",
+    "answer": "Antarctic Circumpolar Current (ACCEPT: ACC; ACCEPT: WEST WIND DRIFT)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In which of the five major Köppen classifications would soil weathering likely be most active?",
+    "answer": "A"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A shelf has10 identical left shoes and10 identical right shoes. If David picks two shoes at random, what is the probability that he gets a pair?",
+    "answer": "10/19"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Colin is teaching Vedang how to do subtraction, but Vedang hasn’t learned how to borrow yet. How many different subtraction problems using nonnegative integers less than100 can Colin give Vedang that do not involve borrowing?",
+    "answer": "3025"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 statements that are true of a silicon P-N junction:1) A depletion region is formed at the junction;2) The diffusion and drift forces are balanced when the junction is at equilibrium;3) This P-N junction could be used to make an LED.",
+    "answer": "1 and2"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four quantities that are invariant under the Lorentz transformations:1) Mass;2) Energy;3)3-momentum;4)4-momentum",
+    "answer": "4 ONLY"
+  }
+]

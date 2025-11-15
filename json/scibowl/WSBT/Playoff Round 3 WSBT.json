@@ -1,0 +1,418 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 organisms which belong to molluscs: 1) Slugs; 2) Squids; 3) Oysters.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 1,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the inbreeding coefficient of Individual IV-1 in the pedigree below?",
+    "answer": "1/32"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Great Pacific Garbage Patch is a large region of debris trapped within what type of system consisting of circulating ocean currents?",
+    "answer": "GYR\\"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term describes a tidal pattern in which two equal-magnitude high tides occur each day?",
+    "answer": "SEMI\\IURNAL"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let the integer S be equal to the product of all even integers from 2 to 10, inclusive. If for positive integers x and y, find",
+    "answer": "10"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the remainder when $2^{(100^{100})}$ is divided by 1000?",
+    "answer": "376"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following particles CANNOT be produced when Magnesium-23 undergoes beta-plus decay?",
+    "choices": {
+      "W": "Electron Neutrino",
+      "X": "Positron",
+      "Y": "Sodium-23",
+      "Z": "Photon"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true of the photoelectric effect: 1) No electrons are ejected unless the incoming radiation has a wavelength above a certain threshold 2) Electrons are ejected at a rate proportional to the intensity and frequency of the radiation 3) The kinetic energy of the ejected electrons is inversely proportional to the frequency of the incident radiation",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three Lewis Acids by increasing acidity: 1) Gallium Trichloride; 2) Boron Trichloride; 3) Aluminum Trichloride.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is incorrect regarding zeolites?",
+    "choices": {
+      "W": "They can have an Aluminum/Silicon ratio greater than 1",
+      "X": "They can be used as ion-exchange resins",
+      "Y": "They can be used as selective acid heterogeneous catalysts",
+      "Z": "They can capture Group II metal cations"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "NIH researchers are studying a steroid hormone synthesized by the zona fasciculata which is involved in blood pressure and immune system regulation. What hormone, of which deficits are caused by Addison's disease, do the researchers examine?",
+    "answer": "Cortisol"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers examine an alcoholic patient suffering from gallstones whose skin is discolored and urine is darkened due to elevated levels of bilirubin glucuronide pigment in the blood. What condition does the patient exhibit?",
+    "answer": "Jaundice"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 peptides that are secreted by saliva: 1) Amylase; 2) Secretin; 3) Lysozyme.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all the following which are true regarding herbaceous plants. 1) Herbaceous plants exhibit little to no secondary growth 2) All eudicots are considered to be herbaceous plants 3) Alfalfa is an example of a non-herbaceous plant",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three metamorphic index minerals in order of increasing metamorphic grade: 1) Sillimanite; 2) Garnet; 3) Muscovite.",
+    "answer": "3 2 1"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quantities best describes the branching complexity of a stream or river?",
+    "choices": {
+      "W": "Strahler number",
+      "X": "Rossby number",
+      "Y": "rapidity",
+      "Z": "vorticity"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the remainder when 12! is divided by 13?",
+    "answer": "12"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An unfair 6 sided die has the property that the probability of rolling an x is directly proportional to x. For example, the probability of rolling a 6 is 6 times as large as the probability of rolling a 1. If the die is rolled twice, what is the probability that the sum of the 2 numbers rolled is equal to 2?",
+    "answer": ""
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the distance traveled by a sound wave in 2 milliseconds that has a frequency of $1 \\athrm{kHz}$ and a wavelength of $0.33 \\athrm{m}$?",
+    "answer": "0.66m"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An unknown atom has $2 \\times 10^{-18} \\athrm{J}$ of energy between its third lowest and lowest energy level. It has $6.6 \\times 10^{-19} \\athrm{J}$ of energy between its third-lowest and its second-lowest energy level. What is the second smallest frequency in the emission spectrum of this atom?",
+    "answer": "$10^{15} \\athrm{Hz}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all the following 4 choices that are true of the anhydrous hydrogen halide HF. 1) It is a volatile liquid 2) It has low conductivity 3) It is a Bronsted acid 4) It has a high relative permittivity",
+    "answer": "3 AND 4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organic groups CANNOT be inferred from the proton NMR above?",
+    "choices": {
+      "W": "Aromatic",
+      "X": "Methylene",
+      "Y": "Aldehyde",
+      "Z": "Ester"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Ames National Lab researchers find that ferromagnetic materials lose their permanent magnetic properties after being brought above a certain temperature. What term refers to this point, an analogue of the Néel temperature?",
+    "answer": "Curie point/temperature"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Lawrence Berkeley National Lab scientists observe that placing nuclei that emit gamma rays in a crystal lessens recoil energy loss of the nuclei. What term describes this effect, which is applied in spectroscopy to detect energy shifts?",
+    "answer": "Mossbauer effect"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 cells that are antigen presenting cells. 1) Dendritic Cells 2) Cytotoxic T cells 3) Natural Killer Cells 4) B cells",
+    "answer": "1 AND 4"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 cells which are correctly matched to their direct descendant. 1) Megakaryocyte and Platelets 2) Myleocytes and Monocyte 3) Reticulocyte and Erythrocyte",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 radiometric dating systems by the age of material it best measures from youngest to oldest: 1) Carbon-14; 2) Uranium-Lead; 3) Uranium-Thorium.",
+    "answer": "1 3 2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following unconformities is best described by two sedimentary strata separated by no erosional surface?",
+    "choices": {
+      "W": "Angular unconformity",
+      "X": "Nonconformity",
+      "Y": "Disconformity",
+      "Z": "Paraconformity"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the magnitude of $e^{3i + 4}$?",
+    "answer": ""
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 statements which agree with the Invertible Matrix Theorem for an n x n invertible matrix A. 1) The columns of A form a linearly dependent set 2) The linear transformation $x \\ightarrow Ax$ is one to one 3) A has n-1 pivot positions 4) $A^T$ is invertible",
+    "answer": "2 AND 4"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An electron has a linear momentum of $4 \\times 10^{-25} \\athrm{kg} \\athrm{m} / \\athrm{s}$. What is the order of magnitude of the kinetic energy of the electron?",
+    "answer": "$10^{-19} \\athrm{J}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "2 moles of an ideal gas is sealed within a container of $0.08314 \\athrm{m}^3$ at a temperature of 127 degrees Celsius. What is the pressure inside the container in kPa assuming there are no other gases?",
+    "answer": "80"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What compound, commonly used as a nanoparticle medium to transfer electrons from an organoruthenium dye to a conductor in photoelectrochemical cells can be extracted from ilmenite?",
+    "answer": "Titanium Dioxide"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Alice the lab intern is carrying out solution synthesis, but notices a problem in which smaller particles in the distribution redissolve and that their solvated species precipitate onto larger particles. What effect has Alice observed, which can be minimized with the addition of surfactant molecules?",
+    "answer": "Ostwald Ripening"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "NASA tracks the distribution of asteroids throughout the Solar System. Researchers observe that orbital resonances with Jupiter’s orbital period cause disruptions that clear sections of the Main Asteroid Belt of their asteroids. What term refers to the spaces left by this effect?",
+    "answer": "Kirkwood Gaps"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers observe that the semimajor axes of small asteroids are affected when radiated by the Sun, as the object re-radiates thermal protons, generating thrust. What is the name of this effect?",
+    "answer": "Yarkovsky Effect"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What autoimmune disorder, characterized by the binding of antibodies to thyroid stimulating hormones, leads to heat intolerance and weight loss?",
+    "answer": "Graves' Disease"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What cellular process, allowing for bacteria like E.coli to use phosphoenolpyruvate (phospho-ENOL-pyruvate) for carbohydrate synthesis, involves condensation of 2 Acetyl Coenzyme A while releasing succinate as a byproduct?",
+    "answer": "Glyoxylate Cycle"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What hypothesis proposes that life can be carried between planets by meteorites, meaning it may not have originated on Earth?",
+    "answer": "PANSPERMIA"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What term refers to sources of gravitational waves whose waveforms allow their precise distance to be determined?",
+    "choices": {
+      "W": "standard candles",
+      "X": "standard sirens",
+      "Y": "standard rulers",
+      "Z": "standard repeaters"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the irrationality measure of $\\i$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let W(x) be the inverse of the function. Expressing your answer in terms of W(x), what is the derivative of W(x) dx (W of x dx)?",
+    "answer": ""
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A toy rocket is launched with a speed of $50 \\athrm{m / s}$ and at an angle of $30^\\irc$ to the vertical. After 2.5 seconds, what is the horizontal displacement of the rocket?",
+    "answer": "62.5 m"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The force on a box can be modeled by the function $f(t) = t^2 - 6t + 8$ where $f(t)$ represents the force in newtons at time t. If the mass of the box is $6\\athrm{kg}$, what is the box's change in speed from $t = 0$ to $t = 6$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In Stille Coupling, the reactant molecule must always contain which of the following metals?",
+    "choices": {
+      "W": "Palladium",
+      "X": "Tin",
+      "Y": "Zinc",
+      "Z": "Nickel"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following solvents would be best for the preparation of a borane complex via metathesis using lithium aluminum hydride?",
+    "choices": {
+      "W": "Tetrachloroethylene",
+      "X": "Toluene",
+      "Y": "Tetrahydrofuran",
+      "Z": "n-hexane"
+    },
+    "answer": "Y"
+  }
+]

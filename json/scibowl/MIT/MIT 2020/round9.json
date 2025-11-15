@@ -1,0 +1,502 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The Davisson-Germer experiment demonstrated the wave-like nature of matter by the diffraction of what particles?",
+    "answer": "Electrons"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many stereoisomers are possible for the complex ion $[\\athrm{Co}(\\athrm{NH}_3)_2(\\athrm{CN})_2\\athrm{Cl}_2]^{-}$?",
+    "answer": "6"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which solar system planet features a sharp contrast in topography between the Northern and Southern hemispheres?",
+    "answer": "Mars"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true of stellar nucleosynthesis: 1) The CNO cycle is more temperature dependent than the proton-proton chain 2) The S process occurs in the envelopes of asymptotic giant branch stars 3) The triple-alpha process only occurs in stars of mass greater than 1.1 solar masses",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What is ground tissue that is internal to the vascular tissue typically called?",
+    "choices": {
+      "W": "Cortex",
+      "X": "Pith",
+      "Y": "Heartwood",
+      "Z": "Cork"
+    },
+    "answer": "X) Pith"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "You discover an enzyme with a hydrophobic pocket and 2 charged residues, Lys80 and Asp92, within the pocket. By name or number, identify all of the following three statements that are true about these residues: 1) The pKa of the Asp92 is higher than the pKa of free aspartate in water 2) The pKa of Lys80 is higher than the pKa of free lysine in water 3) The mutation Lys80 to Val80 would likely NOT destabilize the protein",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Li group at MIT are investigating aminoacyl-tRNA synthetase levels with regards to tRNA charging. Which of the following statements is true about tRNAs?",
+    "choices": {
+      "W": "tRNAs have an abundance of minor bases",
+      "X": "The CCA tail is located on the 5' end of the tRNA",
+      "Y": "The T arm contains cytidine, a modified cytosine",
+      "Z": "tRNA molecules are approximately 50 to 60 nucleotides"
+    },
+    "answer": "W) tRNAs have an abundance of minor bases"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Li group at MIT are studying bacterial transcription and translation. Which of the following genomic regions is found in bacteria?",
+    "choices": {
+      "W": "TATA box",
+      "X": "Pribnow box",
+      "Y": "CAAT box",
+      "Z": "GC box"
+    },
+    "answer": "X) Pribnow box"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the smallest composite number that is relatively prime to 630?",
+    "answer": "121"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the determinant of the following 3 by 3 matrix? $$\\eft( \\egin{array}{lll}2 & 0 & 0 \\\\1 & 5 & 3 \\\\2 & 4 & 1 \\nd{array} \\ight)$$ (read row by row)",
+    "answer": "-14"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following occurs as a traveling wave on a string reflects off of a wall at a fixed end?",
+    "choices": {
+      "W": "It reflects with inversion",
+      "X": "It reflects without inversion",
+      "Y": "It interferes with the incident wave to form a standing wave",
+      "Z": "It interferes perfectly destructively with the incident wave"
+    },
+    "answer": "W) It reflects with inversion"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, for a system with the same energy levels, degeneracies, and number of particles, arrange the following 3 distributions in order of increasing expected number of particles in a given energy level: 1) Maxwell-Boltzmann 2) Fermi-Dirac 3) Bose-Einstein",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit, as $x$ approaches infinity, of $2^{x} / (3^{x} - 1)$?",
+    "answer": "0"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions of an integer $n$ has the fastest asymptotic growth rate as $n$ approaches infinity?",
+    "choices": {
+      "W": "$n!$",
+      "X": "$100^{n}$",
+      "Y": "$2^{n^{2}}$",
+      "Z": "$n^{n}$"
+    },
+    "answer": "Y) $2^{n^{2}}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Cummins group at MIT are exploring ways to synthesize strained molecules to explore the limits of chemical bonding theories. One synthetic target is tetrahedrane, with formula $\\athrm{C_4H_4}$. What is the unsaturation number of tetrahedrane?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "Y) 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Cummins group at MIT are studying ways to reduce phosphates sustainably to create other phosphorus related compounds. Answer the following 2 questions about phosphorus. 1) What is the oxidation state of phosphorus in the phosphate anion? 2) What is the most kinetically stable allotrope of elemental phosphorus at high temperatures?",
+    "answer": "+5; red"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The magnitude of the gravitational field at the corner of a cube with mass $m$ and side length $s$ is $g$. What is the magnitude of the gravitational field at the corner of a cube with the same density and side length $2s$?",
+    "answer": "$2g$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A thin rod has a total mass of $M$ and length $L$, but its mass density increases proportionally to $x^{2}$, where $x$ is the distance from one end, such that the density at that end is zero. What is the moment of inertia of this rod about that end?",
+    "answer": "$\\rac{3}{5} ML^{2}$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "If cardiac output increases, what happens to the glomerular (glah-MER-u-lar) filtration rate?",
+    "choices": {
+      "W": "It decreases",
+      "X": "It increases",
+      "Y": "It stays the same",
+      "Z": "It oscillates"
+    },
+    "answer": "X) It increases"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four transposable elements that are NON-autonomous. 1) LINEs 2) SINEs 3) MITEs 4) Sleeping Beauty",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ligands has the highest field splitting in octahedral complexes?",
+    "choices": {
+      "W": "Cyanide",
+      "X": "Water",
+      "Y": "Fluoride",
+      "Z": "Nitrate"
+    },
+    "answer": "W) Cyanide"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following four molecules in terms of increasing net dipole moment: 1) $\\athrm{BCl}_3$ 2) $\\athrm{NH}_3$ 3) HF 4) CO",
+    "answer": "1, 4, 2, 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following objects in the solar system has the highest albedo?",
+    "choices": {
+      "W": "Earth's moon",
+      "X": "Jupiter",
+      "Y": "Pluto",
+      "Z": "Enceladus"
+    },
+    "answer": "Z) Enceladus"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term refers to a location in an ocean basin where no tidal amplitude is experienced due to the Coriolis Effect?",
+    "answer": "Amphidromic point"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in MIT's Quantum Matter Group recently found an exotic physical phenomenon, known as a Kohn anomaly, using data from advanced neutron and X-ray scattering probes. Kohn anomalies are anomalies in the dispersion relation of what quasiparticles, which are related to the normal modes of a crystal lattice?",
+    "answer": "Phonons"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at MIT have shown that plasmon excitations associated with two-dimensional materials can be used to enhance and control light-matter interactions to allow typically forbidden interactions to occur. Indicate, by name or number, all of the following three statements that are true of forbidden transitions: 1) Transitions where the orbital angular momentum changes by more than 1 unit are forbidden 2) Forbidden mechanisms do not obey conservation of angular momentum 3) Metastable states decay by emitting more than one photon",
+    "answer": "1) Transitions where the orbital angular momentum changes by more than 1 unit are forbidden"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What type of epithelial tissue is the human epidermis composed of?",
+    "choices": {
+      "W": "Simple squamous",
+      "X": "Stratified squamous",
+      "Y": "Simple columnar",
+      "Z": "Cuboidal"
+    },
+    "answer": "X) Stratified squamous"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is an accurate description of treadmilling by actin?",
+    "choices": {
+      "W": "G-actin is below the critical concentration at the + end but not the - end",
+      "X": "G-actin is below the critical concentration at the - end but not the + end",
+      "Y": "G-actin is below the critical concentration at both the - end and the + end",
+      "Z": "G-actin is above the critical concentration at both the - end and the + end"
+    },
+    "answer": "X) G-actin is below the critical concentration at the - end but not the + end"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Xavier and Yousef are on either side of a 1 meter long seesaw that is currently balanced on a fulcrum. If Xavier, who is 75 kilograms, starts moving towards the other side of the seesaw at a speed of 4 meters per second, how quickly must 60-kilogram Yousef move in order to keep the seesaw at balance?",
+    "choices": {
+      "W": "4 meters per second",
+      "X": "5 meters per second",
+      "Y": "6 meters per second",
+      "Z": "8 meters per second"
+    },
+    "answer": "X) 5 meters per second"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Amy and Alex are astronauts traveling at relativistic velocities with respect to each other. At some time they are at the same place, and they make some measurements that they compare with each other. Disregarding the time of travel of light and measurement, by name or number identify all of the four following measurements that both would agree on. 1) The length of Alex's spaceship 2) The magnitude of the electric field on Alex's nose 3) The magnitude of a point charge 4) The rest mass energy of Amy's spaceship",
+    "answer": "3 and 4"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many unordered pairs of parallel edges does a cube have?",
+    "choices": {
+      "W": "3",
+      "X": "6",
+      "Y": "12",
+      "Z": "18"
+    },
+    "answer": "Z) 18"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "10 lines are drawn in the plane. What is the maximum number of quadrilaterals that can be formed?",
+    "answer": "420"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of these solvents would be best for an SN2 reaction?",
+    "choices": {
+      "W": "Benzene",
+      "X": "Carbon tetrachloride",
+      "Y": "Acetonitrile",
+      "Z": "Hydrobromic acid"
+    },
+    "answer": "Y) Acetonitrile"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, arrange the following 3 excitations in terms of increasing order of energy required for the excitation: 1) Vibrational excitation 2) Rotational excitation 3) Electronic excitation",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a possible configuration for Venus?",
+    "choices": {
+      "W": "Opposition",
+      "X": "Western quadrature",
+      "Y": "Superior conjunction",
+      "Z": "Northern elongation"
+    },
+    "answer": "Y) Superior conjunction"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A certain galaxy has a known distance from Earth of 2.1 gigaparsecs. Using 70 kilometers per second per megaparsec as the Hubble parameter, what is the redshift? Use the special relativistic approximation and give your answer to the nearest tenth.",
+    "answer": "0.7"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following neurotransmitters is the primary excitatory neurotransmitter in the central nervous system?",
+    "choices": {
+      "W": "Acetylcholine",
+      "X": "GABA",
+      "Y": "Glycine",
+      "Z": "Glutamate"
+    },
+    "answer": "Z) Glutamate"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What specific enzyme is responsible for maintaining negative supercoiling in bacteria?",
+    "answer": "Gyrase"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes an ideal ammeter?",
+    "choices": {
+      "W": "Infinite resistance in parallel",
+      "X": "Infinite resistance in series",
+      "Y": "Zero resistance in parallel",
+      "Z": "Zero resistance in series"
+    },
+    "answer": "Z) Zero resistance in series"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the focal length of a biconvex lens with glass of index of refraction 3, and spherical surfaces of radius 10 meters and 20 meters?",
+    "answer": "$\\rac{10}{3}$ meters"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains the observational difference between Seyfert galaxies and quasar host galaxies?",
+    "choices": {
+      "W": "Quasars are usually detected in visible light, while Seyferts are usually radio sources",
+      "X": "Quasars are generally much more luminous and further away, so that their host galaxy is not detected",
+      "Y": "Quasars have their jets oriented directly towards Earth while Seyferts have a different orientation",
+      "Z": "Quasars are in elliptical active galaxies, while Seyferts are spiral"
+    },
+    "answer": "X) Quasars are generally much more luminous and further away, so that their host galaxy is not detected"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The formation of a reservoir by damming a river or stream will have which of the following effects?",
+    "choices": {
+      "W": "Increase sediment deposition downstream",
+      "X": "Raise the stream profile upstream",
+      "Y": "Increase downcutting upstream",
+      "Z": "Lower the temporary base level"
+    },
+    "answer": "X) Raise the stream profile upstream"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Up to rotation, how many distinct ways are there to color a spinner with seven equal sections such that each section is either red or blue?",
+    "choices": {
+      "W": "8",
+      "X": "14",
+      "Y": "20",
+      "Z": "26"
+    },
+    "answer": "Y) 20"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Andrew defines a function $f(x)$, where $f(x)$ is equal to the sum of the squares of the numbers 1 to $x$. For how many values of $x$ in the range from 1 to 20 is $f(x)$ divisible by 7?",
+    "choices": {
+      "W": "5",
+      "X": "6",
+      "Y": "7",
+      "Z": "8"
+    },
+    "answer": "Z) 8"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the functional group formed by the condensation of a hydroxylamine with a ketone?",
+    "choices": {
+      "W": "Hydrazone",
+      "X": "Oxime",
+      "Y": "Carbamide",
+      "Z": "Ester"
+    },
+    "answer": "X) Oxime"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the product when 1-chloro-2,4-dinitrobenzene is treated with sodium hydroxide?",
+    "answer": "2,4-dinitrophenol"
+  }
+]

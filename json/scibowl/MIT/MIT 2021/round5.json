@@ -1,0 +1,484 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What phenomenon causes the blue glow observed in underwater nuclear reactors?",
+    "answer": "Cherenkov Radiation"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What particle is the carrier particle for the electromagnetic force?",
+    "choices": {
+      "W": "Gluon",
+      "X": "Photon",
+      "Y": "W boson",
+      "Z": "Z boson"
+    },
+    "answer": "X) Photon"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The reaction of carbon monoxide gas with oxygen gas to produce carbon dioxide takes place in a closed container with a moveable piston. By name or number, identify all of the following three changes to the system that would lead to a greater yield of carbon dioxide: 1) Increasing the temperature 2) Increasing the volume 3) Adding nitrogen gas under constant volume",
+    "answer": "None of them"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the pKa of HCN is 11, then to one significant figure, what is the pH of a solution formed when 0.1 moles of HCN is dissolved in 1 liter of water?",
+    "answer": "6"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the term used to describe the relationship between non-adjacent angles formed by the intersection of a single pair of lines?",
+    "choices": {
+      "W": "Alternate",
+      "X": "Vertical",
+      "Y": "Complementary",
+      "Z": "Conjugate"
+    },
+    "answer": "X) Vertical"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "You are playing a game where you roll a fair six-sided die. If the die lands on the numbers 1 through 5, you earn the same number of points as the number the die lands on and can roll again. The game ends when the die lands on 6. What is the expected number of points you will earn from playing this game?",
+    "answer": "15"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three ecosystem components which are classified as abiotic: 1) Tree 2) River 3) Cicada shell",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Carbon cycles through reservoirs, or sinks, where a large amount of carbon is stored. Which of the following reservoirs contains the largest percent of the world's carbon?",
+    "choices": {
+      "W": "Fossil fuels",
+      "X": "Oceans",
+      "Y": "Atmosphere",
+      "Z": "Living organisms"
+    },
+    "answer": "X) Oceans"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in MIT's Center for Theoretical Physics have been studying the axial charges of tritons. To accomplish this, they are utilizing what theory that relates to quarks and gluons?",
+    "answer": "Quantum chromodynamics"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at MIT's Center for Theoretical Physics have been studying open quantum systems in heavy ion collisions. They are attempting to simulate what specific phase of matter, in which matter is subjected to intense heat and pressure?",
+    "answer": "Quark-gluon plasma"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term refers to the process by which large chunks of ice break off of a glacier?",
+    "answer": "Calving"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The cosmic background radiation which originated from the epoch of recombination has a peak wavelength closest to which of the following values?",
+    "choices": {
+      "W": "$10^{-7}\\athrm{m}$",
+      "X": "$10^{-5}\\athrm{m}$",
+      "Y": "$10^{-3}\\athrm{m}$",
+      "Z": "$10^{-1}\\athrm{m}$"
+    },
+    "answer": "Y) $10^{-3}\\athrm{m}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the largest dollar amount that cannot be formed using bills of size 18 dollars, 9 dollars, and 5 dollars?",
+    "answer": "31"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In the expansion the polynomial $(x + 2y)^{4}$ , what is the sum of all the coefficients?",
+    "answer": "81"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An observer is listening to a sound coming from a car at a fixed frequency. By name or number, rank the following three scenarios in order of smallest to largest frequency heard by the observer: 1) Stationary observer with a car moving away from observer at velocity $v$ . 2) Stationary car with an observer moving towards car at velocity $v$ . 3) Observer moving away from car at velocity $v$ with a car moving away from observer at velocity $v^{\\rime}$ (read: $v$ prime).",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A cube and a hollow ring are placed at the top of a 45-degree incline. The two are released simultaneously, with the cube sliding down the incline, and the ring rolling without slipping. For the cube and the ring to reach the bottom of the incline simultaneously, the coefficient of friction between the cube and the incline must be closest to which of the following?",
+    "choices": {
+      "W": "0.1",
+      "X": "0.3",
+      "Y": "0.5",
+      "Z": "0.7"
+    },
+    "answer": "X) 0.3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Bawendi group has previously investigated fluorescent imaging with the dye indocyanine green. The dye emits light at $950 \\athrm{nm}$ . Where does the emitted light lie on the electromagnetic spectrum?",
+    "answer": "Infrared"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The McGuire group has recently detected benzonitrile in the interstellar medium. Another name for this compound is cyanobenzene. Calculate, to the nearest whole number, the molecular weight of benzonitrile.",
+    "answer": "103"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term describing the sliding movement of the lower parts of glaciers?",
+    "answer": "Basal slip"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Hubble's Law relates which of the following two factors?",
+    "choices": {
+      "W": "Recessional velocity and galaxy size",
+      "X": "Recessional velocity and distance",
+      "Y": "Galaxy size and distance",
+      "Z": "Galaxy size and rate of star formation"
+    },
+    "answer": "X) Recessional velocity and distance"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Emily mixes together a solution of copper (II) nitrate (read: copper two nitrate) and potassium iodide, and notices a solid forming. What is the chemical formula of this solid?",
+    "answer": "CuI"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Emily now mixes together a solution of copper (II) nitrate and potassium iodide. She notices a solid forming along with the solution turning brown. What is the stoichiometric (stoy-key-o-met-ric) ratio between the solid and the species responsible for the brown color?",
+    "answer": "2:1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cell types is not a part of the adaptive immune system?",
+    "choices": {
+      "W": "$\\athrm{CD4 + T}$ cell",
+      "X": "$\\athrm{CD8 + T}$ cell",
+      "Y": "$\\athrm{CD19 + B}$ cell",
+      "Z": "$\\athrm{CD15 + }$ neutrophils"
+    },
+    "answer": "Z) $\\athrm{CD15 + }$ neutrophils"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many heavy chains does the most common multimeric form of an IgM antibody possess?",
+    "answer": "10"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In an AC circuit, which of the following best describes the voltage-current relationship in an inductor?",
+    "choices": {
+      "W": "Voltage leads current",
+      "X": "Voltage lags current",
+      "Y": "Voltage is in phase with current",
+      "Z": "Voltage oscillates at a different frequency than current"
+    },
+    "answer": "W) Voltage leads current"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Hannah is standing in front of a concave, spherical mirror with a radius of curvature of 10 meters. If he is 6 meters along the axis of the mirror, which of the following best describes the image formed?",
+    "choices": {
+      "W": "Real and larger than Hannah",
+      "X": "Real and smaller than Hannah",
+      "Y": "Virtual and larger than Hannah",
+      "Z": "Virtual and smaller than Hannah"
+    },
+    "answer": "W) Real and larger than Hannah"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term describes the distance that wind blows over the water to form a wave?",
+    "answer": "Fetch"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three dwarf planets in our solar system from closest to farthest from the sun: 1) Pluto 2) Makemake 3) Ceres",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following processes best describes how species fill diverse ecological niches?",
+    "choices": {
+      "W": "Predation",
+      "X": "Adaptive radiation",
+      "Y": "Sexual selection",
+      "Z": "Artificial selection"
+    },
+    "answer": "X) Adaptive radiation"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three situations in which speciation can occur: 1) A mountain range physically splits a population in half, resulting in no contact between the two resulting subpopulations 2) Individuals in a population which are heterozygous for a particular trait die more frequently than individuals which are homozygous for that trait 3) A new prey animal that moves quickly is introduced to an area with predators adapted for stalking",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three shapes whose diagonals must be perpendicular: 1) Isosceles trapezoid 2) Rhombus 3) Rectangle",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following values is closest to the perimeter of an ellipse with major axis 10 and minor axis 4?",
+    "choices": {
+      "W": "12",
+      "X": "18",
+      "Y": "24",
+      "Z": "30"
+    },
+    "answer": "Y) 24"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "The Boyer group at MIT is studying heart regeneration at the gene level. In embryonic heart development, cardiomyocytes primarily utilize which metabolic pathway that does not require the mitochondria to generate energy?",
+    "choices": {
+      "W": "Glycolysis",
+      "X": "Oxidative phosphorylation",
+      "Y": "Alcoholic fermentation",
+      "Z": "Pentose phosphate pathway"
+    },
+    "answer": "W) Glycolysis"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Boyer group also researches the transition to oxidative metabolism in cardiomyocytes, which is functionally equivalent to the loss of regenerative potential. A feature of differentiation in these cells is characterized by the development of rigid sarcomeres. Within the sarcomere, what large protein extends from the Z-line and interacts with myosin?",
+    "answer": "Titin"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the orbital angular momentum quantum number, $\\ll$ (read: ell), of the electron that is removed when ground state gallium is ionized?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "X) 1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Cobalt-60 is a common radioactive isotope used in radiation therapy. It is most commonly made by bombarding nonradioactive cobalt-59 with neutrons. What is the most likely decay mode of cobalt-60?",
+    "choices": {
+      "W": "Neutron emission",
+      "X": "Alpha decay",
+      "Y": "Beta-minus decay",
+      "Z": "Beta-plus decay"
+    },
+    "answer": "Y) Beta-minus decay"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the process for the gravitational accumulation of particles around a massive object such as a black hole, forming a disk?",
+    "answer": "Accretion"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true concerning lunar cycles?",
+    "choices": {
+      "W": "The sidereal month is how long the moon takes to orbit the earth with respect to the background stars",
+      "X": "The synodic month is how long the moon takes to orbit the earth with respect to the background stars",
+      "Y": "The sidereal month is roughly 29.5 days long",
+      "Z": "The synodic month is roughly 27.33 days long"
+    },
+    "answer": "W) The sidereal month is how long the moon takes to orbit the earth with respect to the background stars"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules has a dipole moment of zero?",
+    "choices": {
+      "W": "$\\athrm{CHCl}_{3}$",
+      "X": "$\\athrm{PF}_{5}$",
+      "Y": "$\\athrm{NH}_{3}$",
+      "Z": "$\\athrm{SO}_{2}$"
+    },
+    "answer": "X) $\\athrm{PF}_{5}$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "For a hydrogen atom, which transition between principal energy levels requires the greatest input of energy?",
+    "choices": {
+      "W": "$n = 1$ to $n = 2$",
+      "X": "$n = 2$ to $n = 4$",
+      "Y": "$n = 3$ to $n = 7$",
+      "Z": "$n = 4$ to $n = 6$"
+    },
+    "answer": "W) $n = 1$ to $n = 2$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Tyler places his finger in the middle of a violin string of length $L$ to create a node at a distance of $L / 2$ from either of its fixed ends. If the fundamental frequency of the string is 440 hertz, at what frequency in hertz will the string sound now?",
+    "answer": "880 hertz"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle of mass $m$ moving to the right at speed $v$ collides with a particle of mass $m$ moving to the left at speed $v$ . The two particles fuse into a single stationary particle of mass $3m$ . In terms of the speed of light $c$ , what is $v$ ?",
+    "answer": "$(\\qrt{5} /3)c"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cells in a plant ovule functions has the primary function of guiding the pollen tube?",
+    "choices": {
+      "W": "Antipodal cells",
+      "X": "Egg cells",
+      "Y": "Polar nuclei",
+      "Z": "Synergids"
+    },
+    "answer": "Z) Synergids"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the development of angiosperm zygotes, the large basal cell divides to form what stalklike structure that anchors the embryo along with supporting its early development?",
+    "answer": "Suspensor"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "An ant on the 2D plane crawls from the origin to the point $P$ and then to $(4,4)$ , only moving one unit in the positive $x$ or positive $y$ direction each turn. Which of the following points $P$ maximizes the number of distinct paths the ant could take from the origin?",
+    "choices": {
+      "W": "(1,1)",
+      "X": "(1,2)",
+      "Y": "(1,3)",
+      "Z": "(2,2)"
+    },
+    "answer": "W) (1,1)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Equilateral triangle $ABC$ with side length 10 is drawn on its circumcircle. Point $D$ is chosen on minor arc $BC$ . What is the largest possible integer perimeter of the quadrilateral $ABDC$ ?",
+    "answer": "31"
+  }
+]

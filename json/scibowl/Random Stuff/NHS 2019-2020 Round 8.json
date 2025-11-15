@@ -1,0 +1,448 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Acetic acid is treated with excess lithium aluminum hydride, followed by the addition of water to the reaction vessel. The final product is observed to be a primary alcohol. Which of the following roles does water play in this reaction?",
+    "choices": {
+      "W": "Protecting group",
+      "X": "Proton source",
+      "Y": "Electrophile",
+      "Z": "Nucleophile"
+    },
+    "answer": "X) PROTON SOURCE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the equation for calculating lattice energy, what material-specific constant accounts for the arrangement of ions in the lattice?",
+    "answer": "MADELUNG CONSTANT"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the $xy$ coordinates of the centroid of the triangle with vertices at the points (0,4), (0,0), and (1,2)?",
+    "answer": "(1/3,2)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that $y = \\n(y + x)$, then, in terms of $y$, what is the derivative of $y$ with respect to $x$?",
+    "answer": "$y / (y -1)$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "How many distinct ice sheets exist on Earth?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "6",
+      "Z": "8"
+    },
+    "answer": "X)2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "When a groundwater well is pumped excessively, the level of the aquifer surrounding the well may fall, resulting in what phenomenon?",
+    "answer": "DRAWDOWN (ACCEPT: CONE OF DEPRESSION)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three organisms that are coleomates [SEE-luh-mates]:1) Seaurchin;2) Earthworm;3) Planarian.",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The “beta” form of what specific protein is associated with many neurodegenerative diseases such as Alzheimer’s disease due to its aggregation into damaging plaques?",
+    "answer": "AMYLOID"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A step-down transformer has a primary winding of180 coils and is supplied an emf of100 volts. If the secondary winding consists of36 coils, then what is the secondary voltage of the transformer?",
+    "answer": "20"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The position of a particle is given by the function $x(t) =2t^3 -8t^2 +8t +20$. At what times $t$ is the particle not moving?",
+    "answer": "$t =2$ AND $t =3 /2$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "DOE researchers at the Joint Genome Institute have been studying microbial cell walls in order to develop new methods for differentiating organisms. What polysaccharide is responsible for the rigidity of fungal cell walls?",
+    "answer": "CHITIN"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab have been investigating network solids due to their potential applications in solid-state quantum technologies. Identify all of the following three compounds that are network solids:1) Silicon carbide;2) Silicon dioxide;3) Boron nitride.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding substitution reactions?",
+    "choices": {
+      "W": "Rearrangements occur with SN1 but not SN2 reactions",
+      "X": "Polar aprotic solvents speed up SN1 reactions",
+      "Y": "Excellent leaving groups are required for SN1 reactions",
+      "Z": "SN2 reactions often occur with inversion of configuration"
+    },
+    "answer": "X) POLAR APROTIC SOLVENTS SPEED UP SN1 REACTIONS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In some octahedral metal complexes, orbital degeneracy is lost and the resulting complex exhibits an altered geometry. What effect is responsible for this?",
+    "answer": "JAHN-TELLER EFFECT (ACCEPT: JAHN-TELLER DISTORTION)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plants does NOT use the C4 pathway during photosynthesis?",
+    "choices": {
+      "W": "Maize",
+      "X": "Orchid",
+      "Y": "Sugarcane",
+      "Z": "Switchgrass"
+    },
+    "answer": "X) ORCHID"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What term describes the continuum of cytoplasm connected by plasmodesmata between plant cells?",
+    "choices": {
+      "W": "Apoplast",
+      "X": "Symplast",
+      "Y": "Protoplast",
+      "Z": "Amyloplast"
+    },
+    "answer": "X) SYMPLAST"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a major reason that the measured weight of an object differs from the predicted force exerted on it by gravity?",
+    "choices": {
+      "W": "The Earth is rotating",
+      "X": "The Earth is not a perfect sphere",
+      "Y": "The Earth's mass is not uniformly distributed",
+      "Z": "The Earth's distance from the Sun varies"
+    },
+    "answer": "Z) THE EARTH'S DISTANCE FROM THE SUN VARIES"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What principle states that, at high quantum numbers, quantum mechanical systems must resemble classical behavior?",
+    "answer": "CORRESPONDENCE PRINCIPLE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If $y = \\in x + \\os \\in x$, which of the following expressions is equal to $y^2$?",
+    "choices": {
+      "W": "1",
+      "X": "$1 + \\in2x$",
+      "Y": "Cosine $2x$",
+      "Z": "$1 - \\os \\in2x$"
+    },
+    "answer": "X) $1 + \\in2x$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In radians, what is the angle measure of each acute angle in a regular100-pointed star?",
+    "answer": "$\\i /100$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At what area or areas of the Earth do the most partial solar eclipses occur?",
+    "choices": {
+      "W": "At the equator",
+      "X": "At horse latitudes",
+      "Y": "At approximately45 degrees north and south of the equator",
+      "Z": "At the poles"
+    },
+    "answer": "Z) AT THE POLES"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three formations that are depositional shoreline features:1) Spits;2) Baymouth bars;3) Sea stacks.",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In order for elimination to occur on a substituted cyclohexane ring by a concerted mechanism, the leaving group must exhibit what relative configuration to the abstracted proton?",
+    "answer": "ANTI- COPLANAR (ACCEPT: ANTI- PERIPLANAR)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider a beaker containing a saturated solution of silver sulfide, with some solid remaining at the bottom. Identify all of the following three changes to the system that would allow more silver sulfide to be dissolved:1) Addition of ammonia;2) Addition of sodium hydroxide;3) Addition of more solid silver sulfide.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In integers mod6, what is11 times3?",
+    "answer": "3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A population of frogs in a local lake triples once every16 days. If there are10 frogs initially, how many will there be after80 days?",
+    "answer": "2430"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A0.6-meter long string is fixed at both ends and allowed to vibrate as a standing wave. At its third harmonic, how many nodes can be found in the standing wave pattern?",
+    "choices": {
+      "W": "2",
+      "X": "3",
+      "Y": "4",
+      "Z": "5"
+    },
+    "answer": "Y)4"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the time constant of an RC circuit, in seconds, consisting of two5-ohm resistors in parallel connected to a battery in series with a6-millifarad capacitor?",
+    "answer": "0.015"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is false regarding protostomes?",
+    "choices": {
+      "W": "Cleavage is radial",
+      "X": "Cleavage is determinate",
+      "Y": "Solid masses of mesoderm form the coelom",
+      "Z": "The mouth develops from the blastopore"
+    },
+    "answer": "W) CLEAVAGE IS RADIAL"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all the following three locations where one could find simple squamous epithelium:1) Lungs;2) Esophagus;3) Kidney tubules.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Thomas Jefferson National Accelerator Facility have been studying mesons in order to ascertain information about the strong nuclear force. What meson are they studying, due to the fact that it is the lightest and simplest particle to experience the strong nuclear force?",
+    "answer": "PION"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab have been using3D printers to print magnetic liquid droplets for their potential applications in fields such as cancer research and artificial intelligence. Most magnetic liquids, or ferrofluids, are composed of the mineral magnetite. What is the chemical formula of this mineral?",
+    "answer": "Fe3O4"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true regarding light and dark silicates?",
+    "choices": {
+      "W": "Dark silicates have higher iron and magnesium content",
+      "X": "Light silicates have higher silica content",
+      "Y": "Olivine and pyroxene are dark silicates",
+      "Z": "Biotite mica and amphibole are light silicates"
+    },
+    "answer": "Z) BIOTITE MICA AND AMPHIBOLE ARE LIGHT SILICATES"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What type of fracture does quartz exhibit?",
+    "choices": {
+      "W": "Irregular fracture",
+      "X": "Conchoidal fracture",
+      "Y": "Splintery fracture",
+      "Z": "Fibrous fracture"
+    },
+    "answer": "X) CONCHOIDAL FRACTURE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the11th triangular number?",
+    "answer": "66"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of an equilateral triangle that is circumscribed around a circle with a diameter of12?",
+    "answer": "432"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "According to hard-soft acid base theory, identify all of the following combinations of ions that, asionic solids, are likely to be soluble in water:1) Soft acid and hard base;2) Hard acid and soft base;3) Hard acid and hard base.",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many unpaired electrons are there in the compound nickel tetracarbonyl?",
+    "answer": "0"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In beta plus decay, a proton is converted into a neutron, releasing a positron and electron neutrino. This process is mediated by the emission of what specific virtual particle?",
+    "answer": "W+ BOSON (DO NOT ACCEPT: W BOSON; W- BOSON)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the average power, in watts, of an AC circuit with a root-mean-square current of3 amps and a resistance of12 ohms?",
+    "answer": "54"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three flower organs from the most lateral to most medial:1) Sepals;2) Petals;3) Carpels.",
+    "answer": "1,2,3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What genus of bacteria is defined by their lack of cell wall?",
+    "answer": "MYCOPLASMA"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "DOE researchers at Argonne National Lab have been using the Advanced Photon Source to examine crystal defects. They do this by firing photons at samples and observing the resulting patterns for anomalies. Photons in what range of the electromagnetic spectrum are most likely used for these purposes?",
+    "answer": "X- RAY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Ames Lab have been using mass spectrometry in order to identify specific compounds. When ketone functional groups are present in these compounds, they often produce fragments that differ from their predicted structure. This is a result of what phenomenon?",
+    "answer": "MCLAFFERTY REARRANGEMENT"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of silicate do micas belong to?",
+    "choices": {
+      "W": "Single tetrahedral silicates",
+      "X": "Single chain silicates",
+      "Y": "Double chain silicates",
+      "Z": "Sheet silicates"
+    },
+    "answer": "Z) SHEET SILICATES"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for the process in which a variety of igneous rocks are produced by a single parent magma?",
+    "answer": "MAGMATIC DIFFERENTIATION"
+  }
+]

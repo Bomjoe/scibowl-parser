@@ -1,0 +1,508 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What is the correct order of phases in mitosis of an animal cell?",
+    "choices": {
+      "W": "Prophase, Metaphase, Telophase, Anaphase",
+      "X": "Telophase, Anaphase, Metaphase, Prophase",
+      "Y": "Prophase, Metaphase, Anaphase, Telophase",
+      "Z": "Prophase, Anaphase, Metaphase, Telophase"
+    },
+    "answer": "Y) PROPHASE, METAPHASE, ANAPHASE, TELOPHASE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the cell division process called meiosis, what is the name for the regions where crossing over occurs?",
+    "answer": "CHIASMATA (ALSO ACCEPT: CHIASMA)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a strong acid?",
+    "choices": {
+      "W": "HF",
+      "X": "HCl",
+      "Y": "HI",
+      "Z": "HBr"
+    },
+    "answer": "W) HF"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the chemical reaction between calcium carbonate and nitric acid, which ion is the spectator ion?",
+    "answer": "NITRATE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What is the slope of a position vs. time graph?",
+    "choices": {
+      "W": "Displacement",
+      "X": "Velocity",
+      "Y": "Acceleration",
+      "Z": "Force"
+    },
+    "answer": "X) Velocity"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A runner starts at rest and then accelerates to $12 \\athrm{~m} / \\athrm{s}$ at time $t = 3$ . What is the average acceleration of the runner between times $t = 0$ and $t = 3$ ?",
+    "answer": "$4 \\athrm{~m} / \\athrm{s}^{2}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a sedimentary rock?",
+    "choices": {
+      "W": "Limestone",
+      "X": "Chert",
+      "Y": "Slate",
+      "Z": "Shale"
+    },
+    "answer": "Y) SLATE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following in order from first to last in the Bowen’s Reaction Series: I. Olivine II. Quartz III. Pyroxene",
+    "answer": "I, III, II"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a factor of 1001?",
+    "choices": {
+      "W": "7",
+      "X": "11",
+      "Y": "13",
+      "Z": "15"
+    },
+    "answer": "Z) 15 (1001 = 7 \\ 13 \\ 11)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the GCF of 105 and 147?",
+    "answer": "21"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at PNNL are studying how AI can better forecast hurricane tracks and intensity. What effect causes hurricanes in the Northern Hemisphere to spin in a counterclockwise direction?",
+    "answer": "CORIOLIS EFFECT"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Lab are studying how aerosols increase the severity of thunderstorms in Houston and across the US. Houston is prone to thunderstorms because it falls under what Koppen Classification, which is prone to peaks of summer rainfall and hot humid summers?",
+    "choices": {
+      "W": "A",
+      "X": "B",
+      "Y": "C",
+      "Z": "D"
+    },
+    "answer": "Y) C"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "There are three domains of life: Archaea, Bacteria, and Eukarya. While the differences between Eukaryotes and Bacteria are more obvious, which cellular component helped discover that Archaea are separate from Bacteria ?",
+    "choices": {
+      "W": "Nucleus",
+      "X": "Cell Membrane",
+      "Y": "Organelles",
+      "Z": "Ribosomes"
+    },
+    "answer": "Z) RIBOSOMES"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Ribosomes catalyze the formation of proteins from the information encoded in messenger RNAs. The ribosome is a large macromolecule composed of RNAs and proteins. Which of the following RNAs directly catalyzes the elongation of a polypeptide chain?",
+    "choices": {
+      "W": "ribosomal RNA",
+      "X": "messenger RNA",
+      "Y": "micro RNA",
+      "Z": "transfer RNA"
+    },
+    "answer": "Z) TRANSFER RNA"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following that are all alkaline earth metals: 1) Rubidium, 2) Strontium, 3) Radium",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the oxidation state of sulfur in sulfur hexafluoride?",
+    "choices": {
+      "W": "-6",
+      "X": "6",
+      "Y": "12",
+      "Z": "-12"
+    },
+    "answer": "X) 6"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How much potential energy does a block of mass $10 \\athrm{kg}$ at rest at height $20 \\athrm{m}$ have?",
+    "answer": "1960 J (DO NOT ACCEPT: 2000 J)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "According to Hooke's Law, what is the force exerted by a spring with a spring constant of 0.2 on an attached mass at displacement 4 meters?",
+    "answer": "0.8 N"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Who developed the heliocentric model for the solar system?",
+    "choices": {
+      "W": "Plato",
+      "X": "Aristotle",
+      "Y": "Nicholas Copernicus",
+      "Z": "Galileo Galilei"
+    },
+    "answer": "Y) NICHOLAS COPERNICUS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Kepler's Third Law states that the planet's orbital period and semimajor axis are proportional to what powers respectively?",
+    "choices": {
+      "W": "3rd and 2nd",
+      "X": "2nd and 3rd",
+      "Y": "-3rd and -2nd",
+      "Z": "-2nd and -3rd"
+    },
+    "answer": "X) 2ND AND 3RD"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Arin has 5 blue socks, 4 red socks, and 6 purple socks in his sock drawer. How many socks would he have to take out before he is guaranteed to have a pair of the same color?",
+    "answer": "4 SOCKS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ways are there to form a 3-person committee out of 6 people?",
+    "answer": "20 WAYS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Oak Ridge Reservation in Tennessee have discovered the importance of a transition metal in helping microbes denitrify soil. Which nitrogen-containing compound do microbes need for denitrification?",
+    "choices": {
+      "W": "Ammonium",
+      "X": "Ammonia",
+      "Y": "Nitrite",
+      "Z": "Nitrate"
+    },
+    "answer": "Z) NITRATE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following transition metals helps microbes denitrify soil as described by the researchers at Oak Ridge Reservation?",
+    "choices": {
+      "W": "Molybdenum",
+      "X": "Gold",
+      "Y": "Iron",
+      "Z": "Copper"
+    },
+    "answer": "W) MOLYBDENUM"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following animals do NOT fall into the phylum Cnidaria (read as ni-Dair-ee-Uh)?",
+    "choices": {
+      "W": "Corals",
+      "X": "Jellies",
+      "Y": "Hydras",
+      "Z": "Flatworms"
+    },
+    "answer": "Z) FLATWORMS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many layers of cells do cnidarians have?",
+    "answer": "2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following has the smallest atomic radius?",
+    "choices": {
+      "W": "Iodine",
+      "X": "Manganese",
+      "Y": "Bromine",
+      "Z": "Sodium"
+    },
+    "answer": "Y) Bromine"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Uranium-238 decays into helium atoms and what other isotope?",
+    "answer": "THORIUM-234"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The strong nuclear force between nucleons is mediated by which class of hadrons, composed of a quark-antiquark pair?",
+    "choices": {
+      "W": "Gluons",
+      "X": "Leptons",
+      "Y": "Mesons",
+      "Z": "Baryons"
+    },
+    "answer": "Y) MESONS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When carrier particles such as mesons are emitted, they temporarily violate mass-energy conservation. What fundamental principle of quantum mechanics explains this phenomenon?",
+    "answer": "HEISENBERG UNCERTAINTY PRINCIPLE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for the orbits in the asteroid belt that are free of asteroids?",
+    "answer": "KIRKWOOD GAPS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following Galilean moons from closest to farthest to Jupiter: I. Ganymede II. Europa III. Io IV. Callisto",
+    "answer": "III, II, I, IV"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a + bi notation, what is the result of $(1 + 3\\athrm{i})(2 - 5\\athrm{i})$ ?",
+    "answer": "$17 + \\athrm{i}$ (ACCEPT: $17 + 1\\athrm{i}$ )"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the result of $\\eft(\\rac{\\qrt{2}}{2} +\\rac{\\qrt{2}}{2} i\\ight)^4$ ?",
+    "answer": "- 1 (ACCEPT: - 1 + 0i)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Labs are building an Electron-Ion Collider to examine the force that holds quarks together. What is this force?",
+    "choices": {
+      "W": "Gravity",
+      "X": "Weak Nuclear Force",
+      "Y": "Strong Nuclear Force",
+      "Z": "Electromagnetic Force"
+    },
+    "answer": "Y) Strong Nuclear Force"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Lab are studying the combination of quarks and gluons. Which of the following best describes the result of this combination?",
+    "choices": {
+      "W": "Meson",
+      "X": "Baryon",
+      "Y": "Lepton",
+      "Z": "Hadron"
+    },
+    "answer": "Z) HADRON"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Hardy and Weinberg, the famous mathematicians developed a mathematical model to understand population genetics. Their famous equations are described in the Hardy-Weinberg Principle. Which of the following is NOT a condition required for the Hardy-Weinberg Principle to apply?",
+    "choices": {
+      "W": "Population Size is Infinitely Large",
+      "X": "Organisms reproduce sexually",
+      "Y": "Mutations occasionally occur",
+      "Z": "There is no gene flow"
+    },
+    "answer": "Y) MUTATIONS OCCASIONALLY OCCUR"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A population of emus is in Hardy-Weinberg equilibrium. $36\\$ of the emus have floppy tails. What percent of emus in the population are heterozygous for their tail trait if a stiff tail is dominant to a floppy tail?",
+    "answer": "$48\\$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What did scientist Rutherford discover from his gold foil experiment?",
+    "choices": {
+      "W": "The plum-pudding model",
+      "X": "That most of the mass of an atom is concentrated in its center",
+      "Y": "Gold atoms naturally arrange themselves in foils",
+      "Z": "Gold atoms have 79 protons"
+    },
+    "answer": "X) THAT MOST OF THE MASS OF AN ATOM IS CONCENTRATED IN ITS CENTER"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following values that the Ideal Gas Law includes: 1) Pressure, 2) Force, 3) Temperature",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A box of mass $20\\athrm{kg}$ is being pulled on the ground with coefficient of kinetic friction $\\u_{k} = 0.5$ . Assuming the angle of the applied force is $0^{\\irc}$ and $\\athrm{g} = 10$ $\\athrm{m / s^2}$ , what is the force of friction acting on the box?",
+    "choices": {
+      "W": "50 N",
+      "X": "100 N",
+      "Y": "200 N",
+      "Z": "400 N"
+    },
+    "answer": "X) 100 N"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A box has mass $10\\athrm{kg}$ and has an acceleration equation of $\\athrm{a(t) = 4t}$ . What is the equation of net force on the box in terms of time?",
+    "answer": "$\\athrm{F(t) = 40t}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 components of a continental margin, from closest to farthest to the shoreline: I. Continental Slope II. Continental Rise III. Continental Shelf",
+    "answer": "III, I, II"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following DOES NOT determine the height, length, and period of a wave?",
+    "choices": {
+      "W": "Fetch",
+      "X": "Wind Speed",
+      "Y": "Time of Day",
+      "Z": "Time Wind has Blown"
+    },
+    "answer": "Y) TIME OF DAY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following sets of 3 side lengths makes a valid triangle?",
+    "choices": {
+      "W": "1, 2, 4",
+      "X": "10, 5, 16",
+      "Y": "4, 5, 6",
+      "Z": "2, 2, 4"
+    },
+    "answer": "Y) 4, 5, 6"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The area of a circle with radius 10 is equal to the circumference of a circle with radius r. What is r?",
+    "answer": "50"
+  }
+]

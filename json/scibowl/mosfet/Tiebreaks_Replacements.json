@@ -1,0 +1,348 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A block with mass 10 kilograms is sliding down a ramp with an incline of 60 degrees to the horizontal. In newtons, what is the normal force acting on the block as it slides down the ramp?",
+    "answer": "49"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quarks is negatively charged?",
+    "choices": {
+      "W": "Up",
+      "X": "Top",
+      "Y": "Strange",
+      "Z": "Charm"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A satellite is orbiting a planet with an orbit speed of 10 kilometers per second, at a distance of 100 kilometers from the planet's center. If the planet's mass were suddenly doubled, and the satellite orbited at the same distance from the center, then to the nearest integer and in kilometers per second, what is the new orbiting velocity of the satellite?",
+    "answer": "14"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following leptons has the greatest mass?",
+    "choices": {
+      "W": "Electron",
+      "X": "Electron neutrino",
+      "Y": "Muon",
+      "Z": "Muon neutrino"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What common disease that causes fevers is carried by plasmodium, a genus of algae transmitted by mosquitoes?",
+    "answer": "MALARIA"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 compounds that are considered electron carriers in the Krebs cycle: 1) NAD+; 2) O2; 3) FAD",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name given to the bonds that form which form between phosphate groups and hydroxyl groups that connect different nucleotides in a DNA strand?",
+    "answer": "PHOSPHODIESTER BONDS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 chromosomes that are inactivated in the formation of a Barr body: 1) 21; 2) X; 3) Y.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which two global-scale atmospheric circulation cells bound the subpolar jet stream?",
+    "answer": "FERREL AND POLAR"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three rocks that formed through slow cooling: 1) Basalt; 2) Gabbro; 3) Rhyolite",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following geometric sequences has a common ratio greater than 3?",
+    "choices": {
+      "W": "1, 3, 9",
+      "X": "2, 8, 32",
+      "Y": "3, 9, 27",
+      "Z": "4, 10, 25"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Over the years, there has been no correlation between the monthly precipitation in Seattle and the average SAT score in Detroit. Therefore, these two variables are best described as which of the following?",
+    "choices": {
+      "W": "Deterministic",
+      "X": "Confounded",
+      "Y": "Dependent",
+      "Z": "Independent"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 elements, that when used to dope a semiconductor, produces a p-type semiconductor: 1) Nitrogen; 2) Phosphorus; 3) Germanium.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases does not obey the octet rule?",
+    "choices": {
+      "W": "HF",
+      "X": "Ne",
+      "Y": "$\\athrm{NO}_2$",
+      "Z": "$\\athrm{CH}_4$"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A photon is emitted from an electron falling from one energy level to another. Which of the following pairs of energy levels would emit a photon with the highest frequency?",
+    "choices": {
+      "W": "$\\athrm{n} = 5$ to $\\athrm{n} = 3$",
+      "X": "$\\athrm{n} = 5$ to $\\athrm{n} = 2$",
+      "Y": "$\\athrm{n} = 4$ to $\\athrm{n} = 2$",
+      "Z": "$\\athrm{n} = 4$ to $\\athrm{n} = 1$"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison are studying metal organic frameworks in an attempt to study new methods of energy storage. Which of the following diatomic gases would a metal organic framework most likely aid in storing?",
+    "answer": "W) HYDROGEN"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the UW Madison are studying the negative symptoms of bad insulin management in diabetes patients. What deadly symptom presents itself in patients who have an excess of ketone bodies in their bloodstream.",
+    "answer": "KETOACIDOSIS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison are using laboratory methods to image the intermediates of the glyoxylate cycle. What spectroscopic technique uses a magnetic field to analyze the interactions of nuclear spins to image molecules?",
+    "answer": "NMR"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the enzyme institute at UW Madison are studying the evolution of enzymes during the early development of the earth. What enzyme is theorized to be one of the first enzymes to exist that is made from RNA?",
+    "answer": "RIBOZYMES"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The electric flux of a spherical surface about a point charge is equivalent to F. If the radius of the spherical surface is tripled, what is the new electric flux about the surface in terms of F?",
+    "answer": "F"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In what phase of meiosis does crossing over take place?",
+    "answer": "PROPHASE 1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a feature formed by glaciers?",
+    "choices": {
+      "W": "U-shaped valley",
+      "X": "Moraine",
+      "Y": "Drumlins",
+      "Z": "Atoll"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three substances in order of increasing boiling point: 1) Water; 2) Diethyl ether; 3) Ethane",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "There are 30 vehicles in a garage, and each one is either a car with 4 wheels or a bike with 2 wheels. If there are 72 wheels in total, how many cars are there?",
+    "answer": "6"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A beam of light with intensity I passes through two polarizing filters at an angle of 60 degrees to each other. Which of the following is equivalent to the new intensity of the light?",
+    "choices": {
+      "W": "I/16",
+      "X": "I/8",
+      "Y": "31/16",
+      "Z": "I/4"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In comparison to the blood of vertebrates, what fluid in invertebrates occupies similar roles as blood?",
+    "answer": "HEMOLYMPH"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three layers of the sun in order of increasing temperature: 1) Chromosphere; 2) Photosphere; 3) Corona",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How many lone pairs are there in the Lewis diagram of hydrogen peroxide?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Yuchen rolls a 20-sided die. What is the probability that he rolls a multiple of 6?",
+    "answer": "$\\rac{3}{20}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A transformer has a secondary winding of 50 turns. It is connected to a 90 volt battery, and 30 volts are passed through the secondary winding. How many turns does the primary winding have?",
+    "answer": "150"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following immunoglobulins is produced for the response against allergens?",
+    "choices": {
+      "W": "IgA",
+      "X": "IgG",
+      "Y": "IgE",
+      "Z": "IgG"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not true about western boundary currents in Northern Hemisphere subtropical gyres?",
+    "choices": {
+      "W": "They have greater volume transport than eastern boundary currents",
+      "X": "They travel north",
+      "Y": "The Gulf Stream is an example of a western boundary current",
+      "Z": "They are generally cooler and shallower than eastern boundary currents"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many vertices does a pentagonal pyramid have?",
+    "answer": "6"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Pyroxenes are inosilicates that contain chains of silica tetrahedra. What is the charge of the silicate ion in pyroxenes?",
+    "answer": "2-"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What moon of Saturn has the highest albedo?",
+    "answer": "ENCHELADUS"
+  }
+]

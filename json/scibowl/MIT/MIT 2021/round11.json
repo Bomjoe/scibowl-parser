@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In writing down all the positive integers between 1 and 200, inclusive, how many times does the digit 2 occur?",
+    "answer": "41"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alice wants to remove one square from a 8 by $n$ square grid and tile the remaining squares with pieces that are made up of three squares in the shape of an L. For how many values of $n$ less than 20 would there exist a square which she can remove from the grid such that such a tiling is possible?",
+    "answer": "6"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In most non-primate organisms, the enzyme urate oxidase serves to catalyze the oxidation of uric acid. In cells, urate oxidase is mostly localised in the core of what organelle?",
+    "answer": "Peroxisome"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true of nucleic acid bases: 1) Adenosine deaminase catalyzes the conversion of adenosine to inosine 2) Wobble base-pairing with xanthine is a common regulatory mechanism in DNA 3) RNA strands with higher GC content tend to have higher melting points than those with lower GC content",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The K-plus meson is composed of an up quark and antistrange quark. What is the net strangeness of the K-plus meson?",
+    "answer": "1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What quantity, which consists of a sum of Boltzmann factors of possible microstates, can be used in statistical mechanics to find various state functions of the system?",
+    "answer": "Partition function"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The COBE (KOH-bee) probe accurately measured the near-perfect black body spectrum of what phenomenon?",
+    "answer": "Cosmic Microwave Background Radiation (accept: CMB; CMBR)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What class of eclipsing binaries, named after a Perseus star, is semidetached and has a star whose Roche lobe is unfilled?",
+    "answer": "Algol variables (Accept: Algol-type binaries, Algol)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Van Voorhis group at MIT is developing new methods based on density functional theory to provide an accurate description of excited electron motion in molecular systems. Density functional theory is based on what quantum mechanical principle which states that the ground state energy of a system is always less than or equal to the energy of a trial wavefunction for the system?",
+    "answer": "Variational Principle"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Van Voorhis group at MIT is currently studying methods to harness solar energy using semiconductors. By name or number, identify all of the following three statements which are true about semiconductors: 1) The valence band and conduction band do not intersect on an undoped semiconductor. 2) Elemental silicon is a semiconductor. 3) Doping a semiconductor will result in a change in the Fermi energy",
+    "answer": "All of them"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following real gases has a higher molar heat capacity than dioxygen?",
+    "choices": {
+      "W": "Dihydrogen",
+      "X": "Helium",
+      "Y": "Dinitrogen",
+      "Z": "Difluorine"
+    },
+    "answer": "Z) Difluorine"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider a closed system consisting of some particles which are free to occupy a certain finite number of states. By name or number, indicate all of the following three statements which are true of this system as the temperature approaches infinity: 1) All states have an equal probability of being occupied 2) The constant volume heat capacity approaches zero 3) Doubling the number of states will double the entropy",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What famous paradox in set theory considers the set of all sets which do not contain themselves?",
+    "answer": "Russell's paradox"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following axioms is not an axiom of Zermelo- Fraenkel (read: zaermello frankel) set theory?",
+    "choices": {
+      "W": "Axiom of power set",
+      "X": "Axiom of induction",
+      "Y": "Axiom of infinity",
+      "Z": "Axiom of pairing"
+    },
+    "answer": "X) Axiom of induction"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the most general process for evaluating the mutagenic potential of certain chemicals through the use of a histidine medium?",
+    "answer": "Ames Test"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four actions that can be performed by DNA polymerase III: 1) Addition of a new nucleotide at the $5^{\\rime}$ end of a DNA strand 2) Addition of a new nucleotide at the $3^{\\rime}$ end of a DNA strand 3) Removal of a nucleotide at the $5^{\\rime}$ end of a DNA strand 4) Removal of a nucleotide at the $3^{\\rime}$ end of a DNA strand",
+    "answer": "2 and 4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What solution to the Einstein field equations describes a charged, nonrotating black hole?",
+    "answer": "Reissner-Nordstrom metric"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The cosmic microwave background photons experience slight polarization in the positive x and z-directions by Thompson scattering. What perceived property of the CMB was theorized to negate these effects by effectively providing for zero net polarization?",
+    "answer": "Isotropy (ACCEPT: Symmetry)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The ability of a junction formed by two superconductors separated by a thin insulating barrier to continuously have current flow between them is known as what effect?",
+    "answer": "Josephson effect"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of diode is specially designed to allow some amount of back current when a reverse voltage is applied?",
+    "choices": {
+      "W": "Zener diode",
+      "X": "Frenkel diode",
+      "Y": "Schottky diode",
+      "Z": "Hender diode"
+    },
+    "answer": "W) Zener diode"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following aromatic compounds, when mononitrated with nitric and sulfuric acid, will be nitrated at the 2 position as the major product?",
+    "choices": {
+      "W": "Pyridine",
+      "X": "Indole",
+      "Y": "Pyrrole",
+      "Z": "Nitrobenzene"
+    },
+    "answer": "Y) Pyrrole"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, rank the following three dienes from least to greatest ability to participate in a Diels-Alder reaction: 1) Cyclopentadiene 2) Pyrrole 3) Furan",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Lourido group at MIT are currently studying apicomplexans, a parasitic protist. Which of the following protist supergroups contains the aforementioned protists?",
+    "choices": {
+      "W": "Excavata",
+      "X": "SAR",
+      "Y": "Archaeplastida",
+      "Z": "Unikonta"
+    },
+    "answer": "X) SAR"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Burge group are investigating new structural and bonding patterns of DNA. Answer the following two questions regarding DNA intermolecular bonding: 1) When guanine nucleotides self-associate, what is the theoretical maximum number of guanosomes that are bonded together at one time? 2) The guanine nucleotide bonding mentioned above, is an example of what general class of non-Watson Crick base pairing?",
+    "answer": "1) 4 2) Hoogsteen Pairing"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In base-10, how many digits are there in $2021^{10}$ (read: 2021 raised to the 10th power)?",
+    "answer": "34"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A ball of radius 4 is cut into two pieces by a plane at distance 1 from its center. What is the surface area of the larger of the two pieces?",
+    "answer": "55\\i"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following chromosome shapes describes a chromosome in which one arm is slightly shorter than the other?",
+    "choices": {
+      "W": "Metacentric",
+      "X": "Submetacentric",
+      "Y": "Acrocentric",
+      "Z": "Telocentric"
+    },
+    "answer": "X) Submetacentric"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the karyotyping technique for visualizing chromosomes called in which heterochromatin appears darker and euchromatin appears lighter?",
+    "answer": "Giemsa stain (accept: G- banding, Giemsa- banding)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "By name or number, identify all of the following four structures that typically contain older rocks towards their centers: 1) Syncline 2) Anticline 3) Dome 4) Basin",
+    "choices": {
+      "W": "1 and 2",
+      "X": "1 and 3",
+      "Y": "2 and 3",
+      "Z": "2 and 4"
+    },
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Doppler shifts in what specific type of radiation are often used as a tracer to measure galactic rotation curves?",
+    "answer": "21-centimeter line (accept: 21-centimeter; hydrogen 21-centimeter line; H1 line)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "N-heterocyclic carbenes can be formed by deprotonating a derivative of what 5-membered heterocycle?",
+    "answer": "Imidazole"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements which are true of N-heterocyclic carbenes: 1) The carbon is formally $sp^2$ hybridized 2) The carbene is a singlet carbene 3) Lone pairs from the nitrogen donate into the empty p orbital of the carbon atom",
+    "answer": "All of them"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at MIT are studying X-ray signatures from Betelgeuse taken by the NuSTAR Telescope, in the hopes of detecting what hypothetical dark matter candidate, which is thought to be produced from photons in the cores of massive stars via the Primakoff effect?",
+    "answer": "Axion"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at MIT are studying X-ray signatures from Betelgeuse taken by the NuSTAR Telescope, in the hopes of detecting axions. By name or number, identify all of the following three statements that are true of axions: 1) They were proposed as a solution to the Strong-CP problem 2) They would be a component of Cold Dark Matter 3) They would have a charge of 0",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What is the shape of a suspension bridge's massless cables if they support a uniform load?",
+    "choices": {
+      "W": "Parabola",
+      "X": "Catenary",
+      "Y": "Sinusoid",
+      "Z": "Circular arc"
+    },
+    "answer": "W) Parabola"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Super-Kamiokande experiment was initially designed to detect what theoretical process, which has a predicted half-life on the order of $10^{34}$ years, and is predicted by multiple grand unified theories?",
+    "answer": "Proton decay"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A viscous fluid undergoes laminar fluid through a cylindrical pipe with a radius of 2 centimeters. Assume the fluid is at rest next to the walls of the pipe. What is the ratio of the speed of the fluid at a distance of 1 centimeter from the center to that of the fluid at the center of the pipe?",
+    "answer": "3/4"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the critical speed at which gasoline, which has a dynamic viscosity of $3.0 \\times 10^{-4}$ kilograms per meter per second and a density of 750 kilograms per cubic meter, will become turbulent flowing through a cylindrical pipe with a diameter of 4.0 centimeters?",
+    "choices": {
+      "W": "$1.0 \\times 10^{-5}$ meters per second",
+      "X": "$5.0 \\times 10^{-4}$ meters per second",
+      "Y": "$8.0 \\times 10^{-3}$ meters per second",
+      "Z": "$2.0 \\times 10^{-2}$ meters per second"
+    },
+    "answer": "Z) $2.0 \\times 10^{-2}$ meters per second"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following techniques would allow for visualization of topologically associated domains or TADs?",
+    "choices": {
+      "W": "ChIP-seq (chip-seek)",
+      "X": "3C",
+      "Y": "Hi-C",
+      "Z": "Single-cell RNA-seq"
+    },
+    "answer": "Y) Hi-C"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The histone code hypothesizes that transcription is in part regulated by the combination of histone tail modifications. Which of the following histone tail modifications are most closely associated with ubiquitin?",
+    "choices": {
+      "W": "citrullination",
+      "X": "SUMOylation (SOO- mo- ih- LAY- shuhn)",
+      "Y": "ADP- ribosylation",
+      "Z": "acetylation"
+    },
+    "answer": "X) SUMOylation"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following iodine compounds will not disproportionate in base?",
+    "choices": {
+      "W": "Elemental Iodine",
+      "X": "Hypoiodite",
+      "Y": "Iodite",
+      "Z": "Iodate"
+    },
+    "answer": "Z) Iodate"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Singlet oxygen can undergo cycloaddition with dienes to create what new functional group?",
+    "answer": "Organic Peroxide"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Three of the side lengths of a quadrilateral are 4, 6, and 8. What is the sum of all possible integer values of the fourth unknown side length?",
+    "answer": "153"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the derivative in $x$ of the function $x^{1 / \\n x}$ , for positive real $x$ ?",
+    "answer": "0"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four elements that are considered metals in astronomy: 1) Hydrogen 2) Helium 3) Nitrogen 4) Neon",
+    "answer": "3 and 4"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four fog types that are caused by cooling: 1) Advection 2) Steam 3) Radiation 4) Upslope",
+    "answer": "1, 3, and 4"
+  }
+]

@@ -1,0 +1,631 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The A horizon in a soil profile has more of which of the following than the other horizons?",
+    "choices": {
+      "W": "humus",
+      "X": "sediments",
+      "Y": "minerals",
+      "Z": "all of the above"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The minerals found in the B and C horizons were dissolved and carried down to those soil layers by a process called",
+    "choices": {
+      "W": "oxidation",
+      "X": "leaching",
+      "Y": "weathering",
+      "Z": "precipitation"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "At chemical equilibrium, which of the following is always true of the concentrations of reactants and products?",
+    "choices": {
+      "W": "They are constant",
+      "X": "They are equal",
+      "Y": "Reactant concentration is zero",
+      "Z": "Product concentration is zero"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Any chemical reaction in which the products can regenerate the reactants is called",
+    "choices": {
+      "W": "a double-replacement reaction",
+      "X": "a single-replacement reaction",
+      "Y": "a reversible reaction",
+      "Z": "an irreversible reaction"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "All of the following are pointing devices except",
+    "choices": {
+      "W": "pointer",
+      "X": "joystick",
+      "Y": "mouse",
+      "Z": "trackball"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "A prescribed set of well-defined instructions for solving mathematical problems is called",
+    "choices": {
+      "W": "a compiler",
+      "X": "a code",
+      "Y": "a description",
+      "Z": "an algorithm"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The type of plasma protein that helps regulate osmotic pressure is",
+    "choices": {
+      "W": "albumin",
+      "X": "globulin",
+      "Y": "fibrinogen",
+      "Z": "hemoglobin"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Platelets are formed in bone marrow when small pieces of cytoplasm are pinched off the",
+    "choices": {
+      "W": "white blood cells",
+      "X": "red blood cells",
+      "Y": "megakaryocytes",
+      "Z": "bone cells"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In a third-class lever, the",
+    "choices": {
+      "W": "fulcrum is between the effort force and the resistance force",
+      "X": "effort force is between the resistance force and the fulcrum",
+      "Y": "resistance force is between the effort force and the fulcrum",
+      "Z": "none of these"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A new neutron source is being proposed in which a beam of protons smashes into a target of liquid mercury. What is the term applied to this type of neutron production?",
+    "answer": "SPALLATION"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements was UNKNOWN to ancient civilizations?",
+    "choices": {
+      "W": "tin",
+      "X": "aluminum",
+      "Y": "mercury",
+      "Z": "sulfur"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Iron is the principal element in steel. What is the second most abundant element in steel?",
+    "answer": "CARBON"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The reaction quotient is used to determine if a reaction",
+    "choices": {
+      "W": "is at equilibrium",
+      "X": "is reversible",
+      "Y": "occurs rapidly",
+      "Z": "releases heat"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Who first formulated the law of mass action?",
+    "choices": {
+      "W": "Haber",
+      "X": "Le Chatelier",
+      "Y": "Arrhenius",
+      "Z": "Guldberg and Waage"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The term Zodiac means",
+    "choices": {
+      "W": "Lunar Mansions",
+      "X": "Twelve",
+      "Y": "Cycle of Animals",
+      "Z": "Road of the Sun"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Between the Vernal Equinox and the Autumnal Equinox, within one, approximately how many hours does the Right Ascension of the Sun change?",
+    "answer": "12"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In the kidneys, much of the fluid of the blood filters directly into a",
+    "choices": {
+      "W": "glomerulus",
+      "X": "loop of Henle",
+      "Y": "Bowman's capsule",
+      "Z": "collecting tubule"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Sugar is removed from the filtrate by",
+    "choices": {
+      "W": "osmosis",
+      "X": "active transport",
+      "Y": "the renal artery",
+      "Z": "the renal vein"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Rene Descartes and Pierre Fermat are credited with the development of what particular area of mathematics?",
+    "choices": {
+      "W": "analytical geometry",
+      "X": "trigonometry",
+      "Y": "algebra",
+      "Z": "calculus"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the square root of $12 \\rac{1}{4}$?",
+    "answer": "7/2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "To create an enlarged real image using a concave mirror, the object must be placed",
+    "choices": {
+      "W": "beyond the center of curvature",
+      "X": "at the focus",
+      "Y": "closer than the focus",
+      "Z": "between the center of curvature and the focus"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A car traveling at a constant velocity of 20 meters per second passes a second car that is initially at rest. The car that was at rest starts accelerating at 10 meters per second squared the moment it is passed by the first car. They will meet again in",
+    "choices": {
+      "W": "2 seconds",
+      "X": "4 seconds",
+      "Y": "6 seconds",
+      "Z": "8 seconds"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The principle that relates changes imposed on equilibrium systems to equilibrium position is",
+    "choices": {
+      "W": "Haber's law",
+      "X": "the law of chemical equilibrium",
+      "Y": "Le Chatelier's principle",
+      "Z": "Avogadro's principle"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The equilibrium constant provides information on all of the following except the",
+    "choices": {
+      "W": "relative concentrations of reactants and products",
+      "X": "equilibrium position",
+      "Y": "extent to which reaction proceeds to completion",
+      "Z": "time required to reach equilibrium"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "A continuous electric signal in the form of a wave is called",
+    "choices": {
+      "W": "frequency",
+      "X": "amplitude",
+      "Y": "analog",
+      "Z": "modulation"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Circuitry on credit-card-size cards that can be inserted into slots connected to the motherboard are called",
+    "choices": {
+      "W": "RAM cards",
+      "X": "flash memory",
+      "Y": "controller cards",
+      "Z": "data cards"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Prostaglandins are synthesized and secreted by the",
+    "choices": {
+      "W": "beta cells of the pancreas",
+      "X": "alpha cells of the pancreas",
+      "Y": "tissues upon which they act",
+      "Z": "ovaries and testes"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In the action of steroid hormones, the hormone-receptor complex",
+    "choices": {
+      "W": "activates genes",
+      "X": "involves a second messenger",
+      "Y": "acts directly on the blood",
+      "Z": "acts directly on the liver"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The phenomena of \retrograde motion\ is observed",
+    "choices": {
+      "W": "when an inferior planet overtakes and passes the Earth",
+      "X": "when a superior planet is at opposition",
+      "Y": "when a superior planet is near conjunction with the Sun",
+      "Z": "for all planets when they reach greatest elongation"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Why are southern hemisphere winters slightly warmer than northern hemisphere winters?",
+    "choices": {
+      "W": "The Earth is closer to the Sun during that period",
+      "X": "El Nino occurs in the southern hemisphere",
+      "Y": "The southern hemisphere has a greater ratio of ocean to land",
+      "Z": "The southern hemisphere has a greater ratio of land to ocean"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In the fission of U-235, what is the average number of neutrons produced in the fission reaction?",
+    "choices": {
+      "W": "1.5",
+      "X": "2.5",
+      "Y": "3.5",
+      "Z": "4.5"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "When radiation breaks an electron pair bond in a molecule and each fragment of the molecule gets one of the bond electrons, the molecular fragments that are formed are called",
+    "choices": {
+      "W": "ions",
+      "X": "free radicals",
+      "Y": "stable molecules",
+      "Z": "gases"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The process in which an ionic solid dissolves in a polar liquid is called",
+    "choices": {
+      "W": "ionization",
+      "X": "precipitation",
+      "Y": "dissolution",
+      "Z": "hydrolysis"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Who developed a practical method for converting hydrogen and atmospheric nitrogen to ammonia?",
+    "choices": {
+      "W": "Haber",
+      "X": "Le Chatelier",
+      "Y": "Arrhenius",
+      "Z": "Guldberg and Waage"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Hawaii's black sands form from",
+    "choices": {
+      "W": "olivine",
+      "X": "quartz",
+      "Y": "basalt",
+      "Z": "coral and shell fragments"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Jamaica's white sands are made of",
+    "choices": {
+      "W": "olivine",
+      "X": "quartz",
+      "Y": "basalt",
+      "Z": "coral and shell fragments"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a significant source of methane gas, a powerful \greenhouse\ gas",
+    "choices": {
+      "W": "cattle",
+      "X": "marshlands",
+      "Y": "wheat farming",
+      "Z": "termites"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "In humans, how many varieties of twins are there?",
+    "answer": "FIVE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In EXTRA-TERRESTRIAL SPACE, heat is transferred by",
+    "choices": {
+      "W": "conduction",
+      "X": "convection",
+      "Y": "conduction and convection",
+      "Z": "radiation"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The position of a particle with respect to time is given by the equation: $x = t^3 + 2$, where $x$ is in feet and $t$ is in seconds. What is the acceleration, in feet per second squared, of the particle at a time of 2 seconds?",
+    "answer": "12"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Sponges are in which phylum?",
+    "answer": "PORIFERA"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Parathyroid hormone regulates the calcium levels of the blood by",
+    "choices": {
+      "W": "decreasing uptake of calcium from the digestive system",
+      "X": "increasing reabsorption of calcium in the kidneys",
+      "Y": "altering the rate of calcium metabolism",
+      "Z": "increasing the release of calcium from bones"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Who discovered the concept of atomic number?",
+    "answer": "MOSELEY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What substance is used to improve the clarity of X-rays of the gastrointestinal tract?",
+    "choices": {
+      "W": "barium sulfate",
+      "X": "barium chloride",
+      "Y": "calcium chloride",
+      "Z": "silver chloride"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The velocity of a ball tossed vertically into the air is expressed by the equation $v(t) = -32t + 4$, where $t$ is given in seconds. Give the velocity of the ball when it reaches its highest point.",
+    "answer": "0"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An object is located 1 meter in front of a converging lens having a focal length of 20 centimeters. At what distance behind the lens (whose thickness is negligible) will the image be formed?",
+    "choices": {
+      "W": "18 centimeters",
+      "X": "20 centimeters",
+      "Y": "22 centimeters",
+      "Z": "25 centimeters"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The sum of two numbers is 12. The difference in the two numbers is 2. What is the product of the two numbers?",
+    "answer": "35"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Willard charged $170$ on his new credit card. He pays off $120$ of the $170$. Interest is charged on the balance at 2% per month. How much does he need in order to pay off the balance of the debt next month?",
+    "answer": "51"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The bones known as the malleus and incus are vital to what bodily function?",
+    "answer": "HEARING"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Violent muscular spasms and contractions result from the removal of the",
+    "choices": {
+      "W": "thyroid gland",
+      "X": "posterior pituitary",
+      "Y": "adrenal glands",
+      "Z": "parathyroid gland"
+    },
+    "answer": "Z"
+  }
+]

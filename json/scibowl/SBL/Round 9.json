@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In what part of the alimentary canal is the intrinsic factor released from parietal cells?",
+    "answer": "STOMACH"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three diseases that have an autosomal dominant form of inheritance: 1) Huntington’s disease; 2) Duchenne’s muscular dystrophy; 3) Sickle cell anemia.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Idaho National Lab have been studying the crystallographic effects of neutron bombardment on graphite. In which of the following methods of energy generation is this research most applicable?",
+    "choices": {
+      "W": "Photovoltaic systems",
+      "X": "Geothermal",
+      "Y": "Nuclear fission",
+      "Z": "Nuclear fusion"
+    },
+    "answer": "Y) NUCLEAR FISSION"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab have been developing porous zeolite catalysts for applications in heavy metal chemistry. The substrates for these reactions are often larger than the zeolite pores, yet they are still observed to penetrate the catalyst surface by what phenomenon?",
+    "answer": "QUANTUM TUNNELING"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following factors generally has the greatest effect on the rate of soil formation for a given region?",
+    "choices": {
+      "W": "Climate",
+      "X": "Topography",
+      "Y": "Parent rock",
+      "Z": "Plant activity"
+    },
+    "answer": "W) CLIMATE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Tharsis bulge is a large volcanic province located on which planet?",
+    "answer": "MARS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organic functional groups CANNOT be found in a ring?",
+    "choices": {
+      "W": "Ether",
+      "X": "Ester",
+      "Y": "Ketone",
+      "Z": "Aldehyde"
+    },
+    "answer": "Z) ALDEHYDE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "One mole of argon gas is held in a rigid container. Identify all of the following three changes to the system that would decrease the mean free path: 1) Increasing temperature; 2) Adding more argon to the system; 3) Replacing the argon gas with xenon.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive, even factors does the number 36 have?",
+    "answer": "6"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The integral from 0 to 1 of the fraction with numerator 1 and denominator $x^{2} + 5x + 6$ can be written as the natural log of $k$. What is $k$?",
+    "answer": "9/8"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding objects in uniform circular motion?",
+    "choices": {
+      "W": "Their speed is constant",
+      "X": "Their velocity and acceleration vectors are perpendicular",
+      "Y": "Their tangential acceleration is zero",
+      "Z": "Their centripetal acceleration is zero"
+    },
+    "answer": "Z) THEIR CENTRIPETAL ACCELERATION IS ZERO"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What theorem in classical mechanics states that there is a conserved quantity for each symmetry of the Lagrangian?",
+    "answer": "NOETHER'S THEOREM"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "An analemma is a diagram containing a figure eight like structure that describes the fixed celestial motion of what object?",
+    "answer": "THE SUN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three magma types in terms of increasing viscosity: 1) Hydrous basaltic; 2) Anhydrous basaltic; 3) Anhydrous dacitic.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for the very large cells in the red bone marrow from which platelets are derived?",
+    "answer": "MEGAKARYOCYTES"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term is used to describe the area of intergradation between two terrestrial biomes?",
+    "answer": "ECOTONE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Certain reactions in aqueous solution occur so rapidly that their rate is limited by the speed of what process?",
+    "answer": "DIFFUSION (ACCEPT: MIXING)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that are considered aromatic: 1) Toluene; 2) Cyclooctatetraene; 3) Cyclopentadienyl anion.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An arithmetic sequence has first term 2020 and common difference $n$, where $n$ is a negative integer. What is the greatest possible value of $n$ such that the sequence has less than 100 positive terms?",
+    "answer": "- 21"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A standardized test has a mean score of 100 and a standard deviation of 15. A researcher selects groups of 400 students at a time and administers the test to them, recording the average score of each group. What is the expected population standard deviation of these averages?",
+    "answer": "0.75"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Oak Ridge National Lab are attempting to isolate fissile isotopes from spent fuel rods. Which of the following isotopes is a fissile isotope?",
+    "choices": {
+      "W": "Carbon-13",
+      "X": "Potassium-40",
+      "Y": "Iodine-131",
+      "Z": "Plutonium-239"
+    },
+    "answer": "Z) PLUTONIUM-239"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Lab have been developing chiral phosphines for use in organic synthesis. Phosphines are used instead of amines, because amines undergo what process, making chiral resolution impossible?",
+    "answer": "NITROGEN INVERSION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What dimensionless quantity describes how much a material is magnetized in response to an applied magnetic field?",
+    "answer": "MAGNETIC SUSCEPTIBILITY"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two bullet trains pass each other, with one traveling at $8\\$ the speed of sound and the other at $15\\$ the speed of sound. If the first train blows a 440-hertz whistle, then what frequency in hertz would an observer on the second train detect?",
+    "answer": "550"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two circles are internally tangent to each other. The larger circle has a diameter of 15, and the distance between the centers of the two circles is 1. What is the diameter of the smaller circle?",
+    "answer": "13"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Connor rolls a die repeatedly until he rolls a 4 or below, and then sums all of his rolls. What is the expected value of his sum?",
+    "answer": "21/4 (ACCEPT: 5.25)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What seismic discontinuity marks the boundary between the crust and the mantle?",
+    "answer": "MOHOROVICIC DISCONTINUITY (ACCEPT: MOHO, MOHO DISCONTINUITY)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Ahuna Mons is the largest mountain on Ceres and is thought to be a cryovolcano. Which of the following statements regarding Ahuna Mons is false?",
+    "choices": {
+      "W": "It erupts volatiles like water ice and ammonia",
+      "X": "It is associated with a positive gravity anomaly",
+      "Y": "It is associated with a positive albedo anomaly",
+      "Z": "It is part of a large volcanic arc that runs across the northern hemisphere of Ceres"
+    },
+    "answer": "Z) IT IS PART OF A LARGE VOLCANIC ARC THAT RUNS ACROSS THE NORTHERN HEMISPHERE OF CERES"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three ideal gas processes that result in an increase in temperature: 1) Isobaric expansion; 2) Adiabatic expansion; 3) Isothermal expansion.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following speeds, in meters per second, is closest to the drift velocity of electrons traveling in a 2-millimeter wide copper wire with 20 amperes of current, given that the free electron density of copper is $8 \\times 10^{28}$ electrons per cubic meter?",
+    "choices": {
+      "W": "$10^{-8}$",
+      "X": "$10^{-4}$",
+      "Y": "$10^{4}$",
+      "Z": "$10^{8}$"
+    },
+    "answer": "X) $10^{-4}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What group of basal angiosperms is known for having both herbaceous and woody plants?",
+    "answer": "MAGNOLIIDS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Calcium ions and diacylglycerol both activate what phosphorylating enzyme in the signaling cascade?",
+    "answer": "PROTEIN KINASE C"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Pacific Northwest National Lab are studying biomagnification in the Puget Sound. Which of the following animals in the Puget Sound is most affected by biomagnification?",
+    "choices": {
+      "W": "Sea otter",
+      "X": "Sea urchin",
+      "Y": "Barnacle",
+      "Z": "Killer whale"
+    },
+    "answer": "Z) KILLER WHALE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Fermilab are investigating the origin of ultra-high-energy cosmic rays. Identify all of the following three statements regarding ultra-high-energy cosmic rays that are thought to be true: 1) They are mostly composed of electrons; 2) They originate from white dwarfs; 3) Their energy is limited due to scattering from cosmic microwave background radiation.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Selection rules are used in spectroscopy to describe allowed energy transitions based on the conservation of what quantity?",
+    "answer": "ANGULAR MOMENTUM"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functional groups is most likely to be responsible for an anemicher effect in an organic reaction?",
+    "choices": {
+      "W": "Thiol",
+      "X": "Methyl",
+      "Y": "Amide",
+      "Z": "Epoxide"
+    },
+    "answer": "W) THIOL"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organelles does the signal recognition particle target an elongating peptide to?",
+    "choices": {
+      "W": "Peroxisome",
+      "X": "Golgi apparatus",
+      "Y": "Rough endoplasmic reticulum",
+      "Z": "Nucleus"
+    },
+    "answer": "Y) ROUGH ENDOPLASMIC RETICULUM"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Lipids travel in what lipoprotein particles within the lacteal?",
+    "answer": "CHYLOMICRONS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the most abundant ion in seawater?",
+    "answer": "CHLORIDE (ACCEPT: Cl; DO NOT ACCEPT: CHLORINE)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding Fraunhofer lines is false?",
+    "choices": {
+      "W": "Fraunhofer lines are absorption lines",
+      "X": "Fraunhofer lines contain the Balmer sequence",
+      "Y": "The famous D line doublet is caused by the presence of sodium",
+      "Z": "Most Fraunhofer lines are the result of gases present in the Sun's corona"
+    },
+    "answer": "Z) MOST FRAUNHOFER LINES ARE THE RESULT OF GASES PRESENT IN THE SUN'S CORONA"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A polynomial $f(x)$ tends to positive infinity as $x$ tends to infinity and negative infinity as $x$ tends to negative infinity. Which of the following could be the degree of the polynomial?",
+    "choices": {
+      "W": "6",
+      "X": "12",
+      "Y": "15",
+      "Z": "16"
+    },
+    "answer": "Y) 15"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the vector with an $x$ component of 1 that is orthogonal to the vectors $3i - 5j$ and $-5j + 5k$.",
+    "answer": "$i + 3 / 5j + 3 / 5k$ (ACCEPT: $i + 0.6j + 0.6k$)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three substances that are classified as covalent network solids: 1) Zinc sulfide; 2) Boron nitride; 3) Diamond.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three reagents that may be used to reduce a diketone to a diol: 1) Sodium hydride; 2) Osmium tetroxide; 3) Lithium aluminum hydride.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two blocks of masses 4 and 6 kilograms are connected by a cord that passes over a frictionless pulley. What is the distance traveled to the nearest meter by the 6-kilogram block after 10 seconds?",
+    "answer": "98"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The entropy of one macropartition of a system is 26 times Boltzmann’s constant, and the entropy of another macropartition is 52 times Boltzmann’s constant. How many times as likely is the system to be in the second macropartition than the first?",
+    "answer": "e26"
+  }
+]

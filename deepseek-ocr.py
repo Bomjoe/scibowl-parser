@@ -79,6 +79,12 @@ with tqdm(total=total_pages, desc="Performing OCR", ncols=80) as pbar:
         requests.clear()
         page_meta.clear()
 
+def strip_subtitle_title_text(s: str) -> str:
+    return re.sub(r"(text|sub_title|title)\[\[.*\]\]", "", s,
+                  flags=e.IGNORECASE).strip()
+
+
+
 # ---- Write one .mmd per PDF ----
 for pdf_path, results in pdf_outputs.items():
     # Sort pages numerically just in case batches returned out of order

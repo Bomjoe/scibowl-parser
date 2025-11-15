@@ -1,0 +1,376 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Give the phenomena by which homologous chromosomes pair during meiosis before crossing over?",
+    "answer": "Synapsis"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate all of the following that are true concerning adenoviruses: 1) They are responsible for SARS 2) They are responsible for respiratory tract infections of animals 3) They are responsible for the common cold",
+    "answer": "2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following branches of the HR diagram would a star that has just begun helium fusion reside on?",
+    "choices": {
+      "W": "Red giant",
+      "X": "Horizontal",
+      "Y": "Asymptotic giant",
+      "Z": "Turn off"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "According to the unified model of active galaxies, which of the following viewing orientations in respect to a black hole would result in a type 2 Seyfert galaxy.",
+    "choices": {
+      "W": "Face on to the torus",
+      "X": "Angled to the torus",
+      "Y": "Edge on to the torus",
+      "Z": "Face on to the event horizon"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the distance from the point (3,4) to the line -6x+5y=12?",
+    "answer": "$\\rac{2\\qrt{61}}{61}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Give the unit direction vector for the line of intersection between the planes x+2y=0 and y-z=1.",
+    "answer": "$\\athbf{i} + \\athbf{j} + \\athbf{k}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Rank the following three interactions by order of increasing distance. 1) Weak force 2) Strong force 3) Electromagnetic interaction",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true about the magnitude of the residual strong force?",
+    "choices": {
+      "W": "Decreases with distance",
+      "X": "Increases with distance",
+      "Y": "Remains constant with distance",
+      "Z": "It increases then decreases"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following two equimolar solutions will produce a pH closest to neutral when mixed?",
+    "choices": {
+      "W": "Acetic acid and calcium hydroxide",
+      "X": "Acetic acid and ammonia",
+      "Y": "Hydrochloric acid and calcium hydroxide",
+      "Z": "Hydrochloric acid and ammonia"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A single electron in its ground state is trapped in a 1-dimensional infinite potential well. When subjected to light with a wavelength of $800 \\athrm{nm}$, it enters its first excited state. Determine the wavelength of light that is required for the electron to enter its second excited state from its ground state.",
+    "answer": "300 nm"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following neurotransmitters is secreted significantly in the enteric nervous system to control digestion?",
+    "choices": {
+      "W": "Serotonin",
+      "X": "Glutamate",
+      "Y": "Dopamine",
+      "Z": "Norepinephrine"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The ependymal cells of the choroid plexus secrete what fluid?",
+    "answer": "Cerebrospinal Fluid"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following mechanisms results in cloud formation on the windward side of mountain ranges?",
+    "choices": {
+      "W": "Orographic lifting",
+      "X": "Frontal wedging",
+      "Y": "Convection",
+      "Z": "Convergence lifting"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Give the common name for all the following features of volcanoes. I. Cone shaped accumulations from magma flow separate from the central vent II. Incandescent cloud of gas and ash that rushes down the sides of the volcano III. Dome of granite that remains after most of the volcano has eroded away",
+    "answer": "Parasitic cone, pyroclastic flow (nuee ardente), inselberg"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "5 sheep and 1 wolf are arranged in a circle. The wolf either eats the sheep on his left or right with equal probability, and keeps repeating this process with the remaining sheep. What is the probability that the last sheep to be eaten is the sheep initially located diametrically opposite the wolf?",
+    "answer": "$\\rac{3}{8}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Arun randomly and uniformly picks a real number in [0,10]. If the first number he picks is A, he then randomly picks a second real number B in [0,A]. What is the probability that B is less than 4?",
+    "answer": "$\\rac{16}{25}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A mass is hanging from a spring and is given a small push. Indicate all of the following choices that would increase the period of oscillation. 1) Doubling the mass 2) Adding another spring in parallel 3) Increasing the gravitational acceleration",
+    "answer": "1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 4 kg ball is rolling around at the bottom of a hollow hemispherical surface. This surface has a radius of curvature of 1 meter. What is the angular frequency of the ball if it is given a small push, to 1 significant digit? Neglect friction.",
+    "answer": "3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three molecules that have noninteger bond orders: I. $C_{2}$ II. $\\athrm{B}_{2}\\athrm{H}_{6}$ III. $OF_2$",
+    "answer": "II"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Compound A can undergo two parallel reactions to form B and C with rate constants $k_{B} = 0.2 \\athrm{s}^{-1}$ and $k_{C} = 0.5 \\athrm{s}^{-1}$. To the nearest second, what is the half life of compound A?",
+    "answer": "1 second"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The pGLO plasmid is induced in the presence of what sugar?",
+    "choices": {
+      "W": "Lactose",
+      "X": "Glucose",
+      "Y": "Erythrose",
+      "Z": "Arabinose"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The sarcolemma is the plasma membrane of what type of human cell?",
+    "answer": "Muscle Cell"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "How many points are needed to find the epicenter of an earthquake?",
+    "answer": "3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of metamorphism occurs when hydrothermal fluids alter the chemical composition of the rock?",
+    "answer": "Metasomatism"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following expressions is equivalent to $(\\in x - \\os x)^{2} + (\\in x + \\os x)^{2}$?",
+    "choices": {
+      "W": "$1 - 2\\in (x)$",
+      "X": "$1 - \\in (2x)$",
+      "Y": "$4 \\tan x$",
+      "Z": "2"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the x value which satisfies the condition of the Mean Value Theorem for $\\athrm{f(x) = x^{3}}$ on the interval [0,2]?",
+    "answer": "$\\rac{2\\qrt{3}}{3}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Give the Gaussian surface associated with application of Gauss's Law for each of the following 3 charge distributions: I. Infinite charged plate II. Infinitely long wire III. Point charge",
+    "answer": "I. cylinder, II. cylinder, III. sphere"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the resonant angular frequency of an RLC circuit consisting of a 5 H inductor, 5 F capacitor, 35 ohm resistor?",
+    "answer": "0.2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When the natural log of the equilibrium constant is graphed against 1/T for a certain reaction, the graph is linear with a positive slope and positive y-intercept. Which of the following can be concluded from the graph?",
+    "choices": {
+      "W": "The reaction is always spontaneous",
+      "X": "The reaction is never spontaneous",
+      "Y": "The reaction is spontaneous at high temperatures",
+      "Z": "The reaction is spontaneous at low temperatures"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The reversible oxidation of $\\athrm{Ce}^{3+}$ to $\\athrm{Ce}^{4+}$, with standard potential $-1.7 \\athrm{~V}$, is performed against a reference hydrogen electrode held at a pH of 0 with an applied potential difference that increases linearly with time. The absorbance of $\\athrm{Ce}^{4+}$ is monitored throughout the experiment with a spectrophotometer. Identify all of the following three statements that are true: I. The absorbance of the solution increases linearly with time II. The absorbance is maximal when the applied potential is 1.7 V III. The pH of the solution increases",
+    "answer": "None"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which part of the limbic system is central to addiction by being the dopamine center for motivation?",
+    "answer": "Nucleus Accumbens"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate all of the following that are true of heat shock. 1) Requires calcium chloride 2) Used to open adhesion pores 3) Cannot be used to introduce plasmids into bacteria",
+    "answer": "12"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "By name or number, identify the period for each of the following epochs: I. Oligocene II. Pennsylvania III. Lopingian",
+    "choices": {
+      "W": "Paleogene",
+      "X": "Carboniferous",
+      "Y": "Permian"
+    },
+    "answer": "I. Paleogene, II. Carboniferous, III. Permian"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate all of the following 3 statements which must be true of Artesian wells: I. Their height must be below that of the pressure surface II. A permeable rock layer must be located between two aquicludes III. They can increase the rate of cavern formation in limestone aquifers",
+    "answer": "All"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If John throws a stone and he models the stone's height in meters with the function $\\athrm{h(t) = 5t^{2} - 3t + 9}$, what is the horizontal distance from John's position and the point of maximum height in terms of meters.",
+    "answer": "$\\rac{3}{10}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the area bounded by the $\\athrm{y = x^{2}}$, $\\athrm{y = -x + 2}$, and $\\athrm{x = 0}$",
+    "answer": "$\\rac{7}{6}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A balloon feels a buoyant force of F when submerged near the water surface. Approximately how far down must we push the balloon so that it feels a force $\\rac{1}{2}\\athrm{F}$?",
+    "choices": {
+      "W": "2m",
+      "X": "5m",
+      "Y": "7m",
+      "Z": "10m"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Suppose electrons in a conductor follow the fermi dirac distribution. Which of the following would increase the number of electrons at an energy level of 8J, where the fermi energy is 6J? 1) Increase temperature 2) Decrease fermi energy 3) Increase electrical potential",
+    "answer": "1"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type

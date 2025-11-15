@@ -1,0 +1,553 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the predominant immunoglobulin class found in human milk?",
+    "answer": "IgA"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which 2 of the following 5 organisms are NOT protozoans? Entamoeba, Toxoplasma, Histoplasma, Claviceps, Giardia",
+    "answer": "HISTOPLASMA, CLAVICEPS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following groups of compounds are saturated:",
+    "choices": {
+      "W": "alkenes",
+      "X": "alkynes",
+      "Y": "aromatic hydrocarbons",
+      "Z": "alkanes"
+    },
+    "answer": "$Z$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding the kinetic molecular theory of gases is false:",
+    "choices": {
+      "W": "the average kinetic energy of a collection of gas particles depends on the absolute temperature and nothing else",
+      "X": "there is no force of attraction between gas particles",
+      "Y": "collisions between gas particles are both elastic and inelastic",
+      "Z": "energy can be transferred from one gas particle to another during a collision"
+    },
+    "answer": "$Y$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If friction is negligible, how much effort, in newtons, is needed to lift a 20 newton load if the lever has a mechanical advantage of 5?",
+    "answer": "4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If \p\ is the momentum of a photon, \h\ is Planck's constant, and \c\ is the speed of light, which of the following correctly relates wavelength to the photon's momentum:",
+    "choices": {
+      "W": "$\\athrm{p} = \\athrm{h}$ /wavelength",
+      "X": "$\\athrm{p} = \\athrm{ch}$ /wavelength",
+      "Y": "$\\athrm{p}^2 = \\athrm{hc}$",
+      "Z": "$\\athrm{p} = \\athrm{c}^2\\athrm{h}$"
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "About how much of a first quarter moon will appear illuminated?",
+    "answer": "ONE-HALF"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What are the 5 modern English names for the 5 celestial bodies recognized as planets by Greek astronomers of 200 BC?",
+    "answer": "MERCURY, VENUS, MARS, JUPITER, AND SATURN"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A double point on a curve where the curve has 2 coincident tangents is called a:",
+    "choices": {
+      "W": "cusp",
+      "X": "chord",
+      "Y": "transversal",
+      "Z": "ray"
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the value of $x$ from the following equation: $3x - (2x + 1) - 5 = 4x + (4 - 2x) - 3x$",
+    "answer": "5"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a sedimentary structure:",
+    "choices": {
+      "W": "stratification",
+      "X": "schistosity",
+      "Y": "cross bedding",
+      "Z": "graded bedding"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "If the air temperature is $80^{\\irc}\\athrm{F}$ and the dew point is $60^{\\irc}\\athrm{F}$ what is the relative humidity?",
+    "choices": {
+      "W": "$100\\$",
+      "X": "$150\\$",
+      "Y": "$51\\$",
+      "Z": "$8\\$"
+    },
+    "answer": "$Y$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Tiny red, green, and blue grains on the inside surface of a CRT monitor that are illuminated when an electron beam is directed toward them are called:",
+    "choices": {
+      "W": "dithors",
+      "X": "illuminors",
+      "Y": "phosphors",
+      "Z": "chromofors"
+    },
+    "answer": "$Y$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "A person who has burned themselves to where blistering has occurred is said to have:",
+    "choices": {
+      "W": "$1^{\\athrm{st}}$ degree burns",
+      "X": "$2^{\\athrm{nd}}$ degree burns",
+      "Y": "$3^{\\athrm{rd}}$ degree burns",
+      "Z": "$4^{\\athrm{th}}$ degree burns"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "In Windows 98 and Windows 2000, what utility removes temporary internet files:",
+    "choices": {
+      "W": "Disk Cleanup",
+      "X": "Disk Defragmenter",
+      "Y": "Cache Cleanup",
+      "Z": "Scan Disk"
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "Memory that is located on one or more microchips that are physically close to the microprocessor in a computer is often used as a shorter synonym for what general type of memory?",
+    "answer": "RANDOM ACCESS MEMORY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Type 1 diabetes is to pancreatic islets as Parkinson's is to:",
+    "choices": {
+      "W": "pituitary",
+      "X": "amigdyla",
+      "Y": "thalamus",
+      "Z": "substantia nigra"
+    },
+    "answer": "$Z$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which germ layer in mammals is predominantly responsible for forming skin, hair, and nails?",
+    "answer": "ECTODERM"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A molecule that has a central atom surrounded by 3 single bonds and 1 lone pair will most likely have which of the following shapes:",
+    "choices": {
+      "W": "trigonal planar",
+      "X": "trigonal pyramidal",
+      "Y": "trigonal bipyramidal",
+      "Z": "trigonal bipolar"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name of the plastic that was used in the original motion picture films:",
+    "answer": "CELLULOSE NITRATE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In 1934, Fermi was unknowingly experimenting with fission by bombarding uranium with:",
+    "choices": {
+      "W": "neutrons",
+      "X": "protons",
+      "Y": "gamma rays",
+      "Z": "alpha particles"
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following interactions of x-ray or gamma photons with matter will result in an increase in wavelength from the original incident ray when scattered by free electrons:",
+    "choices": {
+      "W": "photoelectric effect",
+      "X": "Compton effect",
+      "Y": "pair production",
+      "Z": "elastic scattering"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Consisting of two plano-convex lenses, what is the most common name for the first eyepieces ever designed for a telescope?",
+    "answer": "HUYGENS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "How many times more energy does a gas radiate if its temperature is raised from 10,000 Kelvin to 20,000 Kelvin?",
+    "answer": "16"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the only regular polyhedron that will completely fill space?",
+    "answer": "CUBE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Of 1000 computer owners surveyed, it was found that 800 people owned a computer with a built-in CD drive, 230 owned one with a built-in DVD drive, and 100 owned a computer with both CD and DVD drives. How many people do not own a computer with a CD OR DVD-drive?",
+    "answer": "70"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "What scale was developed in an effort to classify a tornado according to its rotational wind speed and from the damage it causes:",
+    "choices": {
+      "W": "Beaufort",
+      "X": "Saffir-Simpson",
+      "Y": "Fujita",
+      "Z": "Modified Mercalli"
+    },
+    "answer": "$Y$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "Most of the ozone in the Earth's atmosphere is present in what layer?",
+    "answer": "STRATOSPHERE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Those products of chemical analysis of plants which are not true bases but share certain similarities with them and are generally insoluble in water are referred to as:",
+    "choices": {
+      "W": "alkaloids",
+      "X": "glycosides",
+      "Y": "amides",
+      "Z": "saponides"
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following equations represents the curve we know by the name of \the witch of Agnesi\:",
+    "choices": {
+      "W": "$\\athrm{xy}^2 = \\athrm{a}(\\athrm{a - x})$",
+      "X": "$\\athrm{x}^2\\athrm{y}^2 = \\athrm{a}^2 (\\athrm{a}^2\\athrm{-x}^2)$",
+      "Y": "$\\athrm{xy}^2 = \\athrm{a}^2 (\\athrm{a - x})$",
+      "Z": "$\\athrm{xy} = \\athrm{a}^2 (\\athrm{a - x})^2$"
+    },
+    "answer": "$Y$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "What is the original name of the language now known as Java:",
+    "choices": {
+      "W": "Coffee",
+      "X": "C+++",
+      "Y": "Oak",
+      "Z": "Sun"
+    },
+    "answer": "$Y$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "In the COBAL programming language, what does the acronym COBOL stand for?",
+    "answer": "COMMON BUSINESS ORIENTED LANGUAGE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Of the primary, secondary, tertiary and quaternary levels of protein structure, to what level does the three-dimensional folding of a single peptide confer its structure?",
+    "answer": "TERTIARY"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "FAD functions as a hydrogen acceptor in the oxidation of what molecule of the citric acid cycle?",
+    "answer": "SUCCINATE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following has a basic formula of $(\\athrm{CH}_2\\athrm{O})_n$",
+    "choices": {
+      "W": "amino acids",
+      "X": "carbohydrate",
+      "Y": "proteins",
+      "Z": "nucleic acids"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A combination of temperature and pressure where the properties of the vapor phase of a substance become indistinguishable from those of the liquid phase at the same pressure and temperature, so that the substance exists as a single phase, is called its:",
+    "choices": {
+      "W": "triple point",
+      "X": "critical point",
+      "Y": "saturation point",
+      "Z": "gas shift point"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What common form of ionizing radiation is made of relatively large particles with a double positive charge:",
+    "choices": {
+      "W": "alpha particle",
+      "X": "beta + particle",
+      "Y": "beta - particle",
+      "Z": "neutrino"
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 objects from the one with the smallest rotational velocity down an arbitrarily long 45 degree inclined plane to the one with the largest after 2 seconds: a cylindrical shell; a solid disc; a solid sphere",
+    "answer": "A CYLINDRICAL SHELL; A SOLID DISC; A SOLID SPHERE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What constellation that contains the M 42 nebula is generally regarded as the grandest and brightest of all the constellations?",
+    "answer": "ORION"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "The M 42 nebula marks the point where what object is imagined to hang from Orion's belt?",
+    "answer": "SWORD"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the universal set is represented by the numbers 1, 2, 3, 4, 5, 6, 7, and set A is represented by the numbers 1, 2, 3; set B by the numbers 3, 4, 5, 6; and set C by the numbers 2, 3, 4, then what set is represented by the intersection of sets B and C?",
+    "answer": "3 AND 4"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two basketball players are to be chosen from a roster of 10 players. What is the number of ways this can be achieved?",
+    "answer": "45"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a large, irregularly-shaped intrusive body of igneous rock, which can reach sizes of up to 1000 km in length and 250 km in width:",
+    "choices": {
+      "W": "stock",
+      "X": "batholith",
+      "Y": "laccolith",
+      "Z": "dike"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Apatite is what number on the Moh's hardness scale:",
+    "choices": {
+      "W": "1",
+      "X": "3",
+      "Y": "5",
+      "Z": "7"
+    },
+    "answer": "$Y$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following DNA conformations is the native form:",
+    "choices": {
+      "W": "A-DNA",
+      "X": "B-DNA",
+      "Y": "L-DNA",
+      "Z": "Z-DNA"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Chondroitin is most concentrated in which of the following human tissues:",
+    "choices": {
+      "W": "skin",
+      "X": "cornea",
+      "Y": "synovial fluid",
+      "Z": "finger nails"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following can you deduce if you know the formula for an alkane is $\\athrm{C}_5\\athrm{H}_{10}$:",
+    "choices": {
+      "W": "it is a straight-chain",
+      "X": "it is branched",
+      "Y": "it contains a ring",
+      "Z": "it contains one double bonded carbon atom"
+    },
+    "answer": "$Y$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What French chemist in 1886 showed that the lowering of the vapor pressure of a solvent is proportional to the concentration of the substance dissolved, unless the solvent is an electrolyte:",
+    "answer": "FRANCOIS-MARIE RAOULT"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "According to the work of Coulomb, if the charges on each one of two tiny objects was doubled, by what multiple would the total force on the particles increase?",
+    "answer": "4 TIMES"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In an argument over a shirt one brother pulls on one sleeve of the 0.25 kilogram shirt to the left of an observer with a force of 20 newtons, and the other brother pulls on the other sleeve to the right of an observer with a force of 40 newtons. What is the magnitude of the net force on the shirt?",
+    "answer": "20 NEWTONS"
+  }
+]

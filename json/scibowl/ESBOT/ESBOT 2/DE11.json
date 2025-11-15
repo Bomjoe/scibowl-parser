@@ -1,0 +1,448 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A viscous fluid is running through a circular pipe with a radius of3 centimeters. If the fluid at the center of the pipe is flowing at3 meters per second, what is the flow velocity of the fluid2 centimeters from the center of the pipe?",
+    "answer": "$\\rac{5}{3}$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Scientists are currently investigating whether the neutrino is a Majorana particle by looking for instances of the neutrinoless version of what radiochemical process?",
+    "answer": "Double Beta decay"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In plants, the ABCDE model describes the development of floral organs. To what class of related sequences do the majority of the ABCDE model genes, as well as plant homeotic genes in general, belong to?",
+    "answer": "MADS box genes"
+  },
+  {
+    "question_number": 2,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Answer the following three questions about the karyotype shown below:1) What subunit of chromosome5 does this disorder affect?2) What type of mutation is this disorder?3) Characterized by high pitched cat-like crying in infants, what is the name of this disorder?",
+    "answer": "1)5p;2) chromosomal deletion;3) Cri du chat syndrome"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following3 compounds from most to least stable:1) Cyclopentadienone2) Cyclobutadiene3)1,2-bromonaphthalene",
+    "answer": "3,1,2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pairs of terms can describe a stabilized organic radical?",
+    "choices": {
+      "W": "Delocalized and hyperconjugated",
+      "X": "Resonance stabilized and nonbonding",
+      "Y": "Kinetically persistent and thermodynamically stabilized",
+      "Z": "Thermally deactivated and hindered"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A glacier has recently retreated from an endorheic basin. What two drainage patterns would you expect to find exhibited?",
+    "choices": {
+      "W": "Radial and Parallel",
+      "X": "Radial and Deranged",
+      "Y": "Centripetal and Parallel",
+      "Z": "Centripetal and Deranged"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following3 rocks in increasing P wave velocity:1) Arkose2) Quartz Sandstone3) Mudstone",
+    "answer": "3,1,2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Autophagy is a process of clearing up worn-out and dysfunctional organelles. Mitophagy is the autophagy of worn-out mitochondria. Which of the following diseases is the dysfunction of mitophagy most strongly associated with?",
+    "choices": {
+      "W": "Alzheimer's disease",
+      "X": "Huntington's disease",
+      "Y": "Parkinson's disease",
+      "Z": "Multiple Sclerosis"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During different stages of sleep, different wave patterns primarily compose the EEG. Order the following3 wave patterns found in EEGs during the different stages of sleep in order of increasing frequency:1) Theta waves2) Delta waves3) Sleep spindles",
+    "answer": "2,1,3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the least positive integer $n$ such that $\\qrt{2023 \\dot n}$ is an integer?",
+    "answer": "7"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Assuming A and B are arbitrary constants, identify all of the following3 expressions that are general solutions for $y(x)$ that satisfy the differential equation $y'' - y =0$: I) $y = A \\osh x + B e^x$ II) $y = A \\inh x + B e^{-x}$ III) $y = A e^x + B e^{-x}$",
+    "answer": "All"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A hollow sphere has an inner radius of $a$, an outer radius of $b$, and a thermal conductivity of $k$. A constant temperature difference of $T$ is maintained between the inner and outer radius of the shell. The rate of heat transfer between the inside and outside of the shell is proportional to which of the following?",
+    "choices": {
+      "W": "$ab$",
+      "X": "$\\rac{b^2}{a^2}$",
+      "Y": "$\\rac{ab}{b-a}$",
+      "Z": "$\\rac{ab}{a+b}$"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 7,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Nikhil can be approximated as a uniform sphere of radius0.5 meters and mass60kg. He starts at the top of a hill and rolls down to ground level before going around a circular loop with a radius of10 meters. If Thanush wants Nikhil to fall off the loop at the top, what is the maximum height above ground level in meters from which Nikhil can start?",
+    "answer": "27"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Lab are studying the spatial electron distribution of molecules. They are using a certain technique to do this, where a wavefunction of many particles is reduced to a single wavefunction parameterized by the density of particles. What is this technique called?",
+    "answer": "Density functional theory"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Livermore National Laboratory are studying adrenocortical carcinomas, which secrete elevated levels of adrenal cortex hormones. Identify of the following3 options that would not occur if this cancer started secreting large amounts of adrenal cortex hormones: I) Weight Loss II) Water retention III) Deepening voice",
+    "answer": "I only"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following Galilean moons has the highest surface gravity?",
+    "choices": {
+      "W": "Io",
+      "X": "Europa",
+      "Y": "Ganymede",
+      "Z": "Callisto"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 9,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The image below shows a light curve of a Variable Star in the milky way. Answer the following two questions about the image:1) What type of variable star is most likely pictured in the graph below?2) What is the name for the mechanism of this star's variability?",
+    "answer": "1) Mira;2) Dredge-ups"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many times do the functions $\\in(x)$ and $\\os(2x)$ cross each other from $x =0$ to $x =2\\i$, inclusive?",
+    "answer": "3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sukrith is trying to defuse a bomb with a broken seven-segment display. If the bottom image shows the current time and all of the segments marked with Xs on the display are broken and will not light up, how many seconds must Sukrith wait to be sure of the time on the display?",
+    "answer": "18"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A1,3 hydride rearrangement has a cyclic transition state. How many ring members does this transition state have?",
+    "answer": "4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The given diagram is commonly used in inorganic chemistry to show the relative stability of different oxidation states of an element. Answer the following two questions about this diagram:1) What is the name of this type of diagram?2) What period4 element is the most likely identity of element X?",
+    "answer": "Frost diagram; Vanadium"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The distinction between phonolite and andesite is based on the concentrations of which of the following species?",
+    "choices": {
+      "W": "Acids",
+      "X": "Alkalis",
+      "Y": "Silica",
+      "Z": "Alumina"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 12,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Pictured below is radar taken over Walker County, Alabama in2011. Answer the following two questions about the figure:1) What is the name of the weather phenomena present at point4?2) At which of the numbered points are the strongest downdrafts observed?",
+    "choices": {
+      "W": "Tornado,1",
+      "X": "Tornado,2",
+      "Y": "Supercell,2",
+      "Z": "Downburst,3"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In triangle ABC, the angle bisector of angle BAC intersects BC at point D and the circumcircle of triangle ABC at a point E not equal to A. Given that AD=7 and AE=10, then what is the value of BD times CD?",
+    "answer": "21"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The Mean of5 numbers is46. If two of the numbers are20 and43 and the median is seven less than the mode of the5 numbers, what is the mode of the5 numbers?",
+    "answer": "58"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In eukaryotes, which of the following enzymes is responsible for synthesis of the mitochondrial DNA in DNA replication?",
+    "choices": {
+      "W": "DNA polymerase alpha",
+      "X": "DNA polymerase gamma",
+      "Y": "DNA polymerase delta",
+      "Z": "DNA polymerase epsilon"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 14,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Answer the following three questions about the cross section shown below:1) Is this tissue cross section taken from a monocot or eudicot?2) From what part of the plant is this tissue cross section taken?3) What specific kind of tissue makes up the large red-stained circles shown in the center of the cross section?",
+    "answer": "1) eudicot;2) root;3) metaxylem"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Space Telescope Science Institute are using the Hubble Space telescope to study Cepheids in open clusters to improve the calibration of cepheids as a standard candle. Order the following3 types of type2 cepheid from shortest to longest period of oscillation:1) BL Herculis2) RV Tauri3) W Virginis",
+    "choices": {
+      "W": "1,2,3",
+      "X": "1,3,2",
+      "Y": "2,3,1",
+      "Z": "3,1,2"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Lab are studying the extent to which cancer cell ATP production uses the citric acid cycle. Which of the following anaplerotic reactions is not one that occurs in the citric acid cycle?",
+    "choices": {
+      "W": "Aspartate to malate",
+      "X": "Adenyl Succinate to fumarate",
+      "Y": "Pyruvate to oxaloacetate",
+      "Z": "Glutamate to alpha ketoglutarate"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In a given thermodynamic system, each microstate of the system is equally likely to occur over a long period of time. Systems satisfying this constraint are said to be which of the following?",
+    "choices": {
+      "W": "Auxetic",
+      "X": "Ergodic",
+      "Y": "Eutectic",
+      "Z": "Parametric"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In solid-state physics, one assumption of many simple models is that atoms are fixed in place within the crystal lattice. In reality, the positions of atoms can be affected by electrons moving through the lattice. What is the name of the quasiparticle used to describe a moving electron and the effect it has on the lattice around it?",
+    "answer": "Polaron"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Cyclopentadienyl is a common organometallic ligand. How many electrons does a neutral cyclopentadienyl ligand donate to the metal atom it coordinates with?",
+    "answer": "5"
+  },
+  {
+    "question_number": 17,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The provided diagram shows the photoelectron spectroscopy results after analyzing water. Answer the following2 questions about the diagram:1) According to molecular orbital theory, how many nonbonding electrons are there in a water molecule?2) What types of electron transitions are responsible for the fine structure peaks in the MO2 and MO3 orbitals?",
+    "answer": "2; Vibrational"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Blood in a patient's heart is not able to flow properly from the left atrium to the left ventricle. Identify all of the following3 heart valves that are definitely not affected: I) Tricuspid II) Pulmonary III) Bicuspid",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pairs of phi and psi angles, respectively, is indicative of the location of a right handed alpha helix on a Ramachandran plot?",
+    "choices": {
+      "W": "negative phi angle, negative psi angle",
+      "X": "negative phi angle, positive psi angle",
+      "Y": "positive phi angle, negative psi angle",
+      "Z": "positive phi angle, positive psi angle"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of all positive integers $m$ less than13 such that $12m$ is a perfect square?",
+    "answer": "15"
+  },
+  {
+    "question_number": 19,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sukrith is studying an endangered language as a linguist, and while looking at a whiteboard, he sees multiple equations. He realizes they were written in another base with multiple unique symbols. He successfully translates some symbols into numerical values from0 to9 and replaces those symbols. He hasn't translated the rest yet, but he correctly assumes that the other symbols represent values greater than or equal to10. Given the partially translated equation in the image shown and assuming that congruent symbols represent congruent numeric values, what base was most likely used?",
+    "answer": "14"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The potential energy of two positive charges with charge $Q$ placed1 centimeter apart is2 Joules. What is the potential energy in Joules of an octahedron of these charges with an edge length of1 centimeter?",
+    "answer": "$8 +3\\qrt{2}$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Shown below is a Minkowski diagram of the path taken between two events in spacetime. Answer the following3 questions about the diagram: A) Which of the labeled diagrams on the right is the correct Penrose diagram for this path? B) Is the separation between the two events timelike, spacelike, or lightlike? C) What is the term for the orange lines that bound the yellow shaded region on the Minkowski diagram?",
+    "answer": "X; spacelike; light cone"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Enloe High School are using various machine learning algorithms to analyze the sentiment of human beings. In machine learning, what graphical tool is used to evaluate the performance of a binary classifier by plotting the true positive rate against the false positive rate at various threshold settings?",
+    "answer": "ROC curve"
+  },
+  {
+    "question_number": 21,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Facility are using the LINAC coherent light source to study the physics of photon interaction. Two of the most common methods of high energy photon production are undulators and free electron lasers. Using the given image and assuming [$N_e$] is number of electrons and [$N_p$] is the number of poles, provide the letters of the formula and the emission spectra for both undulators and free electron lasers",
+    "answer": "Undulator is C and W, free electron laser is D and X"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following can be used as a good predictor of the mass of a supermassive black hole at the center of a spiral galaxy?",
+    "choices": {
+      "W": "Mass of the Galaxy",
+      "X": "Luminosity of the galaxy",
+      "Y": "Velocity dispersion of the galactic bulge",
+      "Z": "Velocity dispersion of the galactic halo"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Active galactic nuclei are often bright in the X-ray region resulting from what type of scattering through the hot corona around the accretion disk?",
+    "answer": "Inverse Compton"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 phenomena that are caused by relativistic effects on electron orbitals: I) Gold and cesium's yellow color II) Contraction of Mercury's6s orbital III) Technetium's High Melting Point",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following4 carbons of a carbon-13 NMR spectrum from least to most downfield:1) Unsaturated carbons2) Unsaturated carbons next to an oxygen3) Saturated carbons4) Saturated carbons next to an oxygen",
+    "answer": "3,4,1,2"
+  }
+]

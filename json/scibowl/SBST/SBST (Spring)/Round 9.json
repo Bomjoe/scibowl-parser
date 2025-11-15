@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Phosphoryl chloride can be used to synthesize alkyl halides from what class of organic molecules?",
+    "answer": "ALCOHOLS"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When the molecule bilirubin is exposed to blue light, one of its carbon-carbon double bonds changes configuration from Z to E. What is the specific term for this type of reaction?",
+    "answer": "PHOTOISOMERIZATION"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A9 volt battery is connected to a nichrome wire, through which4 amperes flow. What will the wire’s resistance be if it is squished down to half its original length?",
+    "answer": "$ \\rac{9}{16} $ OHMS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A block starts sliding down a frictionless80 centimeter ramp inclined at a $30^{\\irc}$ angle downwards to the right. As a vector, what is its velocity right before reaching the floor?",
+    "answer": "$1.4\\qrt{3}\\athrm{i} -1.4\\athrm{j}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three groups of bacteria that are gram-positive:1) Chlamydias;2) Spirochetes [SPY-ruh-keets];3) Cyanobacteria.",
+    "answer": "NONE OF THEM"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Given a sponge sample, which of the following would be the most informative in determining the number of different kinds of prokaryotic contaminants?",
+    "choices": {
+      "W": "Compare the sequences of the genes that encode ribosomal RNA for all the cells that are part of the sponge sample.",
+      "X": "Culture each of the microorganisms and then test their susceptibility to antibiotics that kill bacteria or archaea.",
+      "Y": "Culture the microorganisms and classify them according to their nutritional requirements and biochemical pathways.",
+      "Z": "Examine the microorganisms under a microscope to see whether they look like bacteria or like archaea."
+    },
+    "answer": "W) COMPARE THE SEQUENCES OF THE GENES THAT ENCODE RIBOSOMAL RNA FOR ALL THE CELLS THAT ARE PART OF THE SPONGE SAMPLE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about circulation in a mature hurricane:1) Air sinks in the eye;2) Air rises in the eyewall;3) At the top of the hurricane, most air travels towards the eye.",
+    "answer": "1,2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A binary system has a total mass of27 solar masses. If the period of rotation is8 years, find the semimajor axis of the system, in AU.",
+    "answer": "12 AU"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The complex number $3 +4\\athrm{i}$ is multiplied by the complex number $-8 +8\\athrm{i}$. By how many degrees does its argument increase?",
+    "choices": {
+      "W": "$-135$ degrees",
+      "X": "$-45$ degrees",
+      "Y": "45 degrees",
+      "Z": "135 degrees"
+    },
+    "answer": "Z)135 DEGREES"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For the curve given parametrically by $x = \\n t$ and $y = t \\n t$, what is the derivative of $y$ with respect to $x$ when $t = e^{2}$?",
+    "answer": "$3e^{2}$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Oak Ridge National Lab are working to refine a sorbent that can effectively recover lithium salts from concentrated brines at geothermal plants. This is motivated by the lack of significant deposits of conventional lithium ores in the United States. Which of the following is a conventional ore of lithium?",
+    "choices": {
+      "W": "Spodumene",
+      "X": "Pentlandite",
+      "Y": "Chalcopyrite [KAL-co-pyrite]",
+      "Z": "Sylvite"
+    },
+    "answer": "W) SPODUMENE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are investigating the pressure-induced solid phase transition in cadmium sulfide nanocrystals from the wurtzite structure to the rocksalt structure. What are the coordination numbers of wurtzite and rocksalt, respectively?",
+    "answer": "4,4 AND6,6"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "An alkene is placed in a reaction vessel with water. Identify all of the following three changes to the reaction vessel that would favor acid-catalyzed hydration to an alcohol:1) Decreasing temperature;2) Adding dilute sulfuric acid;3) Increasing alkene concentration.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three reagents that can function as nucleophiles but not bases:1) Sodium hydride;2) Methanol;3) Hydroxide.",
+    "answer": "NONE OF THEM"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What variational principle explains reflection and refraction as consequences of light rays taking the quickest path between two given points?",
+    "answer": "FERMAT'S PRINCIPLE (ACCEPT: PRINCIPLE OF LEAST TIME)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When heated from $29^{\\irc}\\athrm{C}$ to $54^{\\irc}\\athrm{C}$, a2 meter long metal rod expands by250 micrometers. Calculate the coefficient of volume expansion of the rod, giving your answer in scientific notation.",
+    "answer": "$1.5 \\times10^{-5} / \\athrm{K}$ (ACCEPT: $1.5 \\times10^{-5} / ^{\\irc}\\athrm{C}$)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the instrument that determines diastolic and systolic pressures using an inflatable cuff?",
+    "answer": "SPHYGMOMANOMETER"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What major plant hormone is synthesized in plastids through the terpenoid pathway?",
+    "answer": "ABSCISIC ACID"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the second most common anion in seawater?",
+    "answer": "SULFATE (ACCEPT: $\\athrm{SO}_4^{2 - }$)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four particles that are a significant constituent of primary cosmic rays:1) Photon;2) Proton;3) Alpha particle;4) Pion.",
+    "answer": "2,3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A diagonal of a regular hexagon measures6 cm. What is the ratio of the largest possible area of the hexagon to the smallest possible area of the hexagon?",
+    "answer": "4/3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Compute the double integral of $xy$ dx dy on the square domain with $x =0$ to $x =8$ and $y =0$ to $y =8$.",
+    "answer": "1024"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab have developed a model for the multistep dissolution of gibbsite, one of the polymorphs of aluminum hydroxide. Identify all of the following three statements about aluminum hydroxide that are true:1) Its solid form is held together by hydrogen bonds;2) When aluminum hydroxide is reacted with acid, the aluminate ion is formed;3) Aluminum hydroxide is amphoteric.",
+    "answer": "1,3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Lab have disproved the validity of the3.5 kiloelectron-volt line as evidence for a form of dark matter. The3.5 keV line was previously thought to be emitted from the decay of what hypothetical, low mass particles that only interact through gravity?",
+    "answer": "STERILE NEUTRINOS (ACCEPT: INERT NEUTRINOS)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An alkene is treated with cold potassium permanganate and sodium hydroxide. What will be the major product of this reaction?",
+    "choices": {
+      "W": "Syn-1,2- diol",
+      "X": "Anti-1,2- diol",
+      "Y": "Syn-1,3- diol",
+      "Z": "Anti-1,3- diol"
+    },
+    "answer": "W) SYN-1,2- DIOL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Hydrogenation of alkenes can be achieved using both homogeneous and heterogeneous catalysts. Which of the following is an example of a homogeneous catalyst used in hydrogenation?",
+    "choices": {
+      "W": "Ziegler-Natta catalyst",
+      "X": "Lindlar's catalyst",
+      "Y": "Wilkinson's catalyst",
+      "Z": "Grubbs catalyst"
+    },
+    "answer": "Y) WILKINSON'S CATALYST"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name of the effect responsible for an increase in the effective resistance of wires at high frequencies as current density is concentrated at the surface of the conductor?",
+    "answer": "SKIN EFFECT"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When a block is attached to a massless spring, the spring extends10 centimeters under the weight of the block. To the nearest tenth of a second, what would be the period of oscillations of the spring-block system?",
+    "answer": "0.6 SECONDS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a way by which muscle fibers can increase their ATP concentration?",
+    "choices": {
+      "W": "Dehydrating phosphoric acid to add to ADP",
+      "X": "Phosphorylation of ADP by creatine phosphate",
+      "Y": "Oxidative phosphorylation of ADP in mitochondria",
+      "Z": "Substrate-level phosphorylation of ADP by glycolysis or the citric acid cycle"
+    },
+    "answer": "W) DEHYDRATING PHOSPHORIC ACID TO ADD TO ADP"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The glyoxylate cycle is an anabolic pathway in plants, bacteria, protists, and fungi that takes place in a specialized type of what more common organelle?",
+    "answer": "PEROXISOME (DO NOT ACCEPT: GLYOXYSOME)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Minerals like zircon and xenotime [ZEE-no-time] precipitate from highly evolved magmas that are rich in incompatible elements. Which of the following is an example of an incompatible element?",
+    "choices": {
+      "W": "Magnesium",
+      "X": "Aluminum",
+      "Y": "Fluorine",
+      "Z": "Yttrium [YIH-tree-um]"
+    },
+    "answer": "Z) YTTRIUM"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Spicules are jets of plasma in what layer of the sun?",
+    "answer": "CHROMOSPHERE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In how many ways can21 identical marbles be distributed amongst7 people such that no two people have the same number of marbles?",
+    "answer": "5040"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the length of the path traced by the function $f(t) = (t,3$ cosine $t,3$ sine $t$ ) from $t =0$ to $t =3$?",
+    "answer": "3 SQUARE ROOT OF10"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Thomas Jefferson National Accelerator are studying the structure of the pion. The pion, along with other mesons, mediates what interaction?",
+    "choices": {
+      "W": "Beta minus decay",
+      "X": "Beta plus decay",
+      "Y": "Residual strong force",
+      "Z": "Color force"
+    },
+    "answer": "Y) RESIDUAL STRONG FORCE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are studying the NatA/Naa50 enzyme complex, which co-translationally acetylates the N-termini of over40% of eukaryotic proteins. From which molecule is the acetyl group derived during N-terminus acetylation?",
+    "answer": "ACETYL- COA (ACCEPT: AC- COA, ACETYL- COENZYME A)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The hydrohalogenation of alkynes proceeds via a disputed reaction mechanism. One of the proposed mechanisms is termolecular. Which of the following may be a reason scientists were hesitant to accept this mechanism as valid?",
+    "choices": {
+      "W": "Termolecular reactions are statistically unlikely to occur",
+      "X": "Termolecular reactions have unusually high activation energies",
+      "Y": "Termolecular reactions are entropically disfavored",
+      "Z": "Termolecular reactions produce various unwanted side products"
+    },
+    "answer": "W) TERMOLECULAR REACTIONS ARE STATISTICALLY UNLIKELY TO OCCUR"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three polymers that can be formed via radical polymerization:1) Polyethylene;2) Polyvinylchloride;3) Polyurethane.",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Lennard-Jones potential contains terms of $r$, the distance between particles, to the negative6th and12th powers. Which of the following forces explains the $\\athrm{r}^{-12}$ term?",
+    "choices": {
+      "W": "Pauli repulsion",
+      "X": "Coulomb forces",
+      "Y": "London dispersion forces",
+      "Z": "Dipole-dipole forces"
+    },
+    "answer": "W) PAULI REPULSION"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A uniform, spherical planet has a local acceleration due to gravity of $7 \\athrm{m / s^2}$ at the surface. If the radius of the planet is2450 kilometers, compute, to two significant digits and in scientific notation, the mass of the planet in kilograms. Assume that the universal gravitational constant is $6.67 *10^{-11}$ meters cubed per kilogram second squared.",
+    "answer": "$6.3 *10^{23}$ KILOGRAMS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Roots may release phytosiderophores to absorb what metal ion?",
+    "answer": "IRON (ACCEPT: $\\athrm{Fe}^{3 + }$)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Bees, yellow jackets, and wasps all share similar coloring due to what form of mimicry?",
+    "answer": "MÜLLERIAN MIMICRY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals is NOT an inosilicate?",
+    "choices": {
+      "W": "Augite",
+      "X": "Hornblende",
+      "Y": "Enstatite",
+      "Z": "Epidote"
+    },
+    "answer": "Z) EPIDOTE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "An unsaturated air parcel with a temperature of $20^{\\irc}\\athrm{C}$ rises from the surface with a dry adiabatic lapse rate of $7^{\\irc}\\athrm{C / km}$ and a wet adiabatic lapse rate of $5^{\\irc}\\athrm{C / km}$. Assuming the dew point at the surface is $14^{\\irc}\\athrm{C}$ and the dew point lapse rate is $2^{\\irc}\\athrm{C / km}$, at what altitude, in meters, will clouds start forming?",
+    "answer": "1200 METERS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Jack rolls some8-sided dice and sums the result of each die. There are exactly2003 possible values for that sum. How many dice does Jack have?",
+    "choices": {
+      "W": "284",
+      "X": "285",
+      "Y": "286",
+      "Z": "287"
+    },
+    "answer": "Y)286"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let A and B be nodes on a complete12-graph. How many paths start at A, end at B, visit at most5 distinct nodes including A and B, and never go to the same node twice?",
+    "answer": "821"
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In noncyclic electron flow, what is the final electron acceptor of Photosystem 1?",
+    "answer": "NADP+"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following least accurately describes archaea?",
+    "choices": {
+      "W": "Their cell membranes are phospholipid monolayers",
+      "X": "Fatty acids in their cell membranes are linked with ester bonds",
+      "Y": "They are more tolerant to high salinity than most eubacteria",
+      "Z": "Their cell walls contain pseudopeptidoglycan"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following 3 statements is true about Antarctic Bottom Water, or AABW? 1) Temperatures range from -4 to -0.5 degrees C; 2) It is formed from surface water cooling in polynyas and near the ice shelf; 3) Recent climate change and consequent melting of the Antarctic ice sheet has slowed the formation of AABW.",
+    "answer": "2, 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the primary mechanism that removes star forming gas from a galaxy when it moves towards the center of a galaxy cluster?",
+    "answer": "RAM PRESSURE STRIPPING"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 5 kg box moving at 4 m/s collides inelastically with a stationary 3 kg box. What is the final velocity of the boxes?",
+    "answer": "2.5 m/s"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 3 cubic meter block is submerged half in oil and half in water, and is in static equilibrium. If the density of water is $1000 \\athrm{kg} / \\athrm{m}^3$ and the density of oil is $800 \\athrm{kg} / \\athrm{m}^3$, what is the mass of the block?",
+    "answer": "2700 kg"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A string of 3 letters, each letter being A or B is randomly chosen. What is the probability of having more B's than A's in the string?",
+    "answer": "1/2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the Euclidean Algorithm for finding the greatest common divisor of two numbers?",
+    "choices": {
+      "W": "Prime factorize each of the numbers and pick the primes out",
+      "X": "Multiply both of the numbers and divide by the least common multiple",
+      "Y": "Using remainders by dividing the larger by the smaller and repeating",
+      "Z": "Multiply both the numbers and divide by their difference"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which of the following is true about solid solutions? 1) The exsolution of solid solutions forms lamellae that are characterized by differing cation size; 2) The lowest melting of a solid solution is usually near an endmember; 3) The Hume-Rothery rules govern the formation of solid solutions based on similar electronegativities and atomic radii.",
+    "answer": "1, 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which of the following is true about the addition of oxygen to a Grignard reagent? 1) radical intermediates are formed; 2) a magnesium organoperoxide is formed; 3) the halide is removed as an anion",
+    "answer": "1, 2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What bond links the phosphates of an ATP molecule?",
+    "answer": "PHOSPHOANHYDRIDE BONDS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What class of noncoding RNAs are utilized in CRISPR systems to guide the endonuclease complex to the target sequence?",
+    "answer": "GUIDE RNA"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following igneous structures is a small batholith-like discordant intrusion?",
+    "choices": {
+      "W": "Laccolith",
+      "X": "Stock",
+      "Y": "Lopolith",
+      "Z": "Sphere dike"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following minerals in terms of increasing relative stability at standard temperature and pressure: 1) vermiculite; 2) magnesioowustite; 3) sillimanite; 4) andalusite",
+    "answer": "2, 3, 4, 1"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which fundamental force violates charge parity?",
+    "answer": "WEAK NUCLEAR FORCE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A hollow, air cored inductor coil consists of 200 turns of copper wire, which produces a magnetic flux of 6 milliwebers when passing a DC current of 10 amps. Calculate the self-inductance of the coil in milli-Henries.",
+    "answer": "120 mH"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the period of the function $f(x) = \\in^2 (x) * \\os^2 (x)$?",
+    "answer": "$\\i /2$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area between the curves $y = x^3$ and $y = x + 2$ between $x = 0$ and $x = 1$?",
+    "answer": "9/4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cations is the most stable?",
+    "choices": {
+      "W": "$\\athrm{Al}^{+}$",
+      "X": "$\\athrm{Ga}^{+}$",
+      "Y": "$\\athrm{In}^{+}$",
+      "Z": "$\\athrm{Ti}^{+}$"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What important metal oxide is used to oxidize alkenes into vic diols, also used as a staining agent in TEM to provide contrast to the image?",
+    "answer": "OSMIUM TETROXIDE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "PIN Proteins in plants are associated with the transport of what major plant hormone?",
+    "choices": {
+      "W": "Auxins",
+      "X": "Gibberellins",
+      "Y": "Cytokinins",
+      "Z": "Ethylene"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The first step of the Calvin cycle, catalyzed by Rubisco, forms what molecule?",
+    "choices": {
+      "W": "1,5-Bisphosphate",
+      "X": "3-Phosphoglycerate",
+      "Y": "1,3-Bisphosphoglycerate",
+      "Z": "Glyceraldehyde 3-Phosphate"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals cannot be mined as a source of copper?",
+    "choices": {
+      "W": "Chalcopyrite",
+      "X": "Azurite",
+      "Y": "Bornite",
+      "Z": "Pentlandite"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following statements about important angles in structural geology is true? 1) true dip is always greater than apparent dip; 2) trend is equal to strike if the ground surface is parallel to the horizontal plane; 3) plunge is measured along the limb of a fold",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When a free neutron decays into a proton via beta minus decay, what particle mediates the flavor change from the down quark into an up quark?",
+    "answer": "W- BOSON"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particular planet has mass $7.0 \\times 10^{23} \\athrm{kg}$ and a radius of $2.0 \\times 10^{6} \\athrm{m}$. What is the escape velocity, in meters per second, on this planet? Take $G$ to be $7 \\times 10^{-11} \\athrm{Nm}^{2} \\athrm{kg}^{-2}$",
+    "answer": "7,000 m/s"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is equivalent to $\\osh(2x)$?",
+    "choices": {
+      "W": "$\\inh^{2}(2x)$",
+      "X": "$1 + 2\\inh^{2}(x)$",
+      "Y": "$2\\inh (x)\\osh (x)$",
+      "Z": "$\\inh^{2}(x)$"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the values in the matrix that results from the multiplication of a 2 by 3 matrix with all values being 6 and a 3 by 2 matrix with all values being 7?",
+    "answer": "126"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What quantity describes useful work obtained from a closed isothermal and isochoric system?",
+    "answer": "HELMHOLTZ FREE ENERGY"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Even as aromatic rings are interrupted by an sp3 carbon atom, they can still maintain aromaticity through what mechanism, seen in molecules like $\\athrm{C}_8\\athrm{H}_9^+$?",
+    "answer": "HOMOAROMATICITY"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gives myelin its characteristic white color?",
+    "choices": {
+      "W": "Water",
+      "X": "Proteins",
+      "Y": "Phospholipids",
+      "Z": "Glycolipids"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What oval-shaped mechanoreceptor is located in the Stratum basale of the skin and is essential for light touch sensation?",
+    "answer": "MERKEL CELLS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The phase transition of spinel structured ringwoodite into the denser perovskite phases of magnesioowustite and bridgmanite occurs at which of the following depths?",
+    "choices": {
+      "W": "$100\\athrm{km}$",
+      "X": "$220\\athrm{km}$",
+      "Y": "$410\\athrm{km}$",
+      "Z": "$660\\athrm{km}$"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In stars above 0.3 solar masses, what is the transition layer between the radiative zone and convective zone, representing significant rotational shear between the two layers?",
+    "answer": "TACHOCLINE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An ideal refrigerator is operating between temperatures of 27 degrees celsius and 77 degrees celsius. What is the coefficient of performance of this refrigerator?",
+    "answer": "7"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball with moment of inertia $(2 / 5)\\athrm{mr}^2$ rolls down a 30 degree inclined plane. What is its acceleration?",
+    "answer": "$3.5\\athrm{m / s^2}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "5 students are sitting at a round table. How many seatings are possible if rotations are indistinct?",
+    "answer": "24"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of a triangle with side lengths of 13, 14, and 15?",
+    "answer": "84"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following solids has a zincblende structure?",
+    "choices": {
+      "W": "Sodium fluoride",
+      "X": "Gallium arsenide",
+      "Y": "Caesium chloride",
+      "Z": "Silver chloride"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Assuming there are no rings or triple bonds, how many double bonds are present in the molecule $\\athrm{C}_{12}\\athrm{H}_{15}\\athrm{O}_{2}\\athrm{Cl}$?",
+    "answer": "5"
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many people need to be in a room to ensure that there are at least 3 people born in the same month?",
+    "answer": "25"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alice and Bob each choose a distinct diagonal of a regular heptagon. What is the probability that they choose diagonals of the same length?",
+    "answer": "6/13"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Ridings has debilitating senioritis and thus whenever he hears the word ‘essay’, he immediately reacts by performing a series of unlearned actions. What is this behavior called?",
+    "answer": "FIXED ACTION PATTERN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three amino acids that are aromatic: 1) Tyrosine; 2) Phenylalanine; 3) Alanine.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Argonne National Lab have been using optimization to apply artificial intelligence to quantum computing. Which of the following matrices do they most likely encounter while performing optimization?",
+    "choices": {
+      "W": "Hessian",
+      "X": "Jacobian",
+      "Y": "Wronskian",
+      "Z": "Hermitian"
+    },
+    "answer": "W) HESSIAN"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Lab have been investigating new ways to remove heavy metals from industrial waste products. Most heavy metal removal involves the binding of polydentate ligands in what phenomenon?",
+    "answer": "CHELATION"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Sodium hydroxide is reacted with 2-bromopropane at high temperature. Which of the following molecules is likely to be the major product of this reaction?",
+    "choices": {
+      "W": "2-propanol",
+      "X": "2-propanone",
+      "Y": "Propene",
+      "Z": "Propanoic acid"
+    },
+    "answer": "Y) PROPENE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the major product when dimethyl ether is reacted with excess concentrated hydroiodic acid at high temperature?",
+    "answer": "METHYL IODIDE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Torque is defined as the time derivative of what quantity?",
+    "answer": "ANGULAR MOMENTUM"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "One mole of a monatomic ideal gas is held at a pressure of 2 atmospheres and a volume of 1 liter. After an adiabatic expansion, it reaches a volume of 27 liters. In atmospheres, what is the final pressure of the system?",
+    "answer": "2/243"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following masses is closest to the lower mass limit of a main sequence star in solar masses?",
+    "choices": {
+      "W": "0.08",
+      "X": "0.16",
+      "Y": "0.5",
+      "Z": "0.75"
+    },
+    "answer": "W) 0.08"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "When working in the field, Jay finds a fossil replaced by pyrite. Which of the following best describes the likely environment of fossilization?",
+    "choices": {
+      "W": "Oxygen rich deep marine",
+      "X": "Oxygen rich river bed",
+      "Y": "Anoxic deep marine",
+      "Z": "Anoxic river bed"
+    },
+    "answer": "Y) ANOXIC DEEP MARINE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three animals that possess two germ layers: 1) Sea sponge; 2) Sea star; 3) Shark.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term is given to the junction between the infundibulum and the hypothalamus, containing the hypothalamo-hypophyseal portal vessels?",
+    "answer": "MEDIAN EMINENCE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of precipitation is formed by the contact of supercooled water droplets with ice crystals, eventually accreting to form soft white masses?",
+    "choices": {
+      "W": "Freezing rain",
+      "X": "Graupel",
+      "Y": "Rain",
+      "Z": "Hail"
+    },
+    "answer": "X) GRAUPEL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three changes, if considered alone, that will raise the eustatic sea level: 1) Increase in total ocean mass; 2) Increase in mean ocean density; 3) Increase in sedimentation rate.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Lab have been using methods developed in particle physics to increase the effectiveness of quantum computing. In quantum computing, what term is given to the basic unit of quantum information?",
+    "answer": "QUBIT"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Los Alamos National Lab are investigating the dynamics behind the Nice [neese] model, which proposes the outward migration of Saturn and Jupiter from the inner disk of the early solar system. The Nice model provides an explanation for which period of intense cratering occurring roughly four billion years ago?",
+    "answer": "LATE HEAVY BOMBARDMENT"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the length of the shortest altitude in a right triangle with legs of 5 and 12?",
+    "answer": "60/13"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the 2020th smallest positive integer that is not a perfect square?",
+    "answer": "2065"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "To one significant figure, what is the pH of a 1 molar solution of a weak acid with a pKa of 4?",
+    "answer": "2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many isomers exist for the coordination complex formed between magnesium $2+$ and EDTA?",
+    "answer": "2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In an RC circuit, which of the following best describes the potential difference across the resistor as the capacitor is charged?",
+    "choices": {
+      "W": "Exponentially approaching zero",
+      "X": "Exponentially approaching a nonzero constant",
+      "Y": "Quadratically approaching zero",
+      "Z": "Quadratically approaching a nonzero constant"
+    },
+    "answer": "W) EXPONENTIALLY APPROACHING ZERO"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What function is defined as the difference between kinetic and potential energies for a system?",
+    "answer": "LAGRANGIAN"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Phosphodiesterase is a signaling enzyme that converts what molecule into cyclic AMP?",
+    "answer": "ATP"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three clades in which all members undergo spiral cleavage: 1) Annelida; 2) Ecdysozoans; 3) Tetrapods.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements regarding ogives [OH-jives] that are true: 1) They are usually parabolic in shape and point towards the direction of glacier flow; 2) They are present as alternating bands of light and dark ice; 3) Ogives form at the foot of icefalls, areas where ice flow is substantially faster.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the solidus in igneous petrology?",
+    "choices": {
+      "W": "The line in a phase diagram above which a mineral starts to melt",
+      "X": "The line in a phase diagram above which a mineral completely melts",
+      "Y": "A point in a phase diagram at which a mineral completely melts",
+      "Z": "A region in a phase diagram within which the mineral is completely solid"
+    },
+    "answer": "W) THE LINE IN A PHASE DIAGRAM ABOVE WHICH A MINERAL STARTS TO MELT"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $x$, $y$, and $z$ are positive real numbers such that $x + y + z = 1$, what is the maximum possible value of $xyz$?",
+    "answer": "1/27"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The digits 1, 2, 3, and 4 can be arranged to form 24 different 4-digit integers. What is the sum of these 24 integers?",
+    "answer": "66660"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name of the temperature at which antiferromagnetic materials lose their microscopic order and become paramagnetic?",
+    "answer": "NEEL TEMPERATURE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Gilman reagents are commonly reacted with acid chlorides to form what functional group?",
+    "answer": "KETONE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Ampere’s law states that the curl of the magnetic field is equal to the current density times what constant?",
+    "answer": "VACUUM PERMEABILITY"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that are required to experimentally calculate Earth’s gravitational acceleration using a uniform physical pendulum: 1) Length of pendulum; 2) Mass of pendulum; 3) Period of oscillation.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following vectors that are perpendicular to a curve in 3D space: 1) Tangent vector; 2) Normal vector; 3) Binormal vector.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $x$, $y$, and $z$ are positive integers with $xy = 2021$, what is the smallest possible value of $yz$ such that $y$ is not uniquely determined?",
+    "answer": "43"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab are investigating new ways to convert nitrate into ammonia. This is particularly difficult because it requires the transfer of how many electrons per molecule?",
+    "answer": "8"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Idaho National Lab have been developing new methods for the production of X-rays for applications in medicine. Currently, many X-rays are produced by the deceleration of electrons as they approach atomic nuclei, producing what specific type of radiation?",
+    "answer": "BREHMSSTRAHLUNG"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What general term is used to describe the asexual reproduction of plants occurring without fertilization?",
+    "answer": "APOMIXIS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following that are true regarding the enzyme transducin: 1) It is found in the retina; 2) It directly regulates the production of cyclic AMP; 3) It is key to the metabolism of tyrosine.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The inverse of the Hubble constant is approximately equal to what cosmological quantity?",
+    "answer": "AGE OF THE UNIVERSE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three mechanisms that are thought to have generated Earth's internal heat: 1) Decay of radioactive isotopes; 2) Friction from planetary differentiation; 3) Moon-forming impact with Theia.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three particles that have zero spin: 1) Photon; 2) Higgs boson; 3) Muon.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An apparatus consists of two identical bulbs separated by a stopcock. Initially, the stopcock is closed, and 3 gas molecules are added to each bulb. Alice opens the stopcock and leaves the system for some time. How many times as likely are the molecules to be evenly split between the bulbs than they are to all be in the left bulb?",
+    "answer": "20"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which allotrope of phosphorus has a standard enthalpy of formation of zero?",
+    "answer": "WHITE PHOSPHORUS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What quantity is defined as the effective partial pressure for a real gas?",
+    "answer": "FUGACITY"
+  }
+]

@@ -1,0 +1,451 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Epinephrine stimulates the production of cyclic AMP from the cell from ATP via the use of what membrane enzyme?",
+    "answer": "ADENYLYL CYCLASE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three codons in which a point mutation could form a nonsense mutation: 1) AUG; 2) UAA; 3) AGG.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three stages of a tropical weather system from highest to lowest pressure: 1) Tropical Storm; 2) Tropical Depression; 3) Typhoon.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following quadrants of a hurricane would be the MOST intense in the Southern Hemisphere? Consider the direction of motion of the hurricane to be the \front\ of the hurricane.",
+    "choices": {
+      "W": "Front Left",
+      "X": "Front Right",
+      "Y": "Back I.cft",
+      "Z": "Back Right"
+    },
+    "answer": "W) FRONT LEFT"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Physicists at Lawrence Berkeley National Lab are studying read-out errors in quantum computing, where a qubit displays the incorrect number such as a zero instead of a one. Read-out errors occur due to the decay of what property of qubits that allow both zero and one to be represented by a single qubit?",
+    "answer": "SUPERPOSITION"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab developed a method to separate paramagnetic metal ions from a solvent using inexpensive magnets. Identify all of the following three metal ions that could be separated using this new technique: 1) $\\athrm{Cu^{+}}$ ; 2) $\\athrm{Zn^{2 + }}$ ; 3) $\\athrm{Ag^{+}}$.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What type of molecular orbital is the lowest unoccupied molecular orbital in graphene?",
+    "choices": {
+      "W": "Sigma bonding",
+      "X": "Sigma antibonding",
+      "Y": "Pi bonding",
+      "Z": "Pi antibonding"
+    },
+    "answer": "Z) PI ANTIBONDING"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A 3 gram pack of cold water at 5 degrees celsius is emptied into a 27 gram cup of water at 35 degrees celsius. To the nearest degree celsius, what is the temperature of the cup of water when the system reaches equilibrium?",
+    "answer": "32"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Kevin rolls a dice until he rolls one 1 and two 2s. What is the probability that he rolls the 1 before either of the 2s?",
+    "answer": "$\\rac{1}{2}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A rhombus with side length 5 has a diagonal of length 8. What is the area of the rhombus?",
+    "answer": "24"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A new planet has a mass of 5.4 Earth masses and a radius 0.6 times that of the Earth. If the escape velocity of the Earth is 11 kilometers per second, what is the escape velocity of the new planet in kilometers per second?",
+    "answer": "33"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A block is hung between two poles of equal height such that a beam is attached from the top of each pole to the block. The beams are placed such that one of them makes a 30 degree angle with the horizontal, while a second beam makes a 60 degree angle with the horizontal. If the tension in the first beam is 19.6 newtons, what is the mass of the block in kilograms?",
+    "answer": "4"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Daniel is performing a Normarski microscopy experiment via the utilization of colon cancer cells. When extracting cancer cells from patients, he notices that the cancerous cells have spread not only to the digestive tract but to the brain. What is this process known as?",
+    "answer": "METASTASIS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements regarding phages that are true: 1) Temperate Phages can use the lytic cycle; 2) The prophage of a lysogenic cycle leaves the cell during the switch to the lytic cycle; 3) The lytic cycle kills the cell after the phage exits.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three minerals in increasing magnesium concentration: 1) Amphibole; 2) Biotite; 3) Pyroxene.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three types of silicates from least to most susceptible to weathering: 1) Chain silicates 2) 3-D network 3) Isolated Tetrahedra.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak-Ridge National Lab are developing antidotes for organophosphate nerve agents. Organophosphate nerve agents act by inhibiting the degradation of what neurotransmitter present at the neuromuscular junction that is released by motor neurons in order to activate muscles?",
+    "answer": "ACETYLCHOLINE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Lab used measurements of the Sun's precession to determine how the atmosphere is affected by miniscule frames dragging from the curved spacetime around the sun. Order the following three regions of the Sun from hottest to coldest: 1) Corona; 2) Photosphere; 3) Chromosphere.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three compounds in increasing boiling point of the solution formed when 1 mole of each is added to water: 1) $\\athrm{BaSO_4}$ ; 2) HCOOH; 3) KBr.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "For a second-order decomposition reaction, the time required to decompose to $1 / 9$ of the initial concentration was 40 seconds. How many seconds did it take to decompose to $1 / 3$ of the initial concentration?",
+    "answer": "10"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the greatest possible distance between any two points inside or along the perimeter of an equilateral triangle with side length 1?",
+    "answer": "1"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following values that cannot be the number of trailing zeros at the end of $n!$ [n factorial], for some positive integer $n$: 1) 5, 2) 10, 3) 11.",
+    "answer": "1AND3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When a muon is produced during a muon-neutrino event in heavy water, it creates a cone of light. The cone of light is caused by the emission of what type of radiation as the muon slows down to the speed of light in heavy water?",
+    "answer": "CHERENKOV"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A large flat 3 kilogram circular disk has a moment of inertia of 36 kilogram square meters about an axis perpendicular to the disk passing through its center. What is the moment of inertia of the disk about an axis parallel to the disk passing through it 2 meters from its center?",
+    "answer": "30"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three structures that are present in a monocot root: 1) Pith; 2) Vascular bundles; 3) Pericycle.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids is most likely to be found in an intramembrane domain of a surface receptor protein?",
+    "choices": {
+      "W": "Phenylalanine",
+      "X": "Glutamic acid",
+      "Y": "Lysine",
+      "Z": "Serine"
+    },
+    "answer": "W) PHENYLALANINE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the closest to the angle that the moon makes with the ecliptic?",
+    "choices": {
+      "W": "0 degrees",
+      "X": "5 dcgrcs",
+      "Y": "10 dcgrcs",
+      "Z": "15 dcgrcs"
+    },
+    "answer": "X) 5 DEGREES"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The shadow cast by the Moon on the Earth during a solar eclipse only has a small area where a total solar eclipse can be observed. What is the term for the less intense shadow where a partial solar eclipse can be observed in?",
+    "answer": "PENUMBRA"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Thomas Jefferson National Lab measuring the interaction of protons and neutrons studied mirror nuclei. For a nuclide, it has as many protons as its mirror nuclide has neutrons and as many neutrons as its mirror nuclide has protons. What isotope is the mirror nuclide of helium-3?",
+    "answer": "TRITIUM"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Ames National Lab created a new platinum-based catalyst that can break down polyolefin plastics. The catalyst consists of platinum active sites surrounded by silica channels and pores. What common group of microporous aluminosilicates could the scientists have utilized to store the active sites?",
+    "answer": "ZEOLITE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three elements in increasing work function: 1) Lithium; 2) Beryllium; 3) Sodium.",
+    "answer": "3,1,2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three fluoride salts in increasing molar solubility in aqueous solution under standard conditions: 1) CaF2; 2) IiF; 3) AgF.",
+    "answer": "1,2,3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "When Daniel lines up his rocks in rows of 5, he has 1 left over. When he lines up his rocks in rows of 7, he has 3 left over. If he has at least 100 rocks, what is the smallest number of rocks he can have?",
+    "answer": "101"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A store sells mangoes in boxes of 3, 4, and 5 for \4, \5, and \6, respectively. What is the greatest number of mangoes that can be bought from the store with exactly \100?",
+    "answer": "83"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the equivalent capacitance in microfarads of four 2 microfarad capacitors with two of them in parallel which are then in series with the remaining two capacitors?",
+    "answer": "%"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An AC circuit contains three 4 ohm resistors, two of which are in series with each other and parallel with the third resistor. If the voltage is a sinusoidal input with a peak of 12 volts, what is the average power consumption of the circuit in watts?",
+    "answer": "27"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "You perform a cross of two true breeding individuals, one that is dominant for two alleles, and one that is negative. You then test cross the F1 generation to the recessive individual, and notice that the $90\\$ of the offspring display parental characteristics. Which of the following is the best explanation?",
+    "choices": {
+      "W": "Unequal crossing over during synapsis",
+      "X": "A mutation in one of the parents degrades the shugoshin complex causing constitutive nondisjunction",
+      "Y": "Meiotic drive",
+      "Z": "The genes are linked"
+    },
+    "answer": "Z) THE GENES ARE LINKED"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Parabasalids are a group of excavates that possess what form of modified mitochondria?",
+    "answer": "HYDROGENOSOMES"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What general type of mass wasting is characteristic of low grade slopes due to discrete movements from the force of gravity overcoming frictional force?",
+    "answer": "SOII. CREEP"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What type of general mass movement is based upon freeze thaw cycles, often in periglacial locations?",
+    "choices": {
+      "W": "I.ahar",
+      "X": "Rockfall",
+      "Y": "Solifluction",
+      "Z": "Slump"
+    },
+    "answer": "Y) SOLIFLUCTION"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are using the salt $\\athrm{Li_3V_2O_5}$ to store more energy in lithium ion battery anodes. This salt is also known as a lithium rocksalt because it has an analogous structure to sodium chloride, with all the vanadium atoms filling octahedral sites in the salt. What is the coordination number of vanadium in this salt?",
+    "answer": "6"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Ames National Lab used various spectroscopic techniques to study and improve the production of nylon from paper waste. What polymer in paper is used as the precursor in this production pathway because it contains aromatic subunits?",
+    "answer": "LIGNIN"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true about crystal field theory?",
+    "choices": {
+      "W": "High spin complexes are usually diamagnetic",
+      "X": "Carbon monoxide is a strong field ligand",
+      "Y": "Red-colored complex asbbrgrcen light most strongly",
+      "Z": "Ligands are modeled as point charges"
+    },
+    "answer": "W) HIGH SPIN COMPLEXES ARE USUALLY DIAMAGNETIC"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The dissolution of carbon dioxide in water to form aqueous carbon dioxide obeys Henry's Law, and aqueous carbon dioxide exists in equilibrium with hydronium and bicarbonate ions. Identify all of the following three changes that would increase the percent dissociation of aqueous carbon dioxide in a beaker of distilled water under a constant carbon dioxide atmosphere: 1) Increasing the pressure of carbon dioxide; 2) Adding distilled water to the solution; 3) Adding a buffer to maintain a constant pH of 7.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Determine all values of $x$ that are vertical asymptotes for the rational function with numerator $x^{2} - 15x + 56$ and denominator $x^{2} + 2x - 63$.",
+    "answer": "- 9"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If complex numbers $x$ and $y$ satisfy $x + y = 5$ and $xy = 1$, evaluate the expression $x^{4} + y^{4}$.",
+    "answer": "527"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An infinitely sturdy cubic box containing a vacuum is placed on a frictionless table in presence of an atmosphere. Each side of the box faces a cardinal direction. A small hole is opened on the East side. In what cardinal direction would the box accelerate?",
+    "choices": {
+      "W": "North",
+      "X": "South",
+      "Y": "Fast",
+      "Z": "West"
+    },
+    "answer": "Y) EAST"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of particles that can mediate the neutral current interaction: 1) W boson; 2) Z boson; 3) Gluon.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the coefficient of relatedness between an uncle and their niece?",
+    "answer": "1/4"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which sense is defined as the ability to detect the position of the limbs with respect to other limbs?",
+    "answer": ""
+  }
+]

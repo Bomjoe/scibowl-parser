@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Give the chemical formula of the precipitate formed when barium hydroxide reacts with sulfuric acid.",
+    "answer": "$\\athrm{BaSO_4}$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Phenolphthalein (fee-nol-thay-lean) is an acid-base indicator which turns from colorless to pink in the pH range from 8 to 10. Which of the following statements is true about phenolphthalein?",
+    "choices": {
+      "W": "It is a good indicator for the endpoint of the titration of a weak base with a strong acid.",
+      "X": "The deprotonated form of phenolphthalein is pink.",
+      "Y": "The protonated form of phenolphthalein is pink.",
+      "Z": "Phenolphthalein decomposes in basic conditions."
+    },
+    "answer": "X) The deprotonated form of phenolphthalein is pink."
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Conrad group at MIT is working together with Fermi group on the MiniBooNE, which is focused on detecting neutrino oscillations. To do so, they use a beam of what middle generation neutrinos?",
+    "answer": "Muon neutrinos"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Kavli Institute at MIT have discovered 4 new exoplanets using the TESS satellite. The researchers discovered these exoplanets using what method of exoplanet detection, in which the planet passes directly in front of a star, causing a dip in its light curve?",
+    "answer": "Transit method (accept: transit timing)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "On an unknown planet, a pendulum of length 6 meters has a period of 6.28 seconds. To the nearest whole number, what is the acceleration of gravity in meters per second on that planet?",
+    "answer": "6"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "According to Noether's theorem, what quantity is conserved due to the rotational symmetry of the universe?",
+    "answer": "Angular momentum"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Most long period comets are thought to originate from what spherical region of the solar system?",
+    "answer": "Oort Cloud (accept: Opik-Oort Cloud)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for the layer of cobbles and pebbles that sometimes occurs in deserts after a period of deflation?",
+    "answer": "Desert pavement"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "If two pea plants heterozygous for pea color and pea shape are crossed, and both pea color and pea shape exhibit Mendelian inheritance, what fraction of the offspring will exhibit the dominant form of both traits?",
+    "choices": {
+      "W": "1/16",
+      "X": "1/4",
+      "Y": "9/16",
+      "Z": "3/4"
+    },
+    "answer": "Y) 9/16"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "If offspring which are homozygous recessive for a trait do not survive to birth, what fraction of viable offspring from a cross between two parents heterozygous for that trait will also be heterozygous for that trait?",
+    "answer": "2/3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An abundant number is a positive integer $n$ whose factors sum to more than $2n$. What is the smallest abundant number?",
+    "answer": "12"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements about abundant numbers which are true: 1) Every positive multiple of an abundant number is also abundant. 2) Every abundant number is even. 3) There are infinitely many abundant numbers.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following spectral classes would exhibit the strongest hydrogen Balmer lines?",
+    "choices": {
+      "W": "A",
+      "X": "F",
+      "Y": "G",
+      "Z": "K"
+    },
+    "answer": "W) A"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following five minerals that can be found in pure marble: 1) calcite 2) halite 3) feldspar 4) dolomite 5) opal",
+    "answer": "1 and 4"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true of endothermic reactions?",
+    "choices": {
+      "W": "The energy released by the bonds breaking is less than the energy consumed by the bonds forming.",
+      "X": "The energy released by the bonds breaking is greater than the energy consumed by the bonds forming.",
+      "Y": "The energy released by the bonds forming is less than the energy consumed by the bonds breaking.",
+      "Z": "The energy released by the bonds forming is greater than the energy consumed by the bonds breaking."
+    },
+    "answer": "Y) The energy released by the bonds forming is less than the energy consumed by the bonds breaking."
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements which are true of the dissolution of ammonium nitrate in water: 1) The entropy of the dissolution is positive. 2) The enthalpy of the dissolution is positive. 3) The Gibbs free energy of the dissolution is positive.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following taxonomic ranks is the most general?",
+    "choices": {
+      "W": "Order",
+      "X": "Class",
+      "Y": "Phylum",
+      "Z": "Family"
+    },
+    "answer": "Y) Phylum"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Binomial nomenclature was formally developed by which of the following scientists?",
+    "choices": {
+      "W": "Charles Darwin",
+      "X": "Carolus Linnaeus",
+      "Y": "Alfred Wallace",
+      "Z": "Alfred Wegener"
+    },
+    "answer": "X) Carolus Linnaeus"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "The Lauffenburger group at MIT is studying receptor-mediated cell signaling. Which of the following molecules is NOT a ligand for a cell surface receptor?",
+    "choices": {
+      "W": "Cyclic AMP (read: A M P)",
+      "X": "Oxytocin",
+      "Y": "Renin",
+      "Z": "Gastrin"
+    },
+    "answer": "W) Cyclic AMP"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "The Grodzinsky group at MIT is studying cytokine-induced inflammation. Which of the following cytokines does NOT upregulate the inflammatory pathway?",
+    "choices": {
+      "W": "Interleukin-1",
+      "X": "Interleukin-6",
+      "Y": "Interleukin-1RA",
+      "Z": "TNF-alpha"
+    },
+    "answer": "Y) Interleukin-1RA"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A bag of 10 marbles is known to have 3 blue marbles. Given that the first marble you draw, without replacement, is red, what is the probability of drawing a blue marble on your next turn?",
+    "answer": "1/3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are all the horizontal and vertical asymptotes of the following function over the real numbers: $f(x) = \\rac{x^{3} - 5x^{2} + 4}{x^{2} - 1}$",
+    "answer": "$x = - 1$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What color model is used in the color theory behind paints, dyes, and other materials to predict the spectral power distribution that forms after light passes through partially absorbing layers?",
+    "choices": {
+      "W": "Additive color mixing",
+      "X": "Assistive color grading",
+      "Y": "Subtractive color synthesis",
+      "Z": "Summative color blending"
+    },
+    "answer": "Y) Subtractive color synthesis"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Providing your answer in scientific notation with one significant digit, calculate the de Broglie wavelength, in meters, of a car with a mass of 1600 kilograms traveling at a speed of 40 meters per second.",
+    "answer": "$1 \\times 10^{-38}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What hypothetical spin two boson is thought to mediate the gravitational force?",
+    "answer": "Graviton"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Danielle the baseball player can pitch a baseball at a speed of 40 meters per second. Neglecting air resistance and using $g$ as 10 meters per second squared, what is the farthest horizontal distance in meters she can throw a baseball on level ground?",
+    "answer": "160 meters"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for the part of the tRNA that binds to the mRNA codon during translation?",
+    "answer": "Anticodon"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The modified ribonucleotide that allows for wobble base-pairing is formed when hypoxanthine (HIGH-po-ZAN-theen) is connected to a ribose ring and is named inosine (EE-no-seen). Which of the following ribonucleotides is inosine NOT able to form hydrogen bonds with?",
+    "choices": {
+      "W": "Adenine",
+      "X": "Guanine",
+      "Y": "Cytosine",
+      "Z": "Uracil"
+    },
+    "answer": "X) Guanine"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A pizza slice cut from a 12-inch radius pie has perimeter $24 + \\i$. What is the degree measure of the central angle of the pizza slice?",
+    "answer": "15"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two populations $A$ and $B$ initially have 300 and 0 individuals, respectively. Every year, $15\\$ of the individuals from $A$ immigrate to $B$, and $30\\$ of the individuals from $B$ immigrate to $A$. Towards what number will the population of $A$ approach over time?",
+    "answer": "200"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Solomon group at MIT is currently quantifying the emissions of ozone depleting chemicals. Chlorofluorocarbons are examples of such chemicals. What reactive species which can serve as a catalyst for ozone depletion is emitted by chlorofluorocarbons upon exposure to UV light?",
+    "answer": "Chlorine radical"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Solomon group at MIT is currently quantifying the emissions of ozone depleting chemicals. Chlorofluorocarbons are examples of such chemicals. Upon exposure to UV light, chlorofluorocarbons can decompose to emit a chlorine radical which upon reaction with ozone forms what reactive intermediate?",
+    "answer": "ClO (accept: chlorine monoxide)"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, rank the following three molecules in order of increasing carbon-oxygen bond length: 1) Acetone 2) Carbon monoxide 3) Formate",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the standard reduction potential of bromine is 1.04 volts, then to one significant figure and in kilojoules per mole, what is the change in Gibbs free energy for the reduction of 1 mole of bromine liquid by hydrogen gas?",
+    "answer": "- 200 kilojoules per mole"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following objects would be most easily detected with an X-ray telescope?",
+    "choices": {
+      "W": "Main sequence sun-sized stars",
+      "X": "Interstellar dust",
+      "Y": "Large gaseous planets",
+      "Z": "Neutron stars"
+    },
+    "answer": "Z) Neutron stars"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four moons that are satellites of Saturn: 1) Enceladus 2) Ganymede 3) Triton 4) Miranda",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a 90-kilogram stone is thrown upwards at 20 meters per second from the ground, what will its speed be in meters per second right before it lands?",
+    "answer": "20 meters per second"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the shape of a uniform massive chain hanging under its own weight?",
+    "answer": "Catenary (accept: alysoid, chainette, funicular, hyperbolic cosine)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following salts is insoluble in water?",
+    "choices": {
+      "W": "Calcium chloride",
+      "X": "Lithium sulfate",
+      "Y": "Copper (II) hydroxide (read: copper two hydroxide)",
+      "Z": "Ammonium chlorate"
+    },
+    "answer": "Y) Copper (II) hydroxide"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The reaction $\\athrm{A} + \\athrm{B}$ yields C has an equilibrium constant of 0.2. What is the value of the equilibrium constant for the reaction 3C yields 3A + 3B?",
+    "answer": "125"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The oldest evidence for life is found in layered mounds of calcium carbonate formed by cyanobacteria. What is the term for these structures?",
+    "answer": "Stromatolites"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What molecule is commonly used in the detection of molecular clouds because it is a strong source of 2.6-millimeter radio waves?",
+    "answer": "Carbon monoxide (accept: CO)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Korotkoff (kuh-ROT-koff) sounds are produced when physicians take measurements of what quantity, which is commonly measured using a sphygmomanometer around the brachial artery?",
+    "answer": "Blood pressure"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When comparing a turtle heart to an alligator heart, the presence of a complete version of what structure within the heart results in four rather than three chambers?",
+    "answer": "Septum"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $\\og_{2}x = 17$, then what is $\\og_{x}4$?",
+    "answer": "2/17"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the shortest distance between the circle $x^{2} + y^{2} = 4$ and the line $3x + 4y = 13$?",
+    "answer": "3/5"
+  }
+]

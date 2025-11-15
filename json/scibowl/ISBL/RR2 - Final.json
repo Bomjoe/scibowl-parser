@@ -1,0 +1,400 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What crystal habit, often displayed by tremolite and actinolite, is known to cause lung cancer due to the extremely small needles created?",
+    "choices": {
+      "W": "Hopper",
+      "X": "Bladed",
+      "Y": "Tabular",
+      "Z": "Asbestiform"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Brennan the geologist is studying Earth's interior using seismic waves. Which of the following of Earth's layers can S waves NOT travel through?",
+    "choices": {
+      "W": "Crust",
+      "X": "Mantle",
+      "Y": "Outer Core",
+      "Z": "Inner Core"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Brennan is breeding Puffles where color is controlled by a single allele. He notices when he crosses a true-breeding strain of blue Puffles with a true-breeding strain of red Puffles, some of the progeny are purple. What term describes the relationship between the blue and red alleles?",
+    "answer": "INCOMPLETELY DOMINANT"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the maximum number of molecules of $\\athrm{O}_2$ that hemoglobin can bind to?",
+    "answer": "4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many moles of water would you expect to form from reacting one mole of glucose in excess oxygen to produce water and carbon dioxide?",
+    "answer": "6"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A sample of $\\athrm{SO}_2$ gas takes 20 seconds to effuse through a porous plug. If the molar mass of $\\athrm{SO}_2$ is 64 grams per mole, and the molar mass of helium gas is 4 grams per mole, how long, in seconds, would it take the same amount of helium to effuse through the plug?",
+    "answer": "5"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Brennan the coordinate mathematician is studying how to strictly define geometric elements off a certain set of points. How many points must he use to strictly define a plane?",
+    "answer": "3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Michael, Ryan, Samuel, Alan, and Gina are seated around a table. How many ways are there to arrange them if Gina and Alan must sit next to each other?",
+    "answer": "12"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What phenomenon occurs when a photon incident on a material ejects an electron?",
+    "answer": "PHOTOELECTRIC EFFECT"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What term denotes the minimum energy required to release an electron in the photoelectric effect?",
+    "answer": "WORK FUNCTION"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following stars is not on the Main Sequence?",
+    "choices": {
+      "W": "Sirius",
+      "X": "Betelgeuse",
+      "Y": "The Sun",
+      "Z": "Vega"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a dwarf planet?",
+    "choices": {
+      "W": "Chariklo",
+      "X": "Pluto",
+      "Y": "Haumea",
+      "Z": "Ceres"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four organelles which have a double-membrane: I - Nucleus II - Golgi Apparatus III - Mitochondria IV - Chloroplast",
+    "answer": "I, III, IV"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four characteristics that all members of Chordata possess. I - Notochord II - Backbone III - Pharyngeal Slits IV - Post-Anal Tail",
+    "answer": "I, III, IV"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A molecule with many unpaired electrons can be described as which of the following?",
+    "choices": {
+      "W": "Paramagnetic",
+      "X": "Diamagnetic",
+      "Y": "Supermagnetic",
+      "Z": "Undermagnetic"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of intermolecular forces that are present between hydrogen sulfide molecules. I. London dispersion forces II. Dipole-dipole forces III. Hydrogen bonding",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of $\\athrm{arcsin}(0.5)$ in radians?",
+    "answer": "$\\i/6$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the correct decimal expansion of $2 / 7$?",
+    "choices": {
+      "W": "0.142857 repeating",
+      "X": "0.275481 repeating",
+      "Y": "0.285714 repeating",
+      "Z": "0.314832 repeating"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Brennan stands 6 meters away from a plane mirror. If he then proceeds to run away from his image at a blazing $10\\athrm{m / s}$, at what speed does Brennan perceive his image as moving away from him?",
+    "answer": "20 m/s"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball is launched with velocity 10 m/s at an angle of 45 degrees. Neglecting air resistance and taking gravity as 10 m/s^2, how far does the ball travel before hitting the ground again?",
+    "answer": "10 METERS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Brennan the meteorologist is responsible for telling locals what the weather will be. Sensors picked up that air temperature suddenly dropped and clouds with significant vertical development began forming. What type of weather can he expect?",
+    "choices": {
+      "W": "Light Rain",
+      "X": "Warm breezes",
+      "Y": "Radiation fog",
+      "Z": "Thunderstorms"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following oceans does the Nazca Plate primarily underlie?",
+    "choices": {
+      "W": "The Atlantic",
+      "X": "The Pacific",
+      "Y": "The Indian",
+      "Z": "The Arctic"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes the interaction between a clownfish and an anemone, where both parties benefit?",
+    "answer": "MUTUALISM"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Brennan is studying a particular strain of yeast where color is controlled by a single gene. Brennan induces a substitution of a nucleotide in this gene but notices the yeast stay the same color. What term best describes the mutation Brennan caused in the yeast?",
+    "answer": "SILENT MUTATION"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the Lewis structure for hydrogen sulfide, how many lone pairs are present?",
+    "answer": "2"
+  },
+  {
+    "question_number": 26,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "84 g of a pure sample of a hydrocarbon contains 72 g of carbon. What is the empirical formula of this molecule?",
+    "answer": "CH2"
+  },
+  {
+    "question_number": 27,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the exterior angle of a regular 6-sided polygon?",
+    "answer": "60 degrees"
+  },
+  {
+    "question_number": 28,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the limit of the function with numerator $\\athrm{x}^{\\edge}2 + 5\\athrm{x} + 4$ and denominator $\\athrm{x}^{\\edge}2 + 9\\athrm{x} + 20$ as $\\athrm{x}$ approaches -4?",
+    "choices": {
+      "W": "-1",
+      "X": "-2",
+      "Y": "-3",
+      "Z": "-4"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 29,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A block of mass $5\\athrm{kg}$ is attached via a string to a $15\\athrm{kg}$ mass. Taking gravitational acceleration to be $10\\athrm{m / s}^{\\edge}2$, if the string is then placed over a massless pulley, forming a simple Atwood machine, what is the acceleration of the two blocks?",
+    "answer": "5 m/s^2"
+  },
+  {
+    "question_number": 30,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A thermodynamic process is graphed as a curve on a P-V diagram. Which of the following quantities is given by the area under the curve?",
+    "choices": {
+      "W": "Heat",
+      "X": "Internal Energy",
+      "Y": "Temperature",
+      "Z": "Work"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 31,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for large regions of ionized hydrogen, in which star formation has often recently taken place?",
+    "answer": "H-II REGION"
+  },
+  {
+    "question_number": 32,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "If the universe's density were greater than the critical density of the universe, what shape would the universe have?",
+    "choices": {
+      "W": "Open",
+      "X": "Closed",
+      "Y": "Ajar",
+      "Z": "Flat"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 33,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes gaps in the myelin sheath of a neuron?",
+    "answer": "NODES OF RANVIER"
+  },
+  {
+    "question_number": 34,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following traits would you NOT expect to observe in a monocot?",
+    "choices": {
+      "W": "Parallel venation in leaves",
+      "X": "Flowers with six petals",
+      "Y": "Vascular bundles arranged in a ring",
+      "Z": "Fibrous root system"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 35,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following liquids, which, when used as the mobile phase in thin layer chromatography on cellulose paper, would travel further than ethanol. I. Hexanes; II. Ammonia; III. Water",
+    "answer": "I only"
+  },
+  {
+    "question_number": 36,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What name is given to the famous mixture of nitric acid and sulfuric acid, capable of dissolving gold?",
+    "answer": "AQUA REGIA"
+  },
+  {
+    "question_number": 37,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 shapes that must have perpendicular diagonals. I. Square; II. Parallelogram; III. Kite; IV. Rhombus",
+    "answer": "I, III, IV"
+  },
+  {
+    "question_number": 38,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A 6 sided dice is rolled twice. What is the probability that the sum of the two numbers is a perfect square?",
+    "answer": "7/36"
+  },
+  {
+    "question_number": 39,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Brennan exerts a 20 newton force on a $2\\athrm{kg}$ block initially at rest over a distance of 5 meters. What is the final velocity of the block in $\\athrm{m / s}$?",
+    "answer": "10 m/s"
+  },
+  {
+    "question_number": 40,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Scientists building extremely powerful microscopes have been limited by the wavelength of light. Instead they've turned to using what subatomic particle instead of photons?",
+    "choices": {
+      "W": "Electrons",
+      "X": "Gluons",
+      "Y": "Neutrinos",
+      "Z": "Neutrons"
+    },
+    "answer": "W"
+  }
+]

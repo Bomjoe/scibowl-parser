@@ -1,0 +1,494 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "What is the term that describes the fast-moving current of hot gas and volcanic matter that is produced as a result of certain explosive eruptions?",
+    "answer": "Pyroclastic flow"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "The End-Permian extinction was particularly deadly to marine organisms because rising temperatures led to what oceanic condition, in which water has little to no oxygen for fish to breathe?",
+    "answer": "Hypoxia"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many edges does a decagonal pyramid have?",
+    "answer": "20"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many two digit values of $n$ exist such that the 5 numbers $n / 2$ , $n / 3$ , $n / 4$ , $n / 5$ , and $n / 6$ are all positive integer values?",
+    "answer": "1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The energy required to eject an electron from a neon atom is E. In terms of E, how much energy is released when an electron is added to neon's monovalent cation?",
+    "answer": "E"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "An aqueous solution is prepared containing silver (I) and barium (II) cations, as well as fluoride, chloride, iodide, and sulfate anions. A yellow precipitate forms from the solution. What is the chemical identity of the precipitate?",
+    "answer": "Silver iodide"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "During which season is the Intertropical Convergence Zone deflected furthest north?",
+    "answer": "Summer"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of wasting occurs in periglacial areas where freeze-thaw cycles cause expansion in the regolith?",
+    "answer": "Solifluction"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What angiosperm seed structure is analogous to the egg yolk in animals?",
+    "choices": {
+      "W": "Hypocotyl",
+      "X": "Endosperm",
+      "Y": "Cotyledon",
+      "Z": "Micropyle"
+    },
+    "answer": "X) Endosperm"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The distribution of what class of hormones plays a major role in the response of plants to gravity?",
+    "answer": "Auxin"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The impossibility of reducing the temperature of any closed system to absolute zero is a consequence of what law?",
+    "answer": "Third law of thermodynamics"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A cord pulls a box of mass 5 kilograms up a frictionless plane inclined at 30 degrees. If the force from the cord has a magnitude of 25 newtons, what is the magnitude of the box's acceleration, in meters per second squared, parallel to the inclined plane?",
+    "answer": "0.1"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "What is the term for the minimum amount of fissile material required to sustain a nuclear chain reaction, such that neutrons produced by the reaction will go on to cause further fission events?",
+    "answer": "Critical mass"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "What is the term that describes the situation where a model may contain more parameters than can be justified by the data, which can then cause it to fail to reliably predict future observations?",
+    "answer": "Overfitting"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "[read carefully] What is the value of $y$ if $x$ percent of $y$ is 6 and $x$ percent of $x$ percent of $y$ is 4?",
+    "answer": "9"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An isosceles triangle in the plane has an area of 2, and has one vertex at the point $(1,2)$ and one vertex at the point $(-1,2)$. How many potential points can be the third vertex?",
+    "answer": "6"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true about paramagnetism?",
+    "choices": {
+      "W": "Paramagnetic substances must have an odd number of electrons",
+      "X": "Paramagnetic substances are weakly repelled by a magnetic field",
+      "Y": "Paramagnetic substances have at least one unpaired electron",
+      "Z": "Paramagnetism transitions to ferromagnetism as temperature increases"
+    },
+    "answer": "Y) Paramagnetic substances have at least one unpaired electron"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three compounds by increasing dipole moment: 1) Ammonia; 2) Methanol; 3) Hydrogen bromide.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "S-process nuclides are generally formed by the addition of what subatomic particle to smaller nuclides?",
+    "choices": {
+      "W": "Neutron",
+      "X": "Proton",
+      "Y": "Electron",
+      "Z": "Alpha particle"
+    },
+    "answer": "W) Neutron"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three gases by increasing abundance in the Martian atmosphere: 1) Nitrogen gas; 2) Carbon dioxide; 3) Argon.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What tissue type is characterized by a lack of striation, involuntary contraction, and a presence within the digestive system?",
+    "answer": "Smooth muscle"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What cellular organelle gives brown fat, a tissue involved in thermogenesis, its distinctive color?",
+    "answer": "Mitochondria"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A marble balanced on top of a bowling ball is said to be in which of the following states?",
+    "choices": {
+      "W": "Neutral equilibrium",
+      "X": "Stable equilibrium",
+      "Y": "Unstable equilibrium",
+      "Z": "Turning point"
+    },
+    "answer": "Y) Unstable equilibrium"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Allison places a conducting wire loop inside a flat uniform magnetic field. Which of the following changes will not cause the flux through the loop to change?",
+    "choices": {
+      "W": "Vary the strength of the magnetic field",
+      "X": "Translate the loop along the direction of the magnetic field",
+      "Y": "Rotate the loop about an axis perpendicular to the magnetic field",
+      "Z": "Expand the loop radially"
+    },
+    "answer": "X) Translate the loop along the direction of the magnetic field"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Carbon dioxide in seawater contributes to ocean acidification because it reacts with water to form what compound?",
+    "answer": "Carbonic acid"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "The weights in each layer of a neural network are most commonly programmed as which mathematical object?",
+    "choices": {
+      "W": "Matrix",
+      "X": "Set",
+      "Y": "Tree",
+      "Z": "Ring"
+    },
+    "answer": "W) Matrix"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ways are there to assign non-negative integers to the values of $a, b,$ and $c$ , such that $a + b + c = 5$ ?",
+    "answer": "21"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three trigonometric functions that cannot have a value of 0: 1) Sine; 2) Tangent; 3) Cosecant.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In liquid chromatography, what property of the mobile and stationary phases is controlled to separate the solvent components?",
+    "answer": "Polarity"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "As the external pressure on a liquid decreases, which of the following changes must occur?",
+    "choices": {
+      "W": "The liquid's freezing point must increase",
+      "X": "The liquid's freezing point must decrease",
+      "Y": "The liquid's boiling point must increase",
+      "Z": "The liquid's boiling point must decrease"
+    },
+    "answer": "Z) The liquid's boiling point must decrease"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Tropospheric ozone is produced naturally by what phenomenon?",
+    "choices": {
+      "W": "Decomposition by fungi",
+      "X": "Emission via fumaroles",
+      "Y": "Lightning",
+      "Z": "Auroras"
+    },
+    "answer": "Y) Lightning"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The energy released by a magnitude 7 earthquake on the moment magnitude scale is roughly how many times larger than that of a magnitude 3 earthquake?",
+    "choices": {
+      "W": "1,000",
+      "X": "10,000",
+      "Y": "100,000",
+      "Z": "1,000,000"
+    },
+    "answer": "Z) 1,000,000"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following families of viruses is responsible for respiratory infections in vertebrates?",
+    "choices": {
+      "W": "Retroviridae",
+      "X": "Adenoviridae",
+      "Y": "Herpesviridae",
+      "Z": "Polyomaviridae"
+    },
+    "answer": "X) Adenoviridae"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Sean performs gel electrophoresis on two sequences of DNA: one that is 20 base pairs long and another that is 80 base pairs long. Which of the following most accurately summarizes his results?",
+    "choices": {
+      "W": "The 80 base-pair sequence is downstream of the 20 base-pair sequence",
+      "X": "The 20 base-pair sequence is downstream of the 80 base-pair sequence",
+      "Y": "The 20 base-pair sequence is located at the same distance as the 80-base pair sequence",
+      "Z": "It depends on the concentration of agarose"
+    },
+    "answer": "X) The 20 base-pair sequence is downstream of the 80 base-pair sequence"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Sean jumps off of a very tall building. Which of the following best describes the graph of his position versus time if there is air resistance directly proportional to his velocity?",
+    "choices": {
+      "W": "Quadratic",
+      "X": "Logarithmic",
+      "Y": "Sinusoidal",
+      "Z": "Exponential"
+    },
+    "answer": "Z) Exponential"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A block is pulled over a horizontal plane with a force $F$ that makes an angle of 15 degrees with the horizontal. Which of the following statements is NOT true?",
+    "choices": {
+      "W": "The direction of the force pulling the block is opposite to the direction of the force of friction",
+      "X": "The direction of the force of friction is perpendicular to the direction of the normal force",
+      "Y": "The direction of the force of friction is perpendicular to the direction of the gravitational force",
+      "Z": "The direction of the normal force is opposite to the direction of the gravitational force"
+    },
+    "answer": "W) The direction of the force pulling the block is opposite to the direction of the force of friction"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "The Carrington event, which caused auroras as far south as the Caribbean, was caused by what type of astronomical phenomenon occurring on the Sun?",
+    "answer": "Coronal mass ejection"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Space debris orbits Earth at about 7 kilometers per second, while a bullet from a handgun travels at around 350 meters per second. If a bullet has a mass of 8 grams, what would be the mass in grams of a piece of space debris with the same kinetic energy as the bullet?",
+    "answer": "0.02"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "[read carefully] What is the sum of the digits of $N$ , given that $N$ is the sum of the 6 numbers $111, 111 + 11, 111 + 1, 111 + 111 + 11 + 1$ ?",
+    "answer": "21"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes the point $(-2, 8)$ in the function $y = x^{3} + 6x^{2} - 2x - 12$ ?",
+    "choices": {
+      "W": "Local maximum",
+      "X": "Local minimum",
+      "Y": "Inflection point",
+      "Z": "Saddle point"
+    },
+    "answer": "Y) Inflection point"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following chemical species has the greatest electronegativity?",
+    "choices": {
+      "W": "Vanadium atom",
+      "X": "Vanadium (III) cation",
+      "Y": "Vanadium (IV) cation",
+      "Z": "Vanadium (V) cation"
+    },
+    "answer": "Z) Vanadium (V) cation"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following isotopes contains a doubly-magic nucleus?",
+    "choices": {
+      "W": "Magnesium-26",
+      "X": "Argon-40",
+      "Y": "Calcium-42",
+      "Z": "Nickel-48"
+    },
+    "answer": "Z) Nickel-48"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would conclusively identify an iron meteorite?",
+    "choices": {
+      "W": "Evidence of weathering",
+      "X": "Magnetism",
+      "Y": "A fusion crust",
+      "Z": "Heft"
+    },
+    "answer": "Y) A fusion crust"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three phenomena that are associated with an increase in rotational speed of a pulsar: 1) Glitch; 2) Accretion; 3) Emission of pulsar wind.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for a species interaction where one species benefits and the other is neither harmed nor benefitted?",
+    "answer": "Commensalism"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following conditions would lead to resource partitioning between species?",
+    "choices": {
+      "W": "Allopatric populations with different niches",
+      "X": "Allopatric populations with overlapping niches",
+      "Y": "Sympatric populations with different niches",
+      "Z": "Sympatric populations with overlapping niches"
+    },
+    "answer": "Z) Sympatric populations with overlapping niches"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What type of damped harmonic oscillator returns to equilibrium in the shortest amount of time?",
+    "answer": "Critically damped"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In terms of $M$ and $L$ , what is the moment of inertia of a rod with mass $M$ and length $L$ rotating about an axis that is a distance $L / 4$ from its center?",
+    "answer": "$\\rac{7ML^2}{48}$"
+  }
+]

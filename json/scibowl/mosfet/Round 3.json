@@ -1,0 +1,436 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In a nuclear reactor filled with water, electrons pass through the water at a speed greater than the phase velocity of light, emitting a blue glow. What is the term for this type of radiation?",
+    "answer": "CHERENKOV RADIATION"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A car starts from rest and accelerates uniformly for 3 seconds to a final velocity of 50 meters per second. How far did the car travel in these 3 seconds?",
+    "answer": "75 METERS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In general, which of the following is the ratio of the number of carbon to hydrogen to oxygen atoms in a monosaccharide?",
+    "choices": {
+      "W": "1 to 1 to 1",
+      "X": "1 to 2 to 2",
+      "Y": "2 to 1 to 2",
+      "Z": "1 to 2 to 1"
+    },
+    "answer": "Z) 1 TO 2 TO 1"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities of a reaction that an enzyme changes: 1) Rate of reaction; 2) Activation energy; 3) pH.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following rocks is mafic?",
+    "choices": {
+      "W": "Rhyolite",
+      "X": "Granite",
+      "Y": "Andesite",
+      "Z": "Basalt"
+    },
+    "answer": "Z) BASALT"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three planets by increasing average apparent brightness, as observed from Earth: 1) Jupiter; 2) Mars; 3) Venus.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three shapes that are considered parallelograms: 1) Square; 2) Rectangle; 3) Trapezoid.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the discriminant of the quadratic $x^{2} + 4x + 5$?",
+    "answer": "-4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT an example of a binary ionic compound?",
+    "choices": {
+      "W": "NaF",
+      "X": "$\\athrm{MgCl}_2$",
+      "Y": "$\\athrm{H}_2\\athrm{O}$",
+      "Z": "CsF"
+    },
+    "answer": "Y) $\\athrm{H}_2\\athrm{O}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "If the half-life of a sample of radioactive carbon-14 is 5,700 years, then how many grams of a 200 gram sample of carbon-14 will remain after 11,400 years?",
+    "answer": "50"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison are studying the effects of ion concentrations on the opening of GLUT-4 membrane protein. What 6 carbon sugar does GLUT-4 transport upon activation by insulin?",
+    "answer": "GLUCOSE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UIUC are studying sediments in river systems. What is the name of the term where sediments are pressed down under pressure, forming sedimentary rocks?",
+    "answer": "LITHIFICATION"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In thermodynamics, what law improves upon the ideal gas law by using the parameters a and b to take into account intermolecular forces and the particle size of the gas molecules themselves?",
+    "answer": "VAN DER WAALS EQUATION"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 4-kilogram ball traveling at 2 meters per second collides head-on with a 7-kilogram ball, initially at rest. After the collision, the 4-kilogram ball is stationary. What is the final speed of the 7-kilogram ball?",
+    "answer": "$\\rac{8}{7}$ METERS PER SECOND"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules is NOT classified as a lipid?",
+    "choices": {
+      "W": "Triglyceride",
+      "X": "Cholesterol",
+      "Y": "Fatty acid",
+      "Z": "Cellulose"
+    },
+    "answer": "Z) CELLULOSE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Guard cells regulate the opening and closing of what microscopic pores in a plant leaf, which function in the exchange of gases such as carbon dioxide and oxygen?",
+    "answer": "STOMATA"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three minerals in terms of increasing hardness according to the Mohs hardness scale: 1) Quartz; 2) Corundum; 3) Fluorite.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four precipitation types that usually reach the ground as a solid: 1) Freezing Rain; 2) Hail; 3) Sleet; 4) Snow",
+    "answer": "2, 3, AND, 4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions passes through the origin?",
+    "choices": {
+      "W": "$x^{2} - 3$",
+      "X": "$\\os (x)$",
+      "Y": "$- x^{5}$",
+      "Z": "e to the power of x"
+    },
+    "answer": "Y) $- x^{5}$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the positive integer divisors of 14?",
+    "answer": "24"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the oxidation state of the oxygen atom in a water molecule?",
+    "answer": "-2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which element has the greatest first ionization energy?",
+    "answer": "HELIUM"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the Hagelin-Weaver lab at UF are using catalysts and organic molecules to oxidize water into oxygen. What is the term for a catalyst that is in a different state of matter as its substrate?",
+    "answer": "HETEROGENEOUS CATALYST"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the Physics Education Research group at UIUC are developing a radio-frequency voting system. Which of the following wavelengths are considered radio waves?",
+    "choices": {
+      "W": "1 to 10 nanometers",
+      "X": "1 to 10 micrometers",
+      "Y": "1 to 10 millimeters",
+      "Z": "1 to 10 meters"
+    },
+    "answer": "Z) 1 TO 10 METERS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a unit of energy?",
+    "choices": {
+      "W": "Calorie",
+      "X": "Watt",
+      "Y": "Kilogram",
+      "Z": "Kelvin"
+    },
+    "answer": "W) CALORIE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 5-kilogram hollow sphere has a radius of 6 meters. What is the moment of inertia of the sphere about an axis that passes through its center?",
+    "answer": "120 KILOGRAM-METERS SQUARED"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Tracheids and vessel elements are the conducting cells of what vascular plant tissue?",
+    "answer": "XYLEM"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The Islets of Langerhans, which secrete insulin and glucagon, are found in what organ?",
+    "answer": "PANCREAS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following four spectral classes from lowest to highest surface temperature: 1) B; 2) G; 3) K; 4) O",
+    "answer": "3, 2, 1, 4"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What broad term is used to describe unlayered sediment deposits laid down by glacial activity?",
+    "answer": "TILL"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following quadrants that the graph of $y = 3x - 2$ passes through: 1) 1st; 2) 2nd; 3) 3rd; 4) 4th.",
+    "answer": "1, 3, 4"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the distance between the points (0, 3) and (6, -2)?",
+    "answer": "$\\qrt{61}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the value of the angular momentum quantum number, $l$, of an electron in the 3p orbital?",
+    "answer": "1"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ionic compounds has the greatest lattice energy?",
+    "choices": {
+      "W": "NaCl",
+      "X": "MgO",
+      "Y": "KBr",
+      "Z": "CsI"
+    },
+    "answer": "X) MgO"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison are trying to improve low light cameras by controlling the rate in which photons travel into the camera. In electron volts, what is the rest mass of a photon?",
+    "answer": "0"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Solitis lab at the University of Florida are studying the various divisions of the Lippia alba plant based on their number of chromosomes. What is the term given to the phenomenon often exhibited in plants, characterized by organisms having more than two sets of chromosomes?",
+    "answer": "POLYPLOIDY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quantities is a scalar?",
+    "choices": {
+      "W": "Work",
+      "X": "Displacement",
+      "Y": "Velocity",
+      "Z": "Acceleration"
+    },
+    "answer": "W) WORK"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name for the type of thermodynamic process where the system can be returned to its original state?",
+    "answer": "REVERSIBLE PROCESS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "CD4 and CD8 receptors commonly can be used to distinguish between the helper and cytotoxic types of what lymphocytes that mature in the thymus?",
+    "answer": "T CELLS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the general technique that determines the order of nucleic acids on a strand of DNA?",
+    "answer": "SEQUENCING"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Cinnabar is the most common source ore for which of the following elements?",
+    "choices": {
+      "W": "Lead",
+      "X": "Copper",
+      "Y": "Mercury",
+      "Z": "Tin"
+    },
+    "answer": "Y) MERCURY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name given to the blackbody radiation with a temperature of approximately 3 kelvin that originated from the Big Bang?",
+    "answer": "COSMIC MICROWAVE BACKGROUND"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many two-digit numbers have two distinct digits?",
+    "answer": "81"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following equations could be the equation of a circle with a center at the point $(2, -3)$?",
+    "choices": {
+      "W": "$x^{2} + 4x + y^{2} + 6y = 22$",
+      "X": "$x^{2} + 4x + y^{2} - 6y = 5$",
+      "Y": "$x^{2} - 4x + y^{2} + 6y = 17$",
+      "Z": "$x^{2} - 4x + y^{2} - 6y = 33$"
+    },
+    "answer": "Y) $x^{2} - 4x + y^{2} + 6y = 17$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that are considered non-polar: 1) $\\athrm{O}_2$; 2) $\\athrm{H}_2\\athrm{O}$; 3) $\\athrm{CCl}_4$",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the highest occupied atomic orbital in the ground-state electron configuration of lithium?",
+    "answer": "2s"
+  }
+]

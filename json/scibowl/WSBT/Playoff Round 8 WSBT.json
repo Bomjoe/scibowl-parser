@@ -1,0 +1,412 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are correct regarding a culture that has been gram-stained red. 1) Their cell membrane is composed primarily of peptidoglycan; 2) Their cell wall contains a barrier primarily of lipopolysaccharides; 3) A peptidoglycan layer exists between the cell wall and membrane.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What hormone, stored in the corpora cardiaca of insects, regulates insect development and metamorphosis?",
+    "answer": "PTTH (ACCEPT: Prothoracicotropic hormone)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What process involving water molecules was the first to increase the concentration of molecular oxygen in Earth's atmosphere?",
+    "answer": "PHOTODISSOCIATION"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is most accurate regarding hydrothermal vents?",
+    "choices": {
+      "W": "Black smokers are often farther from their heat source than white smokers",
+      "X": "Most hydrothermal vents remain active for hundreds of years",
+      "Y": "Black smokers are only found in the abyssal zone",
+      "Z": "Black smokers mostly emit sulfide minerals"
+    },
+    "answer": "Z) BLACK SMOKERS MOSTLY EMIT SULFIDE MINERALS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $f(x)$ be equal to the fractional part of $x$. For example, if $x = 3.2$, then $f(x) = 0.2$. Determine the value of $f(1.5 + 1.5)$.",
+    "answer": "1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the following: $\\amma(100) / \\amma(99)$",
+    "answer": "99"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A large particle undergoes decay and splits into two parts, with the larger one being 200 times more massive than the smaller one. If the smaller part is traveling at a speed of $6 \\times 10^{7} \\athrm{~m / s}$, what is the speed of the larger part?",
+    "answer": "$3 \\times 10^{5} \\athrm{~m / s}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A circuit is composed of a 12V battery, and two 6F capacitors connected in parallel, connected in series with a 4F capacitor. After a long time, what is the charge stored on one of the 6F capacitors?",
+    "answer": "18C"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following compounds is the central atom $\\athrm{d}^{2}\\athrm{sp}^{3}$ hybridized?",
+    "choices": {
+      "W": "$\\athrm{PCl}_5$ (Phosphorus Pentachloride)",
+      "X": "$\\athrm{XeBr}_4$ (Xenon Tetrabromide)",
+      "Y": "$\\athrm{I}_3^-$ (Tri-iodide minus)",
+      "Z": "$\\athrm{BF}_4^-$ (Boron Tetrafluoride)"
+    },
+    "answer": "X) $\\athrm{XeBr}_4$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What chemical technique allows for studying molecules with unpaired electrons, by flipping it between both of its spin orientations?",
+    "answer": "Electron Paramagnetic Resonance (ACCEPT: EPR)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Lawrence Berkeley Lab cosmologists observe that density inequalities in the early universe were made more uniform via the shift of photons from hot regions of space to cold ones. What process did they observe?",
+    "answer": "Diffusion damping, Silk damping"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Lawrence Berkeley Lab nuclear physicists observe that the mushroom cloud effect is caused by a fluid instability. What type of instability, which is characterized by a lighter fluid pushing a heavier fluid, do they observe?",
+    "answer": "Rayleigh-Taylor instability"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What thought process of protein folding states that it is impossible to determine the three dimensional conformation of a polypeptide from its sequence alone due to the infinite degrees of freedom?",
+    "answer": "Levinthal's Paradox"
+  },
+  {
+    "question_number": 7,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Using the image that represents the sarcomere of a striated muscle cell. Answer the following 3 questions. 1) Identify all of the locations that do not shorten during muscle contraction. 2) What are the names for the locations numbered 2, 5, and 7? 3) What elastic protein connects the thick filaments to the Z disc?",
+    "answer": "1) H ZONE, Z LINE/DISC, AND I BAND; 2) THICK AND THIN FILAMENTS (ACCEPT: MYOSIN AND ACTIN); 3) TITIN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What astronomer found a discrepancy between observed and theoretical galaxy rotation curves, providing the first evidence of dark matter?",
+    "answer": "VERA RUBIN (ACCEPT: VERA FLORENCE COOPER RUBIN)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following limits is best defined as the maximum radius of a star with a given mass?",
+    "choices": {
+      "W": "Chandrasekhar Limit",
+      "X": "Roche Limit",
+      "Y": "Eddington Limit",
+      "Z": "Hayashi Limit"
+    },
+    "answer": "Z) HAYASHI LIMIT"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the closed form of the result when Stirling's approximation is used to approximate $10!$.",
+    "answer": "$\\qrt{20\\i} \\eft(\\rac{10}{e}\\ight)^{10}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that 3 is a primitive root modulo 31, what is the remainder when $3 \\times 45$ is divided by 31?",
+    "answer": "30"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What principle states that at high quantum numbers, quantum mechanical systems must resemble classical behaviour?",
+    "answer": "Correspondence Principle"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A charged particle of spin $\\rac{1}{2}$ is placed in a magnetic field with strength 0.2 T. The resulting oscillation has angular frequency 1 rad/s. If the external magnetic field is doubled, what is the new angular frequency?",
+    "answer": "2 rad/s"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would a Wittig Reagent be used to produce?",
+    "choices": {
+      "W": "Aldehyde",
+      "X": "Ketone",
+      "Y": "Alkene",
+      "Z": "Ether"
+    },
+    "answer": "Y) Alkene"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following point groups does phosphorus trichloride belong to?",
+    "choices": {
+      "W": "C3v",
+      "X": "D3d",
+      "Y": "C3h",
+      "Z": "D3h"
+    },
+    "answer": "W) C3v"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Rank the following epochs of the early universe in chronological order. 1) Electroweak epoch 2) Planck epoch 3) Grand unification epoch",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What term describes waves with rapidly decaying amplitude in a certain direction, which occurs in the immediate vicinity of where total internal reflection occurs?",
+    "answer": "Evanescent wave"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 neurological disorders that could be caused by deficiencies in biogenic amines. 1) Parkinson's Disease 2) Depression 3) Schizophrenia 4) ADHD",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following supergroups do diatoms and other major phot belong to?",
+    "choices": {
+      "W": "Excavata",
+      "X": "SAR",
+      "Y": "Unikonta",
+      "Z": "Archaeplastida"
+    },
+    "answer": "X) SAR"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding retrograde metamorphism: 1) It is mostly endothermic; 2) It follows a decrease in temperature; 3) It can occur as a result of uplift.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Consider the image below: Answer the following questions regarding where the red arrow points: a) Which soil horizon is depicted? b) This soil horizon often harbors what type of layer that results from the accumulation of leached clay?",
+    "answer": "a) B (HORIZON); b) HARDPAN"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate $\\amma(100) / \\amma(99)$",
+    "answer": "99"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the following: The product across all primes $p$ of $1 / (1 - p^{-2})$.",
+    "answer": "$\\rac{\\i^2}{6}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The position of a particle is given by the function $x(t) = 2t^3 - 8t^2 + 8t + 18$. At what times $t$ is the particle not moving?",
+    "answer": "$t = 1.5$ and $t = 2$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Electrons are being released from a metal as a result of the photoelectric effect due to incoming light. Which of the following three changes would increase the maximum kinetic energy of the electrons released? 1) increasing the work function of the metal 2) increasing the wavelength of incoming light 3) increasing the intensity of incoming light",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What thought experiment based on an object controlling a door between two chambers of gas could theoretically violate the second law of thermodynamics?",
+    "answer": "MAXWELL'S DEMON"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the following molecules that undergo condensation with a phosphine for carbonate synthesis. 1) Carboxylic Acid; 2) Ether; 3) Nitriles.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What device, which uses twisting magnetic fields to trap high temperature plasma in a torus, is used in the pursuit of fusion power?",
+    "answer": "Stellarator"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What term refers to the regions of the heliosphere where the polarity of the Sun's magnetic field changes from north to south?",
+    "answer": "Heliospheric current sheet"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The presence of what element promotes diatom blooms and increases pumping of carbon dioxide to the ocean floor?",
+    "answer": "Iron"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding Indole-3-acetic acid or IAA?",
+    "choices": {
+      "W": "IAA is the most abundant natural auxin",
+      "X": "IAA can only enter parenchyma cells through passive transport",
+      "Y": "PIN transport proteins allow for the efflux of deprotonated IAA out of the cell",
+      "Z": "IAA is also synthesized by environmental bacteria"
+    },
+    "answer": "X) IAA can only enter parenchyma cells through passive transport"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three regions of the Sun by increasing distance from the core: 1) Tachocline; 2) Supergranules; 3) Radiative Zone.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What class of astronomical objects possess characteristics of asteroids and comets, and have orbits between or crossing Jovian planets?",
+    "answer": "Centaurs"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For a specific set $S$, we know that the expected value of a random element $x$ is 10 and the expected value of $x^2$ is 144. Find the variance of this set.",
+    "answer": "44"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the exact solution to the equation $x e^x = 5$ in terms of the Lambert W function.",
+    "answer": "$W(5)$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the analog of the displacement from the equilibrium position of a simple harmonic oscillator in an RLC circuit?",
+    "answer": "Stored Charge"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which of the following are true about a process that has a positive entropy change but is reversible? 1) The process must be adiabatic 2) The process is not possible 3) The process must have a positive heat flow",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three compounds in order of decreasing ring strain. 1. Cyclobutane, 2. Cyclohexane, 3. Cyclopropane",
+    "answer": "3, 1, 2 (ACCEPT: Cyclopropane, Cyclobutane, Cyclohexane)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 ligands by their increasing influence on the trans effect. 1) Hydroxide Anion 2) Ammonia 3) Phosphines 4) Hydride",
+    "answer": "1, 2, 3, 4"
+  }
+]

@@ -1,0 +1,360 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When follicle stimulating hormone binds to Sertoli cells, they release which peptide that inhibits FSH release?",
+    "answer": "INHIBIN"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of angiosperms:1) The four megaspores produced from the megasporangium result in the formation of four different surviving female gametophytes;2) The micropyle is the hole where the integuments do not protect the megasporangium;3) Fertilization and pollination may occur months apart.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The lunar highlands are relatively light colored. Identify all of the following three statments which are true concerning the lunar highlands:1) They are primarily made of basalt;2) They are less dense than lunar maria;3) Highlands are younger than maria.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Wrinkle ridges are sinuous ridges found in the lunar maria with analogous formation to lobate scarps of Mercury. Which of the following best explains the formation of wrinkle ridges?",
+    "choices": {
+      "W": "The moon contracted when cooling, forming these ridges",
+      "X": "The basalt contracted when cooling, forming these ridges",
+      "Y": "Tidal forces from the Earth caused stress, forming these ridges",
+      "Z": "Tidal forces from the Sun caused stress, forming these ridges"
+    },
+    "answer": "X) THE BASALT CONTRACTED WHEN COOLING, FORMING THESE RIDGES"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab have been studying the ancient ceramic chips that are often found studded in carbonaceous chondrite meteorites, which are hypothesized to form in the early universe. The isotopic signature of the ceramics indicate that they were formed in the heat of flaring young stars with a nebulous cocoon around it. What general type of young protostellar object has variable brightness due to it being hidden in a stellar cocoon?",
+    "answer": "T-TAURI STARS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at FermiLab built the Holometer to measure small fluctuations of position on the Planck scale. The Holometer uses laser interferometry to detect what hypothetical bosons by measuring twists in space and time on the Planck scale?",
+    "answer": "GRAVITONS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three molecules that can undergo hydrogen bonding with hydrogen fluoride:1) Methyl fluoride;2) Water;3) Fluorine.",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three functional groups in increasing electrophilicity:1) Ketone;2) Carboxylic acid;3) Ester.",
+    "answer": "2,3,1"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A fully connected planar graph has45 edges. How many vertices does this graph have?",
+    "answer": "10"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A triangular piece of paper has side lengths5,6, and7. Lines are drawn between the midpoints of the sides, and the triangle and cut along these lines. What is the sum of the perimeters of the four resulting triangles?",
+    "answer": "27"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Anka is located at one end within a cylinder that is rotating counterclockwise around its long axis, at the other end is a spherical hole. She throws a ball straight at the hoop but it misses. In an inertial reference frame the ball would've been a direct hit. Which of the following best describes what happens to the ball?",
+    "choices": {
+      "W": "It misses the hole to the left",
+      "X": "It misses the hole to the right",
+      "Y": "It misses the hole to the bottom",
+      "Z": "It misses the hole to the top"
+    },
+    "answer": "X) IT MISSES THE HOLE TO THE RIGHT"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Barkhausen effect is a series of minute fluctuations within what property, believed to be caused by fields of electron spins interacting in magnetic domains in combination with exchange coupling?",
+    "answer": "FERROMAGNETISM"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When a ligand binds to a protein, it induces a conformational change in the binding site of the protein to make it more complementary to the ligand. What is this conformational change called?",
+    "answer": "INDUCED FIT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all the following three statements that the landmark study conducted by Knut Schmidt-Nielsen revealed about locomotion:1) Flying costs more energy per meter travelled compared to running in similarly sized animals;2) Animals with smaller body mass typically expend more energy moving compared to larger animals;3) Flying animals tended to be the lightest compared to animals than ran or swam",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Tropical rainforests contain utilisols and oxisols, which contribute their metals to the formation of what clay rich soil rich in iron oxides?",
+    "answer": "LATERITE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three that, when increased, increases permeability:1) Angularity;2) Packing;3) Particle size",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven national lab have been probing the vibrational structures of hydrogen and atomic helium using photoelectron spectroscopy. Which of the following wavelengths of light in meters would the scientists most likely use in their studies?",
+    "choices": {
+      "W": "$10^{-15}$",
+      "X": "$10^{-12}$",
+      "Y": "$10^{-9}$",
+      "Z": "$10^{-6}$"
+    },
+    "answer": "Y) $10^{-9}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Labs have been using DNA origami to make nanoscale superconducting wires. To create DNA origami, linear, single stranded DNA must be circularized and then supercoiled via topoisomerases. Identify all of the following three statements that are true of DNA topoisomerases:1) They are found in both eukaryotes and prokaryotes;2) The DNA polymerase holocenzyme can continue to replicate if topoisomerases are knocked out;3) Topoisomerases bind to single stranded binding proteins to introduce tension in the lagging strand.",
+    "answer": "1 ONIY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true in chemical kinetics?",
+    "choices": {
+      "W": "The half-life of a zeroth-order reaction increases over time",
+      "X": "Termolecular reactions are very rare",
+      "Y": "For a reaction with negative activation energy, the rate decreases as temperature increases",
+      "Z": "The free energy of a transition state is decreased by a catalyst"
+    },
+    "answer": "W) THE HALF-LIFE OF A ZEROTH-ORDER REACTION INCREASES OVER TIME"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Gold adopts a face-centered cubic unit cell with an edge length of4 angstroms. In angstroms and simplest radical form, what is the atomic radius of gold?",
+    "answer": "$\\qrt{2}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Determine the distance between the focus of the parabola $y = x^{2}$ and the point on the parabola with $y$ -coordinate15.",
+    "answer": "61/4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An ant stands on the point (1,0) on the cartesian point. At each point in time, it moves either left or right by one unit with equal probability. What is the probability the ant reaches the origin before the point (3,0)?",
+    "answer": "2/3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "According to Wein's law, which of the following quantities is constant for a black body?",
+    "choices": {
+      "W": "$T^{\\ambda_{\\athrm{max}}}$ [Temperature to the power of lambda max]",
+      "X": "$T / \\ambda_{max}$ [Temperature divided by lambda max]",
+      "Y": "$\\ambda_{max} / T$ [Lambda max divided by Temperature ]",
+      "Z": "$T\\ambda_{max}$ [Temperature times lambda max]"
+    },
+    "answer": "Z) $T\\ambda_{max}$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When the electric field within a diode is strong enough, electrons can tunnel from the valence band to the conduction band and leave charge carriers that conduct current in the reverse direction. What is this breakdown known as?",
+    "answer": "ZENER BREAKDOWN"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During the binding of LDL to the LDL receptor, a series of intracellular events leads to receptor mediated endocytosis of the LDL. During this process, a triskelion of what protein is present on the vesicle that maintains structural integrity?",
+    "answer": "CLATHRIN"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 traits that distinguish Archaea from Bacteria:1) Usage of methionine as initiator amino acid;2) Presence of histones in DNA3) Presence of Circular DNA.",
+    "answer": "1AND2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following3 minerals in order of increasing hardness:1) Calcite;2) Aragonite;3) Fluorite.",
+    "answer": "1,2,3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three phenomena which are observed in each mineral:1) Triboluminescence - diamond;2) Birefringence - corundum;3) Asterism - star sapphire.",
+    "answer": "1AND3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "DOE Researchers at Pacific Northwest National Labs used a binarized neural network to model the effects of pruning on plants. They included a parameter that measures the polar transport of which hormone produced in the apical bud that is responsible for apical dominance?",
+    "answer": "AUXINS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Labs have used tandem mass spectrometry to detect post translational modifications to proteins in those with glioblastoma to try and determine a proximate cause for the cancer. These modifications included acetylation which was previously limited only to histones. In histones, what amino acid is acetylated by histone acetyltransferase?",
+    "answer": "LYSINE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry of the central xenon atom in $\\athrm{XeO_3F_2}$?",
+    "answer": "TRIGONALBIPYRAMIDAL"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three orbitals in increasing electronegativity in oxygen:1) s;2) sp;3) sp$^{3}$.",
+    "answer": "3,2,1"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The points A, B, C, and D lie on a line in that order. Of all line segments with these four points as endpoints, if AB is the shortest such segment, which of the following must be true?",
+    "choices": {
+      "W": "BD>AC",
+      "X": "BC>AB+CD",
+      "Y": "AC>CD",
+      "Z": "BC>CD"
+    },
+    "answer": "W)BD>AC"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the image of the point (1,2) if it is rotated $60^{\\irc}$ about the origin?",
+    "answer": "$(1 /2 - \\qrt{3},1 + \\qrt{3} /2)$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An object is placed at the focal point of a biconcave lens. Which of the following is true about the image that is produced?",
+    "choices": {
+      "W": "Diminished and upright",
+      "X": "Magnified and upright",
+      "Y": "Diminished and inverted",
+      "Z": "Magnified and inverted"
+    },
+    "answer": "W) DIMINISHED AND UPRIGHT"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following temperatures in degrees celsius for the cold and hot reservoirs of an ideal refrigerator, respectively, will result in the highest coefficient of performance?",
+    "choices": {
+      "W": "50,100",
+      "X": "50,150",
+      "Y": "100,150",
+      "Z": "100,200"
+    },
+    "answer": "Y)100,150"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "At resting membrane potential, which ion has the greatest permeability?",
+    "answer": "POTASSIUM (ACCEPT: K\\)"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains the lack of disulfide bonds within the cell environment?",
+    "choices": {
+      "W": "They contain a highly oxidizing environment which precludes formation of disulfide bonds",
+      "X": "They contain a highly reducing environment which precludes formation of disulfide bonds",
+      "Y": "The cysteine residues are not located near each other for proteins in the cell",
+      "Z": "The cysteines are all oxidized to cystin, thus not able to form disulfide bonds"
+    },
+    "answer": "X) THEY CONTAIN A HIGHLY REDUCING ENVIRONMENT WHICH PRECLUDES FORMATION OF DISULFIDE BONDS"
+  }
+]

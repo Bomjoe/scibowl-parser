@@ -1,0 +1,466 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Savannah River National Lab are doing experiments on fireflies, since they are very common in the area. Specifically, they want to understand how they synchronize their lights. What enzyme is known to be responsible for the production of light in their abdomens?",
+    "answer": "Luciferase"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are studying ways to improve the efficiency of industrial chemical production. When modeling multi-step reactions, the assumption is made that the concentration of intermediates stays constant as the reaction proceeds. What is the name of this assumption?",
+    "answer": "Steady-state assumption"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a G protein coupled receptor, what molecule activates the G protein to induce signal transduction?",
+    "answer": "GTP"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are incorrect about the process of DNA replication: I) DNA pol III synthesizes the leading strand II) DNA pol I synthesizes Okazaki fragments on the lagging strand III) Primase makes DNA primers on the leading and lagging strands",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 sets of side lengths that form an obtuse triangle: I) 2, 3, and 4 II) 5, 7, and 8 III) 6, 6, and 8",
+    "answer": "I only"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "All even numbers from 200 to 300, except for those ending in 0, are multiplied together. What is the units digit of the product?",
+    "answer": "6"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What conclusion can be drawn about the signs of the $\\elta \\athrm{H}$ and $\\elta \\athrm{S}$ of a reaction with an equilibrium constant which increases with increasing temperature?",
+    "choices": {
+      "W": "$\\elta \\athrm{H}$ is positive, $\\elta \\athrm{S}$ is positive",
+      "X": "$\\elta \\athrm{H}$ is negative, $\\elta \\athrm{S}$ is positive",
+      "Y": "$\\elta \\athrm{H}$ is positive, no conclusion can be drawn about $\\elta \\athrm{S}$",
+      "Z": "$\\elta \\athrm{H}$ is negative, no conclusion can be drawn about $\\elta \\athrm{S}$"
+    },
+    "answer": "Y) $\\elta \\athrm{H}$ is positive, no conclusion can be drawn about $\\elta \\athrm{S}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Serena, trying to charge her phone, creates a voltaic cell that reduces $\\athrm{AuCl_4^-}$ to solid Au and oxidizes solid Cd to $\\athrm{Cd^{2 + }}$. When balancing the net ionic equation for the whole cell, what is the ratio of the coefficients of Au and Cd?",
+    "answer": "$2:3$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A system consists of two metal blocks, one made of copper and one made of iron. The copper block is at 100 Kelvin and the iron one is at 200 Kelvin. The heat capacity of the copper block is 6 Joules per Kelvin and the heat capacity of iron is 2 Joules per Kelvin. The two blocks are allowed to touch and come to equilibrium. In Kelvin, what is the final temperature of the two blocks?",
+    "choices": {
+      "W": "100",
+      "X": "125",
+      "Y": "150",
+      "Z": "175"
+    },
+    "answer": "X) 125"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a uniform rod with a mass of 2 kilograms and a moment of inertia of 24 meters about the axis perpendicular passing through the middle of the rod. What is the rotational inertia about an axis perpendicular passing through a point 3 meters away from the center of the rod, in kilogram meters squared?",
+    "answer": "42"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 stages of the Ovarian cycle from first to last: 1) Luteal phase 2) Follicular phase 3) Ovulation",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What plant hormone activates plant defenses against insect herbivores and microbial pathogens?",
+    "answer": "Jasmonic Acid"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the most likely atmospheric condition in an area where the environmental lapse rate is 14 Kelvin per kilometer?",
+    "choices": {
+      "W": "Absolute Stability",
+      "X": "Conditional Stability",
+      "Y": "Absolute Instability",
+      "Z": "Conditional Instability"
+    },
+    "answer": "Y) Absolute Instability"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 rocks which are not composed primarily of minerals: I) Anthracite II) Pumice III) Anorthosite",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following acids or bases is correctly paired with its anhydride?",
+    "choices": {
+      "W": "Sulfurous acid; $\\athrm{SO}_3$",
+      "X": "Magnesium hydroxide; $\\athrm{MgO}$",
+      "Y": "Perchloric acid; HCl",
+      "Z": "Carbonate; $\\athrm{CO}_2$"
+    },
+    "answer": "X) Magnesium hydroxide; $\\athrm{MgO}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The compound $\\athrm{Hg_2Cl_2}$ decomposes into $\\athrm{HgCl_2}$ and $\\athrm{Hg}$ endothermically. Which of the following best describes the spontaneity of the decomposition reaction?",
+    "choices": {
+      "W": "Spontaneous at low temperature",
+      "X": "Spontaneous at high temperatures",
+      "Y": "Always spontaneous",
+      "Z": "Never spontaneous"
+    },
+    "answer": "X) Spontaneous at high temperatures"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Set $A$ contains 5 elements. How many proper subsets of $A$ are there?",
+    "answer": "31"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many factors of 1800 are divisible by 9?",
+    "answer": "12"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Berkeley National Laboratory are searching for exotic phenomena predicted by supersymmetric theories. Which of the following is the supersymmetric partner of the electron?",
+    "choices": {
+      "W": "Superelectron",
+      "X": "Electrino",
+      "Y": "Selectron",
+      "Z": "Electron boson"
+    },
+    "answer": "Y) Selectron"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Livermore National Lab have recently achieved ignition at the National Ignition Facility. This means that they have released more energy from fusion than they put into their deuterium sample to make it fuse into Helium-4. This implies that the external energy put into the fusion process is less than the difference in what quantity between the two nuclides?",
+    "answer": "Mass Defect"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 3 meter long conducting rod is placed perpendicular to a 5 millitesla magnetic field. The rod is given a velocity of 30 meters per second mutually perpendicular to the rod and the field. What is the magnitude of the voltage difference between the two ends of the rod in Volts?",
+    "answer": "0.45"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements best describes how an increase in temperature affects the viscosity of gases and liquids?",
+    "choices": {
+      "W": "Viscosity increases for a gas and decreases for a liquid",
+      "X": "Viscosity decreases for a gas and increases for a liquid",
+      "Y": "Viscosity increases for both gases and liquids",
+      "Z": "Viscosity decreases for both gases and liquids"
+    },
+    "answer": "W) Viscosity increases for a gas and decreases for a liquid"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three diseases that are caused by a gram-positive bacteria: I) Anthrax II) Botulism III) Tuberculosis",
+    "answer": "All"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Select all of the following three conditions in which the lac operon would be active: I) Low lactose, high glucose II) High lactose, low glucose III) Low lactose, low glucose",
+    "answer": "II only"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What apparent wobbling of the moon allows earth observers to view 59% of the moon's surface rather than the expected 50% from its 1-to-1 spin-orbit resonance?",
+    "answer": "Lunar Libration"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Rohit, attempting to avoid the sunlight, decides to go outside for the first time at night on Halloween. He notices that the moon is in its first quarter. Which of the following is a possible date of the next lunar eclipse?",
+    "choices": {
+      "W": "November 8th",
+      "X": "November 16th",
+      "Y": "November 23rd",
+      "Z": "November 30th"
+    },
+    "answer": "W) November 8th"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a unit of power?",
+    "choices": {
+      "W": "Newton meters per second",
+      "X": "Joules per second",
+      "Y": "Electron volts per second",
+      "Z": "Kilogram meters per second"
+    },
+    "answer": "Z) Kilogram meters per second"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "1 meter by 1 meter square plates are made from each of the following materials. Light rays of fixed intensity are shone directly onto each of the following plates. Which of the following materials will cause the plate to experience the largest force from the light?",
+    "choices": {
+      "W": "Very dark paint that acts like a black-body",
+      "X": "Polished metal with perfect specular reflection",
+      "Y": "Matte finish with perfect diffuse reflection",
+      "Z": "Uniform glass with an index of refraction equal to that of air"
+    },
+    "answer": "X) Polished metal with perfect specular reflection"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 elements from lowest to highest melting point: 1) Sodium 2) Carbon 3) Potassium 4) Iron",
+    "answer": "3, 1, 4, 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A reagent which is both a strong nucleophile and a strong base is reacted with a secondary alkyl halide at a high temperature. Which of the following reaction mechanisms dominates?",
+    "choices": {
+      "W": "Sn1",
+      "X": "Sn2",
+      "Y": "E1",
+      "Z": "E2"
+    },
+    "answer": "Z) E2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 bodies of water in order of increasing depth in a water column at 40 degrees south in the Atlantic Ocean: 1) North Atlantic Deep Water 2) Antarctic Bottom Water 3) Antarctic Intermediate Water",
+    "answer": "3,1,2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three sulfate minerals from most to least resistant to weathering: 1) Gypsum 2) Celestite 3) Barite",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Some matrix $A$ is right multiplied by a 2 by 3 matrix $B$ to produce a 4 by 3 matrix $C$. Which of the following options could be the dimensions of matrix $A$?",
+    "choices": {
+      "W": "3 by 2",
+      "X": "2 by 3",
+      "Y": "4 by 2",
+      "Z": "3 by 3"
+    },
+    "answer": "Y) 4 by 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Nikhil is playing the hit mobile game Genshin Impact. In Genshin, you can sacrifice 3 artifacts to create 1 new artifact, which has a 0.01% chance of being good. Given that Nikhil has an infinite supply of artifacts, then what distribution does the number of artifacts that he must sacrifice to get the first good artifact follow?",
+    "answer": "Geometric"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the average bond order of the S-O bonds in the compound $\\athrm{HSO_4^-}$?",
+    "answer": "1.5"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the bond angle in degrees of a $\\athrm{PH_3}$ molecule?",
+    "choices": {
+      "W": "93",
+      "X": "98",
+      "Y": "103",
+      "Z": "108"
+    },
+    "answer": "W) 93"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following traits is not characteristic of a K selected species?",
+    "choices": {
+      "W": "Found in high density environments",
+      "X": "High parental care",
+      "Y": "Relatively unstable populations",
+      "Z": "Include humans, bison, and elephants"
+    },
+    "answer": "Y) Relatively unstable populations"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What tissue in the human body, possessing an abundance of mitochondria, is responsible for non-shivering thermogenesis?",
+    "answer": "Brown fat"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The merger of the Milky Way and Andromeda galaxies is expected to form what type of galaxy?",
+    "answer": "Elliptical"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Comets are differentiated from asteroids through what feature which results from the sublimation of volatile ices at their surface?",
+    "answer": "Coma"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A sound is produced by a point source and a pressure wave detector is placed some distance away from it. The amplitude of the detector signal is proportional to what power of the distance?",
+    "choices": {
+      "W": "2",
+      "X": "1",
+      "Y": "-1",
+      "Z": "-2"
+    },
+    "answer": "Y) -1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 fundamental constants at STP from least to greatest: 1) Fine Structure constant 2) Weak Coupling constant 3) Strong Coupling constant",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Let $f(x) = x^{3} - 6x^{2} + 9x - 3$. What is the value of the product of the values of the three roots of $f$ divided by the sum of the values of the three roots?",
+    "choices": {
+      "W": "1/6",
+      "X": "1/3",
+      "Y": "1/2",
+      "Z": "1"
+    },
+    "answer": "Y) 1/2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An ant stands on a 2D plane at the point (0, 0) tied to a rope of length 2 that cannot be stretched further. If there is a very long barrier on the line $y = 1$, to the nearest integer, how much area is available to the ant?",
+    "answer": "10"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are studying ways to improve industrial chemical production. The production of benzene from non-oil based precursors involves the disproportionation of what other organic ring compound?",
+    "answer": "Toluene"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the National Ignition Facility at Lawrence Livermore National Lab are studying nuclear fusion, which produces energy by forming increasingly stable nuclides. An isotope of which element on the periodic table has the highest binding energy per nucleon of any nuclide?",
+    "answer": "Nickel"
+  }
+]

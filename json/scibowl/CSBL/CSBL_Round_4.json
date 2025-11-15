@@ -1,0 +1,473 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Mitochondrial and Y-Chromosomal DNA are important for understanding population genetics, as they do NOT undergo which of the following chromosomal processes?",
+    "choices": {
+      "W": "Translation",
+      "X": "Transposition",
+      "Y": "Vertical Gene Transfer",
+      "Z": "Recombination"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "An important protein complex encoded by mitochondrial DNA (mtDNA) is ATP synthase, which catalyzes the synthesis of Adenosine Triphosphate. The concentration gradient of what particle is responsible for the electrochemical potential difference driving this reaction?",
+    "answer": "PROTON (ACCEPT: $\\athrm{H^{+}}$ , HYDROGEN ION)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In a voltaic cell setup, zinc reacts with copper $2+$ ions to form copper solid and zinc $2+$ ions. Given that the standard reduction potential of zinc $2+$ ions to zinc is $-0.76 \\athrm{~V}$ , and the standard reduction potential of copper $2+$ ions to copper is $0.34 \\athrm{~V}$ , what is the standard reduction potential of this voltaic cell?",
+    "answer": "1.10 V"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What are the products of the reduction half-reaction of concentrated nitric acid?",
+    "answer": "NITROGEN DIOXIDE AND WATER (ACCEPT: NITROGEN DIOXIDE AND $\\athrm{H}_2\\athrm{O}$ , $\\athrm{NO}_2$ AND $\\athrm{H}_2\\athrm{O}$)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In the theorized heat death of the universe, black holes are predicted to vanish over time. What type of radiation causes black holes to gradually lose mass?",
+    "answer": "HAWKING RADIATION"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Hawking radiation requires pairs of photons outside of the event horizon of a black hole spontaneously generating. Which of the following BEST and MOST EXACTLY describes this class of particles?",
+    "choices": {
+      "W": "Radiative particles",
+      "X": "Virtual particles",
+      "Y": "Antiparticles",
+      "Z": "Void particles"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three fusion processes by INCREASING temperature for which they dominate: I. Triple-Alpha Process II. Proton-Proton Chain III. CNO Cycle",
+    "answer": "II, III, I"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What isotope is the product of the triple-alpha process?",
+    "answer": "CARBON-12"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of $\\tan^{2}(15^{\irc}) - \\ec^{2}(15^{\irc})$?",
+    "answer": "-1"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Right triangle ABC has right angle at B, and side lengths $\\athrm{AB} = 4$ and $\\athrm{AC} = 8$ . What is the exact value of $\\in (< \\athrm{A})$?",
+    "answer": "$\\qrt{3}/2$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Oak Ridge National Laboratory are studying the motion of protons and neutrons using derivatives of doubly-magic nuclei. Which of the following BEST describes doubly-magic nuclei?",
+    "choices": {
+      "W": "Nuclei with OPEN nuclear shells, resulting in DECREASED stability",
+      "X": "Nuclei with OPEN nuclear shells, resulting in INCREASED stability",
+      "Y": "Nuclei with CLOSED nuclear shells, resulting in DECREASED stability",
+      "Z": "Nuclei with CLOSED nuclear shells, resulting in INCREASED stability"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Laboratory are studying the stability of nuclei. Less stable nuclei generate smaller potential energy wells, such that particles are more likely to escape the nuclei. What process, which involves quantum particles seemingly 'teleporting' through barriers, explains this phenomenon?",
+    "answer": "QUANTUM TUNNELING (ACCEPT: TUNNELING)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Pre-mRNA splicing is a fundamental molecular process in eukaryotic cells for proper gene expression. Identify ALL of the following FOUR molecules that are used as energy sources to drive this process of splicing: I. ATP II. CTP III. UTP IV. GTP",
+    "answer": "I, IV"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Splicing is a dynamic process that involves the de novo construction of the spliceosome around pre-mRNA splicing substrates. Which of the following is closest to the size of a fully-constructed spliceosome?",
+    "choices": {
+      "W": "Chromosome",
+      "X": "Mitochondria",
+      "Y": "Ribosome",
+      "Z": "mRNA"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the correct unit for the rate constant for a second order reaction?",
+    "choices": {
+      "W": "$L^{2} \\dot mol^{-2} \\dot s^{-1}$",
+      "X": "$L \\dot mol^{-1} \\dot s^{-1}$",
+      "Y": "$s^{-1}$",
+      "Z": "$mol \\dot L^{-1} \\dot s^{-1}$"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "John is observing the reaction between nitrogen monoxide gas, and hydrogen gas to form nitrogen gas and water vapor. He observed that when he DOUBLED the concentration of nitrogen monoxide, the rate of the reaction QUADRUPLED. Furthermore, he observed that when he TRIPLED the concentration of hydrogen gas, the rate of the reaction TRIPLED. Based on this experimental data, what is the rate law for this reaction in terms of the reaction rate constant $k$ and the concentrations of the substances?",
+    "answer": "Rate = $k \\dot [NO]^{2} \\dot [H_2]$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Similar to carbon dating, cosmologists can approximate the age of the universe based on what remnant electromagnetic radiation?",
+    "answer": "COSMIC MICROWAVE BACKGROUND RADIATION (ACCEPT: COSMIC MICROWAVE BACKGROUND, CMBR, CMB)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Shortly following the Big Bang, temperatures were hot enough such that certain fundamental interactions were merely components of a single field. In particular, two of the forces, one which acts with a relatively short range and the other acts with a theoretically infinite range, are theorized to be the last interactions to split after the Big Bang. Which of the following BEST represents this unification?",
+    "choices": {
+      "W": "Strong Nuclear Force and Weak Nuclear Force",
+      "X": "Strong Nuclear Force and Electromagnetic Force",
+      "Y": "Weak Nuclear Force and Electromagnetic Force",
+      "Z": "Weak Nuclear Force and Gravitational Force"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Pegmatites are unusually large crystals that form from igneous processes. Which of the following BEST describes the environments MOST conducive to the formation of pegmatites and its corresponding effect on the migration of ions?",
+    "choices": {
+      "W": "Fluid-Rich, which ENHANCES the migration of ions",
+      "X": "Fluid-Poor, which ENHANCES the migration of ions",
+      "Y": "Fluid-Rich, which REDUCES the migration of ions",
+      "Z": "Fluid-Poor, which REDUCES the migration of ions"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In the practice of hydraulic fracking, shale deposits are shattered, opening cracks so fluids can flow into wells and then be brought to the Earth's surface. Given that the original surface area is 1000 square feet, after fracking, which of the following is the new estimated surface area created?",
+    "choices": {
+      "W": "10,000",
+      "X": "300,000",
+      "Y": "1,000,000",
+      "Z": "30,000,000"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Arin is playing a game where he flips a coin until it lands on tails. He wins the game if he flips the coin no more than three times. What is the probability that Arin wins the game?",
+    "answer": "7/8"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Kyle and Joy are playing a game. The game begins with Kyle flipping a fair coin until it lands on heads. In this particular round of the game, the coin lands on heads on Kyle's fourth flip. Joy then begins flipping the coin. What is the probability that Joy flips tails after more flips of the coin than Kyle?",
+    "answer": "1/16"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Fermilab participate in the NOvA collaboration to understand the physics of neutrinos. One of their many projects is to understand the differences between the three flavor states of neutrinos. Which of the following is NOT a neutrino flavor?",
+    "choices": {
+      "W": "Electron",
+      "X": "Muon",
+      "Y": "Kaon",
+      "Z": "Tau"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The NOvA collaboration is also studying the handedness of neutrinos. Some researchers theorize that right-handed neutrinos may be sterile neutrinos, which would be notable for interacting with only one of the four fundamental forces. What is this force?",
+    "answer": "GRAVITY (ACCEPT: GRAVITATIONAL FORCE)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "BRCA1 is a tumor suppressor gene found in humans. Which of the following types of cancers results from the mutation of this gene?",
+    "choices": {
+      "W": "Pancreatic Cancer",
+      "X": "Lung Cancer",
+      "Y": "Bladder Cancer",
+      "Z": "Breast Cancer"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Oncogenes are genes that have the potential to cause cancer. Tumor suppressors are proteins that function to rid cells of cancers. Which of the following combinations of RAS, an oncogene, and p53, a tumor suppressor, is MOST likely to cause the growth of tumor?",
+    "choices": {
+      "W": "RAS wild-type and p53 wild-type",
+      "X": "RAS wild-type and p53 mutant",
+      "Y": "RAS mutant and p53 wild-type",
+      "Z": "RAS mutant and p53 mutant"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ionic compounds is NOT water soluble?",
+    "choices": {
+      "W": "Magnesium Sulfate",
+      "X": "Lithium Permanganate",
+      "Y": "Silver Chloride",
+      "Z": "Sodium Acetate"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "John is back again! This time, he is observing the reaction between Calcium $2+$ ions and Fluoride ions, forming Calcium Fluoride. He also observes that this reaction is in equilibrium. The experimentally determined solubility-product constant was $3.9 \\times 10^{-11}$ , and his initial concentration of calcium was $3.9 \\times 10^{-3}$ , what was the initial concentration of fluoride ions?",
+    "answer": "$1 \\times 10^{-4}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a nut requires a torque of $14 \\athrm{N} \\dot \\athrm{m}$ to be tightened, and John can apply a force of $35 \\athrm{N}$ , what is the minimum length of a wrench necessary for John to tighten the nut?",
+    "answer": "0.4 m"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "John runs an experiment, measuring the net force, which is applied perpendicularly, on an object at a constant distance of 2 meters from the axis of rotation, as well as the resultant angular acceleration. He plots the angular acceleration on the x-axis versus net force on the y-axis and determines the slope of the graph to be 4.0. What is the moment of inertia of the object he is studying?",
+    "answer": "8 $\\athrm{kg} \\dot \\athrm{m}^{2}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three components of the soil by INCREASING depth from the Earth's surface: I. O Horizon II. B Horizon III. E Horizon",
+    "answer": "I, III, II"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A yazoo tributary forms when a tributary stream cannot enter a river because levees block the way, forcing the tributary to flow parallel to the river. The yazoo tributary is often found with what type of landform, which is formed when water cannot flow up the levee into the river?",
+    "answer": "BACK SWAMP"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the maximum value of the function $\\athrm{f(x) = -(x - 4)^2 + 5}$?",
+    "answer": "5"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The function $\\athrm{g(x) = \\ (x^5) + \\rac{1}{2} (x^4) - x^3 + 27}$ has how many local maxima and minima?",
+    "answer": "2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "As nickel-cadmium batteries have fallen out of use, they have been replaced by a new type of nickel-containing battery. What general type of nickel-containing battery replaced nickel-cadmium batteries?",
+    "answer": "NICKEL-METAL HYDRIDE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Berkeley Lab are studying the expansion of the universe. What law is considered the first observational analysis for the expansion of the universe?",
+    "answer": "HUBBLE'S LAW"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A recent field of research in molecular biology has involved studying the use of constructing proteins with non-canonical amino acids. Which of the following is NOT an expected property of a cell with non-canonical amino acids?",
+    "choices": {
+      "W": "Increased resistance to viruses",
+      "X": "Increased resistance to bacterial infections",
+      "Y": "Increased rate of protein synthesis",
+      "Z": "Increased protein diversity"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The cellular use of non-canonical amino acids is facilitated by the modification of which of the following?",
+    "choices": {
+      "W": "Ribosomes",
+      "X": "mRNA Sequences",
+      "Y": "Large Subunit rRNAs",
+      "Z": "Aminoacyl tRNAs"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Modern automobiles use a catalytic converter to do which of the following?",
+    "choices": {
+      "W": "Increase horsepower by burning more gasoline",
+      "X": "Absorb pollutants from the exhaust",
+      "Y": "Complete the combustion of unburned gases",
+      "Z": "Cool the exhaust gases"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is ALWAYS TRUE of a homogeneous catalyst?",
+    "choices": {
+      "W": "It is made up of only one compound",
+      "X": "It is made up of only one element",
+      "Y": "It is in the same phase as the reactant molecules",
+      "Z": "It is the same phase as the conditions the reaction is taking place in"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 2 $\\mega$ resistor is connected in series to a 3 $\\mega$ resistor. What is the total resistance of the system?",
+    "answer": "5 $\\mega$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The same system of two resistors, with a total resistance of 5 $\\mega$ , is connected in parallel to a resistor with a resistance of 10 $\\mega$ . Assuming the voltage through the circuit is 20 volts, what is the current?",
+    "answer": "6 A"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Joy is a budding astronomer, so she buys two brand new telescopes. She wants to determine the ratio of their light gathering power, but she only knows the diameter of both of the lenses. The ratio of the light gathering powers is proportional to the ratio of the diameters raised to which of the following powers?",
+    "choices": {
+      "W": "-2",
+      "X": "2",
+      "Y": "-1",
+      "Z": "1"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Joy hated both of the aforementioned telescopes, so she decided to go buy a third. She wants to calculate the magnifying power of this telescope, but she could only determine that the objective's focal length was $1 \\athrm{m}$ and the eyepiece's focal length was $0.5 \\athrm{cm}$ . What is the magnifying power of this telescope?",
+    "answer": "200x"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Anne and Ben are siblings. Two years ago, Anne was three times the age of Ben. If Ben celebrated his 2nd Birthday last year, how old is Anne now?",
+    "answer": "5"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Anne and Ben's dad, Carl, was 7 times as old as Anne last year. In how many years from now will Carl be twice as old as Ben?",
+    "answer": "23"
+  }
+]

@@ -1,0 +1,209 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "According to the continuity equation, the divergence of what quantity must always equal 0 for an incompressible fluid?",
+    "answer": "VELOCITY"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A refrigerator operating at theoretical maximum efficiency has a coefficient of performance of 6.5. The temperature outside of the refrigerator is $27^{\irc}$ celsius. In Celsius, what is the difference between the temperature outside and inside the refrigerator?",
+    "answer": "40"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the DNA repair mechanism that CRISPR gene editing requires to insert synthetic genes, which is contrasted with non-homologous end joining?",
+    "answer": "HOMOLOGY DIRECTED REPAIR (HDR)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What organ in spiders functions to remove nitrogenous wastes?",
+    "choices": {
+      "W": "Protonephridia",
+      "X": "Metanephridia",
+      "Y": "Malpighian tubules",
+      "Z": "Book lungs"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A triangle ABC has side lengths of $\\athrm{AB} = 6$, $\\athrm{BC} = 9$, and $\\athrm{CA} = 10$. The angle bisector of angle ABC intersects side CA at point X. What is the length of AX?",
+    "answer": "4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that 2027 is a prime, compute 2023 factorial mod 2027.",
+    "answer": "338"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What class of binary star systems have an inclination close to 90 degrees and can be detected by a periodic variation in the light curve of the system?",
+    "answer": "PHOTOMETRIC BINARY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A cyclostrophic flow is the balance between which two forces?",
+    "answer": "PRESSURE GRADIENT AND CENTRIFUGAL"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 spectroscopic techniques that are capable of detecting nitric oxide: 1) NMR; 2) EPR; 3) IR.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 dienes that would prefer the exo product when undergoing a Diels-Alder reaction: 1) 1,3-butadiene; 2) 1-methoxy-1,3-butadiene; 3) Furan.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Berkeley National Lab are studying various oxidation methods on alcohols for the development of certain drugs. Which of the following alcohol oxidative reagents would you most likely expect to have a signal in EPR spectroscopy?",
+    "choices": {
+      "W": "TPAP",
+      "X": "PCC",
+      "Y": "MDSO",
+      "Z": "TEMPO"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers make circuit stuff. Answer the following 2 questions regarding the image shown: I) What logic gate is shown circled and labeled A? II) What binary input for 1 and 2 would result in the output 0 from both Q and Q'.",
+    "answer": "I) NOR GATE; II) 1 AND 1"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A Van De Graaff generator has a very high value for which of the following quantities?",
+    "choices": {
+      "W": "Charge",
+      "X": "Current",
+      "Y": "Power",
+      "Z": "Voltage"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that are directly proportional to the magnetization of a paramagnetic material: 1) Relative permeability; 2) Magnetic Susceptibility; 3) Applied B field.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Rank the following four types of cells by increasing potency: 1) Mouse morula cell; 2) Mouse cheek cell; 3) Mouse cheek cell grown with Yamanaka factors over two months; 4) Mouse hematopoietic stem cell.",
+    "answer": "2, 4, 3, 1"
+  },
+  {
+    "question_number": 8,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Shown is an image of a Vish Fish. Answer the following two questions about the Vish Fish: 1) What is the term for the tissue that covers and protects the gills of the Vish Vish? 2) The lateral line system present on the Vish Fish is known to be either a predecessor or a homolog of what set of electroreceptors found in cartilaginous fish and basal bony fishes?",
+    "answer": "1) OPERCULUM; 2) AMPULLAE OF LORENZINI"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following series has a partial sum that is a Cauchy sequence?",
+    "choices": {
+      "W": "$a_n = 1$",
+      "X": "$a_n = n$",
+      "Y": "$a_n = (-1)^n$",
+      "Z": "$a_n = \\rac{1}{n^2}$"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alice rolls 3 dice in succession and notices that each roll is strictly greater than the last. What is the expected value of her first roll?",
+    "answer": "7/4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would have the smallest Rossby number?",
+    "choices": {
+      "W": "A tornado",
+      "X": "North equatorial current",
+      "Y": "Tropical easterly jet",
+      "Z": "North Atlantic drift"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The image shows the M-sigma relation, an empirical correlation between the value of sigma for a galactic bulge and the mass of the supermassive black hole at its center. Answer the following two questions about the image: I) What quantity is represented by sigma, which is usually calculated after repeatedly measuring Doppler shifts for different objects in the galactic bulge? II) What similar empirical law exists between the value of sigma and the mass of an elliptical galaxy?",
+    "answer": "1) VELOCITY DISPERSION; 2) FABER-JACKSON LAW"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the primary decay mode undergone by the oxygen-19 nuclide?",
+    "answer": "BETA-MINUS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the second order reaction E yields F, the initial rate of reaction is 10 molar per second and the initial concentration of E is 2 molar. What is the first half-life of the reaction in seconds?",
+    "answer": "0.2"
+  }
+]

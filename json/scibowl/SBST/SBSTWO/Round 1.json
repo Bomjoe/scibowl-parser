@@ -1,0 +1,424 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that are vectors:1) Speed;2) Displacement;3) Work.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following principles in fluid mechanics is a direct consequence of the conservation of energy?",
+    "choices": {
+      "W": "Pascal's principle",
+      "X": "Archimedes principle",
+      "Y": "Bernoulli's principle",
+      "Z": "Amonton's principle"
+    },
+    "answer": "Y) BERNOULLI'S PRINCIPLE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the alternation of generations model of plants, which generation possesses gametangia?",
+    "answer": "GAMETOPHYTE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three events that occur in prophase of a human cell:1) The nuclear membrane dissolves;2) The chromosomes condense;3) The chromatids separate.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three types of magma in terms of increasing volatility:1) Andesitic;2) Rhyolitic;3) Basaltic.",
+    "answer": "3,1,2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Tornadoes often tend to develop from what class of thunderstorms, which contain a region of rotation called a mesocyclone?",
+    "answer": "SUPERCELLS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities which can be measured in units of joules:1) Electron affinity;2) Ionization energy;3) Work function.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A reversible isothermal expansion is performed with one mole of an ideal gas at a temperature of300 kelvins. If the container expands from1 liter to3 liters during the process, how much work, to one significant figure and in joules, is done by the gas?",
+    "answer": "3000"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC national laboratory are using energetic beams in high-intensity short-pulse lasers. These beams typically consist of what positively charged particle found in the nucleus?",
+    "answer": "PROTON"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Los Alamos National Lab have created arrays of nanomagnets to observe mobile quasiparticles that act like magnetic monopoles. Actual magnetic monopoles are famously forbidden by what law?",
+    "answer": "GAUSS'S LAW FOR MAGNETISM"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers is prime?",
+    "choices": {
+      "W": "251",
+      "X": "253",
+      "Y": "255",
+      "Z": "261"
+    },
+    "answer": "W)251"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the integral from negative30 to30 of the absolute value of $x$ $dx$ ?",
+    "answer": "900"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following seismic waves travels the fastest through Earth?",
+    "choices": {
+      "W": "Rayleigh waves",
+      "X": "Love waves",
+      "Y": "P waves",
+      "Z": "S waves"
+    },
+    "answer": "Y) P WAVES"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In our Sun, the photons produced in the proton-proton chain all belong to what portion of the electromagnetic spectrum?",
+    "answer": "GAMMA RAY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the decimal number52 expressed in base7?",
+    "answer": "103"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the distance between two parallel lines with slope1 and with $y$-intercepts of11 and19?",
+    "answer": "4 \\times \\qrt{2}"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Glycogen is predominantly stored in which organ of the human body?",
+    "answer": "LIVER"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The mitochondrial membrane possesses specialized proteins bearing iron containing heme groups involved in electron transport. What general name is given to these proteins?",
+    "answer": "CYTOCHROMES"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three particles that are charged:1) Neutrino;2) Positron;3) Electron.",
+    "answer": "2 AND3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball is thrown upwards at a speed of10 meters per second. Assuming the acceleration due to gravity equals10 meters per second squared, in meters, what is the height of the ball at its highest point?",
+    "answer": "5"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three gaseous species in terms of increasing rate of effusion:1) Neon;2) Fluorine;3) Chlorine.",
+    "answer": "3,2,1"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the highest occupied molecular orbital of the homonuclear diatomic $\\athrm{N}_{2}^{-}$ ion?",
+    "choices": {
+      "W": "Sigma2p",
+      "X": "Pi2p",
+      "Y": "Sigma star2p",
+      "Z": "Pi star2p"
+    },
+    "answer": "Z) PI STAR2P"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two fair six-sided dice are rolled. What is the probability that the product of the rolls is less than3?",
+    "answer": "1/12"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of a triangle with sides of length7,8, and11?",
+    "answer": "2 \\times \\qrt{195}"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The path of an object that is traveling faster than the escape velocity of a planet will form what conic section while escaping its gravity?",
+    "answer": "HYPERBOLA"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following3 rocks in order of increasing silica content:1) Rhyolite;2) Gabbro;3) Peridotite.",
+    "answer": "3,2,1"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Argonne National Lab scientists are studying the potential benefits of alcohols as blendstocks for internal combustion engines. Identify all of the following three molecules that are secondary alcohols:1) Isobutanol;2) Isopropanol;3)2-butanol.",
+    "answer": "2 AND3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Fermilab have been studying the21 centimeter line, an emission line produced by the neutral form of what element?",
+    "answer": "HYDROGEN"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The equilibrium of a system of free charges can be best described as which of the following?",
+    "choices": {
+      "W": "Stable",
+      "X": "Unstable",
+      "Y": "Static",
+      "Z": "Rotational"
+    },
+    "answer": "X) UNSTABLE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Rank the following three particles in terms of increasing DeBroglie wavelength, assuming they are all traveling at the same speed:1) Alpha particle;2) Beta particle;3) Neutrino.",
+    "answer": "1,2,3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The suprachiasmatic nucleus is a group of neurons in the hypothalamus that is responsible for the regulation of what24-hour-long cycles?",
+    "answer": "CIRCADIAN RHYTHMS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The Meselson-Stahl experiment supported which of the following models of DNA replication?",
+    "choices": {
+      "W": "Conservative",
+      "X": "Integrative",
+      "Y": "Semiconservative",
+      "Z": "Dispersive"
+    },
+    "answer": "Y) SEMICONSERVATIVE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry of XeOF$_2$?",
+    "answer": "T-SHAPED"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How many chiral centers can be found in the product of the reaction of2-methylpropene with bromine?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "W)0"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three functions that are invertible over the real numbers:1) The quantity $x$ minus4 to the sixth power;2) Secant of $x$;3) The cube root of the quantity $x +1$.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many digits does2 to the120th power have?",
+    "answer": "37"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab have been studying a new way to oxidize methane into methanol in an attempt to reduce methane emissions. They used crystals of what microporous aluminosilicates as a catalyst?",
+    "answer": "ZEOLITES"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Livermore National Lab have been using machine learning models to simulate climate change in the next hundred years. Identify all of the following three gases that are considered greenhouse gases:1) Water;2) Nitrous oxide;3) Ozone.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three1-molar acid solutions in terms of increasing pH:1) Sulfuric;2) Hydrofluoric;3) Hydrocyanic.",
+    "answer": "1,2,3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three elements that can be added to silicon to create an n-type semiconductor:1) Boron;2) Germanium;3) Arsenic.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "C4 and CAM plants contain adaptations that allow for improved carbon fixation in arid environments by limiting the occurrence of what process?",
+    "answer": "PHOTORESPIRATION"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In a certain ecosystem, the buzzlao, a certain type of bee, makes up a small part of the population. However, when the buzzlao is removed from the population, the biodiversity of the population greatly decreases. Which of the following best describes the species buzzlao?",
+    "choices": {
+      "W": "Founding species",
+      "X": "Ring species",
+      "Y": "Apex predator",
+      "Z": "Keystone species"
+    },
+    "answer": "Z) KEYSTONE SPECIES"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An infinite conducting sheet has a uniform charge density. If a particle is moved from a distance1 meter to a distance2 meters from the sheet, what is the ratio of the initial force experienced by the particle to the final force?",
+    "answer": "1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A proton can decay into a neutral pion and which of the following particles?",
+    "choices": {
+      "W": "Positron",
+      "X": "Electron",
+      "Y": "Antineutrino",
+      "Z": "Top Quark"
+    },
+    "answer": "W) POSITRON"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Kowalski's and Halley's comets are both objects that originate from what region of the solar system?",
+    "answer": "KUIPER BELT"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of faults that form from compressional forces:1) Normal;2) Thrust;3) Strike-slip.",
+    "answer": "2 ONLY"
+  }
+]

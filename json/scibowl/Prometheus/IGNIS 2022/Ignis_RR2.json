@@ -1,0 +1,482 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "In epistemology, which of the following terms describes a belief held before it is changed by evidence?",
+    "choices": {
+      "W": "Prior",
+      "X": "Default",
+      "Y": "Base",
+      "Z": "Update"
+    },
+    "answer": "W) Prior"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Since the1960s, a change in the composition of gasoline has decreased the concentration of what toxic element in human blood?",
+    "answer": "Lead"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quadratics has no real roots?",
+    "choices": {
+      "W": "$2x^{2} -6x -8 =0$",
+      "X": "$-2x^{2} +6x +8 =0$",
+      "Y": "$-2x^{2} -6x -8 =0$",
+      "Z": "$2x^{2} +6x -8 =0$"
+    },
+    "answer": "Y) $-2x^{2} -6x -8 =0$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Three fair six-sided dice are rolled simultaneously. What is the probability that the product of the three rolls is greater than200?",
+    "answer": "1/216"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The rate of the reaction $\\athrm{A} + \\athrm{B} \\ongrightarrow \\athrm{C}$ is independent of the concentrations of the reactants. Which of the following describes the graph produced when the concentration of A is plotted against time?",
+    "choices": {
+      "W": "Upwards sloping line",
+      "X": "Downwards sloping line",
+      "Y": "Logarithmic curve",
+      "Z": "Exponential curve"
+    },
+    "answer": "X) Downwards sloping line"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When a reaction is disturbed from equilibrium, it is observed that the reaction shifts in a way to counteract this deviation from equilibrium. This is known as what principle?",
+    "answer": "Le Chatelier's principle"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Density variations that drive deep-ocean circulation are driven by differences in what two properties of the ocean?",
+    "answer": "Temperature and salinity"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following landforms is typically not formed by rivers?",
+    "choices": {
+      "W": "Deltas",
+      "X": "Horsts",
+      "Y": "Alluvial fans",
+      "Z": "Oxbow lakes"
+    },
+    "answer": "X) Horsts"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following phyla contains humans?",
+    "choices": {
+      "W": "Chordata",
+      "X": "Platyhelminthes",
+      "Y": "Echinodermata",
+      "Z": "Cnidaria"
+    },
+    "answer": "W) Chordata"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are differences between plant and animal cells:1) Plant cells prefer a hypotonic environment;2) Plant cells lack a cytoskeleton;3) Plant cells are connected via gap junctions.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following particles has the greatest mass?",
+    "choices": {
+      "W": "Alpha",
+      "X": "Beta",
+      "Y": "Gamma",
+      "Z": "Neutrino"
+    },
+    "answer": "W) Alpha"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A simple pendulum is placed between two walls separated by the pendulum's amplitude such that each second, the pendulum strikes a wall. To two significant figures and in meters, what is the length of the simple pendulum's string?",
+    "answer": "1.0"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Melting ice as a result of global warming creates a positive feedback loop via the reduction of what quantity, which describes the amount of light reflected by Earth's surface?",
+    "answer": "Albedo"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "High levels of iridium at the K-T boundary in strata suggest that the associated mass extinction event was caused by what phenomenon?",
+    "answer": "Asteroid impact"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A regular hexagon is constructed such that the distance between opposite points is $A$. In terms of $A$, what is the perimeter of the hexagon?",
+    "answer": "3A"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the period of the function $f(x) = \\in (2x) + \\os (3x)$?",
+    "choices": {
+      "W": "pi/3",
+      "X": "2pi/3",
+      "Y": "pi",
+      "Z": "2pi"
+    },
+    "answer": "Z)2pi"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the titration of a solution of barium hydroxide with hydrochloric acid, what is the molar ratio of barium hydroxide added to hydrochloric acid added at the equivalence point?",
+    "answer": "1/2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metals will react with hydrochloric acid?",
+    "choices": {
+      "W": "Copper",
+      "X": "Zinc",
+      "Y": "Gold",
+      "Z": "Platinum"
+    },
+    "answer": "X) Zinc"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Enceladus is the object with the highest albedo in the solar system due to the presence of what substance on its surface?",
+    "answer": "Water ice"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A type1a supernova is differentiated from other type1 supernovae based on absorption lines of what element?",
+    "answer": "Silicon"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Red stickleback fish uncontrollably attack any red object they see. This is an example of what kind of behavior?",
+    "answer": "Fixed action pattern"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three diseases that are viral in origin:1) Ebola;2) Cholera;3) Tuberculosis.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A mass of3 kilograms is spun in a horizontal circle of radius4 meters at a speed of6 meters per second. In newtons, what is the centripetal force on the object?",
+    "answer": "27"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A light ray traveling from air to water is positioned at the critical angle. At this angle, instead of partially reflecting and refracting, what phenomenon occurs when the light ray hits the air-water boundary?",
+    "answer": "Total internal reflection"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "The bald eagle, peregrine falcon, and osprey's population recovery since being placed on the endangered species list can be attributed to the1972 ban of what chemical compound by the EPA?",
+    "answer": "DDT"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes a nuclear fission reaction with a mass equal to its critical mass?",
+    "choices": {
+      "W": "Inactive",
+      "X": "Exponentially decaying",
+      "Y": "Self-sustaining",
+      "Z": "Exponentially growing"
+    },
+    "answer": "Y) Self-sustaining"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers is not divisible by9?",
+    "choices": {
+      "W": "666",
+      "X": "747",
+      "Y": "826",
+      "Z": "972"
+    },
+    "answer": "Y)826"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A fair coin is flipped five times and comes up heads4 times. What is the probability that both of the next2 flips are heads?",
+    "answer": "1/4"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the hybridization of nitrogen in a molecule of ammonia?",
+    "answer": "$sp^3$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules can exhibit hydrogen bonding?",
+    "choices": {
+      "W": "HF",
+      "X": "HCl",
+      "Y": "HBr",
+      "Z": "HI"
+    },
+    "answer": "W) HF"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of sediments is typically found on the continental shelf?",
+    "choices": {
+      "W": "Terrigenous sediments",
+      "X": "Abyssal clay",
+      "Y": "Calcareous ooze",
+      "Z": "Siliceous ooze"
+    },
+    "answer": "W) Terrigenous sediments"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The jet stream usually reaches the highest wind speeds during which season?",
+    "answer": "Winter"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organisms does not possess true tissue?",
+    "choices": {
+      "W": "Sea cucumber",
+      "X": "Sand dollar",
+      "Y": "Seaurchin",
+      "Z": "Sea sponge"
+    },
+    "answer": "Z) Sea sponge"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three interactions that benefit at least one of the species involved:1) Commensalism;2) Parasitism;3) Mutualism",
+    "answer": "All"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is an example of a nonconservative force?",
+    "choices": {
+      "W": "Spring force",
+      "X": "Electrostatic force",
+      "Y": "Gravity",
+      "Z": "Friction"
+    },
+    "answer": "Z) Friction"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A block begins to slide down a ramp once it reaches an angle of45 degrees. Which of the following is closest to the coefficient of static friction of this system?",
+    "choices": {
+      "W": "$\\rac{1}{2}$",
+      "X": "$\\rac{\\qrt{2}}{2}$",
+      "Y": "1",
+      "Z": "$\\qrt{2}$"
+    },
+    "answer": "Y)1"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Scientists recently developed a thin metal oxide that produces voltage proportional to the amount of electrons or positrons that hit the surface of the metal. Identify all of the following types of radioactive decay that this material could measure:1) Alpha;2) Beta;3) Gamma.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "What is the term for the range of orbits around a star in which a planetary surface can support liquid water and Earth-like life?",
+    "answer": "Habitable zone"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The Australian Open men's singles tournament consists of128 tennis players. Given the tournament uses a single-elimination format, how many rounds must a player win to be crowned the champion?",
+    "answer": "7"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What value of k causes the following system of two equations to have no solutions: $x + ky =1; kx + y =1$",
+    "answer": "-1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The anilinuim ion is the protonated form of aniline, an aromatic amine. If the pKa of the anilinuim ion is4.6, what is the pKb of aniline?",
+    "answer": "9.4"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the bond order of the nitrogen-nitrogen bond in $\\athrm{N}_2\\athrm{H}_2$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What limit is the maximum stable mass for a white dwarf before it collapses in a supernova?",
+    "answer": "Chandrasekhar limit"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Objects with orbital eccentricities greater than1 follow what type of orbit?",
+    "answer": "Hyperbolic"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term describing symbiotic organisms composed of fungi and algae?",
+    "answer": "Lichen"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Derek is trying to perform in vitro prokaryotic DNA replication and mixes several enzymes with nucleotides and his DNA template. When he is done, he notices that many regions of his DNA still contain RNA in them. Which of the following was likely missing in his experiment?",
+    "choices": {
+      "W": "dNTPs",
+      "X": "DNA Polymerase I",
+      "Y": "Sliding Clamp",
+      "Z": "DNA Ligase"
+    },
+    "answer": "X) DNA Polymerase I"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three changes to the properties of air that would make sound travel faster:1) Increasing the percent concentration of oxygen compared to nitrogen;2) Decreasing the average temperature;3) Increasing the density of air.",
+    "answer": "None"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A cart of mass $m$ and speed5 meters per second undergoes an acceleration to end up with a final velocity of speed7 meters per second. In terms of $m$, how much work was done on the cart in joules?",
+    "answer": "$12m$"
+  }
+]

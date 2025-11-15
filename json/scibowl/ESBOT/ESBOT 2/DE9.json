@@ -1,0 +1,478 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Andy draws 4 balls with replacement from a bag with balls numbered from 1 to 99. What is the probability that the product of the four integers on the balls is divisible by 3?",
+    "answer": "$\\rac{65}{81}$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Sid wants to cut a whole circular pizza using 10 straight cuts. What is the maximum number of slices, not necessarily of the same size, that he can create?",
+    "choices": {
+      "W": "45",
+      "X": "56",
+      "Y": "72",
+      "Z": "89"
+    },
+    "answer": "X) 56"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following conditions is the Richter scale most accurate in measuring the intensity of an earthquake?",
+    "choices": {
+      "W": "Shallow Focus, Weak Earthquake",
+      "X": "Deep Focus, Weak Earthquake",
+      "Y": "Shallow Focus, Strong Earthquake",
+      "Z": "Deep Focus, Strong Earthquake"
+    },
+    "answer": "W) Shallow Focus, Weak Earthquake"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A planet with the same density as Earth has half the radius of Earth and a similar atmospheric composition. Near the surface to the Kelvin per kilometer what is the average dry adiabatic lapse rate on this body?",
+    "answer": "5"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What bilinear operation is commonly used to define the inherent uncertainty between two quantum conjugate variables?",
+    "answer": "Commutator"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 1 kilogram object is moving along the x axis with its position described by the function $x(t) = 3t^3 - 4t + 5$. Let K be the kinetic energy of the object. What is the value of dK/dx when $t = 4$?",
+    "answer": "72"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not one of the proteins found in the eukaryotic histone?",
+    "choices": {
+      "W": "H1B",
+      "X": "H2B",
+      "Y": "H3",
+      "Z": "H4"
+    },
+    "answer": "W) H1B"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules is the strongest regulator of Phosphofructokinase 1?",
+    "choices": {
+      "W": "ATP",
+      "X": "ADP",
+      "Y": "Fructose 2,6 Bisphosphate",
+      "Z": "Citrate"
+    },
+    "answer": "Y) Fructose 2,6 Bisphosphate"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Colin is carrying out a first-order reaction and monitoring the reaction’s progress using spectrophotometry. Which of the following best describes how the transmittance of the solution changes as a function of time?",
+    "choices": {
+      "W": "Linearly",
+      "X": "Exponentially",
+      "Y": "Logistically",
+      "Z": "Logarithmically"
+    },
+    "answer": "Y) Logistically"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In the Auger effect, a core electron is ejected from an atom and a valence electron transitions to fill its place. The energy released from this transition can eject another electron, called an Auger electron. Which of the following conditions is least likely to result in an Auger electron being produced after the recombination?",
+    "choices": {
+      "W": "$n = 3$ electron ejected from Calcium",
+      "X": "$n = 2$ electron ejected from Bromine",
+      "Y": "$n = 1$ electron ejected from Sulfur",
+      "Z": "$n = 3$ electron ejected from Strontium"
+    },
+    "answer": "W) $n = 3$ electron ejected from Calcium"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Given that a number has 9 factors and is less than 1000, what is the greatest possible value of this number?",
+    "choices": {
+      "W": "625",
+      "X": "676",
+      "Y": "784",
+      "Z": "841"
+    },
+    "answer": "X) 676"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ways are there to order the letters of the word ENLOE such that the 2 Es are not adjacent?",
+    "answer": "36"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Laboratory are studying the regulation of apoptosis in a developing embryo, specifically, they are investigating the APAF1 protein. This protein combines with cytochrome c to form what complex that activated caspase 9?",
+    "answer": "Apoptosome"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab are studying ways to increase the efficiency of long-range power transmission. Identify all of the following 3 factors that increase the reactance of long-range power transmission lines: I) Parasitic inductance II) Parasitic capacitance III) Skin effect",
+    "answer": "I only"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A car of mass m begins at rest at t = 0 and starts accelerating with some constant acceleration a. The car also experiences a force from air resistance equal to $\\athrm{bv}^2$, where b is some constant. Which of the following expresses the power exerted by the car as a function of a, t, m, and b?",
+    "choices": {
+      "W": "$\\athrm{ma}^2 \\athrm{t} + \\athrm{ba}^3 \\athrm{t}^3$",
+      "X": "$\\athrm{mat} + \\athrm{ba}^2 \\athrm{t}^3$",
+      "Y": "$\\athrm{ma}^2 \\athrm{t}^2 + \\athrm{ba}^2 \\athrm{t}^2$",
+      "Z": "$\\athrm{mat}^2 + \\athrm{ba}^3 \\athrm{t}^2$"
+    },
+    "answer": "W) $\\athrm{ma}^2 \\athrm{t} + \\athrm{ba}^3 \\athrm{t}^3$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 circuit configurations that would act as a high pass filter on the input voltage: I) RL series circuit with output measured across the resistor II) RC series circuit with output measured across the capacitor III) RL series circuit with output measured across the inductor",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The vibrational temperature of $\\athrm{Br}_{2}$ gas is 463 Kelvin. What is the ratio between the number of degrees of freedom of $\\athrm{Br}_{2}$ gas at 600 Kelvin to the number of degrees of freedom at 100 Kelvin?",
+    "answer": "$\\rac{6}{5}$ (ACCEPT: 1.2)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When analyzing crystals, their structure is usually described using the type of lattice that their atoms form. Crystals that form a diamond structure can be described as having two FCC lattices superimposed on one another, with one lattice shifted along the space diagonal of the other by what fractional part?",
+    "choices": {
+      "W": "1/8",
+      "X": "1/4",
+      "Y": "1/3",
+      "Z": "1/2"
+    },
+    "answer": "X) 1/4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Fermilab are studying sensors used to detect small changes in magnetic fields. Many highly precise sensors rely on what effect, where a small potential barrier placed between two superconductors causes a continuous quantized current to flow?",
+    "answer": "Josephson effect"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Colin and Thanush are analyzing mechanical systems using the Legendre transform, which encodes the information contained in a function of q into a new function of q'. This requires that the original function be strictly convex. Which of the following functions is strictly convex?",
+    "choices": {
+      "W": "$\\athrm{x}^{3} - \\athrm{x}$",
+      "X": "$\\osh (\\athrm{x})$",
+      "Y": "$\\ec (\\athrm{x})$",
+      "Z": "$(e^{x} - 1)^2$"
+    },
+    "answer": "X) $\\osh (\\athrm{x})$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following values is closest to the pH of Martian soil?",
+    "choices": {
+      "W": "2",
+      "X": "5",
+      "Y": "8",
+      "Z": "11"
+    },
+    "answer": "Y) 8"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The martian moons Phobos and Deimos are theorized to be captured asteroids because their measured composition is similar to which of the following classes of asteroids?",
+    "answer": "W) C-Type"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 hormones that are considered to have nontropic effects: I) LH II) GH III) FSH IV) MSH",
+    "answer": "II and IV"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true about lycophytes and monilophytes: I) Lycophytes are more closely related to seed plants than to monilophytes II) Monilophytes have macrophylls while lycophytes have microphylls III) In lycophytes, roots can branch at any point along an existing root",
+    "answer": "II only"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "When two rows in a 5 by 5 matrix are swapped and the entire matrix is multiplied by 2, by what factor does the determinant change?",
+    "answer": "-32"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Triangle ABC has side lengths $\\athrm{AB} = 11$ and $\\athrm{BC} = 14$. Let S be the set of all positive integer values of AC. What fraction of the elements in this set will cause triangle ABC to be acute?",
+    "answer": "$\\rac{3}{7}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Colin places 2 alarms in his car, one at the front and one at the back. He sets both to go off at exactly the same time and then accelerates to a speed of 0.6c. If his car is 5 meters long, in terms of c, what is the time separation as seen by an external observer between the two alarms going off?",
+    "answer": "$\\rac{3}{c}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An ideal gas has an initial pressure of 21 Pascals and an initial volume of 3 liters. The volume of the gas is increased isothermally to 8 liters. To one significant figure, how much work is done by the gas during this process?",
+    "answer": "60 Joules"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 immunoglobulins that have non-monomeric forms: I) IgA II) IgD III) IgM",
+    "answer": "I and III"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following steps in the Krebs cycle does not yield an NADH?",
+    "choices": {
+      "W": "Isocitrate to Alpha Ketoglutarate",
+      "X": "Malate to Oxaloacetate",
+      "Y": "Succinate to Fumarate",
+      "Z": "Alpha Ketoglutarate to Succinyl CoA"
+    },
+    "answer": "Y) Succinate to Fumarate"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the bond order of a bridging B-H bond in diborane?",
+    "answer": "$\\rac{1}{2}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When analyzing crystals, their structure is usually described using the type of lattice that their atoms form. Crystals that form a diamond structure can be described as having two FCC lattices superimposed on one another, with one lattice shifted along the space diagonal of the other by what fractional part?",
+    "choices": {
+      "W": "1/8",
+      "X": "1/4",
+      "Y": "1/3",
+      "Z": "1/2"
+    },
+    "answer": "X) 1/4"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following environments in which kyanite would be likely to form from an alumina rich protolith. I) Subduction Zone II) Contact Aureole III) Hydrothermal Vent",
+    "answer": "I only"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Anhydrite in salt dome deposits reacts with hydrocarbons to form Hydrogen Sulfide and what common mineral?",
+    "answer": "Calcite"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following nuclei is not correctly paired with a possible nuclear spin value?",
+    "choices": {
+      "W": "He-4, 0",
+      "X": "B-11, 3/2",
+      "Y": "C-13, 1",
+      "Z": "N-14, 1"
+    },
+    "answer": "Y) C-13, 1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Colin connects a 5 Volt battery in series with a switch, a 2000 Ohm resistor, and a discharged 300 microfarad capacitor. To two significant figures in seconds, how long will it take after the switch is closed for the current to decrease by a factor of one half?",
+    "answer": "0.42"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Nikhil is trying to form an ether from an alcohol and an alkyl halide. To do this he deprotonates the alcohol with a hydride base. What type of ether synthesis is he performing?",
+    "answer": "Williamson"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 compounds in order of increasing melting point: 1) Ortho-nitrophenol 2) Para-nitrophenol 3) Meta-nitrophenol",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What gene in plants confers the ability to form mycorrhizal associations?",
+    "answer": "sym"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following structures found in the first few centimeters of the duodenum are responsible for the secretion of large amounts of alkaline mucus, especially when stimulated by secretin?",
+    "choices": {
+      "W": "Paneth cells",
+      "X": "Goblet cells",
+      "Y": "Brunner's glands",
+      "Z": "Crypts of Lieberkuehn"
+    },
+    "answer": "Y) Brunner's Glands"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sukrith has the life goal of memorizing all the square roots. If every year, the number of new square roots he memorizes is equal to twice his age, then at what age will he know 18 times as many square roots as his age?",
+    "answer": "17"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Using complex analysis, it can be shown that the radius of convergence of a function's Maclaurin series is the distance from the zero point to the first nonremovable discontinuity in the complex plane. Which of the following functions would have the smallest radius of convergence?",
+    "choices": {
+      "W": "$\\rac{e^{-z}}{z^2 + 40}$",
+      "X": "$\\rac{z}{z^2 + z + 1}$",
+      "Y": "$\\rac{1}{z + 8}$",
+      "Z": "$\\in(z^2)$"
+    },
+    "answer": "X) $\\rac{z}{z^2 + z + 1}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following stars has the lowest apparent magnitude?",
+    "choices": {
+      "W": "Alpha Cephei",
+      "X": "Delta Cephei",
+      "Y": "Alpha Microscopus",
+      "Z": "Delta Microscopus"
+    },
+    "answer": "W) Alpha Cephei"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 atomic weights that could NOT be formed by nucleosynthesis after the Big Bang: I) 6 amu II) 7 amu III) 8 amu",
+    "answer": "III only"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Livermore National Lab are studying the properties of plasmas in stellar bodies. The opacity of these plasmas determines the thermal structures of stellar interiors. Which of the following stars has a radiative core?",
+    "choices": {
+      "W": "Proxima Centauri",
+      "X": "Sirius",
+      "Y": "Rigel",
+      "Z": "Alpha Centauri"
+    },
+    "answer": "Z) Alpha Centauri"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists from Cambridge are studying the properties of glacial retreat. A certain glacial outcropping shows large drumlins sloped steeply towards the north-east and shallowly towards the southwest. In what direction did the glacier responsible for these drumlins flow?",
+    "answer": "Southwest"
+  }
+]

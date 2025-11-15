@@ -1,0 +1,499 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 36 V battery is connected in an R-L circuit to 1.5 ohm resistor and a solenoid with an inductance of $12\\athrm{H}$. After the switch has been in the \on\ position for a very long time, what is the total current running through the circuit?",
+    "answer": "24 A"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Winnie is gazing out his window when he suddenly sees a $5\\athrm{kg}$ jar of honey fly up and then fall back down the $3\\athrm{m}$ length in a total of 2 seconds. Assuming no air resistance, what is the maximum height the jar will go above the window?",
+    "answer": "0.2 m"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Genes that code for human MHC complexes are found on which chromosome?",
+    "answer": "Chromosome 6"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organelles is located next to the neurite that will differentiate into an axon during neuron development?",
+    "choices": {
+      "W": "Mitochondria",
+      "X": "Nucleus",
+      "Y": "Golgi Body",
+      "Z": "ER"
+    },
+    "answer": "Y) Golgi Body"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following rocks takes up the most volume of Earth's Crust?",
+    "choices": {
+      "W": "Diorite",
+      "X": "Sandstone",
+      "Y": "Granite",
+      "Z": "Basalt"
+    },
+    "answer": "Z) Basalt"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following phyllosilicates is commonly known as magnesium mica?",
+    "choices": {
+      "W": "Annite",
+      "X": "Phlogopite",
+      "Y": "Siderophyllite",
+      "Z": "Muscovite"
+    },
+    "answer": "X) Phlogopite"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following can make up the mobile phase in gas chromatography?",
+    "choices": {
+      "W": "Chlorine",
+      "X": "Nitrogen",
+      "Y": "Hydrogen",
+      "Z": "Oxygen"
+    },
+    "answer": "X) Nitrogen"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Lugol's solution is a mixture of what two elements?",
+    "answer": "Potassium and Iodine"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What is the term for the energy required to melt a substance?",
+    "answer": "heat of fusion"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "How much energy, in kJ to two significant figures, is required to turn 50 grams of water at $0^{\\irc}$ C into steam at $100^{\\irc}$ C? The heat of vaporization for water is 40.65 kJ/mol.",
+    "answer": "130 kJ"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the shortest distance between the point (4, 6) and the line $15y = 8x$?",
+    "answer": "58/17"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the slope of the line tangent to the graph with equation $x y^{2} + 6x^{2} = 21$ at the point (1,3).",
+    "answer": "- 6/37"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following chordates display chevron segmentation?",
+    "choices": {
+      "W": "Tunicate",
+      "X": "Lancelet",
+      "Y": "Myxini",
+      "Z": "Lamprey"
+    },
+    "answer": "X) Lancelet"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Name three bacteria-associated PAMPs:",
+    "answer": "N-formylmethionine, peptidoglycan, lipopolysaccharide"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ocean currents brings warm water down through the Mozambique Channel near Madagascar?",
+    "choices": {
+      "W": "Benguela",
+      "X": "Agulhas",
+      "Y": "Mozambique",
+      "Z": "South Indian"
+    },
+    "answer": "X) Agulhas"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "List the following galaxies in order of increasing size within the Local Group: I) Milky Way II) Andromeda III) Triangulum IV) Large Magellanic Cloud",
+    "answer": "IV, III, I, II"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the oldest documented form of resistance heating alloy, consisting of $80\\$ nickel and $20\\$ chromium by mass?",
+    "answer": "Nichrome"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In fractional distillation, what kind of gas condenser is known as the bulb condenser, consisting of a long glass tube marked by a series of bulbs on said tube?",
+    "choices": {
+      "W": "Allihn condenser",
+      "X": "Davies condenser",
+      "Y": "Liegib condenser",
+      "Z": "West Condenser"
+    },
+    "answer": "W) Allihn condenser"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following conditions would best describe a possible graph of $\\athrm{f(x)}$ in [a,b] (the open interval from a to b) if it is concave down in that range?",
+    "choices": {
+      "W": "$\\athrm{f}^{\\rime \\rime}(\\athrm{x}) > 0$ $\\athrm{f}^{\\rime}(\\athrm{x})$ is increasing",
+      "X": "$\\athrm{f}^{\\rime \\rime}(\\athrm{x})< 0$ $\\athrm{f}^{\\rime}(\\athrm{x})$ is increasing",
+      "Y": "$\\athrm{f}^{\\rime \\rime}(\\athrm{x}) > 0$ $\\athrm{f}^{\\rime}(\\athrm{x})$ is decreasing",
+      "Z": "$\\athrm{f}^{\\rime \\rime}(\\athrm{x})< 0$ $\\athrm{f}^{\\rime}(\\athrm{x})$ is decreasing"
+    },
+    "answer": "Z) $\\athrm{f}^{\\rime \\rime}(\\athrm{x})< 0$ $\\athrm{f}^{\\rime}(\\athrm{x})$ is decreasing"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "5 points are positioned on a circle. Find the number of regions the circle is cut into if lines are drawn connecting every distinct pair of points and no three lines intersect at the same point.",
+    "answer": "16"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "A system does 54 J of work on its surroundings and then absorbs 17 J as heat. What is its change in internal energy?",
+    "answer": "-37 J"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What is the internal energy of two moles of an ideal gas at 200 K at constant pressure?",
+    "answer": "8314 J"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If an electric current flows through a conductor in a magnetic field, what phenomenon is responsible for the creation of a potential difference perpendicular to both the current and magnetic field?",
+    "answer": "Hall Effect"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If an object is in freefall and its area is doubled, by how much does the drag force on the object increase by?",
+    "answer": "2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which two organs in the human body contain glucose-6-phosphatase?",
+    "answer": "Liver and kidney"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following does not occur in humans with Type II diabetes:",
+    "choices": {
+      "W": "Amylin induced beta cell apoptosis",
+      "X": "Postprandial hyperglycemia",
+      "Y": "Overactivation of GLUT 4",
+      "Z": "Impaired insulin secretion"
+    },
+    "answer": "Y) Overactivation of GLUT 4"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In terms of any electromagnetic constants, what is the energy stored in the magnetic field of a solenoid with an average 5 turns per unit length, carrying a current of 4 A?",
+    "answer": "$200\\u_{0}\\athrm{J}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What law states that the intensity of a beam of plane polarized light is directly proportional to the square of the cosine of the angle through which the polarizer is rotated?",
+    "answer": "Law of Malus"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the anion in pyrite?",
+    "choices": {
+      "W": "$\\athrm{S}^{2 - }$",
+      "X": "S-",
+      "Y": "$\\athrm{S}_{2}^{2 - }$",
+      "Z": "$\\athrm{S}_{2}^{3 - }$"
+    },
+    "answer": "Y) $\\athrm{S}_{2}^{2 - }$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following elements are present in feldspar? I. Al II. C III. Fe",
+    "answer": "I only"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following are in the anode compartment under standard conditions?",
+    "choices": {
+      "W": "oxidizing agent, oxidized species",
+      "X": "oxidizing agent, reduced species",
+      "Y": "reducing agent, oxidized species",
+      "Z": "reducing agent, reduced species"
+    },
+    "answer": "Y) reducing agent, oxidized species"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A redox reaction can be separated into the sum of three different reactions: two oxidations and a reduction. If the standard reduction potentials are $+0.50$ V and $-0.30$ V and $+0.90$ V, what is the $\\athrm{e}^{\\athrm{o}}$ for the entire reaction?",
+    "answer": "+1.60 V"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What is the change in Gibbs free energy for the vaporization of water at $100^{\\irc}\\athrm{C}$?",
+    "answer": "0"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "State whether the following processes increases or decreases the free energy of the system: I. hydrogen reacting with oxygen II. battery charging III. burning natural gas IV. boiling water at room temperature",
+    "answer": "I. decrease II. increase III. decrease IV. increase"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the 63rd triangular number?",
+    "answer": "2016"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the remainder when $\\athrm{P(x) = x^4 + 3x^2 - 17x + 23}$ is divided by $\\athrm{x + 2}$.",
+    "answer": "85"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Classify each of the following chordates as oviparous, viviparous, or ovoviviparous: I) Ratites II) Monotremes III) Marsupials IV) Eutherians",
+    "answer": "I) Oviparous II) Oviparous III) Viviparous IV) Viviparous"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "At which section of the axon terminal do potassium channels aggregate in order to ensure that only the strongest waves of depolarization are passed on?",
+    "choices": {
+      "W": "Juxtaparanode",
+      "X": "Paranode",
+      "Y": "Heminode",
+      "Z": "Nodes of Ranvier"
+    },
+    "answer": "Y) Heminode"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_chance",
+    "body": "A $10\\athrm{kg}$ ball is loosely attached to a massless spring on a table with a spring constant of $6\\athrm{N / m}$ which is currently compressed a distance of $4\\athrm{m}$ from equilibrium and then released. If the coefficient of kinetic friction of the table is 0.5, what is the resulting acceleration of the mass?",
+    "choices": {
+      "W": "$0.8\\athrm{m / s^2}$",
+      "X": "$1.2\\athrm{m / s^2}$",
+      "Y": "$1.6\\athrm{m / s^2}$",
+      "Z": "$2.4\\athrm{m / s^2}$"
+    },
+    "answer": "X) $1.2\\athrm{m / s^2}$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If Xavier is $30\\athrm{kg}$ and Yavier is $60\\athrm{kg}$ and are standing together in an inertial frame, what is the reduced mass of the system?",
+    "answer": "20 kg"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Tm is the chemical symbol for which element?",
+    "choices": {
+      "W": "Thorium",
+      "X": "Thulium",
+      "Y": "Thallium",
+      "Z": "Tellurium"
+    },
+    "answer": "X) Thulium"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the electron configuration of $\\athrm{Au}^{3 + }$",
+    "answer": "[Xe] 4f14 5d8"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of air mass is abbreviated as cP?",
+    "answer": "continental polar"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The dew point of an air mass at sea level is $6^{\\irc}\\athrm{C}$. Given that the temperature is $25^{\\irc}\\athrm{C}$, at what elevation will the water begin to condense?",
+    "answer": "2.5 km"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a method for the production of syngas?",
+    "choices": {
+      "W": "water-gas shift",
+      "X": "steam reforming",
+      "Y": "dry reforming",
+      "Z": "partial oxidation"
+    },
+    "answer": "W) water-gas shift"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Production of aluminum by recycling requires what percent of the energy required to produce the same amount from bauxite?",
+    "choices": {
+      "W": "1%",
+      "X": "5%",
+      "Y": "50%",
+      "Z": "90%"
+    },
+    "answer": "X) 5%"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Zarr needs to file 12 sheets of paper. First, he separates them into two piles, one containing the first 6 papers counting from the top and another containing the last 6. Then, he draws one sheet from the first pile into another pile and puts a sheet from the second pile on top of the third pile and continues this process until all of the paper is in the third pile. How many pieces of paper are below the paper that was the 9th from the top in the original pile?",
+    "answer": "4"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ways are there to color a circular spinner with five equal sections with the colors red, blue, and purple, assuming reflections are distinct and only one color may occupy a single sector at a time?",
+    "answer": "51"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the formal charge of Cl in $\\athrm{ClO_4^-}$ if there are no double bonds?",
+    "answer": "+3"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following in order of increasing bond order: I. $\\athrm{O_2}^+$ II. CO²- III. N₂",
+    "answer": "II, I, III"
+  }
+]

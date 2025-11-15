@@ -1,0 +1,403 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "When he was discovered in 1891, he was erroneously considered the \missing link\ between man and ape in the popular press. What popular name do modern day anthropologists call him?",
+    "answer": "JAVAMAN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Only five of the elements on the Periodic Table are liquids at 30 degrees Celsius and standard pressure. Name any four.",
+    "answer": "GALLIUM, BROMINE, CESIUM, MERCURY, FRANCIUM"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the ideal efficiency of a reversible heat engine cyclically operating between a source temperature of 600 degrees Kelvin and a sink temperature of 150 degrees Kelvin?",
+    "answer": "75 PERCENT"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the material that is oxidized to produce bioluminescence in some creatures?",
+    "answer": "LUCIFERASE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "What 4-letter command is used in BASIC to resume execution of a program at the point it was interrupted by a STOP or END statement?",
+    "answer": "CONT"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Iceland spar is a pure, transparent form of what mineral?",
+    "answer": "CALCITE (ACCEPT CALCIUM CARBONATE)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Name the first scientist to apply for a patent on a telescope.",
+    "answer": "LIPPERSHEY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Who developed the wave equation that is used to determine the PROBABILITY of finding the electron in any given place?",
+    "answer": "SCHRODINGER"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Joseph Priestley called it dephlogisticated air. Who named it oxygen?",
+    "answer": "LAVOISIER"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Before he became a consulting engineer to General Electric, in 1897 he co-authored \The Theory and Calculation of Alternating Current Phenomena.\ What was his name?",
+    "answer": "STEINMETZ"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Plant movements that are growth responses towards or away from a stimuli are called",
+    "answer": "TROPISMS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In how many ways can 4 different books be given to 2 children so that each child gets exactly 2 books?",
+    "answer": "6 (WAYS)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Who was the 16th century cartographer who thought there ought to be a large land mass south of the equator to balance that in the north. He gave his name to one style of map projection.",
+    "answer": "MERCATOR"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the common name for potassium sodium tartrate?",
+    "answer": "ROCHELLE SALT"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What scientist first successfully explained Brownian motion?",
+    "answer": "EINSTEIN"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What is the name of the calendar introduced in 1582 to make a ten day correction?",
+    "answer": "GREGORIAN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "The Asteroid Belt is between the orbits of which two planets?",
+    "answer": "MARS AND JUPITER"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The Rh factor was named after what animal?",
+    "answer": "RHESUS MONKEY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a triangle, what is the name given to the intersection of the perpendicular bisectors of the sides?",
+    "answer": "CIRCUMCENTER"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which physicist, after whom a very important physical constant is named, formulated the quantum theory?",
+    "answer": "PLANCK"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What is the name of the island between Java and Sumatra that disappeared during a huge volcanic eruption in 1883?",
+    "answer": "KRAKATOA (PRON: KRAK-E-TO'-A) OR KRAKATAU OR KRAKATAO"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the maximum number of electrons that a metal usually has in its outer energy level?",
+    "answer": "3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "According to the quantum theory, the strong nuclear particles. What are these particles called?",
+    "answer": "GLUONS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of one of the most primitive land plants, consisting of algae and fungus growing in a mutually helpful association?",
+    "answer": "LICHEN"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Name the two constellations that make up the famous \Great Square of Pegasus.\",
+    "answer": "PEGASUS, ANDROMEDA"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the name given to the radius of a circle that can be inscribed in any regular polygon?",
+    "answer": "APOTHEM"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name the dryest continent.",
+    "answer": "ANTARCTICA"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Suppose the power of a prescription lens is 5 diopters. What is the focal length of the lens, in centimeters?",
+    "answer": "20 CENTIMETERS (ACCEPT 0.2 METERS)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Name three elements that were named after Greek or Roman gods.",
+    "answer": "MERCURY, URANIUM, NEPTUNIUM, PLUTONIUM"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What measure of length, mainly used for sea depths, was originally the breadth of the outstretched arms?",
+    "answer": "FATHOM"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Who discovered Nitrogen",
+    "answer": "RUTHERFORD"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "The temperature at which water vapor begins to condense in the atmosphere is called the",
+    "answer": "DEW POINT"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Suppose the power of a prescription lens is 5 diopters. What is the focal length of the lens, in centimeters?",
+    "answer": "20 (CENTIMETERS)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Whose name is associated with the formula for estimating the probability of extra-terrestrial intelligence?",
+    "answer": "DRAKE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Retinol is the common name for what vitamin?",
+    "answer": "VITAMIN A"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What common poisonous gas kills humans by strongly binding to hemoglobin in the bloodstream?",
+    "answer": "CARBON MONOXIDE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Outside of Alaska, what is the name of North America's longest continuous mountain range?",
+    "answer": "SIERRA NEVADA"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The boundary of a Mandelbrot set has a fractal dimension of",
+    "answer": "2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In 1932, the first ARTIFICIAL source of radiation was created in France by two famous scientists. Name the TWO scientists.",
+    "answer": "IRENE and FREDERIC (JOLIOT-) CURIE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name for a material that has the capacity to behave as either an acid or a base?",
+    "answer": "AMPHOTERIC (ACCEPT AMPHIPROTIC)"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of the square inscribed in a circle of unit radius?",
+    "answer": "2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What is the term for the boundary between our solar system and interstellar space?",
+    "answer": "HELIOPAUSE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the last name of the famous husband and wife team who discovered fossils in Africa that were estimated to be over 3.5 million years old?",
+    "answer": "LEAKEY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What is the term for time measured with respect to the stars rather than with respect to the sun?",
+    "answer": "SIDEREAL"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What plant nutrient is the most common cause of eutrophication?",
+    "answer": "PHOSPHORUS OR PHOSPHATES"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Seen from the earth, which two heavenly bodies other than the Moon exhibit phases?",
+    "answer": "MERCURY AND VENUS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The cells of a root's endodermis are thickened suberin, a waterproofing material. This waterproof band is called the",
+    "answer": "CASPARIAN STRIP"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What unit was originally defined as one ten-millionth of the distance from the equator to a pole of the earth?",
+    "answer": "A METER"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If it cost $3 to paint the plane surface of a hemisphere, what will it cost to paint the hemisphere's curved surface?",
+    "answer": "$6"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What chemical is commonly known as blue vitriol?",
+    "answer": "COPPER SULFATE"
+  }
+]

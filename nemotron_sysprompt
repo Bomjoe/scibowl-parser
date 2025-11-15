@@ -9,7 +9,7 @@ JSON schema for each object:
   "question_number": number,
   "question_type": "tossup" | "bonus" | "visual_bonus",
   "category": string,  // e.g. "earth_and_space", "physics", "math", "chemistry", etc.
-  "answer_type": "multiple_choice" | "short_answer",
+  "answer_type": "multiple_choice" | "short_answer" 
   "body": "string, Question body (Text starting after the Multiple Choice or Short Answer) with all pronunciation marks removed, formatted for LaTeX where math or chemical expressions use $...$ syntax",
   "choices": {
     "W": "string",
@@ -21,6 +21,7 @@ JSON schema for each object:
 }
 
 Formatting rules:
+- Some questions will be mislabeld - if a question appears to have choices W) X) Y) Z) the answer_type is multiple_choice, otherwise it is short_answer
 - Do not include the category or answer type (e.g., "Biology - Multiple Choice", "Physics - Short Answer", "Earth and Space - Multiple Choice") in body.
 - Return a *JSON array* of question objects (even if there is only one question).
 - Use valid JSON — all keys and strings must be double-quoted.

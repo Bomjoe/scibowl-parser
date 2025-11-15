@@ -1,0 +1,472 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "What measurement, with units of kilojoules per mole, is used to indicate the thermodynamic favorability of a reaction?",
+    "answer": "GIBBS (ACCEPT: GIBBS FREE ENERGY, G)"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "A five-liter gas held at constant pressure has a temperature of 27 degrees celsius. What would the temperature be, in Kelvin, if the gas underwent an expansion to 10 liters?",
+    "answer": "600"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers is not considered to be triangular?",
+    "choices": {
+      "W": "21",
+      "X": "28",
+      "Y": "35",
+      "Z": "45"
+    },
+    "answer": "Y) 35"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the coefficient of the $x^2 y^3$ term in the binomial expansion of $(2x + y)^5$?",
+    "answer": "40"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "The overall protein structure that results from the combination of many polypeptide subunits can be best described by which of the following levels of protein structure?",
+    "choices": {
+      "W": "Primary",
+      "X": "Secondary",
+      "Y": "Tertiary",
+      "Z": "Quaternary"
+    },
+    "answer": "Z) QUATERNARY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "If a black-furred sheep mates with a white-furred sheep, and produces gray-furred offspring, what type of dominance is exhibited?",
+    "answer": "INCOMPLETE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Travertine, crystalline limestone, and chalk are all derived from what rock-forming mineral?",
+    "answer": "CALCITE (ACCEPT: CaCO3)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of moraines forms along the sides of a valley after a glacier wastes away, leaving behind ridges of materials?",
+    "choices": {
+      "W": "Lateral moraine",
+      "X": "Medial moraine",
+      "Y": "End moraine",
+      "Z": "Ground moraine"
+    },
+    "answer": "W) LATERAL MORAINE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What type of number is defined as being equal to the sum of its integer divisors excluding itself?",
+    "answer": "PERFECT NUMBER"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many factors does the number 96 have?",
+    "answer": "12"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "Let the centripetal force of a body moving in uniform circular motion be equal to $F$. If the linear speed of this body is tripled while the radius of its orbit is halved, what will be the new centripetal force of this body, in terms of $F$?",
+    "answer": "18F"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "If an object has an angular speed of 8 radians per second and an angular momentum of 4 kilogram meters squared per second, what is the object's moment of inertia, in kilogram meters squared?",
+    "answer": "0.5"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are researching the adaptations that plants have made to be able to pollinate new, untouched lands. What type of ecological succession is demonstrated when lichens and mosses colonize land that has been left behind by a retreating glacier?",
+    "answer": "PRIMARY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Princeton Plasma Physics Lab are utilizing color confinement to examine the building blocks of protons and neutrons. Identify all of the following 3 subatomic particles that are responsible for making up protons and neutrons: 1) Quarks; 2) Gluons; 3) Leptons.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "In the DNA replication of E. coli, which of the following enzymes is responsible for untwisting the double helix at the replication forks?",
+    "choices": {
+      "W": "Helicase",
+      "X": "Topoisomerase",
+      "Y": "Kinase",
+      "Z": "Primase"
+    },
+    "answer": "W) HELICASE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "What name is given to animals whose embryonic development begins with the anus forming from the first opening?",
+    "answer": "DEUTEROSTOMES"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Neap tides occur during which of the following pairs of moon phases?",
+    "choices": {
+      "W": "Full moon and new moon",
+      "X": "New moon and first quarter",
+      "Y": "First quarter and third quarter",
+      "Z": "Third quarter and full moon"
+    },
+    "answer": "Y) FIRST QUARTER AND THIRD QUARTER"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of supernovae has strong helium lines and no hydrogen emission lines?",
+    "choices": {
+      "W": "Type 1a",
+      "X": "Type 1b",
+      "Y": "Type 1c",
+      "Z": "Type 2"
+    },
+    "answer": "X) TYPE 1B"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many zeroes are at the end of 23 factorial?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "Z) 4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of a circle which can be modeled by the graph $x^2 + y^2 + 4x - 8y = 16$?",
+    "answer": "$36\\i$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "A pipe, which is open on both ends, with a length of 5 meters has a fundamental frequency of 45 hertz. What is the frequency, in hertz, of the first overtone of this pipe?",
+    "answer": "90"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "Rank the following four colors in order of increasing frequency: 1. Green 2. Violet 3. Red 4. Orange",
+    "answer": "3; 4; 1; 2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Ames National Lab are studying the heating of substances. They observe that when water is heated, its heating curve has two horizontal lines. Which of the following physical processes is represented by the leftmost horizontal line?",
+    "choices": {
+      "W": "Sublimation",
+      "X": "Melting",
+      "Y": "Vaporization",
+      "Z": "Deposition"
+    },
+    "answer": "X) MELTING"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Ames National Lab are studying the mechanisms by which electrons are produced in beta-minus decay. What possible spins can an electron have?",
+    "answer": "-1/2 AND +1/2 (ACCEPT: -1/2 AND 1/2)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "What steroid, which is wedged between phospholipid molecules in the plasma membrane, is responsible for reducing permeability of the membrane and controlling membrane fluidity?",
+    "answer": "CHOLESTEROL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Down syndrome, which is caused by a trisomy of chromosome 21, is an example of which of the following types of ploidy?",
+    "choices": {
+      "W": "Aneuploidy",
+      "X": "Polyploidy",
+      "Y": "Dihaploploidy",
+      "Z": "Euploidy"
+    },
+    "answer": "W) ANEUPLOIDY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "During which of the following eras did dinosaurs dominate?",
+    "choices": {
+      "W": "Early paleozoic",
+      "X": "Late paleozoic",
+      "Y": "Mesozoic",
+      "Z": "Cenozoic"
+    },
+    "answer": "Y) MESOZOIC"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Some fungi have special hyphae structures that allow them to mutually exchange nutrients with their plant host. What is the name of this type of relationship between fungi and plant roots?",
+    "answer": "MYCORRHIZAE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that $f(x) = 3x + 5$ and that $f$ and $g$ are inverses, what is the value of $g(83)$?",
+    "answer": "26"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The graph of the equation $y = x^2 - 4x + 3$ is shifted 3 units to the right and 2 units up. What is the vertex of this new graph?",
+    "answer": "$(5, 1)$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following most accurately describes projectile motion, neglecting air resistance?",
+    "choices": {
+      "W": "Constant horizontal velocity; constant vertical velocity",
+      "X": "Constant horizontal velocity; linear vertical velocity",
+      "Y": "Constant horizontal velocity; quadratic vertical velocity",
+      "Z": "Linear horizontal velocity; linear vertical velocity"
+    },
+    "answer": "X) CONSTANT HORIZONTAL VELOCITY; LINEAR VERTICAL VELOCITY"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "A ball is thrown off a 50-meter building with an initial vertical velocity of 25 meters per second and an initial horizontal velocity of 45 meters per second. Taking $g$ to be 10 meters per second squared and assuming air resistance to be negligible, what is the vertical velocity, in meters per second, 3 seconds after the ball is thrown?",
+    "answer": "-5"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Berkeley National Lab are studying strigolactones, which are a group of chemicals produced in the roots of plants that serve a numerous number of functions. Strigolactones are highly soluble in polar solvents. What type of vascular tissue would strigolactones most likely be found in?",
+    "choices": {
+      "W": "Phloem",
+      "X": "Xylem",
+      "Y": "Cork",
+      "Z": "Pith"
+    },
+    "answer": "X) XYLEM"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Ames National Lab are studying decay modes to improve methods of radiometric dating. Name all of the following 3 particles which are created by beta-minus decay: 1. Neutron 2. Positron 3. Electron antineutrino",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "What is the name of the gland that is responsible for producing human tears?",
+    "answer": "LACHRYMAL"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant hormones is responsible for directing shoot growth toward sunlight?",
+    "choices": {
+      "W": "Gibberellin",
+      "X": "Cytokinin",
+      "Y": "Ethylene",
+      "Z": "Auxin"
+    },
+    "answer": "Z) AUXIN"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the 26,000-year cycle on Earth that refers to a continuous change in the axis of rotation?",
+    "answer": "PRECESSION"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding binary star systems is true?",
+    "choices": {
+      "W": "More than half of all stars are members of binary star systems",
+      "X": "Kepler's third law of orbital motion can be used to determine the mass of extrasolar binaries",
+      "Y": "Binary stars that orbit so close to each other that they are not visible individually are called visual binary systems",
+      "Z": "A light curve graph is often used by astronomers to predict the age of an eclipsing binary system"
+    },
+    "answer": "W) MORE THAN HALF OF ALL STARS ARE MEMBERS OF BINARY STAR SYSTEMS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many real roots does the function $f(x) = 2x^2 + 6x - 4$ have?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "Y) 2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the term given to the line that extends from the center of a regular polygon to the midpoint of one of its sides?",
+    "answer": "APOTHEM"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "Two planets A and B are orbiting around the same star. When measured about the star, planet A has twice the angular momentum of planet B. If the moment of inertia of planet A is double that of planet B, what is the ratio, $\\mega_A / \\mega_B$, of their angular speeds?",
+    "answer": "1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "A student titrates 0.4 molar hydrochloric acid against 25 mL of an unknown concentration of barium hydroxide. What type of reaction is occurring in the flask?",
+    "answer": "NEUTRALIZATION (ACCEPT: ACID-BASE REACTION)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the name of the galactic cluster that contains the milky way?",
+    "choices": {
+      "W": "Local group",
+      "X": "Andromeda group",
+      "Y": "Milky way cluster",
+      "Z": "Local cluster"
+    },
+    "answer": "W) LOCAL GROUP"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements regarding temperature and density variations in the ocean that are true: 1) The thermocline gradually gets stronger near high latitudes; 2) Salinity of ocean water is directly proportional to seawater density; 3) The pycnocline serves as a barrier to the mixing between low and high density seawater.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "What is the name for malignant tumors that generally develop on the surface of tissue-lining organs?",
+    "answer": "CARCINOMA"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following divisions of plants is not classified under the informal group of bryophytes?",
+    "choices": {
+      "W": "Liverworts",
+      "X": "Mosses",
+      "Y": "Hornworts",
+      "Z": "Ferns"
+    },
+    "answer": "Z) FERNS"
+  }
+]

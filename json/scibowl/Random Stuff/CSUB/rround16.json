@@ -1,0 +1,559 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In beta plus decay, which of the following occurs:",
+    "choices": {
+      "W": "a neutron changes to an electron",
+      "X": "a neutron changes to a proton",
+      "Y": "a proton changes to an electron",
+      "Z": "a proton changes to a neutron"
+    },
+    "answer": "$\\athrm{Z)}$ A PROTON CHANGES TO A NEUTRON"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An ultrasound machine operates with a frequency of 1.25 megahertz. The sound produced travels in the medium at 1250 meters per second. What is the wavelength of the waves in meters?",
+    "answer": "$0.001\\athrm{m}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the common name for the following compound: toluene with a chlorine molecule on the third carbon",
+    "choices": {
+      "W": "chlorotoluene",
+      "X": "o-chlorotoluene",
+      "Y": "m-chlorotoluene",
+      "Z": "p-chlorotoluene"
+    },
+    "answer": "$\\athrm{Y)}$ m-CHLOROTOLUENE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "For the reaction $\\athrm{HX}\\ightarrow \\athrm{H}^{+} + \\athrm{X}^{-}$ , at equilibrium the concentration of $\\athrm{HX}$ is 0.1 molar and the concentration of $\\athrm{X}^{-}$ is 0.005 molar. Calculate the acid dissociation constant of the reaction:",
+    "answer": "$2.5\\times 10^{-4}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What are the proper names, respectively, for the cervical vertebrae numbered as C-1 and C-2?",
+    "answer": "ATLAS AND AXIS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In a cell that is dedicated to producing large amounts of steroids, which of the following organelles will predominate:",
+    "choices": {
+      "W": "golgi",
+      "X": "smooth endoplasmic reticulum",
+      "Y": "nucleolus",
+      "Z": "peroxisomes"
+    },
+    "answer": "$\\athrm{X)}$ SMOOTH ENDOPLASMIC RETICULUM"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Spiral galaxies are to stars of all ages as Elliptical galaxies are to:",
+    "choices": {
+      "W": "mostly young stars",
+      "X": "mostly old stars",
+      "Y": "mostly planetary nebula",
+      "Z": "mostly middle aged stars"
+    },
+    "answer": "$\\athrm{X)}$ MOSTLY OLD STARS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Ancient Greek estimates of the sizes of the sun and moon and their relative distances from Earth were based on geometrical relationships in what two celestial events?",
+    "answer": "SOLAR AND LUNAR ECLIPSES"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Assuming a parametric distribution, which of the following statistical tests would be most appropriate to find whether 3 or more samples come from the same population:",
+    "choices": {
+      "W": "single tailed t-test",
+      "X": "two tailed t-test",
+      "Y": "z-test",
+      "Z": "ANOVA"
+    },
+    "answer": "$\\athrm{Z)}$ ANOVA"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is equivalent to the expression $\\eft(\\rac{\\in\\theta}{\\tan\\theta}\\ight) + \\os\\theta$ ?",
+    "choices": {
+      "W": "2 cos $\\theta$",
+      "X": "2 sec $\\theta$",
+      "Y": "2 cosec $\\theta$",
+      "Z": "cos $\\theta$"
+    },
+    "answer": "$\\athrm{W)}$ 2 COS $\\theta$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What term is used for a saddle-shaped mountain pass formed by the enlargement of two opposing cirques until their head walls meet and are broken down:",
+    "choices": {
+      "W": "cliff",
+      "X": "col",
+      "Y": "scree",
+      "Z": "moraine"
+    },
+    "answer": "$\\athrm{X)}$ COL"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following four geological periods from the youngest to the oldest: Silurian, Tertiary, Quaternary, Ordovician",
+    "answer": "QUATERNARY, TERTIARY, SILURIAN, ORDOVICIAN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Which of the following 5 metals has the lowest electrical conductivity: magnesium; zinc; iron; lead; tin;",
+    "answer": "LEAD"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "A recent discovery of a hominid skeleton in Portugal has fueled a major argument involving Neanderthal and Homo Sapiens because it might challenge the long held belief that:",
+    "choices": {
+      "W": "weather caused the Neanderthal's demise",
+      "X": "Homo Sapiens outcompeted Neanderthals",
+      "Y": "disease caused the Neanderthal extinction",
+      "Z": "Homo Sapiens and Neanderthals did not interbreed"
+    },
+    "answer": "$\\athrm{Z)}$ HOMO SAPIENS AND NEANDERTHALS DID NOT INTERBREED"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "In Java, what is the purpose of an interface class:",
+    "choices": {
+      "W": "it provides an abstract base class",
+      "X": "it provides a collection of method definitions and constant values",
+      "Y": "it provides a way to collect data from a user",
+      "Z": "it provides a way to inherit method implementations"
+    },
+    "answer": "$\\athrm{X)}$ IT PROVIDES A COLLECTION OF METHOD DEFINITIONS AND CONSTANT VALUES"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Popular in the early 1990's, LYNX was a terminal program used primarily for:",
+    "choices": {
+      "W": "text editing",
+      "X": "E-mail",
+      "Y": "Telnet",
+      "Z": "Web surfing"
+    },
+    "answer": "$\\athrm{Z)}$ WEB SURFING"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In alpha emission, the decaying atom decreases by what number of neutrons?",
+    "answer": "2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which one of the following has the greatest kinetic energy for an object moving in a straight line path:",
+    "choices": {
+      "W": "an object with a mass of $10\\athrm{kg}$ and a velocity of $50\\athrm{m / sec}$",
+      "X": "an object with a mass of $20\\athrm{kg}$ and a velocity of $40\\athrm{m / sec}$",
+      "Y": "an object with a mass of $30\\athrm{kg}$ and a velocity of $30\\athrm{m / sec}$",
+      "Z": "an object with a mass of $40\\athrm{kg}$ and a velocity of $20\\athrm{m / sec}$"
+    },
+    "answer": "$\\athrm{X)}$ AN OBJECT WITH A MASS OF $20\\athrm{kg}$ AND A VELOCITY OF $40\\athrm{M / SEC}$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The Carnot cycle has four cycles and operates between:",
+    "choices": {
+      "W": "2 isotherms and 2 adiabatics",
+      "X": "2 isotherms and 2 isostatics",
+      "Y": "2 adiabatics and 2 isostatics",
+      "Z": "2 isotherms and 2 isovolumetrics"
+    },
+    "answer": "$\\athrm{W)}$ 2 ISOTHERMS AND 2 ADIABATICS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the oxidation number of the chromium atom in $\\athrm{K}_2\\athrm{Cr}_2\\athrm{O}_7$ ?",
+    "answer": "$+6$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following physiological conditions would most likely result in left ventricular hypertrophy:",
+    "choices": {
+      "W": "decrease in pulmonary pressure",
+      "X": "increase in pulmonary pressure",
+      "Y": "increase in peripheral systemic blood pressure",
+      "Z": "decrease in peripheral systemic blood pressure"
+    },
+    "answer": "$\\athrm{Y)}$ INCREASE IN PERIPHERAL SYSTEMIC BLOOD PRESSURE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "If 1n is haploid, 2n is diploid, and 1s is the DNA content in a haploid genome, then what is the n and s value of a human cell in metaphase two of meiosis?",
+    "answer": "2N AND 2S"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The companion galaxies of Andromeda, M 32 and NGC 205 are classified as which of the following galaxy type:",
+    "choices": {
+      "W": "dwarf companion",
+      "X": "barred",
+      "Y": "dwarf elliptical",
+      "Z": "seyfert"
+    },
+    "answer": "$\\athrm{Y)}$ DWARF ELLIPTICAL"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "By what multiple does the brightness of two stars, with apparent magnitudes of $-1$ and $+6$ , differ?",
+    "answer": "631"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following eccentricities describes an ellipse:",
+    "choices": {
+      "W": "$\\athrm{e} = 0$",
+      "X": "$0< \\athrm{e}< 1$",
+      "Y": "$\\athrm{e} = 1$",
+      "Z": "$\\athrm{e} > 1$"
+    },
+    "answer": "$\\athrm{X)}$ $0< \\athrm{e}< 1$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In terms of $\\i$ , what is the area of a sector in a circle whose central angle is $60^{\irc}$ bounded by two radii of $6^{\irc}$",
+    "answer": "$6\\i$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Generally, explosive volcanic eruptions are most likely to have magma that has a relatively:",
+    "choices": {
+      "W": "high temperature",
+      "X": "low silica content",
+      "Y": "high dissolved-gas content",
+      "Z": "low-viscosity"
+    },
+    "answer": "$\\athrm{Y)}$ HIGH DISSOLVED-GAS CONTENT"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A coral reef would thrive best in which of the following oceanic conditions:",
+    "choices": {
+      "W": "around oceanic zones of nutrient upwelling",
+      "X": "clear waters characterized by low nutrient concentrations",
+      "Y": "areas with high influxes of land-derived mud and silt",
+      "Z": "at latitudes from $30^{\irc}$ to $50^{\irc}$ North and South"
+    },
+    "answer": "$\\athrm{X)}$ CLEAR WATERS CHARACTERIZED BY LOW NUTRIENT CONCENTRATIONS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "A spider that continues to go through the motions of spinning a cocoon even though it has run out of silk is exhibiting:",
+    "choices": {
+      "W": "a learned behavior",
+      "X": "imprinting",
+      "Y": "a fixed action pattern",
+      "Z": "critical behavior"
+    },
+    "answer": "$\\athrm{Y)}$ A FIXED ACTION PATTERN"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "A killer whale is best classified in which trophic level:",
+    "choices": {
+      "W": "primary carnivore",
+      "X": "secondary carnivore",
+      "Y": "herbivore",
+      "Z": "detritivore"
+    },
+    "answer": "$\\athrm{X)}$ SECONDARY CARNIVORE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of files is NOT considered an executable file in the Windows environment:",
+    "choices": {
+      "W": ".ini",
+      "X": ".exe",
+      "Y": ".bat",
+      "Z": ".com"
+    },
+    "answer": "$\\athrm{W)}$ .INI"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "Give the Binary, Octal and Hexadecimal equivalents for the decimal number 8:",
+    "answer": "BINARY $= 1000$ ; OCTAL $= 10$ ; HEXADECIMAL $= 8$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In a standing wave of a vibrating string, what is the name of the specific harmonic that corresponds to the first overtone?",
+    "answer": "SECOND HARMONIC"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "With regard to the speed at which sound travels in a specific medium at standard temperature and pressure, order the following materials from the SLOWEST to the FASTEST: iron, wood, sea-water, distilled water",
+    "answer": "DISTILLED WATER, SEA-WATER, WOOD, IRON"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "First noticed by Faraday in 1857, what is the name for the phenomenon which occurs when light becomes polarized after it is passed through a colloidal suspension?",
+    "answer": "THE TYNDALL EFFECT"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 monosaccharides from the smallest to the largest: erythrose, mannose, ribose",
+    "answer": "ERYTHROSE, RIBOSE, MANNOSE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "One of the main functions of carotenoids in higher plants is to:",
+    "choices": {
+      "W": "protect chlorophyll from damage by ultraviolet light",
+      "X": "aid in photorespiration",
+      "Y": "prevent interference by accessory pigments",
+      "Z": "direct the function of photosystem One"
+    },
+    "answer": "$\\athrm{W)}$ PROTECT CHLOROPHYLL FROM DAMAGE BY ULTRAVIOLET LIGHT"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When alpha ketoglutarate is converted to succinyl CoA, what are the main two coenzymes involved?",
+    "answer": "COENZYME A AND NAD"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Of the following 5 angles, which pair of angles are coterminal with one another: $50^{\irc}$ ; $-50^{\irc}$ ; $50^{\irc} + 2(360^{\irc})$ ; $11 / 3$ rev; $0^{\irc}$",
+    "answer": "$50^{\irc}$ AND $50^{\irc} + 2(360^{\irc})$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Calculate the following indefinite integral: $\\athrm{I} = \\nt x e^{2x^2} dx$",
+    "answer": "$\\rac{1}{4} e^{2x^2} + C$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In meteorology, a center where air spirals outward away from a high-pressure center and designated on weather maps by the letter \H\ is called:",
+    "choices": {
+      "W": "cyclonic flow",
+      "X": "anticyclonic flow",
+      "Y": "a center of convergence",
+      "Z": "gradient wind"
+    },
+    "answer": "$\\athrm{X)}$ ANTICYCLONIC FLOW"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is an example of a marine-based ice sheet:",
+    "choices": {
+      "W": "East Antarctic Ice Sheet",
+      "X": "East Greenland Ice Sheet",
+      "Y": "West Antarctic Ice Sheet",
+      "Z": "Arctic Ice Sheet"
+    },
+    "answer": "$\\athrm{Y)}$ WEST ANTARCTIC ICE SHEET"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "What Norwegian physician in 1873 discovered that a specific bacteria was the cause of leprosy:",
+    "choices": {
+      "W": "Gerhard Hansen",
+      "X": "Jacobus van't Hoff",
+      "Y": "Antony Van Leeuwenhoek",
+      "Z": "Christian DeDuve"
+    },
+    "answer": "$\\athrm{W)}$ GERHARD HANSEN"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 ecosystems from the highest percentage of the Earth's surface to the lowest: temperate grassland; temperate deciduous forest; open ocean; savanna",
+    "answer": "OPEN OCEAN; SAVANNA; TEMPERATE GRASSLAND; TEMPERATE DECIDUOUS FOREST"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The theory that elements such as uranium and thorium went through a series of transmutations was first carefully formulated by:",
+    "choices": {
+      "W": "Planck and Einstein",
+      "X": "Einstein and Rutherford",
+      "Y": "Curie and Rutherford",
+      "Z": "Rutherford and Soddy"
+    },
+    "answer": "$\\athrm{Z)}$ RUTHERFORD AND SODDY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which ones, if any, of the following will appear to be the same to all observers in all reference frames, regardless of speed: mass, velocity, time, momentum, charge, kinetic energy",
+    "answer": "CHARGE"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In 1811, what person published a paper that advanced the idea that all gases contain the same number of particles per unit volume?",
+    "answer": "AVOGADRO"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Upon whose work was Avogadro's Hypothesis most directly related?",
+    "answer": "GAY-LUSSAC"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The 1,25 form of Vitamin D is formed in what organ?",
+    "answer": "KIDNEY"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In the double reciprocal Lineweaver-Burke plot of enzyme activity, the presence of an uncompetitive inhibitor will have which of the following effects:",
+    "choices": {
+      "W": "unpredictable effect",
+      "X": "decreases the slope and decreases the intercept at the ordinate",
+      "Y": "no effect on the slope and increases the intercept at the ordinate",
+      "Z": "the slope is inverted and the intercept at the ordinate remains the same"
+    },
+    "answer": "$\\athrm{Y)}$ NO EFFECT ON THE SLOPE AND INCREASES THE INTERCEPT AT THE ORDINATE"
+  }
+]

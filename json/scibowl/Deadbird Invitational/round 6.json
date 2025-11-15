@@ -1,0 +1,472 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 compounds that are soluble in water: 1) Ammonium phosphate; 2) Lead (II) nitrate; 3) Barium sulfate.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "The lower molar solubility of Iron (III) Hydroxide at a higher pH levels is a result of what phenomenon?",
+    "answer": "COMMON ION EFFECT"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes a reflex angle?",
+    "choices": {
+      "W": "An angle whose measure is exactly equal to 180 degrees",
+      "X": "An angle whose measure is between 180 and 360 degrees",
+      "Y": "An angle whose measure is exactly equal to 360 degrees",
+      "Z": "An angle whose measure is greater than 360 degrees"
+    },
+    "answer": "X) AN ANGLE WHOSE MEASURE IS BETWEEN 180 AND 360 DEGREES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A 3-4-5 right triangle is constructed, and an altitude is drawn from the right angle to the hypotenuse. What is the difference in the lengths of the two sides produced by this altitude?",
+    "answer": "1.4 (ACCEPT: 7/5)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Parkinson’s disease is believed to be caused by a lack of what neurotransmitter in the brain?",
+    "answer": "DOPAMINE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 plant groups in which the sporophyte is dominant in the alternation of generations: 1) Angiosperms; 2) Ferns; 3) Mosses.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the certain orbits in the main asteroid belt that are free of asteroids due to Jupiter’s gravitation?",
+    "answer": "KIRKWOOD GAPS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following geologic structures would NOT be formed by brittle deformation of the Earth’s crust?",
+    "choices": {
+      "W": "Folds",
+      "X": "Normal faults",
+      "Y": "Reverse faults",
+      "Z": "Joints"
+    },
+    "answer": "W) FOLDS"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What theorem states that for three integers a, b, and c, there are no integer solutions to the equation $a^k + b^k = c^k$ for $k > 2$?",
+    "answer": "FERMAT'S LAST THEOREM"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the possible values of x given that the determinant of the matrix with first row 6 minus x comma 3 and second row 2 comma 4 is 0?",
+    "answer": "9/2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "A ring and a sphere, both with the same mass and radius, are rolling down the same inclined plane. Which of the following statements is true about these objects?",
+    "choices": {
+      "W": "The ring will reach the bottom first and will have more rotational kinetic energy",
+      "X": "The sphere will reach the bottom first and will have more rotational kinetic energy",
+      "Y": "The ring will reach the bottom first while the sphere will have more rotational kinetic energy",
+      "Z": "The sphere will reach the bottom first while the ring will have more rotational kinetic energy"
+    },
+    "answer": "Z) THE SPHERE WILL REACH THE BOTTOM FIRST WHILE THE RING WILL HAVE MORE ROTATIONAL KINETIC ENERGY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "Two identical marbles are rolling towards each other, the left marble moving at a speed of 3 meters per second to the right and the right marble moving at 2 meters per second to the left. At what speed, in meters per second, and in what direction, is the left marble moving after the collision if they collide elastically?",
+    "answer": "2 TO THE LEFT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are studying the characteristics of a healthy gut microbiome by studying the microorganisms within. One organism, E. coli resides in the intestines of many animals. When gram staining E. coli, it will appear pink due to a thin layer of what cell wall forming substance?",
+    "answer": "PEPTIDOGLYCAN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Pacific Northwest National Lab are conducting research on the intrusive igneous activity surrounding volcanoes. What type of vertical tabular intrusion cuts across many layers of rock?",
+    "choices": {
+      "W": "Laccolith",
+      "X": "Dike",
+      "Y": "Sill",
+      "Z": "Stock"
+    },
+    "answer": "X) DIKE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "In humans, the appendix is an example of what type of structure that no longer seems to have a purpose in the current form of an organism?",
+    "answer": "VESTIGIAL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "What sequence of DNA found in the promoter region of eukaryotic genes allows RNA polymerase to initiate transcription?",
+    "answer": "TATA BOX"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the distance of a star whose parallax is measured to be 0.2 arcseconds?",
+    "choices": {
+      "W": "0.2 parsecs",
+      "X": "0.2 light years",
+      "Y": "5 parsecs",
+      "Z": "5 light years"
+    },
+    "answer": "Y) 5 PARSECS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What type of telescope most commonly suffers from the phenomenon known as chromatic aberration?",
+    "choices": {
+      "W": "Reflecting telescope",
+      "X": "Refracting telescope",
+      "Y": "Cassegrain telescope",
+      "Z": "Radio telescope"
+    },
+    "answer": "X) REFRACTING TELESCOPE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Jeffery is given a line segment from which he, using a compass, draws 2 circles whose center is at each endpoint of the segment and whose radius is more than half of the length of the line. With a straightedge, he then draws the line resulting from the intersections of the two circles. Which of the following best describes the figure he has produced?",
+    "choices": {
+      "W": "Parallel line",
+      "X": "Angle bisector",
+      "Y": "Equilateral triangle",
+      "Z": "Perpendicular bisector"
+    },
+    "answer": "Z) PERPENDICULAR BISECTOR"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In simplest radical form, calculate the sine of 75 degrees.",
+    "answer": "THE QUANTITY ROOT 6 PLUS ROOT 2 OVER 4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "The strength of Van der Waals intermolecular forces vary with distance to what power?",
+    "answer": "- 6"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true about London Dispersion Forces?",
+    "choices": {
+      "W": "They act on all molecules",
+      "X": "They act more strongly on molecules with large surface areas",
+      "Y": "They act more strongly on cyclic molecules than branched ones",
+      "Z": "They are caused by induced instantaneous dipoles"
+    },
+    "answer": "Y) THEY ACT MORE STRONGLY ON CYCLIC MOLECULES THAN BRANCHED ONES"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Idaho National Lab are studying magnetism. What temperature is defined to be the point at which a permanent magnet loses its ferromagnetic properties and instead becomes paramagnetic?",
+    "answer": "CURIE POINT"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Berkeley National Lab are studying dark matter. Which of the following is a candidate for the composition of dark matter?",
+    "choices": {
+      "W": "Positrons",
+      "X": "WIMPs",
+      "Y": "Antiprotons",
+      "Z": "Neutrinos"
+    },
+    "answer": "X) WIMPS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "A polyp and medusa life stage is characteristic of which of the following taxonomic phylums?",
+    "choices": {
+      "W": "Cnidaria",
+      "X": "Nematoda",
+      "Y": "Porifera",
+      "Z": "Annelida"
+    },
+    "answer": "W) CNIDARIA"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "The formation of a cleavage furrow is indicative of cytokinesis in the eukaryotic cell. The cleavage furrow is analogous to the formation of what structure in plant cytokinesis?",
+    "answer": "CELL PLATE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of weather satellites orbit parallel to Earth’s meridian lines?",
+    "choices": {
+      "W": "Polar- orbiting",
+      "X": "Geosynchronous",
+      "Y": "Diurnal",
+      "Z": "Doppler"
+    },
+    "answer": "W) POLAR- ORBITING"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for the distinctively layered mats composed of slimy materials secreted by ancient cyanobacteria that provide evidence for precambrian life?",
+    "answer": "STROMATOLITES"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the lines of symmetry of the hyperbola with equation $x^2$ over 16 minus $y^2$ over $36 = 1$?",
+    "answer": "$\\athbf{x} = 0$ ; $\\athbf{y} = 0$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The point (2, 3) is reflected about the line $\\athbf{y} = \\athbf{x} - 2$, and then rotated 60 degrees counterclockwise about the origin. What is the new distance between the origin and the point after these transformations?",
+    "answer": "5"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "Name all of the following three particles which have a spin of zero: 1. Neutrino 2. Photon 3. Higgs boson",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "A torsional spring has a period of pi/2 seconds and a maximum angular displacement of 2pi radians. Giving your answer in terms of pi as necessary, what is the maximum angular acceleration, in radians per second squared, of the spring?",
+    "answer": "32pi"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Pacific Northwest National Lab are researching the internal igneous activity of the Laramide orogeny. Orogenesis most often occurs along which of the following types of plate boundaries?",
+    "choices": {
+      "W": "Convergent",
+      "X": "Divergent",
+      "Y": "Transform",
+      "Z": "Fault"
+    },
+    "answer": "W) CONVERGENT"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Lab are utilizing underwater nuclear reactions to study the Cherenkov radiation emitted by charged particles when they pass through mediums at speeds greater than the phase velocity of light. Identify all of the following 3 particles that do NOT have an electric charge: 1) Neutrinos; 2) Muons; 3) Electrons.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "What non-coding segments of DNA that lie between coding regions are cleaved before DNA translation?",
+    "answer": "INTRONS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids is polar?",
+    "choices": {
+      "W": "Phenylalanine",
+      "X": "Tryptophan",
+      "Y": "Serine",
+      "Z": "Valine"
+    },
+    "answer": "Y) SERINE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the phenomenon that explains how the rotation of an electrically conducting fluid can sustain a magnetic field?",
+    "answer": "DYNAMO EFFECT"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Chandrasekhar limit gives the maximum possible mass of which of the following celestial objects?",
+    "choices": {
+      "W": "White dwarf",
+      "X": "Neutron star",
+      "Y": "Red giant",
+      "Z": "Black hole"
+    },
+    "answer": "W) WHITE DWARF"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Given the function f of x equals $2x^3 + 8$, what is the value of f inverse of 136?",
+    "choices": {
+      "W": "4",
+      "X": "6",
+      "Y": "8",
+      "Z": "10"
+    },
+    "answer": "W) 4"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If a sphere must have the same volume and surface area, what must the diameter of the sphere be?",
+    "answer": "6"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules has the lowest bond angle for the central atom?",
+    "choices": {
+      "W": "Carbon dioxide",
+      "X": "Ammonia",
+      "Y": "Water",
+      "Z": "Methane"
+    },
+    "answer": "Y) WATER"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "A scientist is attempting to find the electric potential of a Galvanic cell by comparing the elements at the anode and cathode with gaseous hydrogen. He finds that the anode has a potential of 1.5 volts and the cathode has a potential of 0.8 volts. In volts, what is the reduction potential of hydrogen?",
+    "answer": "0"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the boundary that defines the region of space around a black hole from which nothing can escape from the black hole’s tidal forces?",
+    "choices": {
+      "W": "Singularity",
+      "X": "Schwarzschild radius",
+      "Y": "Event horizon",
+      "Z": "Hubble radius"
+    },
+    "answer": "Y) EVENT HORIZON"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 events in which one could possibly observe the Baily’s Beads effect: 1) Total solar eclipse; 2) Partial solar eclipse; 3) Annular solar eclipse.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Sanjay the athlete is running the mile. When he is running, what viscous fluid in his knee joint reduces friction between the bones, allowing Sanjay to fluidly run his mile?",
+    "answer": "SYNOVIAL FLUID"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 binding sites on ribosomes that can hold tRNA molecules: 1) P site; 2) A site; 3) T site.",
+    "answer": "1 AND 2"
+  }
+]

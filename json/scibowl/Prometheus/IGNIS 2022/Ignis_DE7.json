@@ -1,0 +1,506 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "El Niño events reduce hurricane formation in the Atlantic by increasing which of the following atmospheric phenomena?",
+    "choices": {
+      "W": "Thermal instability",
+      "X": "Thermal stratification",
+      "Y": "Vorticity",
+      "Z": "Wind shear"
+    },
+    "answer": "Z) Wind shear"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Claviceps Purpurea can infect rye and cause ergotism, destroying crop yield and causing people to hallucinate. It does this by mimicking the pollen grain and growing into the ovary. Order the following three structures in chronological order during this growth: 1) Micropyle; 2) Stigma; 3) Style.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the derivative of $\\in (\\in x,\\os x,\\tan x)$ at the point $x = \\rac{\\i}{6}$.",
+    "answer": "$\\rac{\\qrt{3}}{2}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Compute $\\nt_{0}^{\\i /2}\\in^{2}\\theta \\os^{3}\\theta d\\theta$.",
+    "answer": "2/15"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following conformations of cyclohexane is the most stable?",
+    "choices": {
+      "W": "Chair",
+      "X": "Boat",
+      "Y": "Twist-boat",
+      "Z": "Planar"
+    },
+    "answer": "W) Chair"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following values is the closest to the pH of a 0.1 molar solution of acetic acid, given that the pKa of acetic acid is 4.75?",
+    "choices": {
+      "W": "2.2",
+      "X": "2.9",
+      "Y": "3.8",
+      "Z": "5.8"
+    },
+    "answer": "X) 2.9"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A layer of aquitard material above the water table would help support what type of aquifer above it?",
+    "answer": "Perched"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Grayson notices fog forming on Lake Michigan during the fall and winter. What type of fog is Grayson most likely observing?",
+    "choices": {
+      "W": "Advection",
+      "X": "Valley",
+      "Y": "Upslope",
+      "Z": "Steam"
+    },
+    "answer": "Z) Steam"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In Tay-Sachs disease, the lack of hexosaminidase A causes the accumulation of gangliosides in the brain. This enzyme is normally present in what organelle?",
+    "answer": "Lysosome"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Inactivation of the X chromosome requires the activation of which gene on the X chromosome?",
+    "answer": "Xist"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What effect is brought about by the Lorentz invariance of light waves such that it is possible for the same light to appear different to stationary and moving observers?",
+    "answer": "Doppler Effect"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements about subatomic particles that are NOT true: 1) Kaons follow Bose-Einstein statistics; 2) Tau particles follow Fermi-Dirac statistics; 3) Gluons contribute no electrical charge to protons and neutrons.",
+    "answer": "None"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "If the goal of a medical diagnosis is to identify the percentage of people highly likely to have a given condition, then the number of false negatives should be very low. Which of the following describes this situation?",
+    "choices": {
+      "W": "High sensitivity",
+      "X": "High specificity",
+      "Y": "Low sensitivity",
+      "Z": "Low specificity"
+    },
+    "answer": "W) High sensitivity"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Scientists are studying the virulence of different influenza strains, especially H5N1 as it continues to evolve in birds. These flu strains all belong to what family of viruses?",
+    "answer": "Orthomyxoviridae"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The mean of a set is 7 and its root mean square is 11. What is the standard deviation of the set?",
+    "answer": "$6\\qrt{2}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A set of natural and not necessarily distinct numbers sums to 20. What is the largest possible product of these numbers?",
+    "answer": "1458"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three gases by increasing value of $a$ in the van der Waals equation: 1) $\\athrm{NH}_3$ ; 2) $\\athrm{CH}_4$ ; 3) $\\athrm{H}_2$",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best accounts for the decreased basicity of the amide nitrogen relative to an amine?",
+    "choices": {
+      "W": "Resonance with the carbonyl pi bonding orbital",
+      "X": "Resonance with the carbonyl pi antibonding orbital",
+      "Y": "Induction by the carbonyl oxygen non-bonding orbital",
+      "Z": "Hyperconjugation with the carbonyl pi bonding orbital"
+    },
+    "answer": "X) Resonance with the carbonyl pi antibonding orbital"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why observations at the Milky Way's central black hole are difficult?",
+    "choices": {
+      "W": "The Earth's constant rotation creates small observational windows",
+      "X": "The Sun's luminosity drowns out central x-ray emission",
+      "Y": "Dust particles within the plane of the galaxy obstruct the line of sight",
+      "Z": "High energy gamma bursts from the center disrupt equipment"
+    },
+    "answer": "Y) Dust particles within the plane of the galaxy obstruct the line of sight"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Local Bubble is a cavity around the Solar System enclosed by an expanding boundary of debris and gas. Which of the following can one expect to find when observing areas where the boundary interacts with regions of gas?",
+    "choices": {
+      "W": "Accumulation of rogue planets",
+      "X": "Star formation",
+      "Y": "Energetic neutral particles",
+      "Z": "Icy comet bodies"
+    },
+    "answer": "X) Star formation"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is an advantage of Sanger sequencing over next generation sequencing?",
+    "choices": {
+      "W": "It is faster",
+      "X": "It is more efficient",
+      "Y": "It can sequence RNA",
+      "Z": "It is more accurate"
+    },
+    "answer": "Z) It is more accurate"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids cannot be phosphorylated?",
+    "choices": {
+      "W": "Tyrosine",
+      "X": "Isoleucine",
+      "Y": "Threonine",
+      "Z": "Serine"
+    },
+    "answer": "X) Isoleucine"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A ray of light is incident upon a medium at the Brewster angle. Which of the following represents the ratio of the reflection coefficient over the transmission coefficient of the light ray?",
+    "choices": {
+      "W": "Between one and infinity non-inclusive",
+      "X": "Equal to one",
+      "Y": "Between zero and one non-inclusive",
+      "Z": "Equal to zero"
+    },
+    "answer": "Z) Equal to zero"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The orbit of a planet's satellite is governed by the potential $U(r) = \\rac{\\lpha}{r}$ where $\\lpha$ is a positive constant and $r$ is the distance of separation. Identify all of the following three statements that are true about the satellite's orbit: 1) The orbit is elliptical; 2) The satellite's orbit sweeps equal areas in equal times; 3) The square of the satellite's period is equal to the cube of the semimajor axis.",
+    "answer": "2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the concept of bounded rationality?",
+    "choices": {
+      "W": "Rational behavior for humans relies largely on heuristics and imperfect decisions",
+      "X": "No individual is capable of making fully rational decisions",
+      "Y": "Any fully irrational decision can be reversed to give a fully rational decision",
+      "Z": "Any given individual makes both rational and irrational decisions"
+    },
+    "answer": "W) Rational behavior for humans relies largely on heuristics and imperfect decisions"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Radioactive isotopes above the belt of stability on the nuclide chart will tend to undergo which of the following types of decay?",
+    "choices": {
+      "W": "Alpha",
+      "X": "Beta plus",
+      "Y": "Beta minus",
+      "Z": "Gamma"
+    },
+    "answer": "Y) Beta minus"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "For a vector-valued function, if the Hessian Matrix of the critical point $(1,3)$ has a determinant equal to -3, then what type of point is $(1,3)$?",
+    "choices": {
+      "W": "Local Minimum",
+      "X": "Local Maximum",
+      "Y": "Saddle Point",
+      "Z": "Undetermined"
+    },
+    "answer": "Y) Saddle Point"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A function is given as $f(x) = a - \\qrt{a^2 + x^2}$ where $a$ is a constant. Using a first-order Maclaurin series approximation, compute the value of $f(\\qrt{2})$.",
+    "answer": "$- \\rac{1}{a}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What type of chemical reaction simultaneously oxidizes and reduces one reactant?",
+    "answer": "Disproportionation"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three elements that burn in an atmosphere of pure nitrogen: 1) Lithium; 2) Sodium; 3) Potassium.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Zeolite cages are made up of what three principle elements?",
+    "choices": {
+      "W": "Aluminum, silicon, oxygen",
+      "X": "Aluminum, iron, oxygen",
+      "Y": "Iron, silicon, oxygen",
+      "Z": "Silicon, oxygen, calcium"
+    },
+    "answer": "W) Aluminum, silicon, oxygen"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the formation of travertine?",
+    "choices": {
+      "W": "Precipitation from calcium-rich rivers",
+      "X": "Precipitation from hydrothermal springs",
+      "Y": "Accumulation and deposition on existing sediment grains",
+      "Z": "Compaction of marine fossils"
+    },
+    "answer": "X) Precipitation from hydrothermal springs"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What region of the eye has the highest concentration of cones?",
+    "answer": "Fovea"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The family of catecholamines is derived from tyrosine. Identify all of the following three molecules that are catecholamines: 1) Glutamine; 2) Gaba; 3) Dopamine.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following limits for a single slit diffraction of an electron with wavelength $\\ambda$ through an aperture of length $d$ would lead to a classical distribution of particles?",
+    "choices": {
+      "W": "$\\rac{\\ambda}{d}$ approaches 0",
+      "X": "$\\rac{\\ambda}{d}$ approaches 1",
+      "Y": "$\\rac{\\ambda}{d}$ approaches $\\nfty$",
+      "Z": "$\\rac{\\ambda}{d}$ approaches - $\\nfty$"
+    },
+    "answer": "W) $\\rac{\\ambda}{d}$ approaches 0"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A planet revolving around its star in an elliptical orbit is 18 AU from the star at its closest point and 32 AU from the star at its furthest point. What is the length of its semiminor axis in its elliptical orbit in AU?",
+    "answer": "24"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "What algorithm in machine learning is used to optimize a neural network by finding the local minimum of a loss function?",
+    "answer": "Gradient descent"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "The random forest classifier model is an example of what type of group-based learning in AI?",
+    "answer": "Ensemble learning"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The integers from 1 to 64 are expressed in binary. If two distinct random numbers are chosen, what is the probability that they have the same last digit?",
+    "answer": "31/63"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the derivative of $x^{x}$ at $x = e$?",
+    "answer": "$2e^{e}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reagents could be used to reduce a simple alkene?",
+    "choices": {
+      "W": "Sodium borohydride",
+      "X": "Peroxy acid",
+      "Y": "Thionyl chloride",
+      "Z": "Hydrogen"
+    },
+    "answer": "Z) Hydrogen"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When one mole of an unknown chloride salt is dissolved in one liter of water, the pH of the solution drops to 4.8. What could be the identity of the salt?",
+    "choices": {
+      "W": "Sodium Chloride",
+      "X": "Calcium Chloride",
+      "Y": "Ammonium Chloride",
+      "Z": "Strontium Chloride"
+    },
+    "answer": "Y) Ammonium Chloride"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three phenomena that can be created via recombination: 1) Cosmic background radiation; 2) Heavy neutral metals; 3) H-II regions.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three forces that were unified in the early universe according to the Grand Unified Theory: 1) Strong nuclear; 2) Weak nuclear; 3) Electromagnetic.",
+    "answer": "All"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following groups of fungi commonly forms arbuscular mycorrhizae within plant roots?",
+    "choices": {
+      "W": "Ascomycota",
+      "X": "Zygomycota",
+      "Y": "Glomeromycota",
+      "Z": "Basidiomycota"
+    },
+    "answer": "Y) Glomeromycota"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A eukaryotic mRNA coding for a protein is 900 nucleotides long. Identify all of the following three numbers of amino acids that could be present in the protein made directly after translation: 1) 600; 2) 300; 3) 200.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three interactions that a free particle can undergo when approaching a classically forbidden region: 1) Scattering; 2) Tunneling; 3) Oscillating.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An attenuated wavefunction can survive past a boundary in the form of what wave solution that leads to the possibility of tunneling?",
+    "answer": "Evanescent wave"
+  }
+]

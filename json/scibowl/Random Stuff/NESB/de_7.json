@@ -1,0 +1,660 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "astr",
+    "answer_type": "multiple_choice",
+    "body": "A cloud of gases around the solid portion of a comet is known as the",
+    "choices": {
+      "W": "coma.",
+      "X": "core.",
+      "Y": "heart.",
+      "Z": "nucleus."
+    },
+    "answer": "W- COMA"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "astr",
+    "answer_type": "multiple_choice",
+    "body": "A comet develops a coma because of",
+    "choices": {
+      "W": "the solar wind.",
+      "X": "Earth's atmosphere.",
+      "Y": "the Oort Cloud.",
+      "Z": "heat from the sun."
+    },
+    "answer": "Z- HEAT FROM THE SUN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biol",
+    "answer_type": "multiple_choice",
+    "body": "The first vertebrates appeared a little more than",
+    "choices": {
+      "W": "50 million years ago.",
+      "X": "100 million years ago.",
+      "Y": "500 million years ago.",
+      "Z": "150 million years ago."
+    },
+    "answer": "Y- 500 MILLION YEARS AGO"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biol",
+    "answer_type": "multiple_choice",
+    "body": "Birds and reptiles excrete nitrogenous wastes in the form of",
+    "choices": {
+      "W": "uric acid.",
+      "X": "ammonia.",
+      "Y": "free nitrogen.",
+      "Z": "urea."
+    },
+    "answer": "W- URIC ACID"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "phys",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a device that detects charged particles but does NOT show their tracks?",
+    "choices": {
+      "W": "spark chamber",
+      "X": "photographic plate",
+      "Y": "scintillation counter",
+      "Z": "bubble chamber"
+    },
+    "answer": "Y- SCINTILLATION COUNTER"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "phys",
+    "answer_type": "multiple_choice",
+    "body": "The photomultiplier tube in the scintillation counter multiplies which of the following?",
+    "choices": {
+      "W": "scintillations",
+      "X": "electrons",
+      "Y": "ions",
+      "Z": "photons"
+    },
+    "answer": "X- ELECTRONS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chem",
+    "answer_type": "multiple_choice",
+    "body": "A key word in the definition of stoichiometry is",
+    "choices": {
+      "W": "qualitative.",
+      "X": "subjective.",
+      "Y": "descriptive.",
+      "Z": "quantitative."
+    },
+    "answer": "Z- QUANTITATIVE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chem",
+    "answer_type": "multiple_choice",
+    "body": "Which concept allows you to relate the coefficients of a balanced chemical equation to actual amounts of reactants or products?",
+    "choices": {
+      "W": "Equivalence",
+      "X": "Limiting factor",
+      "Y": "The mole",
+      "Z": "Conservation of mass"
+    },
+    "answer": "Y- THE MOLE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "genr",
+    "answer_type": "multiple_choice",
+    "body": "The use of which of the following energy sources does not normally produce nitrogen oxides as a byproduct?",
+    "choices": {
+      "W": "gasoline",
+      "X": "coal",
+      "Y": "nuclear",
+      "Z": "natural gas"
+    },
+    "answer": "Y- NUCLEAR"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "genr",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following has not been used as a moderator for thermal nuclear reactors?",
+    "choices": {
+      "W": "beryllium",
+      "X": "aluminum",
+      "Y": "graphite",
+      "Z": "heavy water"
+    },
+    "answer": "X- ALUMINUM"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "comp",
+    "answer_type": "multiple_choice",
+    "body": "High-level languages are converted into machine language and executed immediately, statement by statement, using",
+    "choices": {
+      "W": "an assembler.",
+      "X": "a compiler.",
+      "Y": "an interpreter.",
+      "Z": "a desk checker."
+    },
+    "answer": "Y- AN INTERPRETER"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "comp",
+    "answer_type": "multiple_choice",
+    "body": "A new programming language that may transform the Internet into a completely interactive environment is called",
+    "choices": {
+      "W": "C++.",
+      "X": "Java.",
+      "Y": "Logo.",
+      "Z": "HTML."
+    },
+    "answer": "X- JAVA"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chem",
+    "answer_type": "multiple_choice",
+    "body": "What happens to delta H if a chemical equation is reversed?",
+    "choices": {
+      "W": "It becomes zero.",
+      "X": "It remains the same.",
+      "Y": "It changes in sign.",
+      "Z": "Depends on the reaction."
+    },
+    "answer": "Y- IT CHANGES IN SIGN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chem",
+    "answer_type": "multiple_choice",
+    "body": "What principle relates the enthalpy change for a net reaction to the enthalpy changes of a series of summed reactions?",
+    "choices": {
+      "W": "Boyle's law",
+      "X": "Hess's law",
+      "Y": "Avogadro's hypothesis",
+      "Z": "Henry's law"
+    },
+    "answer": "X- HESS'S LAW"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biol",
+    "answer_type": "multiple_choice",
+    "body": "In turtles and crocodiles, the lungs are divided into many",
+    "choices": {
+      "W": "alveoli.",
+      "X": "small chambers.",
+      "Y": "air sacs.",
+      "Z": "bronchi."
+    },
+    "answer": "X- SMALL CHAMBERS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biol",
+    "answer_type": "multiple_choice",
+    "body": "In the heart of a toad, oxygen-rich and oxygen-poor blood",
+    "choices": {
+      "W": "mix in the right atrium.",
+      "X": "mix in the left atrium.",
+      "Y": "mix in the ventricle.",
+      "Z": "do not mix."
+    },
+    "answer": "Y- MIX IN THE VENTRICLE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "phys",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements dealing with simple harmonic motion of a mass-spring system is TRUE?",
+    "choices": {
+      "W": "The acceleration is largest when the oscillating mass is instantaneously at rest.",
+      "X": "The larger the spring force constant the larger the period.",
+      "Y": "The period of the motion depends linearly on the amplitude of the motion.",
+      "Z": "The acceleration is larger when the oscillating mass has its greatest velocity."
+    },
+    "answer": "W- THE ACCELERATION IS LARGEST WHEN THE OSCILLATING MASS IS INSTANTANEOUSLY AT REST"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "phys",
+    "answer_type": "multiple_choice",
+    "body": "An ice skater is rotating with her arms extended. When she pulls in her arms her rate of rotation increases. Which of the following statements dealing with the process is TRUE?",
+    "choices": {
+      "W": "Her moment of inertia is increased.",
+      "X": "Kinetic energy is conserved.",
+      "Y": "The skater does work when pulling in her arms.",
+      "Z": "Angular momentum is increased."
+    },
+    "answer": "Y- THE SKATER DOES WORK WHEN PULLING IN HER ARMS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "ersc",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the thinnest layer of Earth?",
+    "choices": {
+      "W": "Inner core",
+      "X": "Crust",
+      "Y": "Mantle",
+      "Z": "Outer core"
+    },
+    "answer": "X- CRUST"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "ersc",
+    "answer_type": "multiple_choice",
+    "body": "The crust and upper mantle make up Earth's",
+    "choices": {
+      "W": "lithosphere.",
+      "X": "asthenosphere.",
+      "Y": "shield.",
+      "Z": "continents."
+    },
+    "answer": "W- LITHOSPHERE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biol",
+    "answer_type": "multiple_choice",
+    "body": "The motion of snakes depends upon the fact that the muscles of their bodies are",
+    "choices": {
+      "W": "attached by ligaments.",
+      "X": "arranged in circles.",
+      "Y": "arranged in blocks.",
+      "Z": "attached to bones."
+    },
+    "answer": "Y- ARRANGED IN BLOCKS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biol",
+    "answer_type": "multiple_choice",
+    "body": "In the circulatory system of a bird, blood is moved through the body loop by the",
+    "choices": {
+      "W": "right and left atria.",
+      "X": "right and left ventricles.",
+      "Y": "right atrium and right ventricle.",
+      "Z": "left atrium and left ventricle."
+    },
+    "answer": "Z- LEFT ATRIUM AND LEFT VENTRICLE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "phys",
+    "answer_type": "multiple_choice",
+    "body": "In simple harmonic motion, the acceleration is",
+    "choices": {
+      "W": "constant.",
+      "X": "proportional to the distance from the central position.",
+      "Y": "greatest when the velocity is greatest.",
+      "Z": "none of the above"
+    },
+    "answer": "X- PROPORTIONAL TO THE DISTANCE FROM THE CENTRAL POSITION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "phys",
+    "answer_type": "multiple_choice",
+    "body": "When a liquid moves through a pipe having a varying diameter, the pressure against the inside walls of the pipe will be",
+    "choices": {
+      "W": "the same throughout.",
+      "X": "lowest where the diameter is smallest.",
+      "Y": "lowest where the diameter is largest.",
+      "Z": "lowest where the velocity of flow is lowest."
+    },
+    "answer": "X- LOWEST WHERE THE DIAMETER IS SMALLEST"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chem",
+    "answer_type": "multiple_choice",
+    "body": "When two reactants are available in the stoichiometric proportions represented by the chemical equation,",
+    "choices": {
+      "W": "only the most massive reactant will be used up.",
+      "X": "neither of the reactants will be used up.",
+      "Y": "both of the reactants will be used up.",
+      "Z": "only the least massive of the reactants will be used up."
+    },
+    "answer": "Y- BOTH OF THE REACTANTS WILL BE USED UP"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chem",
+    "answer_type": "multiple_choice",
+    "body": "When comparing gaseous reactants and/ or products, the ratio of their coefficients represents",
+    "choices": {
+      "W": "the molar ratio of the substances.",
+      "X": "the volume ratios of the substances.",
+      "Y": "both the molar and volume ratios.",
+      "Z": "neither the molar nor volume ratios."
+    },
+    "answer": "Y- BOTH THE MOLAR AND VOLUME RATIOS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Mary randomly selects a number from among the integers 1 through 100. What is the probability that the number selected is divisible by both 2 and 3?",
+    "choices": {
+      "W": "1/5",
+      "X": "4/25",
+      "Y": "3/20",
+      "Z": "7/50"
+    },
+    "answer": "X- 4/25"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many three-digit area codes are possible if the first digit cannot be 0 or 1 and the second digit must be 0 or 1?",
+    "answer": "160"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "genr",
+    "answer_type": "multiple_choice",
+    "body": "The fastest-running terrestrial animal is",
+    "choices": {
+      "W": "a cheetah.",
+      "X": "a lion.",
+      "Y": "man.",
+      "Z": "a jaguar."
+    },
+    "answer": "W- ACHEETAH"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "genr",
+    "answer_type": "multiple_choice",
+    "body": "Approximately how many meteors enter the Earth's atmosphere each year?",
+    "choices": {
+      "W": "1,000",
+      "X": "10,000",
+      "Y": "25,000",
+      "Z": "100,000"
+    },
+    "answer": "Y- 25,000"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biol",
+    "answer_type": "multiple_choice",
+    "body": "Male and female gametes are produced in separate flowers in a",
+    "choices": {
+      "W": "pea plant.",
+      "X": "rose.",
+      "Y": "spruce tree.",
+      "Z": "corn plant."
+    },
+    "answer": "Z- CORN PLANT"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biol",
+    "answer_type": "multiple_choice",
+    "body": "Female pine cones do not produce",
+    "choices": {
+      "W": "ovules.",
+      "X": "microsporangia.",
+      "Y": "megasporangia.",
+      "Z": "gametophytes."
+    },
+    "answer": "X- MICROSPORANGIA"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "astr",
+    "answer_type": "multiple_choice",
+    "body": "A comet develops a tail because of",
+    "choices": {
+      "W": "the solar wind.",
+      "X": "Earth's atmosphere.",
+      "Y": "the Oort Cloud.",
+      "Z": "heat from Mercury."
+    },
+    "answer": "W- THE SOLAR WIND"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "astr",
+    "answer_type": "multiple_choice",
+    "body": "The intense magnetic fields of sunspots cause archlike eruptions called",
+    "choices": {
+      "W": "solar flares.",
+      "X": "corona.",
+      "Y": "photospheres.",
+      "Z": "prominences."
+    },
+    "answer": "Z- PROMINENCES"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "phys",
+    "answer_type": "multiple_choice",
+    "body": "If viewed on an oscilloscope, the loudness of a sound wave would be associated with the wave's",
+    "choices": {
+      "W": "frequency.",
+      "X": "wavelength.",
+      "Y": "velocity.",
+      "Z": "amplitude."
+    },
+    "answer": "Z- AMPLITUDE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "phys",
+    "answer_type": "multiple_choice",
+    "body": "If a sled has a constant acceleration of 2 meters per second squared and starts from rest, the distance in meters that it will have covered after 5 seconds is",
+    "choices": {
+      "W": "10 meters.",
+      "X": "20 meters.",
+      "Y": "25 meters.",
+      "Z": "50 meters."
+    },
+    "answer": "Y- 25 METERS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chem",
+    "answer_type": "multiple_choice",
+    "body": "The enthalpy change for melting a solid, such as ice, is called",
+    "choices": {
+      "W": "heat of fusion.",
+      "X": "heat of vaporization.",
+      "Y": "heat capacity.",
+      "Z": "specific heat."
+    },
+    "answer": "W- HEAT OF FUSION"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chem",
+    "answer_type": "multiple_choice",
+    "body": "The law of partial pressures of gases was formulated by",
+    "choices": {
+      "W": "Avogadro.",
+      "X": "Boyle.",
+      "Y": "Charles.",
+      "Z": "Dalton."
+    },
+    "answer": "Z- DALTON"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "ersc",
+    "answer_type": "multiple_choice",
+    "body": "The boundaries between two colliding plates on the Earth- surface are called",
+    "choices": {
+      "W": "divergent.",
+      "X": "convergent.",
+      "Y": "a transform fault.",
+      "Z": "lithosphere."
+    },
+    "answer": "X- CONVERGENT"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "ersc",
+    "answer_type": "multiple_choice",
+    "body": "The layer inside Earth that is comprised of material that can flow like a liquid yet also retain solid properties is the",
+    "choices": {
+      "W": "inner core.",
+      "X": "outer core.",
+      "Y": "mantle.",
+      "Z": "crust."
+    },
+    "answer": "Y- MANTLE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "comp",
+    "answer_type": "short_answer",
+    "body": "What does the acronym LISP stand for?",
+    "answer": "LIST PROCESSING"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "comp",
+    "answer_type": "short_answer",
+    "body": "What is the only data structure in the programming language LISP?",
+    "answer": "ALIST"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biol",
+    "answer_type": "short_answer",
+    "body": "The elevations on the surface of the tongue are known as",
+    "answer": "PAPILLAE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biol",
+    "answer_type": "multiple_choice",
+    "body": "All the petals of a flower form the",
+    "choices": {
+      "W": "corolla.",
+      "X": "carpel.",
+      "Y": "calyx.",
+      "Z": "stamen."
+    },
+    "answer": "W- COROLLA"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In radians, what is the period of the function $t = \\os (4s)$ ? (read: t equals the cosine of 4 s)",
+    "answer": "$\\i/2$ (ACCEPT 1.57)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "USA Deli sells cheese with $20\\$ water content at $\\$3.50$ per pound. Removing moisture from the cheese costs $\\$1.00$ per pound of water removed. At what rate per pound would cheese with a $10\\$ water content have to be sold to keep the same profit?",
+    "choices": {
+      "W": "$\\$3.60$",
+      "X": "$\\$3.80$",
+      "Y": "$\\$4.00$",
+      "Z": "$\\$4.20$"
+    },
+    "answer": "Y- $\\$4.00$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "phys",
+    "answer_type": "short_answer",
+    "body": "The pressure placed on a square with $1 / 2$ meter sides is 1000 Pascals. How much force, in Newtons, is being applied to the square?",
+    "answer": "250 (NEWTONS)"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "phys",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT closely associated with a non-magnetic Phase Diagram?",
+    "choices": {
+      "W": "Eutectic Temperature",
+      "X": "Curie Point",
+      "Y": "Solidus",
+      "Z": "Liquidus Curves"
+    },
+    "answer": "X- CURIE POINT"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chem",
+    "answer_type": "short_answer",
+    "body": "The scientist who discovered the law of conservation of matter was",
+    "answer": "LAVOISIER"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "chem",
+    "answer_type": "multiple_choice",
+    "body": "The experiment that revealed the charge of the electron involved the use of",
+    "choices": {
+      "W": "gold foil.",
+      "X": "photographic film.",
+      "Y": "oil droplets.",
+      "Z": "cathode ray tubes."
+    },
+    "answer": "Y- OIL DROPLETS"
+  }
+]

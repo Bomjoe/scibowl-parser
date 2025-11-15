@@ -1,0 +1,510 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Riboflavin is to FAD as Pantothenate is to:",
+    "answer": "CoA"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 objects from the smallest to the largest: the diameter of a DNA molecule, a Rickettsia, a ribosome, a methionine molecule",
+    "answer": "A METHIONINE MOLECULE, THE DIAMETER OF A DNA MOLECULE, A RIBOSOME, A RICKETTSIA"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In 1851, Thomson independently rediscovered the idea of absolute zero by extrapolating from the law most commonly known as?",
+    "answer": "CHARLES LAW"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If an astronaut traveling at $25\\$ of the speed of light passes a 10 meter long satellite, what length will the astronaut get for a measure of the satellite:",
+    "choices": {
+      "W": "1.75 meters",
+      "X": "0.87 meters",
+      "Y": "8.66 meters",
+      "Z": "9.68 meters"
+    },
+    "answer": "Z) 9.68 METERS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name for one of the most central concepts of chemical equilibria, which states that a change in one of the variables that describes a system at equilibrium produces a shift in the position of the equilibrium that counteracts the effect of the change:",
+    "answer": "LECHATELIER'S PRINCIPLE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Using electrophoresis at a pH of 6.0, which two of the following 5 amino acids would move fastest to the cathode: arginine, glutamic acid, glycine, alanine, lysine",
+    "answer": "LYSINE, ARGININE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "What form of diffraction grating has very fine lines ruled much farther apart than other gratings, giving it a much higher resolution, but over a narrow wavelength band:",
+    "choices": {
+      "W": "airy disc grating",
+      "X": "campo grating",
+      "Y": "Doppler grating",
+      "Z": "eschelle grating"
+    },
+    "answer": "Z) ESCHELLE GRATING"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "The solar neutrino detector in Lead, South Dakota, was originally constructed to contain about 100,000 gallons of what chemical?",
+    "answer": "$\\athrm{C_2CL_4}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The total distance traveled, given by the equation $\\athrm{f(t_{1})\\elta t + f(t_{2})\\elta t + \\dots f(t_{n})\\elta t}$, for which f is an increasing function, can be used to find which of the following between the values $\\athrm{t} = \\athrm{a}$ and $\\athrm{t} = \\athrm{b}$:",
+    "choices": {
+      "W": "right-hand sum",
+      "X": "left-hand sum",
+      "Y": "upper bound",
+      "Z": "endless bound"
+    },
+    "answer": "W) RIGHT-HAND SUM"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the derivative of the following equation: $y = 2^{x} + 2 \\times 3^{x}$",
+    "answer": "$\\n 2(2^{x}) + 2 \\n 3(3^{x})$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "A major break through in the development of plate tectonic theory occurred in the late 1960s with sea floor mapping by:",
+    "choices": {
+      "W": "satellite imagery",
+      "X": "magnetic characteristics",
+      "Y": "aerial photography",
+      "Z": "water depth by soundings"
+    },
+    "answer": "X) MAGNETIC CHARACTERISTICS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "Order the following three types of magma based on their viscosity, starting with the least viscous: rhyolitic, basaltic, andesitic",
+    "answer": "BASALTIC, ANDESITIC, RHYOLITIC"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is TRUE for the f-number in a typical camera lens:",
+    "choices": {
+      "W": "the larger the f-number, the more light reaches the film",
+      "X": "the larger the f-number, the greater the depth of field",
+      "Y": "the smaller the f-number, the lesser the light reaches the film",
+      "Z": "the smaller the f-number, the greater the depth of field"
+    },
+    "answer": "X) THE LARGER THE F- NUMBER, THE GREATER THE DEPTH OF FIELD"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following has been most effectively implicated in Alzheimer's disease:",
+    "choices": {
+      "W": "glutanic oxygenase",
+      "X": "aluminum toxicosis",
+      "Y": "amyloid-beta precursor protein",
+      "Z": "poor diet"
+    },
+    "answer": "Y) AMYLOID-BETA PRECURSOR PROTEIN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following algorithms is the most efficient:",
+    "choices": {
+      "W": "Insertion Sort",
+      "X": "Selection Sort",
+      "Y": "Quick Sort",
+      "Z": "Merge Sort"
+    },
+    "answer": "Z) MERGE SORT"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "C programs typically go through 6 phases to be executed. Order the following 6 phases from initial to final development: preprocess; compile; load; link; edit; execute",
+    "answer": "EDIT; PREPROCESS; COMPILE; LINK; LOAD; EXECUTE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Select the hormone NOT CORRECTLY paired with its target:",
+    "choices": {
+      "W": "MSH and epidermal melanocytes",
+      "X": "ACTH and adrenal gland",
+      "Y": "TSH and thyroid parafollicular C cells",
+      "Z": "LH and maturing follicles"
+    },
+    "answer": "Y) TSH AND THYROID PARAFOLICULAR C CELLS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Using the following single stranded DNA, give the corresponding messenger RNA sequence: TAC - GGA - GGG - GCA - CCC - TAT - TTA",
+    "answer": "AUG - CCU - CCC - CGU - GGG - AUA - AAU"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What did Roentgen accidentally discover when he noticed a platinocyanide coated paper began to glow?",
+    "answer": "X- RAYS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Given Planck's constant is $6.6 \\times 10^{-34}$ Joule-seconds, what is the de Broglie wavelength of a of a 0.15 kilogram onion traveling at 20 meters per second:",
+    "choices": {
+      "W": "$3.3 \\times 10^{-35}$ meters",
+      "X": "$3.3 \\times 10^{-34}$ meters",
+      "Y": "$2.2 \\times 10^{-34}$ meters",
+      "Z": "$2.2 \\times 10^{-35}$ meters"
+    },
+    "answer": "Y) $2.2 \\times 10^{-34}$ METERS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular formula for the conjugate base of the following Brønsted-Lowry acid: $\\athrm{HPO_4^{2 - }}$",
+    "answer": "$\\athrm{PO_4^{3 - }}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "To 2 decimal places, calculate how many moles of air are in a 4.0 liter tank at 1 atmosphere of pressure and at a temperature of 300K:",
+    "answer": "0.17"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following eyepieces consists of two planoconvex lenses with their flat sides towards the eye and a field stop between them:",
+    "choices": {
+      "W": "Huygens",
+      "X": "Ramsden",
+      "Y": "Kellner",
+      "Z": "Orthoscopic"
+    },
+    "answer": "W) HUYGENS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Ancient Greek estimates of the sizes of the sun and moon and their relative distances from Earth were based on geometrical relationships in what two celestial events?",
+    "answer": "SOLAR AND LUNAR ECLIPSES"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In the graph of a curve such as the cosecant curve, the straight vertical line to which the curve moves closer and closer is called what:",
+    "answer": "ASYMPTOTE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Calculate the following indefinite integral: $\\athrm{I} = \\nt x(2x^{2} + 3)^{3}dx$",
+    "answer": "$\\rac{1}{16} (2x^{2} + 3)^{4} + C$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "If all seismic waves leave the earthquake focus at the same instant, which seismic wave will typically be recorded by a seismograph second?",
+    "answer": "S- WAVE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "In miles per second, the typical velocity of an S-wave near the Earth's surface is which of the following:",
+    "choices": {
+      "W": "3.7",
+      "X": "2.2",
+      "Y": "9.7",
+      "Z": "0.6"
+    },
+    "answer": "X) 2.2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "A vulture is best classified in which trophic level:",
+    "choices": {
+      "W": "primary carnivore",
+      "X": "secondary carnivore",
+      "Y": "omnivore",
+      "Z": "detritivore"
+    },
+    "answer": "Z) DETRITIVORE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes why Citrus Canker is such a large threat to Florida's citrus industry:",
+    "choices": {
+      "W": "canker scales blemish the fruit",
+      "X": "it causes early fruit drop",
+      "Y": "it rapidly kills the trees",
+      "Z": "the fruit rot before they are ready to harvest"
+    },
+    "answer": "X) IT CAUSES EARLY FRUIT DROP"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "In C programming, what enables programs to simulate call by reference, and to create and manipulate dynamic data structures, such as linked lists and queues:",
+    "choices": {
+      "W": "pointers",
+      "X": "controllers",
+      "Y": "processors",
+      "Z": "streams"
+    },
+    "answer": "W) POINTERS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a legal tag in HTML:",
+    "choices": {
+      "W": "span",
+      "X": "code",
+      "Y": "pic",
+      "Z": "link"
+    },
+    "answer": "Y) PIC"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is well-suited for staining nuclear material and most bacterial outer surfaces:",
+    "choices": {
+      "W": "methylene blue",
+      "X": "crystal violet",
+      "Y": "eosin",
+      "Z": "safranin"
+    },
+    "answer": "Y) EOSIN"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following intermediates as they would progress through the citric acid cycle: citrate, oxaloacetate, succinyl CoA, alpha ketogluterate",
+    "answer": "OXALOACETATE, CITRATE, ALPHA KETOGLUTERATE, SUCCINYL COA"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What principal, enunciated in 1927, was to that date the most direct challenge to the deterministic nature of the universe?",
+    "answer": "HEISENBERG'S UNCERTAINTY PRINCIPAL"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What three elemental isotopes are typically considered the starting points of the three, main, naturally-occurring radioactive decay series?",
+    "answer": "U- 238, U- 235, TH- 232"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The aldeoxes have 4 asymmetric carbon atoms and can therefore exist as how many stereoisomers?",
+    "answer": "16"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Calculate the molecular weight of an ether if a 500 milliliter flask is filled with 0.6 grams of the gas at 300K and at a pressure of 380 mmHg:",
+    "answer": "60G/MOL"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "In degrees, what is the declination of the sun at the equinox?",
+    "answer": "0"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "To a stargazer living in Northern Michigan, a star that lies almost exactly on the celestial equator, such as sigma Orionis, will do which of the following:",
+    "choices": {
+      "W": "spend 12 hours above the horizon and 12 hours below",
+      "X": "rise in the north and set in the south",
+      "Y": "cannot be seen",
+      "Z": "its diurnal path is cut by the horizon into unequal parts"
+    },
+    "answer": "W) SPEND 12 HOURS ABOVE THE HORIZON AND 12 HOURS BELOW"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Named after a German mathematician, what type of bottle has one surface with no edges and thus neither an outside nor an inside?",
+    "answer": "KLEIN BOTTLE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $\\in \\theta = \\rac{\\qrt{3}}{2}$ and $\\theta$ terminates in Quadrant II of the Cartesian coordinate system, in a unit circle find $\\os \\theta$:",
+    "answer": "- 1/2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Oxygen and nitrogen molecules in the atmosphere preferentially scatter light of shorter wavelengths causing the sky to appear blue owing to what type of scattering:",
+    "choices": {
+      "W": "Rayleigh",
+      "X": "Mie",
+      "Y": "Crepuscular",
+      "Z": "parallel"
+    },
+    "answer": "W) RAYLEIGH"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "Calculate the percent relative humidity of air at $20^{\\irc}\\athrm{C}$ with a partial pressure of water of 0.50 kilo-Pascals if liquid water has a vapor pressure of 2.00 kilo-Pascals at that temperature:",
+    "answer": "$25\\$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which germ layer in mammals is predominantly responsible for forming the skeletal system?",
+    "answer": "MESODERM"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "If 1n is haploid, 2n is diploid, and 1s is the DNA content in a haploid genome, then what is the n and s value of a somatic human cell in metaphase of mitosis?",
+    "answer": "4N AND 4S"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What common disaccharide is composed of two glucose residues?",
+    "answer": "MALTOSE"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which two of the following 5 amino acids contain nonpolar R groups? serine, glutamine, leucine, tyrosine, phenylalanine",
+    "answer": "LEUCINE, PHENYLALANINE"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the most common scientific name for the form of radiation that is emitted when relativistic electrons are forced to travel through a curved trajectory in a magnetic field?",
+    "answer": "SYNCHROTRON RADIATION"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Department of Energy's Brookhaven National Lab is the home of the RHIC, which is world's highest energy particle collider. What do the letters R, H, I, and C each respectively stand for?",
+    "answer": "RELATIVISTIC HEAVY ION COLLIDER"
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Two second-order reactions with different rate constants are run separately with the same initial reactant concentration. The first reaction has a half-life 4 times longer than the second reaction. If the first reaction's initial rate is $x$, then what is the second reaction's initial rate in terms of $x$?",
+    "answer": "$4x$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three cyclic compounds that are predicted to be paramagnetic according to MO theory: 1) Cyclobutadiene; 2) Benzene; 3) Cyclooctatetraene.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What general group of digestive hormones serves as a feedforward signal to insulin secretion after the consumption of a meal?",
+    "answer": "INCRETINS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Depicted in the image is the action of a cytotoxic T cell on an infected cell and signaling agents inducing apoptosis. Answer the following three questions: 1) What is the identity of the enzymes labeled A that are responsible for forming pores in the cell membrane; 2) What is the identity of the enzymes labeled B that serve as an external initiator of apoptosis in the cell; 3) What is the identity of the receptor labeled C that is bound to an MHC Class I receptor?",
+    "answer": "1) PERFORINS; 2) GRANZYMES; 3) CD8"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Gauss’s law of electricity can be reformulated into Poisson’s equation, which states that the divergence of the gradient of the electric potential is proportional to the enclosed charge density. In a region free of charges, Poisson’s equation can be replaced by what other equation?",
+    "answer": "LAPLACE’S EQUATION"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A capacitor consists of two coaxial charged cylinders with radii of 6 meters and 16 meters respectively. The capacitance of the capacitor is measured to be 2 farads. If the smaller cylinder is replaced with an even smaller cylinder of radius 3 meters, in farads, which of the following is closest to the capacitance of the new capacitor?",
+    "choices": {
+      "W": "0.9",
+      "X": "1.3",
+      "Y": "1.7",
+      "Z": "1.9"
+    },
+    "answer": "X) 1.3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National laboratory are studying ultrafast X-ray diffraction on SmTe3 using a free-electron laser. They are specifically studying what ordered quantum fluid of electrons in this compound?",
+    "answer": "CHARGE DENSITY WAVE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National laboratory are using intense free-electron lasers to excite matter. The excited matter relaxes through what mechanism in which the filling of an inner vacancy is accompanied by the emission of an electron?",
+    "answer": "AUGER EFFECT"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The pairwise products of 3 positive numbers are 3, 6, and 8. What is the value of the smallest of the 3 numbers?",
+    "answer": "$3/2$ (ACCEPT: 1.5)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of the quantity $1 - i$ raised to the 17th power?",
+    "answer": "$256 - 256i$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of mass wasting: 1) Solifluction primarily occurs due to the freezing and thawing of regolith; 2) Earthflow typically has a higher velocity than debris flow; 3) Slump is an example of a mass wasting of unconsolidated material.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ocean water masses would have the highest carbon-14 to carbon-12 ratio?",
+    "choices": {
+      "W": "Antarctic Bottom Water",
+      "X": "Mediterranean Intermediate Water",
+      "Y": "North Pacific Deep Water",
+      "Z": "North Atlantic Deep Water"
+    },
+    "answer": "Z) NORTH ATLANTIC DEEP WATER"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three classes of inhibitors that would not alter the $\\athrm{V}_{\\athrm{max}}$ of a reaction: 1) Suicide inactivators; 2) Transition state analogs; 3) Competitive inhibitors.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of seedless vascular plants: 1) Extant; 2) More closely related to algae than angiosperms; 3) Monophyletic.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Argonne national lab scientists have determined the chemical structure and electronic bandgaps in the germanium selenide monolayer. To do this, they used the diffusion quantum form of what stochastic method to solve the Schrodinger equation?",
+    "answer": "MONTE CARLO"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne national lab are looking into the effects on molecular cobalt catalysts when pyridine is replaced with pyrazine, an isomer of pyrimidine that instead has the nitrogens located on the 1 and 4 positions of the ring. Rank the following three isomers in order of increasing basicity: 1) Pyrazine; 2) Pyrimidine; 3) Pyridazine.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two systems, A and B, exchange Q heat with each other while each system is maintained at a temperature of T1 and T2, respectively. Identify all of the following three systems that are internally reversible. 1) System A; 2) System B; 3) The universe.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Clausius-Mossotti relation can be used to calculate the dielectric constant from polarizability. This is analogous to what other relation to calculate the refractive index from atomic polarizability?",
+    "answer": "LORENTZ-LORENZ EQUATION (DO NOT ACCEPT: LORENTZ OR LORENZ)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three bonds in terms of increasing IR stretching frequency: 1) C—Cl bond in acetyl chloride; 2) C—O bond in dimethyl ether; 3) C—O single bond in acetic acid.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Acetone is treated with sodium hydroxide and iodine, followed by an acidic workup. What are the IUPAC names of the two organic products that are formed?",
+    "answer": "ACETIC ACID AND IODOFORM (ACCEPT: ETHANOIC ACID AND TRIIODOMETHANE)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two octahedral dice numbered 1 through 8 are rolled. What is the probability that their product is prime?",
+    "answer": "$1/8$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many possible rational roots exist via the rational root theorem, for a 20th degree polynomial with leading coefficient 4, and constant term 30?",
+    "answer": "32"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A parcel of air at ground level has a temperature of 33 degrees Celsius. Given that the dry adiabatic lapse rate is 8 degrees Celsius per kilometer, the wet adiabatic lapse rate is 5 degrees Celsius per kilometer, and the dew point is 15 degrees Celsius, then, to the nearest tenth and in kilometers, what is the altitude of the condensation level?",
+    "answer": "2.3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of the moons of mars: 1) Phobos is bigger than Deimos; 2) Phobos will eventually crash into mars; 3) Deimos possesses the Stickney impact crater.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Diadromous fish such as Salmon commonly undergo a process called smoltification whereby their cells adapt to living in a marine environment from a freshwater one. During this transformation the secretion of which hormone signals the proliferation of salt secreting cells?",
+    "answer": "CORTISOL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three processes in chronological order within the retina when the mammalian eye is exposed to a light source: 1) Light passes through the outer segment of the photoreceptor; 2) Light passes through the ganglion cell; 3) cGMP phosphodiesterase is activated by transducin.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three ligands that are pi donors: 1) Cyano; 2) Oxide; 3) Triphenylphosphine",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about carbenes: 1) Singlet carbenes contain two paired electrons in the carbon's $p$ orbital; 2) Electron donating groups favor the triplet carbene; 3) Carbenes can be formed through the alpha elimination of an alkyl chloride.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that factor into the Lawson criterion for nuclear fusion. 1) Ion density; 2) Moderator polarizability; 3) Ignition temperature.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three pairs of variables that are related by a Legendre transform. 1) Lagrangian and Hamiltonian; 2) Helmholtz free energy and Internal energy; 3) Retarded Potential and Lienard-Wiechert Potential.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three ions in order of increasing concentration in seawater: 1) Sulfate; 2) Calcium; 3) Magnesium.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 16,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Shown in the image is a sand dune as well as the prevailing wind direction. Answer the following two questions about the image: 1) What type of sand dune is shown in the image; 2) Which of the following best describes the environment in which this type of sand dune forms?",
+    "choices": {
+      "W": "Strong winds, moderate vegetation, abundant sand",
+      "X": "Weak winds, no vegetation, abundant sand",
+      "Y": "Strong winds, moderate vegetation, limited sand",
+      "Z": "Weak winds, moderate vegetation, abundant sand"
+    },
+    "answer": "1) PARABOLIC (ACCEPT: BLOWOUT); 2) W) STRONG WINDS, MODERATE VEGETATION, ABUNDANT SAND"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Berkeley National Lab have been studying the effects of ricin on ribosomes. Ricin is a deadly toxin that inhibits the rRNA glycosylase activity of eukaryotic ribosomes. Which of the following classes of ribosomal subunits could it possibly inhibit?",
+    "choices": {
+      "W": "30S",
+      "X": "40S",
+      "Y": "50S",
+      "Z": "60S"
+    },
+    "answer": "Z) 60S"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne national lab are studying the synthesis of palladium hydrides under high pressures of hydrogen gas. Identify all of the following 3 statements that are true of these palladium hydrides: 1) Upon addition of hydrogen, palladium becomes superconducting; 2) The palladium hydrides have a simple cubic unit cell; 3) The volume of the unit cells increases monotonically with pressure.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A rhombus is constructed so that its interior angles measure 30 degrees and 150 degrees. What side length must the rhombus have such that the perimeter and area of the rhombus are numerically equivalent?",
+    "answer": "8"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that sine of 19 degrees is 1/3, what is sine of 57 degrees?",
+    "answer": "$23/27$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three hydrogen atoms in terms of increasing pKa: 1) Hydrogen alpha to aldehyde carbonyl group; 2) Hydrogen alpha to ester carbonyl group; 3) Hydrogen alpha to ketone carbonyl group.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Lithium dialkyl cuprates are most commonly used to produce which of the following functional groups from acid chlorides?",
+    "choices": {
+      "W": "Aldehyde",
+      "X": "Ester",
+      "Y": "Alcohol",
+      "Z": "Ketone"
+    },
+    "answer": "Z) KETONE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the isospin of a proton?",
+    "answer": "$1/2$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The following image shows the oscillatory behavior of a two level quantum system caused by a driving field. Answer the following two questions about this image. 1) What is the name given to this phenomenon; 2) This phenomenon can be explained using what model which describes an atom interacting with a quantized mode?",
+    "answer": "1) RABI CYCLE; 2) JAYNES-CUMMINGS MODEL"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "For each of the following three events in Mars history, give the corresponding time period that it happened: 1) Formation of the Hellas basin; 2) Slow heat loss; 3) Rapid cooling due to axial tilt.",
+    "answer": "1) NOACHIAN; 2) AMAZONIAN; 3) HESPERIAN"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Blandford-Znajek process is a proposed mechanism that would extract energy from the ergosphere of a rotating black hole. What feature would this process be most likely to power?",
+    "choices": {
+      "W": "Gravitational waves",
+      "X": "Astrophysical jets",
+      "Y": "Accretion disks",
+      "Z": "Hawking radiation"
+    },
+    "answer": "X) ASTROPHYSICAL JETS"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A bag contains a fair coin and an unfair coin, which has a $25\\$ chance of landing on heads. Sanjay randomly picks a coin out of the bag and flips it, and it lands on tails. What is the probability that the coin is fair?",
+    "answer": "$2/5$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Expressed in base 5, how many digits does 2 to the power of 21 have?",
+    "answer": "10"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The malfunction of tyrosinase can cause what autosomal recessively inherited disease?",
+    "answer": "ALBINISM"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three inflammatory mediators that are generated by the action of enzymatic action on plasma proteins: 1) Kinins; 2) Histamine; 3) Complement",
+    "answer": "1 AND 2"
+  }
+]

@@ -1,0 +1,508 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of emission nebulae (NEB-yoo-lay): 1) They are star formation regions 2) Their spectra are composed of scattered starlight 3) They are primarily composed of hydrogen",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three detrital sedimentary rocks in order of increasing sediment size: 1) Mudstone 2) Arkose 3) Siltstone",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the surface area of a cube is 96, what is the length of its longest diagonal?",
+    "answer": "$4\\qrt{3}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A large conference hall is shaped like a rectangle with a length of 200 feet and a width of 100 feet. Which of the following is closest to the maximum number of people who can stand in the conference hall while abiding by the social distancing guideline that any two people are at least 6 feet apart from each other?",
+    "choices": {
+      "W": "100",
+      "X": "300",
+      "Y": "500",
+      "Z": "700"
+    },
+    "answer": "Z) 700"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A pendulum is made up of a string of length $L$ connected to a mass $m$. If the mass is released from rest at an angle of 45 degrees from the vertical, which of the following is true concerning the period of the resulting oscillation?",
+    "choices": {
+      "W": "The period is equal to $2\\i \\qrt{L / g}$",
+      "X": "The period is less than $2\\i \\qrt{L / g}$",
+      "Y": "The period is greater than $2\\i \\qrt{L / g}$",
+      "Z": "The period is infinite"
+    },
+    "answer": "Y) The period is greater than $2\\i \\qrt{L / g}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two events are connected by a spacelike interval. Identify all of the following three statements that are true: 1) It is impossible for any information to be transmitted between the two events 2) It is always possible to find a reference frame in which the two events are colocated 3) It is always possible to find a reference frame in which the two events are simultaneous",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Regev group at MIT are developing novel computational and experimental approaches for analyzing complex biological networks, including gene expression networks. Which of the following is not a tool used to study the expression of a gene?",
+    "choices": {
+      "W": "qRT-PCR",
+      "X": "RNA-seq",
+      "Y": "Luciferase reporters",
+      "Z": "Southern blotting"
+    },
+    "answer": "Z) Southern blotting"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Langer group at MIT are developing new methods for drug delivery. One particularly desirable type of transport is transport across the blood-brain barrier. Some small molecules are able to enter the endothelial cells that make up the blood-brain barrier from one side and exit through another. What is the name for this type of transport?",
+    "answer": "Transcytosis"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids is least likely to be found in an alpha helix?",
+    "choices": {
+      "W": "Alanine",
+      "X": "Leucine",
+      "Y": "Lysine",
+      "Z": "Glycine"
+    },
+    "answer": "Z) Glycine"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "An increase in which of the following parameters will decrease the maximum rate of an enzymatic reaction?",
+    "choices": {
+      "W": "$k_{\\athrm{cat}}$",
+      "X": "$K_{M}$",
+      "Y": "Substrate concentration",
+      "Z": "Enzyme concentration"
+    },
+    "answer": "X) $K_{M}$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which two state variables must be held constant for the change in Gibbs free energy to be proportional to the universal change in entropy?",
+    "answer": "Temperature and pressure"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How many unpaired electrons are there in the ground state electron configuration of chromium metal?",
+    "choices": {
+      "W": "3",
+      "X": "4",
+      "Y": "5",
+      "Z": "6"
+    },
+    "answer": "Z) 6"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In standard form, what the equation of the line tangent to the circle $x^{2} + y^{2} = 5$ at the point $(1,2)$?",
+    "answer": "$x + 2y = 5$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Consider the quadrilateral formed by the tangent lines to the circle $x^{2} + y^{2} = 5$ at the points $(1,2)$, $(-1,2)$, $(-1, -2)$, and $(1, -2)$. What is the perimeter of this quadrilateral?",
+    "answer": "$10\\qrt{5}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following hormones does NOT play a role in regulation of fluids through the RAA system?",
+    "choices": {
+      "W": "Renin",
+      "X": "Antidiuretic hormone",
+      "Y": "Aldosterone",
+      "Z": "Angiotensin"
+    },
+    "answer": "X) Antidiuretic hormone"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What type of mimicry do moths that can make themselves resemble snakes exhibit?",
+    "choices": {
+      "W": "Cryptic",
+      "X": "Aposematic",
+      "Y": "Batesian",
+      "Z": "Müllerian"
+    },
+    "answer": "Y) Batesian"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following terms best describes the telescope focus that uses a concave primary mirror and a convex secondary mirror to focus light through a space in the primary mirror?",
+    "choices": {
+      "W": "Newtonian",
+      "X": "Galilean",
+      "Y": "Dobsonian",
+      "Z": "Cassegrain"
+    },
+    "answer": "Z) Cassegrain"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A certain exoplanet on an edge-on orbit has high albedo and low temperature. At which of the following positions in its orbit would the star-exoplanet system appear brightest?",
+    "choices": {
+      "W": "Just before transit in front of the star",
+      "X": "During transit in front of the star",
+      "Y": "Just before transit behind the star",
+      "Z": "During transit behind the star"
+    },
+    "answer": "Y) Just before transit behind the star"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Griffin group at MIT have developed a way to dramatically enhance the sensitivity of NMR spectroscopy. Which of the following proton environments would produce the most downfield peak on an H-NMR spectrum?",
+    "choices": {
+      "W": "A carboxylic acid acidic hydrogen",
+      "X": "An aldehyde hydrogen",
+      "Y": "An ester alpha hydrogen",
+      "Z": "A ketone alpha hydrogen"
+    },
+    "answer": "W) A carboxylic acid acidic hydrogen"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Hong group at MIT are using NMR spectroscopy to study the structure of glucagon fibrils. On an H-NMR spectrum, which of the following compounds would have only one peak?",
+    "choices": {
+      "W": "Chloroethane",
+      "X": "Acetaldehyde",
+      "Y": "Dimethyl ether",
+      "Z": "Acetic acid"
+    },
+    "answer": "Y) Dimethyl ether"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An insulating sphere has a uniform charge density $\\ho$. Which of the following best describes the dependence of electric field on distance from the center, within the sphere?",
+    "choices": {
+      "W": "Linear",
+      "X": "Quadratic",
+      "Y": "Hyperbolic",
+      "Z": "Inverse square"
+    },
+    "answer": "W) Linear"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An AC source is connected to a resistor and a capacitor in series. Indicate, by name or number, all of the following three statements that are true of this system: 1) The current through the circuit lags the voltage by 90 degrees 2) For large frequencies, the impedance is approximately equal to the resistance of the resistor 3) The net power dissipated in the capacitor is zero",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many nearest neighbors does an atom in a body centered cubic lattice have?",
+    "answer": "8"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following bonds is not IR-active?",
+    "choices": {
+      "W": "The carbon-carbon bond in ethene",
+      "X": "The carbon-chlorine bond in chloroethane",
+      "Y": "The carbon-oxygen bond in formaldehyde",
+      "Z": "The carbon-oxygen bond in carbon dioxide"
+    },
+    "answer": "W) The carbon-carbon bond in ethene"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many planes of reflection symmetry does a right regular hexagonal prism have?",
+    "answer": "7"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An ant is at vertex $A$ of a regular tetrahedron. During every hour, he randomly jumps to another vertex of the tetrahedron. What is the probability that, after 3 hours, the ant will not be at vertex $A$?",
+    "answer": "7/9"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "For an exothermic reaction, which of the following statements is true as temperature increases?",
+    "choices": {
+      "W": "Both the rate constant and equilibrium constant increase",
+      "X": "The rate constant increases, but the equilibrium constant decreases",
+      "Y": "The rate constant decreases, but the equilibrium constant increases",
+      "Z": "Both the rate constant and the equilibrium constant decrease"
+    },
+    "answer": "X) The rate constant increases, but the equilibrium constant decreases"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When 1-methylcyclohexene is treated with HCl, the product of this reaction will be which of the following?",
+    "choices": {
+      "W": "Achiral but not meso",
+      "X": "A mixture of diastereomers",
+      "Y": "A meso compound",
+      "Z": "A racemic mixture"
+    },
+    "answer": "W) Achiral but not meso"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name of a device that uses a sandwich of two superconductive materials around an insulator, uses quantum tunneling to allow a current through, and can be paired with another of the same device to form a SQUID?",
+    "answer": "Josephson junction"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Allen is waiting for the bus as he suddenly hears a sonic boom from a plane flying. The sonic boom arrives from an angle of approximately 37 degrees above the ground. Given that the speed of sound is 343 meters per second, what is the approximate speed of the plane, in meters per second?",
+    "choices": {
+      "W": "340",
+      "X": "430",
+      "Y": "570",
+      "Z": "660"
+    },
+    "answer": "X) 430"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at MIT's Center for Theoretical Physics recently used Lattice Quantum Chromodynamics to make predictions about certain systems that sharpen theory predictions for dark matter direct detection experiments. Which of the following best describes the system that the researchers studied?",
+    "choices": {
+      "W": "The structure of strange gluons in the proton",
+      "X": "The frequency of neutrino oscillations",
+      "Y": "Rates of CP violation in B meson decays",
+      "Z": "Decay rates of W and Z bosons"
+    },
+    "answer": "W) The structure of strange gluons in the proton"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true of KATRIN: 1) The KATRIN experiment is directly measuring the mass of the electron antineutrino 2) In most beta decay events, the electron and neutrino carry away roughly equal amounts of energy 3) The researchers have produced an upper bound of 1.1 kiloelectronvolts for the mass of the neutrino",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Clouds of neutral atomic hydrogen in the interstellar medium are more commonly known as which of the following?",
+    "choices": {
+      "W": "Bok globule",
+      "X": "Molecular cloud",
+      "Y": "H I region",
+      "Z": "H II region"
+    },
+    "answer": "Y) H I region"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate all of the following three stars that are in the Winter Triangle: 1) Altair 2) Deneb 3) Vega",
+    "answer": "None of them"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which male reproductive cells produce testosterone?",
+    "answer": "Leydig cells"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The protein that blocks myosin binding to actin in relaxed muscle is",
+    "choices": {
+      "W": "Titin",
+      "X": "Tropomyosin",
+      "Y": "Troponin C",
+      "Z": "Calmodulin"
+    },
+    "answer": "X) Tropomyosin"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules will have $\\athrm{sp}^{3}\\athrm{d}$ hybridization?",
+    "choices": {
+      "W": "$\\athrm{H}_{2}\\athrm{SO}_{4}$",
+      "X": "$\\athrm{BF}_{3}$",
+      "Y": "$\\athrm{SF}_{4}$",
+      "Z": "$\\athrm{CO}_{2}$"
+    },
+    "answer": "Y) $\\athrm{SF}_{4}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, arrange the following 3 measurements of an ideal gas in increasing order: 1) Root mean square velocity 2) Average speed 3) Most probable speed",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A commonly cited benefit of the sexual, or base 6, number system is that it provides convenient decimal representations of many simple fractions. Which of the following fractions terminates in sexual but not in decimal?",
+    "choices": {
+      "W": "1/4",
+      "X": "1/8",
+      "Y": "1/9",
+      "Z": "1/11"
+    },
+    "answer": "Y) 1/9"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "When the sexual number 1344255 is converted to decimal, what is its last digit?",
+    "answer": "9"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Three resistors, each with resistance 1 ohm, are connected together to form a triangle. What is the equivalent resistance between two vertices of this triangle in ohms?",
+    "answer": "2/3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following particles which have a nonzero baryon number: 1) Pion 2) Delta particle 3) Tau quark 4) Graviton",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Although the genetic code is relatively universal, there are some differences between diverse organisms. In prokaryotes, what amino acid does the codon AUG code for?",
+    "answer": "Formylmethionine"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant components have even ploidy?",
+    "choices": {
+      "W": "Synergid",
+      "X": "Megaspore",
+      "Y": "Endosperm",
+      "Z": "Integument"
+    },
+    "answer": "Z) Integument"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three metamorphic facies in the order they would appear in a prograde metamorphic series: 1) Eclogite 2) Zeolite 3) Greenschist",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A new Solar System planet is discovered to have a circular orbit and a period of 512 years. In astronomical units, how distant is the planet from the Sun?",
+    "answer": "64 astronomical units"
+  }
+]

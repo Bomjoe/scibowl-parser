@@ -1,0 +1,234 @@
+[
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Intermediate filaments are cytoskeletal structural components composed of which of the following proteins?",
+    "choices": {
+      "W": "Actin",
+      "X": "Myosin",
+      "Y": "Tubulin",
+      "Z": "Keratin"
+    },
+    "answer": "Z) KERATIN"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Many hormones directly stimulate target cells to induce effects. However, some hormones have other endocrine glands as their targets. What is the name given to these hormones?",
+    "answer": "TROPIC HORMONES"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes brassinosteroids' effect on root growth at low and high concentrations respectively?",
+    "choices": {
+      "W": "Low concentrations inhibit root growth, High concentrations promote root growth",
+      "X": "Low concentrations promote root growth, High concentrations inhibit root growth",
+      "Y": "Both low and high concentrations inhibit root growth",
+      "Z": "Both low and high concentrations promote root growth"
+    },
+    "answer": "X) LOW CONCENTRATIONS PROMOTE ROOT GROWTH, HIGH CONCENTRATIONS INHIBIT ROOT GROWTH"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Hemoglobin can transition from its T-state to its R-state by the shifting of the position of what amino acid residue, to which the F-helix is attached?",
+    "answer": "HISTIDINE (ACCEPT: HISTIDINE F8)"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following four hydrohalic acids in increasing acidity: 1) HF; 2) HCl; 3) HBr; 4) HI.",
+    "answer": "1, 2, 3, 4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How many sigma and pi bonds, respectively, are found in one molecule of acetone?",
+    "choices": {
+      "W": "5 sigma, 1 pi",
+      "X": "7 sigma, 2 pi",
+      "Y": "9 sigma, 1 pi",
+      "Z": "10 sigma, 1 pi"
+    },
+    "answer": "Y) 9 SIGMA, 1 PI"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the absolute difference in the number of nodes in the HOMO of 1,3,5-Hexatriene and the number of nodes in the LUMO of 1,3-Butadiene?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "W) 0"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The reaction of sodium borohydride with an alpha-beta unsaturated ketone generally reduces both the carbonyl and the carbon-carbon double bond. The addition of which of the following compounds to the reaction vessel would force NaBH4 to attack only the carbonyl group?",
+    "choices": {
+      "W": "KHSO3",
+      "X": "CeCl3",
+      "Y": "BeCl2",
+      "Z": "SnCl2"
+    },
+    "answer": "X) CeCl3"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following jovian planets has a retrograde rotation?",
+    "choices": {
+      "W": "Jupiter",
+      "X": "Saturn",
+      "Y": "Uranus",
+      "Z": "Neptune"
+    },
+    "answer": "Y) URANUS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three types of magma in increasing viscosity: 1) Basaltic; 2) Rhyolitic; 3) Andesitic.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The removal of the lithospheric mantle from the base of a plate causes the isostatic rebound of the remaining surface of the plate. What term is given to this process by which the upper crust separates from the lower crust and lithospheric mantle?",
+    "answer": "DELAMINATION"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Spectra containing strong titanium oxide absorption bands are most prevalent among which of the following spectral classes?",
+    "choices": {
+      "W": "A",
+      "X": "G",
+      "Y": "M",
+      "Z": "T"
+    },
+    "answer": "Y) M"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alice, Bob, Chris, and David are sitting around a circular table. How many different seating arrangements are possible for the 4 of them to sit around the table?",
+    "answer": "6"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the roots of the polynomial $4x^{3} - 6x^{2} + 9x + 17$?",
+    "answer": "3/2 (ACCEPT: 1.5)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A circle is inscribed in a regular hexagon, and another circle is circumscribed about the same regular hexagon. What is the ratio of the area of the larger circle to the smaller circle?",
+    "choices": {
+      "W": "2/sqrt(3)",
+      "X": "4/3",
+      "Y": "3/2",
+      "Z": "2"
+    },
+    "answer": "X) 4/3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers can NOT be written as the sum of 3 perfect squares?",
+    "choices": {
+      "W": "2021",
+      "X": "2022",
+      "Y": "2023",
+      "Z": "2024"
+    },
+    "answer": "Y) 2023"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following subatomic particles is the most penetrating?",
+    "choices": {
+      "W": "Neutrino",
+      "X": "Electron",
+      "Y": "Proton",
+      "Z": "Neutron"
+    },
+    "answer": "W) Neutrino"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following launch angles, in degrees, should a projectile be launched from ground level to maximize its range?",
+    "choices": {
+      "W": "15",
+      "X": "30",
+      "Y": "45",
+      "Z": "60"
+    },
+    "answer": "Y) 45"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If the charge of a non-relativistic point charge triples and its acceleration doubles, then by what factor does its emitted power increase?",
+    "answer": "36"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In CGS-EMU units, the vacuum permeability is defined to be unitless. In this system, what are the units of inductance?",
+    "choices": {
+      "W": "unitless",
+      "X": "cm",
+      "Y": "$\\athrm{cm}^2$",
+      "Z": "$\\athrm{cm}^3$"
+    },
+    "answer": "X) cm"
+  }
+]

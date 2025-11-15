@@ -1,0 +1,332 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Suess group at MIT is exploring iron sulfur clusters in cells. If an iron sulfur cluster has four iron atoms and four sulfur atoms with a net charge of $+2$, what is the expected spin state of the lower oxidation state iron species in the cluster?",
+    "answer": "2"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Suess group at MIT is exploring a redox active protein with four iron atoms and four sulfur atoms in a cubane structure. One of the irons is redox active and changes between iron III and iron II. By name or number, identify all of the statements which are true about this complex. 1) Increasing the number of hydrogen bonds to the sulfur atoms will increase the standard reduction potential of the cluster 2) All of the iron centers are high spin 3) Each iron is formally bonded to four sulfur atoms",
+    "answer": "1, 2, and 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Xavier is trying to convert a carboxylic acid to an acid chloride using oxalyl chloride with dichloromethane as a solvent. To accelerate the reaction, Xavier should add a drop of which of the following substances to his reaction flask?",
+    "choices": {
+      "W": "N,N-dimethylformamide",
+      "X": "water",
+      "Y": "4-dimethylaminopyridine",
+      "Z": "tosylic acid"
+    },
+    "answer": "W) N,N-dimethylformamide"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Zoe is trying to perform a Heck coupling between an aryl bromide and an olefin using 1 mole percent of palladium acetate and 2 mole percent of triphenylphosphine along with a slight excess of base. By name or number, identify all of the following three changes which would dramatically improve Zoe's yield: 1) Using 2 mole percent palladium acetate 2) Using 3 mole percent triphenylphosphine 3) Changing the palladium source to $\\athrm{Pd(dba)}_2$",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Antiferromagnets have 0 net magnetization, regardless of the external field applied. What is the name of the temperature above which antiferromagnetic materials become paramagnetic due to thermal disorder?",
+    "answer": "Neel temperature"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following five elements which are ferromagnetic: 1) Cobalt 2) Copper 3) Ruthenium 4) Dysprosium 5) Holmium",
+    "answer": "1 and 4"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two of the side lengths of a triangle are 50 units and 51 units. If the tangent of the angle measure between the two sides is $8 / 15$, what is the area of the triangle?",
+    "answer": "600"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "To the nearest integer, what is the value of $2718^{2719} / 2719^{2718}$ (read: the fraction with numerator $2718^{2719}$ and denominator $2719^{2718}$)?",
+    "answer": "1000"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Actin molecules polymerize and depolymerize at both plus and minus ends. Which of the following statements correctly describes the rate of actin polymerization in the absence of a capping protein?",
+    "choices": {
+      "W": "Polymerization occurs quickest at the plus end",
+      "X": "Polymerization occurs quickest at the minus end",
+      "Y": "Polymerization occurs equally quickly at the plus and minus ends",
+      "Z": "Polymerization does not occur without capping proteins"
+    },
+    "answer": "W) Polymerization occurs quickest at the plus end"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In muscle cells, what molecule caps the minus end of actin filaments?",
+    "choices": {
+      "W": "CapZ",
+      "X": "Tropomodulin",
+      "Y": "Tropomyosin",
+      "Z": "CapA"
+    },
+    "answer": "X) Tropomodulin"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The root-mean-square radial velocity of stars in one galaxy is 20 kilometers per second. In kilometers per second, which of the following is closest to the velocity dispersion of the stars in the galaxy?",
+    "choices": {
+      "W": "25",
+      "X": "35",
+      "Y": "45",
+      "Z": "60"
+    },
+    "answer": "X) 35"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The concept of cosmological redshift is described by what metric which is based on the universe being isotropic and homogeneous?",
+    "answer": "FLRW metric"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What model of solids predicts that the heat capacity of a solid is proportional to the temperature cubed at low temperature by using phonons to describe atomic lattice vibrations?",
+    "answer": "Debye model"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The dependence of electrical resistance with respect to temperature has multiple different contributions. One term with logarithmic dependence arises from what effect, which describes the interaction of magnetic impurities and conduction electron magnetic moments?",
+    "answer": "Kondo effect"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The mutations D10A and H840A affect which two domains in Streptococcus pyogenes (STREP-toh-coc-cus py-AW-je-neez) Cas9, respectively?",
+    "answer": "RuvC; HNH"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements about KRAB (read: CRAB) domains that are true: 1) Transcription factors with a KRAB domain generally repress RNA polymerase activity 2) Transcription factors with a KRAB domain generally promote RNA polymerase activity 3) KRAB is often used alongside CRISPR technology to further modulate transcription",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the dual polyhedron of a regular icosahedron?",
+    "answer": "Dodecahedron"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate $\\nt_{-\\nfty}^{\\nfty} e^{-(x^2 + 8x + 9)} dx$",
+    "answer": "$\\qrt{\\i} e^7$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Lin-Shu density wave theory was proposed as a solution to what problem, which suggested that differential rotation of a galaxy would lead to dissolution of the spiral arms?",
+    "answer": "Winding problem"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of volcanic eruptions occurs when seawater enters the magma chamber and causes a steam explosion?",
+    "choices": {
+      "W": "Plinian (PLI-nee-uhn)",
+      "X": "Phreatic (free-A-tic)",
+      "Y": "Surtseyan (SURT-see-yuhn)",
+      "Z": "Strombolian (strom-BO-lee-uhn)"
+    },
+    "answer": "Y) Surtseyan"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Because of Jahn-Teller distortion, hexaaquacopper (II) (HEX-a-a-qua-cop-per two) exhibits tetragonal elongation. In such a complex, what is the highest energy $d$ orbital?",
+    "answer": "$d_{x^{2} - y^{2}}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true of the lowest-energy $d$-orbitals in the complex [Cu(CN)4]2-?",
+    "choices": {
+      "W": "It is a singly degenerate $d_{xy}$ orbital",
+      "X": "It is a singly degenerate $d_{z^{2}}$ orbital",
+      "Y": "It is a set of doubly degenerate $d_{xz}$ and $d_{yz}$ orbitals",
+      "Z": "It is a set of triply degenerate $d_{xy}$, $d_{xz}$, and $d_{yz}$ orbitals"
+    },
+    "answer": "W) It is a singly degenerate $d_{xy}$ orbital"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Kavli Institute at MIT have discovered 4 new exoplanets using the Transiting Exoplanet Survey Satellite. Although TESS relies on the transit method, the first exoplanets were discovered using what other method which involves measuring the shift in the wavelength of spectral lines emitted by a parent star?",
+    "answer": "Doppler radial velocity method"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Liu group at MIT is researching string theory and its relationship with quantum gravity. String theory relies on how many spatial and temporal dimensions, respectively?",
+    "answer": "9 spatial and 1 temporal"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What specific distribution describes the probability of $k$ successes in $n$ draws from a finite population without replacement?",
+    "answer": "Hypergeometric"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of the approximation of $\\rctan (1)$ using the first three nonzero terms of the power series of $\\rctan (x)$ centered at $x = 0$?",
+    "answer": "13/15"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true about g-anisotropy in EPR (read: E-P-R) spectroscopy?",
+    "choices": {
+      "W": "Any deviation from the g-factor of the free electron is due to spin-orbit coupling",
+      "X": "For one single transition, the peak measured at the lower magnetic field corresponds to a lower g-tensor component in the corresponding dimension",
+      "Y": "In the absence of hyperfine splitting, g-anisotropy accounts for different splitting patters in EPR spectroscopy",
+      "Z": "Different g values for the three different components of a g-tensor resuts in a rhombic splitting pattern"
+    },
+    "answer": "X) For one single transition, the peak measured at the lower magnetic field corresponds to a lower g-tensor component in the corresponding dimension"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 3 species which would result in one isotropic peak in EPR spectroscopy: 1) $\\athrm{[Mn(H_2O)_6]_{2}^{+}}$ 2) $\\athrm{[Cr(H_2O)_6]_{3}^{+}}$ 3) $\\athrm{[Fe(H_2O)_6]_{2}^{+}}$",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at MIT's Mediated Matter group are currently studying ways to ameliorate the decrease in the global bee population. Bees are quite unique in that bees employ a haplo-diploid sex-determination system. Which of the following fractions gives the coefficient of relatedness between a female bee and her maternal aunt?",
+    "choices": {
+      "W": "1/8",
+      "X": "1/4",
+      "Y": "3/8",
+      "Z": "3/4"
+    },
+    "answer": "Y) 3/8"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at MIT's Bartel group are currently studying RNA regulation. What's the name of the complex in bacterial cells that's responsible for the degradation of RNA, typically mRNA?",
+    "answer": "Degradosome"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true about plant nutrients?",
+    "choices": {
+      "W": "Symptoms of iron deficiency usually appear first in older leaves.",
+      "X": "Aluminum toxicity is a major problem for crops grown in acidic soil environments.",
+      "Y": "Manganese deficiency directly affects the oxygen-evolving complex.",
+      "Z": "Chlorosis is a general condition that can be caused by several types of nutrient deficiencies."
+    },
+    "answer": "W) Symptoms of iron deficiency usually appear first in older leaves"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In some cells infected with Rhizhobia (rhy-ZOH-be- a), what pink pigment protein buffers oxygen concentration to allow both cellular respiration and nitrogenase activity to occur?",
+    "answer": "Leghemoglobin"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A spaceship with a 650-nanometer light is launched in a straight line so that it passes 100 meters from an observer at closest approach. It travels at a speed of $12c / 13$. What is the wavelength of the light that the observer will measure when the spaceship is at its closest approach?",
+    "choices": {
+      "W": "250 nanometers",
+      "X": "600 nanometers",
+      "Y": "1560 nanometers",
+      "Z": "1690 nanometers"
+    },
+    "answer": "Z) 1690 nanometers"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An ideal parallel plate capacitor with circular plates of radius 1 millimeter is charged

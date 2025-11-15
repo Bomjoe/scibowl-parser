@@ -1,0 +1,342 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A triangle with vertices on lattice points has 10 lattice points on its boundary and 8 lattice points contained strictly within the triangle. Find the area of the triangle.",
+    "answer": "12"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that $x$ squared minus $x$ minus 4 equals 0, compute $x$ cubed plus $3x$ squared minus $8x$ plus 4.",
+    "answer": "20"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the Joint Genome Institute’s DNA Synthesis Science Program elucidated the biosynthetic pathways of terpenoids. Terpenoids are built off of terpenes, which are polymers of what 5-carbon molecule?",
+    "answer": "ISOPRENE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the Joint Genome Institute are investigating causes of cell death. What term is given to the number of times cells can divide in their lifetime, largely attributed to the shortening of telomeres after each division?",
+    "answer": "HAYFLICK LIMIT"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cells has the lowest surface area to volume ratio?",
+    "choices": {
+      "W": "Streptococcus",
+      "X": "Simple cuboidal epithelial cell",
+      "Y": "Neuron",
+      "Z": "Pseudostratified columnar cell"
+    },
+    "answer": "W) STREPTOCOCCUS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding bacteria: 1) Proteobacteria have lipopolysaccharides attached to an outer membrane; 2) Spirochetes move using many cilia that beat at different phases; 3) Filamentous cyanobacterial units have special Nitrogen-fixing cells called hemocytes.",
+    "answer": "1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In terms of the reduced Planck constant, h-bar, what is the angular momentum of a 5s-electron?",
+    "answer": "0"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "According to MO theory, identify all of the following three molecules that are predicted to be paramagnetic: 1) CN minus; 2) NO; 3) S₂.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A parabolic mirror is located in the $xy$ -plane, and light is shone on the mirror parallel to the $y$ -axis. If the mirror is given by the equation $y$ equals one-eighth times open parenthesis $x$ minus 6 close parenthesis squared plus 4, find the distance from the point where all the light meets to the $x$ -axis.",
+    "answer": "6"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 5-inch tall object is placed on the principal axis 10 centimeters away from a convex lens with a focal length of 15 centimeters. Find the height of the image in feet.",
+    "answer": "1.25"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the fifth term in the Look-and-Say Sequence, which has the first four terms as follows: 1, 11, 21, and 1211?",
+    "answer": "111221"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A rectangle ABCD with AB and CD equal to 3 and BC and AD equal to 2, has point E on AB that is one unit away from point A, point F on AB that is one unit away from point B, and point G on AD that is one unit away from point A. What is the circumradius of the triangle EFG?",
+    "answer": "$\\qrt{10}/2$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of these currents of the South Atlantic Gyre is likely to be the strongest current of the system?",
+    "choices": {
+      "W": "Brazil Current",
+      "X": "Antarctic Circumpolar Current",
+      "Y": "Benguela Current",
+      "Z": "South Equatorial Current"
+    },
+    "answer": "W) BRAZIL CURRENT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What effect, predicted by Einstein’s general theory of relativity, explains why objects within the ergosphere cannot appear stationary when observed externally due to the twisting of spacetime?",
+    "answer": "LENSE-THIRRING EFFECT"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Providing your answer as a percentage of V max, what is the velocity of a reaction when the substrate concentration is three times the Michaelis constant?",
+    "answer": "$75\\$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Ms. Allen is attempting to design an enzyme inhibitor that will help treat breast cancer. Which enzyme should she target?",
+    "choices": {
+      "W": "Catalase",
+      "X": "Phosphofructokinase",
+      "Y": "Aromatase",
+      "Z": "DNA Polymerase"
+    },
+    "answer": "Y) AROMATASE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following quantum numbers is the quantum harmonic oscillator the most similar to a classical harmonic oscillator?",
+    "choices": {
+      "W": "1",
+      "X": "4",
+      "Y": "9",
+      "Z": "16"
+    },
+    "answer": "Z) 16"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A positively charged ball is bouncing down an infinitely long ramp angled 30 degrees from the horizontal. An electric field parallel to the plane of the ramp that is directed down the ramp is then turned on. How do the time and distance between consecutive bounces change, respectively?",
+    "answer": "STAYS THE SAME, INCREASES"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "According to the Lewis model, boron trifluoride has a bond order of 1. However, this is not true, and different approaches, including MO theory, have shown that BF3 has what bond order?",
+    "choices": {
+      "W": "1/3",
+      "X": "2/3",
+      "Y": "4/3",
+      "Z": "5/3"
+    },
+    "answer": "4/3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following statements that are true concerning the relative acidity of organic molecules: 1) Protons on double bonds are more acidic than protons on triple bonds; 2) A proton bonded to oxygen is more acidic than a proton bonded to sulfur; 3) The proton in acetic acid is more acidic than the proton in ethanol.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Olympus Mons is the tallest planetary mountain discovered. Which of the following mechanisms is thought to have allowed Olympus Mons to attain its height?",
+    "choices": {
+      "W": "Tectonic uplift over millions of years combined with a lack of erosion by water",
+      "X": "An impact by a foreign celestial body, forcing the crust upward",
+      "Y": "A lack of mobile tectonic plates, allowing a volcano to sit over a hot spot",
+      "Z": "A lack of sufficient gravity to flatten Olympus Mons since the planets formed"
+    },
+    "answer": "Y) A LACK OF MOBILE TECTONIC PLATES, ALLOWING A VOLCANO TO SIT OVER A HOT SPOT"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Tolman-Oppenheimer-Volkoff limit, or TOV limit, denotes the maximum mass a cold, non-rotating neutron star can have. One of the steps in calculating the TOV limit is finding the pressure needed to resist gravity. What theorem relates the average total kinetic energy of a system of particles bound by gravity to its potential energy, which finds the pressure needed to resist gravity?",
+    "answer": "VIRIAL THEOREM"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Livermore National Lab are using superconducting sensors to detect the results of the electron capture decay of beryllium-7. It is theorized to decay into lithium-7 and what other hypothetical lepton that only interacts with matter via gravity?",
+    "answer": "STERILE NEUTRINO"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Johns Hopkins University in partnership with the Department of Energy have discovered an electronic polymer composed of ringed molecules attached to a backbone that allows for electron flow. What phenomenon occurs in aromatic molecules such as benzene when a magnetic field is applied perpendicular to the plane, creating an induced field due to delocalized electrons and resulting in large H1-NMR shifts?",
+    "answer": "RING CURRENT"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many distinct two-letter words can be formed by choosing two of the letters in N-A-V-E-E-N?",
+    "answer": "14"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Which of the following statements regarding binomial distributions is TRUE?",
+    "choices": {
+      "W": "They can be approximated by normal curves in certain conditions.",
+      "X": "A binomial random variable can have 3 possible values.",
+      "Y": "Binomial distributions are always symmetric.",
+      "Z": "Binomial distributions occur when each trial has an effect on all subsequent trials"
+    },
+    "answer": "W) THEY CAN BE APPROXIMATED BY NORMAL CURVES IN CERTAIN CONDITIONS."
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A parallel plate capacitor is in series with a battery. The distance between its plates is then doubled, and it disconnects from the battery. The distance between the plates now goes back to what it was originally. Which of the following best describes how the charge on the plates changes?",
+    "choices": {
+      "W": "It doubles and then halves",
+      "X": "It doubles and then stays the same",
+      "Y": "It halves and then doubles",
+      "Z": "It halves and then stays the same"
+    },
+    "answer": "Z) IT HALVES AND THEN STAYS THE SAME"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A series AC circuit is made of a resistor, a capacitor, and an inductor. Identify all of the following four quantities in which an increase will always result in the maximum current through the circuit being increased: 1) Resistance; 2) Capacitance; 3) Inductance; 4) Resonant frequency.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Atomic orbitals are described by wavefunctions, which themselves can be described by the products of radial and angular wavefunctions. Identify all of the following four quantum numbers that are needed to describe an angular wavefunction: 1) principal quantum number; 2) orbital angular momentum quantum number; 3) magnetic quantum number; 4) spin magnetic quantum number.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding crystal field theory: 1) The d-orbital splitting energy in octahedral complexes is higher than in tetrahedral complexes; 2) In an octahedral complex, there are $3 \\athrm{e_g}$ orbitals and $3 \\athrm{t_{2g}}$ orbitals; 3) Tetrahedral complexes are always diamagnetic.",
+    "answer": "1"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What type of cells in the kidney release renin as a result of decreased blood pressure?",
+    "answer": "JUXTAGLOMERULAR CELLS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the enzyme known for its role in converting Angiotensin I to Angiotensin II?",
+    "answer": "ANGIOTENSIN-CONVERTING ENZYME"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding kilonovae is NOT true?",
+    "choices": {
+      "W": "They produce gamma ray bursts",
+      "X": "They are formed from mergers between neutron stars or black holes",
+      "Y": "They result in the formation of heavy metals like gold and platinum",
+      "Z": "Their gravitational waves are outside the range of frequencies LIGO can detect"
+    },
+    "answer": "Z) THEIR GRAVITATIONAL WAVES ARE OUTSIDE THE RANGE OF FREQUENCIES LIGO CAN DETECT"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains the formation of Hirayama families, which are groups of asteroids with similar orbital and compositional properties?",
+    "choices": {
+      "W": "Geologic overactivity causes a parent asteroid to form internal cracks that split apart over time",
+      "X": "Orbital resonance locks the asteroid family into a particular orbit",
+      "Y": "A catastrophic collision causes the fragmentation of a parent asteroid",
+      "Z": "Gravitational perturbation from Jupiter drags objects from the Kuiper belt into different orbits"
+    },
+    "answer": "Y) A CATASTROPHIC COLLISION CAUSES THE FRAGMENTATION OF A PARENT ASTEROID"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Brookhaven National Lab have been researching hydrogen fuel cells. One type of hydride used as a storage method for hydrogen to be used in fuel cells is an interstitial hydride. Which of the following elements can form an interstitial hydride?",
+    "choices": {
+      "

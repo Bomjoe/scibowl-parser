@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify the following which are stimulated by luteinizing hormones.",
+    "answer": "3 AND 4"
+  },
+  {
+    "question_number": 1,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Shown on the image is a structure that regulates the production of insulin, glucagon, and somatostatin. Answer the following 2 questions regarding the image: \n\n1) What is the name for this structure? \n2) What cells is it primarily composed of?",
+    "answer": "ISLETS (ISLANDS) OF LANGERHAN and BETA CELLS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a warm-water ocean current?",
+    "choices": {
+      "W": "Antarctic Circumpolar Current",
+      "X": "Peru Current",
+      "Y": "Kuroshio Current",
+      "Z": "Benguela Current"
+    },
+    "answer": "Y) KUROSHIO CURRENT"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 ores that commonly occur in hydrothermal deposits: 1) galena; 2) pyrolusite; 3) hematite.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the half derivative of $x^2$?",
+    "answer": ""
+  },
+  {
+    "question_number": 3,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify the name of the knot that is shown in this image:",
+    "answer": "Square Knot"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider an infinite square potential well with a zero point energy of 25 electron Volts. How many total energy levels are there with an energy below 650 electron Volts?",
+    "answer": "5"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A train of proper length L is traveling at a speed of 0.96c. Two clocks are placed on the train, one in the front and one in the rear. In terms of L and c, what is the difference in times shown on the two clocks as measured by an external observer?",
+    "answer": "24L/25c"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true regarding the Michael Reaction?",
+    "choices": {
+      "W": "It utilizes the Grignard Reagent",
+      "X": "It is a conjugate addition",
+      "Y": "The Michael Donor is generally an unsaturated carbonyl",
+      "Z": "The Michael Acceptor is generally an enolate"
+    },
+    "answer": "X) It is a conjugate addition"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is INCORRECT regarding the Gilman's Reagent?",
+    "choices": {
+      "W": "They contain both lithium and copper",
+      "X": "They can convert an acid halide to an alcohol",
+      "Y": "Their R group can be a vinyl",
+      "Z": "They attack the $\\eta$ position of an $\\lpha ,\\eta$ -unsaturated ketone"
+    },
+    "answer": "X) They can convert an acid halide to an alcohol"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Ames Lab physicists often represent delocalized electrons in a model in which free electrons interact with a uniform background positive charge, as well as with themselves. What model, which does not introduce the atomic lattice, do they use?",
+    "answer": "Jellium; uniform/homogenous electron gas"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Ames Lab physicists theorize that a star's mass has a theoretical upper limit at which the star's outward radiation pressure balances its inward gravitational force. What limit do they theorize?",
+    "answer": "Eddington mass limit"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding RNA splicing?",
+    "choices": {
+      "W": "Group I introns require a guanine nucleoside to carry out self-splicing",
+      "X": "Group II introns are self-splicing but do not form a lariat-like structure",
+      "Y": "Group III introns form a lariat-like structure catalyzed by the spliceosome",
+      "Z": "Group I and II introns are present in bacteria"
+    },
+    "answer": "X) Group II introns are self-splicing but do not form a lariat-like structure"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are NOT true regarding phospholipid transporters: 1) Flippases catalyze the movement of amino-phospholipids preventing apoptosis; 2) Flippases are P-type ATPases while Floppases are ABC transporters; 3) Floppases catalyze the movement of lipids from the outer to cytosolic leaflet.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Armaan is studying a star that exhibits strong absorption bands of Titanium Oxide in its spectrum. What is the most likely spectral classification of this star?",
+    "answer": "M"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are generally true about asteroids in Hirayama families: \n\n1) They have similar semimajor axes; \n2) They have similar orbital eccentricities; \n3) They have similar orbital periods.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the multiplicative order of 2 modulo 5?",
+    "answer": "4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What mathematical term refers to the local properties of functions, is defined as all values of f(x) for all x in a closed set Z, and uniquely determines analytic functions?",
+    "answer": "Germ"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The theta meson is composed of what quark and its antiparticle, theorized to never be observed in nature because its components decay too fast?",
+    "choices": {
+      "W": "Up",
+      "X": "Down",
+      "Y": "Bottom",
+      "Z": "Top"
+    },
+    "answer": "Z) Top"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What meson mediates the strong force in the nucleus of an atom?",
+    "answer": "Pion"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following rate-determining steps will result in the most negative Hammett reaction constant, $\\ho$?",
+    "choices": {
+      "W": "Nucleophilic attack on a carbonyl group",
+      "X": "Nucleophilic aromatic substitution by addition-elimination mechanism",
+      "Y": "Formation of cationic ring during Electrophilic Aromatic Substitution",
+      "Z": "Pericyclic reactions with no charge accumulation"
+    },
+    "answer": "Y) Formation of cationic ring during Electrophilic Aromatic Substitution"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following which are TRUE regarding diazomethane. \n\n1) Reactions with diazomethane generally involve a dinitrogen leaving group \n2) Diazomethane can be used to produce a methyl ester from a carboxylic acid \n3) The photolysis of diazomethane can directly produce a carbene",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Argonne Lab scientists research a flavorless meson constituted of a heavy quark and its own antiquark. What quasiparticle, which is both a neutral particle and its own antiparticle, do they observe?",
+    "answer": "Quarkonium"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Argonne Lab scientists work with excited atoms with very high principal quantum numbers, giving them abnormal qualities such as exaggerated response to electric and magnetic fields. What types of atoms do they encounter?",
+    "answer": "Rydberg atom"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all the following that are correct regarding the perception of gravity by plants. \n\n1) In roots, the perception of gravity correlates to the sedimentation of specialized amyloplasts known as statoliths \n2) Statocytes are localized in the columella of the root cap \n3) In stems, the perception of gravity is carried out by the starch sheath",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is generally NOT true regarding molluscs?",
+    "choices": {
+      "W": "Molluscs have a closed circulatory system",
+      "X": "Molluscs use the radula, a straplike organ, used to collect food",
+      "Y": "Molluscs contain a water-filled cavity holding the anus and gills",
+      "Z": "Molluscs contain a nerve ring around the esophagus, from where the nerves extends"
+    },
+    "answer": "W) Molluscs contain a closed circulatory system"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What unit is defined as the resulting height if all of a trace gas in a column of Earth's atmosphere was collected, and is commonly used to measure the thickness of the ozone layer?",
+    "answer": "DOBSON UNIT (ACCEPT: DOBSON)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Deccan Traps of India are an example of what igneous structure, that is formed from the bulbous head of a mantle plume?",
+    "answer": "FLOOD BASALT (ACCEPT: PLATEAU BASALT)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "In hyperbolic geometry, for a line L, a point P not on L, and a plane containing both L and P, which of the following is always true?",
+    "choices": {
+      "W": "There are at least 3 distinct lines through P parallel to L",
+      "X": "There are at least 2 distinct lines through P parallel to L",
+      "Y": "There are at most 3 distinct lines through P parallel to L",
+      "Z": "There are at most 2 distinct lines through P parallel to L"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "John will arrive at the airport in t minutes, where t is chosen uniformly and at random from the closed interval [0, 100]. John’s plane will take off in minutes, where x is chosen uniformly and at random from the closed interval [0, 10]. What is the probability that John will arrive in time to catch his flight?",
+    "answer": ""
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What region in a bipolar junction transistor is analogous to the gate in a field effect transistor?",
+    "answer": "Base"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true about semiconductors: \n\n1) The Fermi-Dirac distribution function dictates the probability that a certain fermion occupies a state with a particular energy \n\n2) The density of electron states is zero between the conduction and valence bands \n\n3) Doping a semiconductor will result in a change in its Fermi energy",
+    "answer": "All"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all the following procedures that are known to increase semiconductor conductivity, 1) Doping with impurities; 2) Increasing semiconductor temperature; 3) Gating with electric fields",
+    "answer": "All"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Alice is searching through his lab desk and he finds an old lab procedure involving the formation of esters from ketones. She later finds that this reaction requires the use of a peroxy acid to help insert an oxygen atom into the ketone. Which of the following processes is the process described by the lab manual?",
+    "choices": {
+      "W": "Baeyer-Villiger Oxidation",
+      "X": "Fischer Esterification",
+      "Y": "Claisen Condensation",
+      "Z": "Wittig Reaction"
+    },
+    "answer": "W) Baeyer-Villiger Oxidation"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "In 2011, LHC scientists successfully created what dense state of matter, which contains free colour charges and is believed to have permeated the universe fractions of a second after the Big Bang?",
+    "answer": "Quark-gluon plasma"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Lawrence Berkeley Lab cosmologists believe there to be a web of plasma that exists between galaxies, currently containing 40-50% of the universe's baryons. What medium, which is a proposed solution to the missing baryon problem, do they believe in?",
+    "answer": "Warm-hot intergalactic medium"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 choices that are true regarding antibodies: \n\n1) IgG and IgM antibodies provide the biggest specific immunity against bacteria \n2) IgA antibodies is secreted by mammary glands and line genitourinary tracts \n3) IgE antibodies participate in defenses against multicellular parasites",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 19,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Alice notices that during Western Blotting, her sample lanes begin to greatly widen. Identify which of the following 4 choices CAN be attributed to this widening. \n\n1) Excess Sodium Chloride during Gel Electrophoresis \n2) Excess SDS detergent during Gel Electrophoresis \n3) Excess Primary Antibody present during blotting \n4) Excess Radioimmunoprecipitation (RIPA) buffer present",
+    "answer": "1, 2 AND 4"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "How many times greater is the lifetime of a main-sequence star of 4 solar masses than one of 16 solar masses?",
+    "answer": "32"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "According to Kramer’s law of opacity, which of the following conditions will produce the greatest opacity?",
+    "choices": {
+      "W": "Low temperature, high density",
+      "X": "Low temperature, low density",
+      "Y": "High temperature, high density",
+      "Z": "High temperature, low density"
+    },
+    "answer": "Z) HIGH TEMPERATURE, LOW DENSITY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Let f(x) denote the number of positive integers less than or equal to x that are relatively prime to x. What is ?",
+    "choices": {
+      "W": "76",
+      "X": "77",
+      "Y": "78",
+      "Z": "70"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the antiderivative with respect to x of",
+    "answer": ""
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Both hadrons and leptons typically follow Fermi-Dirac statistics, which is governed by the Fermi function. The Fermi function at a certain energy has a dependence on what intrinsic physical quantity, usually referring to the energy difference between the highest and lowest occupied single-particle states in a quantum system?",
+    "answer": "Fermi energy (ACCEPT: Fermi level, band gap)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If a loop of conducting wire is traveling at speed v parallel to an infinitely long wire carrying current I, what direction is the current in the wire?",
+    "choices": {
+      "W": "Clockwise",
+      "X": "Counter-clockwise",
+      "Y": "Either clockwise or counter-clockwise depending on the values of v and I",
+      "Z": "There is no current in the wire"
+    },
+    "answer": "Z) There is no current in the wire"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the following 4 choices which are INCORRECT regarding the polymers produced by plasma polymerization. \n\n1) These polymers are characterized by a high degree of crosslinking \n2) These polymers contain repeating subunits \n3) These polymers are generally soluble \n4) These polymers generally contain free radicals",
+    "answer": "1 and 4"
+  },
+  {
+    "question_number": 23,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the following 3 reagents which can be used as a reagent to carry out the reaction above. \n\n1) Pyridine \n2) Lithium carbonate \n3) Potassium tert-butoxide",
+    "answer": "ALL"
+  }
+]

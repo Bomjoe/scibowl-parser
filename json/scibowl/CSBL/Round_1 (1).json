@@ -1,0 +1,402 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quantities best describes the amount of energy required to increase 1 gram of water by 1 degree celsius?",
+    "choices": {
+      "W": "Specific heat",
+      "X": "Heat capacity",
+      "Y": "Joule",
+      "Z": "Calorie"
+    },
+    "answer": "Z) CALORIE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quantities best describes the amount of energy required to increase 1 gram of water by 1 degree celsius?",
+    "choices": {
+      "W": "Specific heat",
+      "X": "Heat capacity",
+      "Y": "Joule",
+      "Z": "Calorie"
+    },
+    "answer": "Z) CALORIE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following polyhedra does not have 6 vertices?",
+    "choices": {
+      "W": "Triangular prism",
+      "X": "Octahedron",
+      "Y": "Pentagonal pyramid",
+      "Z": "Cube"
+    },
+    "answer": "Z) CUBE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A pair of integers has a sum of 2 and a product of negative fifteen. What is the square of the smaller of the two numbers?",
+    "answer": "9"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Transpiration rate in plants is often higher during the day when compared to the evening due to the opening of pores on the surface of the leaf that regulate for gas exchange. What is the name of these pores?",
+    "answer": "STOMATA"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "The peripheral nervous system describes the nervous system outside of what two organs?",
+    "answer": "BRAIN AND SPINAL CORD"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "When a meteoroid is coming in at fast speeds, it compresses the air in front of it, heating it hugely. In what atmospheric layer do most meteoroids burn up?",
+    "choices": {
+      "W": "Troposphere",
+      "X": "Stratosphere",
+      "Y": "Mesosphere",
+      "Z": "Thermosphere"
+    },
+    "answer": "Y) MESOSPHERE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 rocks that could serve as an aquitard: 1) Shale; 2) Gravel; 3) Sand.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What theorem states that the number of total roots, including multiplicity, of a polynomial is equal to its degree?",
+    "answer": "FUNDAMENTAL THEOREM OF ALGEBRA"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A point in the first quadrant is rotated 180 degrees about the origin, and then reflected across the y-axis. In what quadrant will the transformed point lie?",
+    "answer": "4"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "An object of mass 5 kilograms initially has a momentum of 16 kilogram meters per second. A constant force is then applied to this body such that after 3 seconds of it being applied, the object now has a momentum of 31 kilogram meters per second. What must be the magnitude, in newtons, of this force?",
+    "answer": "5"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "A bumper car is initially moving at a velocity of positive 5 meters per second when it collides with another bumper car of velocity negative 9 meters per second. If the two cars are of equal mass and stick together after collision, what is the velocity, in meters per second, of the two cars after collision?",
+    "answer": "-2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Ames National Lab are studying the excitation of the hydrogen atom in the proton-proton chain. When an electron in its smallest and most tightly bound orbit is in its lowest permitted energy level, what name is given to the atom's energy level?",
+    "choices": {
+      "W": "Ground state",
+      "X": "Stable state",
+      "Y": "Dormant state",
+      "Z": "Ionic state"
+    },
+    "answer": "W) GROUND STATE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Livermore National Lab are studying the potential uses of hydrogen fluoride in silicon semiconductor chips. In the synthesis of hydrogen fluoride, 2 hydrogen and 2 fluorine atoms are synthesized, with fluoride transferring an electron to the hydrogen atom. This is an example of what type of chemical reaction which involves the transfer of electrons between two species?",
+    "answer": "REDOX REACTION"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Joe is trying to determine the age of a tree by observing the trunk's rings. Which of the following tissue rings would help Joe determine the age of the tree?",
+    "choices": {
+      "W": "Phloem",
+      "X": "Xylem",
+      "Y": "Pith",
+      "Z": "Heartwood"
+    },
+    "answer": "X) XYLEM"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the purpose of crossing over?",
+    "choices": {
+      "W": "Homologous pairs are aligned evenly for cytokinesis",
+      "X": "Strengthening of chromosomes to ensure safety",
+      "Y": "Increases the relative frequency of alleles",
+      "Z": "Ensures genetic variation among offspring"
+    },
+    "answer": "Z) ENSURES GENETIC VARIATION AMONG OFFSPRING"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following laws of planetary motion states that the cube of a planet's distance to the sun is proportional to the square of the planet's orbital period?",
+    "choices": {
+      "W": "Kepler's second law",
+      "X": "Kepler's third law",
+      "Y": "Newton's first law",
+      "Z": "Newton's fourth law"
+    },
+    "answer": "X) KEPLER'S THIRD LAW"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following constellations would one expect to find the star Pollux?",
+    "choices": {
+      "W": "Ursa major",
+      "X": "Taurus",
+      "Y": "Gemini",
+      "Z": "Sagittarius"
+    },
+    "answer": "Y) GEMINI"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the largest prime factor of 238?",
+    "choices": {
+      "W": "2",
+      "X": "7",
+      "Y": "13",
+      "Z": "17"
+    },
+    "answer": "Z) 17"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many possible integer side lengths are possible for the third side of a triangle, given that the other two sides are of length 11 and 14?",
+    "answer": "21"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following laws states that the entropy of the universe always increases?",
+    "choices": {
+      "W": "Newton's Third Law",
+      "X": "Second Law of Thermodynamics",
+      "Y": "Huygens Principle",
+      "Z": "Stefan-Boltzmann Law"
+    },
+    "answer": "X) SECOND LAW OF THERMODYNAMICS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "Name all of the following 3 statements that must be true of an adiabatic process: 1. The change in heat of the system is zero 2. No net work is done by the system 3. The internal energy of the system decreases",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at the Joint Genome Institute have been investigating molecular differences between DNA and RNA. Which of the following best describes DNA and RNA?",
+    "choices": {
+      "W": "DNA is single-stranded, while RNA is double-stranded",
+      "X": "DNA is double-stranded, while RNA is single-stranded",
+      "Y": "Both DNA and RNA are single-stranded",
+      "Z": "Both DNA and RNA are double-stranded"
+    },
+    "answer": "X) DNA IS DOUBLE-STRANDED, WHILE RNA IS SINGLE-STRANDED"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Joint Genome Institute have been investigating translation of RNA into amino acids. How many nucleotides constitute a codon?",
+    "answer": "3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "A three-dimensional work formed by microfilaments within the plasma membrane are responsible for cell motility. Within microfilaments, what two proteins interact to cause contractions in muscle cells?",
+    "answer": "ACTIN AND MYOSIN"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 physiological actions that you observe in a plant whose cells are in a hypertonic solution: 1) Wilting; 2) Cells become flaccid; 3) Cells become turgid; 4) Plasmolysis.",
+    "answer": "1, 2, AND 4"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of front forms when two air masses are pushing against each other but neither is powerful enough to move another, forming a motionless boundary?",
+    "answer": "STATIONARY FRONT"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding globular clusters?",
+    "choices": {
+      "W": "All stars in globular clusters are born at around the same time",
+      "X": "Stars within globular clusters tend to have heavier elements due to their size",
+      "Y": "Globular clusters tend to appear red because of their old age",
+      "Z": "Globular clusters are generally bigger than open clusters"
+    },
+    "answer": "X) STARS WITHIN GLOBULAR CLUSTERS TEND TO HAVE HEAVIER ELEMENTS DUE TO THEIR SIZE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of 25 modulo 4?",
+    "answer": "1"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers is coprime to 9?",
+    "choices": {
+      "W": "3",
+      "X": "5",
+      "Y": "6",
+      "Z": "15"
+    },
+    "answer": "X) 5"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "What type of interference, commonly used by noise-cancelling headphones, occurs when the resultant wave has a lesser amplitude than either of the interacting waves?",
+    "answer": "DESTRUCTIVE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "What is the speed, in meters per second, of a wave with a frequency of 30 hertz and wavelength of 8 meters?",
+    "answer": "240"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the USGS are studying how climatic warming since the end of the Little Ice age has caused substantial glacier ice loss. Some glaciers lose chunks of ice in a process called calving. What is the name for these large pieces of ice that have separated from the glacier?",
+    "answer": "ICEBERGS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at the University of Chicago are researching cosmic background radiation and how it supports the theory of the Big Bang. This leftover background radiation would be best observed by which of the following telescopes?",
+    "choices": {
+      "W": "Compton gamma ray observatory",
+      "X": "Chandra x-ray observatory",
+      "Y": "Herschel space observatory",
+      "Z": "Wilkinson microwave anisotropy probe"
+    },
+    "answer": "Z) WILKINSON MICROWAVE ANISOTROPY PROBE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "A scientist looking at an animal cell population under a microscope sees the formation of a cleavage furrow. During what phase of mitosis does the cell create a cleavage furrow?",
+    "answer": "CYTOKINESIS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions would not be possible in a cell if it lacked centrioles?",
+    "choices": {
+      "W": "Synthesis of new proteins",
+      "X": "Breaking down of carbohydrates",
+      "Y": "Nuclear division",
+      "Z": "DNA synthesis"
+    },
+    "answer": "Y) NUCLEAR DIVISION"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the quantity that describes the reflectiveness of a celestial object?",
+    "answer": "ALBEDO"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following parameters modifies the wavelength of the blackbody radiation?",
+    "choices": {
+      "W": "L

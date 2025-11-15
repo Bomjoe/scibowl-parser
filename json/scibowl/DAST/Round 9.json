@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following vectors is perpendicular to the plane defined by the equation $x - 2y + 3z = 6$?",
+    "choices": {
+      "W": "$2\\athrm{j} - \\athrm{k}$",
+      "X": "$3\\athrm{i} - 2\\athrm{j} + 4\\athrm{k}$",
+      "Y": "$-2\\athrm{i} + 4\\athrm{j} - 6\\athrm{k}$",
+      "Z": "$\\athrm{i} + 2\\athrm{j} + 3\\athrm{k}$"
+    },
+    "answer": "$-2\\athrm{i} + 4\\athrm{j} - 6\\athrm{k}$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given a sphere with the equation $x^2 + y^2 + z^2 = 9$, what is the equation for a plane tangent to this sphere at the point $(1, 2, 2)$?",
+    "answer": "$x + 2y + 2z = 9$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many hydrogen atoms are in the molecule cyclohexanone?",
+    "answer": "10"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four species that are electrophiles: 1) Enolates; 2) $H^+$; 3) Water; 4) Carbenium.",
+    "answer": "2 AND 4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An ammeter of a low resistance of $0.1\\\\mega$ is used to measure the current through a $10\\\\mega$ resistor. The ammeter is placed with the resistor in series, and the system is then connected to an ideal battery of $100\\\\text{volts}$. Find the current measured by the ammeter to the nearest tenth of an ampere.",
+    "answer": "9.9"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a possible consequence of the third law of thermodynamics?",
+    "choices": {
+      "W": "There cannot exist any ideal gas as the temperature approaches $0\\\\text{Kelvin}$",
+      "X": "It is impossible to reach absolute zero",
+      "Y": "Heat capacities must approach zero as temperature approaches zero",
+      "Z": "It requires the sign of the entropy of an object with a temperature greater than absolute zero to be non-negative"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What molecule serves as a co-repressor in the trp operon?",
+    "answer": "TRYPTOPHAN"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What protein produced in the ileum plays a pivotal role in appetite suppression?",
+    "answer": "PEPTIDE YY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Roche lobe is the region of a star in a binary system where material inside the star is bound to it by gravity. If material from one star in a binary system passes the Roche lobe of another star, it will flow to that star. Which phenomenon is NOT likely to result from this type of interaction?",
+    "choices": {
+      "W": "Starquakes",
+      "X": "Millisecond pulsars",
+      "Y": "Soft x-ray transients",
+      "Z": "Cataclysmic variables"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rishab points his telescope toward an interesting star he noticed in the night sky. Equipped with a spectrometer, he analyzes the spectrum produced by the star and notices strong lines corresponding to the compound titanium oxide, or $\\athrm{TiO_2}$. Which of the following spectral classes can the star likely be classified as?",
+    "answer": "Z"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Sandia National Labs are studying commercial chemical processes that may be helpful in producing compounds that extinguish chemical fires. What is the term for the process by which esters can be converted into carboxylic acids after treatment with sodium hydroxide and an acid?",
+    "answer": "SAPONIFICATION"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Sandia National Labs are studying the molecular makeup of plasma membranes. What is the term for groups of lipids found in membrane regions where clusters of specialized proteins performing common functions congregate?",
+    "answer": "LIPID RAFTS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Line $l$ can be parameterized as $x = 2t$, $y = 3t + 2$, and $z = -5t + 8$. In simplest radical form, what is the distance between the points on the line where $t = 3$ and where $t = 5$?",
+    "answer": "$2\\qrt{38}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the number of solutions in the interval $[0, 2\\i]$ such that $\\ec x + \\tan x = 2\\os x$.",
+    "answer": "2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the net change in the number of pi-bonds in a cycloaddition?",
+    "choices": {
+      "W": "-2",
+      "X": "-1",
+      "Y": "1",
+      "Z": "2"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why the $d_{z^2}$ atomic orbital does not have the normal clover shape that the rest of the $d$-orbitals have?",
+    "choices": {
+      "W": "$d_{z^2}$ has a radial wavefunction that is partly imaginary, while the other $d$-orbitals have completely real radial wavefunctions",
+      "X": "$d_{z^2}$ has a radial wavefunction that is completely real, while the other $d$-orbitals have partly imaginary wavefunctions",
+      "Y": "$d_{z^2}$ has an angular wavefunction that is partly imaginary, while the other $d$-orbitals have completely real radial wavefunctions",
+      "Z": "$d_{z^2}$ has an angular wavefunction that is completely real, while the other $d$-orbitals have partly imaginary wavefunctions"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Dylan is studying the types of binary star systems using the Kepler telescope. He notices two main sequence stars orbiting each other in an elliptical path. After some observation, he realizes that the less massive star is more advanced in the stellar life cycle. What type of binary star system is this?",
+    "choices": {
+      "W": "Algol-type binary",
+      "X": "Cataclysmic variables",
+      "Y": "Symbiotic binary",
+      "Z": "X-Ray binary"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Star A has an absolute magnitude of 4, while star B has an absolute magnitude of $-6$. If star B's radius is five times that of star A, then to the nearest tenth, by what factor is star B's temperature larger than star A's temperature?",
+    "answer": "4.5"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four particles that are pseudoscalar mesons: 1) pion; 2) omega meson; 3) phi meson; 4) eta meson.",
+    "answer": "1 AND 4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In the hypothetical nuclear reaction where two up quarks and a strange quark turn into a proton and an electron antineutrino, identify all of the following four properties that are not conserved: 1) charge; 2) mass; 3) baryon number; 4) lepton number.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three solutions in order of increasing solute potential assuming that they all are at the same temperature: 1) 2 Molar Sucrose; 2) 1 Molar Sodium Phosphate; 3) 3 Molar Glucose.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Assume round is dominant to wrinkled, and tall is dominant to short. A pea plant homozygous dominant for shape and height is crossed with a short and wrinkled pea plant. The offspring are allowed to self-pollinate. An F2 offspring contains two peas in a pod. What is the probability that one pea is round and tall and the other is short and wrinkled?",
+    "answer": "9/128"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "In order to manipulate silicon-based nanomaterials, researchers at Brookhaven National Lab have been studying the quantum confinement of the surface and bulk variants of what collective oscillations of electrons?",
+    "choices": {
+      "W": "Excitons",
+      "X": "Phonons",
+      "Y": "Polaritons",
+      "Z": "Plasmons"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Sandia National Labs are studying how to switch on Iron three ions in the octahedral sheet of an iron-containing phyllosilicate. Identify which of the following three minerals are phyllosilicates: 1) mica; 2) chlorite; 3) biotite",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Mississippi River’s discharge into the ocean is larger than the ocean’s input into the river. Which of the following features does the Mississippi River have as a result of this?",
+    "choices": {
+      "W": "Strong tidal currents",
+      "X": "Lack of vertical salinity gradient",
+      "Y": "Salt wedge",
+      "Z": "Thorough mixing of water horizontally"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Answer the following three questions about this image: 1) What process is shown in this image?; 2) States such as Wisconsin, Michigan, and New York are greatly impacted by this process. Choosing from north, east, south, or west, what direction relative to a body of water receives the heaviest snowfall from this process in this region?; 3) By name or number, identify all of the following that would be conducive to this process: 1) atmospheric instability, 2) directional shear, 3) significantly colder air aloft",
+    "answer": "1) LAKE-EFFECT SNOW 2) EAST 3) 1 AND 3 ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Bempedioic acid is a non-statin compound that is used to inhibit the synthesis of LDL cholesterol by blocking ATP citrate lyase, an enzyme that converts citrate to acetyl-CoA so that it can be used in the mevalonate pathway. However, statins act farther downstream in the pathway, blocking the conversion of what molecule into mevalonate?",
+    "answer": "HMG-CoA"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding hemoglobin oxygen dissociation curves is incorrect?",
+    "choices": {
+      "W": "High $CO_2$ concentrations lead to a left-shifted curve",
+      "X": "High $2,3$-BPG concentrations lead to a right-shifted curve",
+      "Y": "Use of Fetal Hemoglobin leads to a right-shifted curve",
+      "Z": "High temperature leads to a right-shifted curve"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which statement in organic chemistry predicts that, in endergonic reactions, the geometry of the transition state will closely resemble the geometry of the product?",
+    "answer": "HAMMOND'S POSTULATE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding the acid-catalyzed ring-opening of epoxides is false?",
+    "choices": {
+      "W": "Nucleophiles will preferentially attack a secondary carbon over a primary carbon",
+      "X": "When water is the nucleophile, sulfuric acid is a commonly used catalyst",
+      "Y": "The mechanism proceeds first through proton transfer and then via a nucleophilic substitution",
+      "Z": "There is stereochemical inversion about chiral centers"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Akul wants to evaluate the Gaussian integral by switching from rectangular to polar coordinates. By what mathematical object should he multiply his integral in order to properly scale to the new coordinate system?",
+    "answer": "JACOBIAN DETERMINANT"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $\\athbf{F}$ be a 3-D vector field such that $\\athbf{F}(x,y,z) = (y + z)\\athbf{i} + (x - z)\\athbf{j}+ (y - x)\\athbf{k}$. Find the curl of $\\athbf{F}$",
+    "answer": "$2\\athbf{i} + 2\\athbf{j} + 0\\athbf{k}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Water fills a cylindrical can to its top. The can is then rotated at some angular velocity about its center axis. If water is allowed to spill from the top of the can, which of the following best describes the shape of the surface of the water after a long time?",
+    "choices": {
+      "W": "Hyperboloid",
+      "X": "Ellipsoid",
+      "Y": "Paraboloid",
+      "Z": "Sphere"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A car travels around a curve with a radius of $98\\\\text{meters}$. The car contains a container with some fluid in it. When it moves around the curve, the surface of the fluid makes a $45^\\irc$ angle with the horizontal. If $g$ is $9.8\\\\text{m/s}^2$, at what speed, to the nearest integer, is the car travelling around the curve?",
+    "answer": "31"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Lab’s Center for Functional Nanomaterials need precise equipment in order to study the binding of SARS-CoV-2 to cells and find a way to inhibit it. In order to accomplish this, they are using what microscopic technique that uses a usually pyramidal-shaped tip attached to a cantilever that can very finely scan surfaces?",
+    "answer": "ATOMIC FORCE MICROSCOPY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab have been studying the binding ability of antibody-mimetic peptoid nanosheets. For example, they created a gold-peptoid-gold composite that can serve as a miniature version of what electronic device utilized for its rapid charging and discharging ability?",
+    "answer": "SUPERCAPACITOR"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Jupiter's magnetic field is partially due to its liquid metallic hydrogen core. However, its moon, Io, more than doubles Jupiter's magnetic field strength by emitting large amounts of sulfur dioxide, which gets swept up in Jupiter's magnetic sphere to form what object that surrounds the planet?",
+    "answer": "IO PLASMA TORUS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Jupiter has multiple gossamer rings composed largely of dust from impacts on the moons Amalthea and Thebe. Originally, these dust particles had the same orbit as their moons. What process is responsible for their orbital decay?",
+    "choices": {
+      "W": "Extremely small gravitational waves",
+      "X": "Collision with other dust particles in the ring",
+      "Y": "Interactions with Jupiter's magnetic field",
+      "Z": "Drag from solar radiation"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What shape is formed when light passes through an object where each infinitesimally thin layer of the object has an index of refraction that varies with the sine of the angle that light approaches it divided by the speed of the light at the instant?",
+    "answer": "BRACHISTOCHRONE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A diffraction grating with 50 slits has a distance of $12\\\\text{centimeters}$ between each slit. If light of wavelength $732\\\\text{nanometers}$ passes through the gratings, what is the angle between the central maximum and first maximum of the diffraction pattern in radians and scientific notation?",
+    "answer": "$1.22 \\times 10^{-7}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $\\athbf{a}$ and $\\athbf{b}$ be three-dimensional vectors, where $(3\\athbf{a} + 2\\athbf{b}) \\times (-4\\athbf{a} - 7\\athbf{b}) = k\\athbf{a} \\times \\athbf{b}$, where $k$ is a scalar. What is the value of $k$?",
+    "answer": "-13"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $A$ be a matrix such that $A \\egin{bmatrix} 2 \\\\5 \\\\3 \\nd{bmatrix} = \\egin{bmatrix} -9 \\\\-2 \\\\4 \\nd{bmatrix}$ and $A \\egin{bmatrix} -1 \\\\5 \\\\2 \\nd{bmatrix} = \\egin{bmatrix} -10 \\\\4 \\\\1 \\nd{bmatrix}$. What is the sum of the entries in the matrix that is the result of $A$ multiplied by $\\egin{bmatrix} -3 \\\\0 \\\\-1 \\nd{bmatrix}$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In bacteria, as well as in mitochondria and chloroplasts, the compound that initiates protein synthesis, rather than methionine, is methionine attached to what group?",
+    "answer": "FORMYL"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following that would increase an enzyme's activation energy: 1) Making the active site complementary to the substrate instead of the transition state; 2) Increasing temperature from $40^\\irc\\text{C}$ to $70^\\irc\\text{C}$; 3) Decreasing catalyst concentration",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the term for molecules that lack chiral centers but are optically active due to steric hindrance around a rotationally fixed bond?",
+    "answer": "ATROPISOMERS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Arrange the following three elements by increasing ionization energy: 1) Gallium; 2) Indium; 3) Thallium.",
+    "answer": "2, 1, 3"
+  }
+]

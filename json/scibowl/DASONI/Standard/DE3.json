@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term is given to invaginations of the plasma membrane of muscle cells that propagate action potentials to the sarcoplasmic reticulum?",
+    "answer": "T TUBULES"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In which part of the nephron is glucose reabsorbed?",
+    "choices": {
+      "W": "Proximal convoluted tubule",
+      "X": "Descending limb of the loop of Henle",
+      "Y": "Distal convoluted tubule",
+      "Z": "Ascending limb of the loop of Henle"
+    },
+    "answer": "W) PROXIMAL CONVOLUTED TUBULE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The standard cell potential of the Daniell cell is 1.10 V. Identify all of the following three statements that must be true about the Daniell cell: 1) The standard free energy change of the cell reaction is positive 2) The equilibrium constant of the cell reaction is greater than one 3) The Daniell cell is a galvanic cell",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Name all of the following that would change the maximum voltage of a Daniell cell. 1) Chemical identity of the electrodes 2) Surface area of the electrodes 3) Identity of species in salt bridge 4) Concentration of dissolved species",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Emmy examines the amount of potassium-40 in a piece of granite and determines that it contains fifteen grams of radioactive potassium. Assuming the granite originally contained sixty grams of potassium-40 and that the half-life of potassium-40 is 1.25 billion years, how old is the piece of granite?",
+    "answer": "2.5 BILLION YEARS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Arrange the following four ocean features or zones in order of decreasing distance from the shore: 1) Continental shelf 2) Low tide line 3) Littoral zone 4) Pelagic zone",
+    "answer": "4, 1, 2, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following adjectives best describes a triangle with side lengths 29, 40, and 51?",
+    "choices": {
+      "W": "Acute",
+      "X": "Right",
+      "Y": "Obtuse",
+      "Z": "Impossible"
+    },
+    "answer": "Y) OBTUSE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Audrey and Evan each have 1 liter of unobtanium, and they decide to play a game with it. On each round, Audrey gives half of her unobtanium to Evan, then Evan gives half of his unobtanium to Audrey. After 30 rounds, how much unobtanium does Audrey have? Express your answer to the nearest milliliter.",
+    "answer": "1333"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A forgetful lab assistant leaves a ladder leaning against the wall. The top end touches a vertical, frictionless wall while the bottom end touches a carpet with friction. If it manages to stay at rest, identify all of the following three pairs of forces that are not necessarily equal in magnitude: 1) Friction on the bottom end, normal force on the top end 2) Gravity, normal force on the top end 3) Normal force on the bottom end, gravity",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Emmy drives a rocket sled down a slope at $120 \\athrm{m / s}$, reaches the bottom of the slope, turns around, and takes the same route back to her starting point. However, the rocket sled can only do $80 \\athrm{m / s}$ uphill. In $\\athrm{m / s}$, what is the average speed and velocity, respectively, of the rocket sled during this time period?",
+    "answer": "96, 0"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson MS A team members are currently studying polymer architecture. Which of the following is not a type of branched polymer?",
+    "choices": {
+      "W": "Star polymer",
+      "X": "Graft polymers",
+      "Y": "Circle polymers",
+      "Z": "Ladder polymers"
+    },
+    "answer": "Y) CIRCLE POLYMERS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS A team members are deriving physical constants for fun. The Faraday constant can be derived using the charge of an electron and what other quantity?",
+    "answer": "AVOGADRO'S CONSTANT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Rolling circle amplification is a molecular biology technique similar to PCR except that the template is single-stranded, circular DNA, it is carried out at a constant temperature, and the product is single-stranded DNA. Given that it uses a DNA primer, identify all of the following three replicative enzymes that would be necessary for rolling circle amplification if the starting DNA is already circular: 1) Ligase 2) Primase 3) RNA polymerase II",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes stolons [STO-luns]?",
+    "choices": {
+      "W": "Aerial roots that absorb water from the air",
+      "X": "Short underground stems specialized for storage",
+      "Y": "Horizontal stems that grow just above the ground",
+      "Z": "Roots specialized for parasitism"
+    },
+    "answer": "Y) HORIZONTAL STEMS THAT GROW JUST ABOVE THE GROUND"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of ideal solutions: 1) They obey Raoult's law 2) They have an enthalpy of mixing equal to zero 3) They have a Gibbs free energy change on mixing equal to zero",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Ignoring the autoionization of water and assuming the concentration of acid does not change significantly after dissociation, calculate the pH of a 0.05 molar solution of ethanoic acid. The $\\athrm{K}_{\\athrm{a}}$ of ethanoic acid is $2 \\athrm{x} 10^{-5}$.",
+    "answer": "3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Mariner Valley on Mars is thought to have formed due to built-up stress from the uplift of what large volcanic plateau that is home to three large shield volcanoes?",
+    "answer": "THARSIS BULGE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify the mineral the best matches the following description: dense, silver cubes with a metallic luster and a grey streak that can be scratched by the mineral fluorite",
+    "answer": "GALENA"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of a parallelogram, three of whose vertices are (0,0), (1,2), and (-3,-1)?",
+    "answer": "5"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Paolo and Sam are playing Jack-in-the-box. They take turns, starting with Sam, turning the handle once. Each time they do that, there is a $1 / 3$ chance of releasing the Jack, and whoever does that loses. What is the probability Paolo wins?",
+    "answer": "3/5"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A break is made in a circuit using a capacitor. After a long time, it is observed that a significant amount of current is still running through the circuit. Which of the following is false about this situation?",
+    "choices": {
+      "W": "The circuit is carrying AC current",
+      "X": "There is a nonzero electric field between the plates of the capacitor",
+      "Y": "Current will stop flowing if the voltage drops below a certain limit",
+      "Z": "No charges are ever transported between the plates of the capacitor"
+    },
+    "answer": "Y) CURRENT WILL STOP FLOWING IF THE VOLTAGE DROPS BELOW A CERTAIN LIMIT"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An object falls from a height of 490 meters and dissipates all its energy in a collision with the ground that lasts 50 milliseconds. How many times greater is the average power dissipated during the collision than the average power of gravity acting on the object during the fall?",
+    "answer": "200"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson HS A Team members are studying hydrothermal vents. Which of the following best describes the main difference between vents known as black smokers and vents known as white smokers?",
+    "choices": {
+      "W": "Depth of formation",
+      "X": "Location of formation",
+      "Y": "Mineral content",
+      "Z": "Size of chimneys formed"
+    },
+    "answer": "Y) MINERAL CONTENT"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson HS A Team members are studying the fates of supermassive stars. Which of the following best explains why all observed gamma ray bursts are from distant galaxies?",
+    "choices": {
+      "W": "None of the nearby stars in the Milky Way are old enough to form gamma ray bursts",
+      "X": "Blue supergiants only formed early in the universe's history",
+      "Y": "Most of the nearby stars will end their lives as white dwarfs instead of supernovas",
+      "Z": "Gamma ray bursts are very rare and there hasn't been enough observation done to find one nearby"
+    },
+    "answer": "X) BLUE SUPERGIANTS ONLY FORMED EARLY IN THE UNIVERSE'S HISTORY"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Iron is transported in the blood bound to transferrin. Because there is a low concentration of transferrin in the extracellular fluid, which of the following types of endocytosis would be most appropriate for ensuring cells get an adequate amount of iron?",
+    "choices": {
+      "W": "Pinocytosis",
+      "X": "Receptor-mediated endocytosis",
+      "Y": "Phagocytosis",
+      "Z": "Macrocytosis"
+    },
+    "answer": "X) RECEPTOR-MEDIATED ENDOCYTOSIS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Michelle is trying to determine the properties of a novel protein. She expresses the protein in a cell line and then uses a fluorescently-labeled antibody to determine where the protein resides in the cell. To her surprise, it localizes in the extracellular matrix, not inside the cell. Identify all of the following three statements that are likely true of this protein: 1) It is heavily glycosylated 2) After being initially translated, it contains a signal peptide 3) It is synthesized on free ribosomes",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three molecules in order of increasing bond angle: 1) $\\athrm{NO}_{2}^{-}$ 2) $\\athrm{NO}_{2}$ 3) $\\athrm{NO}_{2}^{+}$",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the sum of all sixteen quantum numbers for the four 2p electrons in oxygen assuming that electrons entering an empty orbital take a positive spin and that the two electrons occupying the same orbital each have a magnetic quantum number of -1?",
+    "answer": "12"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of supernovae is also known as a thermal runaway supernova, due to it being caused by a white dwarf exceeding the Chandrasekhar Limit?",
+    "answer": "TYPE 1A"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What specific type of biogenous sediment can only be found above its namesake compensation depth?",
+    "answer": "CALCAREOUS OOZE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A spherical marble of volume $36^{*}\\athrm{pi}$ fits inside a box in the shape of a cube. What is the smallest possible volume of that box?",
+    "answer": "216"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A highly composite number is a positive integer with more factors than any positive integer below it. By name or number, which of the following three integers are highly composite? 1) 18 2) 24 3) 36",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What type of harmonic oscillator returns to stationary equilibrium the quickest?",
+    "answer": "CRITICALLY DAMPED"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A pair of nested solenoids is constructed, where the outer solenoid has 12 turns and the inner solenoid has 200 turns over a length of 1 meter. The radius of the inner solenoid is 2 divided by the quantity square root of pi end quantity centimeters. In Henries and in terms of $\\athbf{u}_{0}$ (mu naught), what is the mutual inductance of this pair?",
+    "answer": "$9,600\\athrm{u}_{0}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS B Team members are learning about the angle bisector theorem. In a triangle ABC with sides $\\athrm{AB} = 3$, $\\athrm{BC} = 4$, and $\\athrm{CA} = 5$, a line from B to CA at point P divides it into $\\athrm{AP} = 15 / 7$ and $\\athrm{CP} = 20 / 7$. What is the measure of angle ABP in degrees?",
+    "answer": "45"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson MS A team members are currently studying the propagation of action potentials in the heart. What part of the cardiac conduction system directly delivers signals to the contractile cells of the ventricles?",
+    "choices": {
+      "W": "Purkinje fibers",
+      "X": "Bundle of His",
+      "Y": "Bundle branches",
+      "Z": "AV node"
+    },
+    "answer": "W) PURKINJE FIBERS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Every Friday at chem lab, Arnesh pesters Emmy. After several weeks, Emmy becomes less annoyed with Arnesh. This is an example of what type of learning in which repeated exposures to a particular stimulus reduces the response to it?",
+    "answer": "HABITUATION"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term is given to single-stranded, circular RNAs that infect plants?",
+    "answer": "VIROIDS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What probability distribution is used to model the speeds of gases?",
+    "choices": {
+      "W": "Fermi-Dirac",
+      "X": "Maxwell-Boltzmann",
+      "Y": "Bose-Einstein",
+      "Z": "Gaussian"
+    },
+    "answer": "X) MAXWELL-BOLTZMANN"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that must necessarily be true about the rate-determining step in a multi-step reaction: 1) It is endothermic 2) Its transition state is the highest energy state in the reaction 3) It has the highest activation energy",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the name for the planetary configuration in which the sun is between Earth and an inferior planet?",
+    "choices": {
+      "W": "Syzygy",
+      "X": "Inferior conjunction",
+      "Y": "Opposition",
+      "Z": "Superior conjunction"
+    },
+    "answer": "Z) SUPERIOR CONJUNCTION"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the general name for the type of fault where one block is displaced vertically relative to the other?",
+    "choices": {
+      "W": "Dip-slip",
+      "X": "Strike-slip",
+      "Y": "Transform",
+      "Z": "Normal"
+    },
+    "answer": "W) DIP-SLIP"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Flipping through a 1000 page book, Lucas stops at a random page. What is the probability the page number contains the two digits 6 and 9, in that order, consecutively?",
+    "answer": "1/50"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of a triangle with sides 13, 14 and 15?",
+    "answer": "84"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle in an infinite square well gets excited to the 2022nd excited state. How many antinodes does its wave function have?",
+    "answer": "2023"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Akshansh is a lazy engineer and approximates his car engine as an ideal carnot heat engine. If the gas in the cylinders reaches a temperature of 617 degrees celsius and the exhaust gases are at 57 degrees celsius, what is the efficiency of his car engine, to two significant figures?",
+    "answer": "0.67"
+  }
+]

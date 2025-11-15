@@ -1,0 +1,388 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "C4 plants perform the Calvin cycle in what specialized cells, which are far from stomata?",
+    "answer": "Bundle Sheath Cells"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a hypothetical environment, the trait for yellow stems is recessive, and the trait for green stems is dominant. If 81 percent of the population has yellow stems, what percentage of the population is heterozygous?",
+    "answer": "$18\\$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "An atom of an unknown element undergoes alpha decay to become a mercury atom. What element was the original atom?",
+    "answer": "LEAD"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the bond order of the N-O bond in nitric oxide?",
+    "answer": "2.5"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When traveling at relativistic speed, your clock may not agree with someone's clock in a reference frame at rest, what effect in special relativity causes this discrepancy?",
+    "answer": "TIME DILATION"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How many numbers completely describe the spacetime position of an event in our universe?",
+    "answer": "4"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many distinct sets of 3 vertices can be chosen from a regular hexagon",
+    "answer": "20"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many prime numbers are less than 100?",
+    "answer": "25"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three seismic waves by the order in which they arrive at a seismograph: 1) P waves 2) S waves 3) Surface waves",
+    "answer": "1 2 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What rock comprises the majority of Earth's mantle?",
+    "answer": "PERIDOTITE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Lab are studying how gold nuclei collide at low energies in a particle accelerator. During the collision, what form of matter can momentarily be created, in which the nucleus falls apart into quarks and gluons?",
+    "answer": "QUARK-GLUON PLASMA"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Lab are studying how gold nuclei collide at low energies in a particle accelerator. What is the most common type of quark in these nuclei?",
+    "answer": "DOWN QUARK"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What plant hormone is responsible for mediating the triple response?",
+    "answer": "Ethylene"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant groups are not gymnosperms?",
+    "choices": {
+      "W": "Cycadophytes",
+      "X": "Ginkgophytes",
+      "Y": "Anthophytes",
+      "Z": "Gnetophytes"
+    },
+    "answer": "Y) Anthophytes"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry of sulfur hexafluoride?",
+    "answer": "OCTAHEDRAL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "An ideal gas expands isothermally from an initial volume of 5 liters to a final volume of 15 liters. What is the final pressure of the gas if the initial pressure is 30 atmospheres?",
+    "answer": "10"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What law relates the angle of refraction for light in a medium to the medium's index of refraction?",
+    "answer": "SNELL'S LAW"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What general type of fluid flow occurs when the Reynold's number of the fluid is relatively low?",
+    "answer": "LAMINAR FLOW"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A parabola is given by the equation $y = (x + 1)^2 - 5$. The parabola is then moved 2 units right and 3 units up. It is then reflected across the x-axis. What are the coordinates of its new vertex?",
+    "answer": "$(1, -2)$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the volume of a frustum with circular bases of radius 6 and 3 and a height of 4?",
+    "answer": "$84\\i$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "An area of land is lifted by tectonic forces into a mountain. Over time, this mountain erodes and becomes flat again. Then sediments are deposited onto the land and lithified. What type of unconformity does this process produce in this area?",
+    "answer": "ANGULAR UNCONFORMITY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What rare type of stars display strong stellar winds that have blown away most or all of their hydrogen envelopes?",
+    "answer": "WOLF-RAYET STARS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Ames National Lab have found a way to convert lignin into nylon polymers. What type of polymers, which includes nylon, are made of different monomers combined into one polymer?",
+    "answer": "COPOLYMERS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Ames National Lab have found a way to convert lignin into nylon polymers. This process involves converting cyclohexanol into cyclohexanone. What gas is released during this reaction?",
+    "answer": "HYDROGEN"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Zygapophysial joints are plane joints located in what skeletal structure?",
+    "answer": "Vertebral Column or Vertebrae"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following proteins that are located within the I band of a sarcomere: (1) Myosin, (2) Actin, (3) Nebulin, (4) Titin.",
+    "answer": "2, 3, 4"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name for the effect in which the ionization of an atom is immediately followed by the absorption of a free electron into the atom?",
+    "answer": "AUGER EFFECT"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the limit of the derivative of entropy with respect to temperature as temperature approaches zero kelvins?",
+    "answer": "0"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What process can be considered as an inverse of beta positive decay, in which an electron is absorbed by a nucleus?",
+    "answer": "ELECTRON CAPTURE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What phase of matter is created by supercooling gases and has been suggested as an explanation for the superfluidity of Helium-4?",
+    "answer": "BOSE-EINSTEIN CONDENSATE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the distance between the point (5,6) and the point (-3,-9)?",
+    "answer": "17"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A quadrilateral is created by choosing 4 random points on a circle and connecting them. What is the probability that this quadrilateral tessellates the plane?",
+    "choices": {
+      "W": "$25\\$",
+      "X": "$50\\$",
+      "Y": "$75\\$",
+      "Z": "$100\\$"
+    },
+    "answer": "Z) $100\\$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three solar system objects that have a substantial atmosphere: 1) Titan 2) Miranda 3) Callisto",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for a glacier that forms in an alpine region and then flows onto a plain, where it quickly spreads out?",
+    "answer": "PIEDMONT GLACIER"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab have been studying interactions between neutrinos and baryonic matter. Neutrinos are produced by interactions caused by which fundamental force?",
+    "answer": "WEAK FORCE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab have been studying interactions between neutrinos and baryonic matter. What hypothetical type of neutrino could explain the dark matter in our universe?",
+    "answer": "STERILE NEUTRINO"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the human body, what is the only bone that does not articulate with any other bones?",
+    "answer": "Hyoid bone"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The kinetoplastid Trypanosoma Brucei is famously known to cause what disease, which is characterized by severe headaches and fatigue? This disease is spread through fly bites.",
+    "answer": "African Sleeping Sickness"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the chemical formula for phenol?",
+    "answer": "C6H6O"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules contains a triple bond?",
+    "choices": {
+      "W": "Acetylene",
+      "X": "Ethylene",
+      "Y": "Ethane",
+      "Z": "Propane"
+    },
+    "answer": "W) ACETYLENE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What theorem in fluid mechanics, derivable from Bernoulli's principle, gives the velocity of a stream of laminar fluid exiting a container?",
+    "answer": "TORRICELLI'S THEOREM"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Fluids often form stable structures such as smoke rings that are examples of what 3 dimensional shape that is a closed loop?",
+    "answer": "TORUS"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What 3d analog of polar coordinates is defined by a series of xy planes each defined by an r and theta for the function in that plane and a z value for the z coordinate of the function in each plane?",
+    "answer": "CYLINDRICAL COORDINATES"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the name of the spiral formed when the function $r = \\theta$ is plotted in polar coordinates?",
+    "answer": "ARCHIMEDEAN SPIRAL"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the boundary that separates the Earth's mantle and its crust?",
+    "answer": "MOHOROVICIC DISCONTINUITY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of a binary system in which both stars are larger than their Roche lobes?",
+    "answer": "CONTACT BINARY"
+  }
+]

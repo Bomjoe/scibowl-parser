@@ -1,0 +1,488 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "In a nuclear winter, aerosols are thrown into the atmosphere that rarely make their way to the surface. Instead, they coagulate to form larger particles via what type of motion, the random motion of particles suspended in the atmosphere?",
+    "answer": "Brownian motion"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following fossil fuels emits the least amount of carbon dioxide per mass of fuel?",
+    "choices": {
+      "W": "Coal",
+      "X": "Oil",
+      "Y": "Natural gas",
+      "Z": "Gasoline"
+    },
+    "answer": "Y) Natural gas"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the largest possible three-digit number such that all of its digits are distinct and the sum of the digits is less than 20?",
+    "answer": "982"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the sum of an infinite geometric series with first term 64 and fourth term 27.",
+    "answer": "256"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many angular nodes are in a 3p orbital?",
+    "answer": "1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three bonds from weakest to strongest: 1) C-H single bond; 2) C-C single bond; 3) C-C double bond",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following soil horizons is the shallowest?",
+    "choices": {
+      "W": "A",
+      "X": "B",
+      "Y": "C",
+      "Z": "E"
+    },
+    "answer": "W) A"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the process which generates precipitation via the growth of ice crystals in supercooled clouds?",
+    "answer": "Bergeron process"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What enzyme is responsible for cleaving pre-miRNA hairpins into mature pre-miRNAs?",
+    "answer": "DICER"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would NOT occur during photosynthesis?",
+    "choices": {
+      "W": "Increase in pH of the stroma",
+      "X": "Increase in ATP production",
+      "Y": "Reduction of oxygen into water",
+      "Z": "Increase in G3P production"
+    },
+    "answer": "Y) Reduction of oxygen into water"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A circular loop on a roller coaster is built with a radius of 5 meters. To the nearest meter per second, what is the minimum velocity at the top of the loop that would allow the cart to complete the loop?",
+    "answer": "7"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is an example of a noninertial reference frame?",
+    "choices": {
+      "W": "An object moving at constant velocity through a viscous medium",
+      "X": "A stationary electric charge",
+      "Y": "A stationary charged particle in a magnetic field",
+      "Z": "A particle rotating at a constant speed"
+    },
+    "answer": "Z) A particle rotating at a constant speed"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Nuclear decay can be modeled as a reaction with which of the following orders?",
+    "choices": {
+      "W": "Zeroth",
+      "X": "First",
+      "Y": "Second",
+      "Z": "Third"
+    },
+    "answer": "X) First"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "What is the name of the common paradigm in machine learning which describes problems as agents interacting with an environment, trying to maximize their reward?",
+    "choices": {
+      "W": "Supervised learning",
+      "X": "Unsupervised learning",
+      "Y": "Reinforcement learning",
+      "Z": "Inverse reinforcement learning"
+    },
+    "answer": "Y) Reinforcement learning"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A right triangle has side lengths of 6, 8, and 10. What is the radius of the triangle's incircle?",
+    "answer": "2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Compute 11 times 12 plus 13 times 14 minus 11 times 14 minus 12 times 13.",
+    "answer": "4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The equilibrium constant for the reaction $\\athrm{A} + \\athrm{B} \\ongrightarrow \\athrm{C}$ is $K$. For the reaction $3\\athrm{C} \\ongrightarrow 3\\athrm{A} + 3\\athrm{B}$, what is the equilibrium constant in terms of K?",
+    "answer": "$1 / K^{3}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the $\\athrm{OF}^{+}$ cation, what is the bond order of the oxygen fluorine bond?",
+    "answer": "2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is not true of chondrites?",
+    "choices": {
+      "W": "They can contain volatiles",
+      "X": "They cooled extremely quickly",
+      "Y": "They likely condensed at high temperatures near the solar nebula",
+      "Z": "They have Widmanstatten patterns"
+    },
+    "answer": "Z) They have Widmanstatten patterns"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why in some binary systems, more massive stars are observed to be in the same stage of life as less massive stars, implying that they have similar life spans to lesser mass stars?",
+    "choices": {
+      "W": "The more massive star formed later than the less massive star",
+      "X": "The more massive star's fusion is disrupted through gravitational heating",
+      "Y": "The more massive star transfers mass to the younger star while it is evolving",
+      "Z": "The less massive star heats up more rapidly due to the Kelvin-Helmholtz mechanism"
+    },
+    "answer": "Y) The more massive star transfers mass to the younger star while it is evolving"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What molecules are used in Sanger sequencing to induce chain termination of DNA strands?",
+    "answer": "Dideoxy nucleotide triphosphates (ACCEPT: ddNTPs)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During the termination of transcription, order the following three steps in the order of which they occur: 1) Reading of the polyadenylation signal; 2) Release of RNA from the transcription complex; 3) Reading of the stop codon.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What is the direction of propagation for an electromagnetic wave where the electric field is moving in the positive $x$ direction and the magnetic field is moving in the positive $z$ direction?",
+    "choices": {
+      "W": "Positive y",
+      "X": "Negative y",
+      "Y": "Positive z",
+      "Z": "Negative z"
+    },
+    "answer": "X) Negative y"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A circuit is created from three resistors in parallel with resistances of 1 ohm, 2 ohms, and 4 ohms, respectively. The circuit is then attached to an 8 volt battery. What is the total power output of the circuit in watts?",
+    "answer": "112"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "A researcher finds that CO2 concentrations and light pollution are highly positively correlated. Which of the following is the confounding variable in this situation?",
+    "choices": {
+      "W": "Industrialization",
+      "X": "Human health",
+      "Y": "World population",
+      "Z": "Time"
+    },
+    "answer": "W) Industrialization"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "In 2021, the Amazon rainforest became a carbon source when it had previously been a carbon sink. What is the main driver for this change?",
+    "choices": {
+      "W": "Deforestation",
+      "X": "Forest fires",
+      "Y": "Stream migration",
+      "Z": "Sedimentation"
+    },
+    "answer": "W) Deforestation"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In triangle ABC, D lies on BC such that AD bisects angle BAC. If AB equals 9, AC equals 12, and BD equals 6, what is the length of CD?",
+    "answer": "8"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the sum of the first 20 positive square numbers.",
+    "answer": "2870"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elemental properties monotonically increases down the alkali earth metal group on the periodic table?",
+    "choices": {
+      "W": "Atomic radius",
+      "X": "Melting point",
+      "Y": "Ionization energy",
+      "Z": "Electron affinity"
+    },
+    "answer": "W) Atomic radius"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three substances by increasing vapor pressure in their solid state: 1) Carbon dioxide; 2) Water; 3) Ammonia.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A large storm blows to the north and encounters a mountain range, where it exhibits orographic lifting. Which of the following locations would receive the most precipitation?",
+    "choices": {
+      "W": "Southern mountainside",
+      "X": "Top of the mountain",
+      "Y": "Northern mountainside",
+      "Z": "Plain north of the mountains"
+    },
+    "answer": "W) Southern mountainside"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Permian-Triassic extinction was caused by a rapid increase of atmospheric carbon dioxide due to which of the following events?",
+    "choices": {
+      "W": "Volcanic eruptions",
+      "X": "Ozone layer destruction",
+      "Y": "Ocean anoxia",
+      "Z": "Meteor impact"
+    },
+    "answer": "W) Volcanic eruptions"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the change in mean pressure as blood traverses from the aorta to the veins?",
+    "choices": {
+      "W": "Decreases then increases",
+      "X": "Increases then decreases",
+      "Y": "Decreases",
+      "Z": "Increases"
+    },
+    "answer": "Y) Decreases"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three interactions that dominate in secondary structure: 1) Hydrophobic interactions; 2) Disulfide bonds; 3) Hydrogen bonding between R groups.",
+    "answer": "None"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The law of reflection, stating that the incident angle of a ray of light is equal to the angle at which it is reflected, assumes what type of reflection is occurring?",
+    "answer": "Specular"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Calculate the moment of inertia, in kilogram-meters squared, about a central axis of a hollow sphere of radius 5 meters and mass 3 kilograms.",
+    "answer": "50"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "A neural network is often modeled purely in terms of its inputs and outputs, without regard for its internal workings. What is the commonly used term for this model in engineering?",
+    "answer": "Black box"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why RNA viruses have a higher mutation rate than DNA viruses?",
+    "choices": {
+      "W": "The RNA polymerase in most RNA viruses lacks proofreading ability",
+      "X": "Most RNA viruses have a shorter life cycle than DNA viruses",
+      "Y": "Most RNA viruses have a larger genome than DNA viruses",
+      "Z": "RNA viruses have a viral envelope that is permeable to mutagens"
+    },
+    "answer": "W) The RNA polymerase in most RNA viruses lacks proofreading ability"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Caleb is on a grid at the point $(0,0)$ and wants to reach the point $(2,4)$. Every second, he can move either one unit right or one unit up. How many distinct paths can Caleb take to reach his destination?",
+    "answer": "15"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Mark has an array of integers in the order $[2,3,4,5,6,1]$. With each move, he can swap any two neighboring elements' positions in the array. How many moves are needed for Mark to make the array sorted in descending order?",
+    "answer": "10"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In a single-step reaction, what term describes the difference in potential energy between the reactants and the transition state?",
+    "answer": "Activation energy"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry of the central sulfur atom in sulfur tetrafluoride?",
+    "answer": "Seesaw"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What name is given to the process of mass decay caused by virtual particles slipping beyond an event horizon?",
+    "answer": "Hawking radiation"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of Population II stars: 1) They are common in open clusters; 2) They are metal rich; 3) They have highly eccentric orbits.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes how lipid soluble hormones that are NOT steroids typically elicit a response?",
+    "choices": {
+      "W": "Bind to cell surface receptors",
+      "X": "Bind to transcription factors in the cytosol",
+      "Y": "Bind to transcription factors in the nucleus",
+      "Z": "Bind to nascent mRNA transcripts in the nucleus"
+    },
+    "answer": "Y) Bind to transcription factors in the nucleus"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three diseases that are genetically dominant: 1) Albinism; 2) Cystic Fibrosis; 3) Gigantism.",
+    "answer": "3"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Nuclear fusion within stars can occur once atoms overcome the intense Coulomb interactions. One way of doing this is through what phenomenon based on the low probability of the atomic wave transmitting through the barrier?",
+    "answer": "Quantum tunneling (ACCEPT: Tunneling)"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When a point charge is placed very far away from the surface of a thin spherical conducting shell with uniform volume density, it experiences an electric field E. If the radius of the shell is doubled, what will be the new electric field experienced by the test charge in terms of E?",
+    "answer": "E"
+  }
+]

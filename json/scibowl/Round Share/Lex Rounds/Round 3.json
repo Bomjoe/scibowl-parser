@@ -1,0 +1,492 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When unpolarized light strikes a material at a specific angle, the light reflected is perfectly polarized. What law in optics uses the index of refraction of the material to find the measure of this angle?",
+    "answer": "BREWSTER'S LAW"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A wave of light initially passes through a polarizer, then through an analyzer with a transmission axis at an angle of60 degrees to the polarizer's axis. If the light has an intensity X when incident on the analyzer, what will the intensity of the light be after it passes through the analyzer, in terms of X?",
+    "answer": "X/4"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "State all of the following four gas laws that relate any of the temperature, volume, or pressure of an ideal gas and who's equations can be used to form the ideal gas law:1) Charles' Law2) Graham's Law3) Gay-Lussac's Law4) Boyle's Law",
+    "answer": "1,3,4"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A glass bowl of mass2.5 kilograms contains a quantity of water of mass2 kilograms, and both are at a temperature of15 degrees celsius. Given that the specific heat of glass is840 J/kg*C and the specific heat of water is4186 J/kg*C, how much heat input in kilojoules needed to raise the temperature of both the glass bowl and the water to30 degrees celsius, rounded to the nearest whole number?",
+    "answer": "157 KILOJOULES"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many sister chromatids are contained in a diploid human cell that is undergoing metaphase?",
+    "answer": "92"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "For each of the following four phenomena, determine whether it occurs more commonly in animal or plant cells.\n\nI. Lysing when immersed in a hypotonic solution\nII. Plasmolysis when immersed in a hypertonic solution\nIII. Formation of a cleavage furrow during cytokinesis\nIV. Presence of centrioles in the cytoplasm",
+    "answer": "ANIMAL CELL, PLANT CELL, ANIMAL CELL, ANIMAL CELL"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $a$ and $b$ are the zeros of $f(x) = x^{2} +17x +20$, find the value of $a^{2} + b^{2}$.",
+    "answer": "249"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the derivative at $x =4$ for the function $f(x) = x^{3} +23x^{2} +56x +4$.",
+    "answer": "288"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify, by name or number, all of the following three that are basic laws of radiation:1) All objects emit radiant energy;2) Hotter objects radiate more total energy than do colder objects;3) The hotter the radiating body, the shorter the wavelengths of maximum radiation.",
+    "answer": "All or I, II, III"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which way do isotherms generally trend?",
+    "choices": {
+      "W": "West to East",
+      "X": "East to West",
+      "Y": "North to South",
+      "Z": "South to North"
+    },
+    "answer": "X) East to West"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Under which of the following conditions would the kinematic equations used to relate position, velocity, and acceleration not apply?",
+    "choices": {
+      "W": "Negative Position",
+      "X": "Negative Velocity",
+      "Y": "Constant Acceleration",
+      "Z": "Changing Acceleration"
+    },
+    "answer": "Z) CHANGING ACCELERATION"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A box sits at the top of a frictionless ramp at an angle of30 degrees and a slope of length25 meters. If the box begins to slide down the ramp from rest, what will its final velocity be, in meters per second to the nearest tenth, just before it slides off the ramp?",
+    "choices": {
+      "W": "15.7"
+    },
+    "answer": "15.7"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "If an electron has a principal quantum number of3, which of the following is NOT a possible value for its magnetic quantum number?",
+    "choices": {
+      "W": "-2",
+      "X": "0",
+      "Y": "1",
+      "Z": "3"
+    },
+    "answer": "Z)3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "If a certain ion has an electron configuration of $1s^22s^22p^63s^23p^6$ , which of the following could be the identity of the ion?",
+    "choices": {
+      "W": "$F^{+}$",
+      "X": "$N^{3 - }$",
+      "Y": "$P^{3 - }$",
+      "Z": "$N i^{2 + }$"
+    },
+    "answer": "Y) $P^{3 - }$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "At any given point, the majority of cells in the human body are in what cellular phase?",
+    "choices": {
+      "W": "$G_{0}$",
+      "X": "$G_{1}$",
+      "Y": "$G_{2}$",
+      "Z": "M"
+    },
+    "answer": "W) $G_{0}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not an example of apoptosis?",
+    "choices": {
+      "W": "Formation of an embryo's digits through the elimination of interdigital tissue",
+      "X": "Reduction of a tadpole's tail as it matures into an adult frog",
+      "Y": "Neuron death in Parkinson's disease",
+      "Z": "An organism's death due to cancer metastasis"
+    },
+    "answer": "Z) AN ORGANISM'S DEATH DUE TO CANCER METASTASIS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let P be a point inside equilateral triangle ABC such that AB=2. Find the sum of the shortest lengths from P to all the sides of ABC",
+    "answer": "Sqrt(3)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the sum of the coefficients of the derivative of $x^{\\edge}2020 + x^{\\edge}2019 + x^{\\edge}2018 + \\dots + x +1$",
+    "answer": "2,041,210"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Calculate the mixing ratio if the mass of water vapor in a unit of air is20 grams and the mass of dry air is1000 grams.",
+    "answer": "20"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Calculate the relative humidity if the air’s actual water-vapor content is5 grams and the saturation at25 degrees celsius is50 grams.",
+    "answer": "$10\\$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "For a charge moving with a constant velocity away from a viewer’s perspective, in what direction will the magnetic force vector and magnetic field vector point, respectively?",
+    "answer": "UPWARD AND LEFTWARD"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A car is driving around a circular track of radius50 meters with a velocity of6 meters per second. What must be the minimum value, to the nearest hundredth, of the coefficient of friction of the track if the car needs to move without sliding?",
+    "answer": "0.07"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not true for plants that undergo crassulacean acid metabolism, also known as CAM plants?",
+    "choices": {
+      "W": "CAM plants close their stomata during the day and open their stomata during the night",
+      "X": "CAM plants synthesize and store malic acid inside vacuoles in their cells at night",
+      "Y": "CAM plants often have thick leaves and a thick plant cuticle",
+      "Z": "CAM plants are most commonly found in humid climates"
+    },
+    "answer": "Z) CAM PLANTS ARE MOST COMMONLY FOUND IN HUMID CLIMATES"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three colors of light from least to most absorption by chlorophyll $b$ .\n\nI. Blue \nII. Green \nIII. Red",
+    "answer": "II, III, I"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What type of reaction occurs when silver nitrate is combined with a solution of sodium chloride to produce the compound silver chloride as one of its products?",
+    "answer": "PRECIPITATION"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the element that has the characteristic of the following given atomic properties:1) Highest Electron Affinity2) Highest Electronegativity3) Lowest Atomic Radius",
+    "answer": "1) CHLORINE2) FLUORINE3) HELIUM"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the largest number that cannot be written as a sum of99s and101s?",
+    "answer": "9799"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Four students got scores of83,87,92, and98 on a paper. In how many orders can the teacher pass back the papers so that the average score of the papers that have been passed back is always an integer?",
+    "answer": "2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a classification for meteorites?",
+    "choices": {
+      "W": "Irons",
+      "X": "Stony-Irons",
+      "Y": "Chondrites",
+      "Z": "Stonites"
+    },
+    "answer": "Z) Stonites"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "If the temperature of1 star is -40 degrees celsius while the other star has a temperature of -40 degrees fahrenheit then how many times greater is the total radiation emitted from1 star compared to the other star?",
+    "choices": {
+      "W": "16",
+      "X": "8",
+      "Y": "4",
+      "Z": "1"
+    },
+    "answer": "Z)1"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which one of the following Maxwell’s equations can be used to relate the flow of an electric field through an area to the charge enclosed?",
+    "choices": {
+      "W": "Gauss’ Law for Magnetism",
+      "X": "Faraday’s Law of Induction",
+      "Y": "Modified Ampere’s Equation",
+      "Z": "Gauss’ Law of Electric Flux"
+    },
+    "answer": "Z) GAUSS’ LAW OF ELECTRIC FLUX"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A charge of2 microcoulombs is moving in the positive x direction with a velocity of5 meters per second, with a magnetic field of strength3 microteslas oriented at an angle of30 degrees to the velocity of the charge. What is the magnitude of the magnetic force, in newtons exerted on the test charge?",
+    "choices": {
+      "W": "$1.5 *10^{-11}$"
+    },
+    "answer": "$1.5 *10^{-11}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In the GammaZero committee there are13 men and5 women. They randomly create a subcommittee called the BetaZero committee consisting of2 people. What is the probability that there is1 man and1 woman on this committee?",
+    "answer": "13/21"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the remainder when2016! is divided by2017?",
+    "answer": "2016"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What bonds are created by the sideway overlap of p orbitals?",
+    "answer": "Pi Bonds"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When solid, liquid and gas are at equilibrium what is that point called on a phase diagram?",
+    "answer": "Triple Point"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In which of the following three stages are distinct chromosomes observable with a light microscope?\\n\\nI. Interphase II. Metaphase III. Cytokinesis",
+    "answer": "II"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three stages of the cell cycle from shortest to longest duration.\\n\\nI. Interphase II. Prometaphase III. Anaphase",
+    "answer": "III, II, I"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is it called when the lens acts like a prism and spreads out the colors in the light?",
+    "answer": "Chromatic Aberration"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Approximately how many years is one sunspot cycle?",
+    "answer": "11"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "According to the Stefan-Boltzmann Equation, used to find the heat flow due to radiation emitted by an object, the emitted energy of an object per unit time due to radiation is proportional to its temperature raised to what power?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "4",
+      "Z": "16"
+    },
+    "answer": "Y)4"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The end of a square aluminium rod is placed near a heat source and is at a temperature of60 degrees celsius. Given that the thermal conductivity of aluminium is $200 \\athrm{J / s} \\dot \\athrm{m} \\dot \\athrm{^\\irc C}$ and the cross sectional area through which heat transfer occurs is $10 \\athrm{cm} \\dot \\athrm{^\\irc C}$ , what is the heat flow, in Joules per second to the nearest whole number, to a point on the rod $15 \\athrm{cm}$ away from the end at a temperature of55 degrees celsius?",
+    "choices": {
+      "W": "3",
+      "X": "7",
+      "Y": "18",
+      "Z": "30"
+    },
+    "answer": "X)7"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "a-decay(read as alpha decay) will decrease the mass number by x and the atomic number by y. Find the product of x and y.",
+    "answer": "8"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is it called when larger unstable nuclei split into smaller more stable nuclei?",
+    "answer": "Fission accept Nuclear Fission"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following was not a part of Gondwana?",
+    "choices": {
+      "W": "South America",
+      "X": "India",
+      "Y": "Antarctica",
+      "Z": "Siberia"
+    },
+    "answer": "Z) Siberia"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the distance that wind has traveled across open water called?",
+    "answer": "Fetch"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which of the following four invertebrate phyla are characterized by the inclusion of a brain in their nervous systems?\\n\\nI. Echinodermata \\nII. Annelida \\nIII. Platyhelminthes \\nIV. Tardigrada",
+    "answer": "II, III, IV"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "For each of the following three examples, determine whether the response is caused by the sympathetic division or the parasympathetic division of the autonomic nervous system.\\n\\nI. Increased glycogen production \\nII. Dilation of the pupils \\nIII. Constriction of the bronchi",
+    "answer": "PARASYMPATHETIC, SYMPATHETIC, PARASYMPATHETIC"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a deficient number?",
+    "choices": {
+      "W": "27",
+      "X": "223",
+      "Y": "224",
+      "Z": "259"
+    },
+    "answer": "Y)224"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find all real solutions of $x^{3} -4x^{2} -4x -5 =0$ .",
+    "answer": "5"
+  }
+]

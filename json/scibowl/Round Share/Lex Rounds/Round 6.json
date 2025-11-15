@@ -1,0 +1,450 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the final element produced by the decay series for uranium-235?",
+    "answer": "LEAD"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the ratio for the wavelength of a photon produced by the lyman line from $\\athrm{n} = 3$ to the photon produced by the balmer line from $\\athrm{n} = 3$?",
+    "answer": "5/32"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the slope of the line perpendicular to the line described by the equation $4\\athrm{x} + 7\\athrm{y} = 9$?",
+    "answer": "7/4"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Four six sided dice, with each face numbered from one to six, are rolled. What is the probability that the numbers rolled are all different?",
+    "answer": "5/18"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "NADH is a high energy molecule produced during glycolysis from the oxidation of glucose. What other high energy currency molecule is produced in glycolysis?",
+    "answer": "ATP"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Indicate, by name or number, all of the following statements that are characteristic of protostomes. 1) Cell divisions along plantes diagonal to the vertical axis; 2) Determinant cleavage; 3) Blastopore forms the mouth.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about malachite: 1) It contains copper as the primary cation; 2) It is commonly found around limestone deposits; 3) It is sensitive to acids.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following objects possesses both lineated and jumbled terrain?",
+    "choices": {
+      "W": "Moon",
+      "X": "Jupiter",
+      "Y": "Pluto",
+      "Z": "Eris"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The Ostwald process uses ammonia produced by the Haber process and oxidizes it to form what important acid in industry?",
+    "answer": "NITRIC ACID"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three bonds in increasing bond dissociation energy: 1) O-O single bond; 2) C-O double bond; 3) C-C single bond.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes how the charge stored in a capacitor decreases over time?",
+    "choices": {
+      "W": "Linearly",
+      "X": "Logarithmically",
+      "Y": "Quadratically",
+      "Z": "Exponentially"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What phenomenon is observed at very low temperatures due to the lack of resistance to the movement of electron pairs through a crystal lattice?",
+    "answer": "SUPERCONDUCTIVITY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the vestigial nucleus left behind by secondary endosymbiosis?",
+    "answer": "NUCLEOMORPH"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which organism is Taq polymerase derived from?",
+    "answer": "THERMUS AQUATICUS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many terminal zeros does 56! have?",
+    "answer": "13"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An arithmetic sequence has first term $x$ and $x$th term $x^3$ such that the common difference is 30. What is the 15th term in the sequence?",
+    "answer": "75"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "During an earthquake, what term is given to the displacement of the active fault that is comparable to the rebound of a rubber band?",
+    "answer": "FAULT SLIP"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of star clusters is bound by gravity?",
+    "choices": {
+      "W": "Open cluster",
+      "X": "T association",
+      "Y": "OB association",
+      "Z": "R association"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following solutions will have the greatest boiling point?",
+    "choices": {
+      "W": "0.1 molal solution of lithium bromide",
+      "X": "0.2 molal solution of aluminum phosphate",
+      "Y": "0.3 molal solution of sucrose",
+      "Z": "0.4 molal solution of phosphoric acid"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the geometry around the metal center in meridional and facial coordinate complex isomers?",
+    "answer": "OCTAHEDRAL"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A monatomic ideal gas is expanded adiabatically such that its pressure decreases by a factor of two. By what factor does its volume increase?",
+    "choices": {
+      "W": "Less than one",
+      "X": "Between one and two",
+      "Y": "Two",
+      "Z": "Greater than two"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the frequency in hertz of an RLC circuit with a 2 ohm resistor, 8 millihenry inductor, and 1.8 microfarad capacitor? Express your answer in scientific notation with two significant figures.",
+    "answer": "$8.3 \\times 10^{3}$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is neither an even nor odd function?",
+    "choices": {
+      "W": "$y = \\os (x)$",
+      "X": "$y = \\osh (x)$",
+      "Y": "$y = \\tan (x)$",
+      "Z": "$y = \\text{floor of x}$"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Kira writes the first N positive integers on a chalkboard, then counts the number of digits on the chalkboard. She observes that the total number of digits on the chalkboard is divisible by N. What is the smallest possible three digit value of N?",
+    "answer": "108"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Schwann cells and oligodendrocytes are glial cells that secrete what lipid?",
+    "answer": "MYELIN"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which region of the hypothalamus has inputs from specific melanopsin containing photoreceptors and is responsible for coordinating the circadian rhythm?",
+    "answer": "SUPRACHIASMATIC NUCLEUS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the coordination number of each gold atom in the face centered cubic unit cell of gold?",
+    "answer": "12"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three acids in increasing pKa: 1) Formic acid; 2) Ethanoic acid; 3) Chloro-ethanoic acid.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three mass movements in increasing speed: 1) Creep; 2) Earthfall; 3) Rockfall.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In North America, the Labrador ice sheet started to grow over northeastern Canada and the Keewatin ice sheet began to form over northwestern Canada. These ice sheets eventually merged to form which ice sheet?",
+    "answer": "LAURENTIDE ICE SHEET"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What is the ratio of the De Broglie wavelength of a neutron to that of an alpha particle?",
+    "choices": {
+      "W": "1/4",
+      "X": "1/2",
+      "Y": "2",
+      "Z": "4"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 1 kilogram block initially at rest slides down a frictionless ramp inclined at an angle of 45 degrees. If $g$ equals 10 meters per second squared, what is the work in joules done on the block by gravity between 3 and 5 seconds after the block starts sliding?",
+    "answer": "400"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a part of the Born Haber cycle to calculate the lattice enthalpy of magnesium oxide?",
+    "choices": {
+      "W": "Enthalpy of sublimation of magnesium",
+      "X": "Second ionization energy of oxygen",
+      "Y": "First ionization energy of magnesium",
+      "Z": "Enthalpy of formation of magnesium oxide"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The reaction $\\athrm{PCl}_{3}(\\athrm{~g}) + \\athrm{Cl}_{2}(\\athrm{~g}) \\ightarrow \\athrm{PCl}_{5}(\\athrm{~g})$ is carried out in a closed reaction vessel. Identify all of the following three changes to the vessel that will shift the reaction to the right: 1) Increasing volume; 2) Increasing temperature; 3) Removing $\\athrm{PCl}_{5}$ as it is produced.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive integers less than or equal to 1600 are divisible by 4 and 5 but not both?",
+    "answer": "640"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sean is solving a Rubik's cube! However, he would like to create his own cube by painting the six faces of a blank cube he bought off eBay. How many ways can he paint the six sides of the cube with six different colors?",
+    "answer": "30"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Kaguyu experienced a myocardial infarction due to lovesickness. Identify all of the following three organs that have likely experienced ischemia: 1) Heart; 2) Brain; 3) Muscles.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Gifting of roses is often seen as romantic in the Western world. Identify all of the following three statements that are true of roses: 1) They are herbaceous; 2) They are monocots; 3) They are gymnosperms.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The 21 centimeter radio emission line is a forbidden spectral line of what element in the interstellar medium?",
+    "answer": "HYDROGEN"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three components of the interstellar medium in increasing temperature: 1) Molecular clouds 2) Intercloud medium; 3) Coronal gas.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What type of pale blue radiation is emitted when a charged particle passing through a medium travels faster than the speed of light in that medium?",
+    "answer": "CHERENKOV RADIATION"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Danny holds his 2 kilogram computer motionless up against a wall with a coefficient of static friction of $\\rac{1}{2}$ between the computer and the wall by applying a force $\\athbf{F}$ at an angle of 30 degrees to the wall upwards. To the nearest multiple of ten, what is the magnitude of $\\athbf{F}$ in newtons?",
+    "answer": "20"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "From what layer of the root do lateral roots emerge?",
+    "answer": "PERICYCLE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Daniel suffers an injury to his anterior pituitary such that it over secretes all anterior pituitary hormones and doesn’t respond to negative feedback. Identity all of the following three hormones that would be found in excess: 1) LH; 2) ADH; 3) HGH.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the geometric mean of the solutions of the cubic equation $2x^{3} + 3x^{2} - 6x + 54 = 0?$",
+    "answer": "-3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alex is playing pokemon go on a 4 by 4 coordinate grid. He starts at (2,2), and can then take random one unit steps in any of the four cardinal directions. What is the probability that he will catch an oshawott at one of the four vertices of the grid in at most six steps?",
+    "answer": "3/128"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry of the central sulfur atom in $\\athrm{SOCl}_2$?",
+    "answer": "TRIGONAL PYRAMIDAL"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Radical chlorination and bromination of alkanes produce primary and secondary alkyl halides, respectively, due to differences in the structure of their transition states. What postulate explains this difference based on the chlorination and bromination of alkanes being exothermic and endothermic, respectively?",
+    "answer": "HAMMOND'S POSTULATE"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A neutron star resists gravitational collapse due to the degeneracy of what particle?",
+    "answer": "NEUTRON"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Amaan is forced to either fall into a mudflow, an earthflow or a slump. If only the velocity of the material moving factors into his survival rate in which faster movement causes lower chance of survival, order the three mass movements in increasing survival rate: 1) Mudflow; 2) Rock avalanche; 3) Slump.",
+    "answer": "3, 1, 2"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about Bose-Einstein condensates is NOT true?",
+    "choices": {
+      "W": "Bose-Einstein condensates are typically formed when a gas of bosons at low densities is cooled to temperatures very close to absolute zero",
+      "X": "In a Bose-Einstein condensate, a small fraction of bosons occupy the lowest quantum state",
+      "Y": "A Bose gas obeys Bose-Einstein statistics",
+      "Z": "Bose-Einstein condensate may work as a mechanism for superfluidity and superconductivity"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In a certain polytropic process, an ideal monatomic gas expands according to the equation $\\athrm{PV^n = C}$, where C is a constant. In the process, heat is added to the gas but the gas cools. Identify all of the following 3 values which could be the value of $n$: 1) 0.8; 2) 1.2; 3) 1.6.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many polar nuclei are involved in the triple fusion in angiosperms?",
+    "answer": "2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Answer the following 2 questions regarding the image shown: 1) What cycle is this image depicting; 2) What organelle is depicted in the top half of the image?",
+    "answer": "1) UREA CYCLE; 2) MITOCHONDRIA"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Suppose the Fibonacci sequence is defined as $\\athrm{F}_0 = 0$, $\\athrm{F}_1 = 1$, and $\\athrm{F}_\\athrm{n} = \\athrm{F}_{\\athrm{n} - 1} + \\athrm{F}_{\\athrm{n} - 2}$. What is the value of the infinite series of the sum of $\\athrm{F}_\\athrm{n} / 2^\\athrm{n}$ for $\\athrm{n} \\eq 0$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alice has a box containing a red, a white, and a blue ball. She draws balls at random with replacement. What is the probability that she draws the red ball for the third time before drawing the blue ball for the second time?",
+    "answer": "11/32"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the only type of moraine that lies perpendicular to the path of the glacier?",
+    "answer": "TERMINAL MORAINE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a diagram mapping sunspot latitudes over time. Answer the following two questions about this image: I) What is the name for these diagrams? II) In 2022, scientists discovered an apparent pause in sunspot activity in another nearby star. This may give them information about what earlier pause in sunspot activity from about 1645 to 1715?",
+    "answer": "I) BUTTERFLY DIAGRAMS; II) MAUNDER MINIMUM"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 functional groups on the ylide that would lead to high selectivity of the E alkene in the Wittig reaction: 1) Ethyl; 2) Amino; 3) Ketone.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A sample of helium gas at 300 Kelvin is expanded adiabatically such that its volume increases from 1 liter to 1728 liters. What is the new temperature of the gas in Kelvin?",
+    "answer": "$\\rac{25}{12}$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The production of the sugars for nucleotides from ribose-5-phosphate are created by what pathway that starts with Glucose-6-Phosphate?",
+    "answer": "PP PATHWAY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Suppose that you declare an const int array in java called x, which is initialized to a length of 10 and contains all 0s. Identify all of the following four operations on x that are valid: 1) Changing the value of the first element to 5; 2) Copying the values of another int array of length 10 into x; 3) Reassigning x to a new int array of length 5; 4) Reassigning x to a new int array of length 10.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes a plot of speed vs. time for a relativistic particle that begins at rest and experiences a constant force?",
+    "choices": {
+      "W": "Quadratic, then approaches a horizontal asymptote",
+      "X": "Quadratic, then approaches a vertical asymptote",
+      "Y": "Linear, then approaches a horizontal asymptote",
+      "Z": "Linear, then approaches a vertical asymptote"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Shown in the image above is an exotic composite particle. Answer the following two questions: I) What is the name of the hypothetical composite particle shown in the image, which consists solely of the force carriers of the strong force? II) Suppose that the above composite particle consists of 3 particles. What is the baryon number of the composite particle?",
+    "answer": "I) GLUEBALL; II) ZERO"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 heavy chains that the kappa or lambda light chains can attach to in humans: 1) Alpha; 2) Gamma; 3) Delta; 4) Epsilon.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 processes that catecholamine receptors directly influence: 1) ATP-Dependent Flippases; 2) Cytoplasmic janus kinases; 3) G Protein coupled receptors.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 expressions from least to greatest: 1) totient function of 29; 2) totient function of 30; 3) totient function of 31.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the sum of the cubes of the roots of $x^{3} - 6x^{2} + 8x + 5$.",
+    "answer": "57"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 4 planets that contain metallic hydrogen: 1) Jupiter; 2) Saturn; 3) Uranus; 4) Neptune.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are TRUE about parabolic dunes: 1) The dune usually points towards the windward side; 2) They often form around vegetation; 3) They are commonly found in coastal deserts.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The complete reduction of the azide anion into 3 molecules of ammonia requires the transfer of how many electrons?",
+    "answer": "8"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 types of H1-NMR coupling in order of increasing average coupling constants: 1) Vinyl geminal coupling; 2) Vinyl cis coupling; 3) Vinyl trans coupling.",
+    "answer": "1, 2, 3"
+  }
+]

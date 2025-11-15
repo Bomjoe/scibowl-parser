@@ -1,0 +1,448 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A lightbulb glows brightly when it is connected across a certain ideal battery. Two more identical bulbs are then connected across the same battery, so that all three bulbs are in parallel. By what factor will the brightness of each of the three bulbs increase compared to the original bulb?",
+    "answer": "1"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Kaiwen is repairing a brake system on a car. To prevent overheating of the brake pads, he attaches a heat sink to them with a contact area of 0.05 square meters. If the wheel of the car is spinning at 60 radians per second and the brakes apply a torque of 150 Newton-meters, how much power in Watts must the heat sink absorb to avoid overheating?",
+    "answer": "9000"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Sandia National Laboratory are finding ways to combat the cellular processes involved in the destruction of the substantia nigra. What disease are they aiming to find a solution for?",
+    "choices": {
+      "W": "Hypothyroidism",
+      "X": "Parkinsons",
+      "Y": "Huntingtons",
+      "Z": "Lou Gherigs"
+    },
+    "answer": "X) Parkinsons"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at North Carolina State University are studying ways to improve the efficiency of combustion engines. Which of the following thermodynamic cycles are used inside airbreathing jet engines?",
+    "choices": {
+      "W": "Otto",
+      "X": "Stirling",
+      "Y": "Brayton",
+      "Z": "Rankine"
+    },
+    "answer": "Y) Brayton"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Brian writes all of the integers from 1 to 100 inclusive on a whiteboard. How many times does he write the number 1?",
+    "choices": {
+      "W": "18",
+      "X": "19",
+      "Y": "20",
+      "Z": "21"
+    },
+    "answer": "Z) 21"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is logically equivalent to the saying, “If a student attends Enloe High School, then they are a nerd”?",
+    "choices": {
+      "W": "If a student does not attend Enloe High School, then they are not a nerd",
+      "X": "If a student is not a nerd, then they attend Enloe High School",
+      "Y": "If a student is a nerd, then they attend Enloe High School",
+      "Z": "If a student is not a nerd, then they do not attend Enloe High School"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals displays the highest hardness?",
+    "choices": {
+      "W": "Beryl",
+      "X": "Hematite",
+      "Y": "Fluorite",
+      "Z": "Plagioclase"
+    },
+    "answer": "W) Beryl"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the name of the structure that is formed from sediments accreted onto the non-subducting tectonic plate at a convergent plate boundary?",
+    "choices": {
+      "W": "Shock diamond",
+      "X": "Accretionary wedge",
+      "Y": "Triple junction",
+      "Z": "Subduction triangle"
+    },
+    "answer": "X) Accretionary wedge"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 compounds in order of increasing boiling point: 1) HF 2) $\\athrm{H}_2\\athrm{O}$ 3) $\\athrm{NH}_3$",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What term describes the tendency of a reaction to favor one constitutional isomer over others?",
+    "answer": "Regioselectivity"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Kaiwen is investigating the use of ionic substances as insulators for his high-voltage electronics. The breakdown voltage of ionic solids is roughly proportional to the lattice energy of that compound. Which of the following compounds would be best for him to use as an insulator?",
+    "choices": {
+      "W": "$\\athrm{CaCl}_2$",
+      "X": "$\\athrm{AlCl}_3$",
+      "Y": "$\\athrm{MgO}$",
+      "Z": "$\\athrm{RbCl}$"
+    },
+    "answer": "Y) $\\athrm{MgO}$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Kaiwen is studying the effectiveness of different radioactive isotopes in nuclear bombs. He acquires a sample of Uranium-238 and begins to examine one atom of the sample. The atom undergoes alpha decay 3 times, beta minus decay 2 times, and gamma decay once. What is the atomic number and atomic mass, respectively, of the resulting atom?",
+    "answer": "88, 226 (ACCEPT: Atomic number 88 and Atomic mass 226)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following groups of protists are multicellular?",
+    "choices": {
+      "W": "Parabasalids",
+      "X": "Euglenids",
+      "Y": "Diatoms",
+      "Z": "Brown Algae"
+    },
+    "answer": "Z) Brown Algae"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 types of RNA that are involved in post-transcriptional RNA interference: I) tRNA II) miRNA III) siRNA IV) snRNA",
+    "answer": "II, III"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Colin, after driving to school on a cold day, gets out of his warm car and turns it off. The air inside the car begins to cool from being in contact with the cold outside air. Identify all of the following 3 statements that are true about the process: I) The entropy of the car's air increases II) The entropy of the outside air increases III) The entropy of the universe increases",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the formal charge on the nitrogen atom in nitrile oxide, which has a structural formula CNO?",
+    "answer": "+1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 planets in order of increasing density: 1) Mercury 2) Earth 3) Saturn 4) Neptune",
+    "answer": "3, 4, 1, 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term that refers to the rotating circumstellar disk of dense gas surrounding a young newly formed star?",
+    "answer": "Protoplanetary Disk"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 forces that are conservative: I) Gravitational force II) Electrostatic force III) Tension",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Brian places a 8 centimeter tall Genshin Impact figurine 20 centimeters from a lens with a focal length of 5 centimeters. How tall will the image of the figurine appear in centimeters?",
+    "answer": "8/3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following enzymes is the “rate limiter” of glycolysis?",
+    "choices": {
+      "W": "Hexokinase",
+      "X": "Aldolase",
+      "Y": "Phosphofructokinase",
+      "Z": "Phosphoglycerokinase"
+    },
+    "answer": "Y) Phosphofructokinase"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Select all of the following three amino acids that have aromatic side chains: I) Tyrosine II) Proline III) Phenylalanine",
+    "answer": "I and III"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "There are two faucets in the bathroom. One drips every 6 seconds, and the other drips every 13 seconds. If the two faucets just dripped at the same time, how many seconds will pass before they both drip at the same time again?",
+    "answer": "78"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Kaiwen has 10 nuclear warheads labeled from 1 to 10. How many ways can Kaiwen choose 3 warheads to put on a MIRV such that no two labels of two chosen warheads are consecutive numbers?",
+    "answer": "56"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The fine structure constant is the coupling constant for what fundamental force?",
+    "answer": "Electromagnetic Force (ACCEPT: Electromagnetic Interaction)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 objects from smallest to largest moment of inertia about their perpendicular central axis: 1) 1 kilogram hoop with radius 2 meters 2) 4 kilogram disk with radius 1 meter 3) 2 kilogram rod with length 3 meters",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name of a common reagent used to distinguish between aldehydes and ketones, also used for silver mirroring?",
+    "answer": "Tollens reagent"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which two decay mechanisms are most likely to occur in nuclei that are neutron deficient?",
+    "answer": "Beta plus and electron capture"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the coefficients of the expanded form of $(x + y)^{10}$ [the quantity x plus y to the tenth power]?",
+    "answer": "1024"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Siddharth leaves home to go to school, driving at a constant speed of 60 miles per hour. When he is halfway there, he realizes that he is going to be late and drives the second half at a constant speed of 90 miles per hour. What was his average speed for the entire trip, in miles per hour?",
+    "answer": "72"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Sandia National Lab are studying electron transitions in molecules. What process occurs when electrons are energized by incoming light and slowly transition back to the ground state through forbidden transitions?",
+    "answer": "Phosphorescence"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at NASA are using the James Webb Space telescope to create more detailed maps of the universe. Identify all of the following 3 methods which can be used to map spiral arms in galaxies: I) O and B associations II) Carbon monoxide absorption lines III) Emission nebulae",
+    "answer": "All"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "List the following 3 parts of the heart electric system in order of activation during a regular heartbeat: 1) AV Node 2) Bundle of His 3) SA Node",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 organisms that are triploblastic [trip-lo-blast-ic]: I) Frogs II) Jellyfish III) Sponges",
+    "answer": "I only"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 scenarios that would produce an electric field with a nonzero curl: I) A stationary point charge II) A wire with a constant current flowing through it III) A point charge moving with a constant nonzero acceleration",
+    "answer": "III only"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two common units for size measurements are pounds and kilograms, which are related by a numeric factor of approximately 2.2 pounds per kilogram. In SI base units, what must be the units of this numeric factor?",
+    "answer": "$\\athrm{m / s^2}$ (meter per second squared)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the valley formed between two horses?",
+    "answer": "Graben"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 noble gases in order of increasing abundance in the Earth's atmosphere: 1) Neon 2) Argon 3) Xenon",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Serena is making a poster in the shape of a rhombus. What is the area of her poster in square inches if the side length of it is 5 inches and shorter diagonal length is 6 inches?",
+    "choices": {
+      "W": "15",
+      "X": "24",
+      "Y": "30",
+      "Z": "48"
+    },
+    "answer": "X) 24"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Andy is broke and decides to start saving money in his empty piggy bank. He inserts one dollar on Mondays, two dollars on Tuesdays, three dollars on Wednesdays, four dollars on Thursdays, five dollars on Fridays, six dollars on Saturdays, and seven dollars on Sundays. After 17 days of saving, he counts 71 dollars in his piggy bank. On what day of the week did he start saving money?",
+    "choices": {
+      "W": "Thursday",
+      "X": "Friday",
+      "Y": "Saturday",
+      "Z": "Sunday"
+    },
+    "answer": "W) Thursday"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "According to the ABC hypothesis, identify all of the following 3 genes that are expressed during the development of stamens: I) A II) B III) C",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Sieve tube elements are known to not have nuclei or any functioning organelles as their primary function is to transport sugars. Sieve tube elements receive resources from what other cells as a result",
+    "answer": "Companion cells"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many radial and angular nodes, respectively, are in a 4p orbital?",
+    "answer": "2, 1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Serena is trying to make a buffer solution at pH 5.2 using her stock solutions of various bases and their conjugate acids. Which of the following $\\athrm{K}_{\\athrm{b}}$ values should she use for her base to make the best buffer solution?",
+    "choices": {
+      "W": "$3\\athrm{x}10^{-12}$",
+      "X": "$2\\athrm{x}10^{-9}$",
+      "Y": "$8\\athrm{x}10^{-6}$",
+      "Z": "$4\\athrm{x}10^{-3}$"
+    },
+    "answer": "X) $2\\athrm{x}10^{-9}$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Astronomers have discovered an alien civilization in the Trisolaris system, which has a parallax of 750 milliarcseconds. How many parsecs away is Trisolaris, to three significant figures?",
+    "answer": "1.33 parsecs"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The two moons of Kerbin, Mun and Minmus, have an apparent magnitude of $-20.0$ and $-12.0$, respectively. Which of the following is closest to the ratio of the brightness of Mun to the brightness of Minmus?",
+    "choices": {
+      "W": "50",
+      "X": "100",
+      "Y": "500",
+      "Z": "1000"
+    },
+    "answer": "Z) 1000"
+  }
+]

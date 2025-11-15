@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which subunit of the G protein dissociates from the other subunits in response to GTP binding?",
+    "choices": {
+      "W": "Alpha",
+      "X": "Beta",
+      "Y": "Gamma",
+      "Z": "Delta"
+    },
+    "answer": "W) ALPHA"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about the plasma membrane: 1) Phospholipids are free to move laterally along a monolayer 2) Increasing the proportion of saturated hydrocarbon tails increases the fluidity of the membrane 3) Decreasing the length of the hydrocarbon tails decreases the fluidity of the membrane",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the difference between an aldehyde and a ketone?",
+    "choices": {
+      "W": "Aldehydes have at least one hydrogen substituent",
+      "X": "Ketones have at least one hydrogen substituent",
+      "Y": "Aldehydes have an oxygen atom adjacent to the carbonyl center",
+      "Z": "Ketones have an oxygen atom adjacent to the carbonyl center"
+    },
+    "answer": "W) ALDEHYDES HAVE AT LEAST ONE HYDROGEN SUBSTITUENT"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The reaction of an aldehyde with a primary Grignard (grin-yard) reagent produces which of the following?",
+    "choices": {
+      "W": "Primary alcohol",
+      "X": "Secondary alcohol",
+      "Y": "Tertiary alcohol",
+      "Z": "Quaternary alcohol"
+    },
+    "answer": "X) SECONDARY ALCOHOL"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of ocean sediments makes up the majority of most pelagic deposits?",
+    "choices": {
+      "W": "Hydrogenous [hi-DRAH-jin-us]",
+      "X": "Terrigenous [tare-IH-jin-us]",
+      "Y": "Cosmogenous [cause-MAH-jin-us]",
+      "Z": "Biogenous [bi-AH-jin-us]"
+    },
+    "answer": "Z) BIOGENOUS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the part of an aquifer in which all cracks and pores in bedrock are filled with water?",
+    "answer": "PHREATIC ZONE (ACCEPT: ZONE OF SATURATION, SATURATED ZONE)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ways can you hand out 22 identical pencils to 20 students, if each student must get at least one pencil and every pencil must be given out?",
+    "answer": "210"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The sequence S is created by defining S1=2 and letting S_n be the remainder when $3\\dot S_{n-1}$ is divided by 17. What is S_18?",
+    "answer": "6"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A circular loop of wire is placed in the plane of the page. The loop is pulled out of a constant magnetic field. If the induced current in the loop flows counterclockwise, in which direction does the magnetic field point?",
+    "choices": {
+      "W": "Out of the page",
+      "X": "Into the page",
+      "Y": "To the left",
+      "Z": "To the right"
+    },
+    "answer": "W) OUT OF THE PAGE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four statements that are true about quarks. 1) Quarks can have neutral color charge 2) Quarks can exist in identical quantum states, unlike fermions 3) Groups of two and groups of three quarks can both result in an overall color neutral particle 4) Quarks interact via the strong force by exchanging gluons",
+    "answer": "3 AND 4"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A Team members are studying galaxy formation. What type of galaxy, thought to be created by galactic mergers, forms stars faster than any other type of galaxy?",
+    "answer": "STARBURST"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS B team members are studying magnetic fields. If a particle is launched into a magnetic field with initial velocity perpendicular to the magnetic field, identify all of the following three changes that would increase the radius of the particle's circular path: 1) Increasing mass 2) Increasing charge 3) Increasing velocity",
+    "answer": "1 AND 3 (ACCEPT: INCREASING MASS, INCREASING VELOCITY)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the main excitatory neurotransmitter in the central nervous system?",
+    "answer": "GLUTAMATE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Griffin is culturing a cell line and notices the cells are growing slowly. On a hunch, he runs an ELISA [uh-LIE-suh] and finds that the cells are secreting interferon [in- tur-FEAR-on]. Based on this information, the cell line is most likely infected by what type of pathogen?",
+    "answer": "VIRUS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "At physiological pH, amino acids contain both positively and negatively charged groups, but are electrically neutral. What term is given to molecules that possess this property?",
+    "answer": "ZWITTERION (ACCEPT: ZWITTERIONIC)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider the following two-step mechanism for the gas-phase reaction of nitric oxide and bromine (read slowly!): 1) $\\athrm{NO} + \\athrm{Br}_{2}$ yields $\\athrm{NOBr}_{2}$ 2) $\\athrm{NOBr}_{2} + \\athrm{NO}$ yields $2 \\athrm{NOBr}$ If the first step is fast and reversible, what would the reaction order in NO and $\\athrm{Br}_{2}$ be, respectively?",
+    "answer": "2 AND 1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of unconformities can be considered a disconformity without an erosional plane?",
+    "choices": {
+      "W": "Nonconformity",
+      "X": "Paraconformity",
+      "Y": "Angular Unconformity",
+      "Z": "Misconformity"
+    },
+    "answer": "X) PARACONFORMITY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "After the completion of stellar helium fusion, the resulting products may be convected to the star's surface during dredge-up, creating a star with an atmosphere that contains more carbon than oxygen. What is the spectral class of this type of star?",
+    "answer": "C"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the slope of the line tangent to the curve $y = x^2 - 2x + 8$ at the point $4, 16$?",
+    "answer": "6"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "On the day of Nickmas, 100 students at Davidson stand in a circle. Nicholas gives two oranges to each student. Each student has a $\\rac{1}{2}$ chance to give a given orange they are holding to the person on their left, and a $\\rac{1}{2}$ chance to give that orange to the person on their right. What is the expected number of students, to the nearest tenth of a student, who still have two oranges after this process is complete?",
+    "answer": "37.5"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A city quark and a country antiquark fall in love and combine to form a particle best classified as which of the following?",
+    "choices": {
+      "W": "Meson",
+      "X": "Baryon",
+      "Y": "Lepton",
+      "Z": "Pion"
+    },
+    "answer": "W) MESON"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Alex, attaches a spring of spring constant 100 N/m to the bottom of a 2 kilogram box and drops the assembly from a height of 3 meters. The spring contacts the ground when the box is still 1 meter above the ground, after which it bounces up and down and comes to rest in an upright position with the spring compressed. What is the height of the box above the ground, to the hundredths place, assuming $g = 10 \\ \\athrm{m/s^2}$?",
+    "answer": "0.80"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson HS A team members are studying Pascal's triangle. If the terms in the third shallow diagonal sum to 2, the fourth to 3, the fifth to 5, etc., what is two times the seventh shallow diagonal plus half the eighth?",
+    "choices": {
+      "W": "34",
+      "X": "36.5",
+      "Y": "38",
+      "Z": "41.5"
+    },
+    "answer": "X) 36.5"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson HS A Team members are currently studying structural polysaccharides. Which of the following statements best describes the difference between cellulose and chitin? W) The monomer composing chitin is a substituted form of glucose X) The monomer composing cellulose is a substituted form of glucose Y) Chitin is made up of beta-glucose while cellulose is an alpha-glucose polymer Z) Cellulose is made up of beta-glucose while chitin is an alpha-glucose polymer",
+    "choices": {
+      "W": "The monomer composing chitin is a substituted form of glucose",
+      "X": "The monomer composing cellulose is a substituted form of glucose",
+      "Y": "Chitin is made up of beta-glucose while cellulose is an alpha-glucose polymer",
+      "Z": "Cellulose is made up of beta-glucose while chitin is an alpha-glucose polymer"
+    },
+    "answer": "W) THE MONOMER COMPOSING CHITIN IS A SUBSTITUTED FORM OF GLUCOSE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Both classical and operant conditioning are examples of what type of learning?",
+    "choices": {
+      "W": "Cognitive",
+      "X": "Observational",
+      "Y": "Associative",
+      "Z": "Social"
+    },
+    "answer": "Y) ASSOCIATIVE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The human genome contains genes encoding for several different isoforms of the histone H1 protein. These genes diverged from each other after ancestral gene duplication, an example of what type of genome homology?",
+    "answer": "PARALOGY (ACCEPT: PARALOGOUS)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three unit cell arrangements that have a higher packing efficiency than body-centered cubic unit cells: 1) Face-centered cubic 2) Primitive cubic 3) Hexagonal close-packed",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many stereoisomers are possible for trigonal bipyramidal molecules of the form $\\athrm{AX}_2\\athrm{Y}_3$ ?",
+    "answer": "3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What moon of Saturn is responsible for creating its elusive E ring?",
+    "answer": "ENCHELADUS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "At ground level, a dry air parcel has a temperature of 30 degrees Celsius. How far above the ground, in kilometers to the first decimal place, must this parcel be raised before it has a temperature of 5 degrees Celsius, rounding the dry adiabatic lapse rate to the nearest whole number?",
+    "answer": "2.5 KILOMETERS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two random integers, not necessarily distinct, are chosen from -10 to 10 inclusive. What is the probability that their product is negative?",
+    "answer": "200/441"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Annabelle and Winston are baking and sending cookies to one another. On January 1, Annabelle sends 1 cookie to Winston. On each subsequent day, Winston sends the same number of cookies he had received the previous day, while Annabelle sends the number of cookies she had sent the previous day plus the number of cookies she had received on that day. How many cookies total are sent on January 10?",
+    "answer": "89"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two potatoes are dropped in Manzanita Lake at the same time, one on the north side and one on the south. Lucas notes that the time evolution of the waves caused by each potato are the same as when the potatoes are dropped separately. What principle of wave mechanics does this illustrate?",
+    "answer": "PRINCIPLE OF SUPERPOSITION (ACCEPT: SUPERPOSITION)"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is false about induction?",
+    "choices": {
+      "W": "Induction can be used to change the voltage of AC current",
+      "X": "Inserting magnetic cores can significantly improve the performance of an inductor",
+      "Y": "Induced currents always produce a magnetic field that opposes the original magnetic field",
+      "Z": "The Biot-Savart (BEEoh sVAR) law is a physical example of a line integral"
+    },
+    "answer": "Y) INDUCED CURRENTS ALWAYS PRODUCE A MAGNETIC FIELD THAT OPPOSES THE ORIGINAL MAGNETIC FIELD"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS A team members are studying acids and bases. If the $K_{a}$ of benzoic acid is $6.3 \\times 10^{-5}$ , then to the nearest whole number, what is the pH at the half-equivalence point in the titration of benzoic acid with sodium hydroxide?",
+    "answer": "4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A Team members are studying the plagioclase feldspar solid solution series. Give the names of the two end members of this series in the order they would crystallize from a cooling magma.",
+    "answer": "ANORTHITE, ALBITE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "If E. coli is cultured in a medium containing the heavy nitrogen isotope nitrogen-15 for many generations, then transferred to a medium containing normal nitrogen-14, which of the following statements is true?",
+    "choices": {
+      "W": "After the first DNA replicative cycle, half the DNA will be lighter",
+      "X": "After the first DNA replicative cycle, there will be a 3:1 ratio of light to hybrid DNA",
+      "Y": "After the second DNA replicative cycle, half the DNA will be lighter",
+      "Z": "After the second DNA replicative cycle, there will be a 3:1 ratio of light to hybrid DNA"
+    },
+    "answer": "Y) AFTER THE SECOND REPLICATIVE CYCLE, HALF THE DNA WILL BE LIGHTER"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What cell type helps load sugars into sieve-tube members, in addition to functioning in protein synthesis?",
+    "answer": "COMPANION CELL"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three compounds in order of increasing acidity: 1) Chloroacetic acid 2) Trichloroacetic acid 3) Fluoroacetic acid",
+    "answer": "1, 3, 2 (ACCEPT: CHLOROACETIC ACID, FLUOROACETIC ACID, TRICHLOROACETIC ACID)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The water-gas shift reaction, in which carbon monoxide and water vapor are reacted to form carbon dioxide and hydrogen, is commonly used as part of more complex industrial syntheses, such as the Haber process. If the equilibrium constant $\\athrm{K}_{\\athrm{p}}$ for this reaction is $2.1 \\times 10^{-4}$ , and the ratio of the partial pressures of carbon dioxide to carbon monoxide is 0.015, what ratio of the partial pressures of hydrogen gas to water vapor would indicate that the water-gas shift reaction is not a rate-limiting step in the Haber process?",
+    "answer": "0.014 (ACCEPT: $1.4 \\times 10^{-2}$)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the highest luminosity a star can have while still being in hydrostatic equilibrium?",
+    "answer": "EDDINGTON LIMIT"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three features that were not in Copernicus's heliocentric model: 1) Circular orbits 2) The sun located slightly off-center with respect to the planets' orbits 3) Epicycles",
+    "answer": "NONE OF THEM"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three sets of numbers that can be found listed in Pascal's triangle: 1) Binomial Coefficients 2) Harmonic Series 3) Triangular Numbers",
+    "answer": "1 AND 3 (ACCEPT: BINOMIAL COEFFICIENTS, TRIANGULAR NUMBERS)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Akshansh has gathered in an empty room some of his fellow Scibowl competitors, some of his plush birds, and some potatoes. Akshansh, peeps into the room from the hallway and sees 22 legs, 14 inanimate objects, and 19 things with eyes. How many potatoes are there?",
+    "answer": "8"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ping pong ball sitting on a carpet is given an initial velocity to the right with no initial angular velocity. Eventually the ball starts to roll without slipping. Name all of the following four quantities that, when increased, would decrease the time needed for the ball to start rolling without slipping. 1) Coefficient of friction between the ball and the floor 2) Mass of the ball 3) Moment of inertia of the ball 4) Acceleration due to gravity",
+    "answer": "1 and 4 (ACCEPT: COEFFICIENT OF FRICTION BETWEEN THE BALL AND THE FLOOR, ACCELERATION DUE TO GRAVITY)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Arnesh calculates the Reynolds number of a mystery liquid by pumping it through a pipe, but his numbers are a little bit off. If the pipe had 4 times the cross-sectional area as he thought it had and the liquid was moving a quarter as fast as measured, by what factor should Arnesh multiply his Reynolds number to get the correct value?",
+    "answer": "1/2"
+  }
+]

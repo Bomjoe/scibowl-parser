@@ -1,0 +1,500 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "In order to make any scientific observations, one must first be in a universe that supports life. Thus, the fact that we can make observations at all gives us evidence about the universe, regardless of what those observations are. This is an example of what philosophical principle?",
+    "answer": "Anthropic principle"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following does the scaling hypothesis NOT imply?",
+    "choices": {
+      "W": "There are very few problems for which overfitting is a serious concern for neural networks",
+      "X": "Increasing the size of neural networks will advance AI capabilities to potentially dangerous levels",
+      "Y": "Logic-based AI systems will be harder to align than neural networks",
+      "Z": "Progress in AI capabilities is largely dependent on progress in computer hardware"
+    },
+    "answer": "Y) Logic- based AI systems will be harder to align than neural networks"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following polar numbers has the largest $x$ value in rectangular coordinates?",
+    "choices": {
+      "W": "$(5,\\rac{\\i}{5})$",
+      "X": "$(5,\\rac{\\i}{6})$",
+      "Y": "$(5,\\rac{\\i}{7})$",
+      "Z": "$(5,\\rac{\\i}{8})$"
+    },
+    "answer": "Z) $(5,\\rac{\\i}{8})$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Use implicit differentiation to solve for $dy / dx$ of $x^{2} + y^{2} = r^{2}$ .",
+    "choices": {
+      "W": "$- x / y$",
+      "X": "$x / y$",
+      "Y": "$- y / x$",
+      "Z": "$y / x$"
+    },
+    "answer": "W) $- x / y$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In the limit of an infinite chain, polyacetylene [pol-ee-uh-SEE-tul-een] is observed to have a decreasing change in resistivity with temperature. Which of the following phases of condensed matter does polyacetylene exist in the limit of an infinite chain?",
+    "choices": {
+      "W": "Metal",
+      "X": "Semiconductor",
+      "Y": "Superconductor",
+      "Z": "Insulator"
+    },
+    "answer": "X) Semiconductor"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the ratio of the energy of a photon released when an electron transitions from the $n = 3$ to the $n = 2$ state to the energy of a photon released when an electron transitions from the $n = 4$ to the $n = 3$ state in a hydrogen atom?",
+    "answer": "20/7"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three processes that may result in crustal rebound: 1) Deglaciation; 2) Lithospheric delamination; 3) Orogenesis.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At a constant depth, which of the following aluminosilicate minerals would form at the highest temperature?",
+    "choices": {
+      "W": "Kyanite",
+      "X": "Sillimanite",
+      "Y": "Andalusite",
+      "Z": "Kaolinite [KOW-lin-ite]"
+    },
+    "answer": "X) Sillimanite"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Larry breathes in the contents of a bomb calorimeter and his lower airways start collapsing due to multiple burns. Which of the following is he likely experiencing?",
+    "choices": {
+      "W": "Emphysema",
+      "X": "Increased vital capacity",
+      "Y": "Increased partial pressure of oxygen in his lungs",
+      "Z": "Increased stimulation of J receptors"
+    },
+    "answer": "W) Emphysema"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which enzyme is responsible for the conversion of trypsinogen [trip-SIN-oh-jin] into trypsin [TRIP-sin]?",
+    "answer": "Enterokinase"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The cyclotron frequency of an electron in a vacuum is a quantity defined in a way such that what constant is scaled linearly by the strength of the magnetic field?",
+    "answer": "Charge- to- mass ratio"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If the moment of inertia of a uniformly dense sphere of radius $R$ and mass $M$ is $I$ about its central axis, what is the moment of inertia of the same sphere but with all of the mass from 0 to $\\rac{R}{2}$ hollowed out, as a fraction of $I$ ?",
+    "answer": "$\\rac{31}{32} I$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Due to restrictions on ozone-depleting chemicals, which family of strong greenhouse gases is now commonly used as refrigerants?",
+    "choices": {
+      "W": "Hydrofluorocarbons",
+      "X": "Hydrochlorofluorocarbons",
+      "Y": "Chlorofluorocarbons",
+      "Z": "Hydrofluoroolefins"
+    },
+    "answer": "W) Hydrofluorocarbons"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Human civilization on earth will have to learn to adapt to the increasing temperature of the Sun as it evolves through its main sequence phase. In stars as massive as the Sun, what event separates the red giant branch and the horizontal branch?",
+    "answer": "Helium flash"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A triangle is inscribed in a circle with a circumradius of 24. What is the largest possible area of the incircle of the triangle?",
+    "answer": "144π"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pieces of information does the $r^2$ value convey in the context of statistical models?",
+    "choices": {
+      "W": "The proportion of variation in the dependent variable that is predictable from the independent variables",
+      "X": "Whether there is any causal relationship between the independent variables and the dependent variable",
+      "Y": "Whether the correct regression was used",
+      "Z": "Whether the most appropriate set of independent variables was chosen"
+    },
+    "answer": "W) The proportion of variation in the dependent variable that is predictable from the independent variables"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "While barium ions can be used to precipitate sulfate ions out of aqueous solutions, barium sulfides are significantly more soluble. Which of the following best explains this effect according to hard-soft acid-base theory?",
+    "choices": {
+      "W": "Oxide ions are harder bases than sulfide ions",
+      "X": "Oxide ions are softer bases than sulfide ions",
+      "Y": "Sulfur six ions are harder bases than sulfide ions",
+      "Z": "Sulfur six ions are softer bases than sulfide ions"
+    },
+    "answer": "W) Oxide ions are harder bases than sulfide ions"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The reaction A yields 2B is second-order in A. The first half-life is 5 seconds when the reaction starts using 2 moles of A. How many seconds after the reaction begins will it take until there are 3.5 moles of B present?",
+    "answer": "35"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Around a rotating black hole, general relativity predicts that light moving in the direction of rotation will move past the black hole faster than light moving against the direction of rotation. What effect is this known as?",
+    "answer": "Frame dragging"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three astronomical features that can be sustained by recombination: 1) HII [H-two] regions; 2) Stromgren spheres; 3) Neutral molecular dust.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many molecules of sodium dodecyl [do- DES- ul] sulfate would bind to a protein composed of 36 amino acids?",
+    "answer": "18"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Malabsorption can occur from what disease that decreases the surface area of the brush border due to an autoimmune loss due to sensitivity to proteins known as gluten?",
+    "answer": "Celiac disease"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What technique is used to probe inside hadrons, and was used as the first piece of evidence that quarks exist?",
+    "answer": "Deep inelastic scattering"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A wheel separated into four equal quadrants by two diagonal lines is numbered 1, 2, 3, 4 counter-clockwise from the 12 o'clock position. The wheel is then set to rotate at 300 revolutions per minute. If a dart is fired towards the topmost quadrant of the wheel from 35 meters away while flying at 10 meters per second, which of the quadrants will it land on?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "Y) 3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following groups of asteroids has the highest number of potentially hazardous objects?",
+    "choices": {
+      "W": "Apollo asteroids",
+      "X": "Hilda asteroids",
+      "Y": "Trojans",
+      "Z": "Plutinos"
+    },
+    "answer": "W) Apollo asteroids"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "In a thermonuclear weapon, the tamper on the primary and the secondary cores are a dense layer used to delay explosion of the fissioning core before all the fuel has been used up. This requires a dense, inert material that can also reflect neutrons. These tampers are usually made of what radioactive isotope, which is lacking in clean bomb tampers?",
+    "answer": "Uranium- 238"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Order the following three functions from lowest to highest growth rate in their big O notation: 1) $n^{\\og (n)}$ [n to the power of $\\og \\athrm{n}$ ]; 2) $n^{2}\\og (n)$ [n squared times $\\og \\athrm{n}$ ]; 3) $n^{2.5}$ [n to the 2.5].",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the double integral with the outer bound from 0 to 1 and the inner bound from $y$ to $y + 2$ of the quantity $4x - 3y$ , $dx$ , $dy$.",
+    "answer": "9"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry of the metal center in nickel tetracarbonyl [tet-ruh- CAR-buh-nul]?",
+    "answer": "Tetrahedral"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The equilibrium between the dissolution and precipitation of an ionic compound with chemical formula AB in water is necessarily shifted toward dissolution by which of the following changes?",
+    "choices": {
+      "W": "Adding more AB to the solution",
+      "X": "Adding an ionic compound CD to the solution",
+      "Y": "Increasing temperature of the solution",
+      "Z": "Decreasing temperature of the solution"
+    },
+    "answer": "X) Adding an ionic compound CD to the solution"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following devices would provide the best vertical resolution of the current state of the atmosphere?",
+    "choices": {
+      "W": "Radiosonde [RAY-dee-oh-sond]",
+      "X": "Geostationary satellite",
+      "Y": "Land-based radar",
+      "Z": "Air-based radar"
+    },
+    "answer": "W) Radiosonde"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What best describes the origin of deepfocus earthquakes found below usual crustal depths?",
+    "choices": {
+      "W": "Hydration of down-going subducted plates",
+      "X": "Metamorphism of subducted slabs",
+      "Y": "Diversion of mantle flow due to subducted slabs",
+      "Z": "Lithospheric heating from generation of lithospheric windows"
+    },
+    "answer": "X) Metamorphism of subducted slabs"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following eicosanoids [eye- COH- suh-noids] would be deficient in a person possessing a knockout mutation for the lipoxygenase [luh-POK-suh-jin-ase] enzyme?",
+    "choices": {
+      "W": "Thromboxanes [throm-BOX-anes]",
+      "X": "Prostacyclins [pros-tuh-SIKE-lin]",
+      "Y": "Leukotrienes [loo-koh-TRI-eens]",
+      "Z": "Cyclic endoperoxides"
+    },
+    "answer": "Y) Leukotrienes [loo-koh-TRI-eens]"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Because of the presence of gamma carboxyglutamate residues on fibrin, blood clotting cannot occur without the presence of which ion?",
+    "answer": "$\\athrm{Ca}^{2 + }$ (ACCEPT: Calcium)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A single photon is introduced into an otherwise closed system of 200 helium electrons in the first excited state. Based on this information alone, identify all of the following results that are possible after the photon is introduced: 1) The number of photons present at a given time is more than one; 2) The number of photons present at a given time is zero; 3) The number of electrons at a given time is less than 200.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three vector quantities associated with a particle that will remain unchanged under parity flip: 1) Spin; 2) Orbital angular momentum; 3) Magnetic torque.",
+    "answer": "All"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following techniques is not generally used by astronomers to detect exoplanets around their host star?",
+    "choices": {
+      "W": "Transit photometry",
+      "X": "Doppler spectroscopy",
+      "Y": "Stellar parallax",
+      "Z": "Gravitational lensing"
+    },
+    "answer": "Y) Stellar parallax"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Search engine results and social media platforms have been observed to have what type of bias in which systematic and repeatable errors lead to unfair outcomes?",
+    "answer": "Algorithmic bias"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Calculate the eigenvalues of the $2 \\times 2$ matrix with first row 4, 5 and second row 0, -2.",
+    "answer": "4, - 2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The graph of $r = 1 + \\os \\theta$ in polar coordinates is which of the following shapes?",
+    "choices": {
+      "W": "Cardioid",
+      "X": "Convex limacon",
+      "Y": "Dimpled limacon",
+      "Z": "Looped limacon"
+    },
+    "answer": "W) Cardioid"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Carnelley's rule states that highly symmetric molecules tend to have high melting points. Which of the following best explains this observation?",
+    "choices": {
+      "W": "Symmetric molecules have a large heat of fusion and large entropy of fusion",
+      "X": "Symmetric molecules have a large heat of fusion and small entropy of fusion",
+      "Y": "Symmetric molecules have a small heat of fusion and large entropy of fusion",
+      "Z": "Symmetric molecules have a small heat of fusion and small entropy of fusion"
+    },
+    "answer": "X) Symmetric molecules have a large heat of fusion and small entropy of fusion"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What compound is the anhydride of perchloric acid?",
+    "answer": "$\\athrm{Cl}_2\\athrm{O}_7$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Faber-Jackson power law for luminosity and velocity distributions is applied to which of the following galaxy types?",
+    "choices": {
+      "W": "Ring",
+      "X": "Spiral-barred",
+      "Y": "Elliptical",
+      "Z": "Lenticular"
+    },
+    "answer": "Y) Elliptical"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "After contracting as a pre-main sequence object, massive protostars enter the main sequence via what horizontal pathway?",
+    "answer": "Henyey track"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three effects that would result from altitude acclimation: 1) Increased hematocrit [huh-MAT-oh-crit]; 2) Increased production of 2,3 BPG; 3) Increased release of endothelin-1 in the peripheral capillaries.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Cytochrome P450 and hemoglobin both contain what characteristic macrocyclic ring that coordinates iron?",
+    "answer": "Porphyrin"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What two vector fields are introduced in order to account for the total observed electric field inside a dielectric due to the presence of bound charges?",
+    "answer": "Polarization and displacement fields"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three wavevector magnitudes that would cause a plane electromagnetic wave to attenuate when in a non-vacuum medium: 1) $2\\i^{2}$ 2) $2\\i^{2} + 3i$ 3) $2\\i^{2} - 3i$",
+    "answer": "2 only"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Scientists are studying new methods to bring nuclear fusion onto the grid as a reliable energy source. What is the term for the method of fusion which involves heating and compressing a fuel target, typically a pellet containing deuterium and tritium?",
+    "choices": {
+      "W": "Thermonuclear fusion",
+      "X": "Inertial confinement fusion",
+      "Y": "Inertial electrostatic confinement",
+      "Z": "Muon-catalyzed fusion"
+    },
+    "answer": "X) Inertial confinement fusion"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following failures in reasoning would NOT cause a multi-stage probabilistic reasoning process to underestimate a probability?",
+    "choices": {
+      "W": "Multiplying unconditional probabilities as if they were conditional probabilities",
+      "X": "Assigning excessive confidence to representative-sounding events",
+      "Y": "Neglecting the possibility of reaching stages outside of an existing model",
+      "Z": "Biasing probability assessments towards $50\\$"
+    },
+    "answer": "X) Assigning excessive confidence to representative- sounding events"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In the Fibonacci sequence, what is the ratio of odd to even numbers in the first 90 values?",
+    "answer": "2 to 1 (ACCEPT: 2)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Suppose the residents in a city live in four neighborhoods, A, B, C, and D, and they work in three different types of occupations, white collar, blue collar, or no collar. If one were to perform a chi-squared test on the null hypothesis that each person's neighborhood of residence is independent of the person's occupational classification, how many degrees of freedom should be used?",
+    "answer": "6"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What quantity represents the maximum amount of useful work that can be extracted from a system under isothermal conditions?",
+    "answer": "Helmholtz free energy"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the product of the reaction between nitrobenzene and nitronium tetrafluoroborate?",
+    "choices": {
+      "W": "Nitrobenzene",
+      "X": "1,2- dinitrobenzene",
+      "Y": "1,3- dinitrobenzene",
+      "Z": "1,4- dinitrobenzene"
+    },
+    "answer": "Y) 1,3- dinitrobenzene"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What type of fault accommodates a fault block undergoing rotational motion?",
+    "choices": {
+      "W": "Thrust",
+      "X": "Dip-slip",
+      "Y": "Oblique",
+      "Z": "Listric"
+    },
+    "answer": "Z) Listric"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four properties that are expected to increase as a river gradient decreases: 1) Sinuosity; 2) Discharge; 3) Channel depth; 4) Turbulence.",
+    "answer": "1, 2, and 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following places would you most likely find inosine?",
+    "choices": {
+      "W": "Viral ssRNA",
+      "X": "rRNA",
+      "Y": "tRNA",
+      "Z": "snRNA"
+    },
+    "answer": "Y) tRNA"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Molybdenum is an important micronutrient in plants required for which of the following processes?",
+    "choices": {
+      "W": "Carbohydrate Translocation",
+      "X": "Nitrogen metabolism",
+      "Y": "Calvin cycle",
+      "Z": "Cellulose synthesis"
+    },
+    "answer": "X) Nitrogen metabolism"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What term is used to describe the dependence of the state of a system on its history, is often associated with irreversible thermodynamic change and where dissipation is a common side effect?",
+    "answer": "Hysteresis"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would not be expected to be produced following a charged sigma baryon decay?",
+    "choices": {
+      "W": "Baryons",
+      "X": "Charged meson",
+      "Y": "Neutral meson",
+      "Z": "Photon"
+    },
+    "answer": "Z) Photon"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Which term, originating from the term in set theory for a set with only one member, is used to refer to an AI system that is able to exert total decision-making influence over the entire world?",
+    "answer": "Singleton"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "The problem of understanding an AI system's world model when it exists in the world it is modeling is referred to by what name?",
+    "choices": {
+      "W": "Solomonoff induction",
+      "X": "Embedded agency",
+      "Y": "Agent foundations",
+      "Z": "Anti-induction"
+    },
+    "answer": "X) Embedded agency"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the 10th derivative of $x$ times $e^{x}$ at $x = 0$?",
+    "answer": "10"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many pairs of positive integers $(a, b)$ [a comma b] satisfy $a^{2} - b^{2} = 2023$?",
+    "answer": "3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organic compounds would react most rapidly with thiols?",
+    "choices": {
+      "W": "Ethene",
+      "X": "Formaldehyde",
+      "Y": "1,3 butadiene",
+      "Z": "Methyl prop-2-enoate"
+    },
+    "answer": "X) Formaldehyde"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three changes to a model for a conjugated hydrocarbon chain that would increase the theoretical wavelength of absorption: 1) Increasing the length of the chain; 2) Increasing the effective mass of an electron; 3) Increasing the density of electrons trapped in the chain.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes why eyewall replacement cycles occur in a hurricane?",
+    "choices": {
+      "W": "Drier air in the outer bands provides less moisture",
+      "X": "Interruptions of the warm core by the strength of the eyewall",
+      "Y": "Outer rainbands remove angular momentum from the inner eyewall",
+      "Z": "Eddy formation in the eye"
+    },
+    "answer": "Y) Outer rainbands remove angular momentum from the inner eyewall"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following properties of an active galactic nucleus is least likely to affect the broadening of observed absorption lines?",
+    "choices": {
+      "W": "Black hole mass",
+      "X": "Black hole spin",
+      "Y": "Gas energy state",
+      "Z": "Gas ionization rate"
+    },
+    "answer": "Z) Gas ionization rate"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not an intermediate filament protein?",
+    "choices": {
+      "W": "Vimentin",
+      "X": "Keratin",
+      "Y": "Lamin",
+      "Z": "Elastin"
+    },
+    "answer": "Z) Elastin"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following vertebrates has an incomplete septum in its heart?",
+    "choices": {
+      "W": "Birds",
+      "X": "Alligators",
+      "Y": "Crocodiles",
+      "Z": "Snakes"
+    },
+    "answer": "Z) Snakes"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What hypothetical type of neutrino is postulated to be the right-handed counterpart of ordinary neutrinos, and is a possible candidate for dark matter?",
+    "answer": "Sterile neutrinos"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In a spherical well of radius $R$, one can use the following wavefunction: $\\si (r) = A e^{-i r k / 5}$ [psi of r equals A e to the quantity negative i r k over 5], where A is the normalization constant and $k$ is the wavevector magnitude. Compute the value of A in terms of $R$.",
+    "answer": "$\\qrt{\\rac{3}{R^3}}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following populations is most ideal for performing cluster sampling?",
+    "choices": {
+      "W": "Homogenous population within clusters, heterogeneous population between clusters",
+      "X": "Heterogeneous population within clusters, homogenous population between clusters",
+      "Y": "Heterogeneous population within and between clusters",
+      "Z": "Homogenous population within and between clusters"
+    },
+    "answer": "X) Heterogeneous population within clusters, homogenous population between clusters"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "What term describes the problem in which a fixed limited set of resources must be allocated between competing choices that maximizes their expected gain, when each choice's properties are only partially known at the time of allocation and may become better understood as time passes or by allocating resources to the choice?",
+    "answer": "Multi- armed bandit problem"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many subsets of a set $S$ with all the perfect squares between 1 and 100 inclusive satisfy the property that the pair-wise addition of distinct elements in the subset is never divisible by 4?",
+    "answer": "192"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Right triangle ABC has legs of length 20 and 48. What is the inradius of triangle ABC?",
+    "answer": "8"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In silicon-29 NMR, what compound is used as the standard to calibrate chemical shifts to zero parts per million?",
+    "answer": "Tetramethylsilane (ACCEPT: TMS)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The energy of an electron trapped in a potential well analogous to a hydrogen-like atom scales linearly with what power of the atom's atomic number by Moseley's law?",
+    "answer": "2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A cut-off low generally develops from what atmospheric phenomenon?",
+    "choices": {
+      "W": "Post-tropical cyclone",
+      "X": "Atmospheric trough",
+      "Y": "Atmospheric ridge",
+      "Z": "Thermal advection"
+    },
+    "answer": "X) Atmospheric trough"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following processes introduces tensional stresses at convergent boundaries?",
+    "choices": {
+      "W": "Slab rollback",
+      "X": "Subduction",
+      "Y": "Slab breakoff",
+      "Z": "Accretion"
+    },
+    "answer": "W) Slab rollback"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What enzyme derived from the P1 bacteriophage carries out site-specific recombination events on Lox sequences?",
+    "answer": "Cre [KREE] recombinase"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What form of DNA is predominately found in regions of negative supercoiling?",
+    "answer": "Z form"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "According to Euler's equations, which of the following will occur when rotating a tennis racket about its second principal axis, in the absence of torques?",
+    "choices": {
+      "W": "The axis of rotation will precess",
+      "X": "Any perturbation to the rotation will grow",
+      "Y": "Any perturbation to the rotation will be suppressed",
+      "Z": "Any perturbation to the rotation will remain"
+    },
+    "answer": "X) Any perturbation to the rotation will grow"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following most accurately describes the position of the Fermi level in n-type semiconductors?",
+    "choices": {
+      "W": "Between the acceptor levels and the valence band",
+      "X": "Between the acceptor levels and the conduction band",
+      "Y": "Between the donor levels and the valence band",
+      "Z": "Between the donor levels and the conduction band"
+    },
+    "answer": "Z) Between the donor levels and the conduction band"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "One of the leading causes of death in the world right now is Malaria, which is caused by the apicomplexan Plasmodium Falciparum. Which of the following serves as the vector for this parasite?",
+    "choices": {
+      "W": "Aedes mosquitoes",
+      "X": "Anopheles mosquitoes",
+      "Y": "Ixodes ticks",
+      "Z": "Xenopsylla fleas"
+    },
+    "answer": "X) Anopheles mosquitoes"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "What is considered the fundamental problem in inverse reinforcement learning?",
+    "choices": {
+      "W": "Observing enough behavior to create a reward function can be expensive",
+      "X": "Reward functions from IRL are not human-interpretable",
+      "Y": "IRL will be outperformed by RLHF except on sufficiently simple data",
+      "Z": "Observed behavior may be optimal in many different reward functions"
+    },
+    "answer": "Z) Observed behavior may be optimal in many different reward functions"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "There exist unique one digit integers $A$ and $B$ such that the product of $A$ and $B$ has units digit $A$. Assuming $A$ does not equal 0, which of the following is the only possible even value of $B$?",
+    "choices": {
+      "W": "2",
+      "X": "4",
+      "Y": "6",
+      "Z": "8"
+    },
+    "answer": "Y) 6"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "On a $5 \\times 6$ grid of points, how many rectangles are there that have integer side lengths and all corners on gridpoints?",
+    "answer": "150"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The reaction of aryl diazonium salts with cuprous halides follows which of the following types of reaction mechanisms?",
+    "choices": {
+      "W": "Nucleophilic",
+      "X": "Ionic",
+      "Y": "Radical",
+      "Z": "Pericyclic"
+    },
+    "answer": "Y) Radical"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three organic species by increasing frequency of the carbonyl vibrational stretching mode: 1) Acylium cation; 2) Acetate anion; 3) Acetic acid.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The precession of the moon's orbit, tracked by the regression of its orbital nodes, has a period of approximately how many years?",
+    "choices": {
+      "W": "11 years",
+      "X": "19 years",
+      "Y": "27 years",
+      "Z": "35 years"
+    },
+    "answer": "X) 19 years"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The specific intensity of an object that has the blackbody function as its source function will be proportional to what power of its distance if the line of sight is clear of obstruction?",
+    "answer": "0"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What isotope is commonly bound to glucose for detection by positron emission tomography?",
+    "answer": "Fluorine- 18"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "An enzyme is said to follow Michaelis-Menten kinetics if which of the following is true?",
+    "choices": {
+      "W": "$V_0$ is parabolically dependent on $S$",
+      "X": "$V_0$ is linearly dependent on $S$",
+      "Y": "$V_0$ is exponentially dependent on $S$",
+      "Z": "$V_0$ is hyperbolically dependent on $S$"
+    },
+    "answer": "Z) $V_0$ is hyperbolically dependent on $S$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true of the Poynting vector inside a conductor in a magnetic field?",
+    "choices": {
+      "W": "It points radially inward",
+      "X": "It points radially outward",
+      "Y": "It points angularly",
+      "Z": "It is zero"
+    },
+    "answer": "Z) It is zero"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Assuming that the gyromagnetic ratio for fluorine-19 is equal to 40.05 megahertz per tesla, then in seconds, which of the following is closest to the length of a Larmor precession cycle for a fluorine atom in the presence of a 4 tesla magnetic field?",
+    "choices": {
+      "W": "$10^{-7}$",
+      "X": "$10^{-8}$",
+      "Y": "$10^{-9}$",
+      "Z": "$10^{-10}$"
+    },
+    "answer": "X) $10^{-8}$"
+  }
+]

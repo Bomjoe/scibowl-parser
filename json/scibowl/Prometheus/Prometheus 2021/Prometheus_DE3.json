@@ -1,0 +1,494 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What is the most virulent disease caused by a filovirus?",
+    "answer": "Ebola virus disease"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which factor regarding the spread of viruses did NOT present an obstacle to containing the 2014 Ebola virus disease outbreak?",
+    "choices": {
+      "W": "Located in West Africa, rather than equatorial Africa",
+      "X": "Located in large cities, rather than rural villages",
+      "Y": "Spread amongst migrant workers, rather than native-born workers",
+      "Z": "Spread across porous borders, rather than secured borders"
+    },
+    "answer": "Y) Spread amongst migrant workers, rather than native-born workers"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "To two significant figures and in radians, compute arcsec 10000.",
+    "answer": "1.6"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A square with side length 1 lies with a flat side on a plane. It is rolled along the plane without slipping until it makes one full rotation. What is the area of the shape made by tracing out the path of vertex originally in the square's lower left corner?",
+    "answer": "$\\i + 1$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "12-crown-4, 15-crown-5, and 18-crown-6 are cyclic oligomers of what 2 carbon organic compound?",
+    "answer": "Ethylene oxide (ACCEPT: Oxirane)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three molecules that can be studied via EPR spectroscopy: 1) Nitric oxide; 2) Oxygen gas; 3) Titanium dioxide.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A sand dune forms in a semiarid coastal region where moisture anchors it to the ground. What type of dune is this most likely to be?",
+    "choices": {
+      "W": "Barchan",
+      "X": "Transverse",
+      "Y": "Parabolic",
+      "Z": "Star"
+    },
+    "answer": "Y) Parabolic"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following conditions would create the most positive gravity anomaly?",
+    "choices": {
+      "W": "Deep oceanic trench",
+      "X": "Subsurface mantle plume",
+      "Y": "Strong monsoon season",
+      "Z": "Thick ice sheet cover"
+    },
+    "answer": "Z) Thick ice sheet cover"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Immune exclusion describes the phenomenon where immunoglobulins block the translocation of bacteria across the gut epithelium and promote their clearance from the gut lumen. This is mediated by the secretory form of what class of immunoglobulin, which is also the most common immunoglobulin in the gut?",
+    "answer": "IgA"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is not true about hormonal and neural control of digestion?",
+    "choices": {
+      "W": "Secretin inhibits the release of gastrin from G cells",
+      "X": "Acetylcholine activates $\\athrm{H^+ / K^+}$ ATPases on parietal cells",
+      "Y": "Cholecystokinin triggers contraction of the gallbladder",
+      "Z": "Secretin binds to Acinar cells in the pancreas to trigger release of bicarbonate ions"
+    },
+    "answer": "Z) Secretin binds to Acinar cells in the pancreas to trigger release of bicarbonate ions"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Planet A has triple the mass of planet B and both orbit around their common center of mass. Identify all of the following that are true of this system: 1) The reduced mass of the system is $2 / 3$ of the mass of planet B; 2) Both planets have the same angular momentum; 3) Both planets have the same energy in orbit.",
+    "answer": "None"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The wavefunctions of bosons have what special property that maximizes degeneracy in the lowest energy state?",
+    "answer": "Symmetry"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Some Cold-War era aircraft used vacuum tube avionics to increase resilience to what specific effect of nuclear weapons?",
+    "answer": "Nuclear electromagnetic pulse (ACCEPT: electromagnetic pulse, EMP)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "The effect of a nuclear electromagnetic pulse would be similar to the effect of which large-scale solar phenomenon?",
+    "answer": "Coronal mass ejection"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Given the following two statements: $p \\mplies q$ and $q \\mplies r$, then what law allows for the conclusion $p \\mplies r$?",
+    "choices": {
+      "W": "Contrapositive",
+      "X": "Detachment",
+      "Y": "Syllogism",
+      "Z": "De Morgan's"
+    },
+    "answer": "Y) Syllogism"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "An inverted cone with base radius 18 cm and height 30 cm is full of water. The water is poured into a tall cylinder whose horizontal base has radius of 36 cm. What is the height in centimeters of the water in the cylinder?",
+    "choices": {
+      "W": "1.5",
+      "X": "2",
+      "Y": "2.5",
+      "Z": "3"
+    },
+    "answer": "Y) 2.5"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The isocyanate anion is isoelectronic to what nitrogen oxide?",
+    "answer": "Nitrous oxide (ACCEPT: $\\athrm{N_2O}$)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following allotropes of phosphorus has the most negative enthalpy of formation?",
+    "choices": {
+      "W": "White phosphorus",
+      "X": "Red phosphorus",
+      "Y": "Violet phosphorus",
+      "Z": "Black phosphorus"
+    },
+    "answer": "Z) Black phosphorus"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three stellar populations that contain classical Wolf-Rayet stars: 1) Population I; 2) Population II; 3) Population III.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following could not be used to distinguish galactic spiral arms from the rest of the galaxy?",
+    "choices": {
+      "W": "OB associations",
+      "X": "Emission nebulae",
+      "Y": "Globular clusters",
+      "Z": "Young open clusters"
+    },
+    "answer": "Y) Globular Clusters"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three sugars which contain 4-carbon atoms: 1) Erythrose; 2) Threose; 3) Arabinose.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What chromosomal abnormality is present in the majority of patients with chronic myelogenous leukemia, and results from the fusion of the BCR and ABL genes?",
+    "answer": "Philadelphia Chromosome"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Debye model built the concept of what quasiparticle's effect on solid heat capacity rather than using the quantum harmonic oscillator estimation?",
+    "answer": "Phonon"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An electron gas is cooled to absolute zero. The electrons will occupy all the energy states up until what threshold?",
+    "answer": "Fermi energy (ACCEPT: Fermi level)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Many people may delay having children to give them a better life and more financial security. However, this decision leads different children to come into existence, which means that different people are benefitted or harmed in this situation. What is this an example of?",
+    "choices": {
+      "W": "The utility monster",
+      "X": "The repugnant conclusion",
+      "Y": "The future moral status problem",
+      "Z": "The nonidentity problem"
+    },
+    "answer": "Z) The nonidentity problem"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Some solutions to the nonidentity problem suggest that all acts of procreation are harmful. What is this philosophical position called?",
+    "answer": "Antinatalism"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The number of holes in a topological surface is called the:",
+    "choices": {
+      "W": "Degree",
+      "X": "Toral index",
+      "Y": "Genus",
+      "Z": "Torus number"
+    },
+    "answer": "Y) Genus"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A small sudoku is played where a 3 by 3 array is filled in with all columns and rows including a 1, 2, and 3. How many possible arrays satisfying these rules are possible?",
+    "answer": "12"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules does not contain an inversion center?",
+    "choices": {
+      "W": "Allene",
+      "X": "Xenon tetrafluoride",
+      "Y": "Acetylene",
+      "Z": "Ferricyanide"
+    },
+    "answer": "W) Allene"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name of the organic compound formed when 2-butene is treated with ozone, followed by triphenylphosphine?",
+    "answer": "Acetaldehyde (ACCEPT: Ethanal)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What group of porous minerals is currently being studied because it should have millions of possible structures, but only a few hundred have been observed or synthesized?",
+    "answer": "Zeolites"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The presence of layers with alternating directions of cross-bedding typically indicates formation in which of the following depositional environments?",
+    "choices": {
+      "W": "Aeolian",
+      "X": "Fluvial",
+      "Y": "Lacustrine",
+      "Z": "Tidal"
+    },
+    "answer": "Z) Tidal"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The JAK-STAT signaling pathway has come under recent interest due to its potential involvement in autoimmune diseases. Which of the following best describes the identity of JAK proteins?",
+    "choices": {
+      "W": "G proteins",
+      "X": "Serine/threonine kinases",
+      "Y": "Tyrosine kinases",
+      "Z": "Phosphoinositide 3-kinases"
+    },
+    "answer": "Y) Tyrosine kinases"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term given to a fruit that develops without fertilization, and includes many commercial seedless fruits?",
+    "answer": "Parthenocarpic"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following particles couples most strongly to photons via the electromagnetic force?",
+    "choices": {
+      "W": "Neutrino",
+      "X": "Bottom quark",
+      "Y": "Top quark",
+      "Z": "Strange quark"
+    },
+    "answer": "Y) Top quark"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "According to the Ising model, a crystal can have net zero magnetization due to electron spins aligning opposite to that of their neighbors over long range at low temperature. What is the name given to the threshold temperature above which this phenomenon disappears?",
+    "answer": "Néel temperature"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Alan Turing's concept of a learning machine led to what type of optimization algorithm that includes a systematic representation of solutions, a means of modifying solutions, and an objective function for evaluating solutions?",
+    "answer": "Genetic algorithm"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following features is NOT a major detraction of genetic algorithms?",
+    "choices": {
+      "W": "Ignoring global optima in favor of local optima",
+      "X": "Computationally intensive fitness function",
+      "Y": "Exponentially increasing runtime for more mutated elements",
+      "Z": "Difficulty in being parallelized"
+    },
+    "answer": "Z) Difficulty in being parallelized"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three properties that classify the function $\\athrm{f(x) = sin(x)}$ for all real numbers: 1) Bijective; 2) Injective; 3) Surjective.",
+    "answer": "None"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The number 1,000,001 is called quadly because it only has four factors. What is the second smallest of those factors?",
+    "answer": "101"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What method describes the separation of a biomolecule from a mixture by utilizing the highly specific macromolecular binding interaction between the biomolecule and the ligand?",
+    "choices": {
+      "W": "Ion exchange chromatography",
+      "X": "Hydrophobic interaction chromatography",
+      "Y": "Gel filtration chromatography",
+      "Z": "Affinity chromatography"
+    },
+    "answer": "Z) Affinity chromatography"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three molecules that contain a chiral center: 1) Ferric oxalate; 2) 2-butene; 3) 2-butanol.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Because massive protostars are not driven by nuclear fusion, their luminosity most directly depends on which of the following properties?",
+    "choices": {
+      "W": "Age",
+      "X": "Composition",
+      "Y": "Mass",
+      "Z": "Temperature"
+    },
+    "answer": "Y) Mass"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three star populations in order of increasing average mass: 1) Population I; 2) Population II; 3) Population III.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Because it is inherited uniparentally and can't shed mutations by recombination, the mitochondrial genome is expected to accumulate deleterious mutations through what mechanism?",
+    "answer": "Muller's ratchet"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about cell junctions: 1) Adherens junctions connect to actin filaments; 2) Connexins form invertebrate gap junctions; 3) Desmins are found in epithelial cells.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "At which point during a satellite's orbit should its engines fire to maximize the final velocity?",
+    "choices": {
+      "W": "Perigee",
+      "X": "Apogee",
+      "Y": "Covertex",
+      "Z": "Focus"
+    },
+    "answer": "W) Perigee"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In terms of the ideal gas constant R, what is the entropy of mixing three separate, identical samples of 1 mole of an ideal gas at constant pressure?",
+    "answer": "3Rln3"
+  }
+]

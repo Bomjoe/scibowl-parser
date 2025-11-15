@@ -1,0 +1,448 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 immunoglobulins that ARE NOT monomers. 1) IgG 2) IgM 3) IgA 4) IgE",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding Cnidaria?",
+    "choices": {
+      "W": "Cnidarians contain only one opening to their central cavity, functioning as a mouth and anus",
+      "X": "Cnidaria, unlike other eumetazoans, do not contain a nerve net",
+      "Y": "The central cavity of Cnidarians acts as a hydrostatic skeleton",
+      "Z": "Jellyfish are an example of a medusa while Hydras are an example of a polyp"
+    },
+    "answer": "X) Cnidaria, unlike other eumetazoans, do not contain a nerve net"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the passing star hypothesis?",
+    "choices": {
+      "W": "A passing star created shockwaves, triggering the formation of the Sun",
+      "X": "A passing star pulled matter out of the Sun to create the planets",
+      "Y": "Matter from a passing star created the Jovian planets",
+      "Z": "A passing star captured many solar system planetesimals"
+    },
+    "answer": "X) A PASSING STAR PULLED MATTER OUT OF THE SUN TO CREATE THE PLANETS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true regarding belt-zone atmospheric circulation: 1) belts and zones move antiparallel to each other; 2) the belt-zone system is comprised of regions of rising and falling gases or liquids; 3) belt-zone circulation is present on Mars;",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following most accurately defines prime knots?",
+    "choices": {
+      "W": "Prime knots are knots that are unable to be written as the knot sum of two non-trivial knots",
+      "X": "Prime knots are knots that are unable to be written as the knot product of two non-trivial knots",
+      "Y": "Prime knots are knots that have a crossing number that is prime",
+      "Z": "Prime knots are knots that have the same crossing number as their knot complement"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the equation of the line tangent to the curve at the point",
+    "answer": ""
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following most accurately describes red light?",
+    "choices": {
+      "W": "It has a wavelength of approximately $500 \\athrm{~nm}$",
+      "X": "It has a frequency of approximately $420 \\athrm{~THz}$",
+      "Y": "It has the highest energy out of all colours of visible light",
+      "Z": "It can penetrate thin sheets of metal"
+    },
+    "answer": "X) It has a frequency of approximately $420 \\athrm{~THz}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In which of the following devices is light refracted? 1) Cameras 2) Projectors 3) Telescopes",
+    "answer": "All"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Osmium tetroxide is the standard oxidizing reagent for producing which of the following compounds from alkenes?",
+    "choices": {
+      "W": "Ester",
+      "X": "Diol",
+      "Y": "Aldehyde",
+      "Z": "Ketone"
+    },
+    "answer": "X) Diol"
+  },
+  {
+    "question_number": 5,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the following IR spectra which is consistent of a structure of carboxylic acid.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "While researching sonar, Argonne National Lab researchers find that bubbles in a liquid emit light when excited to implode by sound waves. What effect do they observe?",
+    "answer": "Sonoluminescence"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "NASA's Gravity Probe B observes that Earth's mass produces a curvature of spacetime that causes the circumference of an orbiting object to be smaller than it would be if space-time was flat. What effect does the probe observe?",
+    "answer": "Geodetic effect; de Sitter effect"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 cranial nerves that contain both afferent and efferent fibers. 1) Abducens 2) Vagus 3) Vestibulocochlear 4) Hypoglossal",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What lymphoid structure is depicted above, found in the ileum of the small intestine?",
+    "answer": "Peyer's Patch"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pairs of minerals are polymorphs of each other?",
+    "choices": {
+      "W": "calcite and aragonite",
+      "X": "dolomite and malachite",
+      "Y": "kaolinite and olivine",
+      "Z": "biotite and muscovite"
+    },
+    "answer": "W) CALCITE AND ARAGONITE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following most accurately describes horst-graben topography?",
+    "choices": {
+      "W": "Horsts bounded by two normal faults",
+      "X": "Horsts bounded by two reverse faults",
+      "Y": "Horsts bounded by two strike-slip faults",
+      "Z": "Horsts bounded by one normal and one reverse fault"
+    },
+    "answer": "W) HORSTS BOUNDED BY TWO NORMAL FAULTS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the following: (the integral from -5 to 5 of the expression square root of the quantity 25 minus x squared dx)",
+    "answer": ""
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many times can be evenly divided by 3?",
+    "answer": "4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The weak nuclear force is around how many times stronger than the strong nuclear force?",
+    "choices": {
+      "W": "$10^{-1}$",
+      "X": "$10^{-2}$",
+      "Y": "$10^{-3}$",
+      "Z": "$10^{-6}$"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A circular loop of wire in the x-y plane has a diameter of 4 centimeters, a resistivity of 50 nano-ohm meters, and a cross-sectional area of $3 \\times 10^{-5} \\athrm{~m}^2$ . A uniform magnetic field starts at 0 teslas and increases uniformly over 3 seconds until it reaches a value of 2 teslas in the positive z direction. What is the magnitude of the induced current in the wire in amperes as the magnetic field is turning on?",
+    "answer": "4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following spectroscopic techniques would be most useful for studying surfaces by using energetic electrons emitted from an excited atom?",
+    "choices": {
+      "W": "Raman Spectroscopy",
+      "X": "Auger Spectroscopy",
+      "Y": "Mossbauer Spectroscopy",
+      "Z": "Hadron Spectroscopy"
+    },
+    "answer": "X) Auger Spectroscopy"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is INCORRECT regarding properties of nitrogen gas?",
+    "choices": {
+      "W": "It is resistant to simple electron-transfer redox processes",
+      "X": "It promotes the formation of highly polar transition states",
+      "Y": "It has a high activation point",
+      "Z": "Its metal coordination complexes are analogous to CO derivatives"
+    },
+    "answer": "X) It promotes the formation of highly polar transition states"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Oak Ridge National Lab researchers often analyze properties such as crystallinity, lattice parameters, and phase transitions. What technique, which measures the intensity of neutrons and scattering angle, do they use?",
+    "answer": "powder diffraction; X- ray/neutron powder diffraction Accept x- Ray or neutron diffraction"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Ames National Lab chemists separate analytes by their size in organic solvents. What technique, which commonly involves a column of dextran or agarose beads, do they use?",
+    "answer": "Size- exclusion chromatography; gel permeation chromatography"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 choices that are TRUE regarding halophytes. 1) Their vacuoles contain a greater solute concentration than their environment 2) The presence of calcium ions is thought to be essential for regulating sodium-potassium pumps in their root cells 3) Both Halophytes and Vascular Plants require sodium as an essential element",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Alice is studying protein-induced membrane curvature. She finds that a variety of membrane proteins which cause membrane curvature contain a shared sequence of amino acids. What is the name of this protein structure, characterized by a conserved sequence of positively charged amino acid residues?",
+    "answer": "BAR Domains"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following that can be generated by a neutron star collision: 1) kilonova; 2) gamma-ray burst; 3) gravitational waves.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the orbital resonance between the plutinos and Neptune?",
+    "choices": {
+      "W": "1:2",
+      "X": "2:5",
+      "Y": "2:3",
+      "Z": "3:4"
+    },
+    "answer": "Y) 2:3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A positive integer y less than or equal to 10 satisfies the following property: There exist an infinite amount of positive integers x such that is prime. How many possible values of y are there?",
+    "answer": "4"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 infinite summations which diverge. 1) 2) 3)",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A moon with mass kg is in a circular orbit of radius m about a planet with mass kg. What is the change in total energy of the moon due to the planet in one period?",
+    "answer": "0 J"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "For an ideal gas, the probability density of the gas particles at energy E is g(E). In terms of g(E), what is the new probability density when the energy is doubled?",
+    "answer": "$\\qrt{2} /\\athrm{e}^{2}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the following 3 choices that are true of Zintl Phases containing alkali metals. 1) They are generally paramagnetic 2) They are strong conductors 3) They are malleable",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is incorrect regarding the ring opening reaction of this epoxide?",
+    "choices": {
+      "W": "The product of this reaction is chiral",
+      "X": "The starting reactant is asymmetrical",
+      "Y": "There cannot be an acid present in this reaction",
+      "Z": "The nucleophile of this reaction is a hydride"
+    },
+    "answer": "W) The product of this reaction is chiral"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Ames National Lab meteorologists observe electrical currents flowing in the Earth's ionosphere. What currents, which are caused by the movement of plasma perpendicular to a magnetic field, do they observe?",
+    "answer": "Birkeland Currents; field-aligned currents"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Meteorologists at Ames National Lab also observe that electromagnetic waves produced from lightning create spectrum peaks of extremely low frequencies. What phenomenon do they observe?",
+    "answer": "Schumann Resonances"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What derivative of vitamin A1 is the light harvesting pigment contained in bacteriorhodopsin?",
+    "answer": "Retinal (DO NOT ACCEPT: Retinol)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding the production of the thyroid hormones $\\athrm{T}_3$ and $\\athrm{T}_4$ in the thyroid gland?",
+    "choices": {
+      "W": "Iodide is co-transported into the follicular cells with sodium",
+      "X": "Iodide is transported into the follicle lumen by the chlorine/iodide transporter pendrin",
+      "Y": "Iodide is attached to rings of tryptophan in thyroglobulin in the follicle lumen",
+      "Z": "Thyroglobulin is synthesized by follicle cells"
+    },
+    "answer": "Y) Iodide is attached to rings of tryptophan in thyroglobulin in the follicle lumen"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three properties that calcite exhibits: 1) UV fluorescence; 2) Perfect cubic cleavage; 3) Strong double refraction.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three geologic time periods from earliest to latest: 1) Silurian; 2) Devonian; 3) Cambrian.",
+    "answer": "3 2 1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of",
+    "answer": "1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Vivek and Bert are standing in a line with 8 other people in it. If the line randomly changes its order, what is the probability that Vivek and Bert end up standing next to each other in the line?",
+    "answer": ""
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The coefficient of volume expansion of water is $210 \\times 10^{-6} \\athrm{K}^{-1}$ at $20^{\\irc} \\athrm{C}$ . If the density of water at $20^{\\irc} \\athrm{C}$ is $1 \\athrm{g} / \\athrm{mL}$ , then to one significant figure and in $\\athrm{g} / \\athrm{mL}$ , by much does the density of water change when it is heated to $21^{\\irc} \\athrm{C}$ ?",
+    "answer": "- 0.0002 (DO NOT ACCEPT: 0.002)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The difference in length is constant with temperature between a rod of silver, which has a coefficient of linear expansion of $18 \\times 10^{-6} \\athrm{K}^{-1}$ , and another rod of tungsten, which has a coefficient of linear expansion $4.5 \\times 10^{-6} \\athrm{K}^{-1}$ . The sum of the length of the two rods is $15 \\athrm{m}$ , what is the length of the silver rod?",
+    "answer": "3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The Marsh test uses zinc powder and sulfuric acid to identify what toxic element?",
+    "answer": "Arsenic"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all the following 4 choices that are generally true of silanes. 1) They are more active than alkanes 2) Their stability decreases with increasing chain length 3) They are prepared commercially by reduction using aluminum catalysts 4) They are reducing agents in aqueous solution",
+    "answer": "ALL"
+  }
+]

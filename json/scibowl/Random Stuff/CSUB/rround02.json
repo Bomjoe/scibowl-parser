@@ -1,0 +1,498 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "All elements in a given group of the periodic table have similar:",
+    "choices": {
+      "W": "maximum principal quantum number",
+      "X": "maximum angular-momentum quantum number",
+      "Y": "valence-shell electron configuration",
+      "Z": "atomic number"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Name a nonmetal element which is a liquid at room temperature:",
+    "answer": "BROMINE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which optical phenomenon explains why the sun appears whitish at the zenith and red near the horizon:",
+    "choices": {
+      "W": "diffraction",
+      "X": "scattering",
+      "Y": "reflection",
+      "Z": "doppler shift"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Who is commonly credited in discovering that the buoyant force of a body immersed in a fluid is equal to the weight of the fluid displaced by that object:",
+    "answer": "ARCHIMEDES"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Encephalitis is an inflammation of what organ?",
+    "answer": "BRAIN"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the classical classification of organisms, three of the five Kingdoms are Protista, Fungi, and Monera. What are the other two?",
+    "answer": "ANAMALIA, PLANTAE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "If Venus is between the Earth and the Sun, what configuration is it in:",
+    "choices": {
+      "W": "inferior conjunction",
+      "X": "superior conjunction",
+      "Y": "quadrature",
+      "Z": "inferior quadrature"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Near the end of its life, the Sun will do which of the following:",
+    "choices": {
+      "W": "become a red giant and then evolve to a white dwarf",
+      "X": "become a neutron star",
+      "Y": "become a blue giant and evolve into a white dwarf",
+      "Z": "become a brown dwarf"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In order, what are the first5 prime numbers between50 and72?",
+    "answer": "53,59,61,67,71"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the average speed, in miles per hour, of a person who travels120 miles in3 hours,40 miles the next3 hours, and36 miles the following2 hours?",
+    "answer": "24.5"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "What is the name for the outer100 km of the solid Earth, which includes the crust and uppermost mantle:",
+    "answer": "LITHOSPHERE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a metamorphic rock:",
+    "choices": {
+      "W": "marble",
+      "X": "quartzite",
+      "Y": "granite",
+      "Z": "gneiss"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Rounded the nearest fifty, one horsepower is equivalent to how many BTU's per hour?",
+    "answer": "2550"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Rounded to the nearest decimal place, convert $122^{\\irc}\\athrm{F}$ into Centigrade:",
+    "answer": "50"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "What does the acronym ROM stand for?",
+    "answer": "READ ONLY MEMORY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "The decimal number10 is equivalent to what octal number?",
+    "answer": "12"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the term for the direct conversion of a solid to a vapor without going through a liquid phase?",
+    "answer": "SUBLIMATION"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What element is a volatile purple-black solid with a beautiful metallic sheen, is found in minerals such as lautarite and dietzeite, was first prepared in1811 from seaweed, and is the least reactive halogen?",
+    "answer": "IODINE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If Lisa swings a ball on the end of a string and maintains it in uniform circular motion, what is the most accurate term for the tension force exerted on the rock through the string?",
+    "answer": "CENTRIPETAL"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Neglecting friction, what is the acceleration, in meters per second squared, when a force of2000 newtons is applied to a10 kilogram object:",
+    "answer": "200"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The wing of a bird and the arm of a human are considered:",
+    "choices": {
+      "W": "congruent structures",
+      "X": "analogous structures",
+      "Y": "homologous structures",
+      "Z": "vestigial structures"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What bone marrow progenitor cell typically contains a polyploid nucleus of up to64n.",
+    "answer": "MEGAKARYOCYTE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "A sidereal (SIGH-deer-eel) hour is made of how many sidereal minutes?",
+    "answer": "60"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Rounded off to the nearest whole day, what is the sidereal rotation period of the Moon?",
+    "answer": "27 DAYS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The number400 is what percent of160?",
+    "answer": "250"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the median, mean and mode of the following set of numbers:1,3,8,8,9,10,12,13",
+    "answer": "MEDIAN =8.5; MEAN =8; MODE =8"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "When drilling a well, if we wish to find a reliable supply of groundwater, we search for an:",
+    "choices": {
+      "W": "aquiduct",
+      "X": "aquifer",
+      "Y": "aquitard",
+      "Z": "aquaberm"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "What is the name for the North Atlantic Ocean current which moves southeastward along the east coasts of Baffin Island, Labrador, and Newfoundland?",
+    "answer": "LABRADOR CURRENT"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "A nautical mile is approximately equal to how many miles:",
+    "choices": {
+      "W": "1.65",
+      "X": "1.15",
+      "Y": "0.85",
+      "Z": "0.75"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Give the respective metric prefix for the following values: ten to the minus six, ten to the minus twelve, and ten to the minus eighteen?",
+    "answer": "MICRO; PICO; ATTO"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following do NOT provide both input and output of data:",
+    "choices": {
+      "W": "printers",
+      "X": "hard disks",
+      "Y": "writable CD-ROMs",
+      "Z": "diskettes"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "In today's typical computers, if there isn't enough room in memory for all the information the CPU needs, the computer sets up what kind of memory file:",
+    "choices": {
+      "W": "real",
+      "X": "imaginary",
+      "Y": "virtual",
+      "Z": "temporary"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In general, a polymer that is produced by the reaction between2 or more different kinds of monomers are commonly referred to as:",
+    "answer": "COPOLYMERS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the general term for the amount of heat necessary to raise the temperature of exactly1 gram of a substance by exactly $1^{\\irc}\\athrm{C}$ ?",
+    "answer": "SPECIFIC HEAT"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What colors are made from the addition of two primary colors?",
+    "answer": "SECONDARY COLORS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the resistance of an electric curling iron that draws6 amps on a120 volt line:",
+    "answer": "20 OHMS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following birds belong to the thrushes:",
+    "choices": {
+      "W": "Robin",
+      "X": "Titmouse",
+      "Y": "Chickadee",
+      "Z": "Purple Martin"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the common specific name for the bond that joins two amino acids to form a growing protein:",
+    "answer": "PEPTIDE BOND"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "When a star condenses from interstellar material, the first thermonuclear reactions will involve only what element?",
+    "answer": "HYDROGEN"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Name4 terrestrial planets:",
+    "answer": "MERCURY, VENUS, EARTH, AND MARS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the percentage change when3.5 becomes4.5:",
+    "choices": {
+      "W": "12",
+      "X": "22",
+      "Y": "29",
+      "Z": "31"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the distance between the points, Q (0,0) and P (4/5,3/5)?",
+    "answer": "1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "In the SI system of units, what is charge measured in?",
+    "answer": "COULOMBS"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "A screw is what type of simple machine?",
+    "answer": "AN INCLINED PLANE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following fibers is considered a protein fiber:",
+    "choices": {
+      "W": "cotton",
+      "X": "hemp",
+      "Y": "linen",
+      "Z": "silk"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Convert an atmospheric pressure of $190\\athrm{mmHg}$ into atmospheres:",
+    "answer": "0.25"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which element has the simplest absorption spectrum?",
+    "answer": "HYDROGEN"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Pitch is a function of frequency as loudness is a function of:",
+    "choices": {
+      "W": "wavelength",
+      "X": "tone",
+      "Y": "pitch",
+      "Z": "amplitude"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a spirochete:",
+    "choices": {
+      "W": "Treponema pallidum",
+      "X": "Leptospora interogans",
+      "Y": "Rickettsia typhi",
+      "Z": "Borrelia recurrentis"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cells must remain alive to function as a conducting cell:",
+    "choices": {
+      "W": "annular tracheid",
+      "X": "sclariform tracheid",
+      "Y": "seive cell",
+      "Z": "vessel element"
+    },
+    "answer": "Y"
+  }
+]

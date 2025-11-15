@@ -1,0 +1,643 @@
+Failure:
+[
+  {
+ "question_number":1,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "The largest group of rock-forming minerals consists of the",
+ "choices": {
+ "W": "quartzes.",
+ "X": "halides.",
+ "Y": "silicates.",
+ "Z": "oxides."
+ },
+ "answer": "SILICATES"
+ },
+ {
+ "question_number":1,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "What basin in West Texas has yielded the greatest amount of oil from upper Paleozoic formation in the Western U.S.?",
+ "answer": "PERMIAN"
+ },
+ {
+ "question_number":2,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "Parasitism is a type of",
+ "choices": {
+ "W": "commensalism.",
+ "X": "mutualism.",
+ "Y": "predation.",
+ "Z": "symbiosis."
+ },
+ "answer": "SYMBIOSIS"
+ },
+ {
+ "question_number":2,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "The symbiotic relationship between sea anemones and shrimp is an example of",
+ "choices": {
+ "W": "mutualism.",
+ "X": "parasitism.",
+ "Y": "commensalism.",
+ "Z": "parasitism."
+ },
+ "answer": "COMMENSALISM"
+ },
+ {
+ "question_number":3,
+ "question_type": "tossup",
+ "category": "computer_science",
+ "answer_type": "multiple_choice",
+ "body": "In the JAVA language, the output of a JAVA compiler is known as what type of file?",
+ "choices": {
+ "W": "a class file",
+ "X": "a method file",
+ "Y": "a pseudo-binary file",
+ "Z": "an object-oriented program"
+ },
+ "answer": "A CLASS FILE"
+ },
+ {
+ "question_number":3,
+ "question_type": "bonus",
+ "category": "computer_science",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following is a method for diagonalization of large matrices?",
+ "choices": {
+ "W": "Graham-Schmidt orthogonalization",
+ "X": "Spline projection",
+ "Y": "Bessel's method",
+ "Z": "Lanczos' algorithm"
+ },
+ "answer": "THE LANCZOS' ALGORITHM"
+ },
+ {
+ "question_number":4,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "Fundamental tones always have the",
+ "choices": {
+ "W": "lowest possible overtones.",
+ "X": "highest possible overtones.",
+ "Y": "lowest possible pitch.",
+ "Z": "highest possible pitch."
+ },
+ "answer": "LOWEST POSSIBLE PITCH"
+ },
+ {
+ "question_number":4,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "The property of sound that increases when sounds get louder is",
+ "choices": {
+ "W": "frequency.",
+ "X": "pitch.",
+ "Y": "intensity level.",
+ "Z": "wavelength."
+ },
+ "answer": "INTENSITY LEVEL"
+ },
+ {
+ "question_number":5,
+ "question_type": "tossup",
+ "category": "general_science",
+ "answer_type": "short_answer",
+ "body": "Which prefix is often used with scientific terms to indicate that something is the same, equal or constant?",
+ "answer": "ISO"
+ },
+ {
+ "question_number":5,
+ "question_type": "bonus",
+ "category": "general_science",
+ "answer_type": "multiple_choice",
+ "body": "The study of how people use tools to perform work and how people physically relate to their working environment is called",
+ "choices": {
+ "W": "engineering.",
+ "X": "ergonomics.",
+ "Y": "agronomy.",
+ "Z": "physiology."
+ },
+ "answer": "ERGONOMICS"
+ },
+ {
+ "question_number":6,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Who first proposed the concept of free energy?",
+ "choices": {
+ "W": "Hess",
+ "X": "Dalton",
+ "Y": "Gibbs",
+ "Z": "Lavoisier"
+ },
+ "answer": "GIBBS"
+ },
+ {
+ "question_number":6,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "The maximum work that a spontaneous process can provide is given by",
+ "choices": {
+ "W": "delta S.",
+ "X": "delta G.",
+ "Y": "delta H.",
+ "Z": "delta T."
+ },
+ "answer": "DELTAG"
+ },
+ {
+ "question_number":7,
+ "question_type": "tossup",
+ "category": "astronomy",
+ "answer_type": "multiple_choice",
+ "body": "The local group of galaxies contains",
+ "choices": {
+ "W": "The Milky Way and three large elliptical galaxies.",
+ "X": "Hundreds of large and small galaxies.",
+ "Y": "Three spiral galaxies and a number of smaller galaxies.",
+ "Z": "Six large spiral galaxies."
+ },
+ "answer": "THREE SPIRAL GALAXIES AND A NUMBER OF SMALLER GALAXIES"
+ },
+ {
+ "question_number":7,
+ "question_type": "bonus",
+ "category": "astronomy",
+ "answer_type": "multiple_choice",
+ "body": "The Hubble Space Telescope found evidence for a black hole at the center of several galaxies by measuring",
+ "choices": {
+ "W": "The emission of X-rays.",
+ "X": "The size of the galaxy's nucleus.",
+ "Y": "Gravitational density waves near the galaxy's center.",
+ "Z": "The rotational velocity of stars near the galaxy's center."
+ },
+ "answer": "THE ROTATIONAL VELOCITY OF STARS NEAR THE GALAXY'S CENTER"
+ },
+ {
+ "question_number":8,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "A species that grows exponentially for some time and then suddenly crashes is showing a",
+ "choices": {
+ "W": "delayed logistic growth curve.",
+ "X": "boom and bust growth curve.",
+ "Y": "delayed exponential growth curve.",
+ "Z": "logistic growth curve."
+ },
+ "answer": "BOOM AND BUST GROWTH CURVE"
+ },
+ {
+ "question_number":8,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "The first, and perhaps the best known, case of biological magnification involved the pesticide",
+ "choices": {
+ "W": "PCB.",
+ "X": "Dieldrin.",
+ "Y": "NO.",
+ "Z": "DDT."
+ },
+ "answer": "DDT"
+ },
+ {
+ "question_number":9,
+ "question_type": "tossup",
+ "category": "math",
+ "answer_type": "multiple_choice",
+ "body": "If an integrand contains the square root of a combination of a constant and the square of the integration variable, a helpful technique for evaluating the integral is known as",
+ "choices": {
+ "W": "integration by parts.",
+ "X": "integration by trig substitution.",
+ "Y": "double integration.",
+ "Z": "antidifferentiation."
+ },
+ "answer": "INTEGRATION BY TRIG SUBSTITUTION"
+ },
+ {
+ "question_number":9,
+ "question_type": "bonus",
+ "category": "math",
+ "answer_type": "multiple_choice",
+ "body": "In terms of factorials, how many9 digit numbers are there with all digits different?",
+ "choices": {
+ "W": "10! (10 factorial)",
+ "X": "$9^{*}9!$ (read9 times9 factorial)",
+ "Y": "9!",
+ "Z": "$9^{*}8!$"
+ },
+ "answer": "9\\9!"
+ },
+ {
+ "question_number":10,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "Electromagnetic waves differ from other waves because they",
+ "choices": {
+ "W": "cause the molecules of a medium to vibrate.",
+ "X": "are transverse waves.",
+ "Y": "can travel in a vacuum.",
+ "Z": "travel slowly."
+ },
+ "answer": "CAN TRAVEL IN A VACUUM"
+ },
+ {
+ "question_number":10,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "The radio waves with the highest frequencies are",
+ "choices": {
+ "W": "TV channels.",
+ "X": "AM radio.",
+ "Y": "FM radio.",
+ "Z": "microwaves."
+ },
+ "answer": "MICROWAVES"
+ },
+ {
+ "question_number":11,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Exothermic reactions are",
+ "choices": {
+ "W": "always spontaneous.",
+ "X": "usually spontaneous.",
+ "Y": "usually not spontaneous.",
+ "Z": "never spontaneous."
+ },
+ "answer": "USUALLY SPONTANEOUS"
+ },
+ {
+ "question_number":11,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "The degree to which reactions proceed to completion is due to",
+ "choices": {
+ "W": "equilibrium.",
+ "X": "kinetics.",
+ "Y": "dynamics.",
+ "Z": "composition."
+ },
+ "answer": "EQUILIBRIUM"
+ },
+ {
+ "question_number":12,
+ "question_type": "tossup",
+ "category": "computer_science",
+ "answer_type": "multiple_choice",
+ "body": "An operating system designed to support large networks is called Windows NT. What does NT stand for?",
+ "choices": {
+ "W": "Network topology",
+ "X": "Network technology",
+ "Y": "New topology",
+ "Z": "New technology"
+ },
+ "answer": "NEW TECHNOLOGY"
+ },
+ {
+ "question_number":12,
+ "question_type": "bonus",
+ "category": "computer_science",
+ "answer_type": "multiple_choice",
+ "body": "The Macintosh operating system includes an important program, a file manager, which manages the desktop screen icons. This is called",
+ "choices": {
+ "W": "a help menu.",
+ "X": "active assistance.",
+ "Y": "the Finder.",
+ "Z": "none of the above"
+ },
+ "answer": "THE FINDER"
+ },
+ {
+ "question_number":13,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "The toxic metals dissolved by acid rain do not",
+ "choices": {
+ "W": "accumulate in the food chain.",
+ "X": "reach dangerous levels by biological magnification.",
+ "Y": "include aluminum and mercury.",
+ "Z": "result in water with a high pH."
+ },
+ "answer": "RESULT IN WATER WITH A HIGH pH"
+ },
+ {
+ "question_number":13,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "The main source of harmful chlorofluorocarbons in the United States today is",
+ "choices": {
+ "W": "aerosol propellants.",
+ "X": "medical wastes.",
+ "Y": "refrigeration equipment.",
+ "Z": "sewage."
+ },
+ "answer": "REFRIGERATION EQUIPMENT"
+ },
+ {
+ "question_number":14,
+ "question_type": "tossup",
+ "category": "astronomy",
+ "answer_type": "multiple_choice",
+ "body": "The end of the main sequence life of a star like our Sun occurs when",
+ "choices": {
+ "W": "the proton-proton cycle for hydrogen fusion is replaced by the carbon cycle.",
+ "X": "$90\\$ of the star's hydrogen is fused into helium.",
+ "Y": "the core of the star contracts to form an electron degenerate gas.",
+ "Z": "the fusion of hydrogen into helium stops in the core of the star."
+ },
+ "answer": "THE FUSION OF HYDROGEN INTO HELIUM STOPS IN THE CORE OF THE STAR"
+ },
+ {
+ "question_number":14,
+ "question_type": "bonus",
+ "category": "astronomy",
+ "answer_type": "multiple_choice",
+ "body": "If all the hydrogen in the Sun was fused to helium, what fraction of Sun's mass would be lost?",
+ "choices": {
+ "W": "0.0001",
+ "X": "0.007",
+ "Y": "0.1",
+ "Z": "0.25"
+ },
+ "answer": "0.007"
+ },
+ {
+ "question_number":15,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "Light produced from heat is called",
+ "choices": {
+ "W": "illuminated.",
+ "X": "fluorescent.",
+ "Y": "incandescent.",
+ "Z": "neon."
+ },
+ "answer": "INCANDESCENT"
+ },
+ {
+ "question_number":15,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "A candle flame is seen because it is",
+ "choices": {
+ "W": "illuminated.",
+ "X": "refracted.",
+ "Y": "coherent.",
+ "Z": "luminous."
+ },
+ "answer": "LUMINOUS"
+ },
+ {
+ "question_number":16,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "A reaction is likely to be spontaneous if, compared to products, reactants are",
+ "choices": {
+ "W": "higher in heat content.",
+ "X": "of equal energy.",
+ "Y": "lower in energy.",
+ "Z": "higher in energy."
+ },
+ "answer": "LOWER IN ENERGY"
+ },
+ {
+ "question_number":16,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Types of crystalline solids include all of the following except",
+ "choices": {
+ "W": "metallic.",
+ "X": "covalent-network.",
+ "Y": "molecular.",
+ "Z": "nonmetallic."
+ },
+ "answer": "NONMETALLIC"
+ },
+ {
+ "question_number":17,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "What kind of rocks are formed by lava that cools quickly?",
+ "choices": {
+ "W": "Extrusive metamorphic",
+ "X": "Extrusive igneous",
+ "Y": "Intrusive metamorphic",
+ "Z": "Intrusive igneous"
+ },
+ "answer": "EXTRUSIVE IGNEOUS"
+ },
+ {
+ "question_number":17,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "The process of accumulation of bits of matter around an initial mass is called",
+ "answer": "ACCRETION"
+ },
+ {
+ "question_number":18,
+ "question_type": "tossup",
+ "category": "general_science",
+ "answer_type": "short_answer",
+ "body": "Identify the tree family that includes among its members the: fink, myrtle, turkey, jacks, laurel, white, live and pin.",
+ "answer": "OAK (ACCEPT QUERCUS)"
+ },
+ {
+ "question_number":18,
+ "question_type": "bonus",
+ "category": "general_science",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following vacuum pumps operates by using a very cold surface to trap the gases on the cold surface?",
+ "choices": {
+ "W": "Sublimation pump",
+ "X": "Turbo pump",
+ "Y": "Cryopump",
+ "Z": "Diffusion pump"
+ },
+ "answer": "CRYOPUMP"
+ },
+ {
+ "question_number":19,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "Ultraviolet photons are released in light that is",
+ "choices": {
+ "W": "incandescent.",
+ "X": "fluorescent.",
+ "Y": "luminous.",
+ "Z": "neon."
+ },
+ "answer": "FLUORESCENT"
+ },
+ {
+ "question_number":19,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "The item not associated with fluorescent light is",
+ "choices": {
+ "W": "a tungsten filament.",
+ "X": "a phosphor.",
+ "Y": "an ultraviolet photon.",
+ "Z": "a mercury vapor atom."
+ },
+ "answer": "A TUNGSTEN FILAMENT"
+ },
+ {
+ "question_number":20,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "A nerve cell becomes depolarized when the",
+ "choices": {
+ "W": "potassium gates open.",
+ "X": "sodium gate opens.",
+ "Y": "sodium gates close.",
+ "Z": "both sodium and potassium gates open."
+ },
+ "answer": "SODIUM GATE OPENS"
+ },
+ {
+ "question_number":20,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "The impulse that travels along the nerve membrane is",
+ "choices": {
+ "W": "an action potential.",
+ "X": "a resting potential.",
+ "Y": "a chemical current.",
+ "Z": "an electric current."
+ },
+ "answer": "AN ACTION POTENTIAL"
+ },
+ {
+ "question_number":21,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "In September1997 the International Union of Pure and Applied Chemistry assigned names to the elements104 through109. Give any four of the new names.",
+ "answer": "RUTHERFORDIUM, DUBNIUM, SEABORGIUM, BOHRIUM, HASSIUM, MEITNERIUM"
+ },
+ {
+ "question_number":21,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following types of crystalline solids would you expect to have the highest melting temperatures?",
+ "choices": {
+ "W": "Molecular",
+ "X": "Ionic",
+ "Y": "Network-covalent",
+ "Z": "Metallic"
+ },
+ "answer": "NETWORK-COVALENT"
+ },
+ {
+ "question_number":22,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "A machine's output is4000 joules and its frictional losses are1000 joules. What percent is its efficiency?",
+ "answer": "80 (PERCENT)"
+ },
+ {
+ "question_number":22,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "An object that is seen only by means of reflected light is said to be",
+ "choices": {
+ "W": "luminous.",
+ "X": "incandescent.",
+ "Y": "illuminated.",
+ "Z": "fluorescent."
+ },
+ "answer": "ILLUMINATED"
+ },
+ {
+ "question_number":23,
+ "question_type": "tossup",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "Which number does NOT fit in the following series1,3,7,15,31,63,85,127",
+ "answer": "85"
+ },
+ {
+ "question_number":23,
+ "question_type": "bonus",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "A cube has a volume of64 cubic units. How many units are in the sum of the lengths of all its edges?",
+ "answer": "48"
+ },
+ {
+ "question_number":24,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "The \false\ ribs are not attached directly to the sternum. Of the12 ribs, how many are \false\ ribs?",
+ "answer": "5"
+ },
+ {
+ "question_number":24,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "The tiny ear bone that vibrates against the thin membrane covering the oval window is the",
+ "choices": {
+ "W": "malleus.",
+ "X": "incus.",
+ "Y": "otolith.",
+ "Z": "stapes."
+ },
+ "answer": "STAPES"
+ },
+ {
+ "question_number":25,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "How many karats is pure gold?",
+ "answer": "24"
+ },
+ {
+ "question_number":25,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "What is the characteristic feature of a metallic crystal?",
+ "choices": {
+ "W": "The metallic bond is directional.",
+ "X": "The bonding forces are weak.",
+ "Y": "The valence electrons move around the positive ion.",
+ "Z": "The positive ion is free to move."
+ },
+ "answer": "THE VALENCE ELECTRONS MOVE AROUND THE POSITIVE ION"
+ }
+]

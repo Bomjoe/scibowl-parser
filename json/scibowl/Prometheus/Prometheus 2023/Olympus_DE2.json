@@ -1,0 +1,458 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "What element common in radioactive fallout is particularly dangerous because its chemical similarity to calcium allows it to replace structural support in human bone?",
+    "answer": "Strontium"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Scientists believe that CRISPR gene drives can be designed for viruses and help reduce their infectivity. The insertion of these gene drives relies on what form of double-stranded DNA break repair, which is more accurate than NHEJ?",
+    "answer": "Homology directed repair (ACCEPT: HDR, homologous recombination)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Convert the Cartesian coordinates $(4,4\\qrt{3})$ into polar coordinates.",
+    "answer": "$(8, \\i /3)$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many trailing zeros does 10 factorial have when it is represented in base 6?",
+    "answer": "4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In IR spectroscopy, what property of a molecule's vibrational mode must change for the mode to be considered as IR active?",
+    "answer": "Dipole moment"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In a molecule of phosphorus pentachloride, which of the following is closest to the average phosphorus chlorine bond order?",
+    "choices": {
+      "W": "0.67",
+      "X": "0.8",
+      "Y": "1.0",
+      "Z": "1.2"
+    },
+    "answer": "X) 0.8"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "By what factor would a tsunami's wave speed change when it moves from water 4 kilometers deep to water 1 kilometer deep?",
+    "choices": {
+      "W": "4",
+      "X": "2",
+      "Y": "1/2",
+      "Z": "1/4"
+    },
+    "answer": "Y) 1/2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three features that are results of differential erosion: 1) Blowouts; 2) Yardangs; 3) Desert pavement.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Greycen has been prescribed oxymetazoline, a type of beta blocker, from Dr. Tyler. Which of the following medical conditions does he likely have?",
+    "choices": {
+      "W": "Hypertension",
+      "X": "Atherosclerosis",
+      "Y": "Nasal congestion",
+      "Z": "Hyperglycemia"
+    },
+    "answer": "W) Hypertension"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of peptide bonds: 1) The peptide alpha carbon to nitrogen bonds contain partial double bond character; 2) There is rotation about the bond from the amide group to the alpha carbon; 3) Peptide bonds between glycine residues exhibit the highest number of allowed conformations on a Ramachandran plot.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the term for the special type of vector that relates circular motion to sinusoidal motion on a diagram?",
+    "answer": "Phasor"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The partial derivative of entropy with respect to what thermodynamic quantity at constant volume is used to define temperature?",
+    "answer": "Internal energy"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Scientists are concerned that the effects of ice sheet melt are slowly shutting down what system of ocean currents in the Atlantic, responsible for forming the North Atlantic Deep Water?",
+    "answer": "Atlantic meridional overturning circulation (ACCEPT: AMOC)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "The 2010 eruptions of Eyjafjallajokull in Iceland caused significant air travel disruption across Europe due to the hazards the volcanic ash had on airplane engines. Which of the following was NOT a contributing factor to the widespread closure of European airspace in response to these eruptions?",
+    "choices": {
+      "W": "The eruptions occurred beneath glacial ice, which cooled the lava to form fine glass and ash",
+      "X": "Hot steam sent ash into the upper atmosphere where airplanes cruise",
+      "Y": "Europe saw a high number of storms around this time, which caused volcanic ash to fall to the ground",
+      "Z": "The unusually stable jet stream spread ash over much of mainland Europe"
+    },
+    "answer": "Y) Europe saw a high number of storms around this time, which caused volcanic ash to fall to the ground"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let A be a $50 \\times 50$ matrix such that A squared is equal to 0. What is the largest possible rank of A?",
+    "answer": "25"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Triangle ABC has side $AB$ with length 8, side $AC$ with length $6\\qrt{2}$, and angle $A$ measuring 45 degrees. What is the tangent of angle $B$?",
+    "answer": "3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A chemist wants to determine the temperature of a reversible isothermal process. The chemist plots the heat of the process along the y-axis against the entropy of the process along the x-axis to create a line. Which of the following quantities represents the temperature of this process?",
+    "choices": {
+      "W": "Slope of the line",
+      "X": "Inverse of slope of the line",
+      "Y": "y-intercept of the line",
+      "Z": "Inverse of y-intercept of the line"
+    },
+    "answer": "W) Slope of the line"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What constant in the Born-Mayer equation relates to the lattice geometry and is a modification to the electrostatic potential of an ion within an infinite lattice?",
+    "answer": "Madelung constant"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Type II-P supernovae undergo silicon burning right before becoming a supernova, and have peculiar light curves due to the radioactive decay of cobalt-56 to iron-56. Which isotope, which is the endpoint of the silicon burning process, does the cobalt in the star originate from?",
+    "answer": "Nickel- 56"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The cores of cannibalized dwarf galaxies are thought to stay gravitationally bound together, becoming what type of object in the larger galaxy?",
+    "answer": "Globular cluster"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In grasses such as maizes, the scutellum is analogous to what seed organ in bean plants?",
+    "answer": "Cotyledon"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What method, which is used to sequence amino acids in a peptide, reacts the N-terminus of the peptide with phenyl isothiocyanate",
+    "answer": "Edman degradation"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The J/Ψ meson is expected to melt beyond what temperature, the temperature at which all hadronic matter is expected to convert into quark matter?",
+    "answer": "Hagedorn temperature"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A cloud of gas has an ideal gas equation given as $p = \\rac{\\ho RT}{m}$ where $\\ho$ is the constant density of the cloud and $m$ is the individual mass of each gas molecule. The phase speed in the cloud would then be proportional to what power of temperature?",
+    "choices": {
+      "W": "- 1/2",
+      "X": "1/2",
+      "Y": "- 3/2",
+      "Z": "3/2"
+    },
+    "answer": "X) 1/2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the sensitivity of a test that measures the presence or absence of a condition?",
+    "choices": {
+      "W": "Probability of a positive test result, conditioned on the individual truly being positive",
+      "X": "Probability of a positive test result, conditioned on the individual actually being negative",
+      "Y": "Probability of a negative test result, conditioned on the individual truly being negative",
+      "Z": "Probability of a negative test result, conditioned on the individual actually being positive"
+    },
+    "answer": "W) Probability of a positive test result, conditioned on the individual truly being positive"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "What measure is defined as the harmonic mean of the precision and recall of a statistical test, and has broad applications in natural language processing literature, such as in the evaluation of named entity recognition and word segmentation?",
+    "answer": "F- score"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The scores on the final exam of a statistics class had a mean of 23 and a variance of 16. What is the $z$-score of a test with a score of 35?",
+    "answer": "3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A car with an initial speed of 20 miles per hour is constantly accelerating at 1 mile per hour squared. When it reaches its final destination, it is driving at 30 miles per hour. What fraction of the distance did the car travel in the first 4 hours?",
+    "answer": "44/125"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In post-transition metals, what effect describes the tendency of outer shell s-electrons to not participate in ionic bonding?",
+    "answer": "Inert pair effect"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The ring-opening reaction of an epoxide with which of the following ions has the lowest equilibrium constant?",
+    "choices": {
+      "W": "Methyl",
+      "X": "Chloride",
+      "Y": "Hydronium",
+      "Z": "Hydroxide"
+    },
+    "answer": "X) Chloride"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following does not explain why the northern hemisphere consistently has higher CO2 concentrations than the southern hemisphere?",
+    "choices": {
+      "W": "Interhemispheric mixing times are too long to homogenize the two hemispheres' carbon content",
+      "X": "The northern hemisphere has a larger population",
+      "Y": "The southern hemisphere has a larger ocean surface area",
+      "Z": "The southern hemisphere experiences less deforestation"
+    },
+    "answer": "Z) The southern hemisphere experiences less deforestation"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three oceanic boundaries by increasing depth: 1) Aragonite compensation depth; 2) Aragonite saturation horizon; 3) Calcite compensation depth.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three ions by increasing contribution to membrane potential in a human neuron at resting potential: 1) $\\athrm{K + }$; 2) $\\athrm{Na + }$; 3) $\\athrm{Cl - }$.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three that are functions of strigolactones: 1) Attract mycorrhizal fungi to roots; 2) Control of apical dominance; 3) Promote xylem differentiation and inhibit phloem differentiation.",
+    "answer": "All"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "How many unique normal modes of oscillation exist for a system of two blocks connected by a spring traveling in the x-direction with some velocity $v$?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "X) 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are necessarily true for a solenoid with a time-dependent current: 1) The vector potential outside the solenoid is zero; 2) The electric field inside the solenoid is zero; 3) The electric field outside the solenoid is non-zero.",
+    "answer": "None"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Rank the following three pathogens by increasing biosafety level needed to contain them: 1) Ebola; 2) HIV; 3) Tuberculosis.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three antibiotics for which ribosome protecting proteins could contribute to antibiotic resistance: 1) Aminoglycosides; 2) Penicillins; 3) Tetracyclines.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many times in one day from 12am to 11:59pm inclusive do the hour and minute hands point the same direction?",
+    "answer": "22"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the second derivative of the function $\\tan (4x)$?",
+    "answer": "$32 \\ec^2 (4x) \\tan (4x)$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In IR spectroscopy, the wavenumber of the carbon-fluorine single bond is closest to the wavenumber of which of the following bonds?",
+    "choices": {
+      "W": "Carbon-hydrogen single bond",
+      "X": "Carbon-carbon single bond",
+      "Y": "Carbon-carbon double bond",
+      "Z": "Carbon-carbon triple bond"
+    },
+    "answer": "X) Carbon Carbon single bond"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three types of carbon-hydrogen single bonds by increasing bond dissociation energy: 1) Primary carbon-hydrogen bond in propene; 2) Primary carbon-hydrogen bond in propane; 3) Tertiary carbon-hydrogen bond in 2-methylpropane.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three changes that can contribute to the optical effect of limb darkening observed from stars as their radius gets larger: 1) Decreased atmospheric opacity; 2) Decreased atmospheric temperature; 3) Increased magnetic starspot interference.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why some stellar remnants may reach escape velocities from a galaxy following a supernova?",
+    "choices": {
+      "W": "Not all supernovae are symmetric",
+      "X": "Angular momentum in a binary must be conserved",
+      "Y": "Mass loss allows the stellar remnant to gain speed",
+      "Z": "Gamma ray bursts are unidirectional and create an impulse on the star"
+    },
+    "answer": "W) Not all supernovae are symmetrical"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Hemolytic diseases of the newborn is caused by the difference in the presence of which factor found in the fetus but not the mother?",
+    "answer": "Rhesus factor (ACCEPT: Rh factor)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about glial cells in the brain: 1) They retain the ability to divide throughout adult life; 2) Ependymal cells are a type of glial cell; 3) They are responsible for most cancers of the brain.",
+    "answer": "All"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The motion of an electron's magnetic dipole about the nucleus leading to a shift in electron energy levels is known as what phenomenon?",
+    "answer": "Spin-orbit coupling"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three metals that would have electrons ejected due to the photoelectric effect if red light with a wavelength of 600 nanometers shone on it, assuming Planck's constant is $6.6 \\times 10^{-34}$ joule seconds: 1) Cesium with a work function of 2.1 electron volts; 2) Nickel with a work function of 4 electron volts; 3) Cobalt with a work function of 5 electron volts.",
+    "answer": "1 only"
+  }
+]

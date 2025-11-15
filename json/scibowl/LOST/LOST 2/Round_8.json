@@ -1,0 +1,468 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Helium-3 is unable to form a superfluid through the same mechanism as helium-4 due to its fermionic character. Instead, helium-3 atoms below their lambda point form what type of bosonic pairs to condense?",
+    "answer": "COOPER PAIR"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 1 coulomb charged particle travels through an electromagnetic field whose electric and magnetic fields are described by the vector functions $xi - zk$ and $-yj + zk$, respectively. The particle travels with a velocity described by the vector function $-xi$. What is the magnitude of the electromagnetic force experienced by the particle at the point $<1,-1, 2>$ in newtons?",
+    "answer": "$\\qrt{14}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Princeton Plasma Physics Laboratory have been studying the data from the Carrington event which was characterized by a large solar storm where a massive amount of ionized particles was directed towards the earth. Which event, occurring on the Sun, is responsible for these solar storms?",
+    "answer": "CORONAL MASS EJECTION (ACCEPT: SOLAR FLARES)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Lab used laser pulses to twist the crystal lattice of zirconium pentatelluride, activating Weyl nodes in the material to create a dissipationless electron current. Light-activated zirconium pentatelluride is an example of what type of solid-state material?",
+    "answer": "SEMIMETAL (DO NOT ACCEPT: HALF METAL, METAL, METALLOID, ETC)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules does NOT have two distinct bond lengths in the gas phase?",
+    "choices": {
+      "W": "Sulfur tetrafluoride",
+      "X": "Bromine trifluoride",
+      "Y": "Xenon tetroxide",
+      "Z": "1,3-butadiene"
+    },
+    "answer": "Y) XENON TETROXIDE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that exhibit a decrease in bond angle upon single ionization: 1) $\\athrm{PF}_3$ ; 2) $\\athrm{XeF}_2$ ; 3) $\\athrm{XeF}_4$ .",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Bacteriorhodopsin is an archaeal proton pump that serves to power the proton gradient on the plasma membrane. In plants, what is the analogous complex?",
+    "answer": "CYTOCHROME $\\athrm{B}_6\\athrm{f}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Once neutrophils have phagocytosed a bacterium, via what process are large amounts of reactive oxygen species generated from NOX2 to destroy the bacterial species?",
+    "answer": "RESPIRATORY BURST (ACCEPT: OXIDATIVE BURST)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the remainder when 56! is divided by 57?",
+    "answer": "0"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "All permutations of the word ABRA, spelled A-B-R-A, are arranged in alphabetical order and written one after another with no spaces in between. What is the 20th letter in this string?",
+    "answer": "B"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Agglutinate is welded volcanic bombs when they are hot. In which of the following volcano types would one likely find agglutinate?",
+    "choices": {
+      "W": "Cryptodome",
+      "X": "Splatter cone",
+      "Y": "Cinder Cone",
+      "Z": "Submarine volcano"
+    },
+    "answer": "X) SPLATTER CONE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three regions of a medium size Population II star's lifetime in chronological order: 1) Asymptotic giant branch; 2) Red giant branch; 3) Horizontal branch.",
+    "answer": "2,3,1"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A spaceship travels at a constant velocity of $0.75c$ relative to an observer on Earth. A relativistic bullet is fired inside at a constant velocity of $0.25c$ relative to the spaceship OPPOSITE to the trajectory of the spaceship. Which of the following is closest to the speed of the relativistic bullet relative to the observer on Earth?",
+    "choices": {
+      "W": "$0.5c$",
+      "X": "$0.6c$",
+      "Y": "$0.7c$",
+      "Z": "$0.8c$"
+    },
+    "answer": "X) $0.6c$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three disadvantages that an iron core inductor has over an air core inductor: 1) Smaller inductance; 2) Hysteresis losses; 3) Eddy current losses.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab used $^1\\athrm{H}$ NMR [H one N-M-R] spectroscopy to study fullerene derivatives for use in photovoltaic cells. Order the following three protons in the scientist's $^1\\athrm{H}$ NMR spectrum in increasing chemical shift: 1) Vinylic; 2) Aryl; 3) Aldehyde.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers from Brookhaven National Lab discovered new aerosol particles capable of seeding clouds that are formed from dimethyl sulfide in the troposphere. Where would these aerosol particles most likely be found seeding new clouds?",
+    "choices": {
+      "W": "Amazon Rainforest",
+      "X": "Yellowstone",
+      "Y": "Azores",
+      "Z": "Rocky Mountains"
+    },
+    "answer": "Y) AZORES"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three organic reactions that have an overall kinetic order of 2: 1) Tert-butanol dehydration in strong acid; 2) Epoxide ring-opening in strong base; 3) Maleic anhydride reacting with 1,3 butadiene.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider the reaction of acetaldehyde in a cold solution of dilute sodium hydroxide. What is the IUPAC name of the major product formed in this reaction?",
+    "answer": "3-HYDROXYBUTANAL"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best characterizes the preganglionic synapse of sympathetic innervated neurons?",
+    "choices": {
+      "W": "Norcipinephrinc on $\\eta$ -receptors",
+      "X": "Acetylcholine on muscarinic receptors",
+      "Y": "Norcipinephrinc on $\\lpha$ -receptors",
+      "Z": "Acetylcholine on nicotinic receptors"
+    },
+    "answer": "Z) ACETYLCHOLINE ON NICOTINIC RECEPTOR"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which eicosanoid I-co-sa-noid is a profound inhibitor of platelet aggregation, and is released by endothelial cells?",
+    "answer": "PROSTACYCLIN"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the radius of convergence of the series with nth term $\\rac{nx^n}{3^n}$ [the fraction with numerator n times x to the n and denominator 3 to the n]?",
+    "answer": "3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ordered pairs of nonnegative integers $(x,y)$ satisfy the equation $\\rac{2}{x} +\\rac{1}{y} = 1$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three metamorphic facies in order of increasing temperature of formation: 1) Granulite; 2) Blueschist; 3) Amphibolite.",
+    "answer": "2,3,1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of Mercury: 1) Opposite to the Caloris basin, lineated terrain is found; 2) It possesses a 2:3 resonance for orbit to rotation; 3) It possesses a magnetic field.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In a canonical ensemble with $n$ degenerate energy states, each state has an energy of $E$ joules. Identify all of the following three changes that would increase the residual entropy of the canonical ensemble: 1) Increase $n$ and decrease $E$ ; 2) Increase $n$ only; 3) Increase $E$ only.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Answer the following two questions about the Hamiltonian operator in quantum mechanics: 1. The eigenvalues of the Hamiltonian operator correspond with what scalar? 2. The Hamiltonian is an example of what type of operator in Hilbert space that is self-adjoint?",
+    "answer": "1) ENERGY; 2) HERMITIAN"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Lab are trying to calculate the anomalous magnetic moment of muons by factoring in virtual photons to their calculations. The probability of the production and reabsorption of a virtual photon from a muon is equivalent to what dimensionless constant?",
+    "answer": "FINE STRUCTURE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator lab are studying the properties of C4 photosynthesis. Identify all of the following three statements that are true of C4 photosynthesis: 1) Rubisco is concentrated within mesophyll cells; 2) Malate is transported from mesophyll to bundle sheath cell through the symplast; 3) It is more water efficient than C3 photosynthesis.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the IUPAC name for the major organic product when benzaldehyde is treated with meta-chloro-peroxybenzoic acid?",
+    "answer": "BENZOIC ACID"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A reaction has the following three-step mechanism: Step 1 is $\\athrm{A} + \\athrm{B}$ yields C in rapid equilibrium; Step 2 is C yields $\\athrm{D} + \\athrm{E}$ in rapid equilibrium; Step 3 is $\\athrm{A} + \\athrm{E}$ yields F slowly and irreversibly [read each step slowly]. What is the order of each rate-determining species in the rate law of the reaction?",
+    "answer": "$\\athrm{A} = 2$ $\\athrm{B} = 1$ $\\athrm{D} = - 1$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "While most hormones from the pituitary gland are released in a continuous fashion, which hormone is released in a pulsatile fashion during sleep?",
+    "answer": "GROWTH HORMONE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following mechanisms of action does the anticoagulant warfarin function by?",
+    "choices": {
+      "W": "Inhibiting synthesis of thromboxanes",
+      "X": "Inhibiting Vitamin K metabolism",
+      "Y": "Increasing affinity of antithrombin for thrombin",
+      "Z": "Increasing affinity of thrombomodulin for thrombin and protein C"
+    },
+    "answer": "X) INHIBITING VITAMIN K METABOLISM"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What adjective is given to a square matrix with zeros along its main diagonal?",
+    "answer": "HOLLOW"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Daniel is looking for Digletts in Diglett Cave. The probability that Daniel has seen a Diglett after spending $t$ minutes in the cave is given by the function $P(t) = 1 - 2^{-t}$ . What is the probability that Daniel sees a Diglett for the first time between the times $t = 2$ and $t = 3$ ?",
+    "answer": "7/32"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why Saturn is hotter than expected?",
+    "choices": {
+      "W": "Contraction of the inner core of the planet releases gravitational potential energy that is radiated as heat",
+      "X": "Infalling helium droplets in the liquid hydrogen interior releases gravitational potential energy as they gain kinetic energy",
+      "Y": "Tidal heating from Titan and it's retrograde orbit distorts part of the inner core",
+      "Z": "The rapid rotation induced by the dynamo effect causes frictional heating between the cloud layers and the liquid metallic hydrogen, inducing heat release"
+    },
+    "answer": "X) INFALLING HELIUM DROPLETS IN THE LIQUID HYDROGEN INTERIOR RELEASES GRAVITATIONAL POTENTIAL ENERGY AS THEY GAIN KINETIC ENERGY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In contrast to the main rings of Jupiter which lie within the Roche lobe of the planet, the impact dust from Amalthea and Thebe form another ring of Jupiter known by what name?",
+    "answer": "GOSSAMER RINGS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "When a uniform breeze blows over the top of a playing card for a short duration of time, the card is launched upwards a distance $d$ . If the speed of the breeze is doubled and it blows over the card for the same amount of time, how high will the card be launched?",
+    "choices": {
+      "W": "2d",
+      "X": "4d",
+      "Y": "8d",
+      "Z": "16d"
+    },
+    "answer": "Z) 16d"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An eight state system is immersed in a heat bath at a temperature T such that half the states have an energy of kT and the remaining states have an energy of 2kT. To the nearest integer percent, what is the probability of a particle in the system occupying a lower energy state?",
+    "answer": "83"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Laboratory used cryo-FM to image herpes viruses that are able to remain latent and hidden within the golgi body of the cell. They took inspiration from patients who had contracted chicken pox or were experiencing a shingles flareup which is also caused by a latent virus. What virus is responsible for the juvenile form of chickenpox and later dermatome form of shingles?",
+    "answer": "VARICELLA ZOSTER"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab put CsPbI under high pressures in a diamond anvil to permanently transform it into its black phase for more efficient and lasting use in solar cells. Identify all of the following three compounds that have an analogous crystal structure to the black phase of CsPbI: 1) TiO2; 2) MgSiO3; 3) Fe3O4.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three protons in increasing acidity: 1) Nitrile alpha proton; 2) Phenol labile proton; 3) Acetic acid-labile proton.",
+    "answer": "1,2,3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three compounds in increasing wavelength of maximum absorption in UV-Vis spectroscopy: 1) Acetone; 2) Prussian Blue; 3) Ethylene.",
+    "answer": "3,1,2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Normally, the bulk of negative pressure in trees is from transpiration in the water air boundary leaves. However, when root pressure exceeds this negative pressure, what process, characterized by the secretion of exudate from the hydathodes of vein endings, occurs?",
+    "answer": "GUTTATION"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following organisms would trimethylamine oxide be most abundant?",
+    "choices": {
+      "W": "Salmon",
+      "X": "Shark",
+      "Y": "Bird",
+      "Z": "Gorilla"
+    },
+    "answer": "X) SHARK"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following must be true of conservative vector fields?",
+    "choices": {
+      "W": "The divergence is everywhere zero",
+      "X": "The curl is everywhere zero",
+      "Y": "The divergence is everywhere nonzero",
+      "Z": "The curl is everywhere nonzero"
+    },
+    "answer": "X) THE CURL IS EVERYWHERE ZERO"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two congruent squares with side length 1 share the same center, but are rotated $30^{\\irc}$ relative to each other. What is the area of the star-shaped region bounded by the two squares?",
+    "answer": "$2\\qrt{3} /3$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What sedimentary rock is characteristic of pedocals, where calcium carbonate welds sediment together, often in semiarid regions?",
+    "answer": "CALICHE"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the blackbody curve of the sun, which plots decreasing wavelength vs temperature?",
+    "choices": {
+      "W": "Symmetric curve about $\\ambda_{\\athrm{max}}$",
+      "X": "Distinct line at $\\ambda_{\\athrm{max}}$",
+      "Y": "Decreased slope below $\\ambda_{\\athrm{max}}$ and increased above $\\ambda_{\\athrm{max}}$",
+      "Z": "Increased slope below $\\ambda_{\\athrm{max}}$ and increase slope above $\\ambda_{\\athrm{max}}$"
+    },
+    "answer": "Y) DECREASED SLOPE BELOW AND INCREASED ABOVE $\\ambda_{\\athrm{max}}$"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The amplitude of a wave is given by the function $y(x,t) = e^{x - 2t}$ with x in meters and t in seconds. What is the speed of propagation of this wave in meters per second?",
+    "answer": "0.5"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An RLC circuit is constructed with a resistance R, inductance L, and capacitance C all placed in series. The circuit has oscillations driven by a sinusoidal power source. Identify all of the following four quantities that would decrease if R were decreased: 1) Amplitude; 2) Bandwidth; 3) Resonant frequency; 4) Q factor.",
+    "answer": "2 ONLY"
+  }
+]

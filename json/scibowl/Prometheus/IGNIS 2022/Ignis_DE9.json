@@ -1,0 +1,512 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "One study found that people were willing to pay the same amount to save 2,000 birds as 20,000 birds. This is an example of what cognitive bias, in which people tend to ignore the size of problems and instead judge problems based on more superficial characteristics?",
+    "answer": "Scope insensitivity"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "What is the primary purpose of hidden layers in a neural network?",
+    "choices": {
+      "W": "To provide non-linearity to the model",
+      "X": "To reduce the dimensionality of the input data",
+      "Y": "To act as a bottleneck, preventing overfitting",
+      "Z": "To act as a regularization mechanism, reducing variance"
+    },
+    "answer": "W) To provide non-linearity to the model"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The determinant of the two-by-two matrix A is 3. What is the determinant of 2A?",
+    "answer": "12"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "To the nearest whole number, what is the natural logarithm of the sum of the first 1,000 natural numbers?",
+    "choices": {
+      "W": "3",
+      "X": "7",
+      "Y": "13",
+      "Z": "17"
+    },
+    "answer": "Y) 13"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the role of sodium hydride when used in an aldol reaction?",
+    "choices": {
+      "W": "Nucleophile",
+      "X": "Base",
+      "Y": "Reducing agent",
+      "Z": "Catalyst"
+    },
+    "answer": "X) Base"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The radii of second and third-row transition metals are observed to be very similar to one another, whereas this is not the case with the first and second row of transition metals. Which of the following best explains why this is the case?",
+    "choices": {
+      "W": "Relativistic contraction of 5d orbitals",
+      "X": "4f orbitals shield poorly",
+      "Y": "The 6s orbitals are anomalously large and shield very effectively",
+      "Z": "5d orbitals shield poorly"
+    },
+    "answer": "X) 4f orbitals shield poorly"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following wave types typically has the longest period?",
+    "choices": {
+      "W": "Seiche",
+      "X": "Wind wave",
+      "Y": "Tsunami",
+      "Z": "Capillary waves"
+    },
+    "answer": "Y) Tsunami"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which mid-ocean ridge has the fastest crustal spreading rate in the world?",
+    "answer": "East Pacific Rise"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following families of viruses does the Epstein-Barr virus belong to?",
+    "choices": {
+      "W": "Herpesviridae",
+      "X": "Floviridiaie",
+      "Y": "Rhabdoviridae",
+      "Z": "Picornaviridae"
+    },
+    "answer": "W) Herpesviridae"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Balancing selection is a form of selection in which two or more forms of a phenotype are preserved in a population. Identify all of the following three mechanisms that could cause balancing selection: 1) Negative frequency dependent selection; 2) Positive frequency dependent selection; 3) Heterozygote advantage.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A rod measures a length of $R$ from left to right and has a linear mass density function $\\ho (r) = 2r$. How far from the left of the rod does the rod's center of mass lie?",
+    "answer": "$\\rac{2R}{3}$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "During an isochoric process, one mole of diatomic gas has its temperature increased by 80 Kelvin. What is the change in heat energy the gas undergoes in Joules to two significant figures?",
+    "answer": "1700"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "When writing probabilities as an odds ratio, Bayes' theorem states that, to update the odds of an event, the prior odds must be multiplied by what statistical parameter representing the relative chances of an observation happening in either prior possibility?",
+    "choices": {
+      "W": "Log-odds ratio",
+      "X": "Significance threshold",
+      "Y": "Likelihood ratio",
+      "Z": "Likelihood function"
+    },
+    "answer": "Y) Likelihood ratio"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "An implosion-type nuclear bomb uses what mechanism to reach critical mass?",
+    "choices": {
+      "W": "Adding more fissile material to the core",
+      "X": "Increasing the nearby air pressure",
+      "Y": "Increasing the temperature of the fissile material",
+      "Z": "Compressing the fissile material using conventional explosives"
+    },
+    "answer": "Z) Compressing the fissile material using conventional explosives"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The area and perimeter of a rectangle are the same. If the length of the diagonal is equal to $3\\qrt{5}$, then what is the sum of the length and width of the rectangle?",
+    "choices": {
+      "W": "6",
+      "X": "7.5",
+      "Y": "9",
+      "Z": "10.5"
+    },
+    "answer": "Y) 9"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A bag of 1,000 marbles contains only red, blue, green, yellow, and purple marbles, such that there are a distinct number of each colored marble and the sum of the number of any two colors is greater than the number of any color in the bag. What is the greatest number of green marbles that can be found in the bag?",
+    "answer": "330"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three types of carbocations by increasing reactivity: 1) Primary; 2) Secondary; 3) Tertiary",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Calcium carbide is an ionic salt with the formula $\\athrm{CaC_2}$. When added to distilled water, it undergoes a hydrolysis reaction. Identify all of the following three qualitative changes you would expect to observe during the hydrolysis of calcium carbide: 1) Gas evolution; 2) Solution color change; 3) Precipitation.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following features does not provide evidence that there was once liquid water on the surface of Mars?",
+    "choices": {
+      "W": "Hematite spherules",
+      "X": "Valley networks",
+      "Y": "Kaolinite deposits",
+      "Z": "Yardangs"
+    },
+    "answer": "Z) Yardangs"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A star, planet, and dust grain form an equilateral triangle with side lengths $R$ at a particular moment. An observer is looking towards the dust grain in an effort to collect reflected starlight. What powers of $R$ will the flux observed at the planet be observed as for direct-starlight and dust-reflected starlight, respectively?",
+    "answer": "- 2 and - 4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a vasoconstrictor?",
+    "choices": {
+      "W": "Endothelin-1",
+      "X": "Nitric Oxide",
+      "Y": "Angiotensin II",
+      "Z": "Vasopressin"
+    },
+    "answer": "X) Atrial natriuretic factor"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three algae from least to most related to plants: 1) Charophytes; 2) Chlorophytes; 3) Red algae.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Order the following three materials in terms of increasing distance between their valence and conduction bands: 1) Copper; 2) Silicon; 3) Rubber.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A beam of light is aimed at a 1 centimeter thin glass disc with an index of refraction of 1.5 held under 100 centimeters of water with an index of refraction of 1.33. To one significant figure, what is the ratio of the time taken for light to travel through the water to the time taken to travel through the glass?",
+    "answer": "90"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "When contracting the common flu, or other infectious diseases, many people take pain relievers such as NSAIDs, which are also being researched for possible use against mass bioweapon use. NSAIDs reduce pain by inhibiting what enzyme?",
+    "answer": "Cyclooxygenase"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Molten salt mixtures are often used in modern nuclear reactors. Identify all of the following three purposes within nuclear reactors that molten salts can be used for: 1) Moderator; 2) Coolant; 3) Fuel.",
+    "answer": "All"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A Pythagorean triple is a set of three numbers a, b, and c such that $a^{2} + b^{2} = c^{2}$. Which of the following numbers cannot be the value of c?",
+    "choices": {
+      "W": "10",
+      "X": "13",
+      "Y": "17",
+      "Z": "19"
+    },
+    "answer": "Z) 19"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Each vertex of a square is labeled with a distinct integer from 1 to 4, inclusive. Kevin wants to make each vertex of the square map to another vertex of the square. In how many ways can he do this such that performing this mapping twelve times gets the original square?",
+    "answer": "24"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three compounds by increasing retention factor in column chromatography with a silica stationary phase and 50:50 mixture of n-hexane and ethyl acetate: 1) n-hexane; 2) Ethyl acetate; 3) Isopropanol.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reactions will have the same value for $K_{c}$ and $K_{p}$?",
+    "choices": {
+      "W": "Gas-phase decomposition of ammonia",
+      "X": "Gas-phase decomposition of chlorine trifluoride",
+      "Y": "Partial combustion of solid graphite to form gaseous carbon monoxide",
+      "Z": "Full combustion of solid graphite to form gaseous carbon dioxide"
+    },
+    "answer": "Z) Full combustion of graphite to form carbon dioxide"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Pyroclastic flows derive their speed from the force of gravity acting on the dense air as it moves. What type of wind occurs via an analogous process in cold, mountainous regions?",
+    "answer": "Katabatic winds"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following currents would be expected to travel the fastest?",
+    "choices": {
+      "W": "Kuroshio",
+      "X": "California",
+      "Y": "Canary",
+      "Z": "East Australian"
+    },
+    "answer": "W) Kuroshio"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Erythromycin and tetracyclines function as antibiotics to inhibit bacteria by interfering with which of the following?",
+    "choices": {
+      "W": "Ion channels",
+      "X": "Plasma membrane",
+      "Y": "Bacterial chromosome",
+      "Z": "Ribosome"
+    },
+    "answer": "Z) Ribosome"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What structure in the brain do most of the axons from the optic nerve synapse on before reaching the occipital lobe?",
+    "answer": "Lateral geniculate nucleus"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two spaceships, moving at $0.5c$ and $0.25c$ with respect to a stationary observer, are traveling towards one another. An observer on the first ship sees that the spaceships are moving towards one another at what fraction of the speed of light?",
+    "answer": "2/3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A four kilogram ball of radius 0.25 meters is attached to one end of a string, while the other end of the string is connected to the top of a five meter pole. What is the moment of inertia of the ball about the pole, in kilogram meters squared?",
+    "answer": "1.1"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "The Johnson Johnson and AstraZeneca COVID-19 vaccines both use which technology to induce immunity to COVID-19?",
+    "choices": {
+      "W": "Attenuated coronavirus",
+      "X": "Adenoviral vector",
+      "Y": "Inactivated coronavirus",
+      "Z": "Spike protein peptides"
+    },
+    "answer": "X) Adenoviral vector"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "What distinguishes a feedforward neural network from a recurrent neural network?",
+    "choices": {
+      "W": "Presence or absence of cycles",
+      "X": "Number of layers",
+      "Y": "Activation function used",
+      "Z": "Algorithm used in training"
+    },
+    "answer": "W) Presence or absence of cycles"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the slope of the parabola with equation $y = 3x^{2} - 12x + 5$ at the point $(3, -4)$?",
+    "choices": {
+      "W": "6",
+      "X": "8",
+      "Y": "12",
+      "Z": "18"
+    },
+    "answer": "W) 6"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the cross product of vectors a and b where a = $3i + 2j + 2k$ and $b = 4i + j + 2k$?",
+    "answer": "$2i + 2j - 5k$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three compounds by increasing $pK_{a}$: 1) $\\athrm{C_2H_6}$; 2) $\\athrm{C_2H_2}$; 3) $\\athrm{CH_3NH_2}$.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "For a Maxwell-Boltzmann distribution of an ideal gas of known molar mass and temperature, which of the following three changes would occur to the distribution if the temperature were doubled: 1) The speed of every gas particle would increase; 2) There would be more particles at the modal speed; 3) The modal speed would increase.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three planets by increasing magnetic field strength: 1) Mercury; 2) Venus; 3) Earth.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In terms of solar luminosities, which of the following is closest to the luminosity of a 4 solar mass main sequence star?",
+    "choices": {
+      "W": "5",
+      "X": "25",
+      "Y": "125",
+      "Z": "625"
+    },
+    "answer": "Y) 125"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following hormones is the direct counter to RAAS as it dilates blood vessels while reducing aldosterone release and inhibits renin?",
+    "choices": {
+      "W": "Atrial natriuretic peptide",
+      "X": "Antidiuretic hormone",
+      "Y": "Angiotensin",
+      "Z": "Aldosterone"
+    },
+    "answer": "W) Atrial natriuretic peptide"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During an SDS-page, order the following three proteins in order of increasing migration speed: 1) Titin; 2) Hemoglobin; 3) Insulin.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The graph of acceleration versus position for a simple harmonic oscillator has which of the following shapes?",
+    "choices": {
+      "W": "Circle",
+      "X": "Ellipse",
+      "Y": "Line with a positive slope",
+      "Z": "Line with a negative slope"
+    },
+    "answer": "Z) Line with a negative slope"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 1 nanocoulomb charge lies between two parallel plates with opposite charge densities of magnitude 10 microcoulombs per square meter. If the potential difference across the plates is halved and their distance of separation is doubled, what is the magnitude of the new force acting on the 1 nanocoulomb charge in newtons to one significant figure?",
+    "answer": "$3\\dot 10^{- 4}$"
+  }
+]

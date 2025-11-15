@@ -1,0 +1,407 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cycles is responsible for the formation of varves?",
+    "choices": {
+      "W": "Annual seasonal cycle",
+      "X": "Daily insolation cycle",
+      "Y": "Millenia long orbital eccentricity cycle",
+      "Z": "Supercontinent cycle"
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "An oblique fault is measured to have slipped $5\\athrm{cm}$ during a seismic event. If the dip of this fault is 30 degrees and there was a $3\\athrm{cm}$ sinistral displacement, what was the vertical displacement of the hanging wall in $\\athrm{cm}$?",
+    "answer": "2 cm"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would exhibit negative-frequency dependent selection?",
+    "choices": {
+      "W": "Aposematic Coloration",
+      "X": "Cryptic Coloration",
+      "Y": "Batesian Mimicry",
+      "Z": "Mullerian Mimicry"
+    },
+    "answer": "$Y$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Brennan is attempting to grow his corn but notices that they have poor growth. Upon examination, he finds his plants have purple veins with thin stems. What essential element is Brennan's corn most likely lacking?",
+    "choices": {
+      "W": "Nitrogen",
+      "X": "Potassium",
+      "Y": "Magnesium",
+      "Z": "Phosphorus"
+    },
+    "answer": "$Z$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The presence of the prefix thio, such as in thioenol or thioester indicates that at least one oxygen atom has been replaced by what element?",
+    "answer": "SULFUR"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Some students are studying hydrocyanic acid, which has a pKa value of 9.3. They create a buffer by adding sodium hydroxide to a solution of hydrocyanic acid, so that the ratio of the cyanide concentration to the hydrogen cyanide concentration is 1 to 10. What is the approximate pH of this buffer?",
+    "answer": "8.3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit of the fraction with numerator sin of 5x and denominator $2x$ as x approaches 0?",
+    "answer": "$5/2$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The graph $y = x^{\\edge}3 + 12x^{\\edge}2 + 17$ has 2 critical points. What is the sum of the x coordinates of the critical points?",
+    "answer": "$-8$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the SI unit of luminous intensity?",
+    "answer": "CANDELA"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Kirchoff's Law of Loops states that as you move around any closed loop in a circuit the sum of what should always equal 0?",
+    "answer": "VOLTAGE DROPS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about Population II stars is false?",
+    "choices": {
+      "W": "Population II stars have lower metallicity than Population I stars",
+      "X": "Population II stars are more common than Population I stars",
+      "Y": "Population II stars are less likely to have planets than Population I stars",
+      "Z": "Population II stars are more luminous than Population I stars"
+    },
+    "answer": "$Z$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three spectral types in increasing order by strength of the hydrogen line. I. B-type; II. A-type; III. K-type",
+    "answer": "III, I, II"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Brennan is lost in the desert and has become severely dehydrated. Which of the following hormones would you expect to DECREASE in concentration?",
+    "choices": {
+      "W": "Renin",
+      "X": "Angiotensin",
+      "Y": "Aldosterone",
+      "Z": "Atrial Natriuretic Peptide"
+    },
+    "answer": "$Z$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes why the amount of ATP per glucose molecule is not a fixed amount?",
+    "choices": {
+      "W": "The efficiency of the citric acid cycle is variable",
+      "X": "Transport of NADH into the mitochondria takes varying amounts of energy",
+      "Y": "ATP production efficiency depends on the proton gradient of the mitochondria",
+      "Z": "ATP production efficiency depends on the availability of oxygen"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Assuming bromine has a molecular weight of 80 atomic mass units, what is the molecular weight of 1,2-dibromoethane in atomic mass units?",
+    "answer": "188"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "$\\athrm{He}_2$ has a bond order of what?",
+    "choices": {
+      "W": "0",
+      "X": "0.5",
+      "Y": "1",
+      "Z": "1.5"
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Brennan has scored $56\\$, $62\\$, $48\\$, and $90\\$ on 4 of his tests. What score must he get on his last test to clutch up and get a $70\\$ average across his 5 tests?",
+    "answer": "$94\\$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following trigonometric functions is NOT odd?",
+    "choices": {
+      "W": "secant",
+      "X": "tangent",
+      "Y": "sin",
+      "Z": "cosecant"
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What name is given to the temperature above which ferromagnets stop displaying ferromagnetic properties?",
+    "answer": "CURIE POINT"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Brennan the statistical physicist greatly admires Ludwig Boltzmann, the creator of the statistical representation of entropy. If one were to graph entropy on the y axis and the number of microstates of a certain system on the x axis, what type of graph would you get?",
+    "choices": {
+      "W": "Linear",
+      "X": "Quadratic",
+      "Y": "Exponential",
+      "Z": "Logarithmic"
+    },
+    "answer": "$Z$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following geologic events would be most likely to create coesite?",
+    "choices": {
+      "W": "Orogeny",
+      "X": "Meteorite impact",
+      "Y": "Isostatic rebound",
+      "Z": "Glacial retreat"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Suppose that at a latitude of 45 degrees north there exists a 1020 millibar isobar and at a latitude of 40 degrees north there exists a 1010 millibar isobar. Given that there is an even pressure gradient between these two isobars, in what direction would you expect the wind to be blowing at 43 degrees north?",
+    "choices": {
+      "W": "North",
+      "X": "South",
+      "Y": "East",
+      "Z": "West"
+    },
+    "answer": "$Z$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Brennan attempts to use immunohistochemistry to identify cells with MHC class 2 proteins. Which of the following four cells would Brennan NOT be targeting:",
+    "choices": {
+      "W": "Dendritic Cells",
+      "X": "Macrophages",
+      "Y": "B Cells",
+      "Z": "T Cells"
+    },
+    "answer": "$Z$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Brennan is studying pigment color in the flowers of Bren which is controlled by two genes, NAN and HEE. Wildtype NAN and HEE are both dominant to nonfunctional alleles, and both wildtype NAN and HEE are required to convert white pigment into purple pigment in these flowers. What is the expected ratio of purple to white flowers if Brennan crosses two Bren plants that are heterozygous for both NAN and HEE?",
+    "choices": {
+      "W": "9:7",
+      "X": "15:1",
+      "Y": "13:3",
+      "Z": "8:8"
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "All of the following reagent pairs will lead to the reduction of an alkyne except which?",
+    "choices": {
+      "W": "Hydrogen gas and platinum",
+      "X": "Hydrogen gas and dinickel boride",
+      "Y": "Sodium and ammonia",
+      "Z": "Sodium amide and methyl chloride"
+    },
+    "answer": "$Z$"
+  },
+  {
+    "question_number": 26,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The reaction of solid potassium with water is exothermic and produces gaseous hydrogen. Which of the following is true regarding the magnitudes of delta H and delta U for this reaction?",
+    "choices": {
+      "W": "delta H is greater than delta U",
+      "X": "delta H is equal to delta U",
+      "Y": "delta H is less than delta U",
+      "Z": "delta H may be greater or less than delta U, depending on the temperature."
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 27,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following statements that are logically equivalent to if elephant, then pecan? I. If not pecan, then elephant; II. Either not elephant or pecan; III. Not pecan and not elephant",
+    "answer": "II"
+  },
+  {
+    "question_number": 28,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of the sum of the first 9 cubes?",
+    "answer": "2025"
+  },
+  {
+    "question_number": 29,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What name is given to a material that displays a potential difference when stress is applied to it?",
+    "answer": "PIEZOELECTRIC"
+  },
+  {
+    "question_number": 30,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Brennan the particle physicist is studying the decay of protons into neutrons through a process called beta plus decay. He observes that the proton turns into a neutron as well as a positron but is confused because mass is not being conserved based on his observations. This is due to him not noticing what subatomic particle?",
+    "choices": {
+      "W": "Antineutrino",
+      "X": "Neutrino",
+      "Y": "Antipion",
+      "Z": "Pion"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 31,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Dark energy makes up what percent of the mass-energy content of the universe?",
+    "choices": {
+      "W": "$60\\$",
+      "X": "$70\\$",
+      "Y": "$80\\$",
+      "Z": "$90\\$"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 32,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Tully-Fisher Relation is a correlation between the mass or intrinsic luminosity of a spiral galaxy and what other characteristic?",
+    "choices": {
+      "W": "Radius",
+      "X": "Age",
+      "Y": "Rotational velocity",
+      "Z": "Redshift"
+    },
+    "answer": "$Y$"
+  },
+  {
+    "question_number": 33,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Histones are important for packing DNA in the cell. Replacing which of the following amino acids in histone proteins would have the greatest impact on packing ability?",
+    "choices": {
+      "W": "Lysine",
+      "X": "Aspartate",
+      "Y": "Glycine",
+      "Z": "Serine"
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 34,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three scenarios that would cause flowering in a short-day plant with a critical night length of 8 hours: I - 10 hours of darkness; II - 6 hours of darkness; III - 12 hours of darkness with a flash of light after six hours.",
+    "answer": "I ONLY"
+  },
+  {
+    "question_number": 35,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Aqueous carbonic acid spontaneously decomposes to form products of what state of matter?",
+    "answer": "GAS"
+  },
+  {
+    "question_number": 36,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A certain reaction is at equilibrium at 350 degree kelvin. Given the reaction has a negative delta S value, which of the following statements is true when the reaction is performed at 700 degrees kelvin?",
+    "choices": {
+      "W": "The forward reaction becomes spontaneous.",
+      "X": "The forward reaction becomes nonspontaneous.",
+      "Y": "The delta H value increases.",
+      "Z": "

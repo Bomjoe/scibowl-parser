@@ -1,0 +1,477 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What proposed type of atmospheric geoengineering mimics natural solar dimming processes such as those from volcanic eruptions, but could also potentially lead to depletion of the ozone layer?",
+    "answer": "Stratospheric aerosol injection"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "It has been suggested that stratospheric aerosol injection be performed near the equator in order to take advantage of what pattern of air circulation that lifts air higher into the stratosphere from the equator?",
+    "answer": "Brewer-Dobson circulation"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the partial derivative with respect to $x$ of the polynomial $5x^{2} + e^{5xy} - 3y^{2}$?",
+    "answer": "$10x + 5ye^{5xy}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the equation of a hyperbola with vertices $(\m4, 0)$, and foci $(\m6, 0)$.",
+    "answer": "$\\rac{x^{2}}{16} - \\rac{y^{2}}{20} = 1$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following terms is defined as a metal electrode that is used to determine the concentration of the cation of that metal in a solution?",
+    "choices": {
+      "W": "Indicator electrode",
+      "X": "Reference electrode",
+      "Y": "Electrode of the first kind",
+      "Z": "Electrode of the second kind"
+    },
+    "answer": "Y) Electrode of the first kind"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding spectroscopy: 1) Raman active species require a change in dipole moment in their vibration; 2) $\\athrm{CO_2}$ bending is IR active; 3) Mossbauer spectroscopy relies on the recoil-less absorption of gamma radiation.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "An artesian aquifer is measured to be under exactly one atmosphere of pressure. To the nearest meter, what is the hydraulic head of this aquifer?",
+    "answer": "10"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three stages of a mesoscale convective system from earliest to latest to develop: 1) Bow echo; 2) Comma echo; 3) Squall line.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "When a reciprocal balanced translocation occurs, a tetravalent synaptic structure forms during meiosis. When this occurs, what is the only segregation pattern that results in viable gametes?",
+    "choices": {
+      "W": "Alternate",
+      "X": "Adjacent-1",
+      "Y": "Adjacent-2",
+      "Z": "Inverse"
+    },
+    "answer": "W) Alternate"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The liver produces what protein, which functions to bind free hemoglobin in blood plasma and is often stimulated by inflammatory cytokines?",
+    "answer": "Haptoglobin"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the product of the number of stable equilibrium positions for a set of 5 charges and the number of Lagrange points for a system of 3 equal charges at the vertices of an equilateral triangle?",
+    "answer": "0"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The Lagrangian of a one-dimensional system with a single mass $m$ is given by $L(x,\\ot{x},t) = e^{at}\\rac{m(\\ot{x}^2 - bx^2)}{2}$. Which of the following general examples of physical systems best describes this system?",
+    "choices": {
+      "W": "Simple harmonic oscillator",
+      "X": "Damped harmonic oscillator",
+      "Y": "Pendulum",
+      "Z": "Damped pendulum"
+    },
+    "answer": "X) Damped harmonic oscillator"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Russian false advertising campaigns referred to the AstraZeneca vaccine as a monkey vaccine due to its use of what vaccine technology to deliver mRNA to cells?",
+    "answer": "Chimpanzee adenovirus vector"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Adenoviral vectors have been studied as an avenue for rapid vaccine development in the event of a health emergency. Which of the following is NOT a major advantage of adenoviral vector vaccines over subunit vaccines?",
+    "choices": {
+      "W": "Lower reactivity to pre-existing antibodies",
+      "X": "Greater scale testing for past pandemics",
+      "Y": "Can directly elicit T-cell responses",
+      "Z": "Ability to be genetically modified"
+    },
+    "answer": "X) Greater scale testing for past pandemics"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The Taylor series for $\\n (e + x)$ converges for which of the following intervals?",
+    "choices": {
+      "W": "$(- e, \\nfty)$",
+      "X": "$(- e, e)$",
+      "Y": "$[- e, e)$",
+      "Z": "$(- e, e]$"
+    },
+    "answer": "Z) $(- e, e]$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Determine $\\rac{dy}{dx}$ when $F(x, y) = \\in y - xy = 0$.",
+    "answer": "$\\rac{y}{\\os(y) - x}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Benzaldehyde treated with potassium hydroxide will not stay as benzaldehyde, but will undergo which of the following reactions?",
+    "choices": {
+      "W": "Aldol condensation",
+      "X": "Electrophilic aromatic substitution",
+      "Y": "Cycloaddition",
+      "Z": "Disproportionation"
+    },
+    "answer": "Z) Disproportionation"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reactions generally occurs the fastest?",
+    "choices": {
+      "W": "Lithium halogen exchange",
+      "X": "Diels Alder cycloaddition",
+      "Y": "Aldol condensation",
+      "Z": "Suzuki coupling"
+    },
+    "answer": "W) Lithium halogen exchange"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What diagram reveals a bimodal distribution of the color of galaxies, by grouping them into a red sequence and blue cloud?",
+    "answer": "Color-Magnitude Diagram"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three conditions which must be met in order for baryogenesis to occur: 1) CP symmetry; 2) Conservation of baryon number; 3) Thermal equilibrium.",
+    "answer": "None"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When RuBisCO binds oxygen instead of carbon dioxide, the subsequent reaction between RuBP and oxygen results in the production of 3-phosphoglycerate and what other molecule?",
+    "answer": "Phosphoglycolate (ACCEPT: 2-PG)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the network of small blood vessels that supply the walls of larger blood vessels such as the aorta?",
+    "answer": "Vasa vasorum"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name given to the quantum mechanical operator defined by [negative i times h bar times the gradient]?",
+    "answer": "Momentum (ACCEPT: Linear Momentum)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A star system moves with an average kinetic energy $K$ and a total Lagrangian of $nK$, where $n$ is what integer value?",
+    "answer": "3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What theoretical model of reinforcement learning involves the use of Bayesian updating of computable environmental models to model actions?",
+    "answer": "AIXI"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "This process of Bayesian updating of computable hypotheses is known by what name?",
+    "answer": "Solomonoff induction"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the value of $100 \\times e^{1 / 100}$?",
+    "choices": {
+      "W": "100",
+      "X": "101",
+      "Y": "102",
+      "Z": "103"
+    },
+    "answer": "X) 101"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What theorem states that the product of any collection of compact topological spaces is compact with respect to the product topology?",
+    "answer": "Tychonoff's Theorem"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The stereochemistry of a polymer's constituent monomers often affects its material properties. What term describes the relative stereochemistry between monomers within a polymer?",
+    "answer": "Tacticity"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the geometry of the borane $\\athrm{B}_6\\athrm{H}_6^{2 - }$?",
+    "choices": {
+      "W": "Closo",
+      "X": "Nido",
+      "Y": "Arachno",
+      "Z": "Hypho"
+    },
+    "answer": "W) Closo"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals is typically formed from the serpentinization of peridotites?",
+    "choices": {
+      "W": "Olivine",
+      "X": "Pyroxene",
+      "Y": "Biotite",
+      "Z": "Talc"
+    },
+    "answer": "Z) Talc"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of melting that can occur at subduction zones: 1) Flux melting; 2) Decompression melting; 3) Friction melting.",
+    "answer": "All"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about human sperm: 1) In the late haploid phase of spermatogenesis, histones are replaced with arginine-rich protamines; 2) Daughter cells descended from one maturing spermatogonium remain connected through differentiation by cytoplasmic bridges, forming a syncytium; 3) The whip-like action of the undulipodium allows for the movement of sperm.",
+    "answer": "All"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Primordial germ cell differentiation does not depend on the sex chromosomes, instead relying on the environment in the gonad. What vitamin derivative secreted by the mesonephros causes germ cells to enter meiosis I and is degraded by CYP26B1 in males?",
+    "answer": "Retinoic acid"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider the Schrodinger equation for a particle in the potential $V(x) = x^{4} - a^{4}$ for a positive constant $a$. By name or number, identify all of the following four choices that are accurate about the ground state wavefunction in this potential: 1) It is even; 2) It is a nonzero constant; 3) It goes to zero at $\\m \\nfty$; 4) It is a delta function.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of radiation that are continuously emitted by black holes with jets: 1) Hawking radiation; 2) Brehmsstrahlung radiation; 3) Synchrotron radiation.",
+    "answer": "All"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "The voice synthesis for the Amazon Echo smart speaker is performed by which variant of a recurrent neural network capable of learning long-term dependencies?",
+    "answer": "Long short term memory network (ACCEPT: LSTM)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "LSTM networks do not suffer from which problem common in gradient descent, in which a gradient becomes so small that neural weights do not change value?",
+    "answer": "Vanishing gradient problem"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many integer values of x satisfy $x^{2} < 200\\i$?",
+    "answer": "51"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Tom would like to estimate the mean height of the population in a certain area. He does this by obtaining one set of sample data from a survey, and repeatedly samples observations from this data set to calculate the mean. What term describes this technique?",
+    "choices": {
+      "W": "Bagging",
+      "X": "Bootstrapping",
+      "Y": "Cross-validation",
+      "Z": "Jackknife resampling"
+    },
+    "answer": "X) Bootstrapping"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is false regarding carbene chemistry?",
+    "choices": {
+      "W": "Triplet carbenes behave as diradicals",
+      "X": "Singlet carbenes behave as zwitterions",
+      "Y": "Carbenes are stabilized by a vicinal lone pair",
+      "Z": "Sterically bulky substituents on a carbene promote the singlet state"
+    },
+    "answer": "Z) Sterically bulky substituents on a carbene promote the singlet state"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three molecules that are chiral: 1) Trans-cyclooctene; 2) 1,3-dichloroallene; 3) Syn-1,2-dimethylcyclohexane.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following processes is thought to play a role in the supernovae of stars with a mass greater than 250 solar masses, and occurs when an atomic nucleus absorbs a gamma ray, and rapidly emits another subatomic particle?",
+    "choices": {
+      "W": "Photodisintegration",
+      "X": "Pair instability",
+      "Y": "Mossbauer decay",
+      "Z": "Internal conversion"
+    },
+    "answer": "W) Photodisintegration"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Galaxy A is observed to have a maximum rotation velocity 10 times that of galaxy B. The ratio between the mass of baryonic matter in Galaxy A to Galaxy B is closest to 10 to what integer power?",
+    "answer": "4"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The Leslie matrix is used to model which of the following?",
+    "choices": {
+      "W": "Neuronal oscillations",
+      "X": "Population growth",
+      "Y": "Enzyme kinetics",
+      "Z": "Phylogenetic trees"
+    },
+    "answer": "X) Population growth"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of the unfolded protein response: 1) It is triggered by the accumulation of misfolded proteins in the Golgi apparatus; 2) Creutzfeldt-Jacob disease is thought to result in overactivation of the unfolded protein response; 3) It leads to an increase in the production of ribosomes.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A ball is initially held on an incline at an angle $\\theta$ to the horizontal with $\\u_{k} = \\u_{s} = \\rac{\\qrt{3}}{3}$. Assuming the ball is dropped from the same height in all scenarios, at which of the following angles $\\theta$ would the ball have the most total energy at the bottom?",
+    "choices": {
+      "W": "25 degrees",
+      "X": "35 degrees",
+      "Y": "45 degrees",
+      "Z": "All angles would have the same energy"
+    },
+    "answer": "W) 25 degrees"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A rotating disk of mass $4\\athrm{kg}$ and radius $1\\athrm{m}$ rotates at an initial 16 radians per second clockwise. An object of mass $2\\athrm{kg}$ is dropped vertically onto the edge of the disk and the system continues to rotate. What is the system's final angular velocity?",
+    "answer": "- 9.6 (ACCEPT: 9.6 clockwise)"
+  }
+]

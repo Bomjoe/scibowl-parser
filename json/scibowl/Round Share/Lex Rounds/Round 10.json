@@ -1,0 +1,456 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for proteins which are involved with the process of vesicle fusion with the membrane, and are especially important in acetylcholine release?",
+    "answer": "SNARE Proteins"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "If Jean Valjean eats some magical fruit which is derived from more than one ovary, what type of fruit would it be classified as?",
+    "answer": "Complex Fruit"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A block with initial velocity $5\\athrm{m / s}$ and mass $2\\athrm{kg}$ comes into contact with a rough surface which it slides horizontally on. If it slides 5 meters before stopping, what is the coefficient of kinetic friction of the surface, given $\\athrm{g} = 10\\athrm{m / s}^2$?",
+    "answer": "25"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which one of Maxwell's equations describes the electromotive force induced within a conductor which is exposed to a changing magnetic flux?",
+    "answer": "Faraday's Law"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three types of stars by spectral line width, from least to greatest: I. Supergiant II. Main sequence III. Giant",
+    "answer": "I, III, II"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about sunspots is false?",
+    "choices": {
+      "W": "Sunspots are believed to occur when the Sun's tangled magnetic field rises through the surface",
+      "X": "Every 11 years, the sunspot cycle repeats with sunspots appearing in the same place on the Sun, compared to the previous cycle",
+      "Y": "Early in the sunspot cycle, sunspots appear at higher latitudes then move towards lower altitudes as the cycle progresses",
+      "Z": "Sunspots usually appear in groups"
+    },
+    "answer": "X) Every 11 years, the sunspot cycle repeats with sunspots appearing in the same place on the Sun, compared to the previous cycle"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which types of cells produce somatostatin?",
+    "answer": "Delta Cells"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which hormone is an inhibitor to the action of leptin?",
+    "answer": "Ghrelin"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit of the sum of the geometric series $5*(\\rac{1}{3})^n$ as $n$ tends to infinity?",
+    "answer": "7.5"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate which of the following three x-coordinates give a vertical asymptote for the function $(x^3 + 4x + x - 6) / (x^3 + 2x - x - 2)$ . I. -3 II. -2 III. 1",
+    "answer": "III"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What two elements are located in an RC circuit?",
+    "answer": "Resistor and Capacitor"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the amount of energy stored in an inductor of inductance 2 henrys, if there is a constant current of 3A in the circuit?",
+    "answer": "9J"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space_science",
+    "answer_type": "multiple_choice",
+    "body": "A horst is an uplifted fault block bounded by:",
+    "choices": {
+      "W": "Reverse faults",
+      "X": "Thrust faults",
+      "Y": "Normal faults",
+      "Z": "Strike-slip faults"
+    },
+    "answer": "Y) Normal faults"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space_science",
+    "answer_type": "short_answer",
+    "body": "List the following five periods of geological time by oldest to most recent: I. Permian II. Pennsylvania III. Silurian IV. Devonian V. Mississippi",
+    "answer": "III, IV, V, II, I"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the 4th derivative of $\\in (x)$?",
+    "choices": {
+      "W": "$\\in (x)$",
+      "X": "$\\os (x)$",
+      "Y": "$- \\in (x)$",
+      "Z": "$- \\os (x)$"
+    },
+    "answer": "Z) $- \\os (x)$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A solid of revolution is created by rotating function $x^{\\edge}2 + y^{\\edge}2 = 9$ where $y \\eq 0$, about the y-axis 360 degrees. What is the volume of the solid of revolution created in pi?",
+    "answer": "18"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of fog is created when warm, saturated air from the sea is blown onto a cooler land surface?",
+    "answer": "Radiation fog"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate which of the following four statements about the deflection and shift in wind direction caused by the Coriolis effect are true: I. Deflection is always directed at right angles to direction of airflow II. Deflection only affects wind direction, not wind speed III. The stronger the wind, the greater the deflection IV. Deflection is strongest at the poles and grows weaker near the equator",
+    "answer": "All"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A pendulum follows simple harmonic motion when angle theta is smaller than",
+    "choices": {
+      "W": "$\\$ radians",
+      "X": "$\\$ radians",
+      "Y": "$\\$ radians",
+      "Z": "$\\$ radians"
+    },
+    "answer": "X) $\\$ radians"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The total energy of a $9.8 \\athrm{cm}$ long pendulum following SHM with point mass $5 \\athrm{g}$ attached at the end is $10 \\athrm{N}$. Given that $\\athrm{g} = 9.8$, what is the amplitude of the pendulum in $\\athrm{cm}$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the name of the series used to approximate functions within a domain using a polynomial?",
+    "answer": "Taylor Series"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit of $(\\athrm{x}^{\\edge}3 + \\athrm{x}^{\\edge}2 - 3\\athrm{x} + 1) / (4\\athrm{x}^{\\edge}3 + 3\\athrm{x} - 1)$ as $\\athrm{x}$ approaches infinity?",
+    "answer": "1/4"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A block mass M rests on an inclined plane inclined theta degrees. If M is doubled, the original normal force acting on the block is multiplied by",
+    "choices": {
+      "W": "0.5",
+      "X": "1",
+      "Y": "2",
+      "Z": "4"
+    },
+    "answer": "Y) 2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Block A, with mass $10\\athrm{kg}$, sits on a plane inclined 30 degrees and is attached to block B, mass M, hanging off the side of the ramp, connected by a massless string passing over a smooth pulley. At what mass in kg must block B have in order for the frictional force acting on Block A be zero, given that $\\athrm{g} = 9.8\\athrm{m / s}^2$?",
+    "answer": "5"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What are the main respiratory organs in arachnids?",
+    "answer": "Book Lungs"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which veins returns lymph back into circulation after arriving from the lymph vessels?",
+    "answer": "The Subclavian Veins"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 1500 kg car with initial velocity $15\\athrm{m / s}$ takes 30 seconds to come to a stop. What is the magnitude of force applied on the car by the breaks, in Newtons?",
+    "answer": "750"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The second derivative of a particle's position function returns a negative value when a value $a$ seconds is plugged in. By name or number, indicate which of the following five statements are true regarding the particle's motion at instant $a$. I. The particle's velocity is increasing II. The particle's velocity is decreasing III. The particle is moving forward IV. The particle is moving backward V. There is not enough information to determine which direction the particle is moving",
+    "answer": "II and V"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Amaan flips a coin 25 times to guess on Mr. Mixer's true/false quiz about cross-sections. What is the standard deviation of the number of questions he answers correctly?",
+    "answer": "1.25"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "This time, Amaan flips a coin 100 times to guess on Mr. Mixer's true/false unit test, still about cross-sections. What is the 95% confidence interval of the percentage of questions Amaan gets right?",
+    "answer": "$45\\ - 55\\$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space_science",
+    "answer_type": "short_answer",
+    "body": "What is the name of the salt concentration change over depth in a saltwater body of water?",
+    "answer": "Halocline"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space_science",
+    "answer_type": "short_answer",
+    "body": "In which ocean, and at what latitude is the highest salinity ocean water found?",
+    "answer": "The Atlantic Ocean, 10 degrees north"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What are the 3 independent measurable properties that a black hole posses?",
+    "answer": "Charge, Mass, Angular Momentum"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a mouse on a large spinning disk is located at the axis that is spins around and walks towards the edge, name if each of the following values will change I. Angular Momentum of the Mouse-Disk System II. Angular Momentum of the Disk III. Angular Velocity of the Mouse IV. Tangential Acceleration of the bug",
+    "answer": "I. will not, II. will III. will not IV. will"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Cells sense population density and regulate gene activity based on population density using what sensing process",
+    "answer": "Quorum Sensing"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Sean has shot commissar Ludwig, triggering his fight or flight system. Cortisol, secreted from Adrenal Gland, is released into the bloodstream and picked up by a heart signalling cell. Then, this cell secretes a large amount of signalling molecules, communicating with its nearby cells to help increase heart rate. What are the two types of signalling involved in this process",
+    "answer": "Paracrine, Endocrine Signalling"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the tissue which can be contracted to cover the gills in bony fish?",
+    "answer": "Operculum"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the conduction that is found when the action potential jumps from each node of ranvier to the next?",
+    "answer": "Saltatory Conduction"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A pulley system with a mechanical advantage of 2 and block weight W attached to a massless moving pulley has a force $0.5\\athrm{W}$ applied to the end of the massless rope, causing the rope to move down distance D. In terms of D, the block moves up a distance:",
+    "choices": {
+      "W": "0.25D",
+      "X": "0.5D",
+      "Y": "D",
+      "Z": "2D"
+    },
+    "answer": "X) 0.5D"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "On Earth, a ball is thrown upwards with its initial velocity equal to its terminal velocity. Which of the following statements is true about the particle's velocity, assuming airflow is laminar and that the only forces acting on the ball are air resistance and gravitational force?",
+    "choices": {
+      "W": "The velocity increases throughout its flight",
+      "X": "The velocity decreases",
+      "Y": "The velocity remains constant throughout its flight",
+      "Z": "The velocity decreases that increases throughout its flight"
+    },
+    "answer": "Y) The velocity remains constant throughout its flight"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the most common type of lava formation on/near a seamount?",
+    "answer": "Pillow Lavas"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of an isolated underwater volcano that is flat topped?",
+    "answer": "Tablemount (ACCEPT: Guyot)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space_science",
+    "answer_type": "short_answer",
+    "body": "What is the name of the north flowing African current that forms a part of the south Atlantic gyre?",
+    "answer": "The Benguela Current"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space_science",
+    "answer_type": "short_answer",
+    "body": "What is the name of the two currents that combine to create the North Pacific current",
+    "answer": "Oyashio and Kuroshio currents"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Name the nucleotide sequence that enzyme CPSF most commonly binds too, commonly known as the polyadenylation signal",
+    "choices": {
+      "W": "AATAAA",
+      "X": "AAUAAA",
+      "Y": "ATAAAA",
+      "Z": "AAAAAA"
+    },
+    "answer": "W) AATAAA"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the nucleoside that is used to create the 5'cap for most eukaryotic mRNA transcripts",
+    "answer": "Guanosine"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the linear electron flow of photosynthesis, what is the final electron acceptor?",
+    "answer": "Ferredoxin"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "______ removes nucleotides, allowing nucleotide excision repair to be performed.",
+    "answer": "Nuclease"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "On another planet, organisms use DNA the same way they are used on Earth, except that they are based on the conservative model. Which of the following would be true?",
+    "choices": {
+      "W": "One of the daughter molecules contains all the original parent DNA, and one of the daughter molecules contains newly synthesized DNA.",
+      "X": "Each of the daughter molecules contain roughly half of the original DNA, and they are randomly dispersed",
+      "Y": "Each of the daughter molecules contains a strand of the original molecule, and a newly synthesized strands",
+      "Z": "One of the daughter molecules contains $75\\$ of the original while one contains $25\\$"
+    },
+    "answer": "W) One of the daughter molecules contains all the original parent DNA, and one of the daughter molecules contains newly synthesized DNA."
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Name the disease associated with inflammation and swollen membranes of the central nervous system?",
+    "answer": "Meningitis"
+  }
+]

@@ -1,0 +1,477 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the remainder when $25^{3}$ is divided by 7?",
+    "answer": "1"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the solutions for z given the equation $z^2 - 8i = 0$, answer expressed in polar form?",
+    "answer": "$\\qrt{2} + i\\qrt{2}$ and $-\\qrt{2} - i\\qrt{2}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following fixing agents is used to fix lipid membranes and their associated proteins?",
+    "choices": {
+      "W": "Glutaraldehyde",
+      "X": "Acrolein",
+      "Y": "Osmium Tetroxide",
+      "Z": "Formaldehyde"
+    },
+    "answer": "Y) Osmium Tetroxide"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is most likely to occur if additional Bcd protein is introduced into a D. melanogaster embryo?",
+    "choices": {
+      "W": "The cephalic furrow forms posterior to where it would normally form",
+      "X": "The cephalic furrow forms anterior to where it would normally form",
+      "Y": "The cephalic furrow forms dorsal to where it would normally form",
+      "Z": "The cephalic furrow forms ventral to where it would normally form"
+    },
+    "answer": "W) The cephalic furrow forms posterior to where it would normally form"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When phenyl trimethyl silane is treated with AlCl3 and Cl2, in which of the following positions does substitution occur?",
+    "choices": {
+      "W": "Ipso",
+      "X": "Ortho",
+      "Y": "Meta",
+      "Z": "Para"
+    },
+    "answer": "W) Ipso"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Leaving groups such as Cl attached to a beta carbon of an alkyl silane are more prone to leaving when compared to plain alkanes. Which of the following interactions best explains why?",
+    "choices": {
+      "W": "Si-C sigma to Cl-C sigma*",
+      "X": "Si-C sigma to Cl-C sigma",
+      "Y": "Si nonbonding to Cl-C sigma*",
+      "Z": "Si nonbonding to Cl-C sigma"
+    },
+    "answer": "W) Si-C sigma to Cl-C sigma*"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three choices which would be much more common in a starburst galaxy than the milky way. 1) supernovae 2) x-rays from galactic nuclei 3) stellar winds",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In simplest radical form, what is the redshift of a star that is moving away from the viewer at a speed of $0.5c$?",
+    "answer": "$\\qrt{3} - 1$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A sphere of radius R is rolling without spinning, and its center of mass is moving to the right at speed v. What is the relative speed between the ground and the very top of the sphere?",
+    "choices": {
+      "W": "0",
+      "X": "v/2",
+      "Y": "v",
+      "Z": "2v"
+    },
+    "answer": "Z) 2v"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The speed of the center of mass of an object rolling without slipping is v. Given that it rolls up a hill to a maximum height of $3v^2 /4g$, which of the following could be the identity of the object?",
+    "choices": {
+      "W": "a solid sphere",
+      "X": "a hollow sphere",
+      "Y": "a solid cylinder",
+      "Z": "a solid hoop"
+    },
+    "answer": "Y) A SOLID CYLINDER"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at CERN are using fermi dirac statistics to study the trajectory of particles after a collision. Identify all of the following three particles which they could have been studying: 1) J/psi Pentaquark 2) K+ 3) Omega -",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at CERN are researching the decay of the proton, which seems to violate the conservation of baryon number. Identify all of the following reactions which conserve baryon number (* = antiparticle); 1) K+ → e+ + v_e* [Read as: Positive Kaon yields positron + electron antineutrino] 2) pi+ + e- → p+ + K- + v_e [Read as: Positive pion plus electron yields proton plus kaon + electron neutrino] 3) lambda 0 → pi0 + v_tau [Read as: neutral Lambda yields neutral pion and tau neutrino]",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is equal to the limit $(1+4/n)^{n/2}$ as n approaches infinity?",
+    "choices": {
+      "W": "e^{1/2}",
+      "X": "e",
+      "Y": "e^{2}",
+      "Z": "e^{4}"
+    },
+    "answer": "Y) e^{2}"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Rohan needs to design a closed cylindrical can that holds 475 cubic centimeters of fluid to store his viagra pills. What is the smallest radius possible that would require the least amount of material?",
+    "answer": "$\\qrt{475/2\\i}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements about snoRNAs which are true: 1) They direct cleavage of pre-rRNA 2) They Guide $2'$ -O-methylation 3) They are known to form pseudo knots with the target RNA",
+    "answer": "All"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Nipun goes to a doctor’s office with extremely low hematocrit, proteinuria, and a low blood pressure. Which of the following is the most likely explanation of this man’s conditions?",
+    "choices": {
+      "W": "Failing kidneys leading to a lack of EPO",
+      "X": "Chronic lymphocytic leukemia in red bone marrow",
+      "Y": "Megaloblastic anemia caused by lack of folate",
+      "Z": "Polycythemia vera in red bone marrow"
+    },
+    "answer": "W) Failing kidneys leading to a lack of EPO"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "For the photoelectric effect, if the frequency of the incident light is doubled, which one of the following could be the ratio of the final Kinetic Energy to the original Kinetic Energy of the ejected electrons?",
+    "choices": {
+      "W": "1/2",
+      "X": "1",
+      "Y": "1.4",
+      "Z": "2.7"
+    },
+    "answer": "Z) 2.7"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A hole in a certain lattice can be modeled as a flat square, with an anion on each corner with radius r. Given that the side length of each square is $2r$, and a cation can occupy the center of the hole, what is the radius ratio of the cation to the anion",
+    "answer": "$\\qrt{2} - 1$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three rocks from increasing grain size. 1) migmatite 2) slate 3) phyllite",
+    "answer": "2 3 1"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A planet is circularly orbiting a star at radius r. The planet very slowly loses mass to $50\\$ of its original mass. If the orbit stays circular, what will be the new orbital radius $r_2$ in terms of r.",
+    "answer": "4r"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In a Clash Royale match, a hidden Tesla is triggered by an incoming minion. The tesla contains a massive negative point charge, and when it is triggered, moves up with constant velocity. Which of the following statements is true about this scenario.",
+    "choices": {
+      "W": "If the minion is directly above the Tesla, it feels an electric field but not a magnetic field",
+      "X": "If the minion is directly above the Tesla, it feels a magnetic field but not an electric field",
+      "Y": "If the minion is directly above the Tesla, it feels both an electric field and a magnetic field",
+      "Z": "If the minion is directly above the Tesla, it feels neither an electric field or a magnetic field"
+    },
+    "answer": "W) If the minion is directly above the Tesla, it feels an electric field but not a magnetic field"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Four identical positive charges are placed and held in place at the vertices of a square. One of the charges is released and travels away from the arrangement while the other charges are kept stationary. Given that the energy of the original four-charge arrangement was E, what is the kinetic energy of the released charge at a very large distance away from the other charges in terms of E?",
+    "answer": "- E/2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists are studying the effect of heating and cooling graphene to extremes. Similar to Helium, it is found that when heated, graphene also freezes its electrons at place. For this to be most observable, scientists had to turn each parallel graphene sheet by 5 degrees and the sheets out of plane, to create what pattern?",
+    "answer": "Moire Pattern"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists are studying the effects of heating and cooling graphene to the extremes. In their research they also studied the effects of heating and cooling on He-3, to compare and contrast both materials. They encountered that upon heating, liquid Helium solidified, as the entropy of solid helium is greater than that of liquid helium. What effect best describes this phenomenon?",
+    "answer": "Pomeranchuk Effect"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Which of the following shapes would the equation $r = a\\theta$ in the polar plane be of? W) Rose  X) Cardioid  Y) Limacon  Z) Spiral",
+    "answer": "Z) Spiral"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If x=1+2^p and y=1+2^(-p), what is y in terms of x as a fraction?",
+    "answer": "x/(x- 1)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What specific motor cells in grass leaves control the rolling and unrolling of the blade in response to changes in water potential?",
+    "answer": "Bulliform cells"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "An unusual substance, called Vishwalium, acts as a reversible inhibitor of carbonic anhydrase. Vishwalium, interestingly, increases the rate $k_{\\text{cat}}$ of the enzyme, but significantly reduces the affinity of carbonic anhydrase to its substrate. Name all of the following changes that would be seen on a double-reciprocal plot as a result 1) The x-intercept would shift to the left 2) The slope of the line would increase 3) The y-intercept of the plot would decrease",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reagents, when used on an alpha beta unsaturated carbonyl produces an intermediate that will undergo the mannich reaction with dimethyl amine and formaldehyde?",
+    "choices": {
+      "W": "Trifluoroacetic acid",
+      "X": "Dimethyl formamide",
+      "Y": "2,3-Dichloro-5,6-dicyano-1,4-benzoquinone",
+      "Z": "DABCO"
+    },
+    "answer": "Z) DABCO"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Shohom is trying to make dopamine. In his synthesis, he is required to form 5 amino 4 hydroxy 2 methoxy phenol from para hydroxy phenol. Order all of the following three reagents in order at which they should be used starting on phenol; 1) FeBr3, Br2 2) Amalgamated Zinc, H3O+ 3) MeO- 4) HNO3, H2SO4",
+    "answer": "1 4 3 2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities, when varied, would change the transit depth of an exoplanet-star system? 1) diameter of the planet 2) mass of the planet 3) orbital radius of the planet",
+    "answer": "1"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements which are true of the hill sphere: 1) The outer shell of the hill sphere constitutes a zero-velocity surface 2) It lies between the 2 and 3 lagrange points 3) Beyond the sphere the object deforms due to tidal forces",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a hollow cylindrical shell of length L and uniform surface charge density sigma, rotating at angular velocity omega. Assuming L is much larger than the radius of the shell, then by name or number, indicate all of the following three changes to the shell that would increase the magnitude of the magnetic field at the center of the shell: 1) increasing sigma 2) increasing omega 3) increasing L",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a diatomic molecule with moment of inertia $2.6 \\times 10^{- 36}$ $n^2$ . What is the energy difference between the third and fourth excited rotational states, in terms of the reduced planck's constant",
+    "answer": "$3.1 \\times 10^{- 36} \\text{h}^2$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the University of Michigan Rogel Cancer Center have taken a promising new approach to targeting STAT3 – developing a small-molecule compound that harnesses the power of a natural cellular \cleanup\ system to get rid of what type of cancer, which has Burkitt and Hodgkins forms.",
+    "answer": "Lymphoma"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Physicists at Princeton Plasma Physics Lab have discovered a new way to measure high energy density plasmas. Which of the following statements is not true about plasmas in general.",
+    "choices": {
+      "W": "The higher the density of a plasma, the less energy required for a fusion reaction to proceed",
+      "X": "The debye length characterizes the influence of a charge in a plasma",
+      "Y": "Particles in a plasma approximately follow the Fermi - Dirac distribution",
+      "Z": "Maxwell's laws can be treated as being governed by Maxwell's laws and the Navier Stokes equation"
+    },
+    "answer": "Y) Particles in a plasma approximately follow the Fermi - Dirac distribution"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the shortest altitude in the triangle with side lengths 15 20 25?",
+    "answer": "12"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the simplest value of the expression sqrt(8+sqrt(28)) - sqrt(8-sqrt(28))?",
+    "answer": "2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What type of synapse is characterized by being located on the axon terminal of another synapse?",
+    "answer": "Axo- axonic synapse"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Name each of the following enzymes based on their function in genomic regulation 1) Catalyzes strand separation of dsRNA into single strands that it uses to target certain mRNAs and prevent their expression 2) Cuts dsRNA from genes like lin-4 into short strands that are used in gene regulation 3) Channel protein that allows dsRNA to leave the nucleus and enter the cytoplasm",
+    "answer": "1) RISC 2) DICER 3) Exportin-5"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Compound Z decays into compound Y with a rate constant of $12L^2 / mol^2s$. If it takes 10M D 50 seconds for half of Z to decay into Y, then how much time would it take 10 M Z to decay to $1.25 M Z$",
+    "choices": {
+      "W": "88.5 seconds",
+      "X": "150 seconds",
+      "Y": "350 seconds",
+      "Z": "1050 seconds"
+    },
+    "answer": "Z) 1050 seconds"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Metal Clathrates can be modeled as coordination complexes with two sets of ligands. The metal clathrate of AuI4- has the Iodide in a square planar geometry, and is not directly bonded to, but rather neighbored by 6 H2O in an octahedral geometry, where the iodine and water are offset by 45 degrees. Given that H2O is a stronger ligand than I-, rank all of the following three orbitals by increasing energy; 1) $dz^2$ 2) $dx^2 - y^2$ 3) $dyz$",
+    "answer": "2 3 1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true regarding magma and lava.",
+    "choices": {
+      "W": "Most intraplate volcanism occurs due to divergent plates spreading and letting out magma",
+      "X": "Increased water vapor content tends to make eruptions less explosive",
+      "Y": "A sudden decrease in pressure can cause rock to melt and form magma",
+      "Z": "The tendency to form pyroclasts in magma is inversely related to its silica content"
+    },
+    "answer": "Y) A sudden decrease in pressure can cause rock to melt and form magma"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Determine whether each of the following three choices is characteristic of El Nino or La Nina. 1 Formation of tropical cyclones on the equator 2 Droughts in South America 3 Increased rainfall in Australia",
+    "answer": "1) El Niño 2) La Niña 3) La Niña"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A particle of mass m is traveling at 60% of the speed of light. What percent of its total energy is composed of its rest energy?",
+    "choices": {
+      "W": "20",
+      "X": "40",
+      "Y": "60",
+      "Z": "80"
+    },
+    "answer": "Z) 80"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider two satellites A and B of the same mass that travel in circular orbits around a massive planet. Given that the orbit radius of satellite A is greater than that of satellite B, indicate all of the following three statements that are true, ignoring the gravitational attraction between the two satellites: 1) the magnitude of the angular momentum of satellite A about the planet is greater than that of satellite B 2) the magnitude of the linear momentum of satellite A is greater than that of satellite B 3) the kinetic energy of satellite A is greater than that of satellite B",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Idaho National lab are developing a fission surface power system for lunar power applications. What is the power of this system if the rover starts with $5 \\times 10^{2} \\athrm{~kg}$ of plutonium which is linearly depleted until there is none left after $5 \\times 10^{10}$ seconds.",
+    "answer": "$9 \\times 10^{8}$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at ARC are studying the nuclear Overhauser Effect in hopes of furthering the applications of NMR to biological fields. To what power of r does the Nuclear Overhauser drop off at?",
+    "answer": "- 6"
+  }
+]

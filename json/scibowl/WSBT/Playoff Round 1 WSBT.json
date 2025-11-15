@@ -1,0 +1,430 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the detergent-like substance released by type II alveolar cells to reduce cohesive forces between water on the surface of alveoli?",
+    "answer": "Pulmonary Surfactant"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Alice is studying the degradation of proteins and polypeptides via the26S proteasome. She finds that enzymes are involved in the transportation of these proteins to the proteasome, as they catalyze the addition of what regulatory protein?",
+    "answer": "Ubiquitin"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following structures forms when two glaciers merge together and a line of sediment is left between them?",
+    "choices": {
+      "W": "Lateral Moraine",
+      "X": "Cirque",
+      "Y": "Drumlin",
+      "Z": "Medial Moraine"
+    },
+    "answer": "Z) Medial Moraine"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What geologic province in the U.S. displays a namesake topography of parallel mountain chains formed by extensive normal faulting due to crustal extension?",
+    "answer": "Basin and Range Province"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "$6 /7^{\\text{th}}$ of the trees in the forest are tall trees. Of the tall trees in the forest, $3 /11^{\\text{th}}$ are oak trees. If there are36 oak trees, how many total trees are in the forest?",
+    "answer": "154"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many maximums does the equation $3x^{4} -6x^{2} +3x +2$ have on the closed interval from -3 to5?",
+    "answer": "3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How much current flows through a circuit composed of2-ohm,6-ohm, and another6-ohm resistor connected in parallel with a12V battery?",
+    "answer": "10 A"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Tony is playing on some very tall swings in the playground. Assuming he is in perfect harmonic motion and the angle of motion is negligible, if his highest point is5m, and it takes6 seconds to reach his highest point again, what is the length of the swing in meters to the nearest whole number?",
+    "answer": "36"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Alice is currently studying a phenomenon within niobium alloys, which expel all magnetic flux when cooled below the critical temperature. What is the name of this phenomenon which ceases when the magnetic field becomes too strong?",
+    "answer": "Meissner Effect"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is INCORRECT regarding the Diels-Alder reaction?",
+    "choices": {
+      "W": "High temperatures promote the Retro Diels-Alder reaction",
+      "X": "A more substituted dienophile will lower the yield of the Diels-Alder reaction",
+      "Y": "Diels-Alder reaction only occurs if the diene exists in its s-cis conformation",
+      "Z": "The endo product is generally favored over the exclusive product in Diels-Alder"
+    },
+    "answer": "X) A more substituted dienophile will lower the yield of the Diels-Alder reaction"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Ames National Laboratory is studying nanomaterials. The production of graphene relies on the closely-packed crystal structure of graphite for its outstanding elasticity and flexibility. Which of the following describes the crystal system of graphite?",
+    "choices": {
+      "W": "orthorhombic",
+      "X": "hexagonal",
+      "Y": "tetragonal",
+      "Z": "monoclinic"
+    },
+    "answer": "X) hexagonal"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Brookhaven National Laboratory is developing heat sink components to optimize supercomputer performance. Order the following3 materials by thermal conductivity at room temperature, from highest to lowest:1) Aluminum;2) Copper;3) Diamond",
+    "answer": "321"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the central cavity of porifera, lined with flagellated choanocytes?",
+    "answer": "Spongocoel"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 choices that are true regarding phyllotaxy.1) Opposite is the most common phyllotaxy2) Grasses exemplify a distichous phyllotaxy3) Culver's Root exemplifies a whorled phyllotaxy",
+    "answer": "2 AND3 ONLY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which moon of Jupiter is thought to exhibit plate tectonics, in which slabs of ice subduct into its liquid mantle?",
+    "answer": "Europa"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "How many times greater is the luminosity of a12 solar mass main-sequence star than a3 solar mass main sequence star?",
+    "answer": "128"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For the polynomial $5x^2 -3x +9$, what is the value of the sum of its zeros divided by the product of its zeros?",
+    "answer": "$\\rac{1}{3}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many zeros are at the end of [60 factorial]?",
+    "answer": "14"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a closed tube with a length of21 centimeters. Assuming it’s a perfect standing wave, what is the wavelength of the third overtone in centimeters?",
+    "answer": "12"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An object traveling under a constant acceleration of $8\\athrm{m / s}^2$ with an initial velocity of $8\\athrm{m / s}$. The object travels60 meters after a certain amount of time. How long, in seconds, is the object in motion?",
+    "answer": "3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 molecules that are aromatic:1) Cyclooctatetraene;2) Cyclobutadiene;3) Cyclohexane",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The hydrogenation of carbon-sulfide bonds in thioacetals can be catalyzed by what group of solid catalysts, which can also hydrogenate benzene but not esters?",
+    "answer": "Raney Nickel"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Princeton Plasma Physics Laboratory studies quasiparticles. What term describes such collective excitations that can be modeled as quantized sound waves, similar to how photons are quantized light waves?",
+    "answer": "Phonons"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Oak Ridge National Laboratory astronomers are studying the Blandford-Znajek process, in which energy is extracted from a rotating black hole, which is thought to power quasars. In what region, located outside a black hole's event horizon, is this process thought to take place?",
+    "answer": "Ergosphere"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a monilophyte?",
+    "choices": {
+      "W": "Ferns",
+      "X": "Horsetails",
+      "Y": "Quillwort",
+      "Z": "Moonworts"
+    },
+    "answer": "Y) Quillwort"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 blotting techniques that are correctly associated with the structures they study.1) Northern and RNA;2) Western and Proteins;3) Eastern and Post Translational Modifications.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What highest-quality grade of coal is hard and shiny due to undergoing the most metamorphism?",
+    "answer": "Anthracite"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What process is exemplified by sand grains bouncing along a surface as they are carried by wind, and by pebbles bouncing along the riverbed as they are carried by a stream?",
+    "answer": "Saltation"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A particle’s position with respect to time in seconds is modeled by the equation $-t^4 +5t^3 /3 +10t^2 -25t +10$ on the closed interval from0 to10. Which of the following is the2nd time at which the particle comes to a stop?",
+    "choices": {
+      "W": "$\\athrm{t} = - \\qrt{5}$",
+      "X": "$\\athrm{t} = \\qrt{5}$",
+      "Y": "$\\athrm{t} =5 /4$",
+      "Z": "$\\athrm{t} = -5 /4$"
+    },
+    "answer": "X) $\\athrm{t} = \\qrt{5}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "a, b, and c are real numbers satisfying value of. What is the smallest possible",
+    "answer": "18"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider the circuit composed of a12V battery, two3 Ohm resistors connected in parallel, and a12-Farad capacitor. To the nearest second, how long will it take for the capacitor to reach $63\\$ of its full charge?",
+    "answer": "18"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following4 particles that have integer spin:1) Photon;2) Gluon;3) Muon;4) Higgs Boson",
+    "answer": "124"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 choices that are true regarding microstates of statistical entropy:1) The microstates of a perfect crystal at0 Kelvin has entropy0;2) The microstates of a system can be less than0;3) The number of microstates is square root proportional to the number of molecules;",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is INCORRECT regarding Grignard reagents?",
+    "choices": {
+      "W": "Grignard Reagents can allow for the conversion of acid chlorides into ketones",
+      "X": "Grignard Reagents can be reacted with carbon dioxide to produce a carboxylic acid",
+      "Y": "Grignard Reagents can be used for the alkylation of aldehydes",
+      "Z": "Grignard Reagents are commonly used in ethereal solvents"
+    },
+    "answer": "W) Grignard Reagents can allow for the conversion of acid chlorides into ketones"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Argonne National Laboratory researchers are inquiring into ways to enrich the diets of American citizens. They find that many citizens are deficient in vitamin B12, which is used in DNA and myelin sheath synthesis. Which of the following transition metals serves as the coordination center of vitamin B12?",
+    "choices": {
+      "W": "Cobalt",
+      "X": "Iron",
+      "Y": "Chromium",
+      "Z": "Copper"
+    },
+    "answer": "W) Cobalt"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Pacific Northwest National Laboratory's cell biology researchers are studying the primary effectors of cell processes. What term describes the protease enzymes that play critical roles during apoptosis?",
+    "answer": "Caspases"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following correctly matches the hormone and the cell it is primarily secreted from?",
+    "choices": {
+      "W": "Alpha and histamine secretion",
+      "X": "Parietal and Intrinsic Factor",
+      "Y": "D and pepsinogen",
+      "Z": "Chief and Somatostatin"
+    },
+    "answer": "X) Parietal and Intrinsic Factor"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 choices which correctly matches the nitrogenous base to its product after deamination.1) Thymine to5-Methylcytosine;2) Cytosine to Uracil;3) Guanine to Xanthine.",
+    "answer": "2 AND3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What name is given to the compact radio source at the center of the Milky Way, corresponding to a supermassive black hole?",
+    "answer": "Sagittarius A*"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the age of Saturn's rings?",
+    "choices": {
+      "W": "100 million years",
+      "X": "500 million years",
+      "Y": "1 billion years",
+      "Z": "4 billion years"
+    },
+    "answer": "W)100 MILLION YEARS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A set S has10 distinct elements. How many subsets of S have an odd number of elements?",
+    "answer": "512"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "John rolls a standard6-sided dice10 times. In how many ways can he roll1 one,2 two's,3 three's, and4 four's?",
+    "answer": "12600"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A satellite performs a maneuver while traveling in a circular orbit, firing its thrusters such that it barely manages to escape its orbit. By what factor does its speed change during the maneuver?",
+    "answer": "$\\qrt{2}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A thin hoop with mass5 kilograms and radius2 meters is rolling counterclockwise to the right. What is the speed of the hoop's center of mass after a long time if it starts with a center of mass velocity of5 meters per second and an angular velocity about its center of mass of3 radians per second?",
+    "answer": "1"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following3 choices that are true regarding the Born Oppenheimer approximation.1) It neglects the energy derived from nuclear motion2) It can be used to solve The Schrodinger Equation for $\\athrm{H}_{2}^{+}$3) It cannot be corrected by including vibronic coupling",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following should be avoided for alkylation by a lithium enolate?",
+    "choices": {
+      "W": "Carboxylic Acids",
+      "X": "Esters",
+      "Y": "Aldehydes",
+      "Z": "Ketones"
+    },
+    "answer": "W) Carboxylic Acids"
+  }
+]

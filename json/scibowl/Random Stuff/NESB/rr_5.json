@@ -1,0 +1,446 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following units is the one most often used to measure radiation exposure in humans?",
+    "choices": {
+      "W": "Rem",
+      "X": "Curie",
+      "Y": "Becquerel",
+      "Z": "Roentgen"
+    },
+    "answer": "REM"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "When does equilibrium, such as liquid-solid or liquid-gaseous, exist between two phases?",
+    "choices": {
+      "W": "The rate of reaction is not affected by raising or lowering either the temperature or the pressure.",
+      "X": "The rate of reaction between the two phases becomes zero.",
+      "Y": "The individual molecules in each phase remain stationary.",
+      "Z": "An equal number of atoms or molecules is continually interchanged between the phases."
+    },
+    "answer": "AN EQUAL NUMBER OF ATOMS OR MOLECULES IS CONTINUALLY INTERCHANGED BETWEEN THE PHASES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A computer chip is best described as",
+    "choices": {
+      "W": "an integrated circuit.",
+      "X": "a transistor circuit.",
+      "Y": "an etched plate of germanium.",
+      "Z": "a diode."
+    },
+    "answer": "INTEGRATED CIRCUIT"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An example of a direct heating system is",
+    "choices": {
+      "W": "a hot-water heater.",
+      "X": "a heat pump.",
+      "Y": "steam heating.",
+      "Z": "all of the above"
+    },
+    "answer": "A HEAT PUMP"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Although infections occur each day, an infectious disease results only when a pathogen injures a person's",
+    "choices": {
+      "W": "blood.",
+      "X": "cells and tissues.",
+      "Y": "temperature regulation.",
+      "Z": "fever mechanism."
+    },
+    "answer": "CELLS AND TISSUES"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Athlete's foot is caused by a",
+    "choices": {
+      "W": "dermatophyte.",
+      "X": "virus.",
+      "Y": "rickettsia.",
+      "Z": "bacterium."
+    },
+    "answer": "DERMATOPHYTE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "As a star like our Sun ages it passes through distinct stages, in this order",
+    "choices": {
+      "W": "Planetary Nebula, Main Sequence, White dwarf.",
+      "X": "Planetary Nebula, White Dwarf, Red Giant",
+      "Y": "Main Sequence, Red Giant, White Dwarf",
+      "Z": "Main Sequence, Red Giant, Supernova"
+    },
+    "answer": "MAIN SEQUENCE, RED GIANT, WHITE DWARF"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The Saros cycle refers to",
+    "choices": {
+      "W": "The 11 year solar sunspot cycle.",
+      "X": "An 18.6 year cycle of eclipses.",
+      "Y": "The 25,800 year cycle of the precession of the Earth's axis.",
+      "Z": "The 29.5 day synodic lunar month."
+    },
+    "answer": "AN 18.6 YEAR CYCLE OF ECLIPSES"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a polysaccharide made only by plants?",
+    "choices": {
+      "W": "Ribose",
+      "X": "Starch",
+      "Y": "Glycogen",
+      "Z": "Lactose"
+    },
+    "answer": "STARCH"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What of the following metals is the best reducing agent?",
+    "choices": {
+      "W": "Gold",
+      "X": "Copper",
+      "Y": "Potassium",
+      "Z": "Magnesium"
+    },
+    "answer": "POTASSIUM"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "The adjustment of space between pairs of characters so the overall spacing looks even is called",
+    "choices": {
+      "W": "compression.",
+      "X": "kerning.",
+      "Y": "winchester.",
+      "Z": "none of the above"
+    },
+    "answer": "KERNING"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of these machines is most general?",
+    "choices": {
+      "W": "Deterministic Finite Automaton",
+      "X": "Nondeterministic Finite Automaton",
+      "Y": "Turing Machine",
+      "Z": "Pushdown Automaton"
+    },
+    "answer": "TURING MACHINE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "E. coli prevents the growth of harmful bacteria in the intestinal tract by",
+    "choices": {
+      "W": "producing antibiotics that kill them.",
+      "X": "using the nutrients they need to live.",
+      "Y": "producing drugs that prevent their growth.",
+      "Z": "producing carcinogens that destroy them."
+    },
+    "answer": "USING THE NUTRIENTS THEY NEED TO LIVE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Typhus is transmitted from person to person by",
+    "choices": {
+      "W": "viruses.",
+      "X": "rickettsias.",
+      "Y": "ticks.",
+      "Z": "body lice."
+    },
+    "answer": "BODY LICE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The cathode-ray tube in a color television is different from a simple cathode-ray tube in that",
+    "choices": {
+      "W": "in a color television, the screen is coated with many different colors.",
+      "X": "in a color television, the screen is red, blue, and green.",
+      "Y": "only one electron gun is necessary in a color television.",
+      "Z": "there are three electron guns in a cathode-ray tube in a color television."
+    },
+    "answer": "THERE ARE THREE ELECTRON GUNS IN A CATHODE-RAY TUBE IN A COLOR TELEVISION"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Convection is the result of",
+    "choices": {
+      "W": "currents caused by the motion of heated molecules.",
+      "X": "increases in the density of solids.",
+      "Y": "colder portions of liquids rising.",
+      "Z": "the lack of heat transfer."
+    },
+    "answer": "CURRENTS CAUSED BY THE MOTION OF HEATED MOLECULES"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Granular, aphanitic and glassy are terms to describe what feature of an igneous rock?",
+    "choices": {
+      "W": "Relief",
+      "X": "Composition",
+      "Y": "Texture",
+      "Z": "Schistocity"
+    },
+    "answer": "TEXTURE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shales deposited in lakes often exhibit summer and winter layers that differ in color and texture and can be counted much like growth rings in trees. What are these layers called?",
+    "answer": "VARVES"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The metals at the top of the activity series replace hydrogen from",
+    "choices": {
+      "W": "water and acids.",
+      "X": "acids but not water.",
+      "Y": "water but not acids.",
+      "Z": "neither water nor acids."
+    },
+    "answer": "WATER AND ACIDS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Photographic film contains an emulsion of",
+    "choices": {
+      "W": "silver chloride.",
+      "X": "silver bromide.",
+      "Y": "iron sulfide.",
+      "Z": "sodium perborate."
+    },
+    "answer": "SILVER BROMIDE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Malaria is caused by a",
+    "choices": {
+      "W": "mosquito.",
+      "X": "virus.",
+      "Y": "flea.",
+      "Z": "protozoan."
+    },
+    "answer": "PROTOZOAN"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Unfortunately, antibiotics used to fight off bacterial infection in the throat kill symbiotic",
+    "choices": {
+      "W": "Pasteurella pestis.",
+      "X": "Clostridium tetani.",
+      "Y": "E. coli.",
+      "Z": "Neisseria gonorrhea."
+    },
+    "answer": "E. COLI"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In the formula for a polyatomic ion, the algebraic sum of the individual oxidation numbers of all the atoms is equal to",
+    "choices": {
+      "W": "0.",
+      "X": "+1.",
+      "Y": "-1.",
+      "Z": "the charge of the ion."
+    },
+    "answer": "THE CHARGE OF THE ION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How do oxidation and reduction relate to changes in oxidation number?",
+    "choices": {
+      "W": "Oxidation occurs when oxidation number increases, and reduction occurs when oxidation number decreases.",
+      "X": "Oxidation occurs when oxidation number decreases, and reduction occurs when oxidation number increases.",
+      "Y": "Both oxidation and reduction correspond to a decrease in oxidation number.",
+      "Z": "Both oxidation and reduction correspond to an increase in oxidation number."
+    },
+    "answer": "OXIDATION OCCURS WHEN OXIDATION NUMBER INCREASES, AND REDUCTION OCCURS WHEN OXIDATION NUMBER DECREASES."
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "In the conic section $A^2 + B^2 - 4A + 2B = 0$, which line is an axis of symmetry?",
+    "choices": {
+      "W": "$A = 1$",
+      "X": "$B = -2$",
+      "Y": "$B = -A / 2$",
+      "Z": "$B = A - 1$"
+    },
+    "answer": "$B = -A / 2$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Sides of a triangle form three consecutive terms of a geometric sequence with a common ratio $R$. $R$ is",
+    "choices": {
+      "W": "less than 2.",
+      "X": "greater than 2.",
+      "Y": "equal to 2.",
+      "Z": "none of the above"
+    },
+    "answer": "LESS THAN 2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why a car is a safe haven during a lightning storm?",
+    "choices": {
+      "W": "A car is relatively closer to the ground than nearby objects, therefore lightning is not attracted to it.",
+      "X": "The car's metal body acts as a Faraday cage, protecting its occupants.",
+      "Y": "The car's rubber tires act as insulators from the car to the ground.",
+      "Z": "The car's movement develops a positive electrical potential on its body, thereby repelling the positive electrical potential of the lightning."
+    },
+    "answer": "THE CAR'S METAL BODY ACTS AS A FARADAY CAGE, PROTECTING ITS OCCUPANTS."
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "A major function of a refractory is",
+    "choices": {
+      "W": "the conduction of heat.",
+      "X": "for heat insulation.",
+      "Y": "as a source of essential reactants for smelting.",
+      "Z": "as a source of flux material for slag formation."
+    },
+    "answer": "FOR HEAT INSULATION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Constant sunbathing can result in skin cancer because, in skin cells, ultraviolet light can produce",
+    "choices": {
+      "W": "mutations in DNA.",
+      "X": "extra dark pigment.",
+      "Y": "carcinogens.",
+      "Z": "oncogenes."
+    },
+    "answer": "MUTATIONS IN DNA"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The final step in Koch's postulates is",
+    "choices": {
+      "W": "injecting microorganisms from a pure culture into a host to produce the disease.",
+      "X": "reisolating the microorganism from the infected host and identifying it as the original microorganism.",
+      "Y": "finding the suspected microorganism in an ill organism but not in a healthy organism.",
+      "Z": "isolating the suspected microorganism and growing a pure culture."
+    },
+    "answer": "REISOLATING THE MICROORGANISM FROM THE INFECTED HOST AND IDENTIFYING IT AS THE ORIGINAL MICROORGANISM"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Stellar spectroscopy analyzes light emitted by atoms due to what process?",
+    "choices": {
+      "W": "Electrons jumping to lower energy levels.",
+      "X": "Vibrations of the electron orbitals.",
+      "Y": "The photoelectric effect.",
+      "Z": "The weak force."
+    },
+    "answer": "ELECTRONS JUMPING TO LOWER ENERGY LEVELS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Two identical black bodies are heated in outer space so that one is twice as hot as the other. What is the ratio of the total energy radiated by the two objects?",
+    "answer": "16 TO 1"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The heat of the Earth or outside air is used by",
+    "choices": {
+      "W": "

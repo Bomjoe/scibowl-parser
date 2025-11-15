@@ -1,0 +1,480 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would not increase in a person experiencing adapting to high altitude?",
+    "choices": {
+      "W": "Ventilation rate",
+      "X": "Hemoglobin affinity for oxygen",
+      "Y": "2,3 BPG concentration",
+      "Z": "Hematocrit"
+    },
+    "answer": "X) HEMOGLOBIN AFFINITY FOR OXYGEN"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The lack of orexins [or-REX-ins] in the VLPO secretion centers of the brain is implicated in which disorder?",
+    "answer": "NARCOLEPSY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three features from top to bottom according to the Bouma sequence: 1) Bioturbated ungraded mudstone; 2) Planar laminated sandstone; 3) Parallel laminated siltstone.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements concerning apsidal precession which arc true: 1) The moon doesn't exhibit apsidal precession because it is tidally locked; 2) The period of apsidal precession is proportional to the semi-major axis; 3) The period of apsidal precession is proportional to the period of revolution.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Sandia National Lab are studying the properties of metallic hydrogen to better understand the structure of massive planets. One technique the researchers could use to analyze the chemical structure of metallic hydrogen would be diffracting which of the following particles through it?",
+    "choices": {
+      "W": "Photons",
+      "X": "Neutrons",
+      "Y": "Electrons",
+      "Z": "Muons"
+    },
+    "answer": "X) NEUTRONS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab have been studying the localization of the Cholera protein by using a bait protein that fluoresces when it binds to cholera. Knowing cholera's mechanism of action by irreversibly inhibiting the G, I G-ij protein, identify all of the following that would be appropriate bait proteins: 1) GTP fusion protein; 2) ADP-ribose fusion protein; 3) cAMP fusion protein.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three reagents that could be used to convert an organic sulfide to thiols: 1) Iodine; 2) Zinc; 3) DMS.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Phosgene is treated with excess benzene in the presence of aluminum chloride. Answer the following three questions about the resulting major product: 1. What is its IUPAC name? 2. How many distinct $^{13}\\athrm{C}$ [carbon-13] NMR signals does it possess? 3. Is the carbonyl stretching frequency greater than, less than, or equivalent to that of phosgene?",
+    "answer": "1) BENZOPHENONE; 2) 5; 3) LESS"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A positive integer $n$ is called independent if $n!$ is not divisible by $n + 1$. Determine the number of independent integers less than 100.",
+    "answer": "26"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Four real numbers $a, b, c, d$ are chosen on the closed interval [0, 1]. What is the probability that $a + b + c + d \\eq 1$?",
+    "answer": "1/24"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that are real for a particle undergoing quantum tunneling: 1) Potential energy; 2) Kinetic energy; 3) Momentum.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two identical black-holes merge to form a new black-hole. Assuming no mass is lost, by what factor does the schwarzschild density of the black-hole change?",
+    "answer": "1/4"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In a paternity case, Mr. Xiang decides to try and differentiate a locus at a particularly long strand of DNA because he is too lazy to order restriction enzymes to perform an RFLP. He uses pulsed field gel electrophoresis to accomplish this. Which of the following best describes the electric potential in a pulsed field gel electrophoresis?",
+    "choices": {
+      "W": "Constant and higher at the anode",
+      "X": "Constant and higher at the cathode",
+      "Y": "Discretely alternating between higher at the anode and higher at the cathode",
+      "Z": "Randomly alternating between higher at the cathode and higher at the anode"
+    },
+    "answer": "Y) DISCRETELY ALTERNATING BETWEEN HIGHER AT THE ANODE AND HIGHER AT THE CATHODE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following biotechnological methods would one use to specifically sequence regions of the genome involved with regulatory activity?",
+    "choices": {
+      "W": "Transposon-Seq",
+      "X": "FAIRF-Scq",
+      "Y": "Pulse chase Seq",
+      "Z": "CHIP-Scq"
+    },
+    "answer": "X) FAIRE-SEQ"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Given that the latitude is represented by theta, the speed of a geostrophic wind is proportional to which of the following quantities?",
+    "choices": {
+      "W": "sin $\\theta$ [sine theta]",
+      "X": "tan $\\theta$ [tan theta]",
+      "Y": "$\\rac{1}{\\in\\theta}$ [one over sine theta]",
+      "Z": "$\\rac{1}{\\tan\\theta}$ [one over tan theta]"
+    },
+    "answer": "Y) $\\rac{1}{\\in\\theta}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of stellar fusion: 1) The R-process tends to be characterized by rapid $\\eta$ -decay after neutron capture; 2) Helium burning occurs in an envelope around a degenerate core during the AGB branch; 3) A helium flash will not occur in stars that are too massive or too light.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the National Renewable Energy Lab have been studying photovoltaic efficiencies and the underlying assumption of invariance upon time reversal. Processes that obey T-symmetry imply the conservation of what fundamental quantity?",
+    "answer": "ENTROPY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Princeton Plasma Physics Laboratory have been studying the density distributions of the NGC 2573, a galaxy close to the southern celestial pole, to test classical theories against MOND. To locate NGC 2573, they must use a close star as a guide for the general direction to point their instruments. What star, the current southern star, would be most suited to this task?",
+    "answer": "SIGMA OCTANTIS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reagents can be used to increase the susceptibility of pyridine towards electrophilic aromatic substitution?",
+    "choices": {
+      "W": "Peroxybenzoic acid",
+      "X": "Thionyl chloride",
+      "Y": "Butyl lithium",
+      "Z": "Ditchyl azodicarboxylate"
+    },
+    "answer": "W) PEROXYBENZOIC ACID"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three aromatic bases in increasing basicity: 1) Meta nitro-aniline; 2) Ortho nitro-aniline; 3) Aniline.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The trace of a real matrix is 12. What is the maximum possible determinant of this matrix?",
+    "answer": "36"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the integral of $f(x,y) = x^{2} + 2y$ over the square region bounded by $0 \\eq x \\eq 3$ and $0 \\eq y \\eq 3$.",
+    "answer": "54"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Ward-Takahashi identity describes that each global or gauge symmetry of the QCD must have a corresponding correlation function. What is the classical analogue of this identity?",
+    "answer": "NOETHER'S THEOREM"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A point charge with charge $+1$ coulombs is placed at the origin on an infinite grid. A point charge with alternating sign is placed at each lattice point along the lines $y = x$ and $y = -x$. On a second infinite grid, the set-up is repeated with the alternating charges instead placed at each lattice point along the coordinate axes. What is the ratio of the total potential energy of the point charge at the origin in the first grid to that in the second grid?",
+    "answer": "$\\rac{\\qrt{2}}{2}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Statins are a general class of drugs that inhibit the enzyme HMG-CoA Reductase. Which of the following would be a direct effect of this class of drugs?",
+    "choices": {
+      "W": "Decreased acetylcholine levels",
+      "X": "Decreased hemoglobin levels",
+      "Y": "Decreased low density lipoprotein levels",
+      "Z": "Decreased albumin levels"
+    },
+    "answer": "Y) DECREASED LOW DENSITY LIPOPROTEIN LEVELS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Porphyrin is produced from which intermediate in the citric acid cycle?",
+    "answer": "SUCCINYL-COA"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Eta Carinae is an extremely massive hypergiant that is estimated at 140 solar masses. It is hypothesized to occasionally exceed which mass limit due to the high variability of it's stellar winds?",
+    "answer": "EDDINGTON LIMIT"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true concerning galaxies: 1) Grand design galaxies contain spiral arms; 2) I.enticular galaxies are designated S0; 3) Spiral tracers generally have a short lifespan.",
+    "answer": "A.I.I."
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Labs have been studying the de-novo synthesis of phytoalexins, which are usually induced via PAMP triggered immunity. Which of the following best characterizes the role of phytoalexins?",
+    "choices": {
+      "W": "Innate specific immune response",
+      "X": "Innate nonspecific immune response",
+      "Y": "Adaptive specific immune response",
+      "Z": "Adaptive nonspecific immune response"
+    },
+    "answer": "X) INNATE NONSPECIFIC IMMUNE RESPONSE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Lab have been modeling the formation of massive stars. Identify all of the following statements that are true of stars of more than 40 solar masses: 1) They undergo the Hertzsprung spring gap; 2) They undergo a helium flash; 3) They may become Wolf-Rayet stars.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the spontaneity of mixing between chloroform and acetone?",
+    "choices": {
+      "W": "Spontaneous at all temperatures",
+      "X": "Non-spontaneous at all temperatures",
+      "Y": "Spontaneous at low temperatures, non-spontaneous at high temperatures",
+      "Z": "Non-spontaneous at low temperatures, spontaneous at high temperatures"
+    },
+    "answer": "W) SPONTANEOUS AT ALL TEMPERATURES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three reactions that are thermally allowed by the Woodward-Hoffman rules: 1) $8 + 6$ cycloaddition; 2) Conrotatory 8 pi electrocyclization; 3) 1,3 sigmatropic rearrangement.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Four points are randomly chosen one by one on the circumference of a circle, then lines are drawn connecting one point to the next in the order they were chosen. A final line is drawn to connect the first and last points. What is the probability that the final figure is a convex quadrilateral?",
+    "answer": "1/6"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A quadratic function $f(x)$ with real coefficients satisfies $f(0) = 2$ and $f(1) = 8$. What is the greatest possible value for the sum of the roots of the quadratic?",
+    "answer": "9"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A laser located at (0,0) shines towards the positive x direction through a medium with varying index of refraction at any point, to read a fixed arbitrary point in the first quadrant at (x, y). To minimize the time traveled between the origin and the arbitrary point, what curve best describes the trace of the laser?",
+    "choices": {
+      "W": "Line",
+      "X": "Parabola",
+      "Y": "Hyperbolic cosine",
+      "Z": "Hyperbolic tangent"
+    },
+    "answer": "Y) HYPERBOLIC COSINE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Landau-Young theorem is a selection rule that forbids the decay of a spin one particle into two photons. Assuming this rule holds true, identify all of the following three decays that are not possible: 1) The decay of the neutral pion into two photons; 2) The decay of the Z boson into two photons; 3) The decay of the Higgs boson into two photons.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A mammal with a constitutively active lipoxygenase enzyme will see increased levels of which of the following eicosanoids?",
+    "choices": {
+      "W": "Thromboxanes",
+      "X": "Prostacyclins",
+      "Y": "Cyclic endoperoxides",
+      "Z": "Leukotrienes"
+    },
+    "answer": "Z) LEUKOTRIENES"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "You transfect transgenic bacteria with a fusion protein of insulin and avidin, and then plate the bacteria on a cell minimal medium to grow. After obtaining a sufficient amount of growth, you collect the bacteria and shear them, removing the supernatant to leave you with a contaminated solution. When performing affinity chromatography on this solution, the resin should contain large amounts of what molecule?",
+    "answer": "BIOTIN"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of estuary is characterized by a series of shallow lagoons separated from the open ocean by barrier islands?",
+    "answer": "BARBUILTESTUARIES"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A far away quasar has a redshift of 1. Taking the Hubble constant to be equal to 45 kilometers per second per megaparsec, to one significant figure, how far away in megaparsecs is it?",
+    "answer": "100,000"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab are using the Advanced Light Source to study how meteor strikes produce shocked quartz in impact craters. Identify all of the following three polymorphs that are specifically associated with shocked quartz: 1) Cristobalite; 2) Stishovite; 3) Coesite.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Laboratory are studying biomarkers for oxidative stress from Parkinson's disease, atherosclerosis, and myocardial disease. Specifically, they are looking at oxidative derivatives of tyrosine. By name or number, identify all the following three molecules that are derived from tyrosine: 1) Serotonin; 2) Melanin; 3) Melatonin.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that, when treated with an excess of a strong base, will produce both a carboxylic acid and alcohol in equal amounts with moderate yield: 1) Formaldehyde; 2) Acetaldehyde; 3) Acetone.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three forms of spectroscopy for which molecular hydrogen is active: 1) Infrared; 2) Raman; 3) Microwave.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many points $(x,y)$ on the circle with radius 5 centered at the origin satisfy $y = \\tan (x)?$",
+    "choices": {
+      "W": "2",
+      "X": "6",
+      "Y": "10",
+      "Z": "14"
+    },
+    "answer": "X) 6"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the maximum possible area of a rectangle that can be inscribed inside of a right triangle with legs of length 3 and 4?",
+    "answer": "3"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How many nodal planes exist for a particle in a 3-dimensional box with quantum numbers 1, 4, 3?",
+    "answer": "5"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A conservative force acting on a 1 kilogram particle travelling from the point (1, 2) to the point (2, 3) can be described by the vector function $f(x, y) = 6xyi + (3x^2 - 3y^2)j$. If the particle is initially at rest, what is its final velocity in meters per second?",
+    "answer": "$\\qrt{22}$"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Hirschsprung disease results from a form of defective neural crest cell migration. Knowing this, which of the following structures would likely be defective in a person exhibiting this disorder?",
+    "choices": {
+      "W": "Peripheral nervous system",
+      "X": "Thyroid gland",
+      "Y": "Alimentary canal lumen",
+      "Z": "Keratinocytes"
+    },
+    "answer": "W) PERIPHERAL NERVOUS SYSTEM"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What syndrome, characterized by a lack of tears and saliva, is caused by the loss of function of many of the body's exocrine glands from white blood cell infusion?",
+    "answer": "SJÖGREN SYNDROME"
+  }
+]

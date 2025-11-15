@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of supernova occurs when there is runaway fusion in a secondary white dwarf after enough mass transfer from a giant star?",
+    "answer": "TYPE IA SUPERNOVA"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following air masses is most likely to be present above western Washington in February?",
+    "choices": {
+      "W": "Maritime tropical",
+      "X": "Maritime polar",
+      "Y": "Continental tropical",
+      "Z": "Continental polar"
+    },
+    "answer": "X) MARITIME POLAR"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many games need to be played in a single-elimination tournament to declare a winner from 16 teams?",
+    "answer": "15"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two concentric circles have radii of 5 and 12. What is the area of the region in between the circles?",
+    "answer": "119\\i"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A car starts accelerating from the top of a 9-meter tall ramp from rest. The ramp makes an angle of 30 degrees with the horizontal. Given that the car accelerates at 1 meter per second squared, how long does it take, in seconds, for the ball to go down the ramp?",
+    "answer": "6"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 40-kilogram box is sitting at rest on a 30 degree incline. In newtons, what is the magnitude of the frictional force acting on the block?",
+    "answer": "196"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the electron configuration of the $\\athrm{Mg}^{2 + }$ ion?",
+    "choices": {
+      "W": "$1\\athrm{s}^{2}2\\athrm{s}^{2}2\\athrm{p}^{6}$",
+      "X": "$1\\athrm{s}^{2}2\\athrm{s}^{2}2\\athrm{p}^{6}3\\athrm{s}^{1}$",
+      "Y": "$1\\athrm{s}^{2}2\\athrm{s}^{2}2\\athrm{p}^{6}3\\athrm{s}^{2}$",
+      "Z": "$1\\athrm{s}^{2}2\\athrm{s}^{2}2\\athrm{p}^{6}3\\athrm{s}^{2}3\\athrm{p}^{6}$"
+    },
+    "answer": "W) $1\\athrm{s}^{2}2\\athrm{s}^{2}2\\athrm{p}^{6}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that are state functions: 1) Volume; 2) Heat; 3) Work.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four cell junctions that can be found between animal cells: 1) Tight junctions; 2) Desmosomes; 3) Gap junctions; 4) Plasmodesmata.",
+    "answer": "1, 2 AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT an organ that may be used by an amphibian to perform gas exchange?",
+    "choices": {
+      "W": "Skin",
+      "X": "Lungs",
+      "Y": "Gills",
+      "Z": "Cloaca"
+    },
+    "answer": "Z) CLOACA"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab are researching efficient methods for synthesizing diamonds via the compression of diamondoids, a class of materials extracted from crude oil. Under high pressure, what element is released from diamondoids, leaving the residual carbon?",
+    "answer": "HYDROGEN"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Fermilab, Brookhaven National Lab, and Lawrence Berkeley National Lab have designed a niobium-tin quadrupole magnet that sets the record for the highest field strength ever recorded for an accelerator focusing magnet. The niobium-tin alloy is a superconductor that expels magnetic fields via what effect?",
+    "answer": "MEISSNER EFFECT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What law of thermodynamics states that the internal energy change of an isolated system is zero?",
+    "answer": "FIRST LAW OF THERMODYNAMICS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A vessel containing 3 moles of $\\athrm{H}_{2}$ gas is held at pressure of 2 atmospheres and a volume of 9 liters. If another 3 moles of gas are added, and the container is expanded to a volume of 12 liters, what is the final pressure of the vessel, in atmospheres, assuming constant temperature?",
+    "answer": "3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT characteristic of eudicots?",
+    "choices": {
+      "W": "Vascular bundles arranged in a circle",
+      "X": "Taproots",
+      "Y": "Reticular leaf venation",
+      "Z": "Two cotyledons"
+    },
+    "answer": "Y) RETICULAR LEAF VENATION"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The nuclear lamina is a dense network important for maintaining the structural integrity of the nucleus. What type of cytoskeletal element composes the majority of the nuclear lamina?",
+    "answer": "INTERMEDIATE FILAMENT"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the primary mechanism of helium-4 fusion in medium-mass stars?",
+    "answer": "TRIPLE- ALPHA PROCESS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "An air parcel in the Northern Hemisphere subsides and creates a high pressure system at the surface. Which of the following best describes airflow in the system?",
+    "choices": {
+      "W": "Cyclonic, clockwise",
+      "X": "Cyclonic counterclockwise",
+      "Y": "Anticyclonic, clockwise",
+      "Z": "Anticyclonic, counterclockwise"
+    },
+    "answer": "Y) ANTICYCLONIC, CLOCKWISE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The point (4, 2) is reflected across the $y$ -axis and then translated 8 units up. What are the final coordinates of the point?",
+    "answer": "(-4, 10)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Connor’s drawer contains 3 green socks, 6 red socks, 9 blue socks, and 2 yellow socks. What is the minimum number of socks Connor needs to pull from his drawer to guarantee that he has at least 1 pair of each color?",
+    "answer": "20"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A circuit contains a 12-volt battery connected in series with a 3-ohm resistor. What is the power dissipated by the resistor in watts?",
+    "answer": "48"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A 50-kilogram sphere collides head-on in a perfectly elastic collision with a metal plate of mass $m$. As the value of $m$ approaches infinity, which of the following best describes the behavior of the system after the collision?",
+    "choices": {
+      "W": "The sphere will stick to the plate and both objects will move at the sphere's original velocity",
+      "X": "The sphere will stop moving and the plate will move at the sphere's original velocity",
+      "Y": "The sphere will stick to the plate and stop moving",
+      "Z": "The sphere will begin traveling in the opposite direction with the same speed"
+    },
+    "answer": "Z) THE SPHERE WILL BEGIN TRAVELING IN THE OPPOSITE DIRECTION WITH THE SAME SPEED"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "DOE Researchers at Ames Lab have discovered that periodic vibrational motion may stabilize some currently unstable electron states, which can make advanced quantum computing possible. On a macroscopic level, what is the name for this periodic vibrational motion?",
+    "choices": {
+      "W": "Resonance",
+      "X": "Damping",
+      "Y": "Harmonic oscillation",
+      "Z": "Laminar flow"
+    },
+    "answer": "Y) HARMONIC OSCILLATION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at CERN are running the Baryon Antibaryon Symmetry Experiment, or BASE, to look for differences between matter and antimatter. Which of the following particles is a baryon?",
+    "choices": {
+      "W": "Neutrino",
+      "X": "Positron",
+      "Y": "Electron",
+      "Z": "Proton"
+    },
+    "answer": "Z) PROTON"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A Carnot engine has a hot reservoir of 102 degrees Celsius and an efficiency of $40\\$. In degrees Celsius, what is the temperature of the cold reservoir?",
+    "answer": "-48"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A projectile is launched from the ground at a 45 degree angle. If it reaches a maximum height of 23 meters, what is its horizontal range in meters?",
+    "answer": "92"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the largest structure in the nucleus of eukaryotic cells?",
+    "answer": "NUCLEOLUS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What enzyme participates in both the citric acid cycle and the electron transport chain?",
+    "answer": "COMPLEX 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of an isosceles right triangle with a hypotenuse of 6 times the square root of 2?",
+    "answer": "18"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the greatest common factor of 350 and 518?",
+    "answer": "14"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the general term for a substance that accelerates a chemical reaction by providing an alternate pathway for the reaction to occur?",
+    "answer": "CATALYST"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three ions in terms of increasing ionic radius: 1) $\\athrm{Na}^{+}$; 2) $\\athrm{Al}^{3+}$; 3) $\\athrm{F}^{-}$.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements concerning plate tectonics is NOT true?",
+    "choices": {
+      "W": "Slab pull contributes much more driving force than ridge push",
+      "X": "In a collision between two oceanic plates, the older one sinks",
+      "Y": "Mid-ocean ridges are associated with asthenosphere upwelling",
+      "Z": "Continental plates are generally denser than oceanic plates"
+    },
+    "answer": "Z) CONTINENTAL PLATES ARE GENERALLY DENSER THAN OCEANIC PLATES"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What oceanic layer is characterized by a rapid vertical change in density?",
+    "answer": "PYCNOCLINE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The frequency of a photon is directly related to its energy by what physical constant?",
+    "answer": "PLANCK'S CONSTANT"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An ideal Atwood machine has two blocks of masses 3 and 4 kilograms connected by a string on either side of a pulley. In meters per second squared, which of the following is the acceleration of the system?",
+    "choices": {
+      "W": "0.7",
+      "X": "1.4",
+      "Y": "2.1",
+      "Z": "2.8"
+    },
+    "answer": "X) 1.4"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Several types of non-Watson-Crick base pairing may occur during translation due to what phenomenon involving genetic code redundancy?",
+    "answer": "WOBBLE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Tracheids and vessel elements are components of what vascular tissue in plants?",
+    "answer": "XYLEM"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are working on improving the stability of qubits in quantum computers. Qubits can be represented as a linear combination of two states that are joined by what quantum mechanical principle?",
+    "answer": "SUPERPOSITION"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Sandia National Lab have developed a prototype for a cheaper device to perform magnetoencephalography. Which of the following best describes the function of magnetoencephalography?",
+    "choices": {
+      "W": "It probes the brain with a magnetic field and measures the rebound",
+      "X": "It probes the heart with a magnetic field and measures the rebound",
+      "Y": "It detects magnetic fields from the electrical signals in the brain",
+      "Z": "It detects magnetic fields from the electrical signals in the heart"
+    },
+    "answer": "Y) IT DETECTS MAGNETIC FIELDS FROM THE ELECTRICAL SIGNALS IN THE BRAIN"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following polynomials has more than 4 roots?",
+    "choices": {
+      "W": "$6x^{2} + 11x - 17$",
+      "X": "$x^{3} - 3x^{2} + 1$",
+      "Y": "$4x^{4} - 17x + 34$",
+      "Z": "$x^{6} - 3$"
+    },
+    "answer": "Z) $x^{6} - 3$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A sequence has $a_1 = 2$, $a_2 = 4$, and $a_{n + 2} = 3a_{n + 1} - a_n$ for all positive integers $n$. What is $a_5$?",
+    "answer": "68"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following unit cells has the lowest coordination number?",
+    "choices": {
+      "W": "Simple cubic",
+      "X": "Body-centered cubic",
+      "Y": "Face-centered cubic",
+      "Z": "Base-centered cubic"
+    },
+    "answer": "W) SIMPLE CUBIC"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The variation of vapor pressure with temperature can be calculated using what equation?",
+    "answer": "CLAUSIUS-CLAPEYRON EQUATION"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following fluvial environments would most likely involve braided stream morphology?",
+    "choices": {
+      "W": "Outwash plain of an alpine glacier",
+      "X": "Mid-continent hot desert",
+      "Y": "Coastal floodplain",
+      "Z": "Uneroded bedrock"
+    },
+    "answer": "W) OUTWASH PLAIN OF AN ALPINE GLACIER"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following rocks would most likely function as an aquitard?",
+    "choices": {
+      "W": "Shale",
+      "X": "Sandstone",
+      "Y": "Arkose",
+      "Z": "Limestone"
+    },
+    "answer": "W) SHALE"
+  }
+]

@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How many ways are there to position 5 equal positive charges so that they are in a stable configuration?",
+    "answer": "0"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Viraj is walking up a downward-moving escalator at a speed of 10 meters per second relative to the lab frame. However, the escalator is moving down at 4 meters per second. If Viraj weighs 60 kilograms, how much power does Viraj use to climb for 10 seconds, given that $g$ equals 10 meters per second squared?",
+    "answer": "8400 \\text{ WATTS}"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "$f$ of $x$ is a function that is continuous and differentiable over the reals, $f$ of 0 equals 7, and $f$ of 5 equals $-3$. $f$ prime of $x$ must have what value at at least one point on the interval between $x$ equals 0 and $x$ equals 5?",
+    "choices": {
+      "W": "- 4",
+      "X": "- 2",
+      "Y": "0",
+      "Z": "2"
+    },
+    "answer": "X) -2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $P$ of $x$ equal $x$ squared minus $90 x$ plus two thousand and twenty-one. What is the greatest common denominator of $P$ of 50 and $P$ of 54?",
+    "answer": "7"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What type of speciation occurs within the original population and niche without relying on geographical isolation?",
+    "choices": {
+      "W": "Sympatric",
+      "X": "Peripatric",
+      "Y": "Allopatric",
+      "Z": "Parapatric"
+    },
+    "answer": "W) SYMPATRIC"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following four steps in the signal amplification of epinephrine to trigger glycogen breakdown: 1) cyclic AMP activates protein kinase A; 2) G proteins convert adenylyl cyclase into its active form; 3) Epinephrine binds to a cell-membrane receptor; 4) Phosphorylase kinase is activated.",
+    "answer": "3, 2, 1, 4"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Wolframite, scheelite, and ferberite are ore minerals of what element?",
+    "answer": "TUNGSTEN"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Justin is doing field work for his college geology class. He notices a peculiar green rock and notes that it is coarse-grained and is largely composed of olivine and pyroxene. What rock that is common in the Earth’s mantle has he just stumbled upon?",
+    "answer": "PERIDOTITE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A molecule of butane is in the gauche conformation. Which of the following could be the dihedral angle in degrees between its methyl groups?",
+    "choices": {
+      "W": "0",
+      "X": "60",
+      "Y": "120",
+      "Z": "180"
+    },
+    "answer": "X) 60"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Given that the solubility constant for a binary ionic compound $\\athrm{AX}_2$ is 1.08 times 10 to the $-22$, what is the solubility, in moles per liter, of this compound?",
+    "choices": {
+      "W": "6.23 times 10 to the $-3$",
+      "X": "3 times 10 to the $-8$",
+      "Y": "9 times 10 to the $-8$",
+      "Z": "1.08 times 10 to the $-11$"
+    },
+    "answer": "X) 3 \\text{ TIMES } 10 \\text{ TO THE } -8"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Using the Spallation Neutron Source and High Flux Isotope Reactor, researchers at Oak Ridge Laboratory discovered that particles called phasons induce the rearrangement of atoms, leading to the ability of heat to travel faster than what speed that was previously assumed to be a limiting factor in heat conduction?",
+    "answer": "SPEED OF SOUND"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Laboratories are working on commercializing carbon capture and storage technologies. One method they are working on is sequestering carbon dioxide in rock formations. What commonly occurring rock did the carbon dioxide form after reacting with the basalt?",
+    "answer": "LIMESTONE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area under the curve of the normal distribution, commonly used in statistics?",
+    "answer": "1"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the percentile, to the nearest integer, of a person whose height is 5 feet and 11 inches, given that the distribution of heights is approximately normal with a mean of 5 feet and 6 inches and a standard deviation of 2.5 inches?",
+    "answer": "98"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for a mass of igneous rock that has been intruded between rock strata, causing uplift in the shape of a dome?",
+    "answer": "LACCOLITH"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following driving forces is most responsible for seafloor spreading?",
+    "choices": {
+      "W": "Magma pressure at the center of a mid-ocean ridge",
+      "X": "Slab pull at subduction zones",
+      "Y": "Geomagnetic reversal",
+      "Z": "Ridge push at rifts"
+    },
+    "answer": "X) SLAB PULL AT SUBDUCTION ZONES"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "For the reaction with rate law rate equals $k$ times the concentration of A, which of the following quantities would form a straight line when plotted against time?",
+    "choices": {
+      "W": "The concentration of A",
+      "X": "One over the concentration of A",
+      "Y": "The natural logarithm of the concentration of A",
+      "Z": "The concentration of A squared"
+    },
+    "answer": "Y) THE NATURAL LOGARITHM OF THE CONCENTRATION OF A"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Calculate the half-life of a zero-order reaction with single reactant X if the initial concentration of X is 1 molar and if the final concentration of X is 0.2 molar after 8 seconds have elapsed.",
+    "answer": "5 \\text{ SECONDS}"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "To the nearest integer and in meters per second, at what upward velocity should a ball be thrown in order to reach an elevation of 20 meters?",
+    "answer": "20"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Observations show that when a neutron decays, protons and electrons produced don’t move in perfectly opposite directions. This observation notes the existence of what particle?",
+    "answer": "NEUTRINO"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many copies of the DNA template strand would be produced after seven cycles of PCR?",
+    "answer": "128"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What gland is responsible for producing prolactin?",
+    "answer": "PITUITARY GLAND"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Superconductors are generally classified as materials that can conduct electricity or transport electrons from one atom to another with no resistance. What type of superconductor is usually an alloy and has a more complex diamagnetism?",
+    "answer": "Type II"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "At Fermilab, researchers are using new kinds of superconductors to explain the behaviors of types of magnetic fields at low temperatures. One type of superconductor they are using is the Type I superconductor. Identify all of the following four superconductors that are Type I superconductors: 1) Aluminum; 2) YBCO; 3) Zinc; 4) Cuprate perovskite.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four quantities that are state functions: 1) Internal energy; 2) Density; 3) Work; 4) Entropy.",
+    "answer": "1, 2, AND 4"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following processes requires the most heat to be passed into the system given that they all have the same change in internal energy?",
+    "choices": {
+      "W": "Adiabatic cooling",
+      "X": "Isochoric expansion",
+      "Y": "Adiabatic expansion",
+      "Z": "Isobaric expansion"
+    },
+    "answer": "Z) ISOBARIC EXPANSION"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is commonly used as a solvent in SN2 reactions?",
+    "choices": {
+      "W": "Methyl alcohol",
+      "X": "Toluene",
+      "Y": "Dimethyl sulfoxide",
+      "Z": "Liquid ammonia"
+    },
+    "answer": "Y) DIMETHYL SULFOXIDE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three molecules by decreasing melting point: 1) Pentane; 2) Propionic Acid; 3) Butanal.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The belt of prevailing global winds over the midlatitudes is known as the",
+    "choices": {
+      "W": "Westerlies",
+      "X": "Doldrums",
+      "Y": "Jet stream",
+      "Z": "Easterlies"
+    },
+    "answer": "W) WESTERLIES"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes why two earthquakes might get the same score on the Richter scale but different scores on the Mercalli intensity scale?",
+    "choices": {
+      "W": "One earthquake occurred in an area built on solid bedrock, and the other occurred on loose sediments.",
+      "X": "One earthquake occurred in an area more prone to earthquakes, and the other occurred in an area less prone to earthquakes.",
+      "Y": "One earthquake occurred closer to the equator, and the other occurred closer to the poles.",
+      "Z": "One earthquake occurred in a subduction zone, and the other occurred in a transform boundary."
+    },
+    "answer": "W) ONE EARTHQUAKE OCCURRED IN AN AREA BUILT ON SOLID BEDROCK, AND THE OTHER OCCURRED ON LOOSE SEDIMENTS."
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two chords of a circle intersect at a point inside the circle such that the first chord is split into segments of lengths 6 and 3, and the second chord is split into segments of lengths 4 and $x$. What is the value of $x$?",
+    "answer": "4.5"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Compute the sum from $i$ equals 1 to 7 of the sum from $j$ equals 1 to 7 of $i$ times $j$.",
+    "answer": "784"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reactions is not catalyzed in the Golgi apparatus?",
+    "choices": {
+      "W": "Phosphorylation",
+      "X": "Glycosylation",
+      "Y": "Sulfation",
+      "Z": "Hydroxylation"
+    },
+    "answer": "Z) HYDROXYLATION"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What name is given to the stimulus response governing the action of plants that wrap around objects they come in contact with, such as vines wrapping around a building?",
+    "answer": "THIGMOTROPISM"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab are studying the various causes of catalyst poisoning. One way this happens is when a molecule is so tightly bound to the surface of a catalyst that it inhibits the catalyst's ability to speed up a reaction. What is this phenomenon, where a species gets adhered to a surface?",
+    "answer": "ADSORPTION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Sandia National Labs are working toward getting certain solar cells to commercialization. These solar cells have a crystal structure similar to bridgmanite and ipoartite, which both follow the general chemical formula ABX3. What class of materials is named after the mineral calcium titanium oxide?",
+    "answer": "PEROVSKITE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A right triangle has legs of lengths 12 and 16. Which of the following is the circumradius of this triangle?",
+    "choices": {
+      "W": "6",
+      "X": "8",
+      "Y": "10",
+      "Z": "12"
+    },
+    "answer": "Y) 10"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive integers less than or equal to 200 are divisible by exactly two of 3, 5, and 7?",
+    "answer": "26"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds will dissolve better in $n$-heptane than in sulfuric acid?",
+    "choices": {
+      "W": "Sulfur hexafluoride",
+      "X": "Hydrogen Sulfide",
+      "Y": "Nitrogen Dioxide",
+      "Z": "Phosphoryl chloride"
+    },
+    "answer": "W) SULFUR HEXAFLUORIDE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following four conformations of cyclohexane by increasing stability: 1) Half-chair; 2) Boat; 3) Chair; 4) Twist-boat.",
+    "answer": "1, 2, 4, 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of supernovae occurs when a white dwarf in a binary system exceeds the Chandrasekhar limit, causing a runaway fusion event?",
+    "choices": {
+      "W": "Type Ia",
+      "X": "Type Ib",
+      "Y": "Type Ic",
+      "Z": "Type II"
+    },
+    "answer": "W) TYPE IA"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are FALSE about supernovae: 1) Type Ia supernovae are more luminous than Type II supernovae; 2) Type I supernovae have spectra containing hydrogen lines; 3) Type Ia supernovae form neutron stars or black holes.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant hormones is incorrectly paired with its function?",
+    "choices": {
+      "W": "Gibberellin; stem elongation",
+      "X": "Auxin; apical dominance",
+      "Y": "Abscisic acid; promote leaf senescence",
+      "Z": "Cytokinins; fruit growth"
+    },
+    "answer": "Z) CYTOKININS - FRUIT GROWTH"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "As opposed to gradualism, what evolutionary hypothesis proposes that development in history is marked by isolated episodes of rapid speciation followed by long periods of little change?",
+    "answer": "PUNCTUATED EQUILIBRIUM"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What principle states that a change in pressure will permeate throughout a liquid and onto the walls of the container of the liquid?",
+    "answer": "PASCAL'S PRINCIPLE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Water is flowing up a pipe with velocity 5 meters per second. At a height of 2.5 meters, the pipe narrows to half its original diameter. If the pressure of the water at the ground is 250 kilopascals, find the pressure of the water 4 meters above the ground in kilopascals to the nearest integer, given that the density of water is 1000 kilograms per meter cubed.",
+    "answer": "23"
+  }
+]

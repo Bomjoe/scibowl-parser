@@ -1,0 +1,547 @@
+Failure:
+[
+  {
+ "question_number":1,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "The resting membrane potential of a neuronal axon is established by the differing concentrations around the membrane of all of the following except:",
+ "choices": {
+ "W": "Flourine",
+ "X": "Chlorine",
+ "Y": "Sodium",
+ "Z": "Potassium"
+ },
+ "answer": "W) FLOURINE"
+ },
+ {
+ "question_number":1,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "According to sliding filament theory, the binding of ATP to myosin causes it to release its grip on which protein found in the thin filament of muscles:",
+ "choices": {
+ "W": "collagen",
+ "X": "actin",
+ "Y": "fibrin",
+ "Z": "keratin"
+ },
+ "answer": "X) ACTIN"
+ },
+ {
+ "question_number":2,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "What type of reaction can be split into half-reactions?",
+ "choices": {
+ "W": "Reduction-Oxidation reactions",
+ "X": "Acid-Base reactions",
+ "Y": "Single Replacement reaction",
+ "Z": "Double Replacement reaction"
+ },
+ "answer": "W) REDUCTION-OXIDATION REACTIONS"
+ },
+ {
+ "question_number":2,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following reactions is not a single replacement reaction?",
+ "choices": {
+ "W": "$\\athrm{Fe}_{2}\\athrm{O}_{3} +2\\athrm{Al} \\ongrightarrow2\\athrm{Fe} + \\athrm{Al}_{2}\\athrm{O}_{3}$",
+ "X": "$\\athrm{NH}_{4}^{+} + \\athrm{OH}^{-} \\ongrightarrow \\athrm{NH}_{3} + \\athrm{H}_{2}\\athrm{O}$",
+ "Y": "$2\\athrm{C}_{2}\\athrm{H}_{4} +2\\athrm{O}_{3} \\ongrightarrow4\\athrm{H}_{2}\\athrm{CO} + \\athrm{O}_{2}$",
+ "Z": "$\\athrm{Mg} +2\\athrm{H}_{2}\\athrm{O} \\ongrightarrow \\athrm{Mg}(\\athrm{OH})_{2} + \\athrm{H}_{2}$"
+ },
+ "answer": "Y) $2\\athrm{C}_{2}\\athrm{H}_{4} +2\\athrm{O}_{3} \\ongrightarrow4\\athrm{H}_{2}\\athrm{CO} + \\athrm{O}_{2}$"
+ },
+ {
+ "question_number":3,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following could NOT be used to determine the distance to a galaxy:",
+ "choices": {
+ "W": "The Tully-Fisher relation",
+ "X": "The Titius-Bode relation",
+ "Y": "The period-luminosity relation",
+ "Z": "Hubble's law"
+ },
+ "answer": "X) THE TITIUS-BODE RELATION"
+ },
+ {
+ "question_number":3,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "The Eddington number, which describes the number of protons in the universe, is closest to:",
+ "choices": {
+ "W": "$10^{20}$",
+ "X": "$10^{40}$",
+ "Y": "$10^{60}$",
+ "Z": "$10^{80}$"
+ },
+ "answer": "Z) $10^{80}$"
+ },
+ {
+ "question_number":4,
+ "question_type": "tossup",
+ "category": "energy",
+ "answer_type": "multiple_choice",
+ "body": "Approximately what percentage of energy produced within the United States comes from the burning of coal?",
+ "choices": {
+ "W": "$40\\$",
+ "X": "$50\\$",
+ "Y": "$60\\$",
+ "Z": "$70\\$"
+ },
+ "answer": "W) $40\\$"
+ },
+ {
+ "question_number":4,
+ "question_type": "bonus",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "Order the following sources of emissions in order of greatest to smallest percentages of overall greenhouse gas emissions: Agriculture, Transportation, Land Use, Commercial",
+ "answer": "TRANSPORTATION, COMMERCIAL, AGRICULTURE, LAND USE (ACCEPT2,4,1,3)"
+ },
+ {
+ "question_number":5,
+ "question_type": "tossup",
+ "category": "mathematics",
+ "answer_type": "multiple_choice",
+ "body": "If a triangle can be superimposed on its mirror image, it must be:",
+ "choices": {
+ "W": "equilateral",
+ "X": "isosceles",
+ "Y": "achiral",
+ "Z": "scalene"
+ },
+ "answer": "X) ISOSCELES"
+ },
+ {
+ "question_number":5,
+ "question_type": "bonus",
+ "category": "mathematics",
+ "answer_type": "multiple_choice",
+ "body": "When a matrix is in Jordan normal form, it",
+ "choices": {
+ "W": "is written in a basis of generalized eigenvectors",
+ "X": "is diagonal",
+ "Y": "has only one nonzero entry per row",
+ "Z": "has zero determinant"
+ },
+ "answer": "W) IS WRITTEN IN A BASIS OF GENERALIZED EIGENVECTORS"
+ },
+ {
+ "question_number":6,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "What effect, first described in the book Hydrodynamic, allows for an airfoil to generate lift?",
+ "answer": "BERNOULLI'S PRINCIPLE"
+ },
+ {
+ "question_number":6,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "A stream of water no matter how evenly it is ejected, never comes out in a perfect cylinder, but rather as one with sinusoidal perturbations. This is because of",
+ "choices": {
+ "W": "Adhesive Forces",
+ "X": "Surface Tension",
+ "Y": "Viscosity",
+ "Z": "Impurities in the Water"
+ },
+ "answer": "X) SURFACE TENSION"
+ },
+ {
+ "question_number":7,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "What hemorrhagic fever named after a river in the Republic of Congo, is known for its high mortality rate and widespread symptoms?",
+ "answer": "EBOLA [OR EBOLA VIRUS, OR EBOLA HEMORRHAGIC FEVER]"
+ },
+ {
+ "question_number":7,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following is a class of animal included within the phylum Cnidaria:",
+ "choices": {
+ "W": "Crinoidea",
+ "X": "Ascidiaca",
+ "Y": "Tentaculata",
+ "Z": "Hydrozoa"
+ },
+ "answer": "Z) HYDROZOA"
+ },
+ {
+ "question_number":8,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "By name or number, name all of the following four compounds that are liquids at room temperature: $\\athrm{Br}_{2}$ , $\\athrm{NH}_{3}$ , $\\athrm{H}_{2}\\athrm{O}_{2}$ , ether",
+ "answer": "$\\athrm{Br}_{2}$ , $\\athrm{H}_{2}\\athrm{O}_{2}$ , ETHER [OR1,3,4]"
+ },
+ {
+ "question_number":8,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "Order the following compounds by boiling point from lowest to highest: $\\athrm{N}_{2}$ , $\\athrm{Br}_{2}$ , $\\athrm{Cl}_{2}$ , $\\athrm{O}_{2}$",
+ "answer": "$\\athrm{N}_{2}$ , $\\athrm{O}_{2}$ , $\\athrm{Cl}_{2}$ , $\\athrm{Br}_{2}$ [OR1,4,3,2]"
+ },
+ {
+ "question_number":9,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "What towering type of cloud is commonly associated with thunderstorms and is often shaped like an anvil?",
+ "answer": "CUMULONIMBUS"
+ },
+ {
+ "question_number":9,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "When does a1st quarter moon set?",
+ "choices": {
+ "W": "at sunrise",
+ "X": "at noon",
+ "Y": "at sunset",
+ "Z": "at midnight"
+ },
+ "answer": "Z) AT MIDNIGHT"
+ },
+ {
+ "question_number":10,
+ "question_type": "tossup",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "What unstable isotope of uranium is formed by bombarding nuclear fuel with neutrons?",
+ "answer": "URANIUM-236 [OR: U-236]"
+ },
+ {
+ "question_number":10,
+ "question_type": "bonus",
+ "category": "energy",
+ "answer_type": "multiple_choice",
+ "body": "What is the most popular method of removing Hydrogen Sulfide and Carbon Dioxide from natural gas?",
+ "choices": {
+ "W": "Amine Absorption Treatment",
+ "X": "Polymeric Membranes",
+ "Y": "Cryogenic Distillation",
+ "Z": "Claus Process"
+ },
+ "answer": "W) AMINE ABSORPTION TREATMENT"
+ },
+ {
+ "question_number":11,
+ "question_type": "tossup",
+ "category": "mathematics",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following functions monotonically increases over its domain, and also has a derivative that monotonically increases over its domain?",
+ "choices": {
+ "W": "$\\qrt{x}$",
+ "X": "$x^{2}$",
+ "Y": "$-1 / x$",
+ "Z": "$xln(x)$"
+ },
+ "answer": "Z) $X L N(X)$"
+ },
+ {
+ "question_number":11,
+ "question_type": "bonus",
+ "category": "mathematics",
+ "answer_type": "short_answer",
+ "body": "What is the normalized vector of [1,4,8]?",
+ "answer": "[1/9,4/9,8/9]"
+ },
+ {
+ "question_number":12,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "By what factor would the surface gravity of a planet change if its mass was doubled and its diameter was halved?",
+ "answer": "8"
+ },
+ {
+ "question_number":12,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "The work done on a satellite in an elliptical orbit",
+ "choices": {
+ "W": "is always zero",
+ "X": "averages out to zero",
+ "Y": "is only zero at the perihelion",
+ "Z": "is only zero at the aphelion"
+ },
+ "answer": "X) AVERAGES OUT TO ZERO"
+ },
+ {
+ "question_number":13,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "The function of the TATA box is to:",
+ "choices": {
+ "W": "Provide a binding site on the ribosome for tRNA during translation",
+ "X": "Promote a gene by telling RNA polymerase where to start transcribing",
+ "Y": "Provide a binding site on the ribosome for mRNA during translation",
+ "Z": "Recruit thymine and adenine from the environment in DNA replication"
+ },
+ "answer": "X) PROMOTE A GENE BY TELLING RNA POLYMERASE WHERE TO START TRANSCRIBING"
+ },
+ {
+ "question_number":13,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "Which purine-derived nitrogenous base uses three hydrogen bonds in DNA?",
+ "choices": {
+ "W": "Adenine",
+ "X": "Guanine",
+ "Y": "Cytosine",
+ "Z": "Thymine"
+ },
+ "answer": "X) GUANINE"
+ },
+ {
+ "question_number":14,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "According to VSEPR theory, what is the molecular geometry of Sulfur Hexafluoride?",
+ "answer": "OCTAHEDRAL"
+ },
+ {
+ "question_number":14,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "What trigonal pyramidal compound is produced by the Haber-Bosch process?",
+ "answer": "AMMONIA [OR: NH3]"
+ },
+ {
+ "question_number":15,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following periods is NOT contained within the Mesozoic era?",
+ "choices": {
+ "W": "Triassic",
+ "X": "Jurrasic",
+ "Y": "Creataceous",
+ "Z": "Permian"
+ },
+ "answer": "Z) PERMIAN"
+ },
+ {
+ "question_number":15,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "During what geologic period was alluvium formed?",
+ "answer": "QUARTERNARY"
+ },
+ {
+ "question_number":16,
+ "question_type": "tossup",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "What is the final carbon product of glycolysis?",
+ "answer": "PYRUVATE"
+ },
+ {
+ "question_number":16,
+ "question_type": "bonus",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "What device is used to experimentally determine the energy released or absorbed in a chemical reaction?",
+ "answer": "CALORIMETER"
+ },
+ {
+ "question_number":17,
+ "question_type": "tossup",
+ "category": "mathematics",
+ "answer_type": "short_answer",
+ "body": "Evaluate the limit as x approaches zero of the function $f(x) = x\\in (1 / x)$ .",
+ "answer": "0 (ZERO)"
+ },
+ {
+ "question_number":17,
+ "question_type": "bonus",
+ "category": "mathematics",
+ "answer_type": "short_answer",
+ "body": "Evaluate the derivative at $x =0$ of the function: $f(x) = x^{3}\\in (1 / x^{2})$ .",
+ "answer": "UNDEFINED (OR: DOES NOT EXIST)"
+ },
+ {
+ "question_number":18,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "When a material's Young's modulus no longer applies, it is said to be in the",
+ "choices": {
+ "W": "plastic region",
+ "X": "supercritical region",
+ "Y": "elastic region",
+ "Z": "transition region"
+ },
+ "answer": "W) PLASTIC REGION"
+ },
+ {
+ "question_number":18,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "How much stress is required to put a $1\\$ strain on a material with a Young's modulus of320 Gigapascals?",
+ "answer": "3.2 GIGAPASCALS"
+ },
+ {
+ "question_number":19,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "An open circulatory system has:",
+ "choices": {
+ "W": "No distinction between blood and interstitial fluid",
+ "X": "Direct gas exchange with its environment",
+ "Y": "A three-chambered heart, with some mixing of oxygenated and deoxygenated blood",
+ "Z": "No hemoglobin"
+ },
+ "answer": "W) NO DISTINCTION BETWEEN BLOOD AND INTERSTITIAL FLUID"
+ },
+ {
+ "question_number":19,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "What is the copper-containing oxygen carrier found in insects?",
+ "answer": "HEMOCYANIN"
+ },
+ {
+ "question_number":20,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "What is the common name for group16, the group of elements containing selenium, sulfur, and oxygen?",
+ "answer": "CHALCOGENS"
+ },
+ {
+ "question_number":20,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following is FALSE about f-block elements:",
+ "choices": {
+ "W": "They have high reduction potentials because of the high-energy f orbitals",
+ "X": "They are often used in nuclear fission reactors because of their large, unstable nuclei",
+ "Y": "They make for strong magnets because their shells can hold up to7 spin-up electrons",
+ "Z": "They often violate the Aufbau principle by interchanging electrons between d and f orbitals"
+ },
+ "answer": "W) THEY HAVE HIGH REDUCTION POTENTIALS BECAUSE OF THE HIGH- ENERGY F ORBITALS"
+ },
+ {
+ "question_number":21,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "Approximately where on the Hertzsprung-Russel diagram would Sirius B be found?",
+ "choices": {
+ "W": "Top Left",
+ "X": "Bottom Left",
+ "Y": "Top Right",
+ "Z": "Bottom Right"
+ },
+ "answer": "X) BOTTOM LEFT"
+ },
+ {
+ "question_number":21,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "Calculate the distance modulus of Rigel, knowing that Rigel's apparent magnitude is0.12, its absolute magnitude is -7.84, and its surface temperature is12,000 Kelvin.",
+ "answer": "7.96"
+ },
+ {
+ "question_number":22,
+ "question_type": "tossup",
+ "category": "mathematics",
+ "answer_type": "short_answer",
+ "body": "If x and y are complex numbers, then expressing your answer in as simplified a form as possible, what is the slope-intercept equation for the line that goes through the points (0, i) and (i, -1)?",
+ "answer": "$\\athrm{Y} = \\athrm{I} + \\athrm{IX}$ (OR: $\\athrm{Y} = \\athrm{IX} + \\athrm{I}$ )"
+ },
+ {
+ "question_number":22,
+ "question_type": "bonus",
+ "category": "mathematics",
+ "answer_type": "short_answer",
+ "body": "By name or number, give all of the following complex numbers whose magnitude is at least twice the magnitude their real component: i,4 + i, -1 +3i,0",
+ "answer": "I, -1 +3I,0 (OR:1,3,4)"
+ },
+ {
+ "question_number":23,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "If the temperature of a black body is doubled, and its radius is reduced by a factor of four, by what factors, respectively, do the total energy output and peak wavelength change?",
+ "answer": "1 AND1/2"
+ },
+ {
+ "question_number":23,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following best describes the necessary criterion for an object to be a black body?",
+ "choices": {
+ "W": "It must reflect none of the light that falls on it",
+ "X": "It must transmit all of the light that falls on it",
+ "Y": "It must absorb all of the light that falls on it",
+ "Z": "It must transmit none of the light that falls on it"
+ },
+ "answer": "Y) IT MUST ABSORB ALL OF THE LIGHT THAT FALLS ON IT"
+ },
+ {
+ "question_number":24,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "What is the scientific name of the4-chromosomed model organism, studied by Thomas Hunt Morgan, in which the hedgehog homolog genes were discovered?",
+ "answer": "DROSOPHILA MELANOGASTER [ACCEPT: DROSOPHILA]"
+ },
+ {
+ "question_number":24,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "The function of the protein \sonic hedgehog homolog\ is to:",
+ "choices": {
+ "W": "rapidly transport certain substrates throughout the bloodstream",
+ "X": "direct the fetal development of bilateral symmetry",
+ "Y": "give Drosophila fruit flies wing coloration",
+ "Z": "restrict hair growth outside of the scalp"
+ },
+ "answer": "X) DIRECT THE FETAL DEVELOPMENT OF BILATERAL SYMMETRY"
+ },
+ {
+ "question_number":25,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "Arrange the following three rocks from most felsic to most mafic: quartzite, basalt, obsidian",
+ "answer": "QUARTZITE, OBSIDIAN, BASALT (OR:1,3,2)"
+ },
+ {
+ "question_number":25,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "What two minerals, containing calcium and sodium in addition to aluminum silicate, comprise the endpoints of the plagioclase feldspar series?",
+ "answer": "ALBITE AND ANORTHITE"
+ }
+]

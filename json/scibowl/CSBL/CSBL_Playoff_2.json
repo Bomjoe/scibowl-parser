@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following types of bacteria that are gram-positive: I. Staphylococcus aureus II. Cyanobacteria III. Bacillus Anthracis IV. Streptococcus",
+    "answer": "I, III, IV"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Joy has just got her hands on a brand new cell! She is studying the attachment of integrins to the extracellular matrix. Which of the following proteins would integrins most likely attach to?",
+    "choices": {
+      "W": "Dynein",
+      "X": "Actin",
+      "Y": "Myosin",
+      "Z": "Cyclin"
+    },
+    "answer": "X) ACTIN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 elements in terms of INCREASING standard reduction potential: I. Chlorine II. Aluminum III. Mercury",
+    "answer": "II, III, I"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 diatomic molecules in terms of INCREASING order of bond strength. I. $F_{2}$ II. $C l_{2}$ III. $N_{2}$ IV. $O_{2}$",
+    "answer": "I, II, IV, III"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two types of equations that are used to model fluid dynamics are Euler Equations and Navier-Stokes Equations. Although these two equations are mostly similar, they differ because Navier-Stokes accounts for what property of fluids that Euler Equations do not?",
+    "choices": {
+      "W": "Density",
+      "X": "Specific Heat",
+      "Y": "Type of Liquid",
+      "Z": "Viscosity"
+    },
+    "answer": "Z) VISCOSITY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following 3 conservation laws that would be violated when a neutron decays to a proton and electron: I. Conservation of Charge II. Conservation of Lepton Number III. Conservation of Spin",
+    "answer": "II AND III"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are TRUE regarding the Sun: 1) Gas at the equator orbits faster than at the poles 2) The Maunder Minimum was a period of reduced sunspot activity 3) The convective zone is closer to the core than the radiative zone",
+    "answer": "1, 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "If an object has a parallax angle of 2.06 arc seconds, which of the following is closest to its distance in AU?",
+    "choices": {
+      "W": "$1\\athrm{x}10^{\\edge}4$",
+      "X": "$2\\athrm{x}10^{\\edge}4$",
+      "Y": "$1\\athrm{x}10^{\\edge}5$",
+      "Z": "$2\\athrm{x}10^{\\edge}5$"
+    },
+    "answer": "Y) $1\\athrm{x}10^{\\edge}5$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "An acute triangle ABC is inscribed in a circle with center at point O. If angle ABC is 50 degrees, what is angle AOC?",
+    "choices": {
+      "W": "25",
+      "X": "50",
+      "Y": "100",
+      "Z": "130"
+    },
+    "answer": "Y) 100"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A right trapezoid SCBO has bases SC and BO, and angles SCB and CBO are each 90 degrees. Side CB has length 20, side OS has length 25, and the area of the trapezoid is 550. What is the length of the longer base?",
+    "answer": "35"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Ames Laboratory are studying the applications of high entropy alloys. Which of the following is NOT a property high entropy alloys usually possess that would make them desirable?",
+    "choices": {
+      "W": "They are usually made up of only two elements",
+      "X": "They are usually oxidation resistant",
+      "Y": "They are usually highly ductile",
+      "Z": "They have high fracture resistance"
+    },
+    "answer": "W) THEY ARE USUALLY MADE UP OF ONLY TWO ELEMENTS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Fermilab are studying elementary particles. They hypothesize that the gravitational force, like the electromagnetic force, is carried by a boson. Answer the following two questions about this hypothetical particle: 1) What is it called? 2) What would have to be its spin?",
+    "answer": "GRAVITON, 2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Adrian has just finished writing this packet, and he feels hungry. What hormone, released by the walls of the stomach to increase hunger, and is suppressed by PYY, is being released right now?",
+    "answer": "GHRELIN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of plant tissue that have secondary cell walls: I. Sclerenchyma II. Collenchyma III. Parenchyma",
+    "answer": "I AND II"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "For an endothermic reaction to be spontaneous under standard conditions at constant pressure at some pressure T, which of the following statements must be true.",
+    "choices": {
+      "W": "The entropy change must be NEGATIVE and GREATER than - Delta H/T",
+      "X": "The entropy change must be NEGATIVE and LESS than - Delta H/T",
+      "Y": "The entropy change must be POSITIVE and GREATER than Delta H/T",
+      "Z": "The entropy change must be POSITIVE and LESS than Delta H/T"
+    },
+    "answer": "Y) THE ENTROPY CHANGE MUST BE POSITIVE AND GREATER THAN DELTA H/T"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Shown below is a graph of forwards and reverse rates of a reaction as a function of time. At time t, a catalyst is added to the system, and the forward reaction rate proceeds as indicated by the solid curve. Which of the following curves best indicates how the reverse reaction rate changes over time?",
+    "choices": {
+      "W": "Curve A",
+      "X": "Curve B",
+      "Y": "Curve C",
+      "Z": "Curve D"
+    },
+    "answer": "W) CURVE A"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements best describes what happens as a traveling wave reflects off a wall that IS NOT fixed?",
+    "choices": {
+      "W": "It reflects with inversion",
+      "X": "It reflects without inversion",
+      "Y": "It interferes with the incident wave constructively",
+      "Z": "It interferes with the incident wave destructively"
+    },
+    "answer": "X) IT REFLECTS WITHOUT INVERSION"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the rotational inertia of a thin rod about a pivot $\\rac{1}{2}$ of the distance from the end, with uniform mass density?",
+    "answer": "$\\rac{1}{9} ML^2$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Arin observes an earthquake of magnitude 5 on the moment magnitude scale, that releases energy X. If he later observes an earthquake of magnitude 6, in terms of X, approximately how much energy is released by the second earthquake?",
+    "choices": {
+      "W": "4X",
+      "X": "8X",
+      "Y": "16X",
+      "Z": "32X"
+    },
+    "answer": "Z) 32X"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for patterns found in the cross section of iron meteorites when they are opened up?",
+    "answer": "WIDMANSTÄTTEN PATTERNS (ACCEPT: THOMSON STRUCTURES)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Given an inflection point for a certain cubic function, how many more points on the function's graph would you need to know to completely determine the cubic?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "Y) 2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A train carries a certain number of passengers. At its first stop, $15\\$ of passengers leave the train. At the second stop, 49 passengers get off the train. At the third and final stop, all remaining passengers get off the train. The number of passengers who left at the first stop happened to be the same number of passengers who left at the third stop. How many passengers were originally on the train?",
+    "answer": "70"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Los Alamos National Laboratory have been using the Curiosity rover to study the history of water on Mars. When water flowed on Mars, long channels are thought to have been formed by outburst floods. What is the name for these channels?",
+    "answer": "OUTFLOW CHANNELS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Laboratory are studying the hydrological cycle and its energy applications. A point of study is the difference between types of aquifers. What type of aquifer has impermeable layers both above and below it?",
+    "answer": "CONFINED AQUIFER"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant hormones play a role in fruit ripening?",
+    "choices": {
+      "W": "Abscisic Acid",
+      "X": "Cytokinins",
+      "Y": "Brassinosteroids",
+      "Z": "Gibberellins"
+    },
+    "answer": "Z) GIBBERELLINS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following statements that are true about C3 and C4 plants: I. Rubisco performs initial carbon fixation in C3, but PEPase performs initial carbon fixation in C4 II. C3 plants lose water and energy through photorespiration, whereas C4 plants have a low photorespiration rate III. Both plants initially accept carbon dioxide",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds have the highest normal boiling point?",
+    "choices": {
+      "W": "1-Butanol",
+      "X": "2-Butanol",
+      "Y": "2-Methyl-1-Propanol",
+      "Z": "2-Methyl-2-Propanol"
+    },
+    "answer": "W) 1- BUTANOL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds can exhibit geometric isomerism?",
+    "choices": {
+      "W": "1-butene",
+      "X": "2-butene",
+      "Y": "1-butyne",
+      "Z": "2-butyne"
+    },
+    "answer": "X) 2- BUTENE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A concave mirror has a radius of curvature of 78 cm. In centimeters, what is its focal length?",
+    "answer": "39 CM"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Adrian is playing with his new train set! He wants to make the train go faster and faster, and his dream is to get it near the speed of light. If he can make the train go 50% of the speed of light, by what percent is time slowed down?",
+    "answer": "$\\rac{\\qrt{3}}{2}$ (ACCEPT: 87%)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The rings of Uranus were discovered in 1977, when it passed in front of a distant star. What is the name for this kind of event?",
+    "answer": "OCCULTATION"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What principle states that on a large enough scale, matter in the Universe is homogeneous and isotropic?",
+    "answer": "COSMOLOGICAL PRINCIPLE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the integral from 1 to 4 of $f(x) dx = 29$, then what is the definite integral from 1 to 4 of $(f(x) - 5)dx$",
+    "answer": "14"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of an equilateral triangle whose circumcircle has a radius of 4?",
+    "answer": "$12\\qrt{3}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Laboratory are studying the potential of quantum computers. Quantum bits, or qubits, cannot be directly observed without using their unique properties. What principle allows for qubits to be observed?",
+    "answer": "QUANTUM ENTANGLEMENT"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Livermore National Lab are studying the formation of the early solar system. The classification of meteorites is a particular point of focus. What type of stony meteorite is characterized by high levels of water content and organic material, as well as large round grains called chondrules?",
+    "answer": "CARBONACEOUS CHONDRITES"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During translation in prokaryotes, the Shine-Dalgarno sequence is the binding site for what organelle?",
+    "answer": "RIBOSOME"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "If you're wondering why this packet was written so late, it's because Arin was just recovering from his booster dose. A booster dose of a vaccination helps to increase blood antibody levels by increasing the number of what type of cells?",
+    "answer": "EFFECTOR CELLS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 4 ionic solids in terms of INCREASING melting point: I. NaF II. MgO III. KBr IV. NaCl",
+    "answer": "III, IV, I, II"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "For which of the following reactions would the yield of products at equilibrium NOT increase at higher pressure?",
+    "choices": {
+      "W": "$T i(s) + 2C l_{2}(g)\\eftrightarrow T i c l_{4}(g)$",
+      "X": "$N_{2}(g) + O_{2}(g)\\eftrightarrow 2N O(g)$",
+      "Y": "$4H C l(g) + O_{2}(g)\\eftrightarrow 2H_{2}O(l) + 2C l_{2}(g)$",
+      "Z": "$2C_{2}H_{4}(g) + 2H_{2}O(g)\\eftrightarrow 2C_{2}H_{6}(g) + O_{2}(g)$"
+    },
+    "answer": "X) $N_{2}(g) + O_{2}(g) \\eftrightarrow 2NO(g)$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following quantities that Kirchoff’s Laws address: I. Inductance II. Resistance III. Current IV. Voltage",
+    "answer": "III AND IV"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Shown below is a new circuit that Kyle formed based on his earlier parts. Given the resistance for each of the resistors shown above, what is the voltage passing through each of the resistors respectively?",
+    "answer": "$\\athrm{V}1 = 2\\athrm{V}; \\athrm{V}2 = 4\\athrm{V}; \\athrm{V}3 = 8\\athrm{V}; \\athrm{V}4 = 4\\athrm{V}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What type of metamorphism would be associated with the collision of two crustal blocks and areas of orogeny?",
+    "choices": {
+      "W": "Burial",
+      "X": "Regional",
+      "Y": "Contact",
+      "Z": "Impact"
+    },
+    "answer": "X) REGIONAL"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of erosion involves a stream deepening due to material being removed from the streambed?",
+    "answer": "DOWNCUTTING"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the determinant of the 2-by-2 matrix with first row -2, -4 and second row 4, 9",
+    "answer": "- 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the first 5 terms in the increasing geometric sequence with first term 2 and third term 32?",
+    "answer": "682"
+  }
+]

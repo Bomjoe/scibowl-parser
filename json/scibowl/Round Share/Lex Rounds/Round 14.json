@@ -1,0 +1,498 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Assuming that $g =10 \\athrm{m / s^2}$ , what is the speed of a potted plant dropped from $20 \\athrm{m}$ tall ledge just before it hits the ground?",
+    "answer": "$20 \\athrm{m / s}$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If the speed of sound in a certain medium is $360 \\athrm{m / s}$ , what is the wavelength, in meters, of a sound wave that has a frequency of $60 \\athrm{hertz}$ ?",
+    "answer": "6"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Element X has the electron configuration [Kr]5s$^1$. Element Y has the electron configuration [Xe]6s$^2$4f$^{14}$5d$^{10}$6p$^4$. What would be the theoretical chemical formula for theionic compound comprised of X and Y atoms?",
+    "choices": {
+      "W": "XY",
+      "X": "X$_2$Y",
+      "Y": "XY$_2$",
+      "Z": "X$_2$Y$_2$"
+    },
+    "answer": "X) X$_2$Y"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, rank the following four molecules in order of increasing lattice energy:1) CaCl$_2$2) CaF$_2$3) LiCl4) LiF",
+    "answer": "3,4,1,2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three cloud types from earliest to latest in cloud development: I. Cumulonimbus II. Cumulus Humilis III. Cumulus Congestus",
+    "answer": "II III I"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following combinations of wavelength, $\\ambda$ (lambda), and amplitude, $A$ , of an ocean wave would cause the wave to break?",
+    "choices": {
+      "W": "$A =1\\athrm{m}$ $\\ambda =9\\athrm{m}$",
+      "X": "$A =1.5\\athrm{m}$ $\\ambda =10\\athrm{m}$",
+      "Y": "$A =2\\athrm{m}$ $\\ambda =20\\athrm{m}$",
+      "Z": "$A =3\\athrm{m}$ $\\ambda =25\\athrm{m}$"
+    },
+    "answer": "X) $A =1.5\\athrm{m}$ $\\ambda =10\\athrm{m}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the derivative of $\\ec (x)\\tan (x)$",
+    "answer": "$\\ec^{3}(x) + \\ec (x)\\tan^{2}(x)$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the derivative of $\\athrm{x}^{2}$",
+    "answer": "$\\athrm{x}^{2}(\\n (x) +1)$ ACCEPT $\\athrm{x}^{2}\\n (x) + \\athrm{x}^{2}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three that are direct functions of the thyroid gland? I) Stimulate metabolic processes II) Induces contractions during labor III) Lowers blood calcium levels",
+    "answer": "I and III"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What hormone do the S cells of the duodenum secrete to eventually lead to the release of bicarbonate in the pancreas?",
+    "answer": "Secretin"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Earnest Rutherford used what type of particle to prove the existence of the nucleus in an atom?",
+    "answer": "Alpha particle"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Jimothy spins a ball with mass5kg attached to a2m-long string in a horizontal circle. If the ball is going $16\\athrm{m / s}$ , what is the tension on the string?",
+    "answer": "20 N"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many electrons with both a principal quantum number of5 and an orbital quantum number of3 are present within a ground state electron configuration atom of lead?",
+    "answer": "14"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the molar mass of Argon gas is $39.9\\athrm{g / mol}$ , what is the density of Argon gas at STP to at least two significant figures?",
+    "answer": "1.78 g/L"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following can be used to describe the temperature trend from the center of the Sun to the upper limit of the chromosphere?",
+    "choices": {
+      "W": "Increase, then decrease",
+      "X": "Decrease, then increase",
+      "Y": "Increase, then decrease, then increase",
+      "Z": "Decrease, then increase, then decrease"
+    },
+    "answer": "X) Decrease, then increase"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three forms of plagioclase in order of increasing sodium content: I. Labradorite II. Bytownite III. Albite",
+    "answer": "III I II"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is $\\im_{x \\to1} \\rac{\\n x -1}{\\n(x)}$ (read as the limit as x approaches one of the fraction with numerator x -1 and denominator natural log of x)",
+    "answer": "1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Find minimum value of $\\athrm{x}^{2} +4\\athrm{y}^{2}$ given that $\\athrm{x} + \\athrm{y} =5$ ;",
+    "choices": {
+      "W": "16",
+      "X": "20",
+      "Y": "25",
+      "Z": "32"
+    },
+    "answer": "X)20"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three that are functions of the pons and medulla? I) Transfer sensory information between the peripheral nervous system and the forebrain II) Coordinate large scale body movements III) Monitors motor commands sent by the cerebrum",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What are the group of neurons in the hypothalamus that coordinate the circadian rhythm in mammals?",
+    "answer": "Suprachiasmatic nucleus (ACCEPT: SCN)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In terms of F, by what factor does the electrical force between two charged particles q1 and q2 change if their distance is doubled, q1 is tripled, and q2 is halved?",
+    "choices": {
+      "W": "By a factor of $\\rac{1}{2}\\athrm{F}$",
+      "X": "By a factor of $\\rac{3}{4}\\athrm{F}$",
+      "Y": "By a factor of $\\rac{3}{8}\\athrm{F}$",
+      "Z": "By a factor of $\\rac{1}{4}\\athrm{F}$"
+    },
+    "answer": "Y) By a factor of $\\rac{3}{8}\\athrm{F}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Jim and Tim work at the LHC and stumble upon a decay channel where two muons and two antimuons were produced. Which of the following particles could Jim and Tim have found the decay channel for?",
+    "choices": {
+      "W": "Higgs boson",
+      "X": "W plus boson",
+      "Y": "W minus boson",
+      "Z": "Z boson"
+    },
+    "answer": "W) Higgs boson"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Out of the3 following molecules, rank them in order of increasing boiling point.1)1-propanol,2) iso-butane3) butane",
+    "answer": "2,3,1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following substances in order of increasing deviation from ideal gas behavior.1) $\\athrm{N}_{2}$2) $\\athrm{SO}_{2}$3) $\\athrm{CO}_{2}$4) $\\athrm{SF}_{6}$",
+    "answer": "1,3,2,4"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The flat, sediment-laden beds of predominantly red clay that cover up the majority of the ocean floor are known as what?",
+    "answer": "Abyssal plains"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the primary difference between mudstone and shale?",
+    "choices": {
+      "W": "Mudstone is a sedimentary rock, while shale is metamorphic",
+      "X": "Mudstone breaks into blocks, while shale splits into flat, thin layers",
+      "Y": "Mudstone contains sand-sized particles, while shale contains clay-sized particles",
+      "Z": "Mudstone forms in larger quantities than shale"
+    },
+    "answer": "X) Mudstone breaks into blocks, while shale splits into flat, thin layers"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The graph formed by the equation $\\athrm{r} =3\\athrm{cos}$ theta is best described as a:",
+    "choices": {
+      "W": "Ray",
+      "X": "Line",
+      "Y": "Circle",
+      "Z": "Hyperbola"
+    },
+    "answer": "Y) circle"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Tim is hurt standing on the corner of a4 by5 grid. In order to heal himself, he must touch a piece of specular hematite diagonal from him. If Tim can only walk on the lines of the grid, how many ways are there for him to get the magical healing powers of specular hematite?",
+    "answer": "126"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the structure in the forebrain that detects odors in the nasal cavity?",
+    "answer": "Olfactory Bulbs"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Name all of the following parts of a child or adult brain that develop from the hindbrain in the embryo: I. Pons II. Cerebrum III. Cerebellum IV. Medulla Oblongata",
+    "answer": "I, III, IV (PONS, CEREBELLUM, MEDULLA OBLONGATA)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "At what fraction of the speed of light to the nearest hundredth does an object have to move to have a lorentz factor of2?",
+    "answer": "87/100"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which principle in General Relativity states that inertial forces and gravitational forces are indistinguishable?",
+    "answer": "Equivalence Principle"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following conditions do most gases behave like an ideal gas?",
+    "choices": {
+      "W": "Low pressure, Low Temperature",
+      "X": "High pressure, High Temperature",
+      "Y": "Low pressure, High Temperature",
+      "Z": "High pressure, Low Temperature"
+    },
+    "answer": "Y) Low pressure, High Temperature"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the heat of formation for one mole of $\\athrm{NO}_2(\\athrm{g})$ is $+33.9 \\athrm{kJ / mol}$ and that the heat of formation for one mole of $\\athrm{NO}(\\athrm{g})$ is $+90.4 \\athrm{kJ / mol}$ , what is $\\elta \\athrm{H}$ of the synthesis reaction between NO and $\\athrm{O}_2$ that produces1 mole of $\\athrm{NO}_2$ ?",
+    "answer": "-113 kJ/mol"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The rock containing the fossil of Danny the dinosaur is millions of years old. Which of the following radioactive isotopes would NOT be used to date the rock?",
+    "choices": {
+      "W": "carbon-14",
+      "X": "Potassium-40",
+      "Y": "uranium-235",
+      "Z": "uranium-238"
+    },
+    "answer": "W) carbon-14"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "It's Tim's week with the kids. To entertain them, he gives them a form of amphibole to play with. Which of the following forms of amphibole should Tim NOT give his kids to avoid giving them lung cancer with fibrous needles and losing custody?",
+    "choices": {
+      "W": "Actinolite",
+      "X": "Glaurophane",
+      "Y": "Anthophyllite",
+      "Z": "Hornblende"
+    },
+    "answer": "W) Actinolite"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the maximum number of points of intersection for two circles and one square?",
+    "answer": "10"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the radius of the circle formed by the parametric equations $x =3 +3 \\os t, y =4 +3 \\in t$ for $0 < t <2\\i$ (when $t$ is of the range0 to $2 \\athrm{pi}$ )?",
+    "answer": "3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "During Meiosis, chiasmata form between chromosomes at sites of which process?",
+    "choices": {
+      "W": "Separation of Homologs",
+      "X": "Crossing Over",
+      "Y": "Independent Assortment",
+      "Z": "Sister Chromatid Cohesion"
+    },
+    "answer": "X) CROSSING OVER"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are typically true for prokaryotes:1) Circular chromosomes;2) Long telomeres and telomerase activity;3) Multiple origins of replication.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A0.6 m guitar string has a fundamental frequency of300 Hz. What is the speed of the standing wave formed by plucking the guitar string in m/s?",
+    "answer": "360 m/s"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Tim is tired of writing the entire round for DOE and places himself in a human cannon facing the ocean. What is the maximum distance that he can launch himself away from land, assuming his launch speed is $40 \\athrm{m / s}$ and that $\\athrm{g} =10 \\athrm{m / s}$ ?",
+    "choices": {
+      "W": "80 m",
+      "X": "120 m",
+      "Y": "160 m",
+      "Z": "200 m"
+    },
+    "answer": "Y) $160 \\athrm{m}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Give the flame color tests of the following three elements: I. Sulfur II. Potassium III. Sodium",
+    "answer": "I Blue II Violet III Yellow"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the name of the region in a phase diagram for a mixture of components where the mixture exists as two or more phases?",
+    "choices": {
+      "W": "Miscibility gap",
+      "X": "Triple point",
+      "Y": "Azetrope",
+      "Z": "Alloy gap"
+    },
+    "answer": "W) Miscibility gap"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What are the long, low cliffs produced at vertical displacements along dip-slip faults called?",
+    "answer": "fault scarps"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A certain air mass is rising over the Appalachian mountains. Given an environmental lapse rate of6 C/1000ft and a wet adiabatic lapse rate of7 C/1000 ft, what type of cloud would be formed by the air mass?",
+    "choices": {
+      "W": "Cumulonimbus",
+      "X": "Cumulus",
+      "Y": "Stratus",
+      "Z": "Altocumulus"
+    },
+    "answer": "Y) Stratus"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A frog swims8 miles downstream in2 hours. She returns upstream in4 hours. How fast does the frog swim in still water in miles per hour?",
+    "choices": {
+      "W": "2",
+      "X": "3",
+      "Y": "4",
+      "Z": "6"
+    },
+    "answer": "X)3"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the distance between (2,7) and the graph of -3y+x=1 in simplest radical form?",
+    "answer": "$2\\qrt{10}$"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What type of cellular junction would provide strong connections between cells and cytoskeleton?",
+    "answer": "Adherens Junction"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What epidermal cells attach to sensory neurons and function in sensing touch",
+    "answer": "Merkel Cells (Accept Merkel Ranvier Cells and Tactile Epithelial Cells)"
+  }
+]

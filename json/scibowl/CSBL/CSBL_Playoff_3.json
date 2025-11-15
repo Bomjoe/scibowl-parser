@@ -1,0 +1,524 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Arin is having trouble breathing at night because Adrian keeps covering his mouth during his REM sleep. However, Adrian is able to do so discreetly, so Arin thinks that there is an issue with his brain. What two structures in the brain control mammalian respiration?",
+    "answer": "MEDULLA OBLONGATA AND PONS"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following organs that are correctly matched with the tissue from the embryonic germ layer that they are primarily formed from: I. Spinal Cord: Endoderm II. Heart: Mesoderm III. Thyroid: Endoderm IV. Liver: Ectoderm",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the gas-state atoms of ground state zinc?",
+    "choices": {
+      "W": "Paramagnetic",
+      "X": "Diamagnetic",
+      "Y": "Ferromagnetic",
+      "Z": "Antiferromagnetic"
+    },
+    "answer": "X) DIAMAGNETIC"
+  },
+  {
+    "question_number": 2,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The following three curves represent the curves of Krypton at -50 C, Krypton at0 C, and Argon at0 C, though not necessarily in that order. Given that the solid curve is Curve I, the dotted curve is Curve II, and the dashed curve is Curve III, identify what gas and temp pair represents each curve.",
+    "answer": "CURVE I is KRYPTON AT -50 C, CURVE II IS KRYPTON AT0 C, CURVE III is ARGON AT0 C"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A100-kilogram mass is sliding at an initial speed of7.65 meters per second on ice, coming to rest uniformly in3 seconds due to friction. In newtons, what is the magnitude of the force of friction on the mass due to the ice?",
+    "answer": "255"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A7.2-kilogram box is sliding along a frictionless surface at3 meters per second when it runs into a spring of spring constant8,000 newtons per meter. In meters, how much will the spring be compressed?",
+    "answer": "0.09"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four ores that are correctly matched to the element they are an ore of:1) Cinnabar, Zinc2) Bauxite, Aluminum3) Magnetite, Iron4) Magnesite, Magnesium",
+    "answer": "2,3,4"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following layers of an ophiolite from uppermost to bottomost: I. Pillow lava II. Sheeted dike complex III. Gabbro layer IV. Deep marine sediments",
+    "answer": "IV, I, II, III"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "For a twice-differentiable function f(x), f(6) is26, f prime of6 is0 and f double prime of6 is -2. Which of the following is true of the graph of y = f(x) at the point (6,26)?",
+    "choices": {
+      "W": "There is a Local Minimum",
+      "X": "There is a Local Maximum",
+      "Y": "There is an Inflection Point",
+      "Z": "The Graph is Concave Up"
+    },
+    "answer": "X) THERE IS A LOCAL MAXIMUM"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "One dimension of a cube is increased by3, another is decreased by3, and the other is left unchanged. If the new solid has a volume54 less than that of the original cube, what was the volume of the original cube?",
+    "answer": "216"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Fermilab are using the MINERvA experiment to study interactions of neutrinos through the weak force. Which of the following bosons is a carrier of the weak force?",
+    "choices": {
+      "W": "Gluon",
+      "X": "Higgs Boson",
+      "Y": "Photon",
+      "Z": "Z Boson"
+    },
+    "answer": "Z) Z BOSON"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Thomas Jefferson National Accelerator Facility are using supercomputers to model the structure of pions. Pions belong to what class of subatomic particles, which consist of a quark-antiquark pair?",
+    "answer": "MESONS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following divisions of the autonomic nervous system would be most important for prey fleeing their predator?",
+    "choices": {
+      "W": "Enteric Nervous",
+      "X": "Somatic Nervous",
+      "Y": "Parasympathetic",
+      "Z": "Sympathetic"
+    },
+    "answer": "Z) SYMPATHETIC"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following elements of a tree trunk from the OUTERMOST region to the INNERMOST: I. Periderm II. Heartwood III. Sapwood IV. Vascular Cambium",
+    "answer": "I, IV, III, II"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A vessel contains66 g of Carbon dioxide and16 g of diatomic oxygen gas. Given that the pressure of the vessel is10 atm, what is the partial pressure of carbon dioxide in this vessel?",
+    "answer": "7.5 ATM"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following solutes, when dissolved in1 kilogram of water, will give the solution with the highest boiling point?",
+    "choices": {
+      "W": "50 g ethylene glycol, $HOCH_{2}CH_{2}OH$",
+      "X": "50 g hydroxyacetic acid, $HOCH_{2}COOH$",
+      "Y": "50 g glycerol, $HOCH_{2}CHOHCH_{2}OH$",
+      "Z": "50 g glyoxal, $HCOCHO$"
+    },
+    "answer": "Z)50 g GLYOXAL, $HCOCHO$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An engineer designs a step-down transformer to convert800 volts-RMS down to20 volts-RMS. If the primary winding has600 turns, how many turns are required on the secondary winding?",
+    "choices": {
+      "W": "15",
+      "X": "150",
+      "Y": "600",
+      "Z": "24000"
+    },
+    "answer": "W)15"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In what region of semiconductors does the Fermi Energy lie?",
+    "answer": "BAND GAP"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What principle of general relativity states that inertial forces and gravitational forces are similar in nature and are often indistinguishable?",
+    "answer": "EQUIVALENCE PRINCIPLE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In what period of Martian history would there most likely be formation of outflow channels?",
+    "choices": {
+      "W": "Noachian",
+      "X": "Amazonian",
+      "Y": "Hesperian",
+      "Z": "Cryogenian"
+    },
+    "answer": "Y) HESPERIAN"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Arin has taken his science bowl team to a restaurant, which has5 members including himself. What is the number of meals that the restaurant must serve so that if a coach came along, the number of combinations of meals that the table could order, with the caveat that each person orders a different meal, would NOT change?",
+    "answer": "11"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the cross product of the vectors $i + j + k$ and $j$",
+    "answer": "$- i + k$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Lab are using the Rubin Observatory to catalog galaxies in great detail. Which of the following astronomical objects would most likely be formed by one galaxy passing through another one?",
+    "choices": {
+      "W": "Irregular galaxy",
+      "X": "Elliptical galaxy",
+      "Y": "Lenticular galaxy",
+      "Z": "Ring galaxy"
+    },
+    "answer": "Z) RING GALAXY"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Pacific Northwest National Lab are developing improved models for thunderstorms over central North America. Which of the following accessory clouds generally form on the leading edges of thunderstorms?",
+    "choices": {
+      "W": "Incus clouds",
+      "X": "Pileus clouds",
+      "Y": "Arcus clouds",
+      "Z": "Fractus clouds"
+    },
+    "answer": "Y) ARCUS CLOUDS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following immunoglobulins is the key source of allergies?",
+    "choices": {
+      "W": "IgA",
+      "X": "IgE",
+      "Y": "IgG",
+      "Z": "IgM"
+    },
+    "answer": "X) IgE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Consider the following structure of an antibody. What letter represents the site where an antibody bound to a pathogen would be recognized by a macrophage?",
+    "answer": "SITE D"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Arin is messing around with reactions. When he increases the temperature from50 to60 degrees Celsius, he found that the rate is2.3 times faster. By what factor will the rate increase when the temperature is further increased from60 to70 degrees Celsius.",
+    "choices": {
+      "W": "By a Factor Less than2.3",
+      "X": "By a Factor Equal To2.3",
+      "Y": "By a Factor more than2.3",
+      "Z": "The Rate will Decrease"
+    },
+    "answer": "W) BY A FACTOR LESS THAN2.3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "An irreversible reaction, $\\athrm{A} + \\athrm{B} \\ightarrow$ products, is studied under conditions where the concentration of B is much greater than the concentration of A. When [B] =0.10 M, a plot of $1 / [\\athrm{A}]$ vs. time is linear. When [B] =0.30 M, the plot of $1 / [\\athrm{A}]$ vs. time is indistinguishable from the first plot within experimental error. Given that the rate constant for this reaction is k, what is the rate law for this reaction?",
+    "answer": "$k[A]^{2}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following descriptions is best for an ideal ammeter?",
+    "choices": {
+      "W": "Zero Resistance in Parallel",
+      "X": "Infinite Resistance in Parallel",
+      "Y": "Zero Resistance in Series",
+      "Z": "Infinite Resistance in Series"
+    },
+    "answer": "Y) ZERO RESISTANCE IN SERIES"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Arin has just broken physics as we know it! He was able to discover magnetic monopoles. Identify ALL of the following Maxwell's Laws that must be changed to account for this discovery: I. Faraday's Law II. Ampere's Law III. Gauss's Law of Electricity IV. Gauss's Law of Magnetism",
+    "answer": "I AND IV"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The flatness and horizon problems both deal with the fundamental structure of the Universe. They are both solved by what theory regarding the early Universe, which states that space rapidly expanded shortly after the Big Bang?",
+    "answer": "COSMIC INFLATION"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The triple alpha process for stellar fusion has two primary steps, which each yield an isotope of each element. What are the elements for the isotopes produced in the first and second steps, respectively?",
+    "answer": "BERYLLIUM AND CARBON"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the remainder when $x^{3} +2x^{2} +6x +1$ is divided by $x +2$",
+    "answer": "-11"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the mean and median, respectively, of the first10 prime numbers?",
+    "answer": "12.9;12"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are researching systems that can efficiently convert carbon dioxide into ethanol. The reverse combustion of $3\\athrm{CO}_{2}$ and $2\\athrm{H}_{2}\\athrm{O}$ yields one molecule of ethanol and how many molecules of $\\athrm{O}_{2}$ ?",
+    "answer": "3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence are using ultra-short x-ray bursts to study enzymes involved in photosynthesis. Which of the following light-driven photosynthetic processes involves Photosystem I, but does NOT involve photosystem II?",
+    "choices": {
+      "W": "Cyclic electron flow",
+      "X": "Calvin cycle",
+      "Y": "Linear electron flow",
+      "Z": "Reverse Krebs cycle"
+    },
+    "answer": "W) CYCLIC ELECTRON FLOW"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the probability of an offspring having the genotype AAbbCCdd from the parents which have genotypes AaBbCcDd and AABbCcDd?",
+    "answer": "1/128"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acid mutations is LEAST LIKELY to be disruptive to protein function?",
+    "choices": {
+      "W": "Alanine to Valine",
+      "X": "Lysine to Glycine",
+      "Y": "Cysteine to Leucine",
+      "Z": "Aspartate to Tryptophan"
+    },
+    "answer": "W) ALANINE TO VALINE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A solution of which of the following compounds will give a VIOLET flame test?",
+    "choices": {
+      "W": "Lithium Bromide",
+      "X": "Sodium Chloride",
+      "Y": "Potassium Nitrate",
+      "Z": "Boric Acid"
+    },
+    "answer": "Y) POTASSIUM NITRATE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many sigma and pi bonds, respectively are present in the allene $H_{2}CCCH_{2}$",
+    "answer": "6 SIGMA,2 PI"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What vector represents the magnitude and direction of the flow of energy in electromagnetic waves?",
+    "answer": "POYNTING VECTOR"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Weyl fermions are massless, whereas Dirac fermions do have mass. In addition, there is a third type of fermion, which is its own antiparticle. What is the term for this type of fermion?",
+    "answer": "MAJORANA FERMION"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following sedimentary rocks is composed of the finest grained particles?",
+    "choices": {
+      "W": "Conglomerate",
+      "X": "Mudstone",
+      "Y": "Sandstone",
+      "Z": "Breccia"
+    },
+    "answer": "X) MUDSTONE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding trade winds:1) They converge at the Intertropical Convergence Zone2) In the Southern Hemisphere, they generally travel from west to east3) They are responsible for transporting nutrient-rich sands from North Africa to the Americas",
+    "answer": "1 AND3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many types of polyhedra are classified as Platonic Solids?",
+    "answer": "5"
+  },
+  {
+    "question_number": 23,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "I. What is the name for this Platonic Solid? II. Given that this Platonic Solid has20 faces and12 vertices, how many edges must it have?",
+    "answer": "ICOSAHEDRON,30"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "MicroRNAs are short noncoding RNAs used to regulate gene expression. What type of gene regulation are microRNAs an example of?",
+    "choices": {
+      "W": "Pre-Transcriptional",
+      "X": "Post-Transcriptional",
+      "Y": "Pre-Translational",
+      "Z": "Post-Translational"
+    },
+    "answer": "X) POST-TRANSCRIPTIONAL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What body in the solar system has the highest albedo?",
+    "choices": {
+      "W": "Titan",
+      "X": "Miranda",
+      "Y": "Enceladus",
+      "Z": "Triton"
+    },
+    "answer": "Y) ENCELADUS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Amy has forgotten her phone password, which consists of four digits, each from0-9. If she knows that it includes two1's, one6, and one other distinct digit, what is the maximum number of passwords she would need to check to unlock her phone?",
+    "answer": "96"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What spectral series for hydrogen contains lines in the visible region of the spectrum?",
+    "answer": "BALMER SERIES"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A coin of mass $m$ is dropped straight down from the top of a tall building. As the coin approaches terminal speed, which of the following statements is true of the net force on the coin",
+    "choices": {
+      "W": "The Net force on the Coin is Upward",
+      "X": "The net force on the coin is0",
+      "Y": "The net force on the coin is downward, with a magnitude less than mg",
+      "Z": "The net force on the coin is downward, with a magnitude equal to mg."
+    },
+    "answer": "Y) THE NET FORCE ON THE COIN IS DOWNWARD, WITH A MAGNITUDE LESS THAN MG"
+  }
+]

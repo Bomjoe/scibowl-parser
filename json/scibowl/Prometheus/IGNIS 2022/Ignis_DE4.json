@@ -1,0 +1,512 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT an example of specification gaming?",
+    "choices": {
+      "W": "A teacher focusing on content that appears on standardized tests",
+      "X": "A dog sitting when told, expecting treats for doing so, even when there are no treats",
+      "Y": "A researcher manipulating a sample to achieve a low p-value",
+      "Z": "A thumbtack factory producing heavier thumbtacks because they are paid by the pound"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a common trait found among invasive species?",
+    "choices": {
+      "W": "Ecological competence",
+      "X": "High dispersal ability",
+      "Y": "Phenotype plasticity",
+      "Z": "Specialist species"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A circle is drawn on unit square ABCD such that AB is a diameter of the circle. Diagonal AC is drawn, intersecting the circle at point E. What is the length of arc AE?",
+    "answer": "$\\rac{\\i}{4}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of functions that necessarily passes the horizontal line test: 1) Bijective; 2) Injective; 3) Surjective.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three orbitals by increasing shielding effect: 1) 2s; 2) 4d; 3) 3p.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three chemical species from least to most polarizable: 1) Methanol; 2) Water; 3) Iodine.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plates is not correctly matched with the general direction it is headed?",
+    "choices": {
+      "W": "African plate, northeast",
+      "X": "Pacific plate, northwest",
+      "Y": "Juan de Fuca plate, northeast",
+      "Z": "Indo-Australian plate, southwest"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three atmospheric boundaries by increasing temperature: 1) Tropopause; 2) Stratopause; 3) Mesopause.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following structures is derived from the mesoderm?",
+    "choices": {
+      "W": "Liver",
+      "X": "Tooth Enamel",
+      "Y": "Heart",
+      "Z": "Cornea"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "At the end of gastrulation in human embryos, how many extraembryonic membranes are present?",
+    "answer": "4"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In base SI units, the wavenumber has units of:",
+    "choices": {
+      "W": "Meters",
+      "X": "Inverse meters",
+      "Y": "Seconds",
+      "Z": "Inverse seconds"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true in the context of special relativity?",
+    "choices": {
+      "W": "Information is limited by the speed of light",
+      "X": "Time passes slower for one moving at $0.2c$ compared to a stationary observer on Earth",
+      "Y": "Relativistic effects are consistent in local models of the Universe",
+      "Z": "Relative velocities of two objects can be summed to find total individual velocities"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Order the following three types of UV radiation in order of least to most damaging to viruses: 1) UV-A; 2) UV-B; 3) UV-C.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Many terrorist organizations have attempted to create strains of the bubonic plague for use on civilian populations. This plague is caused by which bacterial organism?",
+    "answer": "Yersinia pestis"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A polynomial function goes towards negative infinity as x approaches negative infinity, and goes towards positive infinity as x approaches positive infinity. Which of the following cannot be the degree of the polynomial?",
+    "choices": {
+      "W": "5",
+      "X": "7",
+      "Y": "8",
+      "Z": "9"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit of $n \\n (1 + \\rac{1}{n})$ [n times the natural log of the quantity 1 plus 1 over n] as n goes to infinity?",
+    "answer": "1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What experimental technique should be used to determine the stoichiometry of a metal sulfate hydrate that has been slowly heated over a measuring scale?",
+    "choices": {
+      "W": "Chromatography",
+      "X": "Gravimetry",
+      "Y": "Mass spectrometry",
+      "Z": "X-ray diffraction"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three iodine-containing species that can be both oxidized and reduced: 1) Periodic acid; 2) Hydroiodic acid; 3) Potassium triiodide.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three planets in our solar system that are thought to have a metallic component in their core: 1) Mars; 2) Jupiter; 3) Saturn.",
+    "answer": "All"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Betelgeuse is a very red star that is classified as M1, with a temperature around 3500 Kelvin. Identify all of the following three spectral lines that Betelgeuse would strongly exhibit: 1) Ionized helium; 2) Hydrogen; 3) Iron oxide.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the slow block to polyspermy in sea urchins, activation of the receptor triggers the IP3 DAG cascade, causing the release of calcium from which organelle?",
+    "answer": "Endoplasmic reticulum"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What phylum does the causative agent of malaria belong to?",
+    "answer": "Apicomplexans"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The momentum versus position graph of a spring-block system undergoing simple harmonic motion will take on which of the following shapes?",
+    "choices": {
+      "W": "Ellipse",
+      "X": "Parabola",
+      "Y": "Spiral",
+      "Z": "Cardioid"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "To the nearest power of 10, what is the de Broglie wavelength of a particle with a mass of $3 \\dot 10^{-5} \\athrm{kg}$ moving at a speed of $2 \\dot 10^{4} \\athrm{meters per second}$?",
+    "choices": {
+      "W": "$10^{-23}$",
+      "X": "$10^{-24}$",
+      "Y": "$10^{-33}$",
+      "Z": "$10^{-34}$"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Tuberculosis and leprosy are both caused by what genus of bacteria?",
+    "answer": "Mycobacterium"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "In many nuclear reactions, Xenon-135 is added because it has a high neutron absorption cross-section. What is the likely function of Xenon-135?",
+    "choices": {
+      "W": "Neutron howitzer",
+      "X": "Neutron moderator",
+      "Y": "Neutron source",
+      "Z": "Neutron poison"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "For which of the following types of functions will Euler's method always produce an underestimate of the function's actual value?",
+    "choices": {
+      "W": "Increasing",
+      "X": "Decreasing",
+      "Y": "Concave up",
+      "Z": "Concave down"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let a function $f(n)$ be defined as the remainder when $n$ is divided by the ceiling of $\\rac{n}{2}$. What is the sum of $f(n)$ for all integers $n$ between 1 and 30 inclusive?",
+    "answer": "105"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A 0.1 molar solution containing which of the following ions should be used to selectively precipitate silver from a mixture of $\\athrm{Ag^{+}}$, $\\athrm{Cu^{2+}}$, $\\athrm{Ba^{2+}}$, and $\\athrm{Li^{+}}$ ions?",
+    "choices": {
+      "W": "Sulfide",
+      "X": "Sulfate",
+      "Y": "Fluoride",
+      "Z": "Chloride"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Given that the molar mass of calcium is 40 grams per mole and that of bromine is 80 grams per mole, how many grams of bromine are produced from the electrolysis of molten calcium bromide by a 9.6-ampere current for 1000 seconds?",
+    "choices": {
+      "W": "4",
+      "X": "8",
+      "Y": "16",
+      "Z": "32"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What mineral is the primary ore of zinc?",
+    "answer": "Sphalerite"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three ions by increasing quantity in seawater: 1) Sodium; 2) Chloride; 3) Magnesium.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would result in an increase in the glomerular filtration rate?",
+    "choices": {
+      "W": "Increase in blood osmolarity",
+      "X": "Increase in blood pressure",
+      "Y": "Dilation of the efferent arteriole",
+      "Z": "Contraction of the afferent arteriole"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three processes that occur when rod cells are exposed to light: 1) Opening of $\\athrm{Na+}$ channels; 2) Membrane hyperpolarization; 3) Glutamate release.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The momentum of relativistic photons is proportional to what power of the photon's energy?",
+    "answer": "1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of radiation charged particles may emit due to strong gravitational and magnetic fields: 1) Bremsstrahlung; 2) Cyclotron; 3) Synchrotron.",
+    "answer": "All"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "What term describes studies of vaccines and pharmaceuticals in which human subjects are intentionally exposed to the diseases that the medicines aim to treat?",
+    "choices": {
+      "W": "Efficacy trial",
+      "X": "Controlled trial",
+      "Y": "Phase III trial",
+      "Z": "Challenge trial"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "In microbiology, what type of research focuses on adding new capabilities to bacteria or viruses?",
+    "answer": "Gain-of-function"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many two-digit base seven numbers exist such that their base ten representation is a palindrome?",
+    "answer": "6"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The fraction $\\rac{\\os^2(x) - \\in^2(x)}{1 - \\tan^2(x)}$ [the fraction with numerator cosine squared of x minus sine squared of x and denominator one minus tangent squared of x] can be simplified to what simpler trigonometric expression?",
+    "choices": {
+      "W": "$\\in (x)$",
+      "X": "$\\os (x)$",
+      "Y": "$\\in^2 (x)$",
+      "Z": "$\\os^2 (x)$"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds has the highest pKa?",
+    "choices": {
+      "W": "Acetic acid",
+      "X": "Phenol",
+      "Y": "Methanol",
+      "Z": "1-propane thiol"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three acids that have two equivalence points in their titration curve when titrated against sodium hydroxide: 1) Oxalic acid; 2) Sulfuric acid; 3) Hydrogen cyanide.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements regarding current cosmic expansion that are NOT true: 1) Expansion appears faster the further away from the observer; 2) Expansion is completely localized to voids; 3) Expansion is hindered by gravity.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why neutrinos produced by the Sun would be the best way to observe the state of fusion?",
+    "choices": {
+      "W": "Neutrinos have a mean free path greater than that of photons",
+      "X": "Neutrinos have a mean free path less than that of photons",
+      "Y": "Neutrinos are affected by cosmic redshift, whereas photons are not",
+      "Z": "Neutrinos are not affected by cosmic redshift, whereas photons are"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Dr. Tyler diagnoses a patient and isolates the causative agent of the disease. He notes that the causative agent does not contain peptidoglycan. Which of the following diseases does the patient definitely NOT have?",
+    "choices": {
+      "W": "Chlamydia",
+      "X": "Flu",
+      "Y": "Malaria",
+      "Z": "Syphilis"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three pigments by increasing distance traveled during paper chromatography using a nonpolar mobile phase: 1) Chlorophyll A; 2) Chlorophyll B; 3) Beta-Carotene.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following circuit components would you most likely find a P-N junction?",
+    "choices": {
+      "W": "Oscillator",
+      "X": "Capacitor",
+      "Y": "Switch",
+      "Z": "Diode"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A star with luminosity $L$ and temperature $T$ is being observed. If the star were to suddenly shrink by a factor of 5, then in terms of $T$, what would need to be the new temperature of the star to keep its overall luminosity the same?",
+    "answer": "$\\qrt{5} T$"
+  }
+]

@@ -1,0 +1,66 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes W and Z particles:",
+    "choices": {
+      "W": "a subgroup of leptons",
+      "X": "a subgroup of hadrons",
+      "Y": "Gauge bosons",
+      "Z": "particles with a spin of 1/2"
+    },
+    "answer": "Y) GAUGE BOSONS"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Assuming $g = 32$ feet/sec $^2$, what is the velocity of a free falling object, falling from rest, after falling 256 feet?",
+    "answer": "128 FEET/SEC"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following will give the best 3-D resolution of a live protozoan:",
+    "choices": {
+      "W": "bright field microscopy",
+      "X": "scanning electron microscopy",
+      "Y": "Normarsky microscopy",
+      "Z": "transmission electron microscopy"
+    },
+    "answer": "Y) NORMARSKY MICROSCOPY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The endocardium is made up of what specific type of cells:",
+    "answer": "ENDOTHELIAL CELLS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Of the following, which is the most powerful tool available for the structure determination of organic molecules:",
+    "choices": {
+      "W": "gas liquid chromatography",
+      "X": "mass spectrometry",
+      "Y": "NMR spectroscopy",
+      "Z": "high pressure liquid chromatography"
+    },
+    "answer": "Y) NMR SPECTROSCOPY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Heating an alcohol in the presence of an acid catalyst, whereby alcohol molecules join by splitting out

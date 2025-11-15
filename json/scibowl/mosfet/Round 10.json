@@ -1,0 +1,479 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A 4-kilogram particle has a momentum of 10 kilogram-meters per second. In joules, what is its kinetic energy?",
+    "choices": {
+      "W": "6.25",
+      "X": "12.5",
+      "Y": "25",
+      "Z": "100"
+    },
+    "answer": "12.5"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A neutron consists of which of the following combinations of quarks?",
+    "choices": {
+      "W": "3 up",
+      "X": "2 up and 1 down",
+      "Y": "1 up and 2 down",
+      "Z": "3 down"
+    },
+    "answer": "1 UP AND 2 DOWN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Indoleacetic acid is the most common example of what class of plant hormones, whose functions include promoting the elongation of coleoptiles and stimulating elongation in young shoots?",
+    "answer": "AUXINS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of Gram positive bacteria: 1) They have a thicker cell wall than gram negative bacteria; 2) They are surrounded by a double membrane; 3) E. coli is a gram positive bacteria.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In order for matter to be transferred from one star’s Roche lobe to another, what point must the matter pass through?",
+    "answer": "LAGRANGE POINT"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes Cordilleran-type mountain building?",
+    "choices": {
+      "W": "Two continental plates collide causing uplift",
+      "X": "An oceanic plate subducts beneath a continental plate, forming a chain of volcanic mountains",
+      "Y": "Volcanic island arcs and other pieces of crust accrete onto a continent",
+      "Z": "An oceanic plate subducts under another oceanic plate creating a chain of volcanic islands"
+    },
+    "answer": "Y) VOLCANIC ISLAND ARCS AND OTHER PIECES OF CRUST ACCRETE ONTO A CONTINENT"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If v is a 3D vector, then which of the following must equal the magnitude of the dot product of v with itself?",
+    "choices": {
+      "W": "0",
+      "X": "The magnitude of v",
+      "Y": "The square of the magnitude of v",
+      "Z": "The negative of the square of the magnitude of v"
+    },
+    "answer": "THE SQUARE OF THE MAGNITUDE OF v"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A point has polar coordinates (6, $5\\i /6$). What are the cartesian coordinates for this point?",
+    "answer": "(-3\\qrt{3}, 3)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases is paramagnetic?",
+    "choices": {
+      "W": "$\\athrm{N}_{2}$",
+      "X": "$\\athrm{O}_{2}$",
+      "Y": "$\\athrm{F}_{2}$",
+      "Z": "$\\athrm{Ne}$"
+    },
+    "answer": "$\\athrm{O}_{2}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "If the distance between two stationary dipoles is doubled, by what factor is the potential energy between the two dipoles multiplied?",
+    "answer": "1/8"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at North Central College are studying allotropes of carbon as part of their research in computational materials science. How many carbon atoms are in one molecule of buckminsterfullerene?",
+    "choices": {
+      "W": "12",
+      "X": "20",
+      "Y": "30",
+      "Z": "60"
+    },
+    "answer": "60"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the Institute for Higher Energy Physics and Astrophysics at UF are studying low energy neutrinos emitted by the decay of certain particles. These particles belong to what class of particles, which consist of a quark-antiquark pair and include pions?",
+    "answer": "MESONS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When an external magnetic field is applied perpendicularly to a conductor carrying electrical current, a potential difference is created, which can be used to determine the sign of charge carriers. What is the name of this effect?",
+    "answer": "HALL EFFECT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A circuit at steady-state contains a 6-volt battery, a 2-ohm resistor, and a 4-henry inductor in series. In joules, how much energy is stored in the inductor?",
+    "answer": "18 JOULES"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What monomeric protein, which has a higher affinity for oxygen than hemoglobin, allows for muscle cells to efficiently extract and store oxygen from the blood?",
+    "answer": "MYOGLOBIN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the differences between a temperate and a virulent virus?",
+    "choices": {
+      "W": "Phages that replicate through only the lytic cycle are temperate, while phages that replicate through both the lytic and lysogenic cycles are virulent",
+      "X": "Phages that replicate through only the lysogenic cycle are temperate, while phages that replicate through both the lytic and lysogenic cycles are virulent",
+      "Y": "Phages that replicate through only the lysogenic cycle are virulent, while phages that replicate through both the lytic and lysogenic cycles are temperate.",
+      "Z": "Phages that replicate through only the lytic cycle are virulent, while phages that replicate through both the lytic and lysogenic cycles are temperate."
+    },
+    "answer": "Z) PHAGES THAT REPLICATE THROUGH ONLY THE LYTHIC CYCLE ARE VIRULENT, WHILE PHAGES THAT REPLICATE THROUGH BOTH THE LYTHIC AND LYSOGENIC CYCLES ARE TEMPERATE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In what constellation can radio emission from the supermassive black hole at the center of the Milky Way be found?",
+    "answer": "SAGITTARIUS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A very sensitive seismogram lies exactly antipodal to the epicenter of an earthquake. Which of the following types of body waves does the seismogram detect?",
+    "choices": {
+      "W": "Neither P nor S waves",
+      "X": "P waves only",
+      "Y": "S waves only",
+      "Z": "Both P and S waves"
+    },
+    "answer": "X) P WAVES ONLY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If 1 apple and 2 oranges costs 5 dollars, and 4 apples and 2 oranges costs 14 dollars, then in dollars, what is the combined price of 1 apple and 1 orange?",
+    "answer": "4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the largest integer value of n such that $3^{n}$ divides 100 factorial?",
+    "answer": "48"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following models describes a quantum mechanical system that models a particle trapped in an infinite well?",
+    "choices": {
+      "W": "Particle in a box",
+      "X": "Rigid rotor",
+      "Y": "Quantum harmonic oscillator",
+      "Z": "Hydrogen atom"
+    },
+    "answer": "PARTICLE IN A BOX"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What type of spectroscopy measures the change in dipole moment a molecule undergoes upon stretching, where signals are often reported in terms of their \strength\ and wavenumber?",
+    "answer": "INFRARED SPECTROSCOPY"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the Pierre Auger Observatory at the University of Chicago are studying high energy particles that shower down on Earth. What is the name of these high energy particles that travel near the speed of light and are often composed of protons and atomic nuclei?",
+    "answer": "COSMIC RAYS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Denard lab at the University of Florida are studying the various cellular enzymes for use in therapeutics. What equation is used to determine the reaction rate of an enzyme catalyzed reaction based on initial enzyme and substrate concentration?",
+    "answer": "MICHAELIS-MENTEN EQUATION"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following particles has the LEAST penetrating power?",
+    "choices": {
+      "W": "Proton",
+      "X": "Gamma ray",
+      "Y": "Neutrino",
+      "Z": "Alpha particle"
+    },
+    "answer": "ALPHA PARTICLE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities, that when doubled, will quadruple the average power of a wave on a string: 1) Wave speed; 2) Wave amplitude; 3) Linear density",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Nociceptors are a class of sensory receptors that all detect what type of sensation?",
+    "answer": "PAIN"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three traits that all chordates have: 1) Backbone; 2) Pharyngeal slits; 3) Bilateral symmetry.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following sediments erodes at the lowest stream velocity?",
+    "choices": {
+      "W": "Clay",
+      "X": "Silt",
+      "Y": "Sand",
+      "Z": "Gravel"
+    },
+    "answer": "SAND"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true about siliceous ooze in the ocean?",
+    "choices": {
+      "W": "Always unsaturated, dissolves better at high temperatures",
+      "X": "Always unsaturated, dissolves better at low temperatures",
+      "Y": "Always saturated, dissolves better at high temperatures",
+      "Z": "Always saturated, dissolves better at low temperatures"
+    },
+    "answer": "ALWAYS UNSATURATED, DISSOLVES BETTER AT HIGH TEMPERATURES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the length of the space diagonal of a rectangular prism with side lengths of 2, 4, and 7.",
+    "answer": "$\\qrt{69}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A 2x2 matrix has first row 3, $x$, and second row $x$, 5. If the determinant of the matrix is 11, then find all possible values of $x$.",
+    "answer": "-2 AND 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What type of organometallic reagent is prepared by adding magnesium turnings to a solution of an alkyl halide in an inert solvent such as THF at low temperatures?",
+    "answer": "GRIGNARD REAGENT"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true about the hydroboration oxidation reaction of an alkene?",
+    "choices": {
+      "W": "It is an anti-markovnikov addition",
+      "X": "It forms an alcohol",
+      "Y": "It is a substitution reaction",
+      "Z": "It is a syn reaction"
+    },
+    "answer": "IT IS A SUBSTITUTION REACTION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at UW Madison are researching reactions that have intramolecular allene amidation. Allenes are considered part of which of the following classes of compounds?",
+    "choices": {
+      "W": "Alkane",
+      "X": "Alkene",
+      "Y": "Alkyn e",
+      "Z": "Aziridine"
+    },
+    "answer": "ALKENE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the University of Chicago are analyzing limited DNA segments from different organisms in order to construct hypothetical phylogenetic trees. What principle states that the phylogenetic tree that requires the fewest character-state changes is the most likely tree?",
+    "answer": "MAXIMUM PARSIMONY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following combinations of resistors in parallel has the highest effective resistance?",
+    "choices": {
+      "W": "2 ohms and 3 ohms",
+      "X": "1 ohm and 4 ohms",
+      "Y": "5 ohms and 5 ohms",
+      "Z": "3 ohms and 6 ohms"
+    },
+    "answer": "5 OHMS AND 5 OHMS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An object, starting at surface level, needs a velocity of 100 kilometers per second to escape Planet A’s gravitational field. The object is then taken to the surface of Planet B, which has the same density but double the radius of Planet A. What is the escape velocity on Planet B, in kilometers per second?",
+    "answer": "200"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of epithelial tissue are found in the air sacs of the lungs, allowing for quick diffusion of gas?",
+    "choices": {
+      "W": "Simple columnar",
+      "X": "Simple squamous",
+      "Y": "Stratified squamous",
+      "Z": "Pseudostratified columnar"
+    },
+    "answer": "SIMPLE SQUAMOUS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Suppose that pea plants follow simple Mendelian genetics. Suppose pea plants have two traits: pea shape, where smooth peas are dominant, and flower color, where purple is dominant. If a pea plant with white flowers and wrinkled peas is crossed with a pea plant heterozygous for both traits, then what proportion of the offspring would one expect to be homozygous for both traits?",
+    "answer": "1/4"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In general, the luminosity of a main sequence star is proportional to what power of its mass?",
+    "answer": "3.5"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Three beds of rock are present at a single location. Bed A cuts across both Bed B and Bed C, and Bed C contains inclusions of Bed B. Order the three beds from first to last to form: 1) Bed A; 2) Bed B; 3) Bed C.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true of the function $\\athrm{f}(x) = \\athrm{e}^{x}$?",
+    "choices": {
+      "W": "It is odd",
+      "X": "It is always concave up",
+      "Y": "It has a point of inflection at (0,1)",
+      "Z": "It has a horizontal asymptote at $y = 1$ as $x$ approaches negative infinity"
+    },
+    "answer": "IT IS ALWAYS CONCAVE UP"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the cross product of the vectors $3\\athrm{i} - \\athrm{k}$ and $2\\athrm{i} + 3\\athrm{k}$?",
+    "answer": "$-11\\athrm{j}$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A 5d orbital CANNOT have which of the following values for its magnetic quantum number?",
+    "choices": {
+      "W": "-2",
+      "X": "0",
+      "Y": "1",
+      "Z": "3"
+    },
+    "answer": "3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What approximation used in the kinetics of multistep reactions assumes that the concentrations of intermediates remain low and relatively constant?",
+    "answer": "STEADY-STATE APPROXIMATION"
+  }
+]

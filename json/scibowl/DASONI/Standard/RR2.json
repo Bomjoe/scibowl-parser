@@ -1,0 +1,455 @@
+Failure:
+[
+  {
+ "question_number":1,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "Identify all of the following three enzymes that are used in both DNA replication and transcription:1) Helicase2) Ligase3) Topoisomerase",
+ "answer": "1 AND3 (ACCEPT: HELICASE AND TOPOISOMERASE)"
+ },
+ {
+ "question_number":1,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "Which component of the eukaryotic cytoskeleton is associated with the motor protein dynein [DIE-nee-in]?",
+ "answer": "MICROTUBULES"
+ },
+ {
+ "question_number":2,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "A solution at $25^{\irc}\athrm{C}$ has a hydrogen ion concentration100 times greater than its hydroxide ion concentration. What is the pH of this solution?",
+ "answer": "6"
+ },
+ {
+ "question_number":2,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following sets of quantum numbers is not allowed in the ground state of antimony, located in period five of the periodic table?",
+ "choices": {
+ "W": "N equals4, L equals2, M sub L equals1",
+ "X": "N equals5, L equals1, M sub L equals -1",
+ "Y": "N equals2, L equals0, M sub L equals0",
+ "Z": "N equals3, L equals3, M sub L equals -2"
+ },
+ "answer": "Z) N EQUALS3, L EQUALS3, M SUB L EQUALS -2"
+ },
+ {
+ "question_number":3,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "What is the name for the fusion cycle common in stars greater than1.3 solar masses where protons fuse with isotopes of three heavier elements before the production of helium and regeneration of the first intermediate?",
+ "answer": "CNO CYCLE (ACCEPT: BETHE-WEIZSACKER CYCLE)"
+ },
+ {
+ "question_number":3,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "What is the name of the point where the solar wind is no longer strong enough to travel through the interstellar medium?",
+ "answer": "HELIOPAUSE"
+ },
+ {
+ "question_number":4,
+ "question_type": "tossup",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "For a \research project\, Sophie goes to500 different ice cream shops. At each one, she orders vanilla ice cream, and then rolls a die for each of the20 toppings, getting it if she rolls a6. What is the expected mode number of toppings?",
+ "answer": "3"
+ },
+ {
+ "question_number":4,
+ "question_type": "bonus",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "Julian and Melody, along with8 other of their classmates, get in a line randomly. What is the probability the two are next to each other?",
+ "answer": "1/5"
+ },
+ {
+ "question_number":5,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following best describes the electric field distribution in a charged conductor?",
+ "choices": {
+ "W": "Decreases linearly from center",
+ "X": "Decreases quadratically from center",
+ "Y": "Stays zero throughout the interior",
+ "Z": "Stays a constant, nonzero value throughout the interior"
+ },
+ "answer": "Y) STAYS ZERO THROUGHOUT THE INTERIOR"
+ },
+ {
+ "question_number":5,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "A satellite orbiting a planet in a circular orbit constantly undergoes gravitation acceleration. Identify all of the following four factors that affect the magnitude of the acceleration:1) Velocity of satellite2) Mass of planet3) Radius of orbit4) Mass of satellite",
+ "answer": "2 AND3 (ACCEPT: MASS OF PLANET, RADIUS OF ORBIT)"
+ },
+ {
+ "question_number":6,
+ "question_type": "tossup",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "Davidson MS B Team members are studying solar system objects and their histories. As the planet Mercury formed, it underwent one, possibly two, periods of heavy bombardment by comets and asteroids, leading to the presence of multiple large impact basins. What is the name of the largest of Mercury's impact basins?",
+ "answer": "CALORIS BASIN"
+ },
+ {
+ "question_number":6,
+ "question_type": "bonus",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "Davidson HS A Team members are studying languages that don't have a base10 number system. In ancient Mesoamerica, the Mayans used a base20 system with a combination of three kinds of symbols to represent each digit. A dot meant one, a line meant five, and a shell served as zero. How many shells, dots, and lines, respectively, are contained in the Mayan representation of the base ten number378?",
+ "answer": "ZERO, SIX, SIX"
+ },
+ {
+ "question_number":7,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "What is the fundamental structural and functional unit of the kidneys?",
+ "answer": "NEPHRON"
+ },
+ {
+ "question_number":7,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "Identify all of the following three digestive enzymes that would produce glucose as a product:1) Chymotrypsin [kve-mo-TRIP-sin]2) Lactase3) Lipase",
+ "answer": "2 ONLY (ACCEPT: LACTASE)"
+ },
+ {
+ "question_number":8,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following graphs would be linear?",
+ "choices": {
+ "W": "Plotting concentration versus time for a first order reaction",
+ "X": "Plotting the natural log of concentration versus time for a first order reaction",
+ "Y": "Plotting concentration versus time for a second order reaction",
+ "Z": "Plotting the natural log of concentration versus time for a second order reaction"
+ },
+ "answer": "X) PLOTTING THE NATURAL LOG OF CONCENTRATION VERSUS TIME FOR A FIRST ORDER REACTION"
+ },
+ {
+ "question_number":8,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "By name or number, order the following threeionic salts in order of decreasing lattice energy:1) Sodium chloride2) Potassium chloride3) Magnesium oxide",
+ "answer": "3,1,2 (ACCEPT: MAGNESIUM OXIDE, SODIUM CHLORIDE, POTASSIUM CHLORIDE)"
+ },
+ {
+ "question_number":9,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "Given a wind coming from the northeast,45 degrees from true north, what will be the direction of the resulting Ekman transport, with respect to true north, in the Northern hemisphere?",
+ "answer": "45 DEGREES WEST OF TRUE NORTH (ACCEPT:45 DEGREES NORTHWEST)"
+ },
+ {
+ "question_number":9,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "What is the name of the deposits of unsorted and unlayered till found specifically at the sides of a glacier?",
+ "answer": "LATERAL MORAINE (DO NOT ACCEPT: MORAINE)"
+ },
+ {
+ "question_number":10,
+ "question_type": "tossup",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "What is the length of the short base of a trapezoid with a long base of13, a side length of13, and a height of12.",
+ "answer": "3"
+ },
+ {
+ "question_number":10,
+ "question_type": "bonus",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "What is the quantity one plus i end quantity raised to the sixth power?",
+ "answer": "-8i"
+ },
+ {
+ "question_number":11,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "What is the SI unit for the strength of a magnetic field?",
+ "answer": "TESLA"
+ },
+ {
+ "question_number":11,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "A4 kilogram block is placed at the top of a40 meter long ramp that is inclined30 degrees from the horizontal. Treating the acceleration due to gravity as ten meters per second squared, how long, in seconds, does it take for the block to slide to the bottom of the ramp?",
+ "answer": "4"
+ },
+ {
+ "question_number":12,
+ "question_type": "tossup",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "Davidson HS B team members are studying evolution and natural selection. What type of selection is exhibited by the black-bellied seedcracker, a species of bird where individuals with small beaks or large beaks are evolutionarily favored, while individuals with medium beaks are not?",
+ "answer": "DISRUPTIVE (ACCEPT: DIVERSIFYING)"
+ },
+ {
+ "question_number":12,
+ "question_type": "bonus",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "Davidson HS A team members are studying the properties of transition metals. Identify all of the following three transition metals you would expect to form ions in the $+3$ oxidation state:1) Iron2) Zinc3) Cobalt",
+ "answer": "1 AND3 (ACCEPT: IRON AND COBALT)"
+ },
+ {
+ "question_number":13,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following interspecific interactions does not benefit either species?",
+ "choices": {
+ "W": "Mutualism",
+ "X": "Commensalism [kuh-MEN-suh-lih-zim]",
+ "Y": "Ammensalism [uh-MEN-suh-lih-zim]",
+ "Z": "Predation"
+ },
+ "answer": "Y) AMMENSALISM"
+ },
+ {
+ "question_number":13,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "In what type of survivorship is death rate independent of age?",
+ "answer": "TYPE II"
+ },
+ {
+ "question_number":14,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "By name or number, identify all of the following three compounds that are polar:1) Sulfur tetrafluoride2) Sulfur hexafluoride3) Sulfur dioxide",
+ "answer": "1 AND3 (ACCEPT: SULFUR TETRAFLUORIDE AND SULFUR DIOXIDE)"
+ },
+ {
+ "question_number":14,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "If half a liter of0.5 molar phosphoric acid is titrated with one liter of a sodium hydroxide solution, what is the molarity of the sodium hydroxide solution, to two significant figures?",
+ "answer": "0.75"
+ },
+ {
+ "question_number":15,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "What are the names for the pointer stars in the Big Dipper that are often used to locate Polaris?",
+ "answer": "MERAK AND DUBHE [DOOB-huh]"
+ },
+ {
+ "question_number":15,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "short_answer",
+ "body": "Order the following three eons from most recent to oldest:1) Hadean2) Archean [are-KEY-in]3) Phanerozoic [fan-er-oh-ZO-ic]",
+ "answer": "3,2,1 (ACCEPT: PHANEROZOIC, ARCHEAN, HADEAN)"
+ },
+ {
+ "question_number":16,
+ "question_type": "tossup",
+ "category": "math",
+ "answer_type": "short_answer",
+ "body": "Determine the sum of the integers from10 to40 inclusive.",
+ "answer": "775"
+ },
+ {
+ "question_number":16,
+ "question_type": "bonus",
+ "category": "math",
+ "answer_type": "multiple_choice",
+ "body": "Alan has a list of every integer power of4. He adds the reciprocal of each number on his list. What sum does he get?",
+ "choices": {
+ "W": "1/3",
+ "X": "4/3",
+ "Y": "2",
+ "Z": "Infinity"
+ },
+ "answer": "X)4/3"
+ },
+ {
+ "question_number":17,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "A ball is attached to the edge of an initially rotating disk. The disk undergoes a constant, nonzero angular acceleration. Which of the following directions cannot describe the ball's acceleration vector?",
+ "choices": {
+ "W": "With a component in the direction of tangential velocity and a component pointing towards the center",
+ "X": "With a component opposite the direction of tangential velocity and a component pointing towards the center",
+ "Y": "Having a magnitude greater than the magnitude of its tangential acceleration",
+ "Z": "Pointing directly towards the center of the disk"
+ },
+ "answer": "Z) POINTING DIRECTLY TOWARDS THE CENTER OF THE DISK"
+ },
+ {
+ "question_number":17,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following is true about magnetic fields?",
+ "choices": {
+ "W": "Unlike electric fields, magnetic fields only attract other magnetic fields, not repel",
+ "X": "Changing magnetic fields can change the current through a wire",
+ "Y": "Magnetic field line always point away from magnets",
+ "Z": "Magnetic fields drop with the cube of distance"
+ },
+ "answer": "X) CHANGING MAGNETIC FIELDS CAN CHANGE THE CURRENT THROUGH A WIRE"
+ },
+ {
+ "question_number":18,
+ "question_type": "tossup",
+ "category": "energy",
+ "answer_type": "multiple_choice",
+ "body": "Davidson HS A Team Members are studying particle physics. Which of the following particles is a fermion?",
+ "choices": {
+ "W": "Photon",
+ "X": "Muon [MEW-on]",
+ "Y": "Gluon",
+ "Z": "Higgs"
+ },
+ "answer": "X) MUON"
+ },
+ {
+ "question_number":18,
+ "question_type": "bonus",
+ "category": "energy",
+ "answer_type": "short_answer",
+ "body": "Davidson MS C Team members are currently studying atmospheric convective cells. At the intersection of the Hadley and the Ferrel cells, the sinking of warming air leads to increased evaporation and the formation of deserts. At what degree of latitude does this take place?",
+ "answer": "30 DEGREES (ACCEPT:30 DEGREES NORTH AND SOUTH)"
+ },
+ {
+ "question_number":19,
+ "question_type": "tossup",
+ "category": "biology",
+ "answer_type": "multiple_choice",
+ "body": "What layer of cells is found just inside of the endodermis and is the formation site of lateral roots?",
+ "choices": {
+ "W": "Pericycle",
+ "X": "Procambium",
+ "Y": "Ground meristem",
+ "Z": "Pith"
+ },
+ "answer": "W) PERICYCLEC"
+ },
+ {
+ "question_number":19,
+ "question_type": "bonus",
+ "category": "biology",
+ "answer_type": "short_answer",
+ "body": "What enzyme, used in $C_4$ and CAM plants to limit photorespiration, has a much higher affinity for $CO_2$ than RuBisCO?",
+ "answer": "PEP CARBOXYLASE"
+ },
+ {
+ "question_number":20,
+ "question_type": "tossup",
+ "category": "chemistry",
+ "answer_type": "short_answer",
+ "body": "Which law of thermodynamics states that the entropy of the universe will always increase?",
+ "answer": "SECOND LAW"
+ },
+ {
+ "question_number":20,
+ "question_type": "bonus",
+ "category": "chemistry",
+ "answer_type": "multiple_choice",
+ "body": "What are the molecular and electron domain geometries, respectively, of ammonia?",
+ "choices": {
+ "W": "Tetrahedral, trigonal bipyramidal",
+ "X": "Tetrahedral, trigonal pyramidal",
+ "Y": "Trigonal bipyramidal, tetrahedral",
+ "Z": "Trigonal pyramidal, tetrahedral"
+ },
+ "answer": "Z) TRIGONAL PYRAMIDAL, TETRAHEDRAL"
+ },
+ {
+ "question_number":21,
+ "question_type": "tossup",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "Which of the following mineral groups is most common in the Earth's crust?",
+ "choices": {
+ "W": "Sulfate",
+ "X": "Silicate",
+ "Y": "Oxide",
+ "Z": "Carbonate"
+ },
+ "answer": "X) SILICATE"
+ },
+ {
+ "question_number":21,
+ "question_type": "bonus",
+ "category": "earth_and_space",
+ "answer_type": "multiple_choice",
+ "body": "In which of the following ocean zones would you most likely find infauna?",
+ "choices": {
+ "W": "Epipelagic",
+ "X": "Mesopelagic",
+ "Y": "Benthic",
+ "Z": "Photic"
+ },
+ "answer": "Y) BENTHIC"
+ },
+ {
+ "question_number":22,
+ "question_type": "tossup",
+ "category": "math",
+ "answer_type": "multiple_choice",
+ "body": "Determine the number of zeros after the last nonzero digit of30!.",
+ "choices": {
+ "W": "4",
+ "X": "5",
+ "Y": "6",
+ "Z": "7"
+ },
+ "answer": "Z)7"
+ },
+ {
+ "question_number":22,
+ "question_type": "bonus",
+ "category": "math",
+ "answer_type": "multiple_choice",
+ "body": "5% of the population is positive for COVID-19, and COVID tests have a1% false positive rate. If a person tests positive for COVID, which of the following is closest to the probability that they actually contracted the virus?",
+ "choices": {
+ "W": "65%",
+ "X": "75%",
+ "Y": "85%",
+ "Z": "95%"
+ },
+ "answer": "Y)85%"
+ },
+ {
+ "question_number":23,
+ "question_type": "tossup",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "Which famous physicist predicted the existence of antimatter with his namesake equation?",
+ "answer": "DIRAC (ACCEPT: PAUL DIRAC)"
+ },
+ {
+ "question_number":23,
+ "question_type": "bonus",
+ "category": "physics",
+ "answer_type": "short_answer",
+ "body": "Given the speed of light as three times ten to the eighth meters per second, what is the frequency in Hertz, to two significant figures and in scientific notation, of an orange photon with a wavelength of6.0 times ten to the second power nanometers?",
+ "answer": "$5.0 \\times10^{14}$ HERTZ"
+ }
+]

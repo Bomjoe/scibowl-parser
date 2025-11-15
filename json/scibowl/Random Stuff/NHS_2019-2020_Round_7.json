@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that must remain constant for Gibbs free energy to equal the maximum nonexpansion work of a system: 1) Volume; 2) Temperature; 3) Pressure.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What laboratory technique produces results complementary to IR spectroscopy and can be used to determine the vibrational modes of compounds?",
+    "answer": "RAMAN SPECTROSCOPY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball is launched from the ground at a 15 degree angle from the horizontal with an initial velocity of 20 meters per second. Taking the acceleration due to gravity to be 10 meters per second squared, how far, in meters, does the ball travel?",
+    "answer": "20"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding quarks: 1) They are leptons; 2) They are fermions; 3) They possess both electric charge and color charge.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A plant that has two leaves per node would have which phyllotaxy?",
+    "choices": {
+      "W": "Alternate",
+      "X": "Opposite",
+      "Y": "Whorled",
+      "Z": "Spiral"
+    },
+    "answer": "X) OPPOSITE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What type of enzyme is responsible for randomly linking a variable segment with a joining segment in the production of the light chain of antibodies?",
+    "answer": "RECOMBINASE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following has $-4x^2$ as an antiderivative with respect to $x$?",
+    "choices": {
+      "W": "-8x",
+      "X": "8x",
+      "Y": "4 / 3x^3",
+      "Z": "-4 / 3x^3"
+    },
+    "answer": "W) $-8x$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The altitude of a right triangle splits the hypotenuse into two segments of lengths 1 and 3. In degrees, what is the smallest angle of the triangle?",
+    "answer": "30"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three changes to a mass of lava that would increase its viscosity: 1) Increasing its temperature; 2) Increasing its silica content; 3) Decreasing its dissolved gas content.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What petrological series dictates that minerals earlier on Bowen's reaction series are generally less stable at Earths' surface that those later on Bowen's reaction series?",
+    "answer": "GOLDICH DISSOLUTION SERIES"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab have recently discovered that methanogens, a type of anaerobic microorganism, are capable of transforming mercury into what debilitating neurotoxin?",
+    "answer": "METHYL MERCURY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Livermore National Lab are studying the effect of cloud formation on global warming trends. Which of the following molecules frequently acts as a cloud condensation nucleus and is produced in large quantities by phytoplankton?",
+    "choices": {
+      "W": "Dichloromethane",
+      "X": "Ammonia",
+      "Y": "Dimethyl sulfide",
+      "Z": "Nitrogen dioxide"
+    },
+    "answer": "Y) DIMETHYL SULFIDE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT an autoimmune disease?",
+    "choices": {
+      "W": "Rheumatoid arthritis",
+      "X": "Type 1 diabetes mellitus",
+      "Y": "Graves' disease",
+      "Z": "Angina pectoris"
+    },
+    "answer": "Z) ANGINA PECTORIS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three enzymes from first to be encountered in the process of protein digestion to last: 1) Chymotrypsin; 2) Salivary amylase; 3) Pepsin.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The point (8, -2) is translated left 4 units, down 2 units, and rotated 270 degrees clockwise about the origin. At what coordinate is the point now located?",
+    "answer": "(4, 4)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the third derivative of a position function can be described by the function $3t$, what is the coefficient on the highest order term in the position function?",
+    "answer": "1/8"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When ethanol is treated with chromium trioxide and sulfuric acid in acetone, which of the following functional groups will most likely be formed?",
+    "choices": {
+      "W": "Ketone",
+      "X": "Aldehyde",
+      "Y": "Carboxylic acid",
+      "Z": "Peroxyacid"
+    },
+    "answer": "Y) CARBOXYLIC ACID"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes the change in allowed energy values of a particle in a “particle in a box” model when the length of the box is INCREASED?",
+    "choices": {
+      "W": "The separation between energy levels decreases",
+      "X": "The separation between energy levels increases",
+      "Y": "The number of energy levels increases",
+      "Z": "The number of energy levels decreases"
+    },
+    "answer": "W) THE SEPARATION BETWEEN ENERGY LEVELS DECREASES"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In fluid mechanics, what partial differential equations describe viscous flow by accounting for parameters such as pressure and temperature?",
+    "answer": "NAVIER-STOKES EQUATIONS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The position vector of a particle is initially $i + 2j + k$ and later is $-2i + 3k$. What is the magnitude of its change in displacement?",
+    "answer": "$\\qrt{17}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The 1980 eruption of Mount St. Helens is best classified as which of the following?",
+    "choices": {
+      "W": "Hawaiian",
+      "X": "Strombolian",
+      "Y": "Plinian",
+      "Z": "Super volcanic"
+    },
+    "answer": "Y) PLINIAN"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for terrestrial exoplanets that are thought to have formed through the stripping away of the outer layers of gas giants?",
+    "answer": "CHTHONIAN PLANET"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three instruments that can be used to measure pressure: 1) Barometer; 2) Anemometer; 3) Manometer.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Deviations from the ideal gas law are measured quantitatively using what value, which is defined as the ratio of the actual molar volume of a gas to that of an ideal gas under the same conditions?",
+    "answer": "COMPRESSION FACTOR"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The process of double fertilization in plants results in what triploid, starch rich tissue?",
+    "answer": "ENDOSPERM"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In which lobe of the cerebral cortex would one find Wernicke’s area, which is responsible for comprehending language?",
+    "answer": "TEMPORAL LOBE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the color charge of an antibaryon?",
+    "answer": "ZERO"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Knowing that RLC circuits and dampened harmonic oscillators are mathematically analogous, what is the analogue of the displacement from the equilibrium position of an oscillator in an RLC circuit?",
+    "choices": {
+      "W": "EMF",
+      "X": "Current",
+      "Y": "Charge stored in the capacitor",
+      "Z": "Time derivative of current through the inductor"
+    },
+    "answer": "Y) CHARGE STORED IN THE CAPACITOR"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the magnitude of the cross product of the vectors $3i + 4j - 2k$ and $9i + 12j - 6k$?",
+    "answer": "ZERO"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the radius and center of the circle with equation $x^{2} - 4x + y^{2} + 3y = 11 / 4$?",
+    "answer": "CENTER: (2, -3/2); RADIUS: 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What class of galaxies, which is intermediate to spiral and elliptical galaxies, has a Hubble classification of S0?",
+    "answer": "LENTICULAR"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metamorphic rocks would NOT be formed from the diagenesis of shale?",
+    "choices": {
+      "W": "Slate",
+      "X": "Phyllite",
+      "Y": "Amphibolite",
+      "Z": "Gneiss"
+    },
+    "answer": "Y) AMPHIBOLITE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are researching a protein that may delay the onset of type 1 diabetes by preventing the death of pancreatic cells. What type of pancreatic cells that produce insulin are usually low in number in individuals with type 1 diabetes?",
+    "answer": "BETA CELLS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Los Alamos National Lab are studying galaxies in the early universe to learn more about the prevalence of active galactic nuclei. What is the name for an active galactic nucleus whose spiral host galaxy is easily identifiable?",
+    "answer": "SEYFERT GALAXY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Ignoring air resistance, identify all of the following three quantities that remain constant when an object is in free-fall: 1) Acceleration; 2) Net force; 3) Velocity.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Through which of the following mediums would sound travel the fastest?",
+    "choices": {
+      "W": "Hydrogen gas",
+      "X": "Air",
+      "Y": "Aluminum",
+      "Z": "Water"
+    },
+    "answer": "Y) ALUMINUM"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three amino acids that are synthesized from oxaloacetate: 1) Alanine; 2) Isoleucine; 3) Methionine.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is FALSE regarding lilies?",
+    "choices": {
+      "W": "They have parallel leaf venation",
+      "X": "They use a taproot system",
+      "Y": "Their vascular tissue is scattered",
+      "Z": "They have six petals"
+    },
+    "answer": "X) THEY USE THE TAPROOT SYSTEM"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The infinite series defined as the sum from $n$ equals 1 to infinity of one over the quantity $n$ times cosine $n$ is which of the following?",
+    "choices": {
+      "W": "Absolutely convergent",
+      "X": "Conditionally convergent",
+      "Y": "Divergent",
+      "Z": "Hyperreal"
+    },
+    "answer": "X) CONDITIONALLY CONVERGENT"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three logarithms that are NOT defined for real numbers: 1) Log base -2 of -8; 2) Log base 10 of 0; 3) Natural log of 1.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When soap is used to clean grease, the hydrophobic tails of soap molecules enter blobs of grease while their hydrophobic tails remain facing outward. What is the name for the structure formed by this process?",
+    "answer": "MICELLE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The solubility of sodium sulfate is known to increase until about 32 degrees Celsius, after which its solubility begins to fall. Which of the following changes is most likely the reason for this observation?",
+    "choices": {
+      "W": "Sodium sulfate reacts with water to form sodium thiosulfate",
+      "X": "Sodium sulfate changes from its decahydrate phase to its anhydrite phase",
+      "Y": "Sodium sulfate's thermal conductivity decreases as temperature rises",
+      "Z": "The Neel temperature of sodium sulfate is 32 degrees Celsius"
+    },
+    "answer": "X) SODIUM SULFATE CHANGES FROM ITS DECAHYDRATE PHASE TO ITS ANHYDRITE PHASE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Livermore National Lab have been studying the blood-brain barrier, which is responsible for regulating the passage of chemicals and other substances from the bloodstream to the brain. What disease causes an inflammation of membranes surrounding the brain and spinal cord, possibly disrupting the blood-brain barrier?",
+    "answer": "MENINGITIS"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Livermore National Lab are investigating how a mutation in the Zika virus may have contributed to its sudden outbreak. Which of the following most accurately describes why RNA viruses are especially prone to mutations?",
+    "choices": {
+      "W": "RNA polymerases that replicate viral genomes have no proofreading mechanisms",
+      "X": "RNA polymerases are less accurate than DNA polymerases",
+      "Y": "RNA is often modified when it is integrated into the host's genome",
+      "Z": "RNA must first be transcribed into cDNA in order to produce viral proteins"
+    },
+    "answer": "W) RNA POLYMERASES THAT REPLICATE VIRAL GENOMES HAVE NO PROOFREADING MECHANISMS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following scales does NOT measure a property of earthquakes?",
+    "choices": {
+      "W": "Body-wave magnitude scale",
+      "X": "Modified Mercalli scale",
+      "Y": "Moment magnitude scale",
+      "Z": "Fujita scale"
+    },
+    "answer": "Z) FUJITA SCALE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term describes a volcano which erupts only once over the course of its lifetime?",
+    "answer": "MONOGENETIC"
+  }
+]

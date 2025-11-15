@@ -1,0 +1,466 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The G-string of a violin vibrates at a frequency of 200 hertz. What is the frequency of the 3rd overtone?",
+    "answer": "800 HERTZ"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 5-kilogram particle's position is described by the two equations $\\athbf{x}(t) = 3t^2 + 2t + 1$ and $\\athbf{y}(t) = 4t^2 + 8t - 6$. In newtons, what is the magnitude of the force acting on the particle at $t = 1$?",
+    "answer": "50"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant organs is NOT an adaptation of a stem?",
+    "choices": {
+      "W": "Rhizomes",
+      "X": "Tubers",
+      "Y": "Spines",
+      "Z": "Bulbs"
+    },
+    "answer": "Y) SPINES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In what organelle do long chain fatty acids above 22 carbons in length undergo beta oxidation before being shuttled to the mitochondria?",
+    "answer": "PEROXISOME"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three sedimentary rocks that are formed from sand-sized grains: 1) Arkose; 2) Shale; 3) Breccia",
+    "answer": "1 ONLY (ACCEPT: ARKOSE)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What are the terms for the areas of the universe that are large gaps between filaments, which contain few or no galaxies?",
+    "answer": "VOIDS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many edges does a hexagonal prism have?",
+    "choices": {
+      "W": "6",
+      "X": "12",
+      "Y": "15",
+      "Z": "18"
+    },
+    "answer": "Z) 18"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A 4th degree polynomial has integer coefficients, and two of its roots are $3 + \\text{sqrt}(2)$ and $4 - \\text{sqrt}(7)$. What is the sum of the roots of this polynomial?",
+    "answer": "14"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the electron pair geometry of ammonia?",
+    "answer": "TETRAHEDRAL"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "For the first-order reaction $\\athrm{A} \\ightarrow \\athrm{B} + \\athrm{C}$ the rate constant is given to be 7 inverse seconds. If the half-life of the reaction is 0.1 seconds when the initial concentration of A is 1 molar, what is the new half-life when the concentration of A is 6 molar?",
+    "answer": "0.1 (ACCEPT: THE SAME)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Durham lab at the University of Florida are studying the metabolism of organic sulfur in marine microorganisms. Many of the metabolized organic sulfur compounds are oxidized derivatives of which of the following amino acids, which contains a thiol group?",
+    "choices": {
+      "W": "Cysteine",
+      "X": "Serine",
+      "Y": "Tyrosine",
+      "Z": "Methionine"
+    },
+    "answer": "W) Cysteine"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "70 years ago, a UW Madison alumnus invented the first transistor, earning him a Nobel Prize in 1956. What type of insulated-gate transistor is made by the controlled oxidation of a semiconductor, typically silicon, and is the most widely used transistor in the world?",
+    "answer": "MOSFET (ACCEPT: METAL- OXIDE- SILICON FIELD- EFFECT TRANSISTOR; IGFET; INSULATED GATE FIELD EFFECT TRANSISTOR)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two springs with spring constants of 5 newtons per meter and 6 newtons per meter are attached in parallel to each other. In newtons per meter, what is the equivalent spring constant of the system?",
+    "answer": "11 NEWTONS PER METER"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider the following hypothetical decay process: 3A decays into 2B plus C. Suppose the charge of A is $+2e$, and the charge of B is $-4e$. In terms of e, what is the charge of C?",
+    "answer": "$+14e$ (ACCEPT: 14e)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Creutzfeldt-Jakob disease is caused by what type of infectious agent, which can induce the misfolding of proteins?",
+    "answer": "PRION"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following structures is NOT part of the lymphatic system?",
+    "choices": {
+      "W": "Adenoids",
+      "X": "Tonsils",
+      "Y": "Peyer's patches",
+      "Z": "Thyroid"
+    },
+    "answer": "Z) THYROID"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Foraminifera and coccolithophore tests form what general class of biogenous sediment?",
+    "answer": "CALCAREOUS OOZE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What two quantifiable factors is the Köppen climate classification primarily based on?",
+    "choices": {
+      "W": "Temperature and humidity",
+      "X": "Amount of precipitation and latitude",
+      "Y": "Humidity and altitude",
+      "Z": "Temperature and amount of precipitation"
+    },
+    "answer": "Z) TEMPERATURE AND AMOUNT OF PRECIPITATION"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three regular polygons that can completely tessellate the plane: 1) Octagon; 2) Hexagon; 3) Pentagon.",
+    "answer": "2 ONLY (ACCEPT: HEXAGON)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the derivative of $x^{2}$ times the sine of $x$ at $x = \\i$?",
+    "answer": "$- \\i^{2}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In the titration curve of $\\athrm{NH_3}$ with HCl, which of the following points describes the point at which the concentration of $\\athrm{NH_3}$ is equal to the concentration of $\\athrm{NH_4^+}$?",
+    "choices": {
+      "W": "End point",
+      "X": "Half equivalence point",
+      "Y": "First equivalence point",
+      "Z": "Second equivalence point"
+    },
+    "answer": "X) HALF EQUIVALENCE POINT"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider the exothermic gaseous phase reaction $\\athrm{PCl_3(g) + Cl_2(g) \\ightarrow PCl_5(g)}$ in a container of fixed volume. Identify all of the following four changes that would increase the amount of $\\athrm{PCl_5}$ at equilibrium: 1) Increasing the temperature; 2) Adding a catalyst; 3) Adding an inert gas such as $\\athrm{N_2}$; 4) Increasing the volume.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Savin group at the University of Florida are studying the applications of self-assembled block polymers. Block polymers belong to what general class of polymers composed of more than one type of monomer?",
+    "answer": "COPOLYMERS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Eikenberry group at the University of Florida are studying high energy photons and cosmic rays emitted by black holes. What is the term for the beams of high speed matter emitted by compact objects such as black holes or neutron stars?",
+    "answer": "RELATIVISTIC JETS (ACCEPT: JETS)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three effects that are predicted by special relativity: 1) Time contraction; 2) Length contraction; 3) Faster than light travel.",
+    "answer": "2 ONLY (ACCEPT: LENGTH CONTRACTION)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following combinations of a resistor and a capacitor in series has the largest time constant?",
+    "choices": {
+      "W": "3 kilohm resistor and 5 microfarad capacitor",
+      "X": "9 kilohm resistor and 2 microfarad capacitor",
+      "Y": "4 kilohm resistor and 3 microfarad capacitor",
+      "Z": "6 kilohm resistor and 4 microfarad capacitor"
+    },
+    "answer": "Z) 6 KILOOHM RESISTOR AND 4 MICROFARAD CAPACITOR"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Caffeine can offer short term relief for symptoms caused by the loss of what fluid, which occupies the ventricles of the brain?",
+    "answer": "CEREBROSPINAL FLUID (ACCEPT: CSF)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Many of the kinases involved in the cell cycle form a complex with what proteins, whose concentration fluctuates throughout the cell cycle?",
+    "answer": "CYCLINS (DO NOT ACCEPT CYCLIN-DEPENDENT-KINASES; CDK)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three minerals that commonly form as evaporites: 1) Anhydrite; 2) Cinnabar; 3) Gypsum.",
+    "answer": "1 AND 3 (ACCEPT: ANHYDRITE AND GYPSUM)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following events is NOT correctly matched to the ion it occurred in?",
+    "choices": {
+      "W": "Early heavy bombardment - Hadean",
+      "X": "Great oxygenation event - Archean",
+      "Y": "First eukaryotes - Proterozoic",
+      "Z": "Cambrian explosion - Phanerozoic"
+    },
+    "answer": "X) GREAT OXYGENATION EVENT - ARCHEAN"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What theorem in statistics says that every sampling distribution approaches the normal distribution as the sample size goes to infinity?",
+    "answer": "CENTRAL LIMIT THEOREM (ACCEPT: CLT)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A triangle has two sides of length 5 and 8. Which of the following could NOT be the perimeter of the triangle?",
+    "choices": {
+      "W": "15",
+      "X": "22",
+      "Y": "24",
+      "Z": "25"
+    },
+    "answer": "W) 15"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What name is given to ions or molecules that attach to a central metal atom to form a complex through a coordinate bond?",
+    "answer": "LIGAND"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following species would be best for a mobile phase in gas chromatography?",
+    "choices": {
+      "W": "$\\athrm{H}_{2}$",
+      "X": "He",
+      "Y": "$\\athrm{F}_{2}$",
+      "Z": "$\\athrm{CH}_{4}$"
+    },
+    "answer": "X) He"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison are studying how superconductors can be used in MRI and train levitation. These devices rely on what effect, where magnetic field lines are expelled from a superconductor?",
+    "answer": "MEISSNER EFFECT"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Castellano group at UF are studying conjugated materials such as the nucleobase adenine. Nucleobases belong to what class of cyclic conjugated compounds that follow Huckel's rule?",
+    "answer": "AROMATIC"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities of a closed system that must be the same before and after a collision: 1) Velocity of the center of mass; 2) Kinetic energy; 3) Linear momentum.",
+    "answer": "1 AND 3 (ACCEPT: VELOCITY OF THE CENTER OF MASS AND LINEAR MOMENTUM)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A ramp has an angle of inclination of 30 degrees. Which of the following is closest to the minimum coefficient of static friction required for the inclined plane so that an object placed on the plane will not slide?",
+    "choices": {
+      "W": "0.2",
+      "X": "0.4",
+      "Y": "0.6",
+      "Z": "0.8"
+    },
+    "answer": "Y) 0.6"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following features forms a 'corona' on the surface of coronaviruses and is essential for attachment and entry of the viral protein into the host cell?",
+    "choices": {
+      "W": "Spike protein",
+      "X": "Nuclear envelope",
+      "Y": "Tail",
+      "Z": "Capsid"
+    },
+    "answer": "W) SPIKE PROTEIN"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements which are true regarding the plant hormone ethylene: 1) It mediates the triple response; 2) It increases the activity of proton pumps in the plasma membrane; 3) It induces the ripening of fruits.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true about neutron stars?",
+    "choices": {
+      "W": "Neutron stars form from stellar cores of greater than 3 solar masses",
+      "X": "Most neutron stars rotate over 1000 times a second",
+      "Y": "Neutron stars are generally destroyed in supernovae",
+      "Z": "Hydrostatic equilibrium is achieved in neutron stars through degeneracy pressure"
+    },
+    "answer": "Z) HYDROSTATIC EQUILIBRIUM IS ACHIEVED IN NEUTRON STARS THROUGH DEGENERACY PRESSURE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the most common name given to the gap between Saturn's A and B Rings?",
+    "answer": "CASSINI DIVISION"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "In triangle ABC, angle A equals 30 degrees, angle B equals 70 degrees, and angle C equals 80 degrees. Which of the following sides of the triangle is the longest?",
+    "choices": {
+      "W": "AB",
+      "X": "AC",
+      "Y": "BC",
+      "Z": "All three sides have the same length"
+    },
+    "answer": "W) AB"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For an angle x in the first quadrant, $\\in (x)$ equals 0.6. What is $\\tan (x)$?",
+    "answer": "$\\rac{3}{4}$ (ACCEPT: 0.75)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements violates the Aufbau principle?",
+    "choices": {
+      "W": "Vanadium",
+      "X": "Chromium",
+      "Y": "Manganese",
+      "Z": "Iron"
+    },
+    "answer": "X) CHROMIUM"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following anions is the most polarizable?",
+    "choices": {
+      "W": "F-",
+      "X": "Cl-",
+      "Y": "Br-",
+      "Z": "I"
+    },
+    "answer": "Z) I"
+  }
+]

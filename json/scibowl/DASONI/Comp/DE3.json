@@ -1,0 +1,346 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three stages of embryogenesis in eudicots from first to last: 1) Torpedo 2) Globular 3) Heart",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In what form of competition do plants produce chemicals toxic to other plant species?",
+    "answer": "ALLELOPATHY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "According to Hückel theory, which of the following molecules is anti-aromatic?",
+    "choices": {
+      "W": "Naphthalene",
+      "X": "Octatetraene",
+      "Y": "Cyclodecapentaene",
+      "Z": "Cyclobutadiene"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three factors that are constant in a microcanonical ensemble: 1) Temperature 2) Total energy 3) Chemical potential",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three types of supernovae that are likely produced by larger stars that have undergone mass loss: 1) Type 2 2) Type 1b 3) Type 1c",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true about groundwater and groundwater zones: 1) In the hyporheic zone, there is mixing of groundwater and surface water 2) The water table is the topmost layer of the aeration zone 3) Soil in the capillary fringe layer is not saturated with water",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The sum of the internal angles of polygon B is twice the sum of the internal angles of polygon A. If polygon A is an octagon, then how many sides does polygon B have?",
+    "answer": "14"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Ethan has seen Eratosthenes' sieve, but misunderstands the point. He writes out every number from 1 to 50, and, starting from 2, crosses off every multiple of that number other than itself, and then goes on to the next number - 3, 4, 5, 6, and so on up to 50. He calls every number that has been crossed out exactly 6 times hextuple composite, because he is super sure they're composite. How many hextuple composite numbers are there?",
+    "answer": "4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An electron moving at 200 m/s is deflected by a magnetic field. Which of the following types of radiation would it likely emit?",
+    "choices": {
+      "W": "Synchotron radiation",
+      "X": "Cyclotron radiation",
+      "Y": "Bremmstrahlung",
+      "Z": "Beamstrahlung"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In what space are wavefunctions thought to exist?",
+    "answer": "HILBERT SPACE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS B team members are studying electric fields due to ions. They note that mobile charge carriers, such as the electrons in a metal, can block the electric field from ions in what phenomenon?",
+    "answer": "SCREENING"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS B team members are learning about half angle formulas. What is the cotangent of 15 degrees?",
+    "answer": "$2 + \\qrt{3}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Colloquially, but inaccurately, referred to as \cold-blooded,\ what term is given to animals who exhibit a range of body temperatures, particularly as environmental temperature changes?",
+    "answer": "POIKILOTHERMS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Phoenixes have a colorless pigment in their feathers that can either be converted to a red pigment or a blue pigment, and they have two genes that regulate this. Phoenixes with at least one copy of the dominant W [big W] allele produce an enzyme that inhibits the conversion of the colorless pigment precursor to any colored pigment, while phoenixes with the ww [little w little w] phenotype do not produce this enzyme, which allows an enzyme naturally in their feathers to convert the colorless pigment to a blue pigment. Phoenixes with at least one copy of the dominant R [big R] allele possess an enzyme that converts the colorless pigment to red pigment instead of blue pigment. In a cross between two WwRr [big W little w big R little r] phoenixes, what will the ratio of white to red to blue phoenixes be?",
+    "answer": "12:3:1"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many nodal planes and nodal surfaces, respectively, are there for an 8h orbital?",
+    "answer": "5, 2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many nodal planes are in the highest energy molecular orbital of benzene?",
+    "answer": "3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Due to irregular seafloor topography, tides often get refracted. However, this large-scale movement of water is deflected by the Coriolis force, leading to circulation around what points of minimal tidal fluctuation?",
+    "answer": "AMPHIDROMIC POINT"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following spectral lines in order of highest temperature peak to lowest-temperature peak: 1) Helium I 2) Hydrogen 3) Calcium II",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a hyperbolic function?",
+    "choices": {
+      "W": "$y = e^{2x} / 2$",
+      "X": "$4x^2 - 4y^2 = 25$",
+      "Y": "$y = (e^x) / 2 + (e^{-x}) / 2$",
+      "Z": "$x^2 + 4y^2 = 25$"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that $x^4 + 1 / x^4 = 98$, what is the product of all possible real values of $x + 1 / x$?",
+    "answer": "-12"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why magnetization of a ferromagnetic material occurs in short bursts?",
+    "choices": {
+      "W": "Spin is quantized, so magnetization must occur discontinuously",
+      "X": "Eddy currents delay the magnetization at certain points, which spring back quickly",
+      "Y": "Defects in the crystal lattice cause sudden changes in magnetic domains",
+      "Z": "The magnetic field performing the magnetization must magnetize the outer layers of the material and progress inward"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A magnetic scalar potential cannot be described in some cases because of free currents. This is because of what law of electromagnetism?",
+    "answer": "BIOT-SAVART"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson MS C team members are studying meiosis. During what substage of prophase I does crossing over occur?",
+    "choices": {
+      "W": "Leptotene",
+      "X": "Diplotene",
+      "Y": "Pachytene",
+      "Z": "Zygotene"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A team members are studying drug synthesis schemes. What reaction involves hydrazine and an aldehyde or ketone to produce a heterocycle found in tryptophan, serotonin, and many drugs?",
+    "answer": "FISCHER INDOLESYNTHESIS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Ashley is studying the expression of a protein using western blots. When she adds the detection reagent, she finds that her blot has extremely high background noise. What error did she most likely make?",
+    "choices": {
+      "W": "She did not run her gel on the electrophoresis machine for long enough",
+      "X": "After transferring the gel to a membrane, she forgot to block it",
+      "Y": "She did not incubate the membrane with secondary antibody for long enough",
+      "Z": "She used too much detection reagent"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about cell signaling is false?",
+    "choices": {
+      "W": "$G_{aq}$ activates phospholipase C",
+      "X": "The combination of increased intracellular calcium concentration and diacylglycerol activates protein kinase B",
+      "Y": "Both G protein-coupled receptors and receptor tyrosine kinases can activate phospholipase C",
+      "Z": "Cyclic AMP activates protein kinase A"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "For atoms with Z greater than 56, a smaller-than-expected ionic radius is observed. This can be partially be explained by poor shielding by partially or fully filled atomic orbitals and partially by relativistic contractions owing to high-speed electrons. What is this phenomenon called?",
+    "answer": "LANTHANIDE CONTRACTION"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Under what conditions would a disrotatory electrocyclization of 1,3,5-hexatriene be favored?",
+    "answer": "THERMAL"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Jonathan confirms the discovery of the first Thorne-Zytkow object, a type of neutron star formed by the merger of the core of a giant star and a neutron star that takes place inside the giant start itself. In order for the merger to not become a black hole, the combined mass of the original neutron star and the giant star's core must not exceed what limit?",
+    "answer": "TOV LIMIT"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the relationship between El Niño Southern Oscillation, Madden-Julian Oscillation, and the climate of South Asia?",
+    "choices": {
+      "W": "Enhanced-phase MJO triggers positive-phase ENSO, causing stronger South Asian monsoons",
+      "X": "Enhanced-phase MJO triggers negative-phase ENSO, causing stronger South Asian monsoons",
+      "Y": "Positive-phase ENSO weakens MJO, causing weaker South Asian monsoons",
+      "Z": "Positive-phase ENSO strengthens MJO, causing weaker South Asian monsoons"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Griffin and Emmy are adding pronunciation guides to questions. For each word they consider, they have a $90\\$ chance of making the right call to add one or not. $80\\$ of the words they consider need a guide. What is the probability that, if a word has a pronunciation guide, it is necessary?",
+    "answer": "36/37"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Determine the least prime factor of the quantity two to the 2019th power end quantity minus one.",
+    "answer": "7"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Many physical constants are exactly the required values they need to be for life to develop in this universe. What principle states that this is not a mystery because if fundamental constants were not the value they are, we would not be here to observe them?",
+    "answer": "Anthropic principle"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An optic fiber one light-second long is constructed out of material with a refractive index of 1.6, and a photon is sent along the fiber. What is the maximum time, to the nearest tenth of a second, that the photon will take to reach the end of the fiber?",
+    "answer": "2.6"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS B Team members are studying star-forming regions. Often found in association with bok globules, what is formed when jet of ionized gas from a newborn star interact with nearby dust clouds to produce a nebula-like cloud?",
+    "answer": "HERBIG-HARO OBJECT"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A Team members are studying dissolved salts, gases, and nutrients in oceans. By name or number, identify all of the following three dissolved substances whose concentration always increases as depth increases, assuming no upwelling: 1) Carbon dioxide 2) Dissolved salt 3) Oxygen",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the purpose of dihydropyridine receptors in skeletal muscle?",
+    "choices": {
+      "W": "Directly release calcium ions from the sarcoplasmic reticulum",

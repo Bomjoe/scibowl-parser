@@ -1,0 +1,363 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A man with red-green colorblindness marries a woman who is a carrier for red-green colorblindness. If they have a son and a daughter, what is the probability that the son has red-green colorblindness but the daughter does not?",
+    "answer": "0.25"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 immune cells which can function as antigen-presenting cells to activate Helper T cells: I) Neutrophils II) Mast cells III) Dendritic cells",
+    "answer": "III only"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the 2023rd digit following the decimal point in the expansion of $3 / 7$?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "4",
+      "Z": "8"
+    },
+    "answer": "Y) 4"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the radius of convergence for the series $\\um \\rac{x^n}{n!}$?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "e",
+      "Z": "Infinity"
+    },
+    "answer": "Z) Infinity"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Center for Applied Geosciences are studying the role of bacteria in the formation of paleoclimate records. What patterns in marine sedimentary rock, indicative of oxygenation, have alternating layers of iron oxide and chert?",
+    "answer": "Banded iron formations"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Fermilab are working on the development of particle detectors. What type of particle detector, which was used in the discovery of the positron, uses a supersaturated vapor to create a track around the path of a particle moving through it?",
+    "answer": "Cloud chamber"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following plate boundaries could a fold-thrust belt form?",
+    "choices": {
+      "W": "Continental Rift",
+      "X": "Ocean-Continent Convergence",
+      "Y": "Mid-Ocean Ridge",
+      "Z": "Transform Boundary"
+    },
+    "answer": "X) Ocean-Continent Convergence"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 rocks that can be formed through contact metamorphism: I) Marble II) Phyllite III) Quartzite",
+    "answer": "I and III"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A wire with a 2 centimeter radius has some uniform current density J. The magnetic field at a distance of 1 centimeter from the center of the wire has a magnitude of 2 milliteslas. What is the magnetic field in milliteslas at a distance of 3 centimeters from the center of the wire?",
+    "answer": "$8/3$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Stefan-Boltzmann's Law states that $L = A\\igma T^{4}$, where $\\igma$ is the Stefan-Boltzmann constant and $A$ is an area. If $L$ is a value in watts, then what are the base SI units for $\\igma$?",
+    "answer": "$kg \\dot s^{-3} \\dot K^{-4}$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A certain diatomic compound has 5 electrons in bonding orbitals and 2 electrons in antibonding orbitals. What is the bond order of this compound?",
+    "answer": "1.5"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Cisplatin is a common cancer treatment compound that must be activated by reacting with water molecules before it can act on DNA. The reaction between cisplatin and water is first-order in cisplatin concentration. If 0.2 Molar cisplatin begins reacting at a rate of 0.14 Molar per second, what is the half-life of this reaction in seconds to one significant figure?",
+    "answer": "1"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Andy deposits 100 dollars in his empty savings account. If the yearly interest rate is $2\\$ and his money is compounded annually, which of the following is closest to the number of years it will take for his money to become 400 dollars?",
+    "choices": {
+      "W": "35",
+      "X": "50",
+      "Y": "70",
+      "Z": "100"
+    },
+    "answer": "Y) 70"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Consider a rectangle ABCD with $\\athrm{AB} = 10$ and $\\athrm{BC} = 5$. If line X is drawn from C to the midpoint of AB, what is the shortest distance from B to line X?",
+    "choices": {
+      "W": "$5\\qrt{2}$",
+      "X": "$5\\qrt{2}/2$",
+      "Y": "$10\\qrt{2}$",
+      "Z": "$10\\qrt{2}/3$"
+    },
+    "answer": "X) $5\\qrt{2}/2$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following kinds of defensive adaptation is used when a snake deters potential predators using bright coloration?",
+    "choices": {
+      "W": "Cryptic Coloration",
+      "X": "Mullerian Coloration",
+      "Y": "Sematic Coloration",
+      "Z": "Aposematic Coloration"
+    },
+    "answer": "Z) Aposematic Coloration"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 organelles that are types of reduced mitochondria: I) Glyoxysome II) Hydrogenosome III) Mitosome",
+    "answer": "II, III"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Enloe High School are collecting data to determine whether or not squirrels have a preference for the color of acorns that they eat. Data was collected by placing a white acorn and a black acorn next to each other for a day. Which statistical analysis method should be used to determine the likelihood of random variation causing the results in the data?",
+    "choices": {
+      "W": "Correlation",
+      "X": "Chi-square",
+      "Y": "Interquartile range",
+      "Z": "Percent change"
+    },
+    "answer": "X) Chi-square"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab are studying the formation of cleavage furrows in dividing cells in order to develop drugs to fight cancer. What cytoskeletal element are they most likely targeting?",
+    "answer": "Actin"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the general term for intermolecular forces which have potentials that vary with intermolecular distance to the negative sixth power?",
+    "answer": "Van Der Waals forces"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of groups does not exist for an electrophilic aromatic substitution?",
+    "choices": {
+      "W": "Activating ortho-para director",
+      "X": "Deactivating ortho-para director",
+      "Y": "Activating meta director",
+      "Z": "Deactivating meta director"
+    },
+    "answer": "Y) Activating meta director"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 fundamental forces from earliest to latest occurrence in the universe: 1) Weak 2) Strong 3) Gravity",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rishabh looks at the sky in the morning 1 hour before sunrise, and he sees the moon rising in the east. What is the phase of the moon?",
+    "answer": "Waning crescent"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The glyoxylate cycle is a variation of what other metabolic cycle?",
+    "answer": "Krebs Cycle"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 hormones in order of secretion: 1) T3 2) TSH 3) TRH",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In superconductors, Cooper pairs are pairs of electrons bound together at low temperatures. Cooper pairs arise from the interaction of electrons with what quasiparticle, which represents the collective movement of the metal ion lattice?",
+    "answer": "Phonon"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How many nodes and antinodes, respectively, are on the pressure wave produced by a 2 meter tube with one end closed that is resonating with a wavelength of 1.6 meters?",
+    "answer": "3 nodes, 3 antinodes"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 elements in order of increasing first ionization energy: 1) Oxygen 2) Fluorine 3) Neon 4) Sodium",
+    "answer": "4, 1, 2, 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Assuming that the ligands of a square planar compound lie in the xy plane, which of the following d orbitals would have the highest energy?",
+    "choices": {
+      "W": "$d_{xy}$",
+      "X": "$d_{xz}$",
+      "Y": "$d_{z}^{2}$",
+      "Z": "$d_{x^{2}-y^{2}}$"
+    },
+    "answer": "Z) $d_{x^{2}-y^{2}}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following most accurately defines the coefficient of determination?",
+    "choices": {
+      "W": "It describes how correlated the dependent variable is to the independent variable",
+      "X": "It describes how much of the variance in the independent variable can be attributed to the dependent variable",
+      "Y": "It describes how much of the variance in the dependent variable can be attributed to the independent variable",
+      "Z": "It describes how much of the variance in both the independent and dependent variable can be attributed to an external factor"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sphere A has a volume of $36\\i$ cubic meters. If the radius of A is increased by 2 meters, by how many square meters does the surface area of A increase by?",
+    "answer": "$64\\i$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If the electric field at a distance of 1 meter from an infinite charged sheet is 3 Volts per meter, by what factor will the electric field change if measured at a distance of 3 meters?",
+    "answer": "1"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Andy completely submerges a block of ice in a glass of water. He observes the height of the water in the glass. Then, he microwaves the glass, causing the ice to melt into water. Assuming evaporation is negligible, which of the following statements is accurate afterwards?",
+    "choices": {
+      "W": "The height of the water increases and the temperature of the water increases",
+      "X": "The height of the water increases and the temperature of the water decreases",
+      "Y": "The height of the water decreases and the temperature of the water increases",
+      "Z": "The height of the water decreases and the temperature of the water decreases"
+    },
+    "answer": "Y) The height of the water decreases and the temperature of the water increases"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Savannah River National Lab are studying the effects that excess chlorine can have on water health. Order the following 3 chlorine species from least acidic to most acidic: 1) $\\athrm{HClO_3}$ 2) HCl 3) $\\athrm{ClO_4^-}$",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "PCR is a very widely-used laboratory technique that uses the mechanisms of DNA transcription to amplify and clone selected DNA segments. However, human DNA polymerase cannot be used in this process due to its lack of heat-resistance. What DNA polymerase is used instead?",
+    "answer": "Taq polymerase"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "If the ionization energy of $\\athrm{H}^-$ is 74 kilojoules per mol and the electron affinity of $\\athrm{H}^+$ is 1310 kilojoules per mol, what is the enthalpy change in kilojoules when one mole of $\\athrm{H}^+$ is turned into $\\athrm{H}^-$?",
+    "answer": "-1384"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What period 4 element would have the highest ratio between its second ionization energy and its first ionization energy?",
+    "answer": "Potassium"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the phenomenon that occurs when precipitation evaporates before hitting the ground?",
+    "

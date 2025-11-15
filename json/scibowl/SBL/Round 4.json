@@ -1,0 +1,448 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Phycoerythrin is the most common accessory pigment found in what group of protists?",
+    "answer": "RED ALGAE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Aldosterone, a steroid produced in the adrenal cortex, regulates sodium ion concentration primarily by facilitating its reabsorption in which of the following regions of the nephron?",
+    "choices": {
+      "W": "Proximal tubule",
+      "X": "Loop of Henle",
+      "Y": "Distal tubule",
+      "Z": "Collecting duct"
+    },
+    "answer": "Z) COLLECTING DUCT"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What nuclide is the major final product of the triple-alpha process in stars?",
+    "choices": {
+      "W": "Helium-4",
+      "X": "Carbon-12",
+      "Y": "Silicon-28",
+      "Z": "Iron-56"
+    },
+    "answer": "X) CARBON-12"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "According to inflationary theory, list the following three events in chronological order: 1) Planck epoch; 2) Recombination; 3) Reionization.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three uniform charge distributions for which the resultant electric field is dependent on distance: 1) Infinite nonconducting sheet; 2) Infinite nonconducting rod; 3) Conducting sphere.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If an electromagnetic wave produces an electric field magnitude of $3 \\times 10^{5}$ newtons per coulomb at a certain point, then, in scientific notation to one significant figure, what is the magnetic field magnitude in teslas at that point?",
+    "answer": "$1 \\times 10^{-3}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When a P-V-T surface is sketched for an ideal gas, what is the mathematical relationship between the two remaining variables along an isotherm on the surface?",
+    "answer": "INVERSE (ACCEPT: HYPERBOLIC)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Tin, diatomic hydrogen, and sodium borohydride are all used in organic chemistry to perform what general type of chemical reaction?",
+    "answer": "REDUCTION"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at SLAC are studying the properties of warm dense matter, an exotic substance formed by the mixing of gases at high temperatures. Which of the following planets is mostly likely to house warm dense matter?",
+    "choices": {
+      "W": "Mercury",
+      "X": "Venus",
+      "Y": "Mars",
+      "Z": "Jupiter"
+    },
+    "answer": "Z) JUPITER"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Los Alamos National Lab have been studying semiconductors to better understand how electrons interact with electron holes. What quasiparticles can be treated as a result of the electrostatic attraction between electrons and electron holes?",
+    "answer": "EXCITONS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the number of digits in $5^{2020}$?",
+    "choices": {
+      "W": "1000",
+      "X": "1200",
+      "Y": "1400",
+      "Z": "1600"
+    },
+    "answer": "Y) 1400"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The set of all positive six-digit integers that have the digits from 1 to 6, inclusive, is arranged in increasing order. What is the 100th element in this sorted set?",
+    "answer": "162453"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Following apoptosis, the lysosome is responsible for recycling the cell’s materials in what process?",
+    "answer": "AUTOPHAGY (ACCEPT: AUTOPHAGOCYTOSIS)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What structures, composed principally of parenchymal cells and extending radially from the vascular cambium, are responsible for the movement of fluids between the xylem and the phloem?",
+    "answer": "VASCULAR RAYS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Two 500-milliliter beakers containing pure water and pure ethanol are mixed together in a 1-liter beaker. Which of the following properties of the resulting mixture is exactly equal to the sum of the properties of each constituent?",
+    "choices": {
+      "W": "Volume",
+      "X": "Mass",
+      "Y": "Density",
+      "Z": "Specific heat capacity"
+    },
+    "answer": "X) MASS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A student adds a 3-gram sample of silver bromide to 100 milliliters of water at 300 kelvins. He adds sodium bromide and records the new silver ion concentration in the solution. Repeating this process, he constructs a curve plotting the silver ion concentration as a function of the bromide concentration. Identify all of the following three statements regarding this curve that are true: 1) It displays an inverse relationship; 2) Points above the curve correspond to a saturated solution; 3) The curve will be identical at 330 kelvins.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The formation of dolomite usually involves metasomatic enrichment of limestone by what element?",
+    "answer": "MAGNESIUM (ACCEPT: Mg)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three objects that are indicative of star birth and formation: 1) Bok globules; 2) Herbig-Haro objects; 3) H II Regions.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the integral from 0 to 6 of $f(x)$ with respect to $x$ equals 10, and $g(x)$ is equal to $5 + f(2x)$, what is the integral from 0 to 3 of $g(x)$ with respect to $x$?",
+    "answer": "20"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two sides of a triangle have lengths of 3 and 5. If the angle between those sides is 120 degrees, what is the other side length?",
+    "answer": "7"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of materials that have lower resistance at higher temperatures: 1) Conductors; 2) Insulators; 3) Semiconductors.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What mathematical procedure is performed on wavefunctions to ensure that the probability of finding an electron within the system is 1?",
+    "answer": "NORMALIZATION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Lab have been subjecting superconductor samples to an electric current while immersed in a magnetic field transverse to the current in order to study what effect?",
+    "answer": "HALL EFFECT"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Pacific Northwest National Lab are studying the presence of the radioactive pertechnetate ion in contaminated groundwater. Which of the following is the VSEPR geometry of the pertechnetate ion?",
+    "choices": {
+      "W": "Trigonal planar",
+      "X": "Tetrahedral",
+      "Y": "Linear",
+      "Z": "Trigonal bipyramidal"
+    },
+    "answer": "X) TETRAHEDRAL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A triangle in the coordinate plane has vertices at (0, 0), (1, 0), and (k, 1). As k increases from –2020 to 2020, how does the area of the triangle change?",
+    "choices": {
+      "W": "Always increases",
+      "X": "Always decreases",
+      "Y": "Remains constant",
+      "Z": "Oscillates between minima and maxima"
+    },
+    "answer": "Y) REMAINS CONSTANT"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A rectangle has sides of integer length, and its perimeter is numerically equal to its area. Given that it is not a square, what is its area?",
+    "answer": "18"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following diseases has a virus as its causative agent?",
+    "choices": {
+      "W": "African sleeping sickness",
+      "X": "Syphilis",
+      "Y": "Mononucleosis",
+      "Z": "Malaria"
+    },
+    "answer": "Y) MONONUCLEOSIS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What type of nephron extends into the renal medulla and is responsible for producing the most concentrated urine?",
+    "answer": "JUXTAMEDULLARY"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following changes would LEAST affect the measured intensity of sound waves?",
+    "choices": {
+      "W": "Doubling the amplitude of the waves",
+      "X": "Doubling the frequency of the waves",
+      "Y": "Doubling the air temperature",
+      "Z": "Halving the distance to the source"
+    },
+    "answer": "Y) DOUBLING THE AIR TEMPERATURE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two solid spheres of radius $r$ are in contact with each other. Given uniform density, the gravitational force between the spheres is proportional to what power of $r$?",
+    "answer": "4"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three regions in terms of increasing distance from the Earth’s surface: 1) Inner Van Allen belt; 2) Mesopause; 3) Geostationary Earth orbit.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What western boundary current is the major warm component of the North Atlantic Meridional Overturning Circulation?",
+    "answer": "GULF STREAM"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What specific functional group is formed when formaldehyde is treated with excess water?",
+    "answer": "DIOL (ACCEPT: HYDRATE; GEMINAL DIOL)"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "By which of the following mechanisms can diatomic oxygen achieve net zero spin angular momentum?",
+    "choices": {
+      "W": "Single ionization",
+      "X": "Electron capture",
+      "Y": "Electron spin flip",
+      "Z": "Diatomic oxygen already has zero spin angular momentum"
+    },
+    "answer": "Y) ELECTRON SPIN FLIP"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Livermore National Lab are using three dimensional titanium dioxide filaments to mimic the structure of permeable yet selective barriers which the kidney uses to process aqueous solutions. Which of the following is NOT a potential application for such technology?",
+    "choices": {
+      "W": "Carbon capture",
+      "X": "Battery design",
+      "Y": "Dialysis",
+      "Z": "Water purification"
+    },
+    "answer": "W) CARBON CAPTURE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab investigating the Ebola virus have identified choline as an essential molecule for disease propagation. Identify all of the following three processes that rely on choline in humans: 1) DNA replication; 2) Protein degradation; 3) Phospholipid synthesis.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding perfectly inelastic collisions in special relativity: 1) Momentum is conserved; 2) Mass is conserved; 3) Total energy is conserved.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A DC motor is constructed using a square coil and a uniform magnetic field of strength 0.45 teslas. If the coil has 6 turns and 10-centimeter side lengths, and given that half an ampere of current flows through the coil, what is the maximum torque experienced by the coil as it rotates in newton meters and in scientific notation?",
+    "answer": "$1.35 \\times 10^{-2}$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What rock, composed almost entirely of microcrystalline quartz, forms from siliceous ooze in large quantities on the ocean floor?",
+    "answer": "CHERT"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals is a sorousilicate?",
+    "choices": {
+      "W": "Epidote",
+      "X": "Augite",
+      "Y": "Hornblende",
+      "Z": "Quartz"
+    },
+    "answer": "W) EPIDOTE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What enzyme is responsible for the conversion of androgens to estrogens?",
+    "answer": "AROMATASE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three biological transformations that may be considered isomerization reactions: 1) Conversion of glucose from its open chain form to its close chain form; 2) Conversion of cis-retinal to all-trans-retinal; 3) Dimerization of cysteine.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Hydrofluoric acid is commonly used to etch glass for aesthetic effects. In this process, the silicon dioxide is attacked by excess fluoride ions, forming the fluorosilicate ion. What is the molecular geometry of this ion?",
+    "answer": "OCTAHEDRAL"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When phenylamine is treated with ethyl chloride in the presence of aluminum trichloride, no reaction occurs. Which of the following statements correctly explains this phenomenon?",
+    "choices": {
+      "W": "Ethyl chloride undergoes rearrangement to an inert molecule upon complexation to $\\athrm{AlCl}_3$",
+      "X": "The amino group strongly deactivates the aromatic ring",
+      "Y": "Phenylamine dimerizes in an acidic environment",
+      "Z": "Phenylamine strongly complexes $\\athrm{AlCl}_3$, reducing its catalytic activity"
+    },
+    "answer": "Z) PHENYLAMINE STRONGLY COMPLEXES $\\athrm{AlCl}_3$, REDUCING ITS CATALYTIC ACTIVITY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the real part of the quantity $3 + 4i$ squared?",
+    "answer": "-7"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the smallest positive integer with more than 10 positive factors?",
+    "answer": "60"
+  }
+]

@@ -1,0 +1,473 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three forces that are inertial forces: 1) Centripetal; 2) Coriolis; 3) Centrifugal.",
+    "answer": "2, 3"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 quantities that, when increased, would increase the separation between fringes from a diffraction grating: 1) Distance between light source and diffraction grating; 2) Distance between diffraction grating and wall; 3) Slit separation.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true regarding both prokaryotic DNA polymerase I and DNA polymerase III?",
+    "choices": {
+      "W": "They both add primers from the 5' to the 3' direction.",
+      "X": "They both replace primers with DNA Nucleotides",
+      "Y": "They both open up the DNA double helix.",
+      "Z": "They both have exonuclease activity"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three conditions that are X-linked: 1) Duchenne muscular dystrophy; 2) Red-green color blindness; 3) Hemophilia A.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $\\athrm{f(x)}$ is a monic quadratic polynomial such that $\\athrm{f(1) = 1}$ and $\\athrm{f(2) = 2}$, what is the value of $\\athrm{f(3)}$?",
+    "answer": "5"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers has the largest sum of factors?",
+    "choices": {
+      "W": "150",
+      "X": "151",
+      "Y": "152",
+      "Z": "153"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Lahars, which are caused by volcanoes, are a type of mass wasting event that belong to which of the following broader types of mass wasting?",
+    "choices": {
+      "W": "Slump",
+      "X": "Debris Flow",
+      "Y": "Mudflow",
+      "Z": "Creep"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three minerals in terms of increasing average oxidation state of iron. 1) Pyrite; 2) Goethite; 3) Magnetite.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When Aluminum-26 undergoes electron capture, a neutrino is emitted along with what isotope?",
+    "answer": "MAGNESIUM-26"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A vicinal dihalide is treated with sodium amide dissolved in liquid ammonia. What functional group is the major product of this reaction?",
+    "answer": "ALKYNE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab are studying the effect bacteriophages have on E. coli receptors. What specific phage is known for infecting E. coli and was discovered by Esther Lederberg?",
+    "answer": "LAMBDA PHAGE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab are using cold crystals to study neutrinos. In particular, they are investigating whether or not neutrinos are an example of what type of fermion that is also its own antiparticle?",
+    "answer": "MAJORANA PARTICLE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The change in Helmholtz free energy is equivalent to the expansion work done on a system when what variable is held constant?",
+    "answer": "TEMPERATURE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A spring with a spring constant of 16 Newtons per meter and 0 rest length lies flat on a frictionless surface. A 1-kilogram block is moving at a speed of 9 meters per second away from the center of the spring when it is 3 meters away from the center of the spring. What is the amplitude of oscillations of the spring and block system?",
+    "answer": "15/4"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "After a mass-extinction event, what large-scale evolutionary process occurs, in which new species are created that fill different ecological niches?",
+    "answer": "ADAPTIVE RADIATION"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the quaternary structure of hemoglobin?",
+    "choices": {
+      "W": "2 alpha chains and 2 beta chains",
+      "X": "3 alpha chains and 1 beta chains",
+      "Y": "1 alpha chain and 3 beta chains",
+      "Z": "1 alpha chain and 1 beta chain"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the dot product of the vectors, $6i + 3j$ and $4i - 7j$?",
+    "answer": "3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $\\athrm{f}^{\irc}(\\athrm{x})[f$ prime of $x]$ is strictly decreasing for all $\\athrm{x} > 0$, $\\athrm{f}(2) = 9$, and $\\athrm{f}(3) = 13$, then what is the largest possible integer value of $\\athrm{f}(1)$?",
+    "answer": "4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metamorphic facies has the highest grade?",
+    "choices": {
+      "W": "Blueschist",
+      "X": "Greenschist",
+      "Y": "Zeolite",
+      "Z": "Eclogite"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three solar system bodies that are fully differentiated. 1) Callisto; 2) Jupiter; 3) Mercury.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three isomers of pentane by increasing enthalpy of combustion: 1) N-pentane; 2) Neopentane; 3) Isopentane.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A particle in a 1D box has zero-point energy of 1 electronvolt. If the mass of the particle and the length of the box are both doubled, what is the energy of the 4th excited state of the particle in electronvolts?",
+    "answer": "25/8"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Berkeley National Lab are using targeted alpha-particle therapy with antibodies to selectively attack cancerous cells and monitoring the results using positron emission tomography. PET-scans employ the use of what halogen attached to glucose as a radiotracer?",
+    "choices": {
+      "W": "Fluorine",
+      "X": "Chlorine",
+      "Y": "Bromine",
+      "Z": "Iodine"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at SLAC National Accelerator are creating a new x-ray based accelerator using strings of magnets that wiggle an electron beam. What insertion devices are being used to create this free electron laser?",
+    "answer": "UNDULATOR"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A $5 \\athrm{kg}$ mass is moving at 10 meters per second to the right and collides and sticks to a stationary $3 \\athrm{kg}$ mass. What is the coefficient of restitution of the collision?",
+    "answer": "0"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following characterizes an electric field produced purely from static charges?",
+    "choices": {
+      "W": "Curl-free",
+      "X": "Divergence-free",
+      "Y": "Rotational",
+      "Z": "Radial"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 compounds that are 5 carbon sugars: 1) Dihydroxyacetone; 2) Galactose; 3) Ribulose.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding miRNA?",
+    "choices": {
+      "W": "miRNA binds to complementary mRNA sequences.",
+      "X": "miRNA is in the RNA-Induced silencing complex.",
+      "Y": "miRNA is double stranded",
+      "Z": "miRNA is vitally important in the regulation of gene expression."
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate 125 to the power of $\\og_{25}(6)$.",
+    "answer": "6\\qrt{6}"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the eigenvalues of the 2x2 matrix with first row 1, 4 and second row 3, 2.",
+    "answer": "-2 AND 5"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What are the SI units of Hubble's constant?",
+    "answer": "HERTZ"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why the dust tail of a comet is often more curved than the gas tail?",
+    "choices": {
+      "W": "The sun's magnetic field causes the dust tail to accelerate perpendicular to its velocity",
+      "X": "The dust tail spirals due to increased radiation pressure from the sun",
+      "Y": "Dust particles are subject to lensing effects",
+      "Z": "Dust particles individually follow their own orbits"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following indicators would be most suitable for a titration of formic acid with potassium hydroxide?",
+    "choices": {
+      "W": "Phenolphthalein",
+      "X": "Methyl red",
+      "Y": "Bromothymol blue",
+      "Z": "Bromocrescol green"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What equation of state approximates the volume and pressure of a gas as a power series of density?",
+    "answer": "VIRIAL EQUATION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab are studying the use of polydiketoename for cyclic recycling of plastics. In their research, triketones and amines react, expelling a water molecule and forming a linkage in what general type of reaction?",
+    "answer": "CONDENSATION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Pacific Northwest National Lab are using AlphaFold2 from Deepmind to study the protein folding process using neural networks. Which of the following types of neural networks would you most likely use for image classification and recognition of a protein?",
+    "choices": {
+      "W": "Fully connected neural networks",
+      "X": "Recurrent neural networks",
+      "Y": "Convolutional neural networks",
+      "Z": "Generative adversarial networks"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball is dropped off of the top of a 10 meter cliff. What is the speed of the ball right before it hits the ground, in meters per second?",
+    "answer": "14"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A toy car goes around a flat curve of radius 8 centimeters at an angular speed of 14 radians per second. What is the minimum coefficient of friction between the tires and the road for the toy car to make the turn?",
+    "choices": {
+      "W": "1.6",
+      "X": "2.0",
+      "Y": "2.4",
+      "Z": "2.8"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What name is given to the specialized cotyledons in grasses such as maize and wheat?",
+    "answer": "SCUTELLUM"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains the function of guide RNA in CRISPR?",
+    "choices": {
+      "W": "They modify the genomic DNAs histones",
+      "X": "They form Watson-Crick base pairs with genomic DNA.",
+      "Y": "Takes a long mRNA strand to help recognize it's genomic target",
+      "Z": "They recruit an exonuclease to find genomic DNA"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A triangle is inscribed in a circle such that it contains the center of the circle within its area. Which of the following must be true regarding the triangle?",
+    "choices": {
+      "W": "It is acute",
+      "X": "It is obtuse",
+      "Y": "It is scalene",
+      "Z": "It is isosceles"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The Lucas sequence is defined as $\\athrm{L_0}$ (l-sub-0) equals 2, $\\athrm{L_1}$ (l-sub-1) equals 1, and $\\athrm{L_n = L_{n - 1} + L_{n - 2}}$ for all $\\athrm{n}\\eq 2$. What is the remainder when the 40th Lucas number, $\\athrm{L_{40}}$, is divided by 11?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The area of sea ice in the arctic is at a minimum in which of the following months?",
+    "choices": {
+      "W": "January",
+      "X": "April",
+      "Y": "September",
+      "Z": "December"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A secondary mirror reflects light back through a hole in the primary mirror in what kind of telescope arrangement?",
+    "answer": "CASSEGRAIN FOCUS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The pre-exponential factor for a particular reaction has units of inverse seconds. What is the order of the reaction?",
+    "answer": "1"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following atomic orbitals has the fewest number of radial nodes?",
+    "choices": {
+      "W": "$5p$",
+      "X": "$5s$",
+      "Y": "$6f$",
+      "Z": "$6d$"
+    },
+    "answer": "Y"
+  }
+]

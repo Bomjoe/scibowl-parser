@@ -1,0 +1,534 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Express the unit for optical power in terms of the SI base units.",
+    "answer": "$1 / \\athrm{m}$ or $\\athrm{m}^{-1}$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true of light traveling into a denser medium?",
+    "choices": {
+      "W": "The index of refraction of the denser medium is lower",
+      "X": "The angle of incidence is greater than the angle of refraction",
+      "Y": "The average speed of light is faster in the denser medium",
+      "Z": "The light loses energy while traveling into the denser medium"
+    },
+    "answer": "X) The angle of incidence is greater than the angle of refraction"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "As the concentration of solute in a solution increases, the vapor pressure of the solution will",
+    "choices": {
+      "W": "Increase",
+      "X": "Decrease",
+      "Y": "Stay the same",
+      "Z": "Increase and then decrease"
+    },
+    "answer": "X) Decrease"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following four solutions in order of decreasing freezing point: 1) .1 M KCl 2) .1 M $\\athrm{Li_3N}$ 3) .3 M $\\athrm{C_6H_{12}O_6}$ 4) .3 M $\\athrm{NaPO_4}$",
+    "answer": "1, 3, 2, 4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following four features of a convergent active margin from most landward to most seaward: I. Row of active volcanoes II. Deep-sea trench III. Narrow continental shelf IV. Steep continental slope",
+    "answer": "I, III, IV, II"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name which of the following are true about granules on the Sun: I. Granules are caused by convection, with gas rising on the edges and sinking in the middle II. Granules are hottest in their centers and coolest on their edges III. Granules are primarily found in the photosphere",
+    "answer": "II, III"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $\\ec (x) + \\tan (x) = 2$, what is $\\ec (x) - \\tan (x)$?",
+    "answer": "$1/2$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $\\ec (x) + \\tan (x) = 2$, what is $\\sc (x) + \\ot (x)$?",
+    "answer": "$\\sc(x) + \\ot(x)$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In axons that are myelinated, what is the location on the axon where voltage gated sodium channels are restricted?",
+    "answer": "Node of Ranvier"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What is the type of summation that occurs when two EPSPs cross a single synapses in rapid succession",
+    "choices": {
+      "W": "Subthreshold",
+      "X": "Temporal",
+      "Y": "Spatial",
+      "Z": "Inhibitory"
+    },
+    "answer": "X) Temporal"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Tim drives a 100kg car, going 20 m/s. If the brakes apply a force of 200N, how long does it take for Tim to stop?",
+    "answer": "10 seconds"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In SI base units, the area under the curve of torque over time is equal to:",
+    "choices": {
+      "W": "$\\athrm{kg\\m^2 / s}$",
+      "X": "$\\athrm{kg\\m^2 / s^2}$",
+      "Y": "kg m / s^2",
+      "Z": "kg m^3 / s^2"
+    },
+    "answer": "W) $\\athrm{kg\\m^2 / s}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements has the highest electronegativity?",
+    "choices": {
+      "W": "Oxygen",
+      "X": "Nitrogen",
+      "Y": "Chlorine",
+      "Z": "Hydrogen"
+    },
+    "answer": "W) Oxygen"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases will exhibit the greatest deviations from ideal gas behaviour?",
+    "choices": {
+      "W": "Carbon Dioxide",
+      "X": "Sulfur Dioxide",
+      "Y": "Methane",
+      "Z": "Oxygen"
+    },
+    "answer": "X) Sulfur Dioxide"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The interstellar space medium primarily emits what type of electromagnetic radiation?",
+    "choices": {
+      "W": "radio",
+      "X": "infrared",
+      "Y": "visible light",
+      "Z": "UV"
+    },
+    "answer": "X) infrared"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Convergence and divergence of flow aloft can often lead to the development of mid-latitude cyclones, but not always. Which of the following criteria is needed in order for the development of a mid-latitude cyclone?",
+    "choices": {
+      "W": "Lows and highs aloft must be slightly west of lows and highs on the surface",
+      "X": "Lows and high aloft must be completely aligned with lows and highs on the surface",
+      "Y": "Air must be flowing clockwise both aloft and at the surface",
+      "Z": "Air must be flowing counterclockwise both aloft and at the surface"
+    },
+    "answer": "W) Lows and highs aloft must be slightly west of lows and highs on the surface"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The graphs of $y = 2^x$ and $y = x^2$ intersect each other at how many points",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "Z) 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of the ellipse $16x^2 + 128x + 9y^2 - 36y = -144$",
+    "answer": "The area of the ellipse"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "List all of the following that are biogenic amines: I) Norepinephrine II) Acetylcholine III) Serotonin",
+    "answer": "I and III"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a function of neuropeptides?",
+    "choices": {
+      "W": "Produces hallucinations",
+      "X": "Produces euphoria",
+      "Y": "affects attention",
+      "Z": "formation of long term memory"
+    },
+    "answer": "X) Produces euphoria"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Sound waves move fastest through:",
+    "choices": {
+      "W": "Air",
+      "X": "Ice",
+      "Y": "Water",
+      "Z": "Iron"
+    },
+    "answer": "Z) Iron"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Your bonus question goes here.",
+    "answer": "The correct answer"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A rigid container containing only neon gas and oxygen gas is at constant temperature. If a tiny hole was to be poked such that the gases could escape, how will the partial pressure of the oxygen change in relation to the initial partial pressures?",
+    "choices": {
+      "W": "The partial pressure of oxygen will decrease at a faster rate than the partial pressure of neon",
+      "X": "The partial pressure of oxygen will decrease at a slower rate than the partial pressure of neon",
+      "Y": "The partial pressures of both oxygen and neon will stay the same",
+      "Z": "The partial pressures of both oxygen and neon will increase at an equal rate"
+    },
+    "answer": "X) The partial pressure of oxygen will decrease at a slower rate than the partial pressure of neon"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate all of the following conditions that will be most likely to increase the rate of gas production in the chemical reaction $\\athrm{CaCO_3(s)} + 2\\athrm{HCl(aq)} \\ightarrow \\athrm{CaCl_2(aq)} + \\athrm{H_2O(l)} + \\athrm{CO_2(g)}$: 1) Decreasing the particle size of $\\athrm{CaCO_3}$ by crushing into a fine powder 2) Decreasing the concentration of the HCl solution used 3) Decreasing the temperature at which the reaction is performed 4) Adding a catalyst to the reaction",
+    "answer": "1, 4"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the surface current that is a strong, offshore current pulling away from the shore, which can often be escaped by swimming parallel to the shore?",
+    "answer": "Rip current"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of a type of star that shoots beams of concentrated rays at its poles?",
+    "answer": "Magnetar"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Expand $(a+b)^4$.",
+    "answer": "$a^4 + 4a^3b + 6a^2b^2 + 4ab^3 + b^4$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Give the type of graph of each of the following three polar equations. i) $r = 4\\os(\\theta)$ ii) $r = 1 / (\\os(\\theta) + \\in(\\theta))$ iii) $r = 3 - 3\\in(\\theta)$",
+    "answer": "i) circle ii) line iii) cardioid"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cannot be a characteristic of a cardiac muscle fiber?",
+    "choices": {
+      "W": "It can be multicellular",
+      "X": "It is striated",
+      "Y": "The myosin and actin filaments are not organized",
+      "Z": "All of the fibers are always electrically connected to one another"
+    },
+    "answer": "Y) The myosin and actin filaments are not organized"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Choose all of the following that are NOT correct about catecholamines. I. They increase heart rate and stroke volume. II. They dilate the bronchioles in the lungs. III. They shunt blood towards the skin, digestive organs, and kidneys.",
+    "answer": "III. They shunt blood towards the skin, digestive organs, and kidneys."
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Tim installs a pulley system to help him lift his cat. Initially, he pulls down $10\\athrm{m}$, applying $100\\athrm{N}$ to lift his cat $10\\athrm{m}$. If the mechanical advantage of the pulley is the two, what is the resulting distance the cat is lifted if he uses the same amount of energy and pulls down the same distance?",
+    "answer": "$20\\athrm{m}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Name all of which of the following pairs forming a particle are pions: I. Up quark, down quark II. Up quark, anti down quark III. Muon, anti electron",
+    "answer": "II only"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What neutral, period 5 element has the smallest atomic radius?",
+    "answer": "Radon"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements has the lowest electron affinity?",
+    "choices": {
+      "W": "Cobalt",
+      "X": "Silver",
+      "Y": "Selenium",
+      "Z": "Barium"
+    },
+    "answer": "Z) Barium"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "While writing science bowl questions, Tim notices a striated blue mineral showing great labradorescence on the floor. What could this mineral be?",
+    "choices": {
+      "W": "Amazonite",
+      "X": "Microcline",
+      "Y": "Labradorite",
+      "Z": "Glaucophene"
+    },
+    "answer": "Y) Labradorite"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name all of the following three that are true about passive margins compared to active margins: I. Passive margins contain a continental rise, while convergent active margins don't II. Passive margins have a relatively flat continental shelf, while transform active margins don't III. Passive margins have a broad continental shelf, while convergent active margins have narrower ones",
+    "answer": "I, II, III"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Daisy wants to create a flower in math class, so she uses desmos to graph a few. Name all of the following polar equations that would give her a flower with 12 petals: I) $r = 5\\os6\\theta$ II) $r = 5\\in6\\theta$ III) $r = 5\\in12\\theta$",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The numbers $x$ and $x + 12$ are three-digit and four-digit palindromes, respectively. What is the sum of the digits of $x$?",
+    "answer": "26"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Amino acids must contain what two functional groups?",
+    "choices": {
+      "W": "Amine and Thiol",
+      "X": "Amine and Carbonyl",
+      "Y": "Amine and Hydroxyl",
+      "Z": "Amine and Carboxyl"
+    },
+    "answer": "Z) Amine and Carboxyl"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "At what age does the prefrontal cortex fully develop?",
+    "choices": {
+      "W": "10 years",
+      "X": "14 years",
+      "Y": "18 years",
+      "Z": "25 years"
+    },
+    "answer": "Z) 25 years"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What quantity is equal to $U - TS$?",
+    "choices": {
+      "W": "Gibbs Free Energy",
+      "X": "Enthalpy",
+      "Y": "Helmholtz Free Energy",
+      "Z": "Work"
+    },
+    "answer": "Y) Helmholtz Free Energy"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Calculate the change in entropy when a mol of gas is isothermally expanded from 100L to 271L.",
+    "answer": "$nR\\n(271/100) = 8.314\\\\athrm{J/K}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The equation of a reaction is $\\athrm{Mg} + 2\\athrm{OH} \\ightarrow \\athrm{Mg(OH)_2}$. What is the order of the reaction, given that the graph of time versus $1 / [\\athrm{Mg}]$ is linear?",
+    "answer": "Second Order"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the molarity of the amount of hydrochloric acid that is present in one liter of water if the pH is 4",
+    "choices": {
+      "W": "$1.0 \\times 10^{-1}$",
+      "X": "$1.0 \\times 10^{-2}$",
+      "Y": "$1.0 \\times 10^{-3}$",
+      "Z": "$1.0 \\times 10^{-4}$"
+    },
+    "answer": "$1.0 \\times 10^{-4}$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is a name for the center of mass in a star system?",
+    "answer": "Barycenter"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Alfred Wegener discovered evidence of glacial activity on the southern ends of India, Australia, South America, and Africa. One hypothesis for this activity is that Earth was undergoing a global ice age 300 million years ago. Which of the following is evidence of why that hypothesis is wrong?",
+    "choices": {
+      "W": "Currently, the southern ends of those landmasses are close enough to the poles to form glaciers",
+      "X": "O18 to O16 ratios 300 million years ago in sediment cores are too high",
+      "Y": "Tree rings formed 300 million years ago are too thick",
+      "Z": "Scientists have discovered coal deposits dating back to 300 million years ago"
+    },
+    "answer": "Z) Scientists have discovered coal deposits dating back to 300 million years ago"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In how many ways can you split 8 cookies among 3 people?",
+    "answer": "21"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A square of area 20 is inscribed in a semicircle. What is the area of the semicircle?",
+    "answer": "The area of the semicircle"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The stage of a viruses life cycle when it assembles and buds from its host cell, causing the cell to burst, is known as what?",
+    "choices": {
+      "W": "Lysogenic cycle",
+      "X": "Lytic cycle",
+      "Y": "Wilson cycle",
+      "Z": "Krebs cycle"
+    },
+    "answer": "X) Lytic cycle"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Name all of which of the following are differences between retroviruses and togaviruses: I. Retroviruses contain RNA, while togaviruses contain DNA II. Retroviruses replicate inside the nucleus, while togaviruses replicate outside III. Retroviruses require reverse transcriptase to replicate, while togaviruses don't",
+    "choices": {
+      "W": "I, II",
+      "X": "I, III",
+      "Y": "II, III",
+      "Z": "I, II, III"
+    },
+    "answer": "II, III"
+  }
+]

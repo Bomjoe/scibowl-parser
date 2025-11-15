@@ -1,0 +1,470 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds in the citric acid cycle is NOT a four carbon compound?",
+    "choices": {
+      "W": "Alpha-Ketoglutarate",
+      "X": "Succinate",
+      "Y": "Fumarate",
+      "Z": "Malate"
+    },
+    "answer": "W) Alpha-Ketoglutarate"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What class of plant hormones is produced in the roots in response to low phosphate levels and is responsible for regulating the attraction of mycorrhizal fungi to the roots?",
+    "answer": "Strigolactones"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 elements that violate the Aufbau principle: 1) Potassium; 2) Chromium; 3) Copper; 4) Zinc.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "You take photoelectron spectroscopy spectra of samples of three different elements and normalize them so that the first peaks of all three spectra are the same height. Order the following three elements in order of increasing height of the last peak in their PES spectra: 1) Lithium; 2) Nitrogen; 3) Magnesium.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cryptographic operations is a one-way transformation to a string of fixed length, and is commonly used to securely store passwords?",
+    "choices": {
+      "W": "Encoding",
+      "X": "Encrypting",
+      "Y": "Hashing",
+      "Z": "Salting"
+    },
+    "answer": "Y) Hashing"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "When programming an unbalanced binary search tree, you discover that your search time is still linear. Which of the following best explains why your search time is linear?",
+    "choices": {
+      "W": "Values are not being added such that they follow the binary search tree inequality",
+      "X": "Values are added in a strictly increasing or decreasing order.",
+      "Y": "Non-distinct values are being added.",
+      "Z": "The search algorithm is using breadth first search"
+    },
+    "answer": "X) VALUES ARE ADDED IN A STRICTLY INCREASING OR DECREASING ORDER."
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three metamorphic facies that would likely be created by contact metamorphism: 1) Eclogite; 2) Greenschist; 3) Blueschist.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a likely effect of a global increase in cloud condensation nuclei?",
+    "choices": {
+      "W": "Increase in Earth's albedo",
+      "X": "Increase in individual cloud brightness",
+      "Y": "Decrease in Earth's temperature",
+      "Z": "Decrease in individual cloud lifetimes"
+    },
+    "answer": "Z) DECREASE IN INDIVIDUAL CLOUD LIFETIMES"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A cell sample initially has 60 cells at 4:30 PM. If the cell population doubles every 3 minutes, how many cells will be in the sample at 4:45 PM?",
+    "answer": "1920"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many monic quadratic polynomials with integer coefficients have both of the following 2 properties: I) The quadratic has two distinct integer roots between -5 and 5 inclusive, and II) The quadratic has points in all four quadrants, not counting points on the x and y axes.",
+    "answer": "25"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A force of 50 Newtons is used to stretch a spring 0.2 meters from equilibrium. What is the potential energy stored in this spring in Joules?",
+    "answer": "5"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A heat pump is running between two reservoirs with temperatures of 500 Kelvin and 350 Kelvin. What is the ratio of the efficiency of this heat pump to the efficiency of a refrigerator running between the same two reservoirs?",
+    "answer": "0.7"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The formation of an apoptosome is triggered when dATP and what other molecule binds to Apaf-1?",
+    "choices": {
+      "W": "Caspase 9",
+      "X": "Bcl-2",
+      "Y": "Cytochrome C",
+      "Z": "Bax"
+    },
+    "answer": "Y) Cytochrome C"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four cells that myeloid stem cells can turn into: I) Lymphoid cell II) Red blood cell III) Basophil IV) Natural killer cell",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An organometallic reagent where carbon is bonded with which of the following metals will undergo the most rapid addition into an aldehyde?",
+    "choices": {
+      "W": "Lithium",
+      "X": "Aluminum",
+      "Y": "Zinc",
+      "Z": "Palladium"
+    },
+    "answer": "W) LITHIUM"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "100 grams of Substance A with a specific heat of 2 Joules per gram Celsius is heated from 20 to 70 degrees Celsius. Then, 100 grams of Substance B with a specific heat of 4 Joules per gram Celsius is added at a temperature of 40 degrees Celsius. The mixture is allowed to reach thermal equilibrium and then heated back up to 70 degrees Celsius. How many total Joules are required for this process?",
+    "answer": "22,000"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "Neural networks are typically composed of input layers, output layers, and what other kind of layer, which is responsible for performing complex calculations using the network’s built-in parameters?",
+    "answer": "HIDDEN LAYER"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "Colin has two equal-length sequences of bits, A and B. He passes A and B through a binary logic gate and receives C as his output. If it is possible to reconstruct sequence A using only sequences B and C, identify all of the following 3 logic gates he could have used: 1) AND; 2) XOR; 3) XNOR",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three regions of the Milky Way in which Population I stars are dominant: 1) Bulge; 2) Disk; 3) Halo.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Mercury is locked in a 3-to-2 spin-orbit resonance, with a sidereal day length of A and an orbital period of 3A/2. In terms of A, how long would a solar day last to an observer on Mercury?",
+    "answer": "3A"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Jack scores 112 points on a test whose results are normally distributed with a mean of 100 and a standard deviation of 15. What is the z-score of Jack's score?",
+    "answer": "0.8"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let S be the set of positive integers under 100 with 2 as a digit. How many zeroes are at the end of the number obtained by multiplying together all the numbers in S?",
+    "answer": "3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two resistors with resistance R are placed in parallel, and a 300 Ohm resistor is placed in series with these. If these resistors are connected to a constant voltage source, what value of R will maximize the power dissipated in the parallel resistors?",
+    "answer": "600"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following optical devices always produces a virtual upright image on the same side of the device as the object?",
+    "choices": {
+      "W": "Convex mirror",
+      "X": "Concave mirror",
+      "Y": "Convex lens",
+      "Z": "Concave lens"
+    },
+    "answer": "Z) Concave lens"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 amino acids from most polar to least polar side chain: 1) Alanine; 2) Glutamate; 3) Methionine.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What is the term for the area of intergradation between two distinct terrestrial biomes.",
+    "choices": {
+      "W": "Biotone",
+      "X": "Ecotone",
+      "Y": "Biome Boundary Layer",
+      "Z": "Ecological Overlap Zone"
+    },
+    "answer": "X) Ecotone"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pairs of elements could combine to form an interstitial alloy?",
+    "choices": {
+      "W": "Iron and carbon",
+      "X": "Iron and chromium",
+      "Y": "Zinc and lead",
+      "Z": "Zinc and tin"
+    },
+    "answer": "W) IRON AND CARBON"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three reagents that can oxidize a primary alcohol into a carboxylic acid: 1) Jones reagent; 2) PCC in DCM; 3) PCC in $\\athrm{H}_2\\athrm{O}$",
+    "answer": "1 AND 3 (ACCEPT: ALL BUT 2)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes a minimum spanning tree?",
+    "choices": {
+      "W": "A tree that only covers a proper subset of the vertices in a graph",
+      "X": "A tree formed from the contraction of edges between vertices of high degree",
+      "Y": "A tree formed from the contraction of edges between vertices of low degree",
+      "Z": "A tree that covers all vertices in a graph with the least total edge cost"
+    },
+    "answer": "Z) A TREE THAT COVERS ALL VERTICES IN A GRAPH WITH THE LEAST TOTAL EDGE COST"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "On a standard webpage, what tree-like structure is used to organize elements in a HTML or XML document and allows them to be accessed by client-side code?",
+    "answer": "DOCUMENT OBJECT MODEL (ACCEPT: DOM)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three types of asteroids from lowest to highest density: 1) C-type; 2) M-type; 3) S-type.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three elements that exhibit strong emission lines in the spectra of Wolf-Rayet stars: 1) Hydrogen; 2) Helium; 3) Carbon.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A teacher wants to select a committee of 3 members where 2 must be boys and 1 must be a girl. Given that there are 45 ways to make committees, and that there are 2 times as many boys as there are girls. Which of the following could be the number of girls in the class?",
+    "choices": {
+      "W": "3",
+      "X": "4",
+      "Y": "5",
+      "Z": "6"
+    },
+    "answer": "W) 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Isaac is attempting to apply Rolle's Theorem on an interval of the function $y = x^{2} + 6x + 2023$ . If the x-coordinate of one endpoint of his interval is 2024, what is the x-coordinate of the other endpoint?",
+    "answer": "- 2030"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true about photons: 1) They carry energy; 2) They carry momentum; 3) They are excitations in a spinor field",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A rectangle is formed from a thin sheet of metal that is twice as long as it is wide. When the rectangle is rotated about an axis passing through its center of mass and parallel to the short side, its moment of inertia is equal to 12. What is the moment of inertia of the rectangle when rotated about an axis through its center of mass perpendicular to its surface?",
+    "answer": "15"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The organ identity genes, which regulate the development of the stereotypical flower, belong to which of the following family of genes?",
+    "choices": {
+      "W": "MADS- box",
+      "X": "SRF- box",
+      "Y": "CYP",
+      "Z": "HSP"
+    },
+    "answer": "W) MADS- box"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During translation, a mrna binds to a small ribosomal subunit. A large ribosomal subunit needs to bind on to form the initiation complex. How many GTP molecules will need to be hydrolyzed to provide energy for the large ribosomal subunit to form the initiation complex?",
+    "answer": "2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Coby Tran performs a Ni(II)-catalyzed asymmetric hydroxylation reaction on a substrate and gets a mixture with an enantiomeric excess of $10\\$ favoring the (R) enantiomer. What is the molar ratio of the (R) to (S) enantiomers in the product?",
+    "answer": "11/9 (ACCEPT: 11 TO 9)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Bill Zhao makes a solution of $n$ -propyl acetate in THF and adds in what he thought was two equivalents of a Grignard reagent. He later realizes that he only added 0.8 equivalents of the Grignard reagent. Identify all of the following three functional groups he expects to see after acid workup: 1) Alcohol; 2) Ketone; 3) Ester",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 data types in Python that are immutable: 1) String; 2) List; 3) Tuple.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the main difference between a 64-bit and 32-bit operating system?",
+    "choices": {
+      "W": "Maximum processing speed",
+      "X": "Number of different CPU instructions",
+      "Y": "Size of a memory address",
+      "Z": "Size of the hard disk partition"
+    },
+    "answer": "Y) SIZE OF A MEMORY ADDRESS"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Ice formation surrounding Antarctica is driven by the action of what cold, high-speed winds coming from the interior of the continent?",
+    "answer": "KATABATIC WINDS"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the height and primary productivity, respectively, of ocean gyre centers compared to currents on the edge of the gyre?",
+    "choices": {
+      "W": "Higher; higher",
+      "X": "Higher; lower",
+      "Y": "Lower; higher",
+      "Z": "Lower; lower"
+    },
+    "answer": "X) HIGHER; LOWER"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of an isosceles trapezoid with bases of length 10 and 16 and leg length 5?",
+    "answer": "52"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Your teacher creates a list of 10 math problems, and you know how to do 7 of them. If your teacher then selects 5 of those 10 problems at random, what is the probability that you only know how to do 2 of those 5 problems?",
+    "answer": "1/12"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 forces that are fictitious forces: 1) Lorentz force; 2) Centripetal force; 3) Centrifugal force",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A certain subatomic particle has a lifetime of $4 \\times 10^{-5}$ seconds when at rest. If the particle is traveling at a speed of 0.6c, how many meters can it travel before it decays, to one significant figure?",
+    "answer": "9000"
+  }
+]

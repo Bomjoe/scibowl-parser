@@ -1,0 +1,484 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term is given to fluctuations in allele frequencies due to random chance?",
+    "answer": "GENETIC DRIFT"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "During what phase of mitosis does the kinetochore form?",
+    "choices": {
+      "W": "Prophase",
+      "X": "Prometaphase",
+      "Y": "Metaphase",
+      "Z": "Anaphase"
+    },
+    "answer": "X) PROMETAPHASE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the difference between Arrhenius and Lewis acids?",
+    "choices": {
+      "W": "Lewis acids release $\\athrm{H+}$ ions in solution while Arrhenius acids are electron pair donors",
+      "X": "Arrhenius acids release $\\athrm{H+}$ ions in solution while Lewis acids are electron pair donors",
+      "Y": "Lewis acids release $\\athrm{H+}$ ions in solution while Arrhenius acids are electron pair acceptors",
+      "Z": "Arrhenius acids release $\\athrm{H+}$ ions in solution while Lewis acids are electron pair acceptors"
+    },
+    "answer": "Z) ARRHENIUS ACIDS RELEASE $\\athrm{H+}$ IONS IN SOLUTION WHILE LEWIS ACIDS ARE ELECTRON PAIR ACCEPTORS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following acids is the strongest?",
+    "choices": {
+      "W": "Hypoiodous acid",
+      "X": "Bromic acid",
+      "Y": "Nitric acid",
+      "Z": "Perchloric acid"
+    },
+    "answer": "Z) PERCHLORIC ACID"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three planets that have day lengths shorter than that of earth: 1) Jupiter 2) Mars 3) Saturn",
+    "answer": "1 AND 3 (ACCEPT: JUPITER, SATURN)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following depositional features is a narrow ridge of sediment on either side of a stream that is deposited when the stream floods?",
+    "choices": {
+      "W": "Point bar",
+      "X": "Levee",
+      "Y": "Alluvial fan",
+      "Z": "Mouth bar"
+    },
+    "answer": "X) LEVEE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the x-intercept and twice the y-intercept of the line $9x + 4y = 108$?",
+    "answer": "66"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Suppose that $x$ and $y$ are complex numbers such that $x + y = 20$ and $x \\times y = 5$. Determine the value of $\\rac{1}{x} + \\rac{1}{y}$.",
+    "answer": "4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Akshansh is skiing down Mt. Rose and hits a circular bump with a radius of 90 meters. If he manages to not get any air time, what is the maximum speed he could have been going at, in meters per second and assuming $g$ is $10 \\athrm{m / s^2}$?",
+    "answer": "$30 \\athrm{m / s}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following most accurately describes the function of a dielectric in a capacitor?",
+    "choices": {
+      "W": "To increase the charge stored in the capacitor for a given voltage",
+      "X": "To increase the voltage applied by a capacitor for a given amount of stored charge",
+      "Y": "To decrease the current flowing through the capacitor when in use",
+      "Z": "To shorten the time until the capacitor is fully charged"
+    },
+    "answer": "W) TO INCREASE THE CHARGE STORED IN THE CAPACITOR FOR A GIVEN VOLTAGE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A team members are studying molecular mechanisms of neurophysiology. The influx of which ion directly causes exocytosis of neurotransmitter-containing vesicles?",
+    "answer": "CALCIUM (ACCEPT: $\\athrm{Ca^{2+}}$)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson HS A Team members are currently studying the environmental impacts of lithium mining in Humboldt and Esmeralda counties. In northern Nevada, new technology is being used to extract lithium from clays instead of brines or pegmatites. Which of the following statements about pegmatites is false?",
+    "choices": {
+      "W": "They are coarse-grained igneous rocks that can contain atypical igneous minerals, such as tourmaline",
+      "X": "They are often found near batholiths",
+      "Y": "They contain large crystals of at least 25 millimeters in size",
+      "Z": "They form from magma at high temperatures and low pressures"
+    },
+    "answer": "Z) THEY FORM FROM MAGMA AT HIGH TEMPERATURES AND LOW PRESSURES"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "SnoRNA is a special type of RNA that modifies pre-mRNA by adding methyl groups. Where would you expect SnoRNA to be found?",
+    "choices": {
+      "W": "Cytoplasm",
+      "X": "Nucleus",
+      "Y": "Rough endoplasmic reticulum",
+      "Z": "Golgi apparatus"
+    },
+    "answer": "X) NUCLEUS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Griffin constructs an artificial membrane containing aquaporins and no other channels, forming two compartments. He then puts 100 millimolar sodium chloride in the left compartment and 200 millimolar urea in the right compartment. Which of the following would you expect to happen?",
+    "choices": {
+      "W": "There would be no net movement of water",
+      "X": "There would be a net movement of water into the right compartment",
+      "Y": "There would be a net movement of water into the left compartment",
+      "Z": "There would be a net movement of sodium chloride into the right compartment"
+    },
+    "answer": "W) THERE WOULD BE NO NET MOVEMENT OF WATER"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the ideal van't Hoff factor for aluminum nitrate?",
+    "answer": "4"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three polyatomic ions that demonstrate resonance: 1) Nitrate 2) Sulfate 3) Ammonium",
+    "answer": "1 AND 2 (ACCEPT: NITRATE, SULFATE)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of substellar object has a mass of between 13 and 80 times that of Jupiter and is often considered to be a failed star, due to its inability to fuse normal hydrogen?",
+    "answer": "BROWN DWARF"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The state precious gemstone of Nevada is the black fire opal. Opals are not considered minerals in their own right because they are the hydrated, amorphous form of what compound?",
+    "answer": "SILICON DIOXIDE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many primes are less than 100?",
+    "choices": {
+      "W": "15",
+      "X": "25",
+      "Y": "35",
+      "Z": "45"
+    },
+    "answer": "X) 25"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A rep-tile is a shape that can be tiled by multiple, smaller copies of itself. By name or number, identify all of the following regular polygons that are rep-tiles: 1) Equilateral triangle 2) Square 3) Regular pentagon 4) Regular hexagon",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A lubricated cantaloupe starts at rest and slides across a floor, experiencing an acceleration, in meters per second squared, of $2t$ at time $t$. How far, in meters, does the cantaloupe travel between time $t = 0$ and $t = 3$?",
+    "answer": "9"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains how electric field lines and equipotential lines orient themselves?",
+    "choices": {
+      "W": "Equipotential lines are always parallel to field lines",
+      "X": "The dot product is always maximized where two lines cross",
+      "Y": "Field lines are always perpendicular to equipotential lines",
+      "Z": "There is no fixed relation between them"
+    },
+    "answer": "Y) FIELD LINES ARE ALWAYS PERPENDICULAR TO EQUIPOTENTIAL LINES"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS B team members are studying the method of stars and bars by rolling dice. How many ways can three distinct six-sided dice have a sum of 8?",
+    "answer": "21"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson HS A Team Members are studying early to mid-20th century developments in nuclear physics. Which of the following scientists shared the 1903 Nobel Prize in Physics with the Curies thanks to his discovery of spontaneous radioactivity through work with Uranium salts?",
+    "choices": {
+      "W": "Henri Becquerel",
+      "X": "Wilhelm Rontgen",
+      "Y": "Frederic Joliot",
+      "Z": "Otto Hahn"
+    },
+    "answer": "W) HENRI BECQUEREL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes what is occurring at threshold during an action potential?",
+    "choices": {
+      "W": "The influx of sodium ions exceeds the efflux of potassium ions",
+      "X": "The influx of potassium ions exceeds the efflux of sodium ions",
+      "Y": "The influx of sodium ions is balanced by the efflux of potassium ions",
+      "Z": "The influx of potassium ions is balanced by the efflux of sodium ions"
+    },
+    "answer": "Y) THE INFLUX OF SODIUM IONS IS BALANCED BY THE EFFLUX OF POTASSIUM IONS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three stages of embryonic development from first to last: 1) Gastrula 2) Morula 3) Blastula",
+    "answer": "2, 3, 1 (ACCEPT: MORULA, BLASTULA, GASTRULA)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases experiences the greatest deviation from ideal gas behavior?",
+    "choices": {
+      "W": "Chlorine",
+      "X": "Carbon dioxide",
+      "Y": "Neon",
+      "Z": "Sulfur dioxide"
+    },
+    "answer": "Z) SULFUR DIOXIDE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider the gas-phase combustion of propane at STP. To the nearest whole number, how many liters of gas are formed when one mole of propane is completely combusted in excess oxygen?",
+    "answer": "157"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the type of front that occurs when a fast-moving cold front overtakes a slower-moving warm front?",
+    "answer": "OCCLUDED FRONT (ACCEPT: OCCLUDED)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What adjective is used to describe a stream that flows all year and not just during the wet season?",
+    "answer": "PERENNIAL"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "$3x + 8y + 9z = 93$, $3x + 6y + 9z = 87$, and $x + 8y + 9z = 77$. What is $x + 2y + 3z$?",
+    "answer": "29"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers has the most distinct prime factors:",
+    "choices": {
+      "W": "7700",
+      "X": "1170",
+      "Y": "2310",
+      "Z": "5040"
+    },
+    "answer": "Y) 2310"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In terms of tensile/compressive stress and axial strain, what is Young's modulus defined as?",
+    "choices": {
+      "W": "Stress times strain",
+      "X": "Stress plus strain",
+      "Y": "Strain over stress",
+      "Z": "Stress over strain"
+    },
+    "answer": "Z) STRESS OVER STRAIN"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Paolo has built a machine that accelerates moss spores at $20,000 \\athrm{m/s^2}$ for 1 second. What is the impulse, in Newton seconds, given to a one milligram spore launched by Paolo's machine?",
+    "answer": "0.02"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS A team members are studying ideal gases. By name or number, identify all of the following three pairs of quantities that are inversely proportional according to the ideal gas law, assuming all other variables are held constant: 1) Moles of a gas and pressure 2) Moles of a gas and temperature 3) Pressure and volume",
+    "answer": "2 AND 3 (ACCEPT: MOLES OF A GAS AND TEMPERATURE, PRESSURE AND VOLUME)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson HS B Team members are studying the object ESO 577-24. In the center of this object lies a white dwarf, the only remnant after a red giant ejects its outer layers. ESO 577-24 is an example of what type of object?",
+    "choices": {
+      "W": "Planetary nebula",
+      "X": "Herbig Haro Object",
+      "Y": "Supernova remnant",
+      "Z": "Absorption nebula"
+    },
+    "answer": "W) PLANETARY NEBULA"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term is given to a flower with both male and female reproductive structures?",
+    "answer": "PERFECT (ACCEPT: HERMAPHRODITIC)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Sage plants secrete toxins that kill off plants in the surrounding area. This would most likely result in what type of species distribution?",
+    "choices": {
+      "W": "Uniform",
+      "X": "Clumped",
+      "Y": "Random",
+      "Z": "Dispersive"
+    },
+    "answer": "W) UNIFORM"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following four substances in order of increasing standard molar entropy: 1) Gaseous water 2) Solid potassium 3) Solid sodium 4) Gaseous benzene",
+    "answer": "3, 2, 1, 4 (ACCEPT: SOLID SODIUM, SOLID POTASSIUM, GASEOUS WATER, GASEOUS BENZENE)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The suffix -al in organic chemistry indicates the presence of which functional group?",
+    "choices": {
+      "W": "Alcohol",
+      "X": "Aldehyde",
+      "Y": "Ketone",
+      "Z": "Ester"
+    },
+    "answer": "X) ALDEHYDE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of aberration is caused due to light of different wavelengths having different focal lengths?",
+    "answer": "CHROMATIC"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Arrange the following three features in order of decreasing distance from the coast: 1) Continental shelf 2) Mid-ocean ridge 3) Continental rise",
+    "answer": "2, 3, 1 (ACCEPT: MID-OCEAN RIDGE, CONTINENTAL RISE, CONTINENTAL SHELF)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Twenty people race towards a line of three indistinguishable ice cream machines. How many ways can we choose the first 3 to get ice cream, assuming order doesn't matter?",
+    "answer": "1140"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $x + 2y = 11$ and $2x - y = 12$, find $x^2 + y^2$.",
+    "answer": "53"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In general relativity, what term is given to the path that a freely moving particle will follow?",
+    "answer": "GEODESIC"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of mirrors only produces virtual images?",
+    "choices": {
+      "W": "Concave",
+      "X": "Convex",
+      "Y": "Both concave and convex",
+      "Z": "Every mirror can produce a real image"
+    },
+    "answer": "X) CONVEX"
+  }
+]

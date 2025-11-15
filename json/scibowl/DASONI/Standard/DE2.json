@@ -1,0 +1,412 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term is given to species that drastically alter the resource availability in ecosystems?",
+    "answer": "ECOSYSTEM ENGINEERS"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Two competing groups of phoenixes have opposite feather colors. Whenever a red-feathered phoenix sees a blue-feathered phoenix, it instinctively attacks it. Red-feathered phoenixes also instinctively attack any bird-shaped object with blue feathers. Identify all of the following three statements that are true about this behavioral pattern: 1) This is an example of a reflex 2) Phoenixes learn to attack blue-feathered phoenixes at a young age 3) Blue feathers serves as a sign stimulus",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "To the nearest whole number, how many times faster does helium gas effuse than nitrogen gas?",
+    "answer": "3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the bond enthalpy for a C-H bond is $412 \\athrm{kJ / mol}$, for a C-O single bond is $360 \\athrm{kJ / mol}$, and for a C=O double bond is $743 \\athrm{kJ / mol}$, what would you expect the average bond enthalpy for a carbon-oxygen bond in formate to be, in $\\athrm{kJ / mol}$, given that formate has the formula $\\athrm{CHO}_2^-$?",
+    "answer": "551.5"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "According to the Hubble Galaxy Classification, what is the classification of a lenticular galaxy?",
+    "answer": "SO"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of coral reef is formed when the central island sinks below the water's surface, leaving behind a central lagoon surrounded by a complete or partial ring of coral?",
+    "answer": "ATOLL"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of the smallest circle that circumscribes a triangle with side lengths 34, 16 and 30?",
+    "answer": "289\\i"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ways are there to arrange the letters in ALABAMAS?",
+    "answer": "1680"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four statements that are true for an object falling in the presence of air resistance: 1) Acceleration approaches a constant nonzero value 2) Velocity approaches a constant nonzero value 3) Net force on the object approaches zero 4) The object's speed after a very long time does not depend on its initial velocity",
+    "answer": "2, 3, AND 4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If the mass of a disk is doubled, the radius halved, and a force still acts on the edge of the disk with the same magnitude, by what factor is the angular acceleration multiplied by?",
+    "answer": "1"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "A team members are studying the various types of meteorites. By name or number, order the following three classifications of meteorites in order from least to most common: 1) Chondrites 2) Iron meteorites 3) Achondrites",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "A reaction follows the rate law $\\athrm{Rate} = \\athrm{k}[\\athrm{A}]^{2}$. Identify all of the following three graphs whose slope is positive: 1) $1 / [\\athrm{A}]$ vs time 2) $[\\athrm{A}]^{2}$ vs time 3) $\\n [\\athrm{A}]$ vs time",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the function of ubiquitination?",
+    "choices": {
+      "W": "Marks proteins for destruction in proteasomes",
+      "X": "Marks protein for exocytosis",
+      "Y": "Facilitates attachment of a protein to the plasma membrane",
+      "Z": "Increases stability of cytosolic proteins"
+    },
+    "answer": "W) MARKS PROTEINS FOR DESTRUCTION IN PROTEASOMES"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Uncoupling agents, such as 2,4-dinitrophenol, allow hydrogen ions to flow freely down their concentration gradient across the inner mitochondrial membrane. This dissipates the potential energy used to power what enzyme in the electron transport chain?",
+    "answer": "ATP SYNTHASE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that are able to form hydrogen bonds with itself: 1) Ethanol 2) Methyl fluoride 3) Chloroform",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The carbonate ion is resonance-stabilized. What is the average charge on each oxygen atom when you consider every possible resonance structure?",
+    "answer": "-\\rac{2}{3}"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three scales that measure earthquake intensity: 1) Enhanced Fujita 2) Richter 3) Modified Mercalli",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three volcanoes from the one that would produce the most viscous lava flows to the one that would produce the least viscous lava flows: 1) A hotspot volcano on top of an oceanic plate 2) A volcano associated with an oceanic-continental subduction zone 3) A hotspot volcano on top of a continental plate",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the positive divisors of 36?",
+    "answer": "91"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Griffin discovers that $1 + 1 = 2$. In excitement, he continues to write down additions, continuing with all the distinct additions adding up to 3, 4, ..., 100. When he has finished, how many integers has he written down, assuming that $a + b = c$ and $b + a = c$ are distinct?",
+    "answer": "14850"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The current through a series RC circuit can be best described as which of the following types of functions?",
+    "choices": {
+      "W": "Constant",
+      "X": "Linear",
+      "Y": "Inverse",
+      "Z": "Exponential"
+    },
+    "answer": "Z) EXPONENTIAL"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An RC circuit is made of a 2 millifarad capacitor connected in series with a 3 ohm resistor and a 12 volt power source. After how much time, in seconds, will there be $4e^{-(-2)}$ amps of current flowing through the circuit?",
+    "answer": "0.012"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "A team members are currently studying autosomal recessive diseases. In Tay-Sachs disease, a lack of hexosaminidase A causes the dysfunction of what organelle?",
+    "answer": "LYSOSOME"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "A team members are currently studying Kirchhoff's laws for circuits and spectroscopy. Identify all of the following statements that are true, according to Kirchhoff's laws: 1) A heated, diffuse gas produces an emission spectrum 2) The amount of current flowing into a node equals the amount of current flowing out of the node 3) A dense gas will emit radiation at all wavelengths when heated",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In which part of the male reproductive tract does spermatogenesis occur?",
+    "choices": {
+      "W": "Epididymis",
+      "X": "Vas deferens",
+      "Y": "Seminal vesicle",
+      "Z": "Seminiferous tubules"
+    },
+    "answer": "Z) SEMINIFEROUS TUBULES"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three ions that would cause hyperpolarization if their corresponding ion channels are inserted into the membrane of a neuron at rest: 1) Sodium 2) Chloride 3) Potassium",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the pH at the half-equivalence point in the titration of phenol, a weak acid with a $\\athrm{K}_{\\athrm{a}}$ of $1 \\times 10^{-10}$, and sodium hydroxide?",
+    "answer": "10"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Consider the gas-phase reaction between hydrogen and iodine to form hydrogen iodide, a reaction that has an equilibrium constant $\\athrm{K} = 46$. If hydrogen, iodine, and hydrogen iodide are mixed in a vessel at partial pressures of 0.25, 0.6, and 2.5 bar, respectively, what will happen?",
+    "choices": {
+      "W": "The reaction will shift towards the reactants",
+      "X": "The reaction will shift towards the products",
+      "Y": "The reaction is already at equilibrium",
+      "Z": "More information is needed"
+    },
+    "answer": "X) THE REACTION WILL SHIFT TOWARDS THE PRODUCTS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The mineral tourmaline has multiple refractive indices. What is the name for the difference between its minimum and maximum refractive indices?",
+    "answer": "BIREFRINGENCE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "On a weather map, if isobars run east-west, what adjective describes the direction of wind flow?",
+    "answer": "MERIDIONAL"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A transformation on points in a 2-dimensional plane first reflects a given point across the y-axis, then reflects the resulting point across the line $\\athrm{y} = -\\athrm{x} + 1$. Let S be the set of points which are unaffected by the transformation. Which of the following is true about the set S?",
+    "choices": {
+      "W": "S is empty",
+      "X": "S contains one point",
+      "Y": "S consists of all the points on one line",
+      "Z": "S contains every point on the plane"
+    },
+    "answer": "X) S CONTAINS ONE POINT"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The first term of a geometric sequence is 10, and the sum of the terms of the sequence is 12. What is the third term of the sequence? Express your answer as a fraction in simplest form.",
+    "answer": "\\rac{5}{18}"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Young's modulus is not useful in analyzing what form of stress in a material that acts parallel to the cross section?",
+    "answer": "SHEAR"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If an object is placed 10 centimeters away from a lens of focal length 2 centimeters, at what distance from the lens will the image form, in centimeters?",
+    "answer": "2.5"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "A team members are learning about sin and cosine. How many angles between 0 and $5\\i$ have cosine of theta equal to twice sine of theta?",
+    "answer": "5"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "After batholiths are brought to the surface via uplift and erosion, the minerals contained in them often slowly expand. Thin layers flake off, gradually leaving the original rock smoother and more rounded. What is the name for this process?",
+    "answer": "EXFOLIATION"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "During translation, what catalyzes peptide bond formation?",
+    "choices": {
+      "W": "Enzymes in the large ribosomal subunit",
+      "X": "Ribosomal RNA in the large ribosomal subunit",
+      "Y": "Enzymes in the small ribosomal subunit",
+      "Z": "Ribosomal RNA in the small ribosomal subunit"
+    },
+    "answer": "X) RIBOSOMAL RNA IN THE LARGE RIBOSOMAL SUBUNIT"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about ground tissues: 1) Sclerenchyma cells are dead at maturity 2) Parenchyma is responsible for most photosynthesis 3) Pith is composed almost entirely of collenchyma",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following must be true of a metal for it to be used as the sacrificial anode during cathodic protection?",
+    "choices": {
+      "W": "Positive reduction potential",
+      "X": "Negative reduction potential",
+      "Y": "More positive reduction potential than the cathode",
+      "Z": "More negative reduction potential than the cathode"
+    },
+    "answer": "Z) MORE NEGATIVE REDUCTION POTENTIAL THAN THE CATHODE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, rank the following three nuclei in terms of increasing stability: 1) Oxygen-16 2) Helium-4 3) Lithium-4",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of globular clusters: 1) They are commonly located in the spiral arms of the Milky Way 2) They contain many young blue stars 3) They are generally oblong in shape",
+    "answer": "NONE OF THEM"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three planets that have a magnetic field: 1) Jupiter 2) Mars 3) Mercury",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Owen begins to eat his Halloween candy in November. He eats 7 pieces of candy on November 1, and he eats one more piece of candy each day than he ate on the previous one. At the end of the day on November 7, his bag is empty. How many pieces of candy did he originally have?",
+    "answer": "70"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the squares of the roots of the equation $x^3 - 4x^2 - 11x + 30 = 0$?",
+    "answer": "38"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A box is attached to a spring and allowed to oscillate. What is the period of the spring, in seconds and in terms of pi, if the spring constant is $1250 \\athrm{N / m}$ and the box has a mass of $2 \\athrm{kg}$?",
+    "answer": "\\rac{2\\i}{25}"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A spaceship carrying moss spores moves at 80 percent the speed of light. If its destination is a moss-free planet 40 lightyears from Earth, how long, in years, will it take to reach its destination, from the spaceship's perspective?",
+    "answer": "30"
+  }
+]

@@ -1,0 +1,540 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Find the definite integral $\\nt_{1}^{2} \\n x dx$ .",
+    "choices": {
+      "W": "$2 \\n 2 - 3$",
+      "X": "$2 \\n 2 - 2$",
+      "Y": "$2 \\n 2 - 1$",
+      "Z": "$2 \\n 2$"
+    },
+    "answer": "Y) $2 \\n 2 - 1$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Daniel has eight letter tiles which spell the word KOREABOO. If he randomly arranges the eight tiles in a random order, what is the probability that the arrangement spells KOREABOO correctly? Express your answer as a common fraction.",
+    "answer": "1/6720"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following properties would least likely be used to differentiate between calcite and halite?",
+    "choices": {
+      "W": "Birefringence",
+      "X": "Taste",
+      "Y": "Hardness",
+      "Z": "Crystal habit"
+    },
+    "answer": "Y) Hardness"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The air temperature in a room is 25 degrees C, and the dew point is 15 degrees C. Approximate the relative humidity in the room.",
+    "answer": "$50\\$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules would not exhibit a pi bond?",
+    "choices": {
+      "W": "Difluorine",
+      "X": "Ethene",
+      "Y": "Dinitrogen",
+      "Z": "Dioxygen"
+    },
+    "answer": "W) Difluorine"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which of the following types of bonds could hypothetically be formed from the overlap of a d-orbital and a f-orbital 1) sigma bond 2) pi bond 3) delta bond 4) phi bond",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following neurotransmitters or hormones would not be classified as a catecholamine?",
+    "choices": {
+      "W": "Epinephrine",
+      "X": "Acetylcholine",
+      "Y": "Norepinephrine",
+      "Z": "Dopamine"
+    },
+    "answer": "X) Acetylcholine"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which cranial nerve is responsible for bringing signals regarding static and dynamic balance in the body to the brain?",
+    "choices": {
+      "W": "Hypoglossal",
+      "X": "Vagus",
+      "Y": "Vestibulocochlear",
+      "Z": "Accessory"
+    },
+    "answer": "Y) Vestibulocochlear"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A car is moving at $20\\athrm{m / s}$ towards a person who is standing $200\\athrm{m}$ away. The driver sees the person after some time, and begins braking at an acceleration of $-10\\athrm{m / s}^2$ . If the car stops just in front of the person, how long did it take for the driver to see the person and start braking?",
+    "answer": "9 s"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two electric charges with charges of -1 coulomb and 1 coulomb lie on a coordinate grid at (-1, 0) and (1, 0) respectively. Rank the following locations from least to greatest change in potential energy when moving a positive charge from an (0, 0) to that location. 1) (-0.5, 0) 2) (-1.5, 0) 3) (0.5, 0) 4) (1.5, 0)",
+    "answer": "2, 1, 3, 4"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Find $((\\qrt{6} + \\qrt{2}) + (\\qrt{6} - \\qrt{2})i)^6$ .",
+    "choices": {
+      "W": "$16\\qrt{3} + 48i$",
+      "X": "$64\\qrt{3} + 192i$",
+      "Y": "2048",
+      "Z": "4096"
+    },
+    "answer": "Z) 4096"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let the ellipse that has foci at (1, 2) and (1, 8) and passes through the point (5, 5) have standard-form equation $\\rac{(x - h)^2}{a^2} + \\rac{(y - k)^2}{b^2} = 1$ . Find $h + k + a + b$ .",
+    "answer": "15"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A water sample is tested for pH and nitrate content. The pH yields a result of 7 and the nitrate content 250 ppm. In what environment did this water most likely originate?",
+    "choices": {
+      "W": "River mouth",
+      "X": "Ocean",
+      "Y": "Rainwater",
+      "Z": "Mountainous lake"
+    },
+    "answer": "W) River mouth"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the sodium endmember of the plagioclase feldspar solid solution series?",
+    "answer": "Albite"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds is the most polar?",
+    "choices": {
+      "W": "1,2 dichlorobenzene",
+      "X": "1,3 dichlorobenzene",
+      "Y": "1,3 diiodobenzene",
+      "Z": "1,4 diiodobenzene"
+    },
+    "answer": "W) 1,2 dichlorobenzene"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following compounds in order of increasing solubility in water: 1) Dichloromethane 2) Carbon Tetrachloride 3) Chloroform",
+    "answer": "2,3,1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Give the name of the disease that results from an insertion of the nucleotide triplet of CAG multiple times on chromosome 4 and typically results in middle-aged to late neurological problems including unsteady gait, tremor, and dementia.",
+    "answer": "Huntington's Disease"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which amino acid has an analogue with a selenium ligand?",
+    "choices": {
+      "W": "Glycine",
+      "X": "Phenylalanine",
+      "Y": "Proline",
+      "Z": "Cysteine"
+    },
+    "answer": "Z) Cysteine"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A person is playing an organ at sea level. The person then takes that organ up to the summit of a mountain, where the temperature is half of that at sea level on the Kelvin scale, and the air pressure is also half of that at sea level. By what factor will the frequency of the organ be multiplied?",
+    "choices": {
+      "W": "1/4",
+      "X": "1/2",
+      "Y": "$\\qrt{2} / 2$",
+      "Z": "1"
+    },
+    "answer": "Y) $\\qrt{2} / 2$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Murray Gell-Mann proposed ways to organize baryons and mesons into diagrams such as the baryon decuplet and the eightfold way. List all of the following properties that Gell-Mann use to organize these particles. 1) Charge 2) Mass 3) Spin 4) Strangeness",
+    "answer": "1, 4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Determine $\\in 15^{\\irc}\\in 45^{\\irc} - \\in 75^{\\irc}\\os 45^{\\irc}$ .",
+    "answer": "- 1/2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Find the absolute value of the slope of either asymptote of the hyperbola with a horizontal transverse axis, its center at (5, 8), a center-to-vertex distance of 8, and a center-to-focus distance of 17.",
+    "choices": {
+      "W": "8/17",
+      "X": "8/15",
+      "Y": "15/8",
+      "Z": "17/8"
+    },
+    "answer": "Y) 15/8"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Nacreous clouds form in what layer of the atmosphere?",
+    "choices": {
+      "W": "Troposphere",
+      "X": "Stratosphere",
+      "Y": "Mesosphere",
+      "Z": "Thermosphere"
+    },
+    "answer": "X) Stratosphere"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for polar mesospheric clouds when observed from the ground?",
+    "answer": "Noctilucent Clouds"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many nodes does a 2s orbital possess?",
+    "answer": "1"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metals could not be isolated from its ore by heating it with coke at high temperature",
+    "choices": {
+      "W": "Iron",
+      "X": "Zinc",
+      "Y": "Calcium",
+      "Z": "Copper"
+    },
+    "answer": "Y) Calcium"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Give the name of the steroid-analogue hormones in plants responsible for promotion of cell elongation, pollen tube formation, and acceleration of senescence.",
+    "answer": "Brassinosteroids"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which form of water transport does the Casparian strip block?",
+    "choices": {
+      "W": "Apoplast- water can't pass through the intercellular medium via cell wall",
+      "X": "Symplast- water can't pass through the cytoplasm of neighboring cells",
+      "Y": "Apoplast- water can't pass through the cytoplasm of neighboring cells",
+      "Z": "Symplast- water can't pass through the intercellular medium via cell wall"
+    },
+    "answer": "W) Apoplast- water can't pass through the intercellular medium via cell wall"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following units can NOT be used to measure the strength of a magnetic field?",
+    "choices": {
+      "W": "webers per meter squared",
+      "X": "newtons per ampere-meter",
+      "Y": "henry-amperes",
+      "Z": "kilograms per coulomb-second"
+    },
+    "answer": "Y) henry-amperes"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two light beams of the same frequency interfere with each other. The second light beam is out of phase by 90 degrees from the first light beam. If the intensity of both of the light beams is $40 \\athrm{W / m}^2$ , what is the phase with respect to the first light beam and the intensity of the resulting beam?",
+    "answer": "45 degrees, $80 \\athrm{W / m}^2$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Which of the following three functions are injective? 1) $\\rctan (-x)$ 2) $\\rctan (\\in x)$ 3) $\\rctan (1 + \\tan x)$",
+    "answer": "1"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Evaluate the second nonzero term of the Maclaurin series for the function $\\rctan x$ at $x = 1$ .",
+    "choices": {
+      "W": "- 1/2",
+      "X": "- 1/3",
+      "Y": "1",
+      "Z": "- 1"
+    },
+    "answer": "X) - 1/3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Name the force that counters the forces of gravity in a white dwarf.",
+    "answer": "Electron degeneracy pressure"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "List all of the following plate boundaries that are divergent. 1) Pacific plate-Nazca plate boundary 2) Australian-Indian plate-Antarctic plate boundary 3) Nazca plate-South American plate boundary",
+    "answer": "1, 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A reversible reaction has a forward reaction rate constant of $0.10 \\athrm{M s}^{-1}$ and a reverse reaction rate constant of $10.3 \\athrm{s}^{-1}$ . To the nearest hundredth place, what is the value of the equilibrium constant for the reaction?",
+    "answer": "0.01"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Proton Nuclear Magnetic Resonance Spectroscopy is a common research technique for determining the structure of molecules. Which of the following functional groups would show the highest chemical shift for its proton when an NMR spectroscopy is conducted on a molecule containing it.",
+    "choices": {
+      "W": "Aldehyde",
+      "X": "Terminal Alkyn",
+      "Y": "Carboxylic Acid",
+      "Z": "Phenol"
+    },
+    "answer": "Y) Carboxylic Acid"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Give the name of the structure that creates a protective cover for the gills of fish and aids in water transport, respiration, and feeding.",
+    "answer": "Operculum"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The scolex is the posterior tip of the animals classified in the subphylum Cestoda. Which phylum does this fall under?",
+    "choices": {
+      "W": "Nematoda",
+      "X": "Rotifera",
+      "Y": "Platyhelminthese",
+      "Z": "Chordata"
+    },
+    "answer": "Y) Platyhelminthese"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A racecar driver is driving around a track with a helium-filled balloon tied to the passenger seat. From the driver's perspective, which way will the balloon accelerate?",
+    "choices": {
+      "W": "Towards the center of the track",
+      "X": "Does not accelerate",
+      "Y": "Outwards from the center of the track",
+      "Z": "Downwards toward the floor of the car"
+    },
+    "answer": "W) Towards the center of the track"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A simple pendulum is made with a massless string of length L and a particle with mass m at the end of the string. List all of the following actions that would increase the angular frequency of the pendulum. 1) Increasing gravitational acceleration 2) Replacing particle and string with a uniform rod of mass m and length L 3) Replacing the particle with another particle that is of mass m/2 and replacing the string with another massless string that is of length L/2.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $3^{\\athrm{nd}}$ is a factor of $10^{9} - 1$ , what is the greatest possible integer value of n?",
+    "answer": "4"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the following indefinite integral: $\\nt \\rac{100}{36 + 25x^2} dx$ [Read as: integral of the function with numerator one hundred and denominator thirty six plus twenty five x squared d x]",
+    "answer": "$\\rac{10}{3}\\rctan (\\rac{5}{6} x) + C$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Due to the precession of the spin of the Earth, the North Star changes throughout time. About 6000 years ago, Thuban was the star closest to the north pole. Which of the following is closest to the number of years from now until Thuban is the star closest to the north pole again?",
+    "choices": {
+      "W": "6000",
+      "X": "20,000",
+      "Y": "40,000",
+      "Z": "100,000"
+    },
+    "answer": "X) 20,000"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following minerals from low to high melting temperatures according to Bowen's reaction series. 1) Pyroxene 2) Amphibole 3) Muscovite",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following nucleophiles and electrophiles respectively would be ideal to ensure a unimolecular substitution reaction",
+    "choices": {
+      "W": "Sodium Hydroxide and n- Butyl Bromide",
+      "X": "Sodium Hydroxide and tert Butyl Bromide",
+      "Y": "Sodium Cyanide and n- Butyl Bromide",
+      "Z": "Sodium Cyanide and tert Butyl Bromide"
+    },
+    "answer": "Z) Sodium Cyanide and tert Butyl Bromide"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the pH of solutions containing the following ions in increasing order 1) 1.0 M $\\athrm{H}_3\\athrm{PO}_4$ and 2.2 M $\\athrm{NaH}_2\\athrm{PO}_4$ 2) 1.0 M HCN and 0.10 M NaCN 3) 1.0 M $\\athrm{NH}_4\\athrm{Cl}$",
+    "answer": "1), 3), 2)"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "All of the following can be attached to a phosphatidyl group to form a membrane lipid except:",
+    "choices": {
+      "W": "Serine",
+      "X": "Choline",
+      "Y": "Alanine",
+      "Z": "Inositol"
+    },
+    "answer": "Y) Alanine"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "All of the following are proteins involved in endocytosis except:",
+    "choices": {
+      "W": "Caveolin",
+      "X": "Clathrin",
+      "Y": "Coatomer",
+      "Z": "Cadherin"
+    },
+    "answer": "Z) Cadherin"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Cowan-Reines experiment confirmed the existence of which particle?",
+    "answer": "neutrino"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A worker is pushing a $10\\athrm{kg}$ box across the ground, which has a kinetic friction coefficient of 0.6. If the worker is pushing the box at a constant velocity of $2\\athrm{m / s}$ , what is the power being exerted by the worker on the box?",
+    "answer": "117.6 W"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the maximum number of spin-up electrons that can be found in a single atomic orbital?",
+    "answer": "ONE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A hydrogen electron transitions from the $\\athrm{n} = 2$ to $\\athrm{n} = 4$ energy level, and then to the $\\athrm{n} = 3$ energy level. Which of the following describes the net amount of energy change during this process?",
+    "choices": {
+      "W": "5/36 rydbergs absorbed",
+      "X": "3/16 rydbergs absorbed",
+      "Y": "5/36 rydbergs released",
+      "Z": "5/36 rydbergs released"
+    },
+    "answer": "W) 5/36 RYDBERGS ABSORBED"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Using the first 3 terms of the Maclaurin series of $e$ to the $x$, what is the approximate value of $e$ squared?",
+    "answer": "5"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "For the function $f$ of $x$ equals $x^{3} + 3x^{2} - 24x + 12$ on the domain of the closed interval from $-3$ to $4$, at which of the following $x$ values is the function at its global maximum?",
+    "choices": {
+      "W": "- 3",
+      "X": "- 4",
+      "Y": "2",
+      "Z": "4"
+    },
+    "answer": "X) - 4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three ions that have a higher concentration inside the cell than outside the cell: 1) Sodium; 2) Chloride; 3) Potassium.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The classic form of phenylketonuria is caused by the defective nature of what enzyme?",
+    "answer": "PHENYLALANINE HYDROXYLASE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab probed the electron spin properties of nickel oxide ceramics to study their superconductivity. They found it exhibited a similar response to classic cuprate superconductor with such a high spin alignment in opposite directions in a checkerboard like pattern. What form of magnetism does this pattern produce?",
+    "answer": "ANTIFERROMAGNETISM"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab have used mass spectrometry to analyze the lipid content of symbiotic leafcutter ant fungi, a new innovative field of study known as lipidomics. In eukaryotes, by what process are fatty acids in the cell broken down into acetyl-coA?",
+    "answer": "BETA OXIDATION"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Rayleigh-Jeans law of blackbody radiation produced the ultraviolet catastrophe, which was resolved by what other law?",
+    "answer": "PLANCK'S LAW"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A spaceship is travelling at 0.8c with respect to a stationary observer. Which of the following quantities are equal for a person in the spaceship and the observer?",
+    "choices": {
+      "W": "Length of the spaceship",
+      "X": "Speed of light",
+      "Y": "Width of the earth",
+      "Z": "Time taken by the spaceship"
+    },
+    "answer": "X) SPEED OF LIGHT"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals does not contain sulfur?",
+    "choices": {
+      "W": "Gypsum",
+      "X": "Anhydrite",
+      "Y": "Pyrite",
+      "Z": "Fluorite"
+    },
+    "answer": "Z) FLUORITE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 rocks that are aphanitic: 1) Basalt; 2) Rhyolite; 3) Diorite.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In terms of pi, what is the volume of a frustum with a height of 5 and radii of length 3 and 6?",
+    "answer": "105\\i"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the coordinates of the image of the point (2, 6) when it is rotated 90 degrees clockwise about the point (-4, 2)?",
+    "answer": "(0, - 4)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Snell's law can be derived by applying what principle, which states that light always takes the path of least time?",
+    "answer": "FERMAT'S PRINCIPLE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of materials that generally have a positive band gap. 1) Insulators; 2) Semiconductors; 3) Superconductors.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Using spectroscopic methods, chemists are able to track the 3D structure of acyl chlorides as they perform nucleophilic substitution. If the bond angle of the substrate is tracked over time, which of the following trends would be observed?",
+    "choices": {
+      "W": "An increase",
+      "X": "A decrease",
+      "Y": "An increase, then a decrease",
+      "Z": "A decrease, then an increase"
+    },
+    "answer": "Z) A DECREASE, THEN AN INCREASE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three factors that affect the collision frequency of two gaseous molecules X and Y in a constant-volume container: 1) Collision cross section; 2) Partial pressure of X; 3) Temperature of container.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In a resting human, which of the following is the main stimulus for glucagon secretion?",
+    "choices": {
+      "W": "Increased amino acid concentration",
+      "X": "Sympathetic stimulation of the pancreatic islets",
+      "Y": "Decreased plasma glucose concentration",
+      "Z": "Increased epinephrine"
+    },
+    "answer": "Y) DECREASED PLASMA GLUCOSE CONCENTRATION"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Three species of frogs are found in a jungle in an undiscovered archipelago. Two species of frogs that live in similar niches are observed to be very morphologically different. The third species of frog lives on another island and is very morphically similar to one of the species of frog. This tendency for the allopatric species to be more similar than sympatric species is an example of which phenomena?",
+    "answer": "CHARACTER DISPLACEMENT"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Argonne National Lab have been studying new and effective ways to detect HIV infection before it develops into acquired immunodeficiency syndrome. Which of the following methods would be most effective at detecting HIV-like viruses?",
+    "choices": {
+      "W": "Sanger sequencing",
+      "X": "Restriction fragment analysis",
+      "Y": "RT-PCR",
+      "Z": "RNAi"
+    },
+    "answer": "Y) RT-PCR"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab have been studying the properties of high energy electrons and how they can strengthen magnetic fields. The continuous stream of high energy particles in the solar wind originate from which regions of the sun where its magnetic field does not loop back into the photosphere?",
+    "answer": "CORONAL HOLES"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three objects in terms of increasing strength of their magnetic fields: 1) Ganymede; 2) Venus; 3) Earth",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "To one significant figure, how many times more energy does a magnitude 9.8 earthquake on the Richter scale release than a magnitude 6.8?",
+    "answer": "30000"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A sample of water is held initially at a temperature of 100 degrees Celsius and a pressure of 0.5 atmospheres. The sample is then pressurized to 2 atmospheres, and subsequently cooled to $-30$ degrees Celsius. Identify all of the following three phases through which the sample has been in at least once: 1) Solid; 2) Liquid; 3) Gas.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The molecular orbitals of carbon monoxide are created by superimposing atomic orbitals from carbon and oxygen with each other, using the coefficients $a$ and $b$ as weights for C and O, respectively. Which of the following best approximates the respective values of $a$ and $b$ in a particular bonding orbital?",
+    "choices": {
+      "W": "0 and 1",
+      "X": "0.3 and 0.9",
+      "Y": "0.9 and 0.3",
+      "Z": "1 and 0"
+    },
+    "answer": "X) 0.3 and 0.9"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three objects that are indicative of star formation. 1) Bok globules 2) Planetary nebulae; 3) Herbig-Haro objects.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three objects in order of increasing brightness when viewed from Earth: 1) Jupiter; 2) Moon; 3) Venus.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Human chorionic gonadotropin serves to maintain secretion of progesterone and estrogens by the corpus luteum to maintain the fetus. Therefore, it serves an analogous function to which pituitary hormone?",
+    "answer": "LUTEINIZING HORMONE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a virally infected cell, viral proteins may be target for destruction by what structure?",
+    "answer": "PROTEASOME"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following laws can best be used to calculate the magnetic field due to current flowing through a 4 meter long wire?",
+    "choices": {
+      "W": "Ampere's law",
+      "X": "Biot-Savart law",
+      "Y": "Gauss' law",
+      "Z": "Faraday's law"
+    },
+    "answer": "X) BIOT-SAVART LAW"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle with a mass of 5 kilograms is acted on by a time dependent force given by the function $F(t) = 3t^2 + 2$. Over the interval from $t = 0$ to $t = 3$, in meters per second, what is the magnitude of the change in velocity of the particle?",
+    "answer": "6.6 (ACCEPT: 33/5)"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Oak Ridge National Lab have been investigating quasiparticle excitations in lattices. Which of the following is NOT a quasiparticle?",
+    "choices": {
+      "W": "Phonon",
+      "X": "Magnon",
+      "Y": "Plasmon",
+      "Z": "Hyperon"
+    },
+    "answer": "Z) HYPERON"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Lab are working with Fermilab scientists to construct the Deep Underground Neutrino Experiment, or DUNE. Their neutrino research is centered around investigating what phenomenon?",
+    "answer": "NEUTRINO OSCILLATIONS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions, when integrated over its entire domain, produces a positive, finite value?",
+    "choices": {
+      "W": "Tangent of $x$",
+      "X": "Hyperbolic sine of $x$",
+      "Y": "1 over the quantity $9 + x^{2}$",
+      "Z": "The square root of the quantity 1 minus $x$"
+    },
+    "answer": "Y) 1 OVER THE QUANTITY $9 + x^{2}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two circles with centers of O and P of radius 10 and 8, respectively, intersect at two points A and B. If the distance AB is equal to 6, what is the length of OP?",
+    "answer": "$\\qrt{91} + \\qrt{55}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three animal phyla that lack hox genes: 1) Porifera; 2) Cnidaria; 3) Echinodermata.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three characteristics that are shared between prokaryotic and eukaryotic DNA replication: 1) Multiple origins of replication; 2) Unidirectional DNA polymerase; 3) Okazaki fragments.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the only planet in the solar system whose barycenter with the sun lies outside the volume of the sun?",
+    "answer": "JUPITER"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three features that are found on erosional shores: 1) Spits; 2) Tombolos; 3) Barrier islands.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many different S—O bond lengths exist in one molecule of $\\athrm{H}_2\\athrm{SO}_4$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In acetylene, each carbon has a total of how many unhybridized p-orbitals involved in bonding?",
+    "answer": "2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three centers that must lie inside a triangle: 1) Orthocenter; 2) Circumcenter; 3) Centroid.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers cannot be a remainder when $n^3$ is divided by 13, given that $n$ is a positive integer?",
+    "choices": {
+      "W": "1",
+      "X": "5",
+      "Y": "7",
+      "Z": "12"
+    },
+    "answer": "Y) 7"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A wave is traveling on a string with a uniform mass density, at a velocity of 10 meters per second. If the tension in the string is doubled, by what factor does the velocity of the wave change?",
+    "answer": "$\\qrt{2}$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A charged particle is given an initial velocity, and is placed in a uniform magnetic field that makes a 45 degree angle with the particle's initial velocity. What is the shape of the particle's trajectory?",
+    "answer": "HELICAL (ACCEPT: HELIX)"
+  }
+]

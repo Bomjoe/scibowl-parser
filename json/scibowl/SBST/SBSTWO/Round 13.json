@@ -1,0 +1,430 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Argonne national lab scientists are studying the thermodynamics of the monoclinic and tetragonal polymorphs of hafnia. At sufficiently low temperatures, they are able to predict hafnia’s constant pressure heat capacity through the use of what model in solid-state physics?",
+    "answer": "DEBYE MODEL"
+  },
+  {
+    "question_number": 1,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne national lab are studying catalytic carbon-carbon bond cleavage for use in generating biodegradable polyolefins using methods shown in the image. Answer the following two questions about the image: 1) The reaction on the left shows one known example of catalytic carbon-carbon bond cleavage that also forms new polyolefins. This is the alkane version of what type of reaction? 2) The reactions on the left show the various conversions of aluminated olefins into biodegradable fatty molecules. Match A, B, and C, with products W, X and Y.",
+    "answer": "1) METATHESIS (ACCEPT: DOUBLE REPLACEMENT) 2) A IS Y; B IS W; C IS X"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A box has sides of length 2,3 and 4. Two containers are connected by the box so that its longest side is perpendicular to the area of contact. If the rate of heat transfer between the baths is H, what is the rate of heat transfer when the shortest side is placed perpendicular to the area of contact?",
+    "answer": "4H"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In diamagnets and paramagnets, the magnetization can be given by the permeability of free space times the quantity, one plus magnetic susceptibility, multiplied by what quantity?",
+    "answer": "H-FIELD (DO NOT ACCEPT: MAGNETIC FIELD)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which family of plants most commonly forms mutualistic relations with rhizobium bacteria?",
+    "answer": "FABACEAE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Yuchen isolates a receptor on the surface of a certain cell he is studying and identifies it to be an MHC Class II receptor. Identify all of the following three observations that must also be true: 1) The cell possesses an MHC Class I receptor; 2) The cell is an antigen-presenting cell; 3) The cell expresses CD8.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is 5 to the 14th power modulo 7?",
+    "answer": "4"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Beau is scaling Mountain D with an altitude of 1000 feet. On day 1 he climbs 1 foot up the mountain, and for each subsequent day $n$, he can either climb $n$ feet or $n^2$ feet until he reaches the top of the mountain. What is the positive difference between the least and the most amount of days it can take him to climb the mountain?",
+    "answer": "31"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "At 400 degrees Celsius, the adiabatic index for carbon dioxide is closest to which of the following values?",
+    "choices": {
+      "W": "1.2",
+      "X": "1.4",
+      "Y": "1.6",
+      "Z": "1.8"
+    },
+    "answer": "W) 1.2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 complexes that would have a square planar geometry: 1) Tetrachloroaurate; 2) Cyanonickelate; 3) Osmium Tetroxide.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three minerals in order of increasing stability to weathering: 1) Quartz; 2) Anorthite; 3) Hematite.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A double-lobed galaxy is emitting radiation from neutral hydrogen in its spectrum. Which of the following lines are most likely to be observed?",
+    "choices": {
+      "W": "Lyman",
+      "X": "Balmer",
+      "Y": "Paschen",
+      "Z": "21-centimeter"
+    },
+    "answer": "Z) 21- CENTIMETER"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Argonne national lab are studying the formation of hydroperoxide from methacrolein-oxide, a Criegee intermediate formed through which of the following organic reactions?",
+    "choices": {
+      "W": "Hydroboration oxidation",
+      "X": "Stille coupling",
+      "Y": "Julia olefination",
+      "Z": "Ozonolysis"
+    },
+    "answer": "Z) OZONOLYSIS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Livermore National Lab used dark-field X-ray microscopy to develop a digital probe in monitoring defects in aluminum crystals. What type of defect is exhibited by a vacancy in a crystal lattice?",
+    "answer": "SCHOTTKY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "During which of the following phases of the cell cycle does MPF destroy its own cyclin to deactivate itself?",
+    "choices": {
+      "W": "G2 phase",
+      "X": "Metaphase",
+      "Y": "Anaphase",
+      "Z": "Telophase"
+    },
+    "answer": "Y) ANAPHASE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Depicted in the image is a collapsed lung due to the presence of a hole in the chest wall but not in the lung. Answer the following two questions concerning this image: I. What term is given to this phenomena? II. Identify all of the following three quantities that increase when compared to a normal lung: 1) Intrapleural pressure; 2) Transpulmonary pressure; 3) Chest wall pressure;",
+    "answer": "1) PNEUMOTHORAX; II) 1 AND 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three particles that have an antisymmetric wavefunction. 1) Electron; 2) Electron Antineutrino; 3) Positron",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An infinite grid of resistors, each of resistance 10 ohms are arranged in repeating squares. If a current of 5 amperes is directed into a vertex at one point, in Watts, what is the power dissipated by the entire circuit?",
+    "answer": "125"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many distinct signals exist in the carbon-13 NMR spectrum for methyltotsylate?",
+    "answer": "6"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that glutamic acid has a pka values of 1.9 and 3.7 on its carboxyl group, and a pkb value of 4.4 on its amino group, what is the value of the isoelectronic point?",
+    "answer": "2.8"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the divergence of the vector field $x^{2}y i + 2x z j + 4y^{2}z k$?",
+    "answer": "$2xy + 4y^{2}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Shown below is a weighted graph containing the 5 vertices A, B, C, D, and E. Answer the following two questions about this graph: 1) What is the total edge weight of the graph's minimum spanning tree; 2) Given that edges of weight 5 can be added to the graph, and any combination of edges can be removed, what is the minimum total weight of a complete graph containing vertices A, B, C, D, and E?",
+    "answer": "1) 10; 2) 39"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The 1960 Chilean earthquake with a magnitude of 9.6 was the largest earthquake ever recorded. Which of the following best describes this earthquake?",
+    "choices": {
+      "W": "An intraplate earthquake caused by built up stress in a normal fault",
+      "X": "A megathrust earthquake caused by plate subduction",
+      "Y": "A supershear earthquake caused by a high speed rupture at a strike-slip fault",
+      "Z": "A remotely triggered earthquake caused by seismic waves from an earthquake in Alaska"
+    },
+    "answer": "X) A MEGATHRUST EARTHQUAKE CAUSED BY PLATE SUBDUCTION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true about occluded fronts: 1) Dew point usually rises as a cold-occluded front passes; 2) Nimbostratus clouds are typically formed; 3) Warm-type occluded fronts occur more often than cold-type occluded fronts.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When ATP cannot be synthesized quickly enough in muscle cells via glycolysis, it transfers a phosphate group from what other molecule?",
+    "answer": "CREATINE PHOSPHATE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a response to the addition of dinitrophenol to animal muscle cells?",
+    "choices": {
+      "W": "Increased oxygen consumption",
+      "X": "Decreased ATP production",
+      "Y": "Increased heat production",
+      "Z": "Increased pH in the intermembrane space"
+    },
+    "answer": "Z) INCREASED PH IN THE INTERMEMBRANE SPACE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements accurately describes the reactivity of pyridine derivatives compared to benzene derivatives?",
+    "choices": {
+      "W": "Better at both electrophilic and nucleophilic aromatic substitution",
+      "X": "Better at electrophilic but worse at nucleophilic aromatic substitution",
+      "Y": "Better at nucleophilic but worse at electrophilic aromatic substitution",
+      "Z": "Worse at both electrophilic and nucleophilic aromatic substitution"
+    },
+    "answer": "Y) BETTER AT NUCLEOPHILIC BUT WORSE AT ELECTROPHILIC AROMATIC SUBSTITUTION"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the third order reaction A yields 2B, given that the concentration of A at time $t = 0$ is 6.4 molar, and that at time $t = 2$ the concentration of B is 6.4 molar, at what time $t$ will the concentration of A be 0.8 molar?",
+    "answer": "42"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "According to Ampere's law, the curl of the electric field is equal to the permeability of free space times what quantity?",
+    "answer": "CURRENT DENSITY"
+  },
+  {
+    "question_number": 15,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a right cylinder with an asymmetric mass distribution, where one half of the cylinder is shaded white and the other half is shaded blue. In kilogram meters squared and in terms of pi, calculate the moment of inertia of the cylinder given that the blue shaded region has a density of 3, the white shaded region has a density of 1, and the radius and height of the cylinder are both 1 meter.",
+    "answer": "PI"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The sinuous rilles on the moon were likely formed from which of the following?",
+    "choices": {
+      "W": "Meteorite impacts collapsing lava tubes",
+      "X": "River beds differentially eroded slower than surrounding terrain",
+      "Y": "Volcanic activity forming outgas vents",
+      "Z": "Multiringed basin overlaps from micrometeorites"
+    },
+    "answer": "W) METEORITE IMPACTS COLLAPSING LAVA TUBES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shown in the image below is a graph of four periodic cycles in Earth's movement known to affect Earth's climate. Answer the following two questions about this graph: 1) What is the collective name given to these cycles?; 2) Match the following four cycles with curves A, B, C, and D: Axial Precession, Obliquity, Apsidal precession, Orbital eccentricity.",
+    "answer": "1) MILANKOVITCH CYCLES; 2) A - OBLIQUITY; B - ORBITAL ECCENTRICITY; C - APSIDAL PRECESSION; D - AXIAL PRECESSION"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Laboratory are using high power lasers to generate shock waves into Enstatite crystals. Enstatite is the magnesium endmember of what common group of inosilicates?",
+    "answer": "PYROXENE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National laboratory are observing transient magnetism in materials. Answer the following two questions about their research. 1) What quasiparticles are they studying which are collective excitations of electron spin in a crystal? 2) These quasiparticles are trapped in what areas in reciprocal space?",
+    "answer": "1) MAGNONS; 2) BRILLOUIN ZONE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three functions that are never negative: 1) arccosine of $x$; 2) the natural log of the secant of $x$; 3) 1 - cosine squared of $x$.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Matrix A is defined as having first row square root of 3, negative 1 and second row 1, square root of 3. When the vector $3i + 4j$ is multiplied by A to the 6th power, what is the resulting vector?",
+    "answer": "- 192i - 256j"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry of the hexamethyltungsten complex?",
+    "answer": "TRIGONAL PRISMATIC"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cations would precipitate when hydrogen sulfide is bubbled through a highly basic solution containing the cation?",
+    "choices": {
+      "W": "$\\athrm{As}^{3 + }$",
+      "X": "$\\athrm{Mg}^{2 + }$",
+      "Y": "$\\athrm{Zn}^{2 + }$",
+      "Z": "$\\athrm{Cd}^{2 + }$"
+    },
+    "answer": "Y) $\\athrm{Zn}^{2 + }$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "5 moles of an ideal gas expands isothermally from a volume of 4 liters to a volume of 16 liters. To one significant figure, what is the change in entropy of the gas?",
+    "answer": "60"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The electric potential is given by $\\athrm{V} = \\athrm{xyz}^3$, where $\\athrm{V}$ is in volts and $\\athrm{x}$, $\\athrm{y}$, and $\\athrm{z}$ are in meters. What is the magnitude of the force on a particle of charge 3 coulombs at the position, (1,1,1)?",
+    "answer": "3SQRT(11)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "When a white dwarf in a binary star system accretes matter from its partner, a brief period of runaway fusion may occur. What name is given to this transient astronomical event?",
+    "answer": "NOVAE (ACCEPT: CLASSICAL NOVAE)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is the second Friedmann equation, also known as the Friedmann acceleration equation. Answer the following three questions regarding this equation: 1) The lambda in the last term of the right-hand-side of this equation corresponds to what constant? 2) Rho in this equation stands for the volumetric mass density. The ratio of Rho to the critical density is known as the density parameter, symbolized by what Greek letter? 3) The a in the denominator of the left-hand side stands for what dimensionless factor that parametrizes the relative expansion of the universe?",
+    "answer": "1) COSMOLOGICAL CONSTANT 2) OMEGA 3) SCALE FACTOR"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "An alien fish is described to be isosmotic with its environment and able to survive large ranges of osmolarities. Which of the following pairs of adjectives describe this fish?",
+    "choices": {
+      "W": "Euryhaline and osmoconformer",
+      "X": "Euryhaline and osmoregulator",
+      "Y": "Stenohaline and osmoconformer",
+      "Z": "Stenohaline and osmoregulator"
+    },
+    "answer": "W) EURYHALINE AND OSMO CONFORMER"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three conditions that characterize severe combined immunodeficiency: 1) The lack of B cell function; 2) The lack of T cell function; 3) The lack of neutrophil function.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Circle O is inscribed inside a regular pentagon, which is also inscribed inside Circle P. The ratio of the area of O to P can be expressed as the square of the cosine of $n$, where $n$ is in radians and has a value between 0 and pi over 2. What is the value of $n$ in terms of pi?",
+    "answer": "PI OVER 5"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sanjay and Bill play a game where Bill flips a fair coin until it lands on heads, and Sanjay then flips an unfair coin the same amount of times as Bill, where on the $n$th flip there is a $1 / n$ chance of the coin landing on heads. Given that Sanjay can only win the game if he never lands on tails, what is the probability that Sanjay wins the game?",
+    "answer": "SQUARE ROOT OF $e$ MINUS $1(\\qrt{e} - 1)$"
+  }
+]

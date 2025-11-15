@@ -1,0 +1,468 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A four kilogram ball is travelling along the x axis at negative three meters per second and collides inelastically at the origin with a two kilogram ball travelling at positive six meters per second. At what angle in degrees does the combined mass travel at relative to the positive x axis?",
+    "answer": "135"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "For a spherical droplet of water with radius $r$ and a uniform density $\\ho$ falling from the sky, what power of $r$ is the terminal velocity of the droplet dependent on?",
+    "choices": {
+      "W": "0",
+      "X": "0.5",
+      "Y": "1",
+      "Z": "1.5"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements concerning the nervous system that are true: 1) Schwann cells are located in the central nervous system only; 2) Microglia perform the functions of macrophages in the nervous system; 3) Myelination decreases neuron conduction speed.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The oxygen evolving complex requires a cofactor of what transition metal in order to function?",
+    "answer": "MANGANESE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the molecular geometry around the central atom in iodine pentafluoride?",
+    "choices": {
+      "W": "Trigonal bipyramidal",
+      "X": "Square pyramidal",
+      "Y": "Pentagonal planar",
+      "Z": "See-saw"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about a galvanic cell that uses silver and zinc half cells: 1) The silver half cell is the anode; 2) Adding potassium chloride to the silver half cell will increase the cell potential; 3) Positively charged ions travel through the salt bridge to the zinc half cell.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Tolman-Volkov-Oppenheimer limit is to a neutron star as the Chandrasekar limit is to what stellar object?",
+    "answer": "WHITE DWARF"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about pegmatites: 1) They are coarse grained; 2) They are commonly found in dikes; 3) They form from water rich melts.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a 45 pointed regular star, what is the measure of each vertex angle in degrees?",
+    "answer": "8"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the factors of 360?",
+    "answer": "1170"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball is dropped from a tall building and falls $d$ meters in the first 3 seconds of free fall. In terms of $d$, how many meters will the ball fall in the next 6 seconds?",
+    "answer": "8d"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about neutrinos: 1) They are massless; 2) They oscillate between different states; 3) They follow Bose-Einstein statistics.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following animals is NOT a deuterostome?",
+    "choices": {
+      "W": "Garden snail",
+      "X": "Sea cucumber",
+      "Y": "Shark",
+      "Z": "Tunicate"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which early generation sequencing method involves the fragmentation of the genome into many parts and then their reconstruction via computers?",
+    "answer": "WHOLE GENOME SHOTGUN SEQUENCING"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Scheele's green is a dye with chemical formula $\\athrm{CuHAsO_3}$. What is the oxidation state of arsenic in Scheele's green?",
+    "answer": "+3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following molecules in increasing carbon oxygen bond lengths: 1) Acetic acid; 2) Methanol; 3) Carbonic acid.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true about exisols?",
+    "choices": {
+      "W": "They are never found in tropical environments",
+      "X": "They are poor in iron and aluminum oxides",
+      "Y": "They are low in plant nutrients",
+      "Z": "They are highly unweathered"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following classes of stars that possess convective cores as opposed to radiative cores: 1) G; 2) A; 3) B.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many integer values of $a$ exist such that the quadratic equation $\\athrm{x}^2 + ax + 9$ has only rational roots?",
+    "choices": {
+      "W": "11",
+      "X": "12",
+      "Y": "13",
+      "Z": "14"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following affine transformation matrices would invert the 2D coordinate system?",
+    "choices": {
+      "W": "First row: 0, 1; Second row: 0, 1",
+      "X": "First row: 1, 2; Second row: 1, 3",
+      "Y": "First row: 3, 2; Second row: 2, 3",
+      "Z": "First row: 1, 3; Second row: 3, 1"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the energy stored inside a 60 microfarad capacitor connected to a 20 volt battery in millijoules?",
+    "answer": "12"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What fraction of the heat capacity at constant volume of a linear molecule in the gas phase is caused by vibrational modes?",
+    "answer": "3/5"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "According to the ABC hypothesis, which of the following statements concerning flowering is true?",
+    "choices": {
+      "W": "Inactivation of A genes lead to loss of sepals and carpels",
+      "X": "Inactivation of A genes leads to complementary expression of C genes",
+      "Y": "Inactivation of B genes leads to no flowering",
+      "Z": "Inactivation of C genes leads to loss of petals"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following amino acid residues that would be found on the inside of a correctly folded protein, indicating it is more stable in the core than on the surface: 1) Alanine; 2) Tryptophan; 3) Glycine.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecular geometries has the highest steric number?",
+    "choices": {
+      "W": "Tetrahedral",
+      "X": "Bent",
+      "Y": "Square planar",
+      "Z": "Trigonal bipyramidal"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three elements in increasing second ionization energy: 1) Lead; 2) Aluminum; 3) Silicon.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What igneous rocks, which can be found in dikes as well as conduits, can contain diamonds for which they are mined?",
+    "answer": "KIMBERLITES"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three layers of an ophiolite in increasing depth: 1) Pillow lavas; 2) Peridotite; 3) Sheeted dikes.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a convex polygon with 40 sides, how many diagonals will connect to a single vertex?",
+    "answer": "37"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two real numbers $x$ and $y$ are chosen from the interval [0,6]. What is the probability that the sum $2x + y$ is less than 6?",
+    "answer": "1/4"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes how the resistance of most metals changes with increasing temperature?",
+    "choices": {
+      "W": "Increases monotonically",
+      "X": "Decreases monotonically",
+      "Y": "Increases then decreases",
+      "Z": "Decreases then increases"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A pipe filled with water decreases in elevation by 10 meters, but does not change in the velocity of water in the pipe. If the initial pressure inside the pipe is 3 times $10^{5}$ pascals, what is the pressure of the pipe at the decreased elevation in pascals? The density of water is 1000 kilograms per cubic meter and g equals 10 meters per second squared.",
+    "answer": "$4 \\dot 10^{5}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which enzyme is responsible for producing the second messenger cyclic GMP?",
+    "answer": "GUANYLYL CYCLASE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Ridings experiences a COVID-19 infection in his upper respiratory tract and his J receptors are inactivated. Identify all of the following actions that he is unable to perform: 1) Heuring-Bruer reflex; 2) Contraction of diaphragm; 3) Breathing at normal air flow rate.",
+    "answer": "JUST 1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three unit cell structures in increasing packing efficiency: 1) Simple cubic; 2) Face centered cubic; 3) Body centered cubic.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which of the following explains why hydrated iron $2+$ cations complex more completely with cyanide ions than with chloride ions in aqueous solution?",
+    "answer": "W) CYANIDE IS A STRONGER LEWIS BASE THAN CHLORIDE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the collective term for the group of asteroids whose orbits cross into the inner solar system?",
+    "answer": "APOLLO- AMOR OBJECTS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term is given to the period of evolution in a star's history in which the contents of it's convection zone extends to the fusion products and thus changes the spectral signature of the star?",
+    "answer": "DREDGE- UP"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sean has picked three digits $a, b$ and $c$ and arranged them to form the six digit number abcabc. What is the largest positive integer that must be a factor of Sean's number?",
+    "answer": "1001"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three functions whose second derivative with respect to $x$ is equivalent to the function: 1) $\\n x$ [the natural log of $x$]; 2) $\\osh x$ [hyperbolic cosine of $x$]; 3) $e^{-x}$ [e to the power of negative $x$].",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "For a spinning gyroscope, the product of the rate of precession and angular momentum of the gyroscope is equal to what vector quantity?",
+    "answer": "TORQUE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "According to Noether's theorem, the conservation of energy is due to a symmetry in which of the following?",
+    "choices": {
+      "W": "Time",
+      "X": "Translation",
+      "Y": "Rotation",
+      "Z": "Vibration"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Albert is suffering from kwashiorkor and thus has a deficiency of a certain macromolecule. Identify all of the following three foods that would help his kwashiorkor: 1) The lard of a cow; 2) A fresh baguette; 3) The liver of a pig.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the causative agent, and genus of the vector of Malaria respectively?",
+    "answer": "PLASMODIUM FALCIPARUM AND ANOPHELES MOSQUITO"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The reaction $10\\athrm{A} + 26\\athrm{B}\\ightarrow 12\\athrm{C}$ has an equilibrium constant of 0.5. What is the equilibrium constant for the reaction $6\\athrm{C}\\ightarrow 5\\athrm{A} + 13\\athrm{B}$ to one decimal place?",
+    "answer": "1.4"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many $^{13}\\athrm{C}$-NMR signals are observed in the spectrum of 3,5 dimethylaniline?",
+    "answer": "5"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Surface salinity of water is highest at which of the following latitudes?",
+    "choices": {
+      "W": "90 degrees",
+      "X": "60 degrees",
+      "Y": "30 degrees",
+      "Z": "0 degrees"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of population I stars: 1) They are found in the galactic halo; 2) They can be found in globular clusters; 3) They are metal rich.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Gideon is trying to travel from the origin to the point (3,3) without passing through the point (2,2). How many paths with a length of 6 units can Gideon take?",
+    "answer": "8"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many perfect squares are divisors of the product $1! \\times 2! \\times 3! \\times 4! \\times 5! \\times 6!$",
+    "answer": "42"
+  }
+]

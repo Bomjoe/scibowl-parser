@@ -1,0 +1,494 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Overharvesting of sea otters in northern California allowed the sea urchin population to explode, thereby reducing the kelp population to nearly zero. What event is this ecosystem collapse an example of?",
+    "answer": "Trophic cascade"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Liquefied natural gas is natural gas that has been cooled to liquid form for ease and safety of storage or transport. A potential danger in this form of transport occurs when the liquid natural gas contacts water, causing which of the following effects?",
+    "choices": {
+      "W": "Rapid cooling of water and implosion",
+      "X": "Rapid warming of water and explosion",
+      "Y": "Rapid cooling of natural gas and implosion",
+      "Z": "Rapid warming of natural gas and explosion"
+    },
+    "answer": "Z) Rapid warming of natural gas and explosion"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $n$ is an integer in the set of the first nine perfect squares, how many different remainders are possible when $n$ is divided by 3?",
+    "answer": "2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A Tribonacci sequence has first three terms 1, 1, and 2, with each following term being the sum of the three preceding terms. Identify all of the following three numbers that belong in the Tribonacci sequence: 1) 55, 2) 81, 3) 129.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A single molecule of hydrogen peroxide can form at most how many hydrogen bonds with other hydrogen bond donors and acceptors?",
+    "answer": "6"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true at the equivalence point of a titration of ammonia with hydrochloric acid: 1) Adding a drop of phenolphthalein will cause the solution to appear colored; 2) Adding a drop of hydrochloric acid will increase the conductivity; 3) Adding a drop of ammonia will increase the conductivity.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metamorphic rocks would you expect to find at a subduction zone?",
+    "choices": {
+      "W": "Hornfels",
+      "X": "Granulite",
+      "Y": "Gneiss",
+      "Z": "Blueschist"
+    },
+    "answer": "Z) Blueschist"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes clay?",
+    "choices": {
+      "W": "High porosity and high permeability",
+      "X": "High porosity and low permeability",
+      "Y": "Low porosity and high permeability",
+      "Z": "Low porosity and low permeability"
+    },
+    "answer": "X) High porosity and low permeability"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organisms is a pseudo-coelomate?",
+    "choices": {
+      "W": "Earthworm",
+      "X": "Roundworm",
+      "Y": "Planarian",
+      "Z": "Snail"
+    },
+    "answer": "X) Roundworm"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a large population of individuals, there exists a gene for eye color, where two alleles exist. B is dominant to r, and B gives blue eyes, while r gives red eyes. Given that the frequency of the B allele is 0.2, what proportion of the blue-eyed people are heterozygotes?",
+    "answer": "8/9"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Heat conduction in solid carbon is carried by which quasiparticle?",
+    "answer": "Phonon"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The gravitational field on the Moon is $\\rac{1}{6}$ that of the Earth, and the equatorial radius of the Moon is $\\rac{1}{4}$ that of the Earth. Assuming the Earth and Moon to be spheres of uniform density, what is the ratio of the density of the Moon to the density of the Earth?",
+    "answer": "$\\rac{2}{3}$ (ACCEPT: 2 to 3)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "What is one application of generative adversarial networks?",
+    "choices": {
+      "W": "Large language models",
+      "X": "Deepfake images",
+      "Y": "Generalized game-playing algorithms",
+      "Z": "Reverse image search"
+    },
+    "answer": "X) Deepfake images"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "In the chart of nuclides, a set of superheavy isotopes are predicted to have longer half-lives because their nuclei contain stable shells of nucleons. What is this set of elements called?",
+    "answer": "Island of stability"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "There are five students on a team for science bowl. One student is appointed the captain and another is appointed the alternate. How many ways are there for the captain and alternate to be appointed on this team?",
+    "answer": "20"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the remainder when the polynomial $x^{2} - 5x - 2$ is divided by $x - 3$ ?",
+    "answer": "- 8"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases would be expected to have the least deviation from an ideal gas?",
+    "choices": {
+      "W": "$\\athrm{H}_{2}$",
+      "X": "$\\athrm{CH}_{4}$",
+      "Y": "$\\athrm{NH}_{3}$",
+      "Z": "$\\athrm{F}_{2}$"
+    },
+    "answer": "W) $\\athrm{H}_{2}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three changes to an electrochemical reaction that, when doubled, would double its cell potential: 1) Temperature; 2) Gibbs free energy; 3) Stoichiometric coefficients.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A gas cloud with temperature 5000 Kelvin is situated in front of a 3000 Kelvin star. Which of the following features is most likely to be observed in the star's full light spectra as a result of the gas cloud?",
+    "choices": {
+      "W": "Smooth blackbody curve",
+      "X": "Rough blackbody curve with peaks",
+      "Y": "Rough blackbody curve with dips",
+      "Z": "Rough blackbody curve with missing ultraviolet flux"
+    },
+    "answer": "X) Rough blackbody curve with peaks"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three planets in our Solar System that have sodium in concentrations above $10\\$ in their atmosphere: 1) Mercury; 2) Venus; 3) Mars.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Under lower concentrations, auxin is responsible for inducing shoot elongation. However, at high concentrations, it is observed to inhibit growth. Which of the following best explains why it inhibits growth at high concentrations?",
+    "choices": {
+      "W": "Cell elongation outpaces the rate at which water can reach it",
+      "X": "Auxin induces production of ethylene which inhibits growth",
+      "Y": "Apical dominance is disrupted",
+      "Z": "Expansins are overstimulated"
+    },
+    "answer": "X) Auxin induces production of ethylene which inhibits growth"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Spina bifida is caused by the lack of which vitamin?",
+    "answer": "B9 (ACCEPT: Folic Acid)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding charged particles traveling through non-vacuum mediums?",
+    "choices": {
+      "W": "They must travel slower than light does in that medium",
+      "X": "They must travel slower than light does in a vacuum",
+      "Y": "Their speed can determine the occurrence of radiation",
+      "Z": "Their speed is directly affected by the viscosity of the medium"
+    },
+    "answer": "W) They must travel slower than light does in that medium"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best represents how the Michelson-Morley interferometer sought to prove the existence of aether?",
+    "choices": {
+      "W": "Splitting a beam of light to show that the resulting convergence is unchanged due to a phase shift",
+      "X": "Splitting a beam of light to show that the resulting convergence is unchanged due to relativity",
+      "Y": "Splitting a beam of light to show that the resulting convergence is changed due to a phase shift",
+      "Z": "Splitting a beam of light to show that the resulting convergence is changed due to relativity"
+    },
+    "answer": "Y) Splitting a beam of light to show that the resulting convergence is changed due to a phase shift"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Contaminants buried in soil can be brought to the surface by invasive species that rework the soil. What is the name for the general process by which this occurs?",
+    "answer": "Bioturbation"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "What is the term for a disease that can be transmitted from animals to humans, and vice versa?",
+    "answer": "Zoonotic (ACCEPT: Zoonosis)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following equations is not a transcendental equation?",
+    "choices": {
+      "W": "$x^{5} - 3x^{2} + 1 = 0$",
+      "X": "$2^{x} = x^{2}$",
+      "Y": "$3\\osh (x) = 4 + \\inh (2x - 6)$",
+      "Z": "$\\og (x) = \\os (x)$"
+    },
+    "answer": "W) $x^{5} - 3x^{2} + 1 = 0$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Convert 75 in base 10 to base 16.",
+    "answer": "4B"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following regions of the electromagnetic spectrum would be most useful in studying the vibrational modes of a molecule?",
+    "choices": {
+      "W": "Ultraviolet",
+      "X": "Infrared",
+      "Y": "X-Ray",
+      "Z": "Microwave"
+    },
+    "answer": "X) Infrared"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Carbon-14 is most likely to undergo radioactive decay to form what isotope?",
+    "answer": "Nitrogen- 14 (ACCEPT: N- 14) (DO NOT ACCEPT: Nitrogen)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following drainage patterns is most likely to be found in a V-shaped valley?",
+    "choices": {
+      "W": "Radial",
+      "X": "Trellis",
+      "Y": "Dendritic",
+      "Z": "Rectangular"
+    },
+    "answer": "Y) Dendritic"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The lowermost region of an ophiolite sequence tends to be formed from what ultramafic rock?",
+    "answer": "Peridotite"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a gram stain, what counterstain is most commonly used to visualize gram-negative bacteria?",
+    "answer": "Safranin"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What molecule that causes the red appearance of root nodules acts as an oxygen buffer in legumes?",
+    "answer": "Leghemoglobin"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "To the nearest integer, what is the ratio of radii for an aluminum-28 nucleus to a hydrogen nucleus?",
+    "answer": "3 (ACCEPT: 3 to 1)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quantum number configurations gives the highest energy state for a particle in a three-dimensional cubic box?",
+    "choices": {
+      "W": "2, 1, 3",
+      "X": "3, 1, 3",
+      "Y": "3, 2, 2",
+      "Z": "1, 1, 3"
+    },
+    "answer": "X) 3, 1, 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following characteristics pronounces the temperature differences between urban and rural areas due to the heat island effect?",
+    "choices": {
+      "W": "Strong daytime winds",
+      "X": "Weak daytime winds",
+      "Y": "Strong nighttime winds",
+      "Z": "Weak nighttime winds"
+    },
+    "answer": "Z) Weak nighttime winds"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "In mathematics, which technique is used for the optimization of a linear objective function over a convex polytope?",
+    "answer": "Linear programming"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the largest number n such that $n^4$ is less than 2023?",
+    "answer": "6"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The 6 vertices of an octahedron are to be colored red or blue. If colorings that can be interconverted by rotation are considered the same, how many unique colorings exist for the octahedron?",
+    "answer": "10"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the coordination number for a face-centered cubic lattice?",
+    "choices": {
+      "W": "6",
+      "X": "8",
+      "Y": "12",
+      "Z": "16"
+    },
+    "answer": "Y) 12"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Valeric acid is a weak monoprotic acid with a pKa of 5. What is the pH of a 0.001 molar solution of sodium valerate?",
+    "answer": "8"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The horizon problem is based on what property of the universe which is also shown by the uniform temperature of the cosmic microwave background?",
+    "choices": {
+      "W": "Homogeneity",
+      "X": "Isotropy",
+      "Y": "Inhomogeneity",
+      "Z": "Anisotropy"
+    },
+    "answer": "X) Isotropy"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Scientists are interested in detecting gravitational waves because, unlike light, they can transmit information from before what period of the universe when hydrogen atoms first formed?",
+    "answer": "Recombination (ACCEPT: Epoch of recombination)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements containing chordates is not true?",
+    "choices": {
+      "W": "All vertebrates are chordates",
+      "X": "All gnathostomes are tetrapods",
+      "Y": "All amniotes are vertebrates",
+      "Z": "All mammals are amniotes"
+    },
+    "answer": "X) All gnathostomes are tetrapods"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three receptors that glutamate binds to: 1) NMDA; 2) 5-HT; 3) AMPA.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "With every bounce, a ball loses 1/3 of its total velocity. If the ball was dropped at from a height of 9 meters, how high will it go after the first bounce?",
+    "answer": "4"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the intensity of a light beam with a Poynting vector given by $4 \\os^2 (x) \\in^2 (x) \\at{x}$?",
+    "answer": "1"
+  }
+]

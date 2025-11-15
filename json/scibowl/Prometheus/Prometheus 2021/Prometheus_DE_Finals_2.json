@@ -1,0 +1,494 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What component of a nuclear weapon is used to achieve supercriticality in an implosion-type weapon?",
+    "answer": "Explosive lens"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "In what shape must an explosive lens be constructed to deflect the spherically diverging wavefront of an explosive into a spherically converging one?",
+    "answer": "Paraboloid"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the solution to $\\nt_{0}^{1} 0.5xe^{-x / 2} dx$ [the definite integral from 0 to 1 of one-half x times e to the negative one half x dx]?",
+    "choices": {
+      "W": "$2 - e^{-1 / 2}$",
+      "X": "$2 - 2e^{-1 / 2}$",
+      "Y": "$2 - 3e^{-1 / 2}$",
+      "Z": "$2 - 4e^{-1 / 2}$"
+    },
+    "answer": "Y) $2 - 3e^{-1 / 2}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For the system of two differential equations $x_{1}^{\\rime} = 4x_{1}+ 2x_{2}$ [x prime one equals four x one plus two x two] and $x_{2}^{\\rime} = 3x_{1} - x_{2}$ [x prime two equals three x one minus x two], what are the distinct real eigenvalues?",
+    "answer": "5 and - 2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding the Wittig [VIH-dig] reaction: 1) The reaction is entropically driven by the formation of a phosphine oxide byproduct; 2) Unstabilized Wittig reagents favor the formation of the E alkene; 3) Triphenylphosphine [try- FEE- null- FOSS-feen] is the most common phosphorus nucleophile used to generate Wittig reagents.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A certain atom is $\\athrm{sp}^{n}$ hybridized, where n is a real number but is not necessarily an integer. If the hybrid $\\athrm{sp}^{n}$ orbitals are separated by an angle of 150 degrees, then to two significant figures, what is n?",
+    "answer": "1.2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "When carbonate minerals are subducted, the carbon dioxide they carry is often released as they react with silica in the mantle. In this process, calcium carbonate typically reacts to release CO2 by forming what mineral?",
+    "answer": "Wollastonite"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "An air parcel passes through a forest region, where organic aerosols are released into the atmosphere. Which of the following is NOT a possible effect of these aerosols?",
+    "choices": {
+      "W": "Cooling due to a decrease in albedo",
+      "X": "Increased cloud formation",
+      "Y": "Reduction of effective dew point",
+      "Z": "Formation of ozone"
+    },
+    "answer": "W) Cooling due to an increase in albedo"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes how Annexin [uh-neck-sin] A5 is used to quantify the number of cells undergoing apoptosis?",
+    "choices": {
+      "W": "Annexin A5 binds to phosphatidylserine [FOSS-fuh-TY-dull-SER-eeen] on the outer leaflet of the cell membrane",
+      "X": "Annexin A5 binds to 3' hydroxyl termini of double stranded DNA breaks",
+      "Y": "Annexin A5 binds to Cytochrome C outside of the mitochondrion",
+      "Z": "Annexin A5 binds to the Fas receptor on the cell membrane"
+    },
+    "answer": "W) Annexin A5 binds to phosphatidylserine on the outer leaflet of the cell membrane"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "One side effect of some non-steroidal anti-inflammatory drugs is reduced gastric mucus secretion. This is because they inhibit what class of enzymes that function in both inflammatory responses and mucus production?",
+    "answer": "Cyclooxygenases (ACCEPT: COX)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What type of symmetry in quantum chromodynamics suggests that the same transformations can be applied on the two chiralities?",
+    "choices": {
+      "W": "Vector symmetry",
+      "X": "Chiral symmetry",
+      "Y": "Axial symmetry",
+      "Z": "Global symmetry"
+    },
+    "answer": "W) Vector symmetry"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In a special spring, the restoring force is proportional to the cube of displacement. A ball oscillating with this special spring has an initial period of $T$ . If its mass is doubled and the spring's length is tripled, assuming constant $k$ , what is the ball's new oscillation period in terms of $T$ ?",
+    "answer": "$\\rac{T\\qrt{2}}{3}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Many pandemic risks originate from influenza viruses, coronaviruses, and which family of negative strand RNA viruses which includes mumps virus and RSV?",
+    "answer": "Paramyxoviruses (ACCEPT: Paramyxoviridae)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "One of the first paramyxoviruses [PAIR-uhMIK-suh-vahy-rus] to pose a significant pandemic risk originated in fruit bats, and its first human fatality occurred in 1994, in a veterinarian attending to infected horses. What is the name of this virus?",
+    "answer": "Hendra virus"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following differential equations is not linear?",
+    "choices": {
+      "W": "$\\rac{d y}{d t} = y^{2} + 10$",
+      "X": "$\\rac{d y}{d t} = t^{2}y + \\os t$",
+      "Y": "$\\rac{d y}{d t} = (t + 3)y + 2$ [open parentheses t plus three close parentheses times y plus 2]",
+      "Z": "$\\rac{d y}{d t} = (e^{2}t)y - \\in t$ [e squared t times y minus sine t]"
+    },
+    "answer": "W) $\\rac{d y}{d t} = y^{2} + 10$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four quantities that are vectors when applied to the real-valued function $f(x, y, z)$ : 1) Gradient; 2) Divergence; 3) Curl; 4) Laplacian.",
+    "answer": "1, 3, and 4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "To which of the following point groups does benzene belong to?",
+    "choices": {
+      "W": "$C_{6}v$",
+      "X": "$D_{6}h$",
+      "Y": "$I_{6}s$",
+      "Z": "$C_{3}$"
+    },
+    "answer": "X) $D_{6}h$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three ions in order of increasing stability of their hexaamine [HEX-uh- A- meen] complexes: 1) $\\athrm{Ni}^{2 + }$ ; 2) $\\athrm{Fe}^{2 + }$ ; 3) $\\athrm{Cu}^{2 + }$ .",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Big Bang Theory predicts that when the universe was about a second old, the universe began expanding too quickly for some weak interactions to occur. This allowed certain particles to exist nearly unaffected by matter, creating what background radiation?",
+    "answer": "Cosmic neutrino background (ACCEPT: Neutrino background, CvB)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Widmanstätten [vid-men-SHTA-tin] patterns cannot be replicated in a laboratory because their formation requires which of the following conditions?",
+    "choices": {
+      "W": "Zero net gravitational field",
+      "X": "Extremely slow cooling times",
+      "Y": "Zero heat diffusion into crystals",
+      "Z": "Abundance of crystal nuclei"
+    },
+    "answer": "X) Extremely slow cooling times"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What glycoprotein on the surface of the HIV envelope, which forms env with GP41, binds to CD4 to induce a series of conformational changes that allow the virus to enter the host cell?",
+    "answer": "GP120"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Dolichol [DOLE-ih-kall] is a molecule which anchors oligosaccharides [uh-LIG-uh-SAK-uh-rides] to the endoplasmic reticulum membrane, before they are attached to the side chain of what amino acid?",
+    "answer": "Asparagine"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "One precursor to modern quantum theory is a semiclassical method derived from setting the action of a system to integer multiples of Planck's constant. What is the name of this method?",
+    "answer": "Bohr-Sommerfeld quantization"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Ball 1 of mass m and velocity v and ball 2 of mass 2m and velocity 2v collide at a right angle. What is the maximum possible fractional kinetic energy loss after the collision, $\\rac{\\elta E_{\\athrm{loss}}}{E_0}$ [fraction with numerator delta e of loss and denominator e zero] where $E_0$ is the kinetic energy of the system before collision?",
+    "choices": {
+      "W": "44861",
+      "X": "44601",
+      "Y": "44628",
+      "Z": "44764"
+    },
+    "answer": "W) 10/27"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Despite predictions to the contrary, Moore's Law has proven resilient over time. However, a related principle, stating that a transistor's power density remains constant for its area, broke down around 2006. What is this principle called?",
+    "answer": "Dennard scaling"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "In the future, Moore's Law will eventually run into physical limits such as the minimum increase in entropy from an irreversible logic gate. What is this limit called?",
+    "answer": "Landauer [lan- DOW- uhr] limit"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The violation of the unrestricted comprehension principle by a set that contains only those elements which are not members of themselves is known as what paradox?",
+    "answer": "Russell's Paradox"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the Jacobian determinant for the transformation with $x = 2uv$ and $y = u^2 - v^2$ ?",
+    "answer": "$- 4u^2 - 4v^2$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids is most useful for chiral catalysis of aldol reactions?",
+    "choices": {
+      "W": "Glycine",
+      "X": "Serine",
+      "Y": "Histidine",
+      "Z": "Proline"
+    },
+    "answer": "Z) Proline"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding the Walsh diagram for H2O as the angle between the two O-H bonds increases: 1) The average energy of the lone pairs increases; 2) The energy of the LUMO increases; 3) The HOMO-LUMO gap increases.",
+    "answer": "All"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The oceanic mixed layer is typically deepest around $60^{\\irc}\\athrm{S}$ latitude due to the formation of what water mass?",
+    "answer": "Antarctic Intermediate Water (ACCEPT: AAW)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A recent paper by Stoppa et al. described the challenges of converging classifications, where rocks formed in vastly different ways can have similar characteristics. Which of the following pairs of rocks would not be an example of converging classification?",
+    "choices": {
+      "W": "Breccia and impactites",
+      "X": "Limestone and carbonatites [car-BAW-nuh-tites]",
+      "Y": "Migmatite and mylonite",
+      "Z": "Tachylite [TAK-ih-lite] and pseudotachylite"
+    },
+    "answer": "Y) Migmatite and mylonite"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "When a vascular cambium cell undergoes anticlinal cell division, what two cells are produced?",
+    "choices": {
+      "W": "Two cambial cells",
+      "X": "One cambial cell and one secondary cell",
+      "Y": "Two secondary cells",
+      "Z": "One secondary cell and one primary cell"
+    },
+    "answer": "W) Two cambial cells"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following channels is incorrectly matched to its location in the nephron?",
+    "choices": {
+      "W": "Sodium-potassium pump, basilar surface of the thick segment of the ascending limb of the loop of Henle [HEN- lee]",
+      "X": "Sodium-glucose cotransporter, basilar surface of the proximal convoluted tubule",
+      "Y": "Sodium-potassium-chloride cotransporter, apical surface of the thick segment of the ascending limb of the loop of Henle",
+      "Z": "Aquaporin-1, apical and basilar surfaces of the descending limb of the loop of Henle"
+    },
+    "answer": "X) Sodium-glucose cotransporter, basilar surface of the proximal convoluted tubule"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A ball is released above an inclined plane and bounces elastically. What happens to its period and the displacement between consecutive bounces as time proceeds?",
+    "choices": {
+      "W": "Period increases, displacement increases",
+      "X": "Period increases, displacement decreases",
+      "Y": "Period is unchanged, displacement increases",
+      "Z": "Period is unchanged, displacement decreases"
+    },
+    "answer": "Y) Period is unchanged, displacement increases"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two balls, each with mass $M$ and radius $R$ , have centers that are a distance $12R$ from each other. A small grapefruit is shot from the surface of one ball. What is the grapefruit's minimum velocity required to reach the other ball in terms of the universal gravitational constant $G$ , $M$ , and $R$ ?",
+    "choices": {
+      "W": "$\\qrt{\\rac{2GM}{R}}$ [square root of the fraction with numerator two g m and denominator r]",
+      "X": "$\\qrt{\\rac{8GM}{R}}$ [square root of the fraction with numerator eight g m and denominator r]",
+      "Y": "$\\qrt{\\rac{3GM}{R}}$ [square root of the fraction with numerator three g m and denominator r]",
+      "Z": "$\\qrt{\\rac{3GM}{2R}}$ [square root of the fraction with numerator three g m and denominator two r]"
+    },
+    "answer": "Z) $\\qrt{\\rac{3GM}{2R}}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "As a response to Derek Parfit's repugnant conclusion, certain views of population ethics claim that it is good to make people happy, but neutral to make happy people. What is this approach called?",
+    "answer": "Person- affecting view"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "An alternative approach known as average utilitarianism faces which other conclusion, in which the addition of a small, highly net-negative population is less harmful than adding many people with positive but below-average lives?",
+    "answer": "Sadistic conclusion"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two cards are randomly drawn from a standard deck of cards without replacement. Expressing your answer as a fraction, what is the probability of selecting two face cards that are not aces?",
+    "answer": "$\\rac{11}{221}$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate $\\rac{\\amma 15}{\\amma 12}$ [the fraction with numerator gamma 15 and denominator gamma 12]",
+    "answer": "2184"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How many peaks does the EPR spectrum of the benzene radical have?",
+    "choices": {
+      "W": "5",
+      "X": "6",
+      "Y": "7",
+      "Z": "8"
+    },
+    "answer": "Y) 7"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules can undergo 2+2 thermal cycloaddition?",
+    "choices": {
+      "W": "Propene",
+      "X": "Acrylonitrile",
+      "Y": "Cyclohex-2-enone",
+      "Z": "Ketene"
+    },
+    "answer": "Z) Ketene"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following regions of the HR diagram are Flare Stars found?",
+    "choices": {
+      "W": "Upper left",
+      "X": "Upper right",
+      "Y": "Lower left",
+      "Z": "Lower right"
+    },
+    "answer": "Z) Lower right"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What mechanism occurs when an accretion disk with a strong poloidal magnetic field extracts energy from a black hole?",
+    "answer": "Blandford- Znajek [ZNA- yek] process"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "One postzygotic reproductive barrier is hybrid sterility. What rule states that, when only one sex displays hybrid sterility, that sex is most likely the heterogametic sex?",
+    "answer": "Haldane's [hal- DANE's] rule"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the mechanism of action of Strychnine, a toxin which results in convulsions and asphyxia?",
+    "choices": {
+      "W": "Glutamate agonist",
+      "X": "Glutamate antagonist",
+      "Y": "Glycine agonist",
+      "Z": "Glycine antagonist"
+    },
+    "answer": "Z) Glycine antagonist"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If the phase velocity of a wave in terms of the dispersion relation $k$ is $3k$ , what is the group velocity in terms of $k$ ?",
+    "answer": "6k"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A solenoid has a magnetic field given by $B = 4\\u_{0}(x^{2} + y^{2})$ [four mu zero open parentheses x squared plus y squared close parentheses] and a volume magnetic susceptibility, $X$ where $X = 10$ . At the point $(2,3)$ , what is the magnetization inside of the solenoid?",
+    "answer": "$\\rac{520}{11}$"
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What hormone, secreted by the adrenal glands, plays a role in regulating salt and water levels in the kidney?",
+    "answer": "ALDOSTERONE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is most accurate regarding the transport of proteins across the nuclear membrane?",
+    "choices": {
+      "W": "Most proteins are small enough to pass through the pores without regulation",
+      "X": "Proteins are tagged with a detectable amino acid sequence",
+      "Y": "Proteins do not pass through nuclear pores",
+      "Z": "Proteins are tagged with a carbohydrate chain"
+    },
+    "answer": "X) PROTEINS ARE TAGGED WITH A DETECTABLE AMINO ACID SEQUENCE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four changes to seawater that would increase salinity: 1) Higher evaporation; 2) Increased formation of sea ice; 3) Increased number of icebergs; 4) Increased stream runoff into the ocean.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the upper mass limit of neutron stars?",
+    "answer": "TOV LIMIT (ACCEPT: TOLMAN- OPPENHEIMER- VOLKOFF LIMIT)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true regarding the function $f(x) = x^{2} + x + 1$?",
+    "choices": {
+      "W": "It is always concave up",
+      "X": "Its discriminant is positive",
+      "Y": "It has two real roots",
+      "Z": "As $x$ approaches infinity, $f(x)$ approaches negative infinity"
+    },
+    "answer": "W) IT IS ALWAYS CONCAVE UP"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Five people are sitting in a row of five chairs. How many orders are possible if Anna can't sit next to Brian and Catherine can't sit next to Edward?",
+    "answer": "48"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The electric field in a region is conservative only under which of the following conditions?",
+    "choices": {
+      "W": "No charges are present",
+      "X": "All charges are stationary",
+      "Y": "All currents are steady",
+      "Z": "No displacement currents are present"
+    },
+    "answer": "Y) ALL CURRENTS ARE STEADY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Daniel stands on a scale in an elevator, which is initially at rest. It first undergoes a constant acceleration upwards for 3 seconds, during which the scale reads 80 kilograms. Then, it decelerates to a stop over 2 seconds, during which the scale reads 60 kilograms. In kilograms, what is Daniel's mass?",
+    "answer": "72"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that are salts of strong acids: 1) Sodium chloride; 2) Potassium fluoride; 3) Ammonium perchlorate.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three options that are likely to increase the rate of a chemical reaction: 1) Increasing temperature; 2) Decreasing reactant concentrations; 3) Decreasing product concentrations.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Pacific Northwest National Lab are creating protein lattices on the surfaces of mica crystals. Which of the following statements regarding mica is false?",
+    "choices": {
+      "W": "Mica exhibits perfect basal cleavage",
+      "X": "Mica is a phyllosilicate",
+      "Y": "Most micas are harder than quartz",
+      "Z": "Most micas are insulators"
+    },
+    "answer": "Y) MOST MICAS ARE HARDER THAN QUARTZ"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab have identified the structure of the Janus intermediate, which is an intermediate in the biological conversion of atmospheric nitrogen to ammonia. This step of nitrogen fixation is accomplished via what important group of enzymes?",
+    "answer": "NITROGENASES"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following properties tends to decrease across a period on the periodic table?",
+    "choices": {
+      "W": "Ionization energy",
+      "X": "Electronegativity",
+      "Y": "Atomic radius",
+      "Z": "Effective nuclear charge"
+    },
+    "answer": "Y) ATOMIC RADIUS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the term for materials that can become electrically polarized under mechanical stress?",
+    "answer": "PIEZOELECTRIC"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An equilateral triangle has an area of 49 square root of 3 square centimeters. In centimeters, how long is each side?",
+    "answer": "14"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evelyn has a strange plant. At first, it is 1 inch tall. At the end of every day, it has a 50% chance of tripling its height. In inches, what is the expected value of its height after 3 days?",
+    "answer": "8"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What is the term for flowers that lack one or more of the four basic plant organs?",
+    "choices": {
+      "W": "Partial flowers",
+      "X": "Deficient flowers",
+      "Y": "Incomplete flowers",
+      "Z": "Sufficient flowers"
+    },
+    "answer": "Y) INCOMPLETE FLOWERS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many primers are needed to perform a single PCR reaction?",
+    "answer": "2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A red marble traveling to the right at 3 meters per second collides head-on with a blue marble of identical mass traveling to the left at 5 meters per second. In meters per second, what are the minimum and maximum speeds, respectively, of the red marble after the collision?",
+    "choices": {
+      "W": "1 and 3",
+      "X": "1 and 5",
+      "Y": "3 and 5",
+      "Z": "5 and 8"
+    },
+    "answer": "1 AND 5"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 6-kilogram car is driving into a vertical, circular loop of radius 10 meters. What is the minimum kinetic energy in joules that the car needs at the bottom of the loop in order to be able to complete the loop without leaving the loop’s surface?",
+    "answer": "1470"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plate boundaries is NOT a convergent boundary?",
+    "choices": {
+      "W": "Nazca plate and South American plate boundary",
+      "X": "Juan de Fuca plate and North American plate boundary",
+      "Y": "Pacific plate and Phillipine plate boundary",
+      "Z": "North American plate and African plate boundary"
+    },
+    "answer": "Z) NORTH AMERICAN PLATE AND AFRICAN PLATE BOUNDARY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The moon is seen in the Northern hemisphere with its right side illuminated with a sliver of light on April 2nd. What phase will the moon be on April 13th?",
+    "choices": {
+      "W": "First quarter",
+      "X": "Full moon",
+      "Y": "Waning gibbous",
+      "Z": "Third quarter"
+    },
+    "answer": "X) FULL MOON"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Argonne National Lab operate the Advanced Electron Paramagnetic Resonance facility, or AEPR, in order to analyze transition metal complexes. Which of the following types of molecules would this facility most likely analyze?",
+    "choices": {
+      "W": "A molecule with unpaired electrons",
+      "X": "A molecule with unpaired protons",
+      "Y": "A molecule with no unpaired electrons",
+      "Z": "A molecule with no unpaired protons"
+    },
+    "answer": "W) A MOLECULE WITH UNPAIRED ELECTRONS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are developing better models to predict subsurface water flow. Which fundamental law of hydrogeology describes the flow velocity of a fluid through a porous medium?",
+    "answer": "DARCY'S LAW"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What sequencing technique is most often used in DNA fingerprinting to detect polymorphisms?",
+    "answer": "RESTRICTION FRAGMENT LENGTH POLYMORPHISM (ACCEPT: RFLP)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Cri du chat syndrome is an example of which of the following errors during DNA replication?",
+    "choices": {
+      "W": "Duplication",
+      "X": "Deletion",
+      "Y": "Translocation",
+      "Z": "Transversion"
+    },
+    "answer": "X) DELETION"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When carbon dioxide is be added to lime water, a cloudy precipitate is formed. What is the identity of this precipitate?",
+    "answer": "CALCIUM CARBONATE (ACCEPT: CaCO3)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When the solid-liquid boundary line on a phase diagram has a negative slope, which of the following must be true of the substance being studied?",
+    "choices": {
+      "W": "Its liquid phase is denser than its solid phase",
+      "X": "Its solid phase is denser than its liquid phase",
+      "Y": "It can never form a supercritical fluid",
+      "Z": "It can never form a supercooled fluid"
+    },
+    "answer": "W) ITS LIQUID PHASE IS DENSER THAN ITS SOLID PHASE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Every angle in a convex polygon is summed except for one of them, and the result is 400 degrees. In degrees, what is the last angle?",
+    "answer": "140"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Michael starts running at a constant speed of 9 miles per hour. After an hour, he turns around and runs for 30 minutes, then repeats this process 2020 times, running for half of the previous time every time. To the nearest integer, how many miles is Michael from his starting point?",
+    "answer": "6"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three stages of reef evolution from first to last: 1) Fringing reef; 2) Barrier reef; 3) Atoll.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What phenomenon occurs when saturated soil loses stiffness in the presence of an earthquake?",
+    "answer": "SOIL LIQUEFACTION"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A massive rope is attached to the ceiling and kept taut by a weight at the bottom. If the weight is given a small wiggle, which of the following describes the speed of the resulting wave as it travels up the string?",
+    "choices": {
+      "W": "It increases",
+      "X": "It decreases",
+      "Y": "It increases, then decreases",
+      "Z": "It remains constant"
+    },
+    "answer": "W) IT INCREASES"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A charge moves in an electric field with potential described by the function $\\athrm{V}(x) = 3x^{2} - 6x + 8$. If the charge experiences a force of 18 newtons at $x = 2$, then what is its potential energy in joules at $x = 1$?",
+    "answer": "15 JOULES"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Princeton Plasma Physics Lab have developed a new design for the internal combustion engine that reduces the emission of what toxic gas?",
+    "choices": {
+      "W": "Methane",
+      "X": "Nitric oxide",
+      "Y": "Carbon monoxide",
+      "Z": "Chlorofluorocarbons"
+    },
+    "answer": "X) NITRIC OXIDE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "A family in Cape Town, South Africa, would like to install solar panels on their house. How should they orient their solar panels to maximize energy output?",
+    "choices": {
+      "W": "South-facing and at an angle of 30 degrees with the horizontal",
+      "X": "North-facing and at angle of 30 degrees with the horizontal",
+      "Y": "South-facing and at an angle of 60 degrees with the horizontal",
+      "Z": "North-facing and at angle of 30 degrees with the horizontal"
+    },
+    "answer": "Z) NORTH-FACING AND AT AN ANGLE OF 30 DEGREES WITH THE HORIZONTAL"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Several types of non-Watson-Crick base pairing may occur during translation due to what phenomenon involving genetic code redundancy?",
+    "answer": "WOBBLE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Tracheids and vessel elements are components of what vascular tissue in plants?",
+    "answer": "XYLEM"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are working on improving the stability of qubits in quantum computers. Qubits can be represented as a linear combination of two states that are joined by what quantum mechanical principle?",
+    "answer": "SUPERPOSITION"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Sandia National Lab have developed a prototype for a cheaper device to perform magnetoencephalography. Which of the following best describes the function of magnetoencephalography?",
+    "choices": {
+      "W": "It probes the brain with a magnetic field and measures the rebound",
+      "X": "It probes the heart with a magnetic field and measures the rebound",
+      "Y": "It detects magnetic fields from the electrical signals in the brain",
+      "Z": "It detects magnetic fields from the electrical signals in the heart"
+    },
+    "answer": "Y) IT DETECTS MAGNETIC FIELDS FROM THE ELECTRICAL SIGNALS IN THE BRAIN"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What term is given to liquids such as helium-II that exhibit an ability to flow without viscosity?",
+    "answer": "SUPERFLUIDS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the standard reduction potential of chlorine is $+1.36$ volts, and that the standard reduction potential of aluminum is $-1.66$ volts, then, to two decimal places and in volts, what is the standard cell potential for the electrolysis of an aluminum chloride solution?",
+    "answer": "-3.02"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four atmospheric gases that directly contribute to the formation of tropospheric ozone: 1) Nitrogen dioxide; 2) Carbon dioxide; 3) Sulfur dioxide; 4) Carbon monoxide",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metamorphic facies is most likely associated with subduction zones?",
+    "choices": {
+      "W": "Blueschist",
+      "X": "Greenschist",
+      "Y": "Granulite",
+      "Z": "Eclogite"
+    },
+    "answer": "W) BLUESCHIST"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A tank is completely filled with oil with a density of 500 kilograms per cubic meter. If the height of the tank is 3 meters, what is the gauge pressure, in pascals, at the bottom of the tank?",
+    "answer": "14700"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle of mass 3 kilograms is moving at 15 meters per second east. Starting at $t = 0$ seconds, a constant northward force of 12 newtons is applied to the particle. What is the work done in joules by the force between $t = 0$ and $t = 5$?",
+    "answer": "600"
+  }
+]

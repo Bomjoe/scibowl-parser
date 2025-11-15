@@ -1,0 +1,324 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "One quark in a meson has a color charge of red. Identity all of the following 3 options are possible color charges for the other quark: I) Red II) Blue III) Green",
+    "answer": "None"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a person standing at the outer edge of a 5 meter diameter disk rotating at 2 radians per second. If the person throws a 50 gram ball towards the center of the disk at 4 meters per second, what is the magnitude of the Coriolis force acting on the ball in the disk's reference frame?",
+    "answer": "0.4 Newtons"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of squares of the roots of $x^{4} - 8x^{3} + 13x^{2} - 5$?",
+    "answer": "38"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum from $k = 1$ to $k = 6560$ of $\\og_{3}(1 + 1 / k)$.",
+    "answer": "8"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 factors which promote thunderstorm formation. I) High Turbulence II) Atmospheric Stability III) Orographic uplift IV) Frontal Wedging",
+    "answer": "1, 3 and 4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the calculation of the Southern Oscillation Index?",
+    "choices": {
+      "W": "The anomaly in average pressure between Tahiti and Australia",
+      "X": "The anomaly in average sea surface temperature between Tahiti and Australia",
+      "Y": "The anomaly in average pressure between Tahiti and Peru",
+      "Z": "The anomaly in average sea surface temperature between Tahiti and Peru"
+    },
+    "answer": "W) The anomaly in average pressure between Tahiti and Australia"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Fermilab are studying neutrinos. While neutrinos usually interact with both gravity and the weak nuclear force, a proposed type of neutrinos only interacts with gravity. What is the name for these neutrinos, which do not undergo oscillation?",
+    "answer": "Sterile Neutrino"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Laboratory are studying new models of physics, such as weak scale supersymmetry. They are looking to explain certain properties of the electroweak theory. What property of the electroweak theory states that as energy levels are lowered, the electromagnetic and weak nuclear forces diverge, unlike at high energies where they can be unified into one force?",
+    "answer": "Spontaneous symmetry breaking [ACCEPT: symmetry breaking]"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains the mechanism by which renin directly influences osmoregulation:",
+    "choices": {
+      "W": "Renin decreases stroke volume and blood pressure",
+      "X": "Renin increases stroke volume and blood pressure",
+      "Y": "Renin activates angiotensin",
+      "Z": "Renin activates aldosterone"
+    },
+    "answer": "Y) Renin activates angiotensin"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The mean arterial pressure of a person is 90 mmHg. If their systolic pressure is 100, what is their diastolic pressure?",
+    "answer": "85"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "While out camping, Colin is out camping, he finds that he left his favorite bottle of urea open and all the water has evaporated off! He tries to dissolve the solid urea evaporite by adding distilled water but the urea refuses to dissolve. Identify all of the following 3 things that Colin's brother could do to improve the solubility of the urea: I) Add $\\athrm{Fe}^{3 + }$ ions to form a complex II) Add uric acid III) Heat the water solvent",
+    "answer": "I, III"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "After failing to retrieve the urea, Colin looks for and finds a bottle of urea solution of unknown concentration with molar absorptivity of $4*10^{3}$ Liters per mol centimeter. He brings it back to the lab to measure its absorbance and measures an absorbance of 20 in a 2 centimeter thick sample. In moles per liter, what is the molar concentration of the urea sample?",
+    "answer": "0.0025 M"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "It takes 5 Enloe Science Bowl members 5 days to write 30 questions. How many days will it take for 107 Enloe Science Bowl members to write 642 questions?",
+    "answer": "5"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If E, S, B, O, T are positive integers such that $\\athrm{E}*\\athrm{S}*\\athrm{B}*\\athrm{O}*\\athrm{T}$ is equal to 2022, then what is the minimum possible value of $\\athrm{E} + \\athrm{S} + \\athrm{B} + \\athrm{O} + \\athrm{T}$?",
+    "answer": "344"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "White muscle derives its energy primarily from what metabolic pathway?",
+    "answer": "Glycolysis (DO NOT ACCEPT: cell respiration)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following structures in the brain that are correctly matched to the embryonic tissue they are derived from: I) Telencephalon - Thalamus II) Metencephalon - Cerebellum III) Diencephalon - Hypothalamus IV) Myelencephalon - Medulla oblongata",
+    "answer": "II, III, IV"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the purpose of including the prefactor inside the Arrhenius equation?",
+    "choices": {
+      "W": "To account for changes in temperature",
+      "X": "To account for the activation energy of the reaction",
+      "Y": "To account for the probability of a successfully oriented collision",
+      "Z": "To account for the change in enthalpy of a reaction"
+    },
+    "answer": "Y) To account for the probability of a successfully oriented collision"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider the reaction mechanism $\\athrm{A} + \\athrm{B}$ goes to $\\athrm{C} + \\athrm{D}$ in a reversible mechanism, and then $\\athrm{D} + \\athrm{A}$ forms $\\athrm{E}$, the final product. What is the rate law of this reaction, assuming the intermediate $\\athrm{D}$ is immediately used after production?",
+    "answer": "$\\athrm{Rate} = \\athrm{k}[\\athrm{A}]^2 [\\athrm{B}] / [\\athrm{C}]$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "It takes 5 Enloe Science Bowl members 5 days to write 30 questions. How many days will it take for 107 Enloe Science Bowl members to write 642 questions?",
+    "answer": "5"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A circle O circumscribes a quadrilateral ABCD. If AB is 9, CD is 21, and BC equals DA equals 10, what is the length of diagonal AC?",
+    "answer": "17"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Thanush and Colin believe that they have discovered a new element named Esbotium. Their measurements indicate that Esbotium has a mass of 332 amu and an atomic number of 140. Which of the following choices best describes why this is possible or not?",
+    "choices": {
+      "W": "It is possible because there are infinitely many electron energy levels and all 140 electrons can fit within these levels",
+      "X": "It is possible because elements with very large nuclei are stable",
+      "Y": "It is not possible because the nuclear charge is too great and the electromagnetic repulsion will overcome the strong nuclear force",
+      "Z": "It is not possible because the $n = 1$ electrons will have to exceed the speed of light"
+    },
+    "answer": "Z) It is not possible because the $n = 1$ electrons will have to exceed the speed of light"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a person standing at the outer edge of a 5 meter diameter disk rotating at 2 radians per second. If the person throws a 50 gram ball towards the center of the disk at 4 meters per second, what is the magnitude of the Coriolis force acting on the ball in the disk’s reference frame?",
+    "answer": "0.4 Newtons"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The \ring current effect\ dramatically affects the results of which of the following types of spectroscopy?",
+    "choices": {
+      "W": "NMR Spectroscopy",
+      "X": "ESR Spectroscopy",
+      "Y": "IR Spectroscopy",
+      "Z": "MS Spectroscopy"
+    },
+    "answer": "W) NMR Spectroscopy"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Mercury has a very low melting point compared to other metals, which can be explained using band theory. Which of the following best explains Mercury's low melting point?",
+    "choices": {
+      "W": "It's valence and conduction bands are very close in energy, but not overlapping",
+      "X": "It has too few valence electrons, and cannot fully fill up the composite s-d composite band",
+      "Y": "It has too many valence electrons, and fills up the antibonding locations of the s-d composite band",
+      "Z": "Mercury's valence and conduction bands overlap too much, and the resulting band does not have a high enough bonding strength"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Oak ridge national lab is looking into the application of berms on the many streams in the tennessee valley to control flooding. If a berm is placed along the Tennessee River, which of the following would happen to the velocity of the stream downstream of the berm.",
+    "choices": {
+      "W": "Increase",
+      "X": "Decrease",
+      "Y": "Remain unchanged",
+      "Z": "Increases in summer, Decreases in winter"
+    },
+    "answer": "W) Increase"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at ASAN have discovered a new star named Enolios in a far, far away galaxy. Using fancy equipment in their lab, they have determined the wavelength of an H-alpha particle as it reaches the lab from the star to be 2600 nm. If the initial wavelength of the H-alpha particle from the star is 650 nm, calculate the redshift of light between the star and the lab.",
+    "answer": "3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 rocks in order from highest to lowest elevation along a stream profile: 1) Breccia 2) Quartz Sandstone 3) Conglomerate 4) Arkose",
+    "answer": "1, 3, 4, 2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for alternating dark and light bands of ice on glaciers?",
+    "answer": "Ogives"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A macrophage has just endocytosed a bacteria, but is unable to digest and kill it. What 2 organelles did not merge together?",
+    "choices": {
+      "W": "Lysosome and Golgi",
+      "X": "Endosome and Lysosome",
+      "Y": "Endosome and Golgi",
+      "Z": "Lysosome and ER"
+    },
+    "answer": "X) Endosome and Lysosome"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The local population of birds at Enloe were recently decimated by an avian flu, resulting in a much smaller population size. Which of the following is NOT a possible effect on the population of birds?",
+    "choices": {
+      "W": "Increased average beak size",
+      "X": "Average mating song becomes longer",
+      "Y": "Overall reduction in competition",
+      "Z": "Increased adaptability to change"
+    },
+    "answer": "Z) Increased adaptability to change"
+  },
+  {
+    "question_number": "Tossup#",
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Enloe Science Bowl decides to explore the pool located on the roof of Enloe's East building. After swimming for some time, they become suspicious that the pool has an extremely high chloride concentration. Which technique can they use to determine chloride concentration, a common argentometric titration using silver nitrate?",
+    "choices": {
+      "W": "Fajans Method",
+      "X": "Volhard Method",
+      "Y": "EDTA Titration",
+      "Z": "Mohr Method"
+    },
+    "answer": "Mohr Method"
+  },
+  {
+    "question_number": "Bonus#",
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Laboratory are studying the renin-angiotensin- aldosterone system. What enzyme converts Angiotensin II to Angiotensin I- 7, also commonly found as a spike protein for the SARS CoV- 2 virus?",
+    "answer": "ACE2 (Angiotensin Converting Enzyme 2)"
+  },
+  {
+    "question_number": "Tossup17",
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Consider a spherical region of uniform charge density with radius R. Which of the following options best describes the electric field as a function of distance from

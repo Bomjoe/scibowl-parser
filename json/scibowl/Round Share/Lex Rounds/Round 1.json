@@ -1,0 +1,474 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The decay of uranium 238, which has an atomic number of 92, to lead 206, which has an atomic number of 82, has 14 steps. Which of the following correctly gives how many steps in the decay pathway are alpha decay and beta minus decay, respectively?",
+    "choices": {
+      "W": "6 alpha, 8 beta minus",
+      "X": "7 alpha, 7 beta minus",
+      "Y": "8 alpha, 6 beta minus",
+      "Z": "9 alpha, 5 beta minus"
+    },
+    "answer": "X) 8 ALPHA, 6 BETA MINUS"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle's displacement can be described as a function of time by $\\athrm{r(t)} = 12\\athrm{t}^2 + 3\\athrm{t} + 2$ . Identify all of the following three statements that are true about the particle's motion: 1) It has constant acceleration; 2) It is constantly increasing in displacement; 3) It has constant jerk.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following could not be the measure in degrees of each interior angle in a regular polygon?",
+    "choices": {
+      "W": "172",
+      "X": "173",
+      "Y": "174",
+      "Z": "175"
+    },
+    "answer": "X) 173"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sean and Gideon are rolling a pair of six sided dice, with Sean rolling first. If Sean rolls a pair of dice whose top faces sum to 9, Sean wins the game. If not, Gideon rolls the dice and tries to achieve the same objective. The game continues until Sean or Gideon roll a sum of 9. What is the probability that Gideon wins the game?",
+    "answer": "8/17"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not characteristic of all chordates?",
+    "choices": {
+      "W": "Post anal tail",
+      "X": "Somite derived vertebrae",
+      "Y": "Pharyngeal slits",
+      "Z": "Notochord"
+    },
+    "answer": "X) SOMITE DERIVED VERTEBRAE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which extremely rare blood phenotype is unique in that it doesn't exhibit the H antigen and thus can donate blood to all A, AB and O patients but cannot receive blood from any of those same patients?",
+    "answer": "BOMBAY PHENOTYPE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following substances has an activity factor of 1?",
+    "choices": {
+      "W": "Liquid water",
+      "X": "Solid aluminum",
+      "Y": "Liquid benzene",
+      "Z": "Aqueous sodium chloride"
+    },
+    "answer": "Z) AQUEOUS SODIUM CHLORIDE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the oxidation state of carbon in formic acid?",
+    "choices": {
+      "W": "-2",
+      "X": "0",
+      "Y": "+2",
+      "Z": "+4"
+    },
+    "answer": "Y)+2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three features that are concordant: 1) Sill; 2) Stock; 3) Dike.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Some precipitation formed in clouds fall as streaks from the sky but sublimes or evaporates before it hits the ground. What term is given to this precipitation?",
+    "answer": "VIRGA"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What operator in quantum mechanics is the eigenvalue of the energy matrix, and is equivalent to the sum of kinetic and potential energy?",
+    "answer": "HAMILTONIAN"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An RLC circuit has a resistor with resistance 2 milliohms, an inductor with an inductance of 3 millihenries, and a capacitor with a capacitance of 6 microfarads all in series. What is the time constant of the circuit in seconds?",
+    "answer": "3 SECONDS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alex is giving $2.36$ to Gideon in quarters, nickels, dimes, and pennies. What is the absolute difference between the minimum and maximum number of coins Alex could use?",
+    "answer": "225"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the units digit of $1^{2020} + 2^{2020} + 3^{2020} + \\dots + 9^{2020}$?",
+    "answer": "3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Brushfield spots are often indicative of the aneuploidy of which chromosome?",
+    "answer": "21"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following proteins that correspond correctly to the disorder caused when they are misfolded: 1) $\\lpha$ -synuclein - Alzheimer's; 2) $\\eta$ amyloid - Parkinson's; 3) Huntington - Huntington's.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry and hybridization, respectively, of xenon difluoride?",
+    "answer": "LINEAR; dsp^3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following colors would absorb the lowest energy light?",
+    "choices": {
+      "W": "Violet",
+      "X": "Green",
+      "Y": "Yellow",
+      "Z": "Red"
+    },
+    "answer": "X) GREEN"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following objects is not found in the instability strip?",
+    "choices": {
+      "W": "Polaris",
+      "X": "Mira A",
+      "Y": "Delta Scuti",
+      "Z": "Sirius B"
+    },
+    "answer": "Z) SIRIUS B"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three minerals from most to least stable against chemical weathering: 1) Halite; 2) Hematite; 3) Olivine.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following effects explains why the energy level of an electron in a static magnetic field is split into non-degenerate energy states?",
+    "choices": {
+      "W": "Hall effect",
+      "X": "Stark effect",
+      "Y": "Zeeman effect",
+      "Z": "Casimir effect"
+    },
+    "answer": "Y) ZEEMAN EFFECT"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A solid disk lying in the xy plane has a mass of 10 kilograms and a radius of 4 meters. What is the moment of inertia about an axis 2 meters from the center of the disk that is parallel to the z axis in kilograms times meters squared?",
+    "answer": "120"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the maximum number of points of intersection between 4 circles and 5 lines in a plane?",
+    "choices": {
+      "W": "60",
+      "X": "62",
+      "Y": "64",
+      "Z": "66"
+    },
+    "answer": "X) 62"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For two complementary angles $\\lpha$ and $\\eta$ , if $\\in (\\lpha) + \\in (\\eta) = 1 / 3$ , what is $\\in^3 (\\lpha) + \\in^3 (\\eta)$?",
+    "answer": "13/27"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the most common intercalating agent used to dye DNA embedded within agarose gel following RFLP?",
+    "answer": "ETHIDIUM BROMIDE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In order to stabilize the tetrahedral intermediate during nucleophilic acyl substitution of a water molecule in proteases, they often possess a ring of positively charged residues to stabilize the alkoxide group. What term is given to this pocket?",
+    "answer": "OXYANION HOLE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following solvents would serve best for the reaction between tert-butyl chloride and potassium cyanide?",
+    "choices": {
+      "W": "Acetonitrile",
+      "X": "Water",
+      "Y": "Tetrahydrofuran",
+      "Z": "Dimethyl sulfoxide"
+    },
+    "answer": "X) WATER"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three nickel four coordinate complexes that are tetrahedral: 1) $\\athrm{Ni(CN)_4^{2 - }}$ ; 2) $\\athrm{Ni(CO)_4}$ ; 3) $\\athrm{NiCl_4^{2 - }}$ .",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The D1 and D2 Fraunhofer lines found in the sun are usually caused by the absorption lines of what element?",
+    "answer": "SODIUM"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "P wave speed is proportional to which of the following?",
+    "choices": {
+      "W": "rho",
+      "X": "1/rho",
+      "Y": "sqrt(rho)",
+      "Z": "1/sqrt(rho)"
+    },
+    "answer": "Z) 1/sqrt(rho)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the efficiency of a heat engine operating between a hot reservoir with four times the temperature of the cold reservoir?",
+    "answer": "$75\\$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 10 kilogram block is sliding down a ramp inclined at a 30 degree angle to the horizontal with a constant acceleration of 3 meters per second squared. Given that g equals 10 meters per second squared, what is the coefficient of kinetic friction to the nearest tenth between the block and the ramp?",
+    "answer": "0.2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the shortest distance between the line $y = x + 2$ and the point (2, 3)?",
+    "answer": "sqrt(2) / 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A two by five rectangle lies along the positive $x$ and $y$ axes. A billiard ball is fired from the origin and first collides with the sides of the rectangle at the point (2,2). It is subsequently deflected at 90 degrees every time it collides with the side of the rectangle. How many more times does the billiard ball collide with the walls of the rectangle before it is collected at a vertex of the rectangle?",
+    "answer": "5"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "2,4-Dichlorophenoxyacetic acid is an herbicide that selectively destroys eudicots because it mimics what class of plant hormones, but cannot be broken down?",
+    "answer": "AUXINS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding neutrophils: 1) They are considered lymphocytes; 2) They are usually responsible for antibody dependent cellular cytotoxicity; 3) They rarely perform diapedesis.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the formal charge on the nitrogen atom in the isocyanate anion NCO?",
+    "answer": "- 1"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A monomer can react with itself to produce a target polymer via condensation polymerization in aqueous solution. Identify all of the following three changes to the reaction system that will favor formation of the polymer: 1) Adding more dilute water; 2) Decreasing temperature; 3) Removing polymer as it is formed.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the most common drainage pattern that manifests in regions containing homogenous material?",
+    "answer": "DENDRITIC"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three objects in increasing mass: 1) Veela pulsar; 2) Proxima centauri; 3) Sagittarius A*.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A step-down transformer has a primary coil with 900 turns and a secondary coil with 18 turns. When the primary coil is connected to a battery of 100 volts, how many volts pass through the secondary coil?",
+    "answer": "2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A siren is emitted from a truck moving at 98 meters per second in the negative x direction, while an observer is moving at 49 meters per second in the positive x direction, such that they are moving away from each other. Given that the speed of sound is 343 meters per second, if the frequency of the siren is 150 hertz for the truck, what is the frequency of the siren as heard by the observer in hertz?",
+    "answer": "100"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A frog is initially at the origin. It then hops one unit in the positive x direction, then two units in the negative x direction, then three units in the positive x direction, and continues like this. What is the frog’s x coordinate after the 2021st hop?",
+    "answer": "1011"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the integral of x times e to the power of negative x between 0 and positive infinity.",
+    "answer": "1"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "To what mammalian order do even toed ungulates belong?",
+    "answer": "ARTIODACTYLA"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three orders of insects that undergo complete metamorphosis: 1) Hemiptera; 2) Odonata; 3) Diptera.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "For two reactions A and B, reaction A has a greater activation energy than reaction B. Which of the following is true about the rate constant of reaction A with respect to that of reaction B at low and high temperatures, respectively?",
+    "choices": {
+      "W": "Lower at all temperatures",
+      "X": "Higher at all temperatures",
+      "Y": "Lower at low temperatures and higher at high temperatures",
+      "Z": "Higher at low temperatures and lower at high temperatures"
+    },
+    "answer": "Y) LOWER AT LOW TEMPERATURES AND HIGHER AT HIGH TEMPERATURES"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the IUPAC name for the major organic product formed when ethanol chloride is treated with a solution of methanol?",
+    "answer": "METHYL ACETATE"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What event occurred around 27,000 years ago as a result of the weakening of the Atlantic meridional overturning circulation, causing a reversal to glacial conditions?",
+    "answer": "YOUNGER DRYAS"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following objects that can be found in the Oort cloud: 1) Ceres; 2) Eris; 3) Short period comets.",
+    "answer": "NONE"
+  }
+]

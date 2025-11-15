@@ -1,0 +1,401 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Following fertilization in plants, the integument of the ovule develops into what structure of the mature seed?",
+    "answer": "Seed Coat"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following structures that are haploid: (1) Integument, (2) Archegonium, (3) Megasporophyll, (4) Microsporangium.",
+    "answer": "2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many hydrogen bonds does each ammonia molecule form?",
+    "answer": "2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By what value does the oxidation state of phosphorus change when $PCl_3$ is reacted with water?",
+    "answer": "ZERO"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In 1980, James Cronin and Val Fitch won the Nobel Prize in Physics for their discovery of the violation of what symmetry in kaon decay. This historically violated previously accepted principles of particle mechanics.",
+    "answer": "CP"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What dimensionless constant is used as a measure of the strength of the electromagnetic force between elementary charged particles? It is represented by the Greek letter alpha.",
+    "answer": "FINE STRUCTURE CONSTANT"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the chance of landing heads on an unfair coin is 0.8, what is the most likely number of tosses that will be necessary in order to land the first tail?",
+    "answer": "5"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A gambler wins a bet if a 6-sided dice rolls on a prime number or 1. What is the probability that the gambler wins at least 2 out of 10 bets.",
+    "answer": "1013/1024"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In astronomy, what phenomenon occurs when a planet appears to be moving backwards in its orbit, often compared to when \one car overtakes another on a highway\?",
+    "answer": "Retrograde Motion"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following spectral classes from the one with the least temperature to the one with the most temperature: 1) M, (2) B, (3) F, (4) G.",
+    "answer": "1, 4, 3, 2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Laboratory are exploring DNA self-assembly and replication in an attempt to create smaller electronic components. What famous experiment in 1958 demonstrated that DNA replication is semi-conservative?",
+    "answer": "Meselson - Stahl Experiment"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Laboratory are trying to copy the geometry of mammal bones using batteries. Mammal bones have a function in storing red and yellow bone marrow. What is the name for the space within the bone that performs this function?",
+    "answer": "Medullary Cavity"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the digestive system, G cells are responsible for secreting what hormone in response to the presence of food?",
+    "answer": "Gastrin"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Inhibin is responsible for inhibiting the secretion of which of the following reproductive hormones?",
+    "choices": {
+      "W": "Follicle - Stimulating Hormone",
+      "X": "Luteinizing Hormone",
+      "Y": "Human Chorionic Gonadotropin",
+      "Z": "Testosterone"
+    },
+    "answer": "W) Follicle - Stimulating Hormone"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What are the values of $n$ and $l$ respectively for a 4f orbital?",
+    "answer": "4 and 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Oxygen is paramagnetic because it can be described what adjective, meaning it has two unpaired electrons?",
+    "answer": "DIRADICAL"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "To the nearest integer, what is the drag coefficient of an aerofoil?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "4",
+      "Z": "15"
+    },
+    "answer": "W) 0"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "For a fluid with drag coefficient 1, calculate the drag force for an object around which fluid flows at 3 m/s, has a circular cross section of radius 5, and is in a fluid of density 6. Give your answer in terms of pi.",
+    "answer": "675\\i"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area bounded by the polar curve $r = 4$?",
+    "answer": "16\\i"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the name for polar curves produced by the general equations of $r = a + b \\in(\\theta)$ or $r = a + b \\os(\\theta)$?",
+    "answer": "Limacons"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What mineral corresponds to an 8 on the Mohs hardness scale?",
+    "answer": "Topaz"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Provide the name for the major zinc ore, which contains zinc, sulfur, and iron, and is sometimes referred to as marmatite when there is high iron composition.",
+    "answer": "Sphalerite"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Fermi National Accelerator Laboratory are using elementary particles to discover rare and hidden phenomena in the universe. What second-generation particles are they using, which have similar properties to electrons and a spin of $\\rac{1}{2}$ that are found in cosmic rays?",
+    "answer": "Muons"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Fermi National Accelerator Laboratory are operating large clusters of computers to study lattice quantum chromodynamics. Lattice quantum chromodynamics primarily involves the interactions between what 2 elementary particles within the standard model?",
+    "answer": "Quarks and Gluons"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The node of ranvier is associated with which of the following types of cells?",
+    "choices": {
+      "W": "Hepatocytes",
+      "X": "Neurons",
+      "Y": "T cells",
+      "Z": "Osteocytes"
+    },
+    "answer": "X) Neurons"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "After cell division in plants, the cell plate develops into what pectin-rich layer, which cements the primary cell walls of adjacent cells?",
+    "answer": "Middle Lamella"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The standard calomel electrode is a reference electrode based on the reactions of what unusual transition metal?",
+    "answer": "MERCURY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The contraction of d and f block elements can be explained by the probability distribution of the d and f orbitals leading to weaker shielding. In comparisons, d and f orbitals are said to be less what than s and p orbital? This term describes the orbital's proximity to the nucleus.",
+    "answer": "PENETRATING"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The power output of a blackbody is proportional to what power of its temperature?",
+    "answer": "FOURTH"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The number density of photons emitted from a blackbody is proportional to what power of its temperature?",
+    "answer": "THIRD"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a pythagorean triplet?",
+    "choices": {
+      "W": "18, 24, 30",
+      "X": "105, 252, 273",
+      "Y": "7, 40, 41",
+      "Z": "40, 42, 58"
+    },
+    "answer": "Y) 7, 40, 41"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An arithmetic sequence has third term 7 and 51st term 79. What is the sum of the first 10 terms in this sequence?",
+    "answer": "215/2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ages was part of the pleistocene epoch?",
+    "choices": {
+      "W": "Northgrippian",
+      "X": "Galesian",
+      "Y": "Greenlandian",
+      "Z": "Ordovician"
+    },
+    "answer": "X) Galesian"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "This group of naturally occurring silicate minerals are composed of long, thin microfibrils that can be released into the air with abrasion. What is the name for this group, which has become infamous for its negative health impacts, such as mesothelioma?",
+    "answer": "Asbestos"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Laboratory are studying tarantula myosin in order to better understand human muscle function. The sarcomere, which is the basic unit of muscle, is responsible for contraction through interactions between myosin heads and actin. What coiled protein in the sarcomere blocks myosin binding to actin until a signal transduction pathway from the brain is initiated?",
+    "answer": "Tropomyosin"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Laboratory are taking X-rays of the human skull in order to improve military helmets. One of the intricacies of studying the structure of the skull is that it exhibits different mechanical properties depending upon its angle in relation to ballistics. What is the broader name for this property, which describes variations in the properties of an object based on different orientations and axes?",
+    "answer": "Anisotropy"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The indirect pathway, which passes through the basal nuclei of the brain, involves the release of what neurotransmitter by the substantia nigra, which inhibits the thalamus?",
+    "answer": "GABA"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the human body, what large muscle is responsible for the adduction of the arm at the shoulder joint and acts as an antagonist to the middle deltoid?",
+    "answer": "Pectoralis Major"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What ionic compound, whose molten form is used to dissolve silica and other metals, is a medium for glass making and consists of a group 1 metal with a polyatomic ion?",
+    "answer": "SODIUM CARBONATE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Polyesters are formed by what type of polymerization that produces water?",
+    "answer": "CONDENSATION POLYMERIZATION"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Damping in an RLC circuit is achieved by which component?",
+    "answer": "RESISTOR"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the Lorentz factor of a particle moving at $0.8c$. Give your answer as a fraction in lowest terms.",
+    "answer": "5/3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Calculate the derivative of $x^{5} + 6x$ at $x = 2$",
+    "answer": "86"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many petals does a rose curve with the formula of $r = 3 \\os(4 \\theta)$ have?",
+    "answer": "8"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The coma and nucleus are terms associated with what type of near-Earth astronomical objects?",
+    "answer": "Comets"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 asteroids in order of increasing size: (1) Ceres, (2) Eros, (3) Vesta.",
+    "answer": "2, 3, 1"
+  }
+]

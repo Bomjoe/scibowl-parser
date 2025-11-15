@@ -1,0 +1,542 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "What family of viruses is known to derive their nuclear envelope from the host cell's nuclear envelope, and replicate within the host cell nucleus, leaving small copies of chromosomes that remain latent?",
+    "answer": "Herpesviridae"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "What technique for DNA amplification is a promising alternative to PCR-based diagnostics, because it is carried out in a single tube at a constant temperature?",
+    "choices": {
+      "W": "Multiplex PCR",
+      "X": "LAMP",
+      "Y": "qPCR",
+      "Z": "RT-PCR"
+    },
+    "answer": "X) LAMP"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the quadratic with integer coefficients and smallest positive leading coefficient that has the same sum and product of the roots as $4x^{9} - 6x^{6} - 3x^{2} + 1$ ?",
+    "answer": "$4x^{2} - 1$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 properties that are true of all fields but not necessarily of all rings: 1) Associativity of multiplication; 2) Commutativity of multiplication; 3) Closure under multiplicative inverses.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An ionic salt is dissolved in water and forms a red precipitate upon the addition of sodium carbonate to the solution. Which of the following could be the identity of the original ionic salt?",
+    "choices": {
+      "W": "Cobalt (II) sulfate",
+      "X": "Iron (II) chloride",
+      "Y": "Iron (III) sulfate",
+      "Z": "Copper (II) acetate"
+    },
+    "answer": "Y) Iron (III) sulfate"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a possible method of synthesizing 1,3,5-tribromobenzene?",
+    "choices": {
+      "W": "Treating benzene with sulfur trioxide, followed by excess bromine, followed by sulfuric acid",
+      "X": "Treating benzene with excess bromine, followed by copper (I) bromide",
+      "Y": "Treating aniline with excess bromine, followed by acidified sodium nitrite, followed by hypophosphorous acid.",
+      "Z": "Treating nitrobenzene with excess bromine, followed by hydrogen, followed by acidified sodium nitrite, followed by copper (I) bromide"
+    },
+    "answer": "Y) Treating aniline with excess bromine, followed by acidified sodium nitrite, followed by hypophosphorous acid."
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three rocks by increasing depth found in a deep fault system: 1) Cataclastite; 2) Mylonite; 3) Fault breccia.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three choices that would increase a river's susceptibility to flooding: 1) Increasing sinuosity; 2) Increasing the Manning coefficient; 3) Increasing the hydraulic radius.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true concerning the Hill equation: 1) The theoretical maximum for the Hill coefficient is when it is equal to the number of binding sites; 2) A Hill coefficient of less than one indicates positive cooperativity; 3) A Hill plot of myoglobin is linear.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Tyler inserted a gene X into an expression vector, which he then transformed into E. coli. It contains an inducible operon to express an anti-kanamycin resistance gene. Identify all of the following three statements that can be definitely concluded about the selection process: 1) E. coli that survive when anti-kanamycin is added are able to express gene X; 2) E. coli that express gene X must be able to survive if kanamycin is added; 3) If gene X is not being expressed, then transformation did not occur.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Comparing the rigid rotor model and harmonic oscillator models for a diatomic gas molecule's different degrees of freedom, what is the smallest possible ratio between their energies?",
+    "answer": "Zero"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following altitudes above the Earth's surface would the gravitational acceleration be 4.9 meters per second squared?",
+    "choices": {
+      "W": "$1.6\\times 10^{6}$ meters",
+      "X": "$2.6\\times 10^{6}$ meters",
+      "Y": "$6.4\\times 10^{6}$ meters",
+      "Z": "$9.6\\times 10^{6}$ meters"
+    },
+    "answer": "X) $2.6\\times 10^{6}$ meters"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following families of viruses is not a cause of viral hemorrhagic fevers?",
+    "choices": {
+      "W": "Filoviridae",
+      "X": "Flaviviridae",
+      "Y": "Arenaviridae",
+      "Z": "Paramyxoviridae"
+    },
+    "answer": "Z) Paramyxoviridae"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Many viruses are known to be associated with cancer due to their genetic alterations. Which of the following virus is definitely not responsible for such cancer-causing alterations?",
+    "choices": {
+      "W": "HPV",
+      "X": "HTLV-1",
+      "Y": "Epstein-Barr",
+      "Z": "Orthopoxvirus"
+    },
+    "answer": "Z) Orthopoxvirus"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following relations between hyperbolic trig functions and regular trig functions is correct?",
+    "choices": {
+      "W": "$\\inh (x) = - i\\in (i x)$",
+      "X": "$\\osh (x) = \\os (i x)$",
+      "Y": "$\\peratorname {sech}(x) = - \\ec (i x)$",
+      "Z": "$\\peratorname {csch}(x) = i\\peratorname {csc}(i x)$"
+    },
+    "answer": "Y) $\\peratorname {sech}(x) = - \\ec (i x)$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the integral from 0 to infinity of $e$ to the negative $x$ minus $e$ to the quantity negative $5x$ , all over $x$ , $dx$ .",
+    "answer": "In 5"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following hydrogen abstraction reactions would occur most quickly?",
+    "choices": {
+      "W": "Oxygen hydrogen single bond reacting with fluorine atom",
+      "X": "Oxygen hydrogen single bond reacting with chlorine atom",
+      "Y": "Selenium hydrogen single bond reacting with fluorine atom",
+      "Z": "Selenium hydrogen single bond reacting with chlorine atom"
+    },
+    "answer": "Y) Selenium hydrogen single bond reacting with fluorine atom"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A radiolabeled alcohol containing only oxygen-18 is oxidized by chromic acid containing only oxygen-16. The resulting carboxylic acid is then reacted with the original radiolabeled alcohol to produce an ester. What fraction of oxygen in the ester is expected to be oxygen-18?",
+    "answer": "$\\rac{3}{4}$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Gravitational lensing can be generalized as which of the following processes?",
+    "choices": {
+      "W": "Refraction",
+      "X": "Scattering",
+      "Y": "Diffraction",
+      "Z": "Reflection"
+    },
+    "answer": "X) Scattering"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The universe's third theorized phase is the dark-energy-dominated era. The time evolution of the expansion in this era is proposed to be what type of function of the product of Hubble's constant and time?",
+    "choices": {
+      "W": "Linear",
+      "X": "Cubic",
+      "Y": "Logarithmic",
+      "Z": "Exponential"
+    },
+    "answer": "Z) Exponential"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three actions that would increase blood pressure in a human: 1) Increasing blood concentration of atrial natriuretic peptide; 2) Increasing blood concentration of aldosterone; 3) Decreasing albumin concentration in blood.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "According to the Frank-Starling law, the stroke volume of the heart increases in response to an increase in which of the following quantities?",
+    "choices": {
+      "W": "Right ventricular pressure",
+      "X": "Left ventricular pressure",
+      "Y": "Right atrial pressure",
+      "Z": "Left atrial pressure"
+    },
+    "answer": "Y) Right atrial pressure"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In the Lensmaker's equation, what does the $R_{2}$ variable represent?",
+    "choices": {
+      "W": "The refractive index of the lens material",
+      "X": "The radius of curvature of the lens surface closer to the light source",
+      "Y": "The radius of curvature of the lens surface farther from the light source",
+      "Z": "The thickness of the lens"
+    },
+    "answer": "Y) The radius of curvature of the lens surface farther from the light source"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Given a spherical object with three principal axes $A, B,$ and $C$, which of the following inequality relations between the lengths of these axes best represents the object after undergoing rotation in a stable manner and then an unstable manner, respectively?",
+    "choices": {
+      "W": "$A = B > C$ and $C > A = B$",
+      "X": "$C > A = B$ and $A = B > C$",
+      "Y": "$A = B = C$ and $C > A = B$",
+      "Z": "$A = B > C$ and $A = B = C$"
+    },
+    "answer": "W) $A = B > C$ and $C > A = B$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of nuclear reactors is considered the most dangerous?",
+    "choices": {
+      "W": "RBMK reactor",
+      "X": "Pressurized heavy water reactor",
+      "Y": "Liquid metal fast breeder reactor",
+      "Z": "Molten salt reactor"
+    },
+    "answer": "W) RBMK reactor"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which is NOT one reason that the logistic loss function is more commonly used in optimizing linear classifiers than the zero-one loss function?",
+    "choices": {
+      "W": "Minimizing 0-1 training error is NP-hard",
+      "X": "The logistic loss solution is unaffected by differences in the relative size of each category in the training data",
+      "Y": "In many cases, infinitely many lines minimize 0-1 training error",
+      "Z": "0-1 error does not allow the classifier to convey a degree of confidence in its classification"
+    },
+    "answer": "X) The logistic loss solution is unaffected by differences in the relative size of each category in the training data"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following 2x2 matrices is self-adjoint?",
+    "choices": {
+      "W": "Top row: (1, 2) Bottom row: (-2, 1)",
+      "X": "Top row: (1, -i) Bottom row: (i, 1)",
+      "Y": "Top row: (1, i) Bottom row: (i, 1)",
+      "Z": "Top row: (i, -i) Bottom row: (i, i)"
+    },
+    "answer": "X) Top row: (1, -i) Bottom row: (i, 1)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given the ordered set $\\1,2,3,4\\$, a swap operation is defined as switching the first element with the third element, and a rotate operation rotates the set to the right (with the last term becoming the first term). Identify all of the following 4 permutations of this set that cannot be reached via these operations: 1) $\\4,3,2,1\\$; 2) $\\3,2,4,1\\$; 3) $\\2,1,3,4\\$; 4) $\\3,1,4,2\\$ .",
+    "answer": "2, 3, and 4"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When alpha pyrene, the lactone of cyclopentadienone, is treated with ultraviolet radiation, which of the following reactions occurs to convert the diene into a fused bicyclic system containing two four-membered rings?",
+    "choices": {
+      "W": "Conrotatory electrocyclization",
+      "X": "Disrotatory electrocyclization",
+      "Y": "$2 + 2$ cycloaddition",
+      "Z": "2,2 sigmatropic rearrangement"
+    },
+    "answer": "X) Disrotatory electrocyclization"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A 1.0 mole sample of a diatomic ideal gas is expanded from 5 liters to 15 liters against an external pressure of 2 bars. To one significant figure and in joules, what is the change in entropy of the ideal gas?",
+    "answer": "$+30$ (Accept: 30)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements regarding ocean waves that are true: 1) Waves of different wavelengths in deep water are dispersive; 2) Waves of the same wavelength in deep water are dispersive; 3) Waves of different wavelengths in shallow water are non-dispersive.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "If a plate subducts at a 30 degree angle, around how many kilometers from the trench would you expect subduction-associated volcanism to begin?",
+    "choices": {
+      "W": "80",
+      "X": "170",
+      "Y": "250",
+      "Z": "300"
+    },
+    "answer": "X) 170"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Members of which of the following orders use the X-0 sex determination system?",
+    "choices": {
+      "W": "Hymenoptera",
+      "X": "Lagomorpha",
+      "Y": "Orthoptera",
+      "Z": "Monotremata"
+    },
+    "answer": "Y) Orthoptera"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The height of plants is affected by polygenic inheritance, for which there are an unknown number of genes involved, each with two alleles. Damon breeds a true breeding plant of height 10 inches and a true breeding plant of height 22 inches and obtains an F1 generation of all height 15.5 inches. He then self-crosses the F1 generation and obtains a ratio of 1:4:6:4:1 plants of varying heights. What proportion of the F2 generation is expected to be 15.5 inches tall?",
+    "answer": "3/8"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A cube moving at relativistic speeds can appear to be rotating to a stationary observer. What is the name given to this phenomenon, which is based on the amplification of small differences in light travel time from more distant parts of the cube?",
+    "answer": "Terrell Effect (ACCEPT: Penrose-Terrell Effect, Terrell-Penrose Effect, Lampa-Terrell-Penrose Effect)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A Hall effect flow probe is placed on an artery, applying a 0.1-tesla magnetic field across it. Assuming the directions of the magnetic field, the diameter of the artery, and the blood velocity are mutually perpendicular, what is the Hall emf in microvolts given that the vessel's inside diameter is 4 millimeters and the average blood velocity is 20 centimeters per second?",
+    "answer": "80"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Ideally in a machine learning problem, one would choose a model that both accurately captures the regularities in its training data, but also generalizes well to unseen data. However, this is nearly impossible in practice. What term describes this situation?",
+    "answer": "Bias-variance tradeoff"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "In addition to providing a means of relocating a nuclear missile launch site to wherever it is needed, what capacity, vital to nuclear deterrence, does the presence of ballistic missile submarines dramatically enhance?",
+    "choices": {
+      "W": "Second-strike capability",
+      "X": "First-strike capability",
+      "Y": "Finite deterrence",
+      "Z": "Fail-deadly mechanism"
+    },
+    "answer": "W) Second-strike capability"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following sets is compact?",
+    "choices": {
+      "W": "$1 / n$ for all $n$ in the set of natural numbers",
+      "X": "The set of all integers",
+      "Y": "The open interval from $-1$ to 1 on the reals",
+      "Z": "The empty set"
+    },
+    "answer": "Z) The empty set"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the best estimate for the probability that if a fair six-sided die is rolled a hundred times, the number 1 is rolled at least 30 times?",
+    "choices": {
+      "W": "$2^{-4}$",
+      "X": "$2^{-7}$",
+      "Y": "$2^{-10}$",
+      "Z": "$2^{-13}$"
+    },
+    "answer": "Z) $2^{-10}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pi bonds has the greatest electrophilicity?",
+    "choices": {
+      "W": "Carbon oxygen pi bond",
+      "X": "Carbon nitrogen pi bond",
+      "Y": "Carbon sulfur pi bond",
+      "Z": "Carbon phosphorus pi bond"
+    },
+    "answer": "W) Carbon oxygen pi bond"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Metal-carbonyl complexes are stabilized by a pi-backbonding interaction from metal d-orbitals to a C-O pi star orbital. Identify all of the following three d-orbitals that are involved in pi-backbonding in Cr(CO)6 [chromium hexacarbonyl]: 1) $d_{xy}$; 2) $d_{x^2 - y^2}$; 3) $d_{z^2}$.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the main phase that water ice is found as in space?",
+    "choices": {
+      "W": "Ice Ih",
+      "X": "Ice Ic",
+      "Y": "Ice X",
+      "Z": "Amorphous ice"
+    },
+    "answer": "Z) Amorphous ice"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following patterns is observed to be true for stars where their large convective envelopes produce an efficient dynamo effect compared to those without an efficient dynamo effect?",
+    "choices": {
+      "W": "Less likely to rotate fast",
+      "X": "More likely to rotate fast",
+      "Y": "Less likely to be opaque",
+      "Z": "More likely to be opaque"
+    },
+    "answer": "W) Less likely to rotate fast"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During margination, what specialized lectins are responsible for allowing neutrophils to attach to the edge of blood vessels?",
+    "answer": "Selectins"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In pacemaker cells, which specialized sodium channels are responsible for the slow depolarization of the cell from resting potential?",
+    "answer": "F type"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Spinors describe multiple particles in quantum field theory. How many degrees of rotation must the space containing a spinor go through before the spinor returns to its starting configuration?",
+    "choices": {
+      "W": "180",
+      "X": "360",
+      "Y": "720",
+      "Z": "1440"
+    },
+    "answer": "Y) 720"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name of the theory that unifies all consistent version of superstring theory?",
+    "answer": "M- theory"
+  }
+]

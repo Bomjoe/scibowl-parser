@@ -1,0 +1,418 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following types of fronts that require at least 2 cold air masses to be present? I. Cold; II. Warm; III. Occluded",
+    "answer": "III only"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What name is given to the steeply sloping section of a subducting plate where a large number of earthquakes originate from?",
+    "answer": "WADATI-BENIOFF ZONE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Brennan is tracking the fate of the carbons in a glucose molecule in both eukaryotes and prokaryotes. To distinguish these carbons, he adds radioactive Carbon-13 glucose to cultures of the cells of interest. Which of the following molecules would Brennan NOT expect to be radioactive?",
+    "choices": {
+      "W": "Pyruvate",
+      "X": "Acetyl CoA",
+      "Y": "Ethanol",
+      "Z": "NADH"
+    },
+    "answer": "Z) NADH"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "If the embryo of an angiosperm has 32 chromosomes, how many chromosomes does the endosperm have?",
+    "answer": "48"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the oxidation number of the chlorine atom in a perchlorate ion?",
+    "answer": "$+7$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "According to Molecular Orbital Theory, oxygen gas has how many antibonding electrons?",
+    "answer": "6"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of $\\in (30^{\\irc})^2 + \\os (30^{\\irc})^2$ [sin squared 30 degrees plus cosin squared 30 degrees] in simplest radical form?",
+    "answer": "1"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Brennan the metal worker creates an aluminum sphere of radius 5 meters. If he then proceeds to melt the sphere and cast it into cubes of side length 5 meter, how many cubes can he make?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "Z) 4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What name is given to the phase transition between solid and gas?",
+    "answer": "SUBLIMATION"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What principle states that a change in pressure is transmitted to the rest of the fluid undiminished?",
+    "answer": "PASCAL'S PRINCIPLE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the region on the HR diagram where Cepheid (se- fee- id) and RR Lyrae (lee- ray) variable stars lie?",
+    "answer": "INSTABILITY STRIP"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the radius of a black hole's event horizon?",
+    "answer": "SCHWARZSCHILD RADIUS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following macromolecule groups contains both nitrogen and phosphorus?",
+    "choices": {
+      "W": "Carbohydrates",
+      "X": "Proteins",
+      "Y": "Lipids",
+      "Z": "Nucleic Acids"
+    },
+    "answer": "Z) NUCLEIC ACIDS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "As a competitor listens to a science bowl question, their sympathetic nervous system activates. Which of the following is not a result of sympathetic nervous system activation?",
+    "choices": {
+      "W": "Increased Heart Rate",
+      "X": "Widened Bronchial Passages",
+      "Y": "Pupil Constriction",
+      "Z": "Blood Vessel Constriction"
+    },
+    "answer": "Y) PUPIL CONSTRICTION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following atoms would require the most energy to remove an electron from?",
+    "choices": {
+      "W": "N",
+      "X": "$\\athrm{N}^{+}$",
+      "Y": "F",
+      "Z": "$\\athrm{F}^{+}$"
+    },
+    "answer": "Z) $\\athrm{F}^{+}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following acids is not polyprotic?",
+    "choices": {
+      "W": "Carbonic Acid",
+      "X": "Oxalic Acid",
+      "Y": "Phosphoric Acid",
+      "Z": "Nitric Acid"
+    },
+    "answer": "Z) NITRIC ACID"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The magnitude of the cross product between two vectors is maximized when the angle between the two vectors is what?",
+    "choices": {
+      "W": "0 degrees",
+      "X": "45 degrees",
+      "Y": "90 degrees",
+      "Z": "180 degrees"
+    },
+    "answer": "Y) 90 DEGREES"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The sum of an infinitely decreasing geometric series is 1. If its first term is x, what is the common ratio in terms of x?",
+    "choices": {
+      "W": "x + 1",
+      "X": "x",
+      "Y": "1 - x",
+      "Z": "x^2"
+    },
+    "answer": "Y) 1 - x"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Stefan-Boltzmann law states that the radiative intensity of a blackbody is proportional to the temperature raised to what power?",
+    "answer": "4"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Brennan's car is moving at $25~\\athrm{m / s}$ and suddenly stops over a distance of 1 meter. How many g's does Brennan experience rounded to the nearest g?",
+    "answer": "32"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Enhanced Fujita Scale was developed to describe the intensity of which of the following phenomena?",
+    "choices": {
+      "W": "Tornadoes",
+      "X": "Earthquakes",
+      "Y": "Volcanic Eruptions",
+      "Z": "Hurricanes"
+    },
+    "answer": "W) TORNADOES"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why building a well on a confined aquifer is advantageous to building onto an unconfined aquifer?",
+    "choices": {
+      "W": "Confined aquifers are more protected from polluted rainwater",
+      "X": "The recharge time of confined aquifers is much quicker",
+      "Y": "Confined aquifers are pressurized so water doesn't need to be pumped to the surface",
+      "Z": "Confined aquifers are typically much larger"
+    },
+    "answer": "Y) CONFINED AQUIFERS ARE PRESSURIZED SO WATER DOESN'T NEED TO BE PUMPED TO THE SURFACE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the maximum observable recombination frequency between two genes on the same chromosome?",
+    "answer": "$50\\$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three chambers of the heart based on the order blood will flow through them after it has exited the left atrium: I - Left Ventricle, II - Right Atrium, III - Right Ventricle",
+    "answer": "I, II, III"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given a reaction with constant concentrations of the reactants, the reaction rate of aqueous barium chloride with silver nitrate to form barium nitrate and silver chloride is proportional to the concentration of silver chloride raised to what power?",
+    "answer": "0"
+  },
+  {
+    "question_number": 26,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the trend in melting point as you move across the group on the periodic table?",
+    "choices": {
+      "W": "Always increases",
+      "X": "Always decreases",
+      "Y": "Increases towards the middle",
+      "Z": "Decreases towards the middle"
+    },
+    "answer": "Y) INCREASES TOWARDS THE MIDDLE"
+  },
+  {
+    "question_number": 27,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The ratio of consecutive terms in the Fibonacci sequence approaches which of the following mathematical constants?",
+    "answer": "Z) THE GOLDEN RATIO"
+  },
+  {
+    "question_number": 28,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Suppose that an equilateral triangle simultaneously has a circle inscribed and circumscribed about it. What is the ratio of the area of the circumscribed circle to that of the inscribed circle?",
+    "answer": "4"
+  },
+  {
+    "question_number": 29,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What color does a red shirt primarily reflect?",
+    "answer": "RED"
+  },
+  {
+    "question_number": 30,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "5, 1 farad capacitors are wired in series. How much charge, in coulombs, is stored across all the capacitors if they are then connected to a 10V battery?",
+    "answer": "50 COULOMBS"
+  },
+  {
+    "question_number": 31,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a requirement for a celestial body to be classified as a planet?",
+    "choices": {
+      "W": "It's in hydrostatic equilibrium",
+      "X": "It has cleared its orbit of debris",
+      "Y": "Its mass is at least $10\\$ of Earth's",
+      "Z": "It directly orbits its central star"
+    },
+    "answer": "Y) ITS MASS IS AT LEAST $10\\$ OF EARTH'S"
+  },
+  {
+    "question_number": 32,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following four planets by mass in increasing order. I. Earth; II. Mars; III. Jupiter; IV. Saturn",
+    "answer": "II, I, IV, III"
+  },
+  {
+    "question_number": 33,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Brennan wants to track the growth of a tree. He sticks a pole in the trunk of the tree 5 feet above the ground. If the tree grows at a rate of 1 foot/2 years, how far above the ground will Brennan's pole be in 10 years?",
+    "answer": "5 FEET"
+  },
+  {
+    "question_number": 34,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Steroid hormones such as testosterone and estrogen are hydrophobic. Which of the following would be the least likely place for a steroid hormone receptor to be found?",
+    "choices": {
+      "W": "Cell Membrane",
+      "X": "Nucleus",
+      "Y": "Cytoplasm",
+      "Z": "Mitochondria"
+    },
+    "answer": "W) CELL MEMBRANE"
+  },
+  {
+    "question_number": 35,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements react most violently in water?",
+    "choices": {
+      "W": "Sodium",
+      "X": "Aluminum",
+      "Y": "Zinc",
+      "Z": "Silver"
+    },
+    "answer": "W) SODIUM"
+  },
+  {
+    "question_number": 36,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following techniques can be used to separate two liquids of different densities?",
+    "choices": {
+      "W": "Chromatography",
+      "X": "Distillation",
+      "Y": "Decanting",
+      "Z": "Filtration"
+    },
+    "answer": "Y) DECANTING"
+  },
+  {
+    "question_number": 37,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Brennan notices that on his 30 minute drive into work everyday, the traffic is 30 minutes worse on days when it rains. If there is a 1/3rd chance of rain on a given day, what is the expected time it takes for Brennan to get to work?",
+    "answer": "40 minutes"
+  },
+  {
+    "question_number": 38,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A circle is tangent to the lines $\\athrm{y} = 7$ and $\\athrm{y} = -9$. If its center lies on the line $\\athrm{y} = 3\\athrm{x} + 4$, what is the equation of the circle in standard $(\\athrm{x - a})^2 + (\\athrm{y - b})^2 = \\athrm{c}$ form [x minus a squared plus y minus b squared equals c]?",
+    "answer": "$(\\athrm{x} + 5 / 3)^2 + (\\athrm{y} + 1)^2 = 64$"
+  },
+  {
+    "question_number": 39,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Brennan drops a book out of his airplane. Which of the following properties of the book will approach zero as it travels towards the ground?",
+    "choices": {
+      "W": "Mass",
+      "X": "Velocity",
+      "Y": "Acceleration",
+      "Z": "Momentum"
+    },
+    "answer": "Y) ACCELERATION"
+  },
+  {
+    "question_number": 40,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 forces which are not considered pseudo forces? I. Gravity; II. Coriolis Force; III. Centrifugal Force",
+    "answer": "I"
+  }
+]

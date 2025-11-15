@@ -1,0 +1,498 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many electrons are in the 3d subshell for the ground state electron configuration of copper?",
+    "answer": "10"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the ratio of the rate of effusion of sulfur dioxide at 150 kelvin to the rate of effusion of methane at 600 kelvin?",
+    "answer": "\\rac{1}{4}"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A transformer has a primary winding of 90 turns and a secondary winding of 18 turns. The transformer is then connected to a voltage source of 100 volts. How many volts are passed through the secondary winding?",
+    "answer": "20"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the moment of inertia of a solid 5 kilogram disk with radius 2 meters about an axis at the disk edge parallel to its central axis?",
+    "answer": "30"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Named for its weight in kilodaltons. which tumor suppressor gene often considered the guardian angel of the genome is crucial to the prevention of cancer?",
+    "answer": "P53"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, give the respective epithelial cell types to the following three organs. Give both the layering and shape: 1) Inner portion of the mouth; 2) Villi of the Small intestine; 3) Kidney tubules.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Argonne National Laboratory have discovered a technique to significantly improve the accuracy of the measurement of inorganic isotopes. What specific type of spectroscopy did the scientists build upon, which measures the mass to charge ratio of various fragments produced during the experiment?",
+    "choices": {
+      "W": "Mass spectrometry",
+      "X": "Nuclear magnetic resonance spectroscopy",
+      "Y": "Infrared spectroscopy",
+      "Z": "Electron paramagnetic resonance spectroscopy"
+    },
+    "answer": "W) MASS SPECTROMETRY"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven national laboratory used X-ray diffraction to probe the source of thermodynamic instability in $\\athrm{CsPbI}_3$, and discovered that it is due to distortions of cesium within the crystal structure. $\\athrm{CsPbI}_3$ belongs to what general group of minerals and unit cells with general formula $\\athrm{ABX}_3$?",
+    "answer": "PEROVSKITES"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the main nucleosynthesis pathway by which stars greater than 1.3 solar masses fuse hydrogen?",
+    "answer": "CNO CYCLE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following phenomena is NOT an indicator of star formation?",
+    "choices": {
+      "W": "Bok globules",
+      "X": "Star-formation pillars",
+      "Y": "Herbig-Haro objects",
+      "Z": "Apollo-Amor objects"
+    },
+    "answer": "Z) APOLLO- AMOR OBJECTS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit as x approaches 0 of the function f of x equals the fraction with numerator $2x + 5$ and denominator $3x^{2}$?",
+    "answer": "INFINITY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A circle has equation $x^{2} + y^{2} - 6x + 4y - 1 = 0$. What are the coordinates of the center of the circle and the radius of the circle, respectively?",
+    "answer": "(3, -2); \\qrt{14}"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements has the highest first ionization energy?",
+    "choices": {
+      "W": "Carbon",
+      "X": "Silicon",
+      "Y": "Nitrogen",
+      "Z": "Phosphorous"
+    },
+    "answer": "Y) NITROGEN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What functional group is produced by the transition metal catalyzed addition of hydrogen to an alkene?",
+    "answer": "ALKANE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three particles that are fermionic: 1) Electron; 2) Photon; 3) Gluon.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A heat engine operates between a cold reservoir with a temperature of 150 kelvin and a hot reservoir. When the temperature of the hot reservoir is doubled, the efficiency of the engine increases by 50%. What is the initial temperature of the hot reservoir in kelvin?",
+    "answer": "300"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Judson uses restriction fragment length polymorphism analysis to run a paternity test in a court case involving a mother and her two children David and Gideon. RFLP involves which of the following processes?",
+    "choices": {
+      "W": "Mass spectrometry",
+      "X": "Shotgun sequencing",
+      "Y": "Reverse transcription",
+      "Z": "Gel electrophoresis"
+    },
+    "answer": "Z) GEL ELECTROPHORESIS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What functional group is added to toxins by the smooth endoplasmic reticulum so that they become soluble enough to leave through urine?",
+    "answer": "HYDROXYL (ACCEPT: ALCOHOL)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Fermi National Laboratory are using the Dark Energy Spectroscopic Instrument, or DESI, to measure the redshift of millions of galaxies and quasars. What constant of proportionality relates the redshift to the distance of a galaxy?",
+    "answer": "HUBBLE'S CONSTANT"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Livermore National Laboratory are studying human genomics. When using DNA fingerprinting to identify people, what genetic sequences are typically studied to differentiate between individuals, owing to their high mutation rate?",
+    "answer": "SHORT TANDEM REPEATS (ACCEPT: MICROSATELLITES)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "When a river's meander grows too large, the river cuts through the land between the necks of the meander, leaving behind a standing body of water. What is this body of water called?",
+    "answer": "OXBOW LAKE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not one of Steno's laws?",
+    "choices": {
+      "W": "Principle of inclusions",
+      "X": "Principle of cross-cutting relationships",
+      "Y": "Principle of superposition",
+      "Z": "Principle of original horizontality"
+    },
+    "answer": "W) PRINCIPLE OF INCLUSIONS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the last two digits of 11 to the power of 12?",
+    "answer": "21"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the positive factors of 120?",
+    "answer": "360"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What type of homogeneous mixture consists of one phase dispersed through a continuous phase, causing light to be scattered by the dispersed phase’s particles in the Tyndall effect?",
+    "answer": "COLLOID"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three molecules in increasing length of the nitrogen-oxygen bond: 1) Nitrate; 2) Nitric oxide; 3) Nitrogen dioxide.",
+    "answer": "2, 3, 1 (ACCEPT: NITRIC OXIDE, NITROGEN DIOXIDE, NITRATE)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "You place an object within the focal length of a single convex lens. Which of the following best describes the object’s image?",
+    "choices": {
+      "W": "Upright and virtual",
+      "X": "Upright and real",
+      "Y": "Inverted and virtual",
+      "Z": "Inverted and real"
+    },
+    "answer": "W) UPRIGHT AND VIRTUAL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Arrange the following three statistical values for a Maxwell-Boltzmann distribution in increasing order: 1) Mean; 2) Mode; 3) Median.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of RNA polymerase predominately transcribes mRNA?",
+    "choices": {
+      "W": "Type I",
+      "X": "Type II",
+      "Y": "Type III",
+      "Z": "Type IV"
+    },
+    "answer": "X) TYPE II"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Where would one expect to find cells with a high concentration of smooth endoplasmic reticulum?",
+    "choices": {
+      "W": "Adrenal cortex",
+      "X": "Adrenal medulla",
+      "Y": "Skin",
+      "Z": "Pancreas"
+    },
+    "answer": "W) ADRENAL CORTEX"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Idaho National Laboratory are working with NASA on the Perseverance Rove hn6yr, part of the Mars 2020 mission. One of the rover's functions is to map the topological features of Mars such as outflow channels and valley networks. What process most likely created these features?",
+    "choices": {
+      "W": "Aeolian",
+      "X": "Fluvial",
+      "Y": "Geothermal",
+      "Z": "Tectonic"
+    },
+    "answer": "X) FLUVIAL"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Laboratory have discovered that iron oxide nanoparticles can catalyze the conversion of carbon dioxide to form syngas. What are the two major components of syngas?",
+    "answer": "CARBON MONOXIDE, HYDROGEN"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What was the main problem with Wegner’s theory of continental drift?",
+    "choices": {
+      "W": "Fossils were not accepted as evidence by contemporary scientists",
+      "X": "There was no mechanism for continental drift",
+      "Y": "Catastrophism better explained the position of continents",
+      "Z": "Contemporary scientists did not have access to paleomagnetism"
+    },
+    "answer": "X) THERE WAS NO MECHANISM FOR CONTINENTAL DRIFT"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following locations is NOT a volcanic arc?",
+    "choices": {
+      "W": "Aleutian Islands",
+      "X": "Ryukyu Islands",
+      "Y": "Hawaiian Islands",
+      "Z": "Cascade Range"
+    },
+    "answer": "Y) HAWAIIAN ISLANDS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sally and Joe are running on a circular 20 meter track in opposite directions from the same starting point. Joe runs at 2 meters per second, while Sally runs 1 meter per second faster than Joe. How many meters will Joe have run when they first meet again on the track?",
+    "answer": "8"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the standard deviation of the following list of 5 numbers: 2, 4, 5, 8, 11.",
+    "answer": "\\qrt{10}"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecular geometries does not have a steric number of 4?",
+    "choices": {
+      "W": "Square planar",
+      "X": "Tetrahedral",
+      "Y": "Trigonal pyramidal",
+      "Z": "See-saw"
+    },
+    "answer": "Y) TRIGONAL PYRAMIDAL"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the oxidation state of the carbonyl carbon atom in acetone?",
+    "answer": "+2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Albert throws a 3 kilogram ball at a 45 degree angle with an initial velocity of 49 meters per second. In meters, what is the horizontal distance the ball travels before hitting the ground?",
+    "answer": "245"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the angular resonant frequency of a series circuit containing two 8 farad capacitors and one 9 henry inductor?",
+    "answer": "\\rac{1}{6}"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following structures in seeds represents the terminus of the hypocotyl and is the embryonic root?",
+    "choices": {
+      "W": "Coleoptile [coal-E-ah-p-tile]",
+      "X": "Coleorhiza [coal-E-or-HE-zHA]",
+      "Y": "Plumule",
+      "Z": "Radicle"
+    },
+    "answer": "Z) RADICLE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true about ecosystems?",
+    "choices": {
+      "W": "Species diversity is quantified by species richness and relative abundance",
+      "X": "Moderate levels of disturbance foster the greatest amount of species diversity",
+      "Y": "Biomass always decreases as the trophic level increases in biomass pyramids",
+      "Z": "The amount of energy available always decreases as trophic levels increases in a food pyramid"
+    },
+    "answer": "Y) BIOMASS ALWAYS DECREASES AS THE TROPHIC LEVEL INCREASES IN BIOMASS PYRAMIDS"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Los Alamos National Laboratory are studying the formation of the early universe. What fundamental force was the first to separate from the other three, prior to the grand unification epoch?",
+    "choices": {
+      "W": "Weak nuclear",
+      "X": "Strong nuclear",
+      "Y": "Gravitational",
+      "Z": "Electromagnetic"
+    },
+    "answer": "Y) GRAVITATIONAL"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Laboratory are studying how to create compact medical imaging machines. What type of medical imaging utilizes radioactive fluorodeoxyglucose to monitor activity in the brain?",
+    "answer": "POSITRON EMISSION TOMOGRAPHY SCAN (ACCEPT: PET SCAN)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "According to Bowen’s reaction series, what is the last feldspar group to crystallize?",
+    "answer": "POTASSIUM FELDSPAR (ACCEPT: ORTHOCLASE, ADULARIA)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The bottom of glaciers slide over the bed due to meltwater under the ice acting as a lubricant. What is the name of this movement?",
+    "answer": "BASAL SLIP"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the second partial derivative with respect to x of the expression $4x^2y + 6xy^2$?",
+    "answer": "8y"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the inradius of a triangle with side lengths of 4, 6, and 8 in simplest radical form?",
+    "answer": "\\rac{\\qrt{15}}{3}"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following orbitals has 2 radial nodes?",
+    "choices": {
+      "W": "3d",
+      "X": "4p",
+      "Y": "5f",
+      "Z": "6s"
+    },
+    "answer": "X) 4p"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A mixture is prepared between ethanol and methanol in a 2 to 1 molar ratio. The vapor pressures of ethanol and methanol are 45 and 90 torr, respectively. What fraction of the vapor above the mixture is composed of ethanol vapor?",
+    "answer": "\\rac{1}{2}"
+  }
+]

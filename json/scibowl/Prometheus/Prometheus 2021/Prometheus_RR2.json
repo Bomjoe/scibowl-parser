@@ -1,0 +1,512 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following properties does NOT contribute to the global warming potential of carbon dioxide in Earth's atmosphere?",
+    "choices": {
+      "W": "Long atmospheric lifetime",
+      "X": "High prevalence",
+      "Y": "Absorption of infrared light",
+      "Z": "Increased Rayleigh scattering"
+    },
+    "answer": "Z) Increased Rayleigh scattering"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "To the nearest degree Celsius, how much has the atmosphere warmed on average since the beginning of the twentieth century?",
+    "answer": "1 degree"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two irregular quadrilaterals are on a plane. What is the maximum possible number of intersections between these two shapes?",
+    "answer": "16"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three definite integrals from one to infinity that converge: 1) $\\rac{1}{x} dx$; 2) $\\rac{1}{x^2} dx$; 3) $\\rac{1}{x^3} dx$.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the van't Hoff factor of sodium oxalate?",
+    "answer": "3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rounded to the nearest integer, what is the pH of the solution created when 1 molar ammonia and 0.5 molar hydrochloric acid are mixed in equivalent amounts?",
+    "answer": "9"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A tropical rainforest like the Amazon would fall under what Köppen classification?",
+    "choices": {
+      "W": "A",
+      "X": "B",
+      "Y": "C",
+      "Z": "D"
+    },
+    "answer": "W) A"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The descending air in the eye of a hurricane is typically warmer at the surface than at altitude due to which of the following processes?",
+    "choices": {
+      "W": "Hydrostatic equilibrium",
+      "X": "Adiabatic heating",
+      "Y": "Dew point reduction",
+      "Z": "Rain shadow effect"
+    },
+    "answer": "X) Adiabatic heating"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following terms describe gene homology that is due to a speciation event?",
+    "choices": {
+      "W": "Paralagous",
+      "X": "Orthologous",
+      "Y": "Semilogous",
+      "Z": "Xenologous"
+    },
+    "answer": "X) Orthologous"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "If a trait is controlled by two genes, each with two alleles, how many genotypes and phenotypes are possible for this trait respectively?",
+    "answer": "9; 5"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What physical quantity is defined as the time integral of the Lagrangian?",
+    "choices": {
+      "W": "Action",
+      "X": "Impulse",
+      "Y": "Force",
+      "Z": "Displacement"
+    },
+    "answer": "W) Action"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A beach is enclosed by a rocky outcropping that causes seawater to only flow in from one point. From the beach, an observer sees that the ocean waves spread radially outwards from that point. This is an example of what idea in physics which states that every point on a wavefront is a source of secondary wavelets?",
+    "answer": "Huygens' principle"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "What term describes a situation where the result of a process accelerates that same process?",
+    "choices": {
+      "W": "Positive feedback loop",
+      "X": "Negative feedback loop",
+      "Y": "Exponential growth",
+      "Z": "Growth-accelerated growth"
+    },
+    "answer": "W) Positive feedback loop"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "It is hypothesized that positive feedback loops would dramatically increase the rate of AI improvement once the first superintelligent AI is created. What is this effect called?",
+    "answer": "Intelligence explosion (ACCEPT: Singularity, FOOM!)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate $\\rac{\\in(\\i / 6)}{\\in(-\\i / 6)}$.",
+    "answer": "- 1"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the solutions to the equation $|x^{2} - 18x + 61| = 20$?",
+    "answer": "27"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Which type of chemical bond has cylindrical symmetry and no nodal planes passing through the internuclear axis?",
+    "answer": "Sigma bond"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three salts in order of increasing pH when dissolved in water in equimolar amounts: 1) Ammonium chloride; 2) Sodium acetate; 3) Potassium chlorate.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following properties of a star does not affect its absolute magnitude?",
+    "choices": {
+      "W": "Age",
+      "X": "Surface temperature",
+      "Y": "Radial velocity",
+      "Z": "Radius"
+    },
+    "answer": "Y) Radial velocity"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three planets in order of increasing average density: 1) Mars; 2) Mercury; 3) Earth.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In plants, metabolites travelling through the symplast must pass through what cytoplasmic pores?",
+    "answer": "Plasmodesmata"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three animals in which the blastopore would develop into the mouth: 1) Human; 2) Duck; 3) Turtle.",
+    "answer": "None"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name of the shape used to visualize the path that a flash of light takes in spacetime?",
+    "answer": "Light cone (ACCEPT: Cone)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A crosswind causes a projectile to miss its target by a distance of 240 meters. If the projectile fell from a height of 8,000 meters above its detonation point, what was the speed of this crosswind to the nearest meter per second?",
+    "answer": "6"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which type of nuclear reactor avoids the need for uranium enrichment by using a coolant with additional neutrons to reduce neutron absorption?",
+    "choices": {
+      "W": "Fast neutron reactor",
+      "X": "Boiling water reactor",
+      "Y": "Pressurized heavy water reactor",
+      "Z": "Small modular reactor"
+    },
+    "answer": "Y) Pressurized heavy water reactor"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Pressurized heavy water reactors are seen as a high nuclear proliferation risk. What is the primary reason for this?",
+    "choices": {
+      "W": "The industrial apparatus used can also produce thermonuclear fusion fuel",
+      "X": "They can produce more plutonium than a light water reactor",
+      "Y": "They can present a false sense of security",
+      "Z": "They are less expensive to construct"
+    },
+    "answer": "X) They can produce more plutonium than a light water reactor"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following terms describes a matrix that does not have an inverse and whose determinant is 0?",
+    "choices": {
+      "W": "Invertible",
+      "X": "Singular",
+      "Y": "Row-echelon",
+      "Z": "Null"
+    },
+    "answer": "X) Singular"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "While playing Monopoly, a player realizes that they will lose if the sum of the two dice they roll is a 2, 3, or 5. What is the probability that they lose on this turn?",
+    "answer": "$\\rac{7}{36}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The process of nuclear fission is caused when the nucleus of an unstable element is struck by what particle?",
+    "choices": {
+      "W": "Neutrino",
+      "X": "Proton",
+      "Y": "Neutron",
+      "Z": "Electron"
+    },
+    "answer": "Y) Neutron"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why group 16 elements typically have a lower first ionization energy than group 15 elements?",
+    "choices": {
+      "W": "Ionization energy decreases with increasing valence electrons",
+      "X": "The -2 oxidation state is easier to attain than -3",
+      "Y": "A half-filled subshell experiences less repulsion",
+      "Z": "Group 15 elements typically form covalent bonds"
+    },
+    "answer": "Y) A half-filled subshell experiences less repulsion"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "As global warming occurs, permafrost melts, causing soil to be saturated with liquid water and flow down a slope in what type of mass wasting?",
+    "answer": "Solifluction (ACCEPT: Creep)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following processes is not part of thermohaline circulation?",
+    "choices": {
+      "W": "Brine rejection",
+      "X": "Upwelling",
+      "Y": "Runoff",
+      "Z": "Overturning"
+    },
+    "answer": "Y) Runoff"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What structural units of chromatin are formed when DNA wraps around histone octamers?",
+    "answer": "Nucleosome"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a plant's root, apoplastic movement is blocked beyond the cortex by what structure with a main composition of lignin?",
+    "answer": "Casparian Strip"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Within a magnetic field, Particle A moves at a 30 degree angle to the field with a force of 0.5 N acting on it. If Particle B moves at a 60 degree angle relative to the magnetic field at four times the speed of Particle A, what is the magnetic force acting upon Particle B, in Newtons?",
+    "answer": "$2\\qrt{3}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When shining a light on a piece of aluminum, a scientist notices that electrons are ejected with a certain amount of energy less than the photon energy. What physics value quantifies this energy discrepancy?",
+    "answer": "Work function"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "In which machine learning paradigm does an artificial intelligence interpret its environment and take action, after which it is rewarded for desired behavior and punished for undesired behavior?",
+    "answer": "Reinforcement learning"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "In 2017, an AI trained using reinforcement learning was responsible for the first tournament victory against a human world champion. In which of the following games did this victory occur?",
+    "choices": {
+      "W": "Checkers",
+      "X": "Chess",
+      "Y": "Go",
+      "Z": "Scrabble"
+    },
+    "answer": "Y) Go"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Given that x and y are positive odd integers, which of the following must also be an odd integer?",
+    "choices": {
+      "W": "$2x + 2y$",
+      "X": "$2x^{2} + 2y^{2}$",
+      "Y": "$(xy + 1)^{2}$",
+      "Z": "$5xy$"
+    },
+    "answer": "Z) $5xy$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What famous mathematician first proved that there were infinitely many primes using a proof by cases?",
+    "answer": "Euclid"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following atomic orbitals can have a magnetic quantum number of 3?",
+    "choices": {
+      "W": "2s",
+      "X": "5p",
+      "Y": "3d",
+      "Z": "4f"
+    },
+    "answer": "Z) 4f"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of organic reactions would be required to form ethane from ethylene?",
+    "choices": {
+      "W": "Metathesis",
+      "X": "Hydrogenation",
+      "Y": "Electrophilic substitution",
+      "Z": "Nucleophilic substitution"
+    },
+    "answer": "X) Hydrogenation"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following planets has an orbit that does not conform to the Titius-Bode law?",
+    "choices": {
+      "W": "Mars",
+      "X": "Jupiter",
+      "Y": "Uranus",
+      "Z": "Neptune"
+    },
+    "answer": "Z) Neptune"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three main sequence star masses that typically form a convective core: 1) 0.2 solar masses; 2) 1 solar mass; 3) 5 solar masses.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of plant tissue's cells are dead at maturity?",
+    "choices": {
+      "W": "Phloem",
+      "X": "Xylem",
+      "Y": "Parenchyma",
+      "Z": "Collenchyma"
+    },
+    "answer": "X) Xylem"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three amino acids which can form disulfide bridges: 1) Cysteine; 2) Methionine; 3) Valine.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A resistor is added in parallel to a preexisting RLC circuit. Which of the following is not true about the new circuit compared to the old?",
+    "choices": {
+      "W": "The power dissipated increases",
+      "X": "The equivalent resistance decreases",
+      "Y": "The capacitance decreases",
+      "Z": "The maximum current flowing increases"
+    },
+    "answer": "Y) The capacitance decreases"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not true about the common fictitious forces?",
+    "choices": {
+      "W": "The shape of a rolling ball's path on a rotating disk depends on the reference frame",
+      "X": "Regardless of location, the Coriolis force deflects any thrown object to the east",
+      "Y": "The Euler and centrifugal forces depend on the radius vector while the Coriolis force does not",
+      "Z": "The horizontal deflection due to the Coriolis force is greatest close to the equator"
+    },
+    "answer": "Z) The horizontal deflection due to the coriolis force is greatest close to the equator"
+  }
+]

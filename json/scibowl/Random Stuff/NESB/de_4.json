@@ -1,0 +1,625 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If a right circular cone is cut parallel with the axis of symmetry, you would reveal",
+    "choices": {
+      "W": "a circle.",
+      "X": "a hyperbola.",
+      "Y": "an ellipse.",
+      "Z": "a parabola."
+    },
+    "answer": "A HYPERBOLA"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many prime numbers are there between 30 and 60?",
+    "answer": "SEVEN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Weather satellites transmit cloud cover and temperature-humidity profiles back to Earth using images of which combination of the electromagnetic radiation types?",
+    "choices": {
+      "W": "infra-red and visible light",
+      "X": "ultraviolet and nuclear magnetic",
+      "Y": "ultraviolet and infra-red",
+      "Z": "ultraviolet and visible light"
+    },
+    "answer": "INFRA-RED AND VISIBLE LIGHT"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What is the theoretical limit of the efficiency of a single-crystal single-junction cell in a photovoltaic system?",
+    "choices": {
+      "W": "9 percent",
+      "X": "29 percent",
+      "Y": "79 percent",
+      "Z": "99 percent"
+    },
+    "answer": "29 PERCENT"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Calcitonin is produced by specialized cells in the",
+    "choices": {
+      "W": "anterior pituitary.",
+      "X": "posterior pituitary.",
+      "Y": "gonads.",
+      "Z": "thyroid gland."
+    },
+    "answer": "THYROID GLAND"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The treatment of Addison's disease involves",
+    "choices": {
+      "W": "decreasing the activity of the adrenal cortex.",
+      "X": "decreasing the activity of the adrenal medulla.",
+      "Y": "doses of adrenal cortical hormones.",
+      "Z": "doses of noradrenaline."
+    },
+    "answer": "DOSES OF ADRENAL CORTICAL HORMONES"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A reaction is likely to proceed to completion if",
+    "choices": {
+      "W": "a liquid is formed.",
+      "X": "a gas is formed.",
+      "Y": "no water is formed.",
+      "Z": "it occurs in water."
+    },
+    "answer": "A GAS IS FORMED"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When the concentration of an ion that is part of the solubility expression is added to a saturated solution, what will occur?",
+    "choices": {
+      "W": "Nothing will occur.",
+      "X": "The solubility will increase.",
+      "Y": "The solution will become unsaturated.",
+      "Z": "Precipitation will occur."
+    },
+    "answer": "PRECIPITATION WILL OCCUR"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "The interface that enables similar networks to communicate is called",
+    "choices": {
+      "W": "bus network.",
+      "X": "bulletin board network.",
+      "Y": "cable modem.",
+      "Z": "bridge."
+    },
+    "answer": "BRIDGE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "The acronym TCP/IP stands for",
+    "choices": {
+      "W": "To Computer Personnel/ Internet Personnel.",
+      "X": "To Communications Protocol and Interested Parties.",
+      "Y": "Transmission Control Protocol/ Internet Protocol.",
+      "Z": "Telecommuting Control Protocol/ Intranet Protocol."
+    },
+    "answer": "TRANSMISSION CONTROL PROTOCOL/ INTERNET PROTOCOL"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The beta cells of the pancreas secrete",
+    "choices": {
+      "W": "luteinizing hormone.",
+      "X": "oxytocin.",
+      "Y": "insulin.",
+      "Z": "glucagon."
+    },
+    "answer": "INSULIN"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "When the neurosecretory cells of the hypothalamus are stimulated, ADH and oxytocin are released in the",
+    "choices": {
+      "W": "posterior pituitary.",
+      "X": "anterior pituitary.",
+      "Y": "thyroid.",
+      "Z": "parathyroid."
+    },
+    "answer": "POSTERIOR PITUITARY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A solar cell does NOT respond to red light, but DOES respond to green light. The solar cell will be able to respond to",
+    "choices": {
+      "W": "microwaves.",
+      "X": "infra-red light.",
+      "Y": "ultraviolet light.",
+      "Z": "all of the above"
+    },
+    "answer": "ULTRAVIOLET LIGHT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 50 millimeter focal length camera lens photographs a 4 meter tall tree at a distance of 20 meters. How tall is the image of the tree?",
+    "answer": "10 MILLIMETERS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The ionic compound formed in an acid-base neutralization reaction is",
+    "choices": {
+      "W": "an indictor.",
+      "X": "a hydride.",
+      "Y": "a hydroxide.",
+      "Z": "a salt."
+    },
+    "answer": "A SALT"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A substance is generally considered sparingly soluble if its solubility per liter of water is",
+    "choices": {
+      "W": "less than 0.01 mole.",
+      "X": "less than 0.1 mole.",
+      "Y": "less than 1.0 mole.",
+      "Z": "more than 1.0 mole."
+    },
+    "answer": "LESS THAN 0.01 MOLE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "What civilization created the Zodiac to divide the path of the Sun into twelve equal places?",
+    "choices": {
+      "W": "Egyptians",
+      "X": "Chinese",
+      "Y": "Greeks",
+      "Z": "Babylonians"
+    },
+    "answer": "BABYLONIANS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Since the signs of the Zodiac were established, the Sun has gradually shifted its position with respect to the background stars. As a result, the Sun in early December is in front of a constellation that is not part of the Zodiac. Name it.",
+    "answer": "OPHIUCHUS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What reflecting surface forms a geometrically perfect image of a point source located at infinity (such as that approximated by a star)?",
+    "choices": {
+      "W": "Paraboloid",
+      "X": "Ellipsoid",
+      "Y": "Spherical",
+      "Z": "Hyperboloid"
+    },
+    "answer": "PARABOLOID"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A block of metal that weighs 60 newtons in air and 40 newtons under water has a density, in kilograms per meter cubed, of",
+    "choices": {
+      "W": "1000.",
+      "X": "3000.",
+      "Y": "5000.",
+      "Z": "7000."
+    },
+    "answer": "3000"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The acid dissociation constant measures an acid's",
+    "choices": {
+      "W": "concentration.",
+      "X": "strength.",
+      "Y": "number of protons.",
+      "Z": "degree of sourness."
+    },
+    "answer": "STRENGTH"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The strength of a Bronsted-Lowry base is determined by its",
+    "choices": {
+      "W": "effect on skin and clothing.",
+      "X": "ability to furnish protons.",
+      "Y": "degree of bitterness.",
+      "Z": "attraction for protons."
+    },
+    "answer": "ATTRACTION FOR PROTONS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "If an amphibian has a tail after it undergoes metamorphosis, it is probably a",
+    "choices": {
+      "W": "toad.",
+      "X": "frog.",
+      "Y": "snake.",
+      "Z": "salamander."
+    },
+    "answer": "SALAMANDER"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In the circulatory systems of adult amphibians, the first loop carries",
+    "choices": {
+      "W": "oxygen-poor blood to the lungs.",
+      "X": "oxygen-poor blood to the ventricles.",
+      "Y": "oxygen-rich blood from the body.",
+      "Z": "oxygen-rich blood to the ventricles."
+    },
+    "answer": "OXYGEN-POOR BLOOD TO THE LUNGS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "An earthquake with a magnitude of 8.8 on the Richter scale releases how many times more energy than an earthquake with a magnitude of 7.8?",
+    "choices": {
+      "W": "10",
+      "X": "100",
+      "Y": "32",
+      "Z": "64"
+    },
+    "answer": "32"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What kind of faults are caused by compressional forces?",
+    "choices": {
+      "W": "Normal",
+      "X": "Strike-slip",
+      "Y": "Reverse",
+      "Z": "Plastic"
+    },
+    "answer": "REVERSE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Acidic hydrogens are usually bonded to elements that attract electrons",
+    "choices": {
+      "W": "very weakly.",
+      "X": "somewhat weakly.",
+      "Y": "somewhat strongly.",
+      "Z": "very strongly."
+    },
+    "answer": "VERY STRONGLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The correct name of the acid HBr is",
+    "choices": {
+      "W": "hydrobromic acid.",
+      "X": "hydrobromous acid.",
+      "Y": "bromate acid.",
+      "Z": "bromite acid."
+    },
+    "answer": "HYDROBROMIC ACID"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Five coulombs of charge are placed on a thin-walled conducting shell. Once the charge has come to rest, the electric potential inside the hollow conducting shell is found to be",
+    "choices": {
+      "W": "zero.",
+      "X": "uniform inside the sphere and equal to the electric potential on the surface of the sphere.",
+      "Y": "smaller than the electric potential outside the sphere.",
+      "Z": "varying as one over r squared."
+    },
+    "answer": "UNIFORM INSIDE THE SPHERE AND EQUAL TO THE ELECTRIC POTENTIAL ON THE SURFACE OF THE SPHERE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A two farad and a four farad capacitor are connected in series. What single capacitance is \equivalent\ to this combination?",
+    "answer": "4/3 FARADS OR 1.33 FARADS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The first fishes were covered with",
+    "choices": {
+      "W": "bony plates and had jaws.",
+      "X": "bony plates and were jawless.",
+      "Y": "scales and had jaws.",
+      "Z": "scales and were jawless."
+    },
+    "answer": "BONY PLATES AND WERE JAWLESS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The jawless fishes include the",
+    "choices": {
+      "W": "skates and rays.",
+      "X": "lungfish and rays.",
+      "Y": "skates and lampreys.",
+      "Z": "lampreys and hagfishes."
+    },
+    "answer": "LAMPREYS AND HAGFISHES"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The reaction of the anions and cations of salts with water to form acid or base solutions is called",
+    "choices": {
+      "W": "amphoterism.",
+      "X": "dissociation.",
+      "Y": "hydrolysis.",
+      "Z": "neutralization."
+    },
+    "answer": "HYDROLYSIS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The acid that is often called the \King of Chemicals\ is",
+    "choices": {
+      "W": "sulfuric acid.",
+      "X": "nitric acid.",
+      "Y": "phosphoric acid.",
+      "Z": "acetic acid."
+    },
+    "answer": "SULFURIC ACID"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Imagine the earth to be a balloon with a 4,000 mile radius. If we inflate the earth to increase the radius 1 ft., the increase in the distance around the earth is",
+    "choices": {
+      "W": "6.28 feet.",
+      "X": "62.8 feet.",
+      "Y": "628 feet.",
+      "Z": "62,800 feet."
+    },
+    "answer": "6.28 FEET"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A woman has an equal number of nickels, dimes and quarters. If she has \\ 12\\ in total, how many coins does she have?",
+    "answer": "90 COINS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "One of the oldest constellations is associated with a legendary early king of Athens and is supposed to be a charioteer. Name it.",
+    "answer": "AURIGA"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Name the comet, responsible for the Leonid meteor showers, that returned in February 1998.",
+    "answer": "TEMPLE-TUTTLE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Tadpoles, salamander larvae, and a few adult salamanders get rid of excess carbon dioxide through their",
+    "choices": {
+      "W": "gills.",
+      "X": "lungs.",
+      "Y": "mouth cavities.",
+      "Z": "skin."
+    },
+    "answer": "SKIN"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The circulatory system of a tadpole, unlike that of an adult frog, has a",
+    "choices": {
+      "W": "double loop.",
+      "X": "triple loop.",
+      "Y": "two-chambered heart.",
+      "Z": "three-chambered heart."
+    },
+    "answer": "TWO- CHAMBERED HEART"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What nocturnal animal group makes up one-fourth of all mammal species?",
+    "answer": "BATS OR CHIROPTERA"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Who is considered the Father of the American Space Program?",
+    "choices": {
+      "W": "Edward Teller",
+      "X": "Werner von Braun",
+      "Y": "John Glenn",
+      "Z": "Robert Oppenheimer"
+    },
+    "answer": "WERNER VON BRAUN"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which discontinuity is located nearly halfway to the center of the earth at a depth of 2900 kilometers?",
+    "answer": "GUTENBERG"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What forms when water that is flowing down a steep slope loses energy as it begins flowing on a level surface?",
+    "choices": {
+      "W": "alluvial fan",
+      "X": "delta",
+      "Y": "cirque",
+      "Z": "slump"
+    },
+    "answer": "ALLUVIAL FAN"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A machine performs 8 Joules of work in 2 seconds. How much power is delivered by this machine?",
+    "answer": "4 WATTS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Name any four of the five elements that are ferromagnetic at room temperature (25 degrees Celsius).",
+    "answer": "IRON; COBALT; NICKEL; GADOLINIUM; DYSPROSIUM"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "For transmitting voice, video, and data simultaneously as digital signals over twisted-pair telephone lines from country to country, a set of international communications standard is used called",
+    "answer": "ISDN"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Smalltalk is",
+    "choices": {
+      "W": "an object-oriented programming language.",
+      "X": "a very concise program.",
+      "Y": "documentation.",
+      "Z": "a low level programming language."
+    },
+    "answer": "AN OBJECT- ORIENTED PROGRAMMING LANGUAGE"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Occasionally, a bad cold will cause a decrease in a person's hearing ability. What is the name of the tube that becomes blocked to cause this problem?",
+    "answer": "EUSTACHIAN TUBE"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "In which country was a method for making rust-resistant iron discovered in the fifth century B.C.?",
+    "choices": {
+      "W": "Sumeria",
+      "X": "Egypt",
+      "Y": "India",
+      "Z": "Babylon"
+    },
+    "answer": "INDIA"
+  }
+]

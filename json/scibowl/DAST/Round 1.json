@@ -1,0 +1,442 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What name is given to the small, bean-shaped structures that can capture circulating cancer cells and help fight infections?",
+    "answer": "LYMPH NODES"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Microtubules are composed of repeating units of what protein?",
+    "answer": "TUBULIN"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three compounds by decreasing covalent character: 1) Beryllium chloride; 2) Rubidium fluoride; 3) Potassium fluoride.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following molecules in terms of increasing bond angle: 1) $\\athrm{NH_3}$ ; 2) $\\athrm{CO_3^{2 - }}$ ; 3) $\\athrm{SF_6}$ ; 4) $\\athrm{H_2O}$ .",
+    "answer": "3, 4, 1, 2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following planets has an atmosphere that is primarily composed of carbon dioxide?",
+    "choices": {
+      "W": "Mercury",
+      "X": "Venus",
+      "Y": "Uranus",
+      "Z": "Neptune"
+    },
+    "answer": "X) VENUS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following correctly matches a layer of the atmosphere with how the temperature changes there?",
+    "choices": {
+      "W": "Troposphere; increasing",
+      "X": "Stratosphere; increasing",
+      "Y": "Mesosphere; increasing",
+      "Z": "Thermosphere; decreasing"
+    },
+    "answer": "X) STRATOSPHERE; INCREASING"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two rocks are thrown from a building at the same velocity, but one is shot upward while the other is thrown downward. Ignoring air resistance, which of the following best describes their velocities when they hit the ground?",
+    "choices": {
+      "W": "The rock thrown up has a smaller velocity when it reaches the ground.",
+      "X": "The rock thrown up has a larger velocity when it reaches the ground.",
+      "Y": "Both rocks have the same velocity when they reach the ground.",
+      "Z": "The masses of the rocks must be known in order to make a conclusion."
+    },
+    "answer": "Y) BOTH ROCKS HAVE THE SAME VELOCITY WHEN THEY REACH THE GROUND."
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball is dropped from a height $h$ meters. It takes $t$ seconds for the ball to drop the first $h$ over two meters. In terms of $t$ and to one significant figure, how long does it take for the ball to drop the remaining $h$ over two meters?",
+    "answer": "0.4t"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Dylan walks 3 miles north, 4 miles east, and 1 mile south. To the nearest whole number of miles, how far is he from his original location?",
+    "answer": "4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The number of diagonals in a regular polygon is equal to five times the number of sides. How many sides does this polygon have?",
+    "answer": "13"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Fermilab are studying the effects of superoxides in mice. Which of the following is equal to the oxidation state of oxygen in its superoxide form?",
+    "choices": {
+      "W": "- 4",
+      "X": "- 2",
+      "Y": "- 1",
+      "Z": "- 1/2"
+    },
+    "answer": "Z)- 1/2"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Oak Ridge National Lab are isolating Thorium-288 and Actinium-227 as potential treatments to what general group of diseases?",
+    "choices": {
+      "W": "Meningitis",
+      "X": "Pneumonia",
+      "Y": "Cancer",
+      "Z": "Common cold"
+    },
+    "answer": "Y) CANCER"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following winds in terms of increasing distance from the equator: 1) Trade winds; 2) Polar winds; 3) Westerlies.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following atmospheric circulation cells, with latitudes between 30 and 60 degrees, are westerlies found?",
+    "choices": {
+      "W": "Polar cell",
+      "X": "Ferrel cell",
+      "Y": "Hadley cell",
+      "Z": "Phillip cell"
+    },
+    "answer": "X) FERREL CELL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following hydroxides is most soluble in water?",
+    "choices": {
+      "W": "Calcium hydroxide",
+      "X": "Copper (II) hydroxide",
+      "Y": "Ammonium hydroxide",
+      "Z": "Barium hydroxide"
+    },
+    "answer": "Y) AMMONIUM HYDROXIDE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following four elements by increasing electron affinity: 1) Oxygen; 2) Chlorine; 3) Sodium; 4) Phosphorus.",
+    "answer": "3, 4, 1, 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The force between two charges is 27 Newtons. The distance between the charges is tripled, and one of the charges is doubled. What is the new force between the charges?",
+    "answer": "6 NEWTONS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle moves from a potential of 34 Volts to 62 Volts. If the charge on the particle is 13 coulombs, what is the magnitude of the change in the kinetic energy of the particle in joules?",
+    "answer": "364"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A white cow mates with a red cow to produce a cow with both red and white spots. What is the name given to this inheritance pattern?",
+    "answer": "CODOMINANCE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Often being grasses or lichens, what species is defined as a hardy species that is the first to colonize an ecosystem?",
+    "answer": "PIONEER SPECIES"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry of xenon tetrafluoride?",
+    "answer": "SQUARE PLANAR"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three compounds by decreasing mass percentage of carbon: 1) hexane; 2) cyclopentadiene; 3) propanal.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A sphere has a radius of 12, and another sphere has a radius of 18. What is the ratio of the volume of the smaller sphere that of the larger sphere?",
+    "answer": "8 TO 27"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The area between two concentric circles is 13pi. If both circles have integer radii, find the area of the smaller circle.",
+    "answer": "36PI"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Lab are working hard on developing new, efficient methods to create energy for nuclear fission reactors. What isotope of uranium are they looking for that is necessary in small quantities for nuclear fission reactors?",
+    "answer": "URANIUM- 235"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Lab are working toward optimizing energy storage devices by determining how certain substances respond to an applied voltage. One example of an energy storage device is a capacitor. Identify all of the following three statements that are true regarding capacitors: 1) Capacitors store electrical energy; 2) The capacitance of a capacitor only depends on its physical properties; 3) Capacitors add linearly in series.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What law states that the change in internal energy of a gas is equal to the sum of the heat added to the gas and the work done on the gas?",
+    "answer": "FIRST LAW OF THERMODYNAMICS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A gas has a constant pressure heat capacity of 22 R over 7. What is the adiabatic index of this gas?",
+    "answer": "22/15"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the ball-shaped mixture of food and saliva formed in the mouth that is ultimately pushed down the esophagus?",
+    "answer": "BOLUS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the Cori cycle, lactate produced by the muscles is converted into what molecule in the liver, which is later converted back into lactate by the muscles?",
+    "answer": "GLUCOSE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Where on the Hertzsprung-Russell diagram are white dwarf stars found?",
+    "choices": {
+      "W": "Top right",
+      "X": "Top left",
+      "Y": "Bottom right",
+      "Z": "Bottom left"
+    },
+    "answer": "Z) BOTTOM LEFT"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a metamorphic rock?",
+    "choices": {
+      "W": "Dacite",
+      "X": "Schist",
+      "Y": "Chert",
+      "Z": "Coquina"
+    },
+    "answer": "X) SCHIST"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Rushil flips a coin 10 times and gets all heads. What is the probability that he gets another 10 heads in a row?",
+    "answer": "1/1024"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the number of positive integers less than 168 that are divisible by 6 and 7 but not 8.",
+    "answer": "3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A force of 12 Newtons acts on a 3-kilogram mass at an angle of 60 degrees from the horizontal. If the force pulls the mass a distance of 8 meters horizontally, what is the work applied on the mass?",
+    "answer": "48 JOULES"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A rock of mass 1 kilogram is sliding on a smooth surface when it starts sliding on a rough patch of grass with a coefficient of kinetic friction of 0.4. Taking g as 10 meters per seconds squared, if the rock enters the patch of grass with a velocity of 12 meters per second, what distance does it travel before it stops?",
+    "answer": "18 METERS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reactions will produce a precipitate?",
+    "choices": {
+      "W": "Calcium chloride reacted with potassium chlorate",
+      "X": "Potassium bromide reacted with barium chloride",
+      "Y": "Aluminum nitrate reacted with sodium carbonate",
+      "Z": "Hydrogen fluoride reacted with potassium hydroxide"
+    },
+    "answer": "Y) ALUMINUM NITRATE REACTED WITH SODIUM CARBONATE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following sets of quantum numbers is impossible for an electron to possess?",
+    "choices": {
+      "W": "$\\athrm{n} = 1$ , $\\athrm{L} = 0$ , m sub $\\athrm{s} = - 1$",
+      "X": "$\\athrm{n} = 3$ , $\\athrm{L} = 2$",
+      "Y": "$\\athrm{n} = 4$ , $\\athrm{L} = 2$ , m sub $\\athrm{L} = - 2$",
+      "Z": "$\\athrm{L} = 0$ , m sub $\\athrm{L} = 0$"
+    },
+    "answer": "W) $\\athrm{N} = 1$ , $\\athrm{L} = 0$ , M SUB $\\athrm{S} = - 1$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "The DOE's Summit supercomputer at Oak Ridge National Lab was recently used to model protein binding interactions. Which of the following statements regarding protein binding is false?",
+    "choices": {
+      "W": "In most cases, only a specific enantiomer of a molecule can bind to a protein",
+      "X": "Some proteins have stretches of amino acids responsible for protein binding",
+      "Y": "Muscle contraction relies largely on successful protein binding",
+      "Z": "Water molecules are ignored because they do not play a role in protein binding"
+    },
+    "answer": "Z) WATER MOLECULES ARE IGNORED BECAUSE THEY DO NOT PLAY A ROLE IN PROTEIN BINDING"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Sandia National Labs are studying enzymatic responses to enantiomers of their substrates. If a substrate molecule has 5 chiral centers, how many stereoisomers does it have?",
+    "answer": "32"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two prime numbers add to 25. What is the product of these two numbers?",
+    "answer": "46"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The midpoints of the sides of a triangle are all connected to each other so that they form a smaller, similar triangle inside the original triangle. If the area of the original triangle is 72, what is the area of the smaller triangle?",
+    "answer": "18"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the final electron acceptor in the electron transport chain?",
+    "answer": "OXYGEN"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three amino acids that are chiral: 1) Lysine; 2) Valine; 3) Phenylalanine.",
+    "answer": "ALL OF THEM"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "At which type of tectonic plate boundary is the most damage from a future earthquake expected to occur?",
+    "answer": "TRANSFORM BOUNDARY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Naveen takes a visit down under to Nullarbor Plain in Australia as part of a geology trip. While he is there, he notices a substantial amount of limestone, with many sinkholes and caves. What kind of topography is he likely viewing?",
+    "answer": "KARST"
+  }
+]

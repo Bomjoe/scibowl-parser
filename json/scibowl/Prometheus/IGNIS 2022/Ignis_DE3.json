@@ -1,0 +1,524 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four solar system moons that are believed to have subsurface liquid water deposits: 1) Enceladus; 2) Europa; 3) Ganymede; 4) Titan.",
+    "answer": "All"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Many antibiotics have a beta-lactam ring in their structure. These antibiotics work by inhibiting the biosynthesis of what component of a bacterial cell?",
+    "answer": "Cell wall (ACCEPT: Peptidoglycan)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many petals does the graph of the rose have with the function $r = 2\\in (4\\theta)$ have?",
+    "choices": {
+      "W": "2",
+      "X": "4",
+      "Y": "6",
+      "Z": "8"
+    },
+    "answer": "Z) 8"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A shape is constructed by revolving the region bounded by $y = \\qrt{x}$, $y = 0$, and $x = 4$ around the x-axis. What is the volume of this shape?",
+    "answer": "$8\\i$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three properties of water that are expected to increase upon adding a non-volatile solute to form an aqueous solution: 1) Freezing point; 2) Boiling point; 3) Vapor pressure.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following are the signs of $\\elta H$ and $\\elta S$ for a reaction that is spontaneous at all temperatures?",
+    "choices": {
+      "W": "Positive and positive",
+      "X": "Positive and negative",
+      "Y": "Negative and positive",
+      "Z": "Negative and negative"
+    },
+    "answer": "Y) Negative and positive"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals falls on the continuous series of crystallization in Bowen's reaction series?",
+    "choices": {
+      "W": "Amphibole",
+      "X": "Plagioclase",
+      "Y": "Pyroxene",
+      "Z": "Olivine"
+    },
+    "answer": "X) Plagioclase"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of plutons that are discordant: 1) Dikes; 2) Sills; 3) Laccoliths.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "During which phase of the cell cycle does the nuclear membrane disintegrate?",
+    "choices": {
+      "W": "Prophase",
+      "X": "Prometaphase",
+      "Y": "Metaphase",
+      "Z": "Anaphase"
+    },
+    "answer": "X) Prometaphase"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes a K-selected species?",
+    "choices": {
+      "W": "Semelparous",
+      "X": "Unstable environment",
+      "Y": "Exponential growth",
+      "Z": "Type I survivorship curve"
+    },
+    "answer": "Z) Type I survivorship curve"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What type of elastic scattering by the Coulomb potential occurs when alpha particles are fired at gold nuclei?",
+    "answer": "Rutherford scattering"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle's position along x is given by the function $x(t) = 5t^{3} - 4t$ and its velocity is denoted as $v(t)$. Identify all of the following three statements that are true about this particle: 1) There is work being done on the particle; 2) The particle is accelerating; 3) The speed at $t = 2$ is greater than at $t = 1$.",
+    "answer": "All"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Ricin is a unique toxin because it is poisonous to eukaryotes, but not prokaryotes. What organelle, which is different in eukaryotes and prokaryotes, does ricin interfere with?",
+    "answer": "Ribosome"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "What astronomical phenomena, often caused by core-collapse supernovae, can result in increased levels of ground-based UV radiation and significant DNA damage?",
+    "answer": "Gamma-ray bursts"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Alice gets paid $500$ for every car she sells, along with a $60,000$ yearly salary. Brian gets paid $600$ for every car he sells, with a $54,000$ yearly salary. If they sold the same amount of cars and earned the same amount of money in the year 2022, how many cars did one of them sell?",
+    "answer": "60"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the indefinite integral of $\\ec (x)$?",
+    "choices": {
+      "W": "$\\n | \\ec x | + C$",
+      "X": "$\\n | \\ec x + \\tan x | + C$",
+      "Y": "$\\n | \\sc x | + C$",
+      "Z": "$\\n | \\sc x + \\ot x | + C$"
+    },
+    "answer": "X) $\\n | \\ec x + \\tan x | + C$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ions is amphoteric in water?",
+    "choices": {
+      "W": "Sulfate",
+      "X": "Bisulfite",
+      "Y": "Oxalate",
+      "Z": "Phosphate"
+    },
+    "answer": "X) Bisulfite"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three salts by increasing solubility in water: 1) $\\athrm{Ag}_2\\athrm{SO}_4$; 2) $\\athrm{MgCl}_2$; 3) $\\athrm{AgCl}$.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In the most massive of stars, a sudden decrease in radiation pressure may be caused by what phenomenon, causing a premature supernova detonation without a remnant?",
+    "choices": {
+      "W": "Photodisintegration",
+      "X": "Pair production",
+      "Y": "Entanglement",
+      "Z": "Stellar flare"
+    },
+    "answer": "X) Pair production"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Soft gamma repeaters are a type of which of the following astronomical objects?",
+    "choices": {
+      "W": "Black hole",
+      "X": "Quasar",
+      "Y": "Magnetar",
+      "Z": "Pulsar"
+    },
+    "answer": "Y) Magnetar"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Borrelia Burgdorferi is the causative agent of what disease, which causes a bulls-eye rash to appear on the skin?",
+    "answer": "Lyme disease"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules is NOT involved in the mediation of long term potentiation?",
+    "choices": {
+      "W": "Glutamate",
+      "X": "NMDA receptors",
+      "Y": "5-HT receptors",
+      "Z": "AMPA receptors"
+    },
+    "answer": "Y) 5-HT receptors"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A loop of wire is set up so that it wraps around the z-axis, while a constant magnetic field points in the z-direction. Which of the following would NOT induce a current in the wire loop?",
+    "choices": {
+      "W": "Decreasing the magnetic field along the z-axis",
+      "X": "Increasing loop area along the z-axis",
+      "Y": "Rotating the loop about the y-axis",
+      "Z": "Rotating the loop around the z-axis"
+    },
+    "answer": "Z) Rotating the loop around the z-axis"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A RC circuit has two 20 Ohm resistors set up in parallel and three 1.5 Farad capacitors in series. What is the effective resistance and capacitance of the resistors and capacitors in ohms and farads, respectively?",
+    "answer": "10 and 0.5"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "The Monty Hall problem is a classic example of needing to use what type of probability theory to solve, in which it is a measure of the probability of an event occurring, given that another event has already occurred?",
+    "choices": {
+      "W": "Conditional probability",
+      "X": "Joint probability",
+      "Y": "Marginal probability",
+      "Z": "Prior probability"
+    },
+    "answer": "W) Conditional probability"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Asteroid mining may be useful in order to procure water ice for future space missions. The best candidates for mining water ice are extinct comets, many of which can be found in what group of asteroids present at Jupiter's Lagrange points?",
+    "answer": "Trojans"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The point (2, 5) is reflected across the x-axis, the y-axis, the line $y = x$, and the x-axis again. What is the sum of the coordinates of the transformed point?",
+    "choices": {
+      "W": "- 7",
+      "X": "- 3",
+      "Y": "3",
+      "Z": "7"
+    },
+    "answer": "X) - 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of the triangle formed by the intersection of the lines $y = 2x$, $y = -\\rac{x}{2} + 10$, and the x-axis?",
+    "answer": "80"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What variable is held constant in a bomb calorimeter?",
+    "choices": {
+      "W": "Temperature",
+      "X": "Pressure",
+      "Y": "Volume",
+      "Z": "Enthalpy"
+    },
+    "answer": "Y) Volume"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many atoms are in a body-centered cubic unit cell?",
+    "answer": "2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Peter discovers a drumlin field and decides to go sledding. He notices that his sled always goes slowest when sledding towards the southwest. Based on this information, in what direction did the glaciers recede?",
+    "answer": "Northeast"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term describes the feature formed by oceanic sediments scraped off the subducting plate onto the obducting plate?",
+    "answer": "Accretionary wedge (ACCEPT: Accretionary prism)"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three changes that would increase the conduction speed of a neuron: 1) Increase in diameter; 2) Increase in length; 3) Increase in myelination.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "How many molecules of ATP and NADPH are required respectively for the reduction of 3 molecules of carbon dioxide into glyceraldehyde 3 phosphate?",
+    "choices": {
+      "W": "9, 6",
+      "X": "18, 12",
+      "Y": "12, 18",
+      "Z": "18, 18"
+    },
+    "answer": "W) 9, 6"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following time and force pairs will result in the largest change in momentum for a particle?",
+    "choices": {
+      "W": "1 second, 100 Newtons",
+      "X": "2 seconds, 55 Newtons",
+      "Y": "3 seconds, 35 Newtons",
+      "Z": "4 seconds, 25 Newtons"
+    },
+    "answer": "X) 2 seconds, 55 Newtons"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following descriptions of an electromagnetic plane wave transmitted through a different medium than the original is true?",
+    "choices": {
+      "W": "The wave will travel at the speed of light",
+      "X": "The electric field can only point in one direction",
+      "Y": "The electric and magnetic fields must be out of phase",
+      "Z": "The magnetic field can only point in one direction"
+    },
+    "answer": "Y) The electric and magnetic fields must be out of phase"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "On which of the following continents is human genetic diversity highest?",
+    "choices": {
+      "W": "Africa",
+      "X": "Asia",
+      "Y": "Europe",
+      "Z": "North America"
+    },
+    "answer": "W) Africa"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "The Three Mile Island site consisted of what type of water reactor, which also constitutes the majority of the world's nuclear reactors?",
+    "answer": "Pressurized water reactor (ACCEPT: Pressurized)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If 2 percent of $a$ is 600, what is 54 percent of $a$?",
+    "answer": "16200"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evan rolls 6 standard dice simultaneously. Expressing your answer as a fraction in simplest form, what is the probability that the product is divisible by 3?",
+    "answer": "665/729"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Gaseous hydrogen can react with solid iodine to form gaseous hydrogen iodide according to the reaction $\\athrm{H}_{2}(\\athrm{g}) + \\athrm{I}_{2}(\\athrm{s}) \\ongrightarrow 2\\athrm{HI}(\\athrm{g})$. Identify all of the following three changes that would shift the reaction to the right: 1) Adding more iodine; 2) Adding more hydrogen iodide; 3) Increasing the volume.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "For an ideal sample of gas molecules, which of the following graphs relating temperature and the root-mean-square speed of the gas molecules would yield a straight line?",
+    "choices": {
+      "W": "Temperature versus speed",
+      "X": "Temperature squared versus speed",
+      "Y": "Temperature versus speed squared",
+      "Z": "Logarithm of temperature versus speed"
+    },
+    "answer": "Y) Temperature versus speed squared"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the general color trend of the Milky Way from the center outwards?",
+    "choices": {
+      "W": "Redder",
+      "X": "Bluer",
+      "Y": "Redder, then bluer",
+      "Z": "Bluer, then redder"
+    },
+    "answer": "X) Bluer"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the driving factor for spiral arm rotation in the Milky Way?",
+    "choices": {
+      "W": "Central black hole",
+      "X": "Galactic cluster orbit",
+      "Y": "Galactic merger",
+      "Z": "Stellar density"
+    },
+    "answer": "Z) Stellar density"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Nicholas takes a random plant in his backyard and notices that the plant's stem has dispersed vascular tissue. Which of the following observations would he NOT observe?",
+    "choices": {
+      "W": "Parallel venation",
+      "X": "Pollen with a single hole",
+      "Y": "The lack of a vascular cambium",
+      "Z": "Flowers with organs in multiples of 5"
+    },
+    "answer": "Z) Flowers with organs in multiples of 5"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three features that are present in monocots: 1) Floral organs in multiples of 3; 2) Taproot system; 3) Scattered vascular bundles.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A block of mass 4 kilograms is placed on an inclined plane at an angle 30 degrees with respect to the horizontal. What is the minimum coefficient of static friction such that the block will not slip?",
+    "choices": {
+      "W": "$\\rac{\\qrt{2}}{2}$",
+      "X": "$\\rac{\\qrt{2}}{3}$",
+      "Y": "$\\rac{\\qrt{3}}{3}$",
+      "Z": "$\\rac{\\qrt{3}}{2}$"
+    },
+    "answer": "Y) $\\rac{\\qrt{3}}{3}$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In SI base units, what are the dimensions of the universal gravitational constant G?",
+    "answer": "$m^3 kg^{-1} s^{-2}$"
+  }
+]

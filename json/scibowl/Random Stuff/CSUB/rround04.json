@@ -1,0 +1,517 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In a standing wave of a vibrating string, what are the points of destructive interference most commonly called?",
+    "answer": "NODES"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An inelastic collision is most accurately defined as one in which:",
+    "choices": {
+      "W": "momentum and kinetic energy are conserved",
+      "X": "momentum is conserved and kinetic energy is not",
+      "Y": "momentum is not conserved and kinetic energy is conserved",
+      "Z": "neither momentum nor kinetic energy are conserved"
+    },
+    "answer": "X) MOMENTUM IS CONSERVED AND KINETIC ENERGY IS NOT"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is considered a polar molecule:",
+    "choices": {
+      "W": "CH4",
+      "X": "BH3",
+      "Y": "CO2",
+      "Z": "H2S"
+    },
+    "answer": "Z) H2S"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Finish balancing the following equation: $\\athrm{Fe}_2\\athrm{O}_3 + 3\\athrm{H}_2$ yields what, assuming the iron is totally reduced:",
+    "answer": "$2\\athrm{Fe} + 3\\athrm{H}_2\\athrm{O}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Thomas Morgan helped in the early rapid advancement of genetics primarily by using what organism?",
+    "answer": "FRUIT FLY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In what part of the human body is the anterior fontanelle located:",
+    "choices": {
+      "W": "head",
+      "X": "knee",
+      "Y": "elbow",
+      "Z": "ankle"
+    },
+    "answer": "W) HEAD"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What is Saturn's biggest moon?",
+    "answer": "TITAN"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "What planet is 17.2 times the mass of the Earth, has a year 164 times as long as the Earth, and has a diameter of 49,528 kilometer?",
+    "answer": "NEPTUNE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the tangent of the angle $\\theta$ (read as: theta) whose terminal side passes through the point (4, -3)?",
+    "answer": "$-\\rac{3}{4}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The perimeter of triangle ABC is 16, side $\\athrm{AB} = 6$ and side $\\athrm{BC} = 4$ . What is the area of the triangle?",
+    "choices": {
+      "W": "$4\\qrt{2}$",
+      "X": "$8\\qrt{2}$",
+      "Y": "$9\\qrt{3}$",
+      "Z": "$4\\qrt{3}$"
+    },
+    "answer": "X) $8\\qrt{2}$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "The circulation of water in the Hydrologic System is driven by:",
+    "choices": {
+      "W": "potential energy",
+      "X": "solar energy",
+      "Y": "kinetic energy",
+      "Z": "wind energy"
+    },
+    "answer": "X) SOLAR ENERGY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "Most of the natural greenhouse warming, nearly 97%, is caused by the presence of what gas in the atmosphere?",
+    "answer": "WATER VAPOR"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "The leaf of the Quaking Aspen tree is considered to be:",
+    "choices": {
+      "W": "simple lobed",
+      "X": "pinnately (Pron: pin-ate-lee) lobed",
+      "Y": "palmately (Pron: palm-ate-lee) lobed",
+      "Z": "simple toothed"
+    },
+    "answer": "Z) SIMPLE TOOTHED"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is an example of a suspended load being carried downstream:",
+    "choices": {
+      "W": "silt",
+      "X": "boulders",
+      "Y": "sand",
+      "Z": "cobbles"
+    },
+    "answer": "W) SILT"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "If a computer has an 8-bit bus, how many bytes of information can travel at a time?",
+    "answer": "1"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "A gigabyte is how many bytes:",
+    "choices": {
+      "W": "$2^{10}$",
+      "X": "$2^{20}$",
+      "Y": "$2^{30}$",
+      "Z": "$2^{40}$"
+    },
+    "answer": "Y) $2^{30}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When Archimedes said, \Give me a place to stand and I will move the world!\, what simple machine was he going to use?",
+    "answer": "A LEVER"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How long will it take a chipmunk to cross a street 10 meters wide if it accelerates from rest at a constant 5 meters per second squared?",
+    "answer": "2 SECONDS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements does not participate in strong hydrogen bonding:",
+    "choices": {
+      "W": "oxygen",
+      "X": "nitrogen",
+      "Y": "fluorine",
+      "Z": "carbon"
+    },
+    "answer": "Z) CARBON"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "If 1.0 gram of NaOH, with a molar mass of 40, is dissolved in enough water to give 250 milliliters of solution, what is the molarity of the solution?",
+    "answer": "0.1 MOLAR"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the most common biochemical term for the biosynthetic phases of metabolism?",
+    "answer": "ANABOLISM"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following wavelengths does chlorophyll absorb the most:",
+    "choices": {
+      "W": "450 and 600 nanometers",
+      "X": "500 and 650 nanometers",
+      "Y": "450 and 675 nanometers",
+      "Z": "550 nanometers only"
+    },
+    "answer": "Y) 450 AND 675 NANOMETERS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "The statement that, \The path of each planet about the sun is an ellipse with the sun at one focus\ is best known as what law?",
+    "answer": "KEPLER'S $1^{\\athrm{ST}}$ LAW"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "The star Sirius was referred to by what common name by mariners of the $19^{\\athrm{th}}$ century?",
+    "answer": "DOG STAR"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In an equilateral triangle, each angle measures how many degrees?",
+    "answer": "$60^\\irc$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Subtract the following 2 polynomials: $(5x^{2}y + x^{3}y^{2} + 2x^{2}y^{3} + 3y) - (5x^{2}y - 4x^{3}y^{2} + x^{2}y^{2} - 2y)$",
+    "answer": "$5x^{3}y^{2} + 2x^{2}y^{3} - x^{2}y^{2} + 5y$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "What is the general term used to describe an earthquake that follows an initial earthquake and has its epicenter near a larger earthquake?",
+    "answer": "AFTERSHOCK"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "A subduction zone occurs along which type of plate margin:",
+    "choices": {
+      "W": "divergent",
+      "X": "convergent",
+      "Y": "transform",
+      "Z": "spreading center"
+    },
+    "answer": "X) CONVERGENT"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "The Earth's climate has been warming since the last glacial period which ended about how many years ago:",
+    "choices": {
+      "W": "10,000 - 20,000",
+      "X": "30,000 - 40,000",
+      "Y": "50,000 - 60,000",
+      "Z": "75,000 - 100,000"
+    },
+    "answer": "W) 10,000 - 20,000"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What pioneer bacteriologist in 1905 won the Nobel Prize for Physiology and Medicine for his work on tuberculosis and whose principles for investigating the causes of infectious diseases established clinical bacteriology as a medical science:",
+    "answer": "ROBERT KOCH"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "What keeps track of the time even when a computer is turned off:",
+    "choices": {
+      "W": "CPU clock",
+      "X": "time transport protocol",
+      "Y": "time division multiplexing",
+      "Z": "real-time clock"
+    },
+    "answer": "Z) REAL-TIME CLOCK"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "A condition of a computer's disk in which files are divided into pieces scattered around the disk is called:",
+    "answer": "FRAGMENTATION"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "According to Archimedes' Principle, a rock sinks in water because the displaced water:",
+    "choices": {
+      "W": "takes up less volume than the rock",
+      "X": "takes up more volume than the rock",
+      "Y": "weighs less than the rock",
+      "Z": "weighs more than the rock"
+    },
+    "answer": "Y) WEIGHS LESS THAN THE ROCK"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By 1733, what scientist, in his treatise on hydrodynamics, applied conservation of mechanical energy and found that as temperature changes, pressure changes with the square of the particle velocities?",
+    "answer": "DANIEL BERNOULLI"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name for one of the most central concepts of chemical equilibria, which states that a change in one of the variables that describes a system at equilibrium produces a shift in the position of the equilibrium that counteracts the effect of the change:",
+    "answer": "LECHATELIER'S PRINCIPLE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A compound with a molecular weight of 100 has a density of 0.60 grams per milliliter at $25^\\irc\\athrm{C}$ . To the nearest whole number, how many milliliters would you use if you needed 42 grams?",
+    "answer": "70"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organisms belongs to the Class Diplopoda: (Pron: dip-low-po-dah)",
+    "choices": {
+      "W": "millipedes",
+      "X": "centipedes",
+      "Y": "grasshoppers",
+      "Z": "ticks"
+    },
+    "answer": "W) MILLIPEDES"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the most common collective name for the leaf tissue which is immediately interior to the epidermis:",
+    "answer": "MESOPHYLL"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Of the following sets of numbers, which cannot represent the sides of a triangle:",
+    "choices": {
+      "W": "7, 7, 7",
+      "X": "6, 15, 21",
+      "Y": "5, 10, 11",
+      "Z": "3, 10, 11"
+    },
+    "answer": "X) 6, 15, 21"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Solve the following inequality: $\\rac{4}{5} - 3x > -\\rac{1}{3} - 2x$",
+    "answer": "$x< \\rac{17}{15}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "A major break through in the development of plate tectonic theory occurred in the late 1960s with sea floor mapping by:",
+    "choices": {
+      "W": "satellite imagery",
+      "X": "magnetic characteristics",
+      "Y": "aerial photography",
+      "Z": "water depth by soundings"
+    },
+    "answer": "X) MAGNETIC CHARACTERISTICS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "A large area of extremely flat deep seafloor lying near a continent and generally ranging in depth below sea level from 3 to 6 kilometers is called what?",
+    "answer": "ABYSSAL PLAIN"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Rickets is commonly due to a severe and chronic deficiency in what vitamin:",
+    "choices": {
+      "W": "vitamin C",
+      "X": "thiamine",
+      "Y": "vitamin D",
+      "Z": "niacin"
+    },
+    "answer": "Y) VITAMIN D"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "What French chemist in 1888 stated that every change in one of the factors of an equilibrium brings about a rearrangement of the system in such a direction as to counteract the original change:",
+    "answer": "HENRI- LOUIS LeCHATELIER"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What principal, enunciated in 1927, was to that date the most direct challenge to the deterministic nature of the universe?",
+    "answer": "HEISENBERG'S UNCERTAINTY PRINCIPAL"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "According to the standard model, all forces are due to the underlying interaction of particles. What are the four interactions most often called?",
+    "answer": "GRAVITATIONAL, ELECTROMAGNETIC, STRONG AND WEAK"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Of the following four elements, which has the lowest abundance in the earth's crust:",
+    "choices": {
+      "W": "iron",
+      "X": "magnesium",
+      "Y": "phosphorus",
+      "Z": "caclium"
+    },
+    "answer": "Y) PHOSPHORUS"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the pH of a solution at $25^\\irc}\\athrm{C}$ with a hydronium ion concentration of $1 \\times 10^{-4}$ moles per liter?",
+    "answer": "4"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the common term used to describe a fatty acid that has no double bonds between carbons?",
+    "answer": "SATURATED"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Malus floribundus (Pron: mal-us floor-a-bund-us) and Malus sylvestris (Pron: mal-us sil-vest-rus) are the genera and species of what common tree?",
+    "answer": "APPLE"
+  }
+]

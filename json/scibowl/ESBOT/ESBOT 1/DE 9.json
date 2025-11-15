@@ -1,0 +1,430 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What metal is deposited when Tollens’ reagent reacts with an aldehyde?",
+    "answer": "Silver"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 atoms that have more neutrons than electrons: I) $\\athrm{O}_{17}{}^{2 - }$ II) $\\athrm{Cr}_{53}{}^{7 + }$ III) $\\athrm{Si}_{29}{}^{4 - }$",
+    "answer": "II only"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "If the pKa of the carboxylic acid in an amino acid is 2, the pKa of the amino group is 10, and the pKa of the R group is 4, what is the isoelectric point of the amino acid?",
+    "answer": "3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true of capillaries in the cardiovascular system: I) The smaller radius of capillaries results in a higher blood pressure than arteries II) Oxygen from the blood passively diffuses into the alveolar capillaries III) New capillaries can be formed from angiogenesis",
+    "answer": "II, III"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 tectonic features that do NOT correctly match with the corresponding stage of the Wilson Cycle? 1) East African Rift, Embryonic 2) Red Sea, Declining 3) Pacific Ocean, Terminal",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following areas in the earth's mantle do the deepest earthquakes occur?",
+    "choices": {
+      "W": "Moho Discontinuity",
+      "X": "Gutenberg Discontinuity",
+      "Y": "Wadati Benioff Zone",
+      "Z": "Low Velocity Zone"
+    },
+    "answer": "Y) Wadati Benioff Zone"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A thermocouple measures the voltage difference created between two different metals when heated in order to find their temperature. What effect, which creates this voltage difference upon heating, do thermocouples take advantage of?",
+    "answer": "Seebeck effect"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a reference frame containing a mass m rotating at angular frequency $\\mega$. If the point at the center of rotation has a potential energy of 0, what is the magnitude of the potential energy associated with the centrifugal force at a distance r from the rotation axis in terms of all relevant variables?",
+    "answer": "$\\rac{1}{2} m\\mega^2 r^2$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Pacific Northwest National Lab are researching the chloroform attenuation parameter and its effect on the dissolution of carbon tetrachloride. CCl<sub>4</sub> has an unusually high boiling point, which can be best attributed to which of the following factors?",
+    "choices": {
+      "W": "Strong London dispersion forces due to high polarizability",
+      "X": "Strong dipole-dipole forces due to high dipole moment",
+      "Y": "Hydrogen bonding between the carbon and chlorine atoms on different molecules",
+      "Z": "Formation of a dimer from separate molecules"
+    },
+    "answer": "W) Strong London dispersion forces due to high polarizability"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Sandia National Laboratory are studying ways that LEDs can be made more efficient, including the differences between direct and indirect semiconductors. Which of the following choices best describes the difference between direct and indirect band gap semiconductors?",
+    "choices": {
+      "W": "Direct band gap materials have a positive energy band gap while indirect do not",
+      "X": "Direct band gap materials exist at lower temperatures while indirect band gap materials exist at higher temperatures",
+      "Y": "Direct band gaps do not require phonon absorption or emission during band transition while indirect band gaps do",
+      "Z": "Direct band gaps exist in intrinsic semiconductors while indirect band gaps exist in III-V semiconductors"
+    },
+    "answer": "Y) Direct band gaps do not require phonon absorption or emission during band transition while indirect band gaps do"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the locations around the world in which the tidal amplitude is very close to 0?",
+    "answer": "Amphidromic Points"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true of internal waves: I) Internal waves have higher amplitude than surface waves with the same energy II) Internal waves have lower frequency than surface waves with the same energy III) Internal waves tend to be most pronounced at $30^{\\irc}$ north.",
+    "answer": "I, and II"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The ions $\\athrm{Fe}^{2 + }$, $\\athrm{Cr}^{3 + }$ and $\\athrm{Ni}^{2 + }$ all precipitate a green solid when reacting with what anion?",
+    "answer": "OH- (Accept: Hydroxide, deprotonated hydroxide acid)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 reagent-catalyst pairs that react with benzene to form an acidic compound: I) Chlorine gas - Iron Chloride II) Methyl Chloride - Aluminum Chloride III) Nitric Acid - Sulfuric Acid IV) Sulfur Trioxide - Sulfuric Acid",
+    "answer": "IV Only"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functions is differentiable at $\\athbf{x} = 0$ ?",
+    "choices": {
+      "W": "$sec^{-1}(x)$",
+      "X": "$csc^{-1}(x)$",
+      "Y": "$sec(x)$",
+      "Z": "$csc(x)$"
+    },
+    "answer": "Y) sec(x)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit as h approaches 0 of [read slowly] 1 over h times the integral from 0 to h of $\\in^{2}(x)$ divided by $\\athbf{x}^{2}$ dx?",
+    "answer": "1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two particles at a distance of 2 meters from each other have an electromagnetic force of 4 Newtons between them, what is the minimum sum of charges on the two particles?",
+    "answer": "0"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 points that would be in stable equilibrium under the influence of the potential function $\\athrm{U}(\\athbf{x}) = 4\\athbf{x}^{3} - 3\\athbf{x}^{2} + 1$ : I) $\\athbf{x} = -0.5$ II) $\\athbf{x} = 0$ III) $\\athbf{x} = 0.5$",
+    "answer": "III only"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "An asteroid is orbiting at Jupiter's L4 lagrange point. Which of the following is closest to its average distance in Astronomical Units from Jupiter?",
+    "choices": {
+      "W": "3",
+      "X": "4",
+      "Y": "5",
+      "Z": "6"
+    },
+    "answer": "Y) 5"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A star's emission spectrum is characterized by strong Balmer lines and Calcium 2 lines. If the star has an effective temperature of around 8,000 Kelvin, what is the spectral class of this star?",
+    "answer": "A (ACCEPT: A5, A6 or A7)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An upward opening parabola has a vertex at (0, 2) with the x-axis as its directrix. The point A, with an x-value of 8, lies on the parabola. What is the distance between A and the point (0, 4)?",
+    "answer": "10"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit as h approaches 0 of [read slowly] 1 over h times the integral from 0 to h of $\\in^2 (x)$ divided by $x^2 dx$ ?",
+    "answer": "1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Laboratory are studying extensions of the Standard Model that solve the discrepancy between the gravitational and weak nuclear forces. What extension of the Standard Model introduces a new boson associated with every fermion and vice versa?",
+    "answer": "Supersymmetry"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at SLAC National Accelerator Facility are studying quantum physics using the SSRL. What type of radiation is emitted by subatomic particles that are accelerating due to a centripetal force?",
+    "answer": "Synchrotron radiation [ACCEPT: cyclotron radiation]"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What quantity is defined as the inverse hyperbolic tangent of the ratio of an object's velocity to the speed of light?",
+    "answer": "Rapidity"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following options is true of Gauss's Law?",
+    "choices": {
+      "W": "Gauss's Law can be applied to any type of two dimensional surface",
+      "X": "The principle behind Gauss's Law applies to any field proportional to $1 / \\athrm{r}^2$",
+      "Y": "Gauss's Law relates the electric flux through a closed surface to the current through it",
+      "Z": "Gauss's Law is analogous to Hooke's Law"
+    },
+    "answer": "X) The principle behind Gauss's Law applies to any field proportional to $1 / \\athrm{r}^2$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What method of prokaryotic transcription termination involves the formation of protein complexes that bind to the growing RNA transcript and separates it from the template?",
+    "answer": "Rho-dependent termination"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the ubiquitin ligase that marks cyclin B for degradation by proteasomes?",
+    "answer": "Anaphase- promoting complex"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The mass fractions of hydrogen and helium for a star are 0.68 and 0.22 respectively. What is the metallicity of this star?",
+    "answer": "0.1 (ACCEPT: $10\\$, $1 / 10 < -$ only psychopaths will give this answer)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 satellites of Saturn from least to greatest mass: 1) Mimas 2) Titan 3) Iapetus",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes a racemic mixture:",
+    "choices": {
+      "W": "Equimolar mixture of enantiomers",
+      "X": "1:1 mixture of diastereomers",
+      "Y": "2:1 mixture of of enantiomers and diastereomers",
+      "Z": "1:2 mixture of enantiomers and diastereomers"
+    },
+    "answer": "W) Equimolar mixture of enantiomers"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following solvents is most ideal for Sn2 reactions to take place in?",
+    "choices": {
+      "W": "Dimethyl Sulfoxide",
+      "X": "Water",
+      "Y": "Ammonia",
+      "Z": "Dioxane"
+    },
+    "answer": "W) Dimethyl Sulfoxide"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Cardiac muscle is able to communicate and propagate electric signals extremely quickly due to the presence of what distinctive connecting structures?",
+    "answer": "Intercalated discs"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the Bundren family, the mother Addie Bundren has a daughter with Anse named Dewey Dell. She also has a child with another man named Whitfield, and has a son named Jewel. If Jewel and Dewey Dell have a child, what is the coefficient of relatedness between the child and Addie.",
+    "answer": "0.5"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the integral from $\\i /2$ to $15\\i /2$ of $\\in (x / 2)$?",
+    "answer": "0"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Colin is creating a list of the positive integers using the following rule: he lists all numbers in numerical order but skips multiples of 3 and skips multiples of 5. In this list, at what position will the number 101 be?",
+    "answer": "54"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a planet orbiting around a star. If the angular momentum vector of this planet is pointing in the positive Z direction, in what direction would the angular momentum vector be pointing if the system was mirrored along the XY plane?",
+    "answer": "Positive Z"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "When considering cycles like the Otto and Brayton cycle, the assumption is made that the exhausted air is automatically returned to its initial state and fed back into the intake. This assumption is made to satisfy what requirement of thermodynamic cycles?",
+    "choices": {
+      "W": "No net change in entropy",
+      "X": "Ideal gas working fluid",
+      "Y": "Closed system",
+      "Z": "Uniform working fluid"
+    },
+    "answer": "Y) Closed system"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are simulating ways to use stronger building materials to increase the efficiency of truss structures. Consider a beam in a truss that can pivot at one end. If the linear density of the beam as a function of the distance from the pivot is equal to $4 / \\athrm{d}$ kilograms per meter, what is the moment of inertia of the beam around the pivot as a function of its total length L?",
+    "answer": "$2\\athrm{L}^2$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the Idaho lab are studying muscle fibers. After studying Lebron's body, they observe that Lebron trains these kinds of muscle fibers everyday with resistance bands and by sprinting. These muscle fibers produce powerful quick actions. But the downside is it fatigues and cramps easily. What are these muscle fibers called? Researchers at Idaho National Lab are studying Lebron's muscles, in particular a certain kind of muscle fiber. If the fibers they are studying produce quick actions, but fatigue and cramp easily, what type of muscle fibers are being studied?",
+    "answer": "Glycolytic fibers"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 numbers that are not prime. I) 7,749 II) 33,549 III) 13,625",
+    "answer": "All"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Rishil and Nikhil want to choose 3 more people to make up their 5-person ESBOT team; however, 40 people, including Colin, have requested to be on the team. With Nikhil reluctantly agreeing, Rishil decides to choose the other 3 people randomly. What is the probability that Colin is chosen to be on the team?",
+    "answer": "3/40"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What species is formed by the dissolution of gold in Aqua Regia?",
+    "answer": "$\\athrm{AuCl_4^- }$ (ACCEPT: tetrachloroaurate)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "According to Markovnikov's rule, which of the following locations in a compound would be most favorable for addition reactions to add onto?",
+    "choices": {
+      "W": "The least substituted carbon",
+      "X": "The most substituted carbon",
+      "Y": "The carbon with the highest formal charge",
+      "Z": "The carbon with the lowest formal charge"
+    },
+    "answer": "X) The most substituted carbon"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What organelle do the proteins Bak and Bax bind onto?",
+    "answer": "Mitochondria"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The way that cone cells detect light can vary greatly between species. Identify all of the following 3 statements that are true about the ways that animals detect colors: I) L, M, and S human cone cells are most active in the yellow, green, and violet ranges of the spectrum respectively II) Canines only have two types of cone cells III) Cone cells are most sensitive in low-light conditions",
+    "answer": "I and II"
+  }
+]

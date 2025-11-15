@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "According to the particle-in-a-box model, when the length of the box is increased by a factor of2, by what factor will the energy of each allowed energy level change?",
+    "choices": {
+      "W": "1/4",
+      "X": "1/2",
+      "Y": "2",
+      "Z": "4"
+    },
+    "answer": "$1/4$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three compounds from most covalent to least covalent:1) KCl;2) BeCl₂;3) LiBr.",
+    "answer": "2,3,1"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Given that the natural log of2 is roughly equal to0.693, which of the following values is closest to the natural log of8?",
+    "choices": {
+      "W": "0.173",
+      "X": "0.231",
+      "Y": "2.079",
+      "Z": "2.772"
+    },
+    "answer": "$2.079$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A concert sold13 tickets, each to either an adult or a child. The cost of an adult ticket is $2.70 and the cost of a child ticket is $2.10. If the total value of the tickets is $31.50, how many adult tickets were sold?",
+    "answer": "7"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "When viewed from Jupiter, which of the following planets has the greatest maximum elongation?",
+    "choices": {
+      "W": "Mercury",
+      "X": "Venus",
+      "Y": "Earth",
+      "Z": "Mars"
+    },
+    "answer": "$MARS$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In the Northern Hemisphere, at approximately what latitude does air in Ferrel cells rise?",
+    "choices": {
+      "W": "0 degrees north",
+      "X": "15 degrees north",
+      "Y": "30 degrees north",
+      "Z": "60 degrees north"
+    },
+    "answer": "$30\\DEGREES\\NORTH$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following correctly identifies end products of glycolysis?",
+    "choices": {
+      "W": "1 pyruvate molecule and1 NADH molecule",
+      "X": "2 pyruvate molecules and1 NADH molecule",
+      "Y": "1 pyruvate molecule and2 NADH molecules",
+      "Z": "2 pyruvate molecules and2 NADH molecules"
+    },
+    "answer": "$2\\PYRUVATE\\MOLECULES\\AND\\\\NADH\\MOLECULES$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is least accurate about miRNA?",
+    "choices": {
+      "W": "miRNAs form from hairpins in RNA transcripts",
+      "X": "The length of most miRNAs is between10 and50 base pairs",
+      "Y": "miRNAs are exogenous",
+      "Z": "miRNAs are single stranded"
+    },
+    "answer": "$miRNAs\\ARE\\EXOGENOUS$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By what factor is the equivalent capacitance of two identical capacitors multiplied if they are connected in parallel as opposed to in series?",
+    "answer": "$4$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding entropy:1) The entropy of a system can never decrease;2) The entropy of the universe can never decrease;3) The entropy of a combination of two systems is the product of their individual entropies.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Lab are developing fiber optic cables for the detection of earthquakes. Fiber optic cables rely on what phenomenon, which occurs when the angle of incidence exceeds the critical angle?",
+    "answer": "$TOTAL\\INTERNAL\\REFLECTION$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are studying oxidation-induced strain in magnetite crystals. What is the major product from the complete oxidation of magnetite?",
+    "answer": "$HEMATITE$ (ACCEPT: $\\athrm{Fe_2O_3}$ or $IRON\\(III)\\OXIDE$)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers is NOT divisible by4?",
+    "choices": {
+      "W": "5,313,172",
+      "X": "5,322,864",
+      "Y": "7,524,828",
+      "Z": "9,845,542"
+    },
+    "answer": "$9,845,542$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a non-leap year, January1st will be a Monday. What day of the week will December25th of the same year be?",
+    "answer": "$TUESDAY$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A car with an initial velocity of30 meters per second undergoes constant acceleration. If the car then travels90 meters in the next2 seconds, what is the magnitude of the car's acceleration in meters per second?",
+    "answer": "$15$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A400-gram tennis ball hits a concrete wall head-on at15 meters per second.100 milliseconds later, it leaves the wall traveling at15 meters per second in the opposite direction. In newtons, what was the average force exerted by the wall on the tennis ball?",
+    "answer": "$120$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "When observing a sample of schist, you notice dodecahedral grains of a mysterious red mineral. Which of the following minerals have you most likely observed?",
+    "choices": {
+      "W": "Corundum",
+      "X": "Almandine",
+      "Y": "Cinnabar",
+      "Z": "Vanadinite"
+    },
+    "answer": "$ALMANDINE$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "You are on a beach in the afternoon and notice there is a rather strong breeze coming from the sea. Which of the following options BEST describes the mechanism behind this phenomenon?",
+    "choices": {
+      "W": "The land heats up faster than the sea, leading to low-level convergence over land",
+      "X": "The land heats up faster than the sea, leading to low-level divergence over land",
+      "Y": "The sea heats up faster than the land, leading to low-level convergence over land",
+      "Z": "Air is pushed by the waves towards land"
+    },
+    "answer": "$THE\\LAND\\HEATS\\UP\\FASTER\\THAN\\THE\\SEA,\\LEADING\\TO\\LOW\\text{-}LEVEL\\CONVERGENCE\\OVER\\LAND$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What law states that the solubility of a gas in a liquid is directly proportional to its partial pressure directly above the liquid?",
+    "answer": "$HENRY'S\\LAW$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "$\\athrm{NO}_2$ is in a gas-phase equilibrium with $\\athrm{N}_2\\athrm{O}_4$. Given that the forward reaction is exothermic, identify all of the following three changes to the system that would shift the reaction to the left:1) Increasing temperature;2) Decreasing volume of reaction vessel;3) Increasing partial pressure of $\\athrm{NO}_2$.",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What enzyme is responsible for producing the majority of glucose-6-phosphate in a respiring cell?",
+    "answer": "$HEXOKINASE$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The cholera bacteria infects intestinal cells by secreting a toxin that keeps G-protein coupled receptors continually in the active state. What compound does the toxin enzymatically add to a G protein to keep it activated?",
+    "answer": "$ADP\\text{-}RIBOSE$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are detecting concentrations of the pertechnetate ion in groundwater to assess water safety near nuclear facilities. Given that the chemical formula of pertechnetate is $\\athrm{TcO_4^-}$, then, indicating proper charge, what is the oxidation state of the central technetium atom?",
+    "answer": "$7+$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab are studying how proteins crystallize to form microbial shells. They observe that crystallization ends with the crystallization of the n-terminus. What functional group is present at the n-terminus of a protein?",
+    "answer": "$AMINE$ (ACCEPT: $AMINO$)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball is launched off a cliff horizontally. Three seconds later, it is traveling at a45 degree angle to the horizontal. At that moment, what is its speed to the nearest meter per second?",
+    "answer": "$42$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A satellite is circling a planet50 kilometers above the surface with constant velocity. Given that the planet's diameter is300 kilometers, if the satellite moves to a circular orbit300 km above the surface, what is the ratio of its initial velocity to its final velocity?",
+    "answer": "$1.5$ (ACCEPT: $3\\TO\\$)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What was the minor supercontinent that formed the northern part of Pangaea?",
+    "answer": "$LAURASIA$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The yellow color of Io’s surface is primarily caused by compounds of what element?",
+    "answer": "$SULFUR$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the squares of the first5 positive integers?",
+    "answer": "$55$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Three metal plates with radii of11 centimeters,12 centimeters, and24 centimeters are melted down and recast into a new plate of the same thickness. In centimeters, what will be the radius of the new plate?",
+    "answer": "$29$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What basophilic cell type in the gastric fundus secretes gastric lipase and pepsinogen?",
+    "answer": "$CHIEF\\CELL$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What enzyme directly allows for the conversion of RNA to DNA in retroviruses?",
+    "answer": "$REVERSE\\TRANSCRIPTASE$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules has the highest vapor pressure at room temperature?",
+    "choices": {
+      "W": "Methanol",
+      "X": "Water",
+      "Y": "Acetic acid",
+      "Z": "Diethyl ether"
+    },
+    "answer": "$DIETHYL\\ETHER$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following materials is NOT considered a crystalline solid?",
+    "choices": {
+      "W": "Rubber",
+      "X": "Ceramic",
+      "Y": "Water ice",
+      "Z": "Graphite"
+    },
+    "answer": "$RUBBER$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following four stages of the Big Bang from first to last:1) Nucleosynthesis;2) Inflation;3) Recombination;4) Grand unification epoch.",
+    "answer": "$4,\\,\\,\\$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a form of primary porosity?",
+    "choices": {
+      "W": "Vesicles",
+      "X": "Miarolitic cavities",
+      "Y": "Fault breccia cavities",
+      "Z": "Pore space between sandstone grains"
+    },
+    "answer": "$FAULT\\BRECCIA\\CAVITIES$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which of the following is closest to the electric potential in volts at the center of a loop with radius28 centimeters and linear charge density4 coulombs per meter?",
+    "choices": {
+      "W": "$2.3\\athrm{x}10^{10}$",
+      "X": "$2.3\\athrm{x}10^{11}$",
+      "Y": "$2.3\\athrm{x}10^{12}$",
+      "Z": "$2.3\\athrm{x}10^{13}$"
+    },
+    "answer": "$2.3\\times10^{11}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the horizontal range of a projectile fired from the ground at14 meters per second at a15 degree angle to the horizontal?",
+    "answer": "$10\\METERS$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab are using the Linac Coherent Light Source to study buckminsterfullerenes. Buckminsterfullerenes are made of carbon rings of what two sizes?",
+    "answer": "$5\\AND\\$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Lab are investigating ferromagnetism in graphene. Identify all of the following three other properties exhibited by graphene:1) Excellent electrical conductivity;2) Excellent thermal conductivity;3) $\\athrm{sp}^2$ hybridized carbon atoms.",
+    "answer": "$ALL$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many Barr bodies will form in a cell of an individual with Klinefelter syndrome?",
+    "answer": "$1$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following environmental pH levels will pepsin exhibit maximum activity?",
+    "choices": {
+      "W": "1.0",
+      "X": "2.0",
+      "Y": "3.0",
+      "Z": "4.0"
+    },
+    "answer": "$2.0$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quadrilaterals that must have perpendicular diagonals:1) Rhombus,2) Rectangle,3) Kite.",
+    "answer": "$1\\AND\\$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the $y$-intercept of the line that is perpendicular to the line $-6x +3y =18$ and passes through the point (4,9)?",
+    "answer": "$(0,\\1)$ (ACCEPT: $11$)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Van der Waals forces include all intermolecular forces whose energy is proportional to distance between molecules to what power?",
+    "choices": {
+      "W": "-1",
+      "X": "-2",
+      "Y": "-3",
+      "Z": "-6"
+    },
+    "answer": "$-6$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many radial nodes are in the4d subshell?",
+    "answer": "$1$"
+  }
+]

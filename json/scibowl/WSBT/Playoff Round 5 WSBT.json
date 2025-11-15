@@ -1,0 +1,431 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What group of cells, known to differentiate in the presence of insulin-like growth factors, carries out the production of new cartilage at the epiphyseal plate?",
+    "answer": "Chondrocytes"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify the following is TRUE regarding the Excavata clade 1) Parabasalids contain hydrogen-releasing mitochondria known as hydrogenosomes 2) Euglenozoans are anaerobic organisms containing reduced mitochondria with no electron transport chain 3) Diplomonads are known to contain a spiral or crystalline rod within their flagella",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT produced by an earthquake?",
+    "choices": {
+      "W": "S-wave",
+      "X": "Love wave",
+      "Y": "Rayleigh wave",
+      "Z": "Rossby wave"
+    },
+    "answer": "Z) ROSSBY WAVE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three fossils that are considered trace fossils: 1) coprolite; 2) tracks; 3) amber fossils",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If find when",
+    "answer": "<spencerd>"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find if: and",
+    "answer": "<spencerd>"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Indium Tin Oxide (ITO) typically has a band gap of 3.5 eV. Which of the following types of materials could it belong to?",
+    "choices": {
+      "W": "Conductor",
+      "X": "p-type Semiconductor",
+      "Y": "n-type Semiconductor",
+      "Z": "Insulator"
+    },
+    "answer": "Y) n-type Semiconductor"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The ideal band gap for a basic solar cell is slightly more than 1 eV. On what part of the electromagnetic spectrum does the light corresponding to this ideal band gap fall?",
+    "answer": "Infrared (~1000nm)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is incorrect regarding iodine pentoxide?",
+    "choices": {
+      "W": "It is used to oxidize carbon monoxide",
+      "X": "It is a hygroscopic white solid",
+      "Y": "It is commercially produced via photolysis",
+      "Z": "It is thermally stable above -40 C"
+    },
+    "answer": "Y) It is commercially produced via photolysis"
+  },
+  {
+    "question_number": 5,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the expected lambda max of the molecule above assuming its base value is 217 nm?",
+    "answer": "390nm"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Pacific Northwest Lab scientists observe a human patient's death. After infection, the patient exhibits behavioral changes and memory problems, which develop into blindness and dementia within a year. What disease, which has a 100% fatality rate, do the researchers most likely observe?",
+    "answer": "Creutzfeldt-Jakob disease; subacute spongiform encephalopathy; transmissible spongiform encephalopathy"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The researchers observe another patient, a retired boxer, who exhibits similar symptoms of coordination loss and dementia, as well as aggression and amnesia, as a result of repeated brain trauma. What disease do they exhibit?",
+    "answer": "Chronic traumatic encephalopathy"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding gluconeogenesis?",
+    "choices": {
+      "W": "Gluconeogenesis takes place within the cytoplasm",
+      "X": "Gluconeogenesis begins with the transportation of malate across the mitochondrial membrane",
+      "Y": "Gluconeogenesis is considered to be a reversible process in cells",
+      "Z": "The rate of gluconeogenesis increases in the presence of fatty acids"
+    },
+    "answer": "Y) Gluconeogenesis is considered to be a reversible process in cells"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify the following 4 choices which originate from the Wolffian Duct in the embryos of human females. 1) Hymen 2) Fallopian Tubes 3) Uterus 4) Vestibule",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements most accurately describes a relationship between metamorphic grade and the resulting metamorphic rock's properties?",
+    "choices": {
+      "W": "Higher grade decreases the degree of foliation",
+      "X": "Lower grade produces smaller grains",
+      "Y": "Lower grade decreases the abundance of hydrous minerals",
+      "Z": "Higher grade commonly produces slaty rocks"
+    },
+    "answer": "X) LOWER GRADE PRODUCES SMALLER GRAINS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Label the environmental conditions represented by the colored sections in the order that is numbered:",
+    "answer": "Absolute Instability, Conditional Instability, Absolute Stability"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If is a positive integer less than 53, and is congruent to 15 modulo 53, what is the sum of the 2 possible values of x",
+    "answer": "53"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 terms from largest to smallest: 1) 2) 3) 4)",
+    "answer": "1,2,3,4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Davisson-Germer experiment confirmed de Broglie's matter wave hypothesis by observing the diffraction pattern of what particle, which was scattered from a nickel crystal?",
+    "answer": "ELECTRON"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the work done by a constant force vector $2i - 1j$ Newtons through a straight line connecting the points (3 meters, 4 meters) and (7 meters, 5 meters)",
+    "answer": "7"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the following which are true regarding a reaction between an aliphatic carbon and oxidizing metal fluoride. 1) HF is always the byproduct 2) Cobalt (II) Fluoride is 3) Cyclic saturated fluoride can be produced from this reaction",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 11,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What process is shown below, which results in the formation of carboxylic acid derivatives?",
+    "answer": "Favorskii Rearrangement"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Ames Lab pharmacologists observe that the Wolff-Chaikoff effect leads to a reduction of thyroid hormone synthesis within follicular cells. What ion, when ingested, leads to this effect?",
+    "answer": "Iodide"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Which of the following silicon types are used in modern solar cells? 1) Monocrystalline 2) Polycrystalline 3) Thin Film Amorphous",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following structures of the nephron is primarily affected by increased expression of vasopressin?",
+    "choices": {
+      "W": "Loop of Henle",
+      "X": "Bowman's Capsule",
+      "Y": "Proximal Convoluted Tube",
+      "Z": "Collecting Duct"
+    },
+    "answer": "Z) COLLECTING DUCT"
+  },
+  {
+    "question_number": 13,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Alice studies the plant above, which she finds contains yellow leaves and is unusually purple. After using liquid chromatography-mass spectrometry, she finds a high concentration of anthocyanins present within its cells. This is most likely due to the deficiency of what essential element?",
+    "answer": "Phosphorous"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In 2010 a set of \bubbles\ lying above and below the Milky Way were discovered by NASA's premier Fermi Telescope, which primarily observes what type of electromagnetic radiation?",
+    "answer": "GAMMA RAY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Armaan splits open an iron meteorite and finds that its interior is marked by interweaving bands of kamacite and taenite. What is the name of these structures?",
+    "answer": "WIDMANSTÄTTEN PATTERN"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two numbers x and y are randomly and independently chosen from the range [0,1] [from 0 to 1, inclusive]. What is the expected value of the smaller of the two elements?",
+    "answer": "[Statistics] <spencerd>"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the slope of the line tangent to the curve at the point (1,1)?",
+    "answer": ""
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name of the numerical constant that describes the elastic properties of a solid or fluid when it is under pressure on all surfaces?",
+    "answer": "Bulk Modulus"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "How much does work is done by the force $3\\athrm{i} + 4\\athrm{j} - 2\\athrm{k}$ newtons through a displacement of $-1\\athrm{i} + 2\\athrm{j} + 5\\athrm{k}$ meters?",
+    "choices": {
+      "W": "",
+      "X": "",
+      "Y": "",
+      "Z": ""
+    },
+    "answer": "- 5"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following uses should Helium be used instead of Argon?",
+    "choices": {
+      "W": "Atmosphere to suppress oxidation of metals",
+      "X": "Cooling for superconducting magnets",
+      "Y": "Medical Imaging",
+      "Z": "Anesthetic products"
+    },
+    "answer": "X) Cooling for superconducting magnets"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the following 4 choices which can be used for the conversion of nitrobenzene to aniline by reduction in the presence of an aqueous acid. 1) Iron 2) Lithium Aluminum Hydride 3) Tin 4) Tin (II) Chloride",
+    "answer": "1,3, AND 4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Lawrence Berkeley Lab researchers couple plasmons with photons to create another quasiparticle. What particle, which can also be formed using other types of polar excitations, do they produce?",
+    "answer": "Polariton"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Oak Ridge Lab astronomers observe that radiation pressure tangential to dust particles orbiting a star cause the particles to lose angular momentum, thereby spiraling them into the star. What term refers to this effect?",
+    "answer": "Poynting-Robertson effect"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following that are carried out by thyroid hormones. 1) Reducing expression of glycosaminoglycans 2) Inhibiting Sodium-Potassium ATPases 3) Carbohydrate absorption from small intestine",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 choices that can be elucidated from the hydropathy index above. 1) It exhibits a Beta-Adrenergic Receptor 2) It exhibits a singular beta barrel from position 80-100 3) It exhibits a cluster of charged hydrophilic residues from positions 100 to 108",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Tharsis Rise and Elysium Region are geologic features of what planet in our Solar System?",
+    "answer": "MARS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What theory proposed by Mordecai Milgram explains the observed rotation disks of galaxies without requiring the existence of dark matter.",
+    "answer": "MODIFIED NEWTONIAN DYNAMICS (ACCEPT: MOND)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is an example of a linear, 2nd order differential equation?",
+    "choices": {
+      "W": "",
+      "X": "",
+      "Y": "",
+      "Z": ""
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If and, find the value of",
+    "answer": "850"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Select all of the following processes that conserve momentum for the specified system: 1) a system of two balls undergoing a collision in which the two balls stick together 2) a system consisting of a satellite as it orbits the Sun 3) a system consisting of a photon and subsequently produced matter and antimatter as the photon undergoes pair production",
+    "answer": "1, 2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What approximation for the Fermi function at high energy levels simplifies it to decreasing exponentially with increasing energy?",
+    "answer": "Boltzmann approximation"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the following metals that are substitution-inert. 1) Chromium $3+$ 2) Vanadium $2+$ 3) Mercury $2+$",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is CORRECT about DABCO, a highly nucleophilic reagent?",
+    "choices": {
+      "W": "It is a secondary amine",
+      "X": "It is the primary reagent in the Baylis-Hillman Reaction",
+      "Y": "It is unreactive in the presence of methyl iodide",
+      "Z": "It is characterized as a flexible bicyclic reagent"
+    },
+    "answer": "X) It is the primary reagent in the Baylis-Hillman Reaction"
+  }
+]

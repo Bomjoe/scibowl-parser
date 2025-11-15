@@ -1,0 +1,506 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "According to Toby Ord in The Precipice, which of the following represents the most pressing existential threat to humanity?",
+    "choices": {
+      "W": "Climate change",
+      "X": "Natural pandemics",
+      "Y": "Supervolcanic eruptions",
+      "Z": "AGI misalignment"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Economist Robin Hanson proposed a Great Filter argument for humanity's existence. Which of the following would be evidence that this Great Filter lies in humanity's future?",
+    "choices": {
+      "W": "Lack of primitive extraterrestrial species",
+      "X": "Observation of abundant extraterrestrial life",
+      "Y": "Evolutionary bias against intelligence",
+      "Z": "Extreme difficulty of abiogenesis"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let vector $u = [-1,2]$ and vector $v = [2,3]$. Simplify $2u - 3v$.",
+    "answer": "$[-8, -5]$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A circle has a radius of 4 inches. To the nearest inch, find the length of the arc intercepted by a central angle of 240 degrees.",
+    "answer": "17 inches"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the chemical formula of the anhydride of phosphorous acid?",
+    "answer": "$\\athrm{P_4O_6}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the ratio of the root mean square speed of oxygen gas at 300 Kelvin to that of sulfur dioxide at 600 Kelvin?",
+    "answer": "1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three igneous rock textures in order of increasing time of crystallization: 1) Glassy; 2) Aphanitic; 3) Phaneritic.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four water pollution sources that would be considered point sources: 1) Lawn fertilizers; 2) Power plants; 3) Agricultural pesticides; 4) Industrial stormwater discharges.",
+    "answer": "2 and 4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "How many subunits do heteromeric G proteins contain?",
+    "answer": "3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Albuterol is commonly used in nebulizers to treat asthma attacks by causing bronchiolar dilation and smooth muscle relaxation. Albuterol is an agonist for which of the following types of receptors?",
+    "choices": {
+      "W": "Alpha adrenergic",
+      "X": "Beta adrenergic",
+      "Y": "Muscarinic acetylcholine",
+      "Z": "Nicotinic acetylcholine"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A circuit is comprised of a battery and two resistors in series, one with twice the resistance of the other. If the circuit's current is 0.1 amps and the larger resistor has 10 ohms of resistance, what is the voltage of the battery, in volts?",
+    "answer": "1.5"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two circuits both have three resistors with resistances of 100 ohms each, connected to a 6 volt battery. One circuit has all resistors in series and has a current of I. What is the current of the other circuit with all its resistors in parallel, in terms of I?",
+    "answer": "9I"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "A perceptron is an example of what type of simple neural network, distinguished by its lack of cycles?",
+    "choices": {
+      "W": "Feedforward neural network",
+      "X": "Reinforcement neural network",
+      "Y": "Generalized perceptron network",
+      "Z": "Unsupervised neural network"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Feedforward neural networks are commonly trained with which method, in which a loss function is minimized by adjusting neural weights by a vector of partial derivatives?",
+    "choices": {
+      "W": "Differential descent",
+      "X": "Gradient descent",
+      "Y": "Reinforcement learning",
+      "Z": "Anti-Hebbian learning"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A transversal intersects two parallel lines at an oblique angle. Identify all of the following four angle pairs that are congruent: 1) Corresponding angles; 2) Consecutive interior angles; 3) Alternate interior angles; 4) Alternate exterior angles.",
+    "answer": "1, 3, and 4"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Two fair six-sided dice are rolled and then that many fair coins are flipped. Let S be the set of all possible ordered sequences of the coin tosses. How many elements are in S?",
+    "choices": {
+      "W": "8188",
+      "X": "8189",
+      "Y": "8190",
+      "Z": "8191"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Titanium occupies a hexagonal closest packed structure under standard conditions. Which of the following is closest to the percent of space occupied by atoms in a titanium crystal?",
+    "choices": {
+      "W": "55",
+      "X": "65",
+      "Y": "75",
+      "Z": "85"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following comparisons between molarity and molality is NOT true?",
+    "choices": {
+      "W": "Molarity and molality can both be used to measure concentration",
+      "X": "The units for molarity are moles per liter of solution while the units of molality are moles per kilogram of solvent",
+      "Y": "Molarity is affected by changes in temperature while molality is not",
+      "Z": "Molarity results in an accurate and precise measurement of concentration while molality does not"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What common spectral line has been used to measure the galactic rotation curve and the distribution of atomic hydrogen in the galaxy?",
+    "answer": "21 centimeter line"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the atomic weight in AMU of the heaviest nuclide involved in the most common form of the CNO cycle?",
+    "choices": {
+      "W": "4",
+      "X": "8",
+      "Y": "12",
+      "Z": "15"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What cells in the leaves contain the largest number of chloroplasts per cell, making them the primary site of photosynthesis?",
+    "answer": "Palisade cells"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes Emsleyan mimicry?",
+    "choices": {
+      "W": "A harmful species mimics a less harmful species",
+      "X": "A harmless species mimics a harmful species",
+      "Y": "Two harmful species mimic each other",
+      "Z": "One member of a species mimics another member of the same species"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three effects that would result from an increase in plate area in a capacitor: 1) Stronger electric field; 2) Increased electrical energy; 3) Increased magnetic energy.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A ball is undergoing circular motion with a linearly increasing velocity. The rate of change of momentum is proportional to what power of the ball's instantaneous velocity?",
+    "choices": {
+      "W": "First",
+      "X": "Second",
+      "Y": "Third",
+      "Z": "Fourth"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Current mRNA-based COVID vaccines use what technology as the primary means of delivery?",
+    "choices": {
+      "W": "Buffered solution",
+      "X": "Dendritic cell vector",
+      "Y": "Lipid nanoparticle delivery",
+      "Z": "Polyplex delivery"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "What is an advantage of lipid nanoparticle delivery over buffer solution delivery?",
+    "choices": {
+      "W": "The lipid gives greater protection against degradation",
+      "X": "Ionizable cationic lipids are a common pharmaceutical product",
+      "Y": "Microfluidic reaction chambers can be easily scaled up",
+      "Z": "Lipid nanoparticle delivery has been more thoroughly tested"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the smallest positive integer that has exactly 5 factors?",
+    "answer": "16"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of a triangle whose sides are lengths 8, 11, and 17?",
+    "answer": "$6\\qrt{35}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following IR wavenumber ranges, in inverse centimeters, are characteristic of organic molecules with a carbonyl group?",
+    "choices": {
+      "W": "3200-3000",
+      "X": "2400-2200",
+      "Y": "1800-1600",
+      "Z": "1200-1000"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three elements that have a green flame test: 1) Lithium; 2) Strontium; 3) Beryllium.",
+    "answer": "None"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following latitudes is sea surface salinity typically highest?",
+    "choices": {
+      "W": "0 degrees",
+      "X": "30 degrees",
+      "Y": "60 degrees",
+      "Z": "90 degrees"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Planck feedback is a simple climate feedback loop based on the fact that a hotter body radiates more than a cold body, cooling the planet. What law best describes this relationship?",
+    "answer": "Stefan-Boltzmann law"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three genomic regulatory elements that are cis-acting, regulating transcription on the same chromosomal allele: 1) Operator; 2) Repressor; 3) Promoter.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "According to the ABC model, identify all of the following three flower components whose development is regulated by the B gene: 1) Petal; 2) Stamen; 3) Carpel.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What equation explains why fluids flow through thinner sections of a pipe with a higher velocity?",
+    "answer": "Continuity equation"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Incompressible air travels through a tunnel of cross-sectional area 240 square meters at 7 meters per second. What is the new air velocity in the tunnel while a train with cross sectional area of 100 square meters goes through?",
+    "answer": "12"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What term describes a utility function which will accept the first possibility considered that is above a certain utility threshold, regardless of whether this option produces the greatest possible utility?",
+    "answer": "Satisficing"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "It has been speculated that an AGI which satisfies its reward function would be safer than an AGI maximizer. What behavior is considered the main contributor to existential risk specifically from a satisficing AGI?",
+    "choices": {
+      "W": "Self-modifying source code so the utility function is always satisfied",
+      "X": "Self-modifying source code into a maximizing utility function",
+      "Y": "Preventing any human behavior that would create a maximizer",
+      "Z": "Using all the world's resources to build more satisficing AGI"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Vivienne has a 24 inch by 30 inch poster board. If she shortens the length of one side of this poster by 3 inches, the poster would have area 648 square inches. What would the area of the poster be in square inches if instead she shortens the length of the other side by 2 inches?",
+    "answer": "660"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the sum of all 4-digit integers that can be made from the digits 0, 1, 2, and 3 if each digit is to be used exactly once for each integer?",
+    "choices": {
+      "W": "38664",
+      "X": "39330",
+      "Y": "39996",
+      "Z": "40000"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What functional group is generated through the dehydration of an amide, and is composed of a carbon atom triple bonded to a nitrogen atom?",
+    "answer": "Nitrile"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many vibrational degrees of freedom does hydrazine have?",
+    "answer": "12"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In 2013, a coronal mass ejection produced a massive amount of ultrarelativistic ionizing radiation that temporarily created a third section of what regions surrounding Earth?",
+    "answer": "Van Allen belts"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Micro black holes are a proposed class of black holes thought to have formed during the primordial universe. These black holes would be extremely difficult to detect because their mass has been reduced significantly via what process?",
+    "answer": "Hawking radiation"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains the mechanism of Thermogenin, which allows for generation of heat in brown adipose tissue?",
+    "choices": {
+      "W": "Inhibits Complex I of the electron transport chain",
+      "X": "Detaches the F1 subunit of ATP Synthase",
+      "Y": "Increases the permeability of the inner mitochondrial membrane",
+      "Z": "Fully oxidizes Coenzyme Q, causing it to become dysfunctional"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes the final development stage of an insect, where it is sexually mature and typically winged?",
+    "answer": "Imago"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The current and turn density of a solenoid with radius 2 cm are both tripled. What happens to the magnetic field 5 cm from the solenoid's center?",
+    "choices": {
+      "W": "Increases",
+      "X": "Remains constant",
+      "Y": "Decreases",
+      "Z": "Depends on the material"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Compared to other fundamental forces, gravity is extremely weak. For two 1 kilogram objects, which of the following is closest to the electric charge, in coulombs, that makes the gravitational and electric forces equal?",
+    "choices": {
+      "W": "$10^{-5}$",
+      "X": "$10^{-10}$",
+      "Y": "$10^{-15}$",
+      "Z": "$10^{-20}$"
+    },
+    "answer": "X"
+  }
+]

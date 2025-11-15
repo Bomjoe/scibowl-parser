@@ -1,0 +1,298 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about tin (IV) chloride under standard conditions: 1) It is soluble in benzene; 2) It has a higher melting point than tin (II) chloride; 3) It spontaneously disproportionates.",
+    "answer": "1ONLY"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three state functions that have a more positive change when water freezes at 10 degrees celsius than when water freezes at 0 degrees celsius: 1) Enthalpy; 2) Entropy; 3) Gibbs free energy.",
+    "answer": "3ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many lattice points with positive integer coordinates lie on the line $5x + 7y = 210$?",
+    "answer": "4"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A hexagon has side length 2. A triangle is formed by three points chosen along the perimeter of the hexagon. What is the maximum possible area of this triangle?",
+    "answer": "$3\\qrt{3}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of frontal lifting causes rainshadow deserts?",
+    "answer": "OROGRAPHIC LIFTING"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Give, by name or number, all of the following 3 types of clouds which are NOT associated with warm fronts: 1) Altocumulus; 2) Altostratus; 3) Stratocumulus",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The force on a box with mass 5 kg initially at rest increases linearly from 0 to 50 newtons in 4 seconds. What is the speed of the box after the 4 seconds in meters per second?",
+    "answer": "20"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A force of 18 N hangs from 3 springs in parallel, with spring constants 20, 30 and 40 N/m. What is the net displacement of the system to the nearest hundredth and in meters?",
+    "answer": "1.95"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which type of glial cells are specialized for secreting cerebrospinal fluid in the brain?",
+    "answer": "EPENDYMALCELLS"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Whereas efferent arterioles coming from cortical nephrons give rise to peritubular capillaries, the efferent arterioles from juxtaglomerular nephrons give rise to long looping capillaries known by what name?",
+    "answer": "VASA RECTA"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Savannah River National Lab used heated sulfur vapor to sequester mercury from contaminated soils. The scientists isolated what gaseous sulfur compound that is then oxidized in the Claus process to produce the heated sulfur vapor required to sequester mercury?",
+    "answer": "HYDROGEN SUI.FIDE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers from the Chemical Separations Group at Oak Ridge National Lab developed a new imaging method to map the variation in structure of molecules in complex environments. What type of vibrational spectroscopy did the researchers use to analyze the resulting inelastic scattering?",
+    "answer": "RAMAN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In the reaction between methyl magnesium bromide and benzaldehyde in the absence of proton sources followed by an acidic workup, which of the following functional groups is produced as the major product?",
+    "choices": {
+      "W": "Primary alcohol",
+      "X": "Secondary alcohol",
+      "Y": "Tertiary alcohol",
+      "Z": "Ketone"
+    },
+    "answer": "X) SECONDARY ALCOHOL"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The wavelength of light required to excite an electron in hydrogen from the ground-state to the first excited state is 120 nanometers. In nanometers, what wavelength of light is required to ionize an electron from the third excited state?",
+    "answer": "1440"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The point (5, 7) is reflected through the point (-2, 3). What are the coordinates of the image of this transformation?",
+    "answer": "(-9, -1)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If x is a real number that satisfies $9^{x} + 2 \\dot 3^{x + 1} = 27$, compute the sum of all values of x.",
+    "answer": "1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Saros cycle measures the occurrences and patterns of what celestial event?",
+    "answer": "ECLIPSES"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three types of volcanic eruptions from least to most eruptive: 1) Plinian; 2) Vesuvian; 3) Strombolian.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If one quadruples the turns per unit length, by what factor is the inductance per unit length changed?",
+    "answer": "16"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "You measure a loudspeaker from 6 meters away to be 55 dB. How many decibels loud would it be 60 meters from the loudspeaker?",
+    "answer": "35"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Chickens use the Z-W system of sex determination. Knowing this, identify all of the following three chromosomes that can be found in the male gamete: 1) X chromosome; 2) Z chromosome; 3) W chromosome.",
+    "answer": "2ONLY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The large regions of homology between tissue plasma activator, fibronectin, and epidermal growth factor are attributed to what process via which meiotic recombination produces new combinations of coding DNA to produce new and novel proteins?",
+    "answer": "EXON SHUFFLING"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Argonne National Lab have been studying the dormancy of plant buds and their vernalization treatment to force them to flower. They designed a transgenic version of the plant that produced seeds that were extremely prone to germinate, even in unfavorable conditions. The levels of which of the following hormones were likely altered?",
+    "choices": {
+      "W": "Abscisic acid",
+      "X": "Ethylene",
+      "Y": "Strigolactones",
+      "Z": "Jasmonates"
+    },
+    "answer": "W)ABSCISICACID"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Fermilab developed an ultra pure copper cylinder to serve as an ultra sensitive detector for dark matter. What percentage of the energy in the universe is composed of dark matter?",
+    "choices": {
+      "W": "$5\\$",
+      "X": "$25\\$",
+      "Y": "$85\\$",
+      "Z": "$99\\$"
+    },
+    "answer": "X) $25\\$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements releases the most energy upon the addition of an electron in the gas phase?",
+    "choices": {
+      "W": "Phosphorus",
+      "X": "Sulfur",
+      "Y": "Nitrogen",
+      "Z": "Oxygen"
+    },
+    "answer": "X) SULFUR"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In an aqueous solution, the distance between a sodium ion and water molecule is 100 picometers, and the potential energy of the interaction between the ion and molecule is E joules. In terms of E, what is the potential energy of the interaction between a magnesium ion and water molecule separated by a distance of 200 picometers?",
+    "answer": "0.5E"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A magic hat contains a standard deck of cards. How many cards must you draw from the deck to guarantee that you have at least one of each face card?",
+    "answer": "49"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Convert the base 9 numeral 5242 to base 3.",
+    "answer": "12021102"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "5-hydroxytryptamine reuptake inhibitors are used to treat depression because they increase the concentration of which neurotransmitters?",
+    "answer": "SEROTONIN"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Daniel the marine basket weaver is studying a living fossil. He notices that it has the following 3 characteristics. 1) Trochophore Larvae; 2) Octa-Plated Shell; 3) Strong gripping foot. What excretory organ system does this animal most likely possess?",
+    "answer": "METANEPHIRIDIUM"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the Joint Genome Institute are studying plants that can perform CAM photosynthesis. This pathway is characterized by the storage of carbon dioxide as what acid through the night?",
+    "answer": "MALIC ACID"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab have been using atomic force microscopy to study cellular structures. They used this to freeze the electron transport chain and identify the instantaneous processes occurring at that moment in time. Order the following three elements of the electron transport chain in increasing electronegativity: 1) Cytochrome a; 2) FMN; 3) NADH.",
+    "answer": "3,2,1"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the dichromate anion, how many distinct chromium oxygen bond lengths are there?",
+    "answer": "2"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A gas phase reaction mechanism has the following two steps: Step 1 is the rapid equilibrium of 2A yields B; Step 2 is slow of B yields C read slowly. Identify all of the following three statements that are true about this reaction: 1) The transition state for step 1 is higher in energy than in step 2; 2) The rate of formation of C is directly proportional to the concentration of A squared; 3) The spontaneity of the reaction increases as temperature increases.",
+    "answer": "2 ONLY"
+  }
+]

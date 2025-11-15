@@ -1,0 +1,418 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding membrane lipids?",
+    "choices": {
+      "W": "Sphinomyelins generally contain phosphocholine head groups",
+      "X": "Gangliosides contain a negative charge at cytosolic pH",
+      "Y": "Cardiolipins generally contain an inositol-based head group",
+      "Z": "Archeal membrane lipids contain ether linkages"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding the proteins syndecans, and glycipcans.",
+    "choices": {
+      "W": "Glypicans are attached to the membrane by a GPI lipid anchor",
+      "X": "Glypicans are characterized by extreme stability due to the presence of disulfide bridges",
+      "Y": "Syndecans are characterized by the presence of multiple heparan sulfate chains",
+      "Z": "Syndecans can be shed into the extracellular matrix while glycipcans cannot"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term describes unusual terrain formed in a tundra by melting permafrost, exemplified by sinkholes and patterned ground?",
+    "answer": "THERMOKARST"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The mineral azurite is commonly speckled green in aggregates by what other carbonate mineral?",
+    "answer": "MALACHITE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Non-Euclidian geometric spaces can be constructed by removing what axiom first proposed by Euclid?",
+    "answer": "Parallel postulate (accept Euclid's 5th postulate)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of $dy/dx$ at $t = 0$ given the parametrically defined function $x = 1/t$ and $y = \\qrt{(1 - 5t)}$?",
+    "answer": "undefined"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 1200 watt hair dryer and a 500 watt computer power supply are connected to a 240 volt household circuit. Jonathan wants to connect as many 10 watt LEDs as he can to this circuit without tripping a 20 amp circuit breaker. How many light bulbs can he connect?",
+    "answer": "310"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What type of elastic scattering is caused by collisions with particles of a similar size to the wavelength of incoming light?",
+    "answer": "Mie scattering"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is INCORRECT regarding anionic polymerization?",
+    "choices": {
+      "W": "Vinyl monomers and acrylate esters are very susceptible to anionic polymerization",
+      "X": "Phosphines can be utilized as an initiator for anionic polymerization",
+      "Y": "Alkylthium initiators are most suited for electrophiles like cyanoacrylates",
+      "Z": "Initiation via electron transfer generally requires a polar solvent for stability"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 5,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the following IR spectra which is consistent of a structure of carboxylic acid.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "LIGO scientists are studying black hole sublimation, where a solid black hole transforms directly into a gas. To what power is the hawking radiation temperature of a Schwarzschild black hole proportional to its mass?",
+    "answer": "-1"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Oak Ridge physicists have observed that an AC current becomes distributed so that current density is highest near the surface of a conductor. What effect do they observe?",
+    "answer": "Skin effect"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding the ground substrates of the extracellular matrix?",
+    "choices": {
+      "W": "Proteoglycans are composed mostly of sulfated glycosaminoglycans by mass",
+      "X": "Hyaluronan is the largest and most common glycosaminoglycan",
+      "Y": "Aggrecan is the key proteoglycan in basal laminae of epithelia",
+      "Z": "Aggrecan-Hyaluronan complexes are highly abundant in collagen"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true regarding the urea cycle: 1) The release of urea from arginine occurs in the mitochondrial matrix; 2) Ornithine must be converted to aspartate to be transported back into the mitochondria; 3) Aspartate and Glutamate cannot be maintained at equal concentrations for this cycle to occur.",
+    "answer": "None"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The tallest mountain in the solar system is either Mars’ Olympus Mons, or the peak at the center of the Rheasilvia crater on what asteroid belt object?",
+    "answer": "VESTA"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Stephen Hawking and Kip Thorne made a notable bet over what X-ray source, with Thorn correctly wagering it being a black hole?",
+    "answer": "CYGNUS X-1 (ACCEPT: CYG X-1)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Define the set S as the set of all complex numbers such that the formal power series of is analytic for all complex numbers in this set. Find S.",
+    "answer": ""
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the slope of the line tangent to the curve at the point (4,5).",
+    "answer": "8/9"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A spinning baseball travels forwards through air, with an angular velocity which points directly upwards. The difference in air pressure generated from this spin deflects the baseball in what direction?",
+    "answer": "Left"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A refrigerator operating at theoretical maximum efficiency has a coefficient of performance of 4. The temperature outside of the refrigerator is $27^{\\irc}\\athrm{C}$. In Celsius, what is the difference between the temperature inside and outside the refrigerator?",
+    "answer": "75"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the following 4 choices that are true about the classical complement system. 1) The pathway is activated when C1q binds to the Fc portion of IgG 2) Thioester bonds in complement proteins localizes the pathway to the surface of bacteria 3) The binding of C3 convertase to C3b allows for the formation of C5 4) C7 polymers of the Membrane Attack Complex are primarily responsible in forming transmembrane pores",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is correct regarding Hantzsch pyridine synthesis?",
+    "choices": {
+      "W": "Certain aldehydes cannot be used due to an aldol side reaction",
+      "X": "Quinones are necessary for the conversion to pyridine",
+      "Y": "Hydroxylamine is the commonly used nucleophile",
+      "Z": "A neutral pH is ideal for carrying out this synthesis"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Ames National Laboratory physicists observe that Tesla coils subject its surrounding insulator, air, to enough voltage to suddenly turn it into a conductor. What process do they observe?",
+    "answer": "Dielectric breakdown"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "What term refers to the temperature at which hadronic matter converts into quark-gluon plasma?",
+    "answer": "Hagedorn temperature"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding protists belonging to the SAR supergroup?",
+    "choices": {
+      "W": "Dinoflagellates are supported by cellulose plates while diatoms are enforced by a silicon dioxide matrix",
+      "X": "Apicomplexans are mostly parasites of plants and spread through their host as sporozoites",
+      "Y": "Ciliates contain two distinctive nuclei, a macronuclei and a micronuclei",
+      "Z": "Forams contain porous shells known as tests hardened with calcium carbonate"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 13,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 choices that can be elucidated from the hydropathy index above. 1) It exhibits a Beta-Adrenergic Receptor 2) It exhibits a singular beta barrel from position 80-100 3) It exhibits a cluster of charged hydrophilic residues from positions 100 to 108",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 bodies that commonly have Earth-crossing orbits: 1) Apollo objects; 2) Trojan asteroids; 3) Amor objects.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Some of the best evidence for dark matter is the gravitational lensing observed by the Chandra telescope in what set of colliding galaxy clusters in the constellation Carina?",
+    "answer": "BULLET CLUSTER (ACCEPT: 1E 0657-56)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 statements which are true regarding the Euler-Mascheroni constant? 1) It is not known if it is transcendental 2) It is not known if the number is normal in base 10 3) It is denoted by the greek letter Omicron 4) It can be used in the definition of the Laplace transform of $\\n (x)$",
+    "answer": "1 2 4"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Euler is making macaroni in a macaroni competition. After t seconds have elapsed, Euler will have created $\\nt_1^t \\rac{1}{x} dx$ pounds of macaroni. Furthermore, after t seconds have elapsed, Euler's opponent will have made $\\um_{x=1}^t \\rac{1}{x}$ pounds of macaroni. To the nearest tenth, how much more macaroni will euler have made than his opponent as t approaches infinity?",
+    "answer": "0.6"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The pressure on an object 4 meters below surface level in a pool on a strange planet is 13 atmospheres. Assuming that the pressure at the surface of the pool is 1 atmosphere, and that the density of water is 1000 kilograms per meter cubed, and giving your answer to the nearest integer, what is the magnitude of the gravitational acceleration on this planet?",
+    "answer": "30 N/kg"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the effect that describes the decrease in temperature of a gas as it is throttled through a valve at constant enthalpy?",
+    "answer": "Joule-Thomson Effect"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements which are correct regarding Fischer indole synthesis. 1) Fischer Synthesis can occur when phenylhydrazine is reacted with cyclohexanone 2) Boron Trifluoride can be utilized as a catalyst for this synthesis 3) A single indole will be formed in Fischer Synthesis",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 choices which are correct regarding the Heck Reaction 1) It utilizes a Platinum-based complex for catalysis 2) Its reactants include a cis-disubstituted alkene reactant and organic halide 3) It requires the use of a strong base for catalysis",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Lawrence Berkeley physicists observe that distant regions of space in opposite directions are so far apart that they could never have been in causal impact with one another, given the speed of light and the age of the universe. What is the name of this observation, which was known as a limitation of the big bang theory?",
+    "answer": "Horizon problem (ACCEPT: Homogeneity problem)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Which of the following problems of the big bang theory are believed to be solved by the theory of cosmic inflation? 1) Flatness problem 2) Horizon problem 3) Dipole problem",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is found in a mature follicle but not in an early antral follicle?",
+    "choices": {
+      "W": "Granulosa Cells",
+      "X": "Zona Pellucida",
+      "Y": "Cumulus Oophorus",
+      "Z": "Theca Cells"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding skeletal muscle contraction?",
+    "choices": {
+      "W": "The binding of acetylcholine to nicotinic receptors increases permeability to sodium",
+      "X": "End plate potential is produced from more $\\athrm{Na^{+}}$ ions moving into the fiber than $\\athrm{K^{+}}$ out",
+      "Y": "Calcium is released from terminal cisternae when DHP receptor channels are pulled opened by ryanodine receptors",
+      "Z": "Binding of calcium to troponin on thin filaments causes tropomyosin to move from blocking position"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of wind that are downslope winds: 1) Valley breeze; 2) katabatic wind; 3) chinook.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Answer the following two questions about the picture: a) What is the name for this volcanic formation commonly found in Hawaii? b) Which of the three classifications of magma most likely produces these formations?",
+    "answer": "a) PELE'S HAIR; b) BASALTIC"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If (mod 25) and (mod 4), what is the remainder when x is divided by 100?",
+    "answer": "51"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 equations that are NOT the Laplace Transform of $\\athrm{e}^{a t}$ given that $s > a$: 1) $1/(s-a)$ 2) $1/(a-s)$ 3) $-1/(a-s)$",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An ideal transformer has 28 coils in the primary winding and 42 coils in the secondary winding. If the source current is 210 A, then what current does the transformer output?",
+    "answer": "140 A"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An ideal massful spring is fixed at its two ends against a wall but at a distance for which the spring is slack. What shape does this slack spring form?",
+    "answer": "Catenary"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What element, found in nature as a sulfide, can be added to improve the rigidity of lead alloy plates in lead acid batteries?",
+    "answer": "ANTIMONY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all the following which will affect the rate of Hofmann Elimination. 1) pH 2) Temperature 3) Presence of methyl iodide",
+    "answer": "ALL"
+  }
+]

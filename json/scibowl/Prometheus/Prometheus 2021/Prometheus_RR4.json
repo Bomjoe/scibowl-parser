@@ -1,0 +1,500 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "What is the scientific term for the severity of an infectious disease, or the degree of damage it can cause to a host?",
+    "answer": "Virulence"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following factors has an inverse relationship with the existential threat posed by a pathogen?",
+    "choices": {
+      "W": "Reproduction rate",
+      "X": "Virulence",
+      "Y": "Generation interval",
+      "Z": "Lethality"
+    },
+    "answer": "Y) Generation interval"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Brandon eats $20\\$ of the cookies in a cookie jar, and Sean eats $45\\$ of what is left. Afterwards, there are11 cookies left. How many cookies were in the cookie jar initially?",
+    "answer": "25"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two irregular heptagons are on a plane. What is the maximum possible number of intersections between them?",
+    "answer": "38"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules possesses a linear molecular geometry?",
+    "choices": {
+      "W": "Sulfur dioxide",
+      "X": "Hydrogen cyanide",
+      "Y": "Oxygen difluoride",
+      "Z": "Hydrogen sulfide"
+    },
+    "answer": "X) Hydrogen cyanide"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that are soluble in water:1) Nickel (II) hydroxide;2) Iron (III) chloride;3) Calcium acetate.",
+    "answer": "2 and3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What layer of the ocean represents the transition between the upper mixed zone and the deep zone, separated by gradients in temperature and density?",
+    "choices": {
+      "W": "Epipelagic",
+      "X": "Mesopelagic",
+      "Y": "Bathypelagic",
+      "Z": "Abyssopelagic"
+    },
+    "answer": "X) Mesopelagic"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three magma types in order of increasing viscosity:1) Ultramafic;2) Rhyolitic;3) Andesitic.",
+    "answer": "1,3,2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In Southeast Asia, a malaria-causing parasite known as Plasmodium knowlesi can be transmitted from macaque monkeys to humans by mosquitos. What term is used to describe this type of disease that can be transmitted from animals to humans?",
+    "answer": "Zoonotic (ACCEPT: Zoonosis)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What molecule is intermediate between pyruvate and ethanol during alcohol fermentation?",
+    "answer": "Acetaldehyde (ACCEPT: acetylaldehyde)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is TRUE regarding the magnetic force exerted on a particle moving perpendicularly to a magnetic field?",
+    "choices": {
+      "W": "It is zero",
+      "X": "It is in the same direction as the particle's movement",
+      "Y": "It is at a maximum",
+      "Z": "It is proportional to the particle's mass"
+    },
+    "answer": "Y) It is at a maximum"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A refrigerator is at temperature $100\\athrm{K}$ inside a room at temperature $200\\athrm{K}$. If the coefficient of performance of the refrigerator is2.5 and25J of work is done to remove its heat, how many joules of heat is removed from the refrigerator?",
+    "choices": {
+      "W": "4",
+      "X": "10",
+      "Y": "25",
+      "Z": "62.5"
+    },
+    "answer": "Z)62.5"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Livestock farming practices contribute to humanity's risk from natural pandemics, since many diseases originate from animals living in poor conditions in proximity to humans. Which of the following diseases did NOT first infect humans via an animal source?",
+    "choices": {
+      "W": "HIV",
+      "X": "Ebola",
+      "Y": "Cholera",
+      "Z": "Influenza"
+    },
+    "answer": "Y) Cholera"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Although anthrax is a naturally occurring disease, it is commonly used for bioterrorism because it is extremely deadly. Which of the following factors contributes to anthrax's extremely high mortality rate?",
+    "choices": {
+      "W": "No available vaccine",
+      "X": "Produces toxins that linger once the bacterium is gone",
+      "Y": "Efficient spread via human contact",
+      "Z": "Antibiotics are generally ineffective"
+    },
+    "answer": "X) Produces toxins that linger once the virus is gone"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A row of Pascal's triangle contains thirteen numbers, the highest of which is924. What is the sum of all of the numbers in this row?",
+    "answer": "4096"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A unit square is drawn on a coordinate plane with its center at the origin and sides parallel to the axes. A random point (x, y) is chosen from the interior of the square. Expressing your answer as a fraction in simplest terms, what is the probability that $|x - y| < .2$?",
+    "answer": "$\\rac{9}{25}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the degree of unsaturation of ortho-xylene?",
+    "answer": "4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rounded to the nearest integer, how many moles of aluminum are required to produce6 grams of hydrogen gas when dissolved in a concentrated sulfuric acid solution?",
+    "answer": "2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "When the largest blue supergiant stars reach the end of their lives, they undergo an extreme core-collapse scenario that leads to what extremely energetic luminous type of supernova?",
+    "answer": "Hypernova (ACCEPT: Collapsar)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "During the universe's Grand Unification Epoch, three fundamental forces were unified into a single interaction. Which of the following was NOT one of these unified forces?",
+    "choices": {
+      "W": "Electromagnetism",
+      "X": "Gravity",
+      "Y": "Strong interaction",
+      "Z": "Weak interaction"
+    },
+    "answer": "X) Gravity"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In annelids, the coelom is entirely surrounded by tissue derived from which embryonic germ layer?",
+    "answer": "Mesoderm"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Chickens exhibit the ZW sex determination system. If you observe a male chicken epithelial cell in metaphase, how many Z chromatids would you observe?",
+    "answer": "4"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What is the minimum velocity that a car can begin with to ensure it completes a vertical circular track of radius of15 meters in terms of g?",
+    "choices": {
+      "W": "$\\qrt{15g}$",
+      "X": "$\\qrt{30g}$",
+      "Y": "$2\\qrt{15g}$",
+      "Z": "$5\\qrt{3g}$"
+    },
+    "answer": "Z) $5\\qrt{3g}$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A mad scientist circles copper wire around a plastic cylinder. Ignoring fringe effects, identify all of the following three changes that would increase the strength of their homemade electromagnet inside the cylinder:1) Replacing the plastic with an iron cylinder;2) Decreasing the current;3) Increasing the cylinder's radius.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which scale is used to judge the risk of an asteroid impacting Earth?",
+    "choices": {
+      "W": "Piazzi scale",
+      "X": "Cassini scale",
+      "Y": "Modified magnitude scale",
+      "Z": "Torino scale"
+    },
+    "answer": "Z) Torino scale"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Comet impacts present a global catastrophic risk that is higher than their low abundance would suggest. Which of the following factors does NOT contribute to this greater risk?",
+    "choices": {
+      "W": "Organic molecules in some comets are highly toxic to humans",
+      "X": "Comets are harder to detect than asteroids are, due to their irregular orbits",
+      "Y": "Comets move faster relative to Earth than asteroids do",
+      "Z": "Comets are not as well studied by astronomers"
+    },
+    "answer": "W) Organic molecules in some comets are highly toxic to humans"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A balanced prime is a prime number $n$ such that the difference between $n$ and the first prime greater than $n$ is the same as the difference between $n$ and the first prime less than $n$. What is the smallest balanced prime?",
+    "answer": "5"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The numbers1 through9 are placed randomly in a3x3 grid. What is the probability that the sum of the numbers in the first row is6?",
+    "answer": "$\\rac{1}{84}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Graphite is the only stable form of pure carbon at STP. However, diamonds exist at STP because the activation energy of its conversion to graphite is too high for it to occur. As a result of this, diamonds are considered to be in what energetic state?",
+    "answer": "Metastable"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The most common allotrope of oxygen is triplet oxygen, which contains two unpaired electrons in pi-antibonding orbitals. Which of the following types of magnetism does triplet oxygen exhibit?",
+    "choices": {
+      "W": "Paramagnetism",
+      "X": "Diamagnetism",
+      "Y": "Ferromagnetism",
+      "Z": "Ferrimagnetism"
+    },
+    "answer": "W) Paramagnetism"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following climates is typically found on the leeward side of a mountain?",
+    "choices": {
+      "W": "Dry and warm",
+      "X": "Dry and cold",
+      "Y": "Wet and warm",
+      "Z": "Wet and cold"
+    },
+    "answer": "W) Dry and warm"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "An endorheic basin would most likely be surrounded by which of the following drainage patterns?",
+    "choices": {
+      "W": "Trellis",
+      "X": "Radial",
+      "Y": "Annular",
+      "Z": "Centripetal"
+    },
+    "answer": "Z) Centripetal"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three reproductive barriers that are prezygotic:1) Mechanical isolation;2) Gametic isolation;3) Behavioral isolation.",
+    "answer": "All"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following regions of the cerebral cortex is found in the occipital lobe?",
+    "choices": {
+      "W": "Broca's area",
+      "X": "Wernicke's area",
+      "Y": "Sensory association cortex",
+      "Z": "Striate cortex"
+    },
+    "answer": "Z) Striate cortex"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two point charges are spaced2 meters apart and experience an attractive force. Assuming both charges remain constant, how will this force change if one point charge is changed to a sphere of radius1 meter with the charge evenly distributed across the surface?",
+    "choices": {
+      "W": "Magnitude increases",
+      "X": "Magnitude decreases",
+      "Y": "Magnitude remains constant but direction changes",
+      "Z": "No change occurs"
+    },
+    "answer": "Z) No change occurs"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What value describes stiffness and is the rotational equivalent of a spring constant, measured in newton-meters per radian?",
+    "answer": "Torsion coefficient (ACCEPT: Torsion constant)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which volcanic eruption in Indonesia may have caused a global population bottleneck at the time of its occurrence?",
+    "answer": "Mt. Toba (ACCEPT: Toba)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "The anthropic principle states that humanity's observations are influenced by the fact that they could not have occurred without humanity's existence. What form of bias is this?",
+    "answer": "Selection (ACCEPT: Survivorship)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A game is played where two players alternate turns. If the probability of a given player winning the game on a given turn is $\\rac{1}{3}$, what is the probability that the first player to take a turn wins the game?",
+    "answer": "$\\rac{3}{5}$ (ACCEPT:0.6)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The number959,310 is divisible by all of the following numbers except:",
+    "choices": {
+      "W": "5",
+      "X": "7",
+      "Y": "9",
+      "Z": "11"
+    },
+    "answer": "X)7"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three liquids in order of increasing viscosity:1) Water;2) Acetone;3) Decane.",
+    "answer": "2,1,3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the term given to compounds containing separated negatively and positively charged groups?",
+    "answer": "Zwitterions (ACCEPT: Dipolar ions)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "An RR Lyrae variable star would most likely form at which of the following stages of stellar evolution?",
+    "choices": {
+      "W": "Main sequence",
+      "X": "Red giant branch",
+      "Y": "Asymptotic giant branch",
+      "Z": "Horizontal branch"
+    },
+    "answer": "Z) Horizontal branch"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "As viewed from Earth, star A is100 times brighter than star B. What is the difference in apparent magnitude between star A and star B?",
+    "answer": "5"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Rhagoletis pomonella, also known as the apple maggot fly, originally laid eggs in hawthorns to reproduce. However, since the introduction of apples to North America, a distinct form of the flies were seen laying eggs on apples. This is an example of what type of speciation?",
+    "answer": "Sympatric"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What animal phylum is characterized by the presence of flagellated choanocytes?",
+    "answer": "Porifera (ACCEPT: sponges)"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A pipe of length $L$ that is closed at one end and open at another will produce a third harmonic closest to which of the following frequencies at room temperature?",
+    "choices": {
+      "W": "1029",
+      "X": "343",
+      "Y": "257",
+      "Z": "114"
+    },
+    "answer": "Y)257"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A large particle with a mass of $125\\athrm{g}$ and charge1 coulomb is released from rest and drops to a point where the electric potential is4 volts lower. In meters per second, what must be the particle's velocity at this new point?",
+    "answer": "8"
+  }
+]

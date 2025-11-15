@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What type of scattering is characterized by particles similar to or larger than the wavelength of the incident light?",
+    "answer": "MIE SCATTERING"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By what factor does the volume flow-rate of a cylindrical pipe change by, if the radius of the pipe is multiplied by 2, given that no other factors change?",
+    "answer": "16"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "There is an unusually high concentration of which of the following elements in the KT Boundary.",
+    "choices": {
+      "W": "Rhenium",
+      "X": "Iridium",
+      "Y": "Strontium",
+      "Z": "Germanium"
+    },
+    "answer": "X) IRIDIUM"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Scientists have discovered microscopic fissures in ancient crystals. These fissures, caused by decaying atoms, can be used to date the crystal and are known as what?",
+    "answer": "FISSION TRACKS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What term describes an alkyl halide that has 2 halogens bonded to the same carbon atom?",
+    "choices": {
+      "W": "Ortho",
+      "X": "Terminal",
+      "Y": "Vicinal",
+      "Z": "Geminal"
+    },
+    "answer": "Z) GEMINAL"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 4 orbitals from least to greatest in terms of total nodes: 1) 5f; 2) 4f; 3) 7p; 4) 6d.",
+    "answer": "2, 1, 4, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 mechanisms that humans go through in response to low body temperature: 1) Vasodilation; 2) Vasoconstriction; 3) Shivering; 4) Sweating",
+    "answer": "2, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 optical structures in order of increasing cone cell density: 1) Fovea; 2) Peripheral Retina; 3) Optic Disk.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The radical axis of two circles is the locus of points that have the same:",
+    "choices": {
+      "W": "Length",
+      "X": "Power",
+      "Y": "Geometric Inverse",
+      "Z": "Length squared"
+    },
+    "answer": "X) POWER"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of values n, such that n is between 0 and 2020 inclusive and n over 2020 simplifies to 1/m for some positive integer m?",
+    "answer": "4284"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Assuming g to be ten meters per second squared, what is the angular frequency in radians per second of a pendulum with a length of ten meters?",
+    "answer": "ONE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A cyclotron has a radius of 5 meters, and is made for an electron. If a new cyclotron is made for an electron moving with twice the speed, what must be the radius in meters of this cyclotron, if the magnetic field is kept constant?",
+    "answer": "10m"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Van Allen Radiation Belts are created by the interaction of solar wind and which of the following:",
+    "answer": "Z) Magnetosphere"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Gas Hydrates are an unconventional form of hydrocarbon deposits. They are made up of water ice enclosing molecules of what hydrocarbon?",
+    "answer": "METHANE (ACCEPT: $\\athrm{CH_4}$)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 catalysts that would result in a cis alkene after the hydrogenation of an alkyne: 1) Lindlar’s Catalyst; 2) P-2 Catalyst; 3) Platinum Catalyst.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements regarding argentometry is NOT true:",
+    "choices": {
+      "W": "It is a titration involving the nitrate ion.",
+      "X": "It is used to calculate the standard reduction potential of a silver electrode.",
+      "Y": "The Mohr method uses potassium chromate as an indicator.",
+      "Z": "Volhard’s method uses back titration to titrate."
+    },
+    "answer": "X) IT IS USED TO CALCULATE THE STANDARD REDUCTION POTENTIAL OF A SILVER ELECTRODE."
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the development of a protostome, what opening becomes the mouth, while in the development of a deuterostome, the same opening becomes the anus.",
+    "answer": "BLASTOPORE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 plant divisions in which the sporophyte is less well developed than the gametophyte: 1) Mosses 2) Ferns 3) Liverworts 4) Hornworts",
+    "answer": "1, 3, 4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many non-empty subsets are there for the set of positive integers less than 10?",
+    "answer": "511"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many ways are there to triangulate a convex seven-sided polygon?",
+    "choices": {
+      "W": "14",
+      "X": "28",
+      "Y": "42",
+      "Z": "56"
+    },
+    "answer": "Y) 42"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the magnetic flux in webers emanating from a circular surface with radius one meter, and magnetic field of one tesla, if the magnetic field makes an angle of 60 degrees with the normal?",
+    "answer": "pi/2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A beam of light enters a series of 4 polarizers, each rotated 45 degrees from the previous polarizer. What fraction of the initial intensity of light remains after leaving the 4th polarizer?",
+    "answer": "1/16"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Conventional hydrocarbon reserves have been mined for oil, gas, etc since the 1800s. As those dry up, companies turn to unconventional hydrocarbons such as which of the following:",
+    "choices": {
+      "W": "Oil Trap",
+      "X": "Oil Seep",
+      "Y": "Oil Sands",
+      "Z": "Hydrofracturing"
+    },
+    "answer": "Y) Oil Sands"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a form of submarine mass movement:",
+    "choices": {
+      "W": "Turbidity Current",
+      "X": "Submarine Slump",
+      "Y": "Submarine Debris Flow",
+      "Z": "Submarine Groin"
+    },
+    "answer": "Z) SUBMARINE GROIN"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What prokaryotic factor is responsible for the initiation of transcription?",
+    "answer": "SIGMA (ACCEPT: SPECIFICITY)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a differential centrifugation experiment, multiple speeds are used to separate out cellular components. Order the following 3 cellular components in order of lowest to the highest speed required to separate it out: 1) Nuclei; 2) Ribosomes; 3) Lysosomes.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many electrons are in the pi system for a molecule of Ozone?",
+    "answer": "4"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true regarding the epoxidation of alkenes:",
+    "choices": {
+      "W": "The reaction can use a peroxy acid.",
+      "X": "It is an electrophilic addition of oxygen to the double bond.",
+      "Y": "A product can only be formed from a cis alkene.",
+      "Z": "The addition can happen on either face."
+    },
+    "answer": "Y) A PRODUCT CAN ONLY BE FORMED FROM A CIS ALKENE."
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the determinant of a matrix with first row 1, 2, and second row, 3, 4.",
+    "answer": "- 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Solve the following system of equations for A, B, C, D, and E. \n\n$$2\\athrm{A} + \\athrm{B} + \\athrm{C} + \\athrm{D} + \\athrm{E} = 10$$ \n$$\\athrm{A} + 2\\athrm{B} + \\athrm{C} + \\athrm{D} + \\athrm{E} = 11$$ \n$$\\athrm{A} + \\athrm{B} + 2\\athrm{C} + \\athrm{D} + \\athrm{E} = 12$$ \n$$\\athrm{A} + \\athrm{B} + \\athrm{C} + 2\\athrm{D} + \\athrm{E} = 13$$ \n$$\\athrm{A} + \\athrm{B} + \\athrm{C} + \\athrm{D} + 2\\athrm{E} = 14$$",
+    "answer": "$\\athrm{A} = 0, \\athrm{B} = 1, \\athrm{C} = 2, \\athrm{D} = 3, \\athrm{E} = 4$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A cylindrical resistor has a resistance of 5 Ohms. A new resistor is made such that its length is double the original resistor, and its diameter is twice that of the original resistor. What is the resistance of the new resistor in ohms?",
+    "choices": {
+      "W": "2.5",
+      "X": "5",
+      "Y": "10",
+      "Z": "20"
+    },
+    "answer": "W) 2.5"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A rocket moves at a speed 0.8c to the right and fires a bullet at 0.6c to the left. In terms of c, to the nearest tenth, what speed does an observer on earth measure the bullet to be traveling at in terms of c?",
+    "answer": "0.4c"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the crown ether 18-crown-6, how many carbon and hydrogen atoms are there respectively?",
+    "answer": "12, 24"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds is considered a meso compound?",
+    "choices": {
+      "W": "(2R,2S)-2,3- dibromobutane",
+      "X": "(1R, 4R)-1,4- dinitrocyclohexane",
+      "Y": "2,4,6- trinitrotoluene",
+      "Z": "(1R, 2S, 3S)-1,2,3- triethylheptane"
+    },
+    "answer": "W) (2R,2S)-2,3- DIBROMOBUTANE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What organic product is given after the nucleotide, adenine is deaminated?",
+    "choices": {
+      "W": "Inosine",
+      "X": "Hypoxanthine",
+      "Y": "Uracil",
+      "Z": "Guanine"
+    },
+    "answer": "X) HYPOXANTHINE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Dan was found after wandering a hot desert for several hours with no water. Which of the following solutions given intravenously would best return Dan’s intracellular volume toward normal?",
+    "choices": {
+      "W": "Hypertonic Saline",
+      "X": "Plasma",
+      "Y": "Isotonic Saline",
+      "Z": "Dextran in isotonic saline."
+    },
+    "answer": "Y) ISOTONIC SALINE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Metamorphic Rocks that appear banded are classified as what?",
+    "answer": "FOLIATED"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Of the following, which technique uses stellar parallax as its primary measurement:",
+    "choices": {
+      "W": "Occultation",
+      "X": "Triangulation",
+      "Y": "Aperture synthesis",
+      "Z": "Entanglement Distillation"
+    },
+    "answer": "X) TRIANGULATION"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the definite integral from 0 to pi of the expression 1 plus cosine of x dx?",
+    "answer": "pi"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A triangle has three altitudes of 5, 6 and 7. What is the radius of the circle inscribed in this triangle?",
+    "answer": "210/107"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant tissues is present in eudicots but not in monocots?",
+    "choices": {
+      "W": "Pith",
+      "X": "Endodermis",
+      "Y": "Cortex",
+      "Z": "Epidermis"
+    },
+    "answer": "W) PITH"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What genetic disease is characterized by excess copper buildup in several essential organs, which causes jaundice in certain cases.",
+    "answer": "Wilson's Disease"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 materials that can be considered metastable: 1) Graphene; 2) Graphene oxide; 3) Diamond",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 molecules based on melting points: 1) S8; 2) C60; 3) C6H6.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "For a continuous and differentiable function f of x, if f of 1 equals 10 and f of 9 equals 10, which of the following must exist on the open interval from 1 to 9?",
+    "choices": {
+      "W": "A local minimum or maximum",
+      "X": "A point of inflection",
+      "Y": "A vertical asymptote",
+      "Z": "A horizontal asymptote"
+    },
+    "answer": "W) A LOCAL MINIMUM OR MAXIMUM"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "When the five-digit number AB0AB is divided by the two-digit number AB the result is A00B. What is the value of A+B?",
+    "answer": "2"
+  }
+]

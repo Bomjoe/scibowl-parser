@@ -1,0 +1,458 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements is LEAST likely to exhibit the inert-pair effect?",
+    "choices": {
+      "W": "Germanium",
+      "X": "Indium",
+      "Y": "Tin",
+      "Z": "Bismuth"
+    },
+    "answer": "GERMANIUM"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the term for a colloid such as smoke in which a solid is dispersed throughout a gas?",
+    "answer": "AEROSOL"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organisms is most likely to follow a type III survivorship curve?",
+    "choices": {
+      "W": "Human",
+      "X": "Oyster",
+      "Y": "Hydra",
+      "Z": "Boar"
+    },
+    "answer": "OYSTER"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What waxy substance makes up the Casparian strip in plants?",
+    "answer": "SUBERIN"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the product of the least common multiple and greatest common factor of 26 and 28?",
+    "answer": "728"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An isosceles trapezoid has bases of lengths 16 and 26 and legs each of length 13. What is the area of the trapezoid?",
+    "answer": "252"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 1000-kilogram car is driving in a circle of radius 25 meters. If the car's tangential velocity is 10 meters per second, then in newtons, what is the centripetal force acting on the car?",
+    "answer": "4000"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 2-microhenry inductor is connected in series with a 4-kiloohm resistor and a 12-volt battery. A switch is flipped, breaking the previous circuit and connecting the inductor to a different circuit in series with a 20-kiloohm resistor. In volts, what is the potential difference across this resistor immediately after the switch is flipped?",
+    "answer": "60"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals would least likely be found in a pegmatite?",
+    "choices": {
+      "W": "Fluorite",
+      "X": "Muscovite",
+      "Y": "Kyanite",
+      "Z": "Orthoclase"
+    },
+    "answer": "KYANITE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three conditions that are associated with El Niño: 1) Droughts in Peru; 2) Reduced fishing yields off coasts in Peru; 3) Intensification of the equatorial countercurrent.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab are developing the Dark Energy Spectroscopic Instrument, which generates spectrographs of galaxies that are used to measure their redshift. After recessional velocity is calculated from redshift, which fundamental relation can be applied to calculate the distance to the galaxy?",
+    "answer": "HUBBLE'S LAW"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Argonne National Lab are analyzing SARS-CoV-2 using the Advanced Photon Source. Photons in what region of the electromagnetic spectrum were fired at a crystallized form of SARS-CoV-2 in order to determine its structure?",
+    "choices": {
+      "W": "Microwave",
+      "X": "Ultraviolet",
+      "Y": "X-ray",
+      "Z": "Gamma"
+    },
+    "answer": "X-RAY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Paramecia regulate internal osmolarity by which of the following cellular structures?",
+    "choices": {
+      "W": "Cytoprot",
+      "X": "Contractile vacuole",
+      "Y": "Endoplasmic reticulum",
+      "Z": "Vestibulum"
+    },
+    "answer": "CONTRACTILE VACUOLE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Fetal hemoglobin has a higher affinity to Oxygen because it cannot bind to what specific molecule?",
+    "answer": "2,3- BISPHOSPHOLYCERATE (ACCEPT: 2,3- BPG)"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Michael can paint a room in 2 minutes and Jennifer can paint the same room in 3 minutes. How many minutes will it take them to paint the room if they work together?",
+    "answer": "1.2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A rectangular prism has faces of areas 24, 28, and 42. What is the volume of the rectangular prism?",
+    "answer": "168"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "GRACE is a pair of twin satellites that provides crucial oceanographic data, used to approximate ocean bottom pressure and map deep ocean currents. Which of the following does GRACE likely measure?",
+    "choices": {
+      "W": "Gravity anomalies",
+      "X": "Sea surface reflectivity",
+      "Y": "Sea surface temperature",
+      "Z": "Atmospheric pressure"
+    },
+    "answer": "GRAVITY ANOMALIES"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three stages of mid-latitude cyclogenesis in chronological order: 1) Occluded front forms; 2) The cold front chases the warm front cyclonically; 3) Frontal wave forms.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What quantity is used in chemistry to measure the relative concentrations of products and reactants at any given point in time?",
+    "answer": "REACTION QUOTIENT (DO NOT ACCEPT: EQUILIBRIUM CONSTANT)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "To the nearest tenth and in degrees Celsius, what is the freezing point of a 2 molal solution of calcium chloride, assuming the freezing-point constant for water is 1.86 degrees Celsius per molal?",
+    "answer": "-3.7"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How much more work, in joules, is required to accelerate a 5-kilogram object from 10 meters per second to 20 meters per second than is required to accelerate the same object from rest to 10 meters per second?",
+    "answer": "1000"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 4-meter long rod of diameter 1 meter starts rotating around its center with an angular velocity of 3 radians per second. If the new stretched length of the rod is 4.4 meters and the mass of the rod is 200-kilograms, what is the Young's modulus of the rod in terms of $\\i$?",
+    "answer": "144000/\\i"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Princeton Plasma Physics Lab are developing stellarators that use neodymium magnets as a replacement for electromagnets. Which of the following is not a benefit of using neodymium magnets?",
+    "choices": {
+      "W": "Lower manufacturing cost",
+      "X": "Simpler coils to facilitate maintenance",
+      "Y": "Lower residual magnetization than electromagnets",
+      "Z": "No electric current is needed"
+    },
+    "answer": "LOWER REMANENCE THAN ELECTROMAGNETS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Sandia National Lab have designed a new type of portable gas sensor that detects airborne toxins. The sensor separates a sample of air through gas chromatography. Identify all of the following three species that are appropriate mobile phases for gas chromatography: 1) Water; 2) Helium; 3) Diethyl ether.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Two vectors, A and B, have magnitudes of 7 and 10, respectively. If the angle between A and B is 120 degrees, which of the following is the dot product of A and B?",
+    "choices": {
+      "W": "-35 times the square root of 3",
+      "X": "-35",
+      "Y": "35",
+      "Z": "35 times the square root of 3"
+    },
+    "answer": "-35"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the average value of the function $f(x) = \\in (x)$ on the interval from $x = 0$ to $x = \\i$?",
+    "answer": "2 / \\i"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The endosperms of angiosperms are triploid due to what complex fertilization mechanism?",
+    "answer": "DOUBLE FERTILIZATION"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Rank the following three root tissues from innermost to outermost: 1) Protoderm; 2) Ground meristem; 3) Procambium.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the interior heat transfer of a 2.5-solar mass main sequence star?",
+    "choices": {
+      "W": "Completely convective",
+      "X": "Completely radiative",
+      "Y": "Radiative core, convective shell",
+      "Z": "Convective core, radiative shell"
+    },
+    "answer": "CONVECTIVE CORE, RADIATIVE SHELL"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cloud types is most likely to generate a tornado?",
+    "choices": {
+      "W": "Nimbostratus",
+      "X": "Cirrocumulus",
+      "Y": "Stratocumulus",
+      "Z": "Cumulonimbus"
+    },
+    "answer": "CUMULONIMBUS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Bomb calorimeters are used by chemists to determine the energy change during a heat transfer. Which of the following quantities must remain constant inside the bomb calorimeter for the heat transfer to be equal to the change in internal energy?",
+    "choices": {
+      "W": "Pressure",
+      "X": "Volume",
+      "Y": "Temperature",
+      "Z": "Entropy"
+    },
+    "answer": "VOLUME"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the frequency, in Rydbergs, of a photon released when an electron in a hydrogen atom falls from the second excited state to the ground state?",
+    "answer": "8/9"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "According to general relativity, two masses orbiting each other will eventually spiral in as they lose energy in what form?",
+    "answer": "GRAVITATIONAL WAVES (DO NOT ACCEPT: GRAVITY WAVES)"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The translational kinetic energy of a molecule of nitrogen gas is 48 millielectron volts. In millielectron volts, what is the expected value of its rotational kinetic energy?",
+    "answer": "32"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the product of the complex number $5 + 12i$ and its complex conjugate?",
+    "answer": "169"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For what positive integers $a$ is it true that $(a - 8)$ divides $a$?",
+    "answer": "4, 6, 7, 9, 10, 12, 16"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the width of a nuclear pore?",
+    "choices": {
+      "W": "100 femtometers",
+      "X": "100 picometers",
+      "Y": "100 nanometers",
+      "Z": "100 micrometers"
+    },
+    "answer": "100 NANOMETERS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What tissue of cells touching the afferent arteriole releases renin in response to a decrease in blood pressure?",
+    "answer": "JUXTAGLOMERULAR APPARATUS (ACCEPT: JGA, GRANULAR CELLS, JG CELLS)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab have recently used ptychography [tie-KAW-gruh-fee] in order to sort and identify chromosomes. What is the name for the ordinary method of photographing, sorting, and identifying chromosomes?",
+    "answer": "KARYOTYPING"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are seeking new ways to store hydrogen as a potential fuel source. Rank the following three hydrogen storage methods from least to greatest hydrogen density: 1) Hydrogen adsorption onto a solid; 2) Hydrogen chemically incorporated in a solid; 3) Hydrogen in the interstitial spaces of a solid.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What adjective is used to describe liquids that exist below their freezing point?",
+    "answer": "SUPERCOOLED (DO NOT ACCEPT: SUPERFLUID)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reactions is nonspontaneous under standard conditions?",
+    "choices": {
+      "W": "Electrolysis of sulfuric acid solution",
+      "X": "Combustion of methane",
+      "Y": "Neutralization of hydrochloric acid with sodium hydroxide",
+      "Z": "Precipitation of barium sulfate"
+    },
+    "answer": "ELECTROLYSIS OF SULFURIC ACID SOLUTION"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Kirkwood gaps in the asteroid belt are caused by orbital resonance with what planet?",
+    "answer": "JUPITER"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following orbital shapes occurs when the velocity at every point of the orbit is equal to the escape velocity at that point?",
+    "choices": {
+      "W": "Circular",
+      "X": "Cubic",
+      "Y": "Exponential"
+    },
+    "answer": "PARABOLIC"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 4-kilogram point mass is being swung around in a circle of radius 3 meters. If the angular frequency of rotation is 2 radians per second, what is the angular momentum of the mass in kilogram meters squared per second?",
+    "answer": "72"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes the relationship between electric field and radius from the center of a uniformly charged, insulating sphere?",
+    "choices": {
+      "W": "Linear",
+      "X": "Cubic",
+      "Y": "Exponential"
+    },
+    "answer": "LINEAR"
+  }
+]

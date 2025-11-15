@@ -1,0 +1,466 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true regarding electrolytic cells?",
+    "choices": {
+      "W": "The anode is the site of oxidation and is labeled positive",
+      "X": "The anode is the site of oxidation and is labeled negative",
+      "Y": "The cathode is the site of oxidation and is labeled positive",
+      "Z": "The cathode is the site of oxidation and is labeled negative"
+    },
+    "answer": "W) THE ANODE IS THE SITE OF OXIDATION AND IS LABELED POSITIVE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the pKa of hydrofluoric acid is3.1, what is the pH, to one decimal place, of a solution made by adding100 milliliters of3 molar sodium hydroxide to a110-milliliter solution of3 molar hydrofluoric acid?",
+    "answer": "4.1"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "According to the Rational Root Theorem, which of the following polynomials could have $x =5$ as a root?",
+    "choices": {
+      "W": "$x^{2} +5x +6$",
+      "X": "$2x^{2} +9x -15$",
+      "Y": "$5x^{2} -12x -13$",
+      "Z": "$5x^{2} +12x +12$"
+    },
+    "answer": "X) $2x^{2} +9x -15$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A fair coin is flipped9 times. What is the probability that the number of tails is a multiple of3?",
+    "answer": "85/256"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following magnifications cannot be produced using a single converging lens?",
+    "choices": {
+      "W": "1/2",
+      "X": "$-1 /2$",
+      "Y": "2",
+      "Z": "$-2$"
+    },
+    "answer": "W)1/2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following does not increase when a dielectric is added between the plates of a capacitor that is connected to a voltage source?",
+    "choices": {
+      "W": "Charge on the plates",
+      "X": "Electric field",
+      "Y": "Energy stored",
+      "Z": "Capacitance"
+    },
+    "answer": "X) ELECTRIC FIELD"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "For a population in Hardy-Weinburg equilibrium, if $10\\$ of males display symptoms of an X-linked recessive disease, what percent of females are expected to be affected by the disease?",
+    "choices": {
+      "W": "$1\\$",
+      "X": "$5\\$",
+      "Y": "$10\\$",
+      "Z": "$20\\$"
+    },
+    "answer": "W) $1\\$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the small opening of an ovule through which the pollen tube deposits sperm for fertilization?",
+    "answer": "MICROPYLE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "An inland sea actively builds layers of sedimentary rock until the sea level drops and an erosion surface forms. After twenty million years, the inland sea forms again and begins forming new sedimentary rock. What type of unconformity has formed?",
+    "answer": "DISCONFORMITY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three locations in the Earth's interior where the geotherm intersects the solidus curve:1) Lithosphere-asthenosphere boundary;2) Core-mantle boundary;3) Inner-core-outer-core boundary",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Brookhaven National Laboratory have successfully grown crystals of a lanthanum barium copper oxygen system, a high-temperature superconductor. What transition metal is the most popular alternative to lanthanum in making high-temperature superconductors with barium, copper, and oxygen?",
+    "answer": "YTTRIUM"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab used the Linac Coherent Light Source to examine the structure of metalloporphyrins after being excited by a laser. The metal center in a metalloporphyrin is coordinated to four atoms of what element?",
+    "answer": "NITROGEN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The interstitial cells of Leydig, found adjacent to the seminiferous tubules in the testicle, produce what steroid in response to stimulation from luteinizing hormone?",
+    "answer": "TESTOSTERONE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not physiologically formed from tryptophan?",
+    "choices": {
+      "W": "Serotonin",
+      "X": "Auxin",
+      "Y": "Melanin",
+      "Z": "Niacin"
+    },
+    "answer": "Y) MELANIN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Jeremy wants to see if a prep book really increases test scores. He decides to perform a significance test with an alpha value of0.05. The p-value for his data was0.03. Which of the following conclusions is correct?",
+    "choices": {
+      "W": "The null hypothesis should be rejected and the prep book does not increase test scores",
+      "X": "The null hypothesis should be rejected and the prep book does increase test scores",
+      "Y": "The null hypothesis should not be rejected and the prep book does not increase test scores",
+      "Z": "The null hypothesis should not be rejected and the prep book does increase test scores"
+    },
+    "answer": "X) THE NULL HYPOTHESIS SHOULD BE REJECTED AND THE PREP BOOK DOES INCREASE TEST SCORES"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the fraction with numerator $3 +4i$ and denominator $5 +12i$ in standard a + bi form?",
+    "answer": "63/169 –16i/169"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would have the largest retention factor in a thin layer chromatography experiment where the mobile phase is hexane and the stationary phase is silica gel?",
+    "choices": {
+      "W": "Water",
+      "X": "Benzene",
+      "Y": "Acetone",
+      "Z": "Diethyl ether"
+    },
+    "answer": "X) BENZENE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What theorem in thermodynamics states that kinetic energy is distributed evenly among rotational and translational modes?",
+    "answer": "EQUIPARTITION THEOREM"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements regarding stellar populations that are true:1) Globular clusters contain old, metal-rich Population II stars;2) The galactic disk of spiral galaxies typically contains more Population I stars than Population II stars;3) The metallicity of Population II stars is much greater than that of Population I stars.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What theory describes the quasistatic spiral structure of spiral galaxies, by proposing that stars orbit at different speeds depending on their distance from the galactic center?",
+    "answer": "DENSITY WAVE THEORY (ACCEPT: LIN-SHU DENSITY WAVE THEORY)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What circuit component is used for tuning frequency-dependent equipment?",
+    "choices": {
+      "W": "Variable resistor",
+      "X": "Variable capacitor",
+      "Y": "Schottky diode",
+      "Z": "Transformer"
+    },
+    "answer": "X) VARIABLE CAPACITOR"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How many times as energetic is a photon emitted from an electron falling from principal energy level $n =4$ to $n =1$ in a hydrogen atom when compared to one emitted from an electron falling from energy level $n =3$ to $n =1$ ?",
+    "answer": "135/128"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Lab are measuring the weak nuclear force between nucleons. Identify all of the following three statements regarding the weak force that are true:1) It can mediate flavor changes in quarks;2) It violates CPT symmetry;3) It is mediated by the W and Z bosons.",
+    "answer": "1 AND3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are studying how the pathological biochemical process leading to brain hypoxia can be redirected to induce biosynthesis of gold nanoparticles. What physiological condition is traditionally the main consequence of brain hypoxia?",
+    "answer": "STROKE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A sample of water ice at $-30$ degrees Celsius is heated to the gaseous phase while the temperature of the sample is plotted against the heat supplied to the sample. At0 degrees Celsius and100 degrees Celsius, the heating curve is flat. However, the flat region at100 degrees Celsius is much wider than that at0 degrees Celsius. Which of the following best accounts for this phenomenon?",
+    "choices": {
+      "W": "Liquid water has a greater specific heat capacity than ice",
+      "X": "Liquid water has a greater specific heat capacity than water vapor",
+      "Y": "The heat of fusion for water is greater than the heat of vaporization",
+      "Z": "The heat of vaporization for water is greater than the heat of fusion"
+    },
+    "answer": "Z) THE HEAT OF VAPORIZATION FOR WATER IS GREATER THAN THE HEAT OF FUSION"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Quantum dots can be described as analogs to which of the following?",
+    "choices": {
+      "W": "Three dimensional potential wells",
+      "X": "Simple harmonic oscillators",
+      "Y": "Quantum harmonic oscillators",
+      "Z": "P-n junctions"
+    },
+    "answer": "W) THREE DIMENSIONAL POTENTIAL WELLS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids is most easily identifiable by its absorption spectrum under exposure to UV light?",
+    "choices": {
+      "W": "Glycine",
+      "X": "Alanine",
+      "Y": "Serine",
+      "Z": "Tryptophan"
+    },
+    "answer": "Z) TRYPTOPHAN"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the mechanism by which an action potential propagates along a myelinated axon by hopping from one node of Ranvier to the next?",
+    "answer": "SALTATORY CONDUCTION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why observing stars in the galactic bulge is easier with infrared light than visible light?",
+    "choices": {
+      "W": "Blue light is scattered more easily than red light in the interstellar medium",
+      "X": "Red light is scattered more easily than blue light in the interstellar medium",
+      "Y": "Stars in the galactic bulge have peak wavelength emission at around $900\\athrm{nm}$",
+      "Z": "Most stars in the galactic bulge are protostars that are best seen through infrared light"
+    },
+    "answer": "W) BLUE LIGHT IS SCATTERED MORE EASILY THAN RED LIGHT IN THE INTERSTELLAR MEDIUM"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What are porphyroblasts that contain inclusions of smaller minerals?",
+    "answer": "POIKILOBLASTS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A solenoid is made by wrapping a coil of wire in a helical shape many times around a cylinder. When a certain current is passed through the coil, a magnetic field of strength B is formed. If, while all other variables are kept constant, the same amount of wire was wrapped around a cylinder half as long, what would be the strength of the new magnetic field in terms of B?",
+    "answer": "2B"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The motion of a block on a spring can be modeled by the equation $x(t) =3$ times the sine of the quantity $2t + \\i /6$ . If the mass of the block is5 kilograms, what is the spring's spring constant in newtons per meter?",
+    "answer": "20"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the derivative with respect to $x$ of $f(x) = \\os \\athrm{ine} x$ tangent $x?$",
+    "answer": "COSINE $x$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the radius of the circle inscribed in a triangle with side lengths of8,9, and9?",
+    "answer": "4 SQUARE ROOT65 OVER13"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Heterogeneous alloys often possess a distinct melting point that is lower than either of the starting materials at a certain relative component composition. What is the name for this type of mixture?",
+    "answer": "EUTECTIC"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is an intensive property?",
+    "choices": {
+      "W": "Enthalpy",
+      "X": "Gibbs free energy",
+      "Y": "Heat capacity",
+      "Z": "Standard reduction potential"
+    },
+    "answer": "Z) STANDARD REDUCTION POTENTIAL"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What portion of the brain contains the group of neurons responsible for controlling involuntary breathing?",
+    "choices": {
+      "W": "Medulla Oblongata",
+      "X": "Hypothalamus",
+      "Y": "Forebrain",
+      "Z": "Pons"
+    },
+    "answer": "W) MEDULLA OBLONGATA"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Skeletal muscle triads are composed of what organelle on either side of a T-tubule?",
+    "answer": "SARCOPLASMIC RETICULUM (ACCEPT: TERMINAL CISTERNAE, ENDOPLASMIC RETICULUM)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Laboratory have discovered a novel method of stopping cancer cells from spreading and developing secondary tumors far away from the original tumor. What is the name for this propagation of cancer cells?",
+    "answer": "METASTASIS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Laboratory are attempting to reach new levels of efficiency for hydrogen fusion inside a metal fusion reactor. Because fusion requires extremely high temperatures, what metallic element with the highest melting point should the inner wall of the fusion reactor be made out of?",
+    "answer": "TUNGSTEN"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two metal spheres with integer radii are melted down and recast into a larger sphere. What theorem states that this sphere will not have an integer radius?",
+    "answer": "FERMAT'S LAST THEOREM"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Simplify the following trigonometric expression: sine15 cosine15 tangent15 plus sine75 cosine75 tangent75",
+    "answer": "1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Light is traveling from air into sapphire with an index of refraction of1.76. At what angle will the reflected ray be maximally polarized?",
+    "choices": {
+      "W": "30 degrees",
+      "X": "45 degrees",
+      "Y": "50 degrees",
+      "Z": "60 degrees"
+    },
+    "answer": "Z)60 DEGREES"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A3-kilogram object traveling at8 meters per second collides perfectly elastically with a12-kilogram object initially at rest. At the same time, a constant force of6 newtons starts to be applied to the3-kilogram object in the direction of its previous velocity. How much time, in seconds, elapses from the initial collision to their next collision?",
+    "answer": "8 SECONDS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Pingos and polygon wedge ice are examples of what structures that form due to freeze-thaw cycles of permafrost?",
+    "answer": "PERIGLACIAL LANDFORMS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A star with radius R, luminosity L, and flux density F, suddenly shrinks to one-half R. Assuming temperature stays constant, what is the new luminosity and flux density of the star in terms of L and F, respectively?",
+    "answer": "NEW LUMINOSITY IS $L /4$ , FLUX DENSITY STAYS AS $F$"
+  }
+]

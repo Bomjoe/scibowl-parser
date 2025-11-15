@@ -1,0 +1,418 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Calcium carbide reacts with water to form calcium hydroxide and what gas?",
+    "answer": "ACETYLENE (ACCEPT: ETHYNE; $\\athrm{C_2H_2}$)"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An alkyne is treated with sodium metal in a solution of liquid ammonia. Which of the following products is most likely to form?",
+    "choices": {
+      "W": "Alkane",
+      "X": "Alcohol",
+      "Y": "Cis-alkene",
+      "Z": "Trans-alkene"
+    },
+    "answer": "Z) TRANS-ALKENE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A 1000-kilogram car is traveling on a frictionless road at 20 meters per second to the right when it collides perfectly inelastically with a 2000-kilogram truck traveling 30 meters per second to the left. Which of the following statements is true regarding the collision?",
+    "choices": {
+      "W": "Only momentum was conserved",
+      "X": "Only kinetic energy was conserved",
+      "Y": "Both kinetic energy and momentum were conserved",
+      "Z": "Neither momentum nor kinetic energy were conserved"
+    },
+    "answer": "W) ONLY MOMENTUM WAS CONSERVED"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three changes that would increase the period of a pendulum’s swing: 1) Increasing the length of the string; 2) Decreasing the mass of the bob; 3) Releasing the pendulum from a higher point.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Adenylyl cyclase is an integral membrane protein activated by G-proteins to catalyze the formation of what molecule?",
+    "answer": "cAMP (ACCEPT: CYCLIC AMP)$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three cells types that are considered leukocytes: 1) Macrophages; 2) Lymphocytes; 3) Erythrocytes.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the $x$ -intercept of the line with equation $3y - 2x = 8$ ?",
+    "answer": "(- 4, 0)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the volume in of a right circular cone with a diameter of 6 and a slant height of 5?",
+    "answer": "$12\\i$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following locations could be a site of intraplate volcanism?",
+    "choices": {
+      "W": "Yellowstone",
+      "X": "Hawaii",
+      "Y": "East African rift",
+      "Z": "Andes Mountains"
+    },
+    "answer": "W) YELLOWSTONE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the region on an H-R diagram where Cepheid and other variable stars are located due to their tendency to pulsate?",
+    "answer": "INSTABILITY STRIP"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is FALSE regarding black bodies?",
+    "choices": {
+      "W": "The energy of radiation emitted by a black body is quantized",
+      "X": "All black bodies preferentially absorb low-wavelength radiation",
+      "Y": "The intensity of radiation emitted from a black body is proportional to the fourth power of its temperature",
+      "Z": "Increasing the temperature of a black body shifts its maximum intensity to lower wavelengths"
+    },
+    "answer": "X) ALL BLACK BODIES PREFERENTIALLY ABSORB LOW- WAVELENGTH RADIATION"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Both $\\athrm{AlCl}_3$ and $\\athrm{ICl}_3$ dimerize to form $\\athrm{Al}_2\\athrm{Cl}_6$ and $\\athrm{I}_2\\athrm{Cl}_6$ , respectively. Identify all of the following three ways in which these latter structures differ: 1) Hybridization of central atoms; 2) Geometry of molecule; 3) Connectivity of atoms.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $f(x) = 3x^{2} - 2x + 5$ , what is $f$ prime of 3?",
+    "answer": "16"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A fair coin is flipped five times. What is the probability that it does not land on heads once after all five tosses?",
+    "answer": "1/32"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What is the name given to the tall vertical root found in vascular plants that is responsible for anchoring plants in the soil?",
+    "choices": {
+      "W": "Primary root",
+      "X": "Lateral root",
+      "Y": "Rhizome",
+      "Z": "Taproot"
+    },
+    "answer": "Z) TAPROOT"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three features that appear at some stage during the embryonic development of all chordates: 1) Dorsal nerve cord; 2) Post-anal tail; 3) Vertebral column.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "When high-energy particles from the solar wind hit the Earth’s atmosphere, they can become captured by the Earth’s magnetic field. This results in the formation of what zones?",
+    "answer": "VAN ALLEN BELTS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "When moist air has an environmental lapse rate between 5 and 10 degrees Celsius per 1,000 meters, it is said to exhibit which of the following?",
+    "choices": {
+      "W": "Absolute stability",
+      "X": "Absolute instability",
+      "Y": "Conditional instability",
+      "Z": "Temperature inversion"
+    },
+    "answer": "Y) CONDITIONAL INSTABILITY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What quantity is defined as the measure of how resistant to compression a substance is?",
+    "choices": {
+      "W": "Young’s modulus",
+      "X": "Bulk modulus",
+      "Y": "Shear modulus",
+      "Z": "Reynold’s number"
+    },
+    "answer": "X) BULK MODULUS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What thermodynamic state function is defined as the maximum useful work that can be obtained from a system under conditions of constant temperature and volume?",
+    "answer": "HELMHOLTZ FREE ENERGY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following are homologous genes resulting from gene duplication?",
+    "choices": {
+      "W": "Paralogous genes",
+      "X": "Orthologous genes",
+      "Y": "Divergent genes",
+      "Z": "Xenologous genes"
+    },
+    "answer": "W) PARALOGOUS GENES"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of cell junctions that are present in animal cells: 1) Desmosomes; 2) Gap junctions; 3) Plasmodesmata.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the time constant, in seconds, of an RC circuit consisting of two 3-ohm resistors in series with a 6-millifarad capacitor?",
+    "answer": "0.036"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Spin magnetic dipole moments of electrons are roughly equal to what physical constant?",
+    "answer": "BOHR MAGNETON"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following bonds has the smallest bond dissociation energy?",
+    "choices": {
+      "W": "H-F",
+      "X": "H-Cl",
+      "Y": "H-Br",
+      "Z": "H-I"
+    },
+    "answer": "Z) H-I"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the change in the oxidation number of manganese when it is reduced to $\\athrm{Mn}^{2 + }$ from permanganate in acidic solution?",
+    "answer": "- 5"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many points of intersection are there between the curves of $y = x^2$ and $y = e$ to the $x^2$",
+    "answer": "1"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The radius of a sphere is increased by a factor of 3. If the surface area of the new sphere is now $108\\i$, what was the original volume of the sphere?",
+    "answer": "36$\\i$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Danish geologist Nicolaus Steno is credited with recognizing that the oldest strata form at the bottom of a sequence of sedimentary rocks. What is the name given to his discovery?",
+    "choices": {
+      "W": "Principle of original horizontality",
+      "X": "Principle of cross-cutting relationships",
+      "Y": "Law of superposition",
+      "Z": "Law of disconformity"
+    },
+    "answer": "Y) LAW OF SUPERPOSITION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Main-sequence stars with masses greater than 1.1 times that of our Sun possess a high enough temperature to fuse hydrogen into helium using what process?",
+    "answer": "CNO CYCLE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three functional groups in order of increasing pKa: 1) Carboxylic acid; 2) Ketone; 3) Alcohol.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true regarding azeotropes?",
+    "choices": {
+      "W": "Positive azeotropes boil at lower temperatures than either of their constituents",
+      "X": "Positive azeotropes result from more favorable intermolecular interactions",
+      "Y": "Azeotropes can be separated using fractional distillation",
+      "Z": "A 96% ethanol and 4% water solution forms a negative azeotrope"
+    },
+    "answer": "W) POSITIVE AZEOTROPES BOIL AT LOWER TEMPERATURES THAN EITHER OF THEIR CONSTITUENTS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three waves that are considered longitudinal: 1) Electromagnetic waves; 2) Sound waves; 3) Seismic P-waves.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Regions in a crystal where the alignment of atomic dipoles is uniform are called which of the following?",
+    "choices": {
+      "W": "Magnetic zones",
+      "X": "Magnetic domains",
+      "Y": "Curie regions",
+      "Z": "Gaussian belts"
+    },
+    "answer": "X) MAGNETIC DOMAINS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of microscopy uses ultra-thin specimens to study the internal structure of cells?",
+    "choices": {
+      "W": "Scanning electron microscopy",
+      "X": "Transmission electron microscopy",
+      "Y": "Fluorescence microscopy",
+      "Z": "Super-resolution microscopy"
+    },
+    "answer": "X) TRANSMISSION ELECTRON MICROSCOPY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Sickle cell disease is caused when a single glutamic acid in hemoglobin is substituted by which of the following?",
+    "choices": {
+      "W": "Lysine",
+      "X": "Aspartic acid",
+      "Y": "Valine",
+      "Z": "Glycine"
+    },
+    "answer": "Y) VALINE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the greatest prime factor of 140?",
+    "answer": "7"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the magnitude of the vector $-2i + 5j + k$ ?",
+    "answer": "$\\qrt{30}$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Assuming all other properties remain constant, when the radius of a star is halved, its total luminosity decreases by which of the following factors?",
+    "choices": {
+      "W": "2",
+      "X": "4",
+      "Y": "8",
+      "Z": "16"
+    },
+    "answer": "W) 4"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A magnitude 4.6 earthquake releases approximately how much more energy than a magnitude 2.6 earthquake?",
+    "choices": {
+      "W": "30",
+      "X": "130",
+      "Y": "510",
+      "Z": "1000"
+    },
+    "answer": "Z) 1000"
+  }
+]

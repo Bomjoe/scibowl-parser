@@ -1,0 +1,484 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What principle states that no two electrons can have the same set of quantum numbers?",
+    "answer": "PAULI EXCLUSION PRINCIPLE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following sets of quantum numbers would not be possible for an electron in a ground-state atom of Germanium, with atomic number32?",
+    "choices": {
+      "W": "n =4, l =1, ml =0, ms = +1/2",
+      "X": "n =3, l =2, ml =2, ms = -1/2",
+      "Y": "n =4, l =2, ml = -1, ms = +1/2",
+      "Z": "n =3, l =0, ml =0, ms = -1/2"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If Kathy throws a ball from the ground at a velocity of $10 \\athrm{~m} / \\athrm{s}$ at a50 degree angle, how fast will the ball be going when it hits the ground, in meters per second?",
+    "choices": {
+      "W": "10 sin50",
+      "X": "10 cos50",
+      "Y": "10",
+      "Z": "12"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the term for a force which does0 net work on any object that moves in any closed loop?",
+    "answer": "CONSERVATIVE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A rectangular prism has side lengths4,5, and6. What is the length of the space diagonal of the rectangular prism?",
+    "answer": "$\\qrt{77}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The volume of a rectangular prism with integer side lengths is70. What is the maximum surface area of the rectangular prism?",
+    "answer": "282"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the most abundant ion in seawater?",
+    "choices": {
+      "W": "Chloride",
+      "X": "Calcium",
+      "Y": "Sodium",
+      "Z": "Magnesium"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following four ocean zones by depth from highest to lowest:1) Bathypelagic;2) Mesopelagic;3) Abyssopelagic;4) Hadopelagic.",
+    "answer": "2,1,3,4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Laboratory are studying the membranes of certain organelles found in plants. What plant organelle stores fats in tissues of germinating seeds and is a modified peroxisome?",
+    "answer": "GLYOXYSOME"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Los Alamos National Lab are taking a deeper look into the plasma membrane by studying receptors. Which of the following terms most accurately describes the signalling mechanism used by allergen responses?",
+    "choices": {
+      "W": "Autocrine",
+      "X": "Paracrine",
+      "Y": "Juxtacrine",
+      "Z": "Pericrine"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What enzyme do most pesticides target?",
+    "answer": "ACETYLCHOLINESTERASE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following3 amino acids that are essential:1) Tyrosine;2) Serine;3) Alanine.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Al2O3 is an example of which of the following?",
+    "choices": {
+      "W": "Acidic oxide",
+      "X": "Basic oxide",
+      "Y": "Neutral oxide",
+      "Z": "Amphoteric oxide"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Indium oxide has formula In2O3, while thallium oxide has formula Tl2O. What phenomenon does this demonstrate?",
+    "answer": "INERT-PAIR EFFECT"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a particle has position $\\athrm{x(t) =12cos(t) -3sin(t)}$, then what is its instantaneous acceleration at time $\\i /2$?",
+    "answer": "3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a particle moving in one dimension has position0 at time $\\athrm{t} =0$, and velocity0 at time $\\athrm{t} =0$, and the particle's acceleration is never greater than1, what is the greatest possible position the particle can achieve at time $\\athrm{t} =1$?",
+    "answer": "1/2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate $69^{2} -31^{2}$.",
+    "answer": "3800"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate $(1 + \\qrt{2})^{3} + (1 - \\qrt{2})^{3}$.",
+    "answer": "14"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Argonne National Laboratory are researching how to make more efficient batteries. In a lithium-ion battery, what element serves as the anode?",
+    "choices": {
+      "W": "Lithium",
+      "X": "Cobalt",
+      "Y": "Carbon",
+      "Z": "Zinc"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Argonne National Laboratory are researching how to make more efficient batteries. In a standard copper-zinc voltaic cell, what is the effect of increasing the size of the copper anode on electric potential?",
+    "choices": {
+      "W": "Voltage increases",
+      "X": "Voltage decreases, but not to zero",
+      "Y": "Voltage decreases to zero",
+      "Z": "No change"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the largest moon in the Solar System?",
+    "answer": "GANYMEDE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Ganymede, Europa, and Io are in1 to2 to4 orbital resonance around Jupiter. For each Europa-Ganymede conjunction, how many Io-Ganymede conjunctions are there?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a common pioneer species?",
+    "choices": {
+      "W": "Protists",
+      "X": "Fungi",
+      "Y": "Lichen",
+      "Z": "Plankton"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A while ago, a certain habitat was struck hard with a forest fire, destroying a huge part of the ecosystem. What stage of succession is the area at if there is an abundance of oak trees?",
+    "choices": {
+      "W": "Secondary succession",
+      "X": "Seral community",
+      "Y": "Cyclic succession",
+      "Z": "Climax community"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following can not be derived from the combined gas law?",
+    "choices": {
+      "W": "Avogadro's Law",
+      "X": "Boyle's Law",
+      "Y": "Charles' Law",
+      "Z": "Gay-Lussac's Law"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "An infinitely stretchable helium balloon with pressure1 atmosphere and temperature300 Kelvins floats up into the sky, where external atmospheric pressure decreases linearly by0.1 atmospheres every50 kilometers above the earth's surface. Simultaneously, temperature decreases linearly by1 degree celsius every kilometer. To the nearest kilometer, how high must the balloon be for its volume to be half its original volume on the surface?",
+    "answer": "9"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Sophia has5 fangs on a table,1 green,1 blue,1 red, and2 purple. How many different ways can she put them in a line on the table if the only thing she cares about is the color of the fangs?",
+    "choices": {
+      "W": "20",
+      "X": "30",
+      "Y": "60",
+      "Z": "120"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "I roll an unfair die labeled from1 to6, with the probability of rolling a face proportional to the number on the face. What is the expected value of my roll?",
+    "answer": "91/21"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A $5\\athrm{kg}$ ball is motionless at the top of a245 meter hill. Assuming the acceleration due to gravity to be10 meters per second squared, if the ball rolls down the hill, in meters per second, what will be its velocity at the bottom of the hill?",
+    "answer": "70"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "2 boxes are sliding on a frictionless surface towards each other. The first box has mass10 and is sliding at $1\\athrm{m / s}$, and the second box has mass1 and is sliding at $12\\athrm{m / s}$. They collide completely inelastically. After the impact, how fast will the second box be moving, in meters per second?",
+    "answer": "2/11"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the series that follows the same pattern, but is not the same as the Goldich Dissolution Series used to describe why certain minerals are commonly found together while exploring why other possibilities are rare?",
+    "answer": "BOWEN'S REACTION SERIES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the boundary between the Earth's crust and mantle?",
+    "answer": "MOHOROVICIC DISCONTINUITY"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Name the three kinds of plant ground tissue cells in order of decreasing cell wall thickness.",
+    "answer": "SCLERENCHYMA, COLLENCHYMA, PARENCHYMA"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true about hepatophyta?",
+    "choices": {
+      "W": "They have a dominant diploid gametophyte lifestyle",
+      "X": "They have a dominant diploid sporophyte lifestyle",
+      "Y": "They have a dominant haploid gametophyte lifestyle",
+      "Z": "They have a dominant haploid sporophyte lifestyle"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Berkeley National Lab are studying how to use water at different temperatures to transfer energy. In one cycle in a Carnot cycle, which of the following quantities is positive?",
+    "choices": {
+      "W": "Change in entropy",
+      "X": "Work",
+      "Y": "Change in internal energy",
+      "Z": "Heat"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab are studying how to use water at different temperatures to transfer energy. In a Carnot engine with an efficiency of $50\\$ and a heat of250J over the high temperature isothermal path, what is the total useful work done in one cycle?",
+    "answer": "125J"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What are the units of the rate constant for a third-order reaction?",
+    "choices": {
+      "W": "Molarity over seconds",
+      "X": "1 over seconds",
+      "Y": "1 over molarity seconds",
+      "Z": "1 over molarity squared seconds"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The half-life of a2nd order reaction is T for an initial concentration of reactant C. Which of the following represents the half-life of the same reaction with initial concentration C/2?",
+    "choices": {
+      "W": "T/4",
+      "X": "T/2",
+      "Y": "2T",
+      "Z": "4T"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of these statements is true about a cannonball fired straight up at escape velocity, ignoring air resistance?",
+    "choices": {
+      "W": "The cannonball will never reach0 velocity",
+      "X": "The cannonball will eventually experience0 gravitational force exerted by Earth",
+      "Y": "The cannonball will eventually experience0 gravitational field exerted by Earth",
+      "Z": "The cannonball will never reach its original velocity divided by the square root of2"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What fundamental particle is made of2 down quarks and1 up quark?",
+    "answer": "NEUTRON"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the least number n such that in a group of n people, at least4 people must be born in the same month?",
+    "choices": {
+      "W": "4",
+      "X": "5",
+      "Y": "37",
+      "Z": "49"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following4 numbers which cannot be the area of a triangle with two side lengths4 and5:1)6;2)8;3)10;4)12.",
+    "answer": "4 ONLY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the time, in years, between a sunspot minimum and a sunspot maximum?",
+    "choices": {
+      "W": "5",
+      "X": "10",
+      "Y": "15",
+      "Z": "20"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Variation in sunspot location and area are plotted on what diagram?",
+    "answer": "BUTTERFLY DIAGRAM"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In mammals, what neural structure in the hypothalamus regulates circadian rhythm?",
+    "answer": "SUPRACHIASMATIC NUCLEUS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Callosal disconnection syndrome is characterized by the severing or lesioning of what part of the brain?",
+    "answer": "CORPUS CALLOSUM"
+  }
+]

@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "At constant pressure, thermodynamic work is equal to the product of pressure and the change in what quantity?",
+    "answer": "VOLUME"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Rank the following three objects in terms of increasing moment of inertia about their central axis: 1) Rod of mass M and length 2R; 2) Solid cylinder of mass M and radius R; 3) Solid sphere of mass M and radius R.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about the opening of stomata in plants is FALSE?",
+    "choices": {
+      "W": "Abscisic acid induces closure of stomata",
+      "X": "Light stimulates guard cells to become flaccid, opening the stomata",
+      "Y": "CAM plants only open their stomata at night",
+      "Z": "Stomata open in response to depletion of $\\athrm{CO_2}$ in the leaf's air spaces"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Root pressure causes the exudation of water on the tips of leaves. What is this process called?",
+    "answer": "GUTTATION"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The moon is slowly drifting away from the Earth due to what phenomenon, caused by the moon’s gravitational pull on the Earth’s tides?",
+    "answer": "TIDAL BULGE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which star, with an apparent magnitude of 0, is used as the standard reference point for apparent magnitude?",
+    "choices": {
+      "W": "Sun",
+      "X": "Sirius",
+      "Y": "Vega",
+      "Z": "Rigel"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many positive, real values of $x$ satisfy the equation $\\n (10x) + \\n (2x) = \\n (20x^2)$ ?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "Infinitely many"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A drawer contains three blue socks and eight white socks. If you pull two socks out of the drawer independently at random, what is the probability that they are different colors?",
+    "answer": "24/55"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In x-ray crystallography, what law is used to determine the scatter angle in terms of the wavelength of incident light?",
+    "answer": "BRAGG'S LAW"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Water has a freezing point depression constant of $1.9^{\\irc}$ Celsius per molar. What is the freezing point of a 1 liter solution of water that contains 3 moles of sodium chloride?",
+    "answer": "-11.4 \\text{ CELSIUS}"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Lab have created a model to analyze future global climates. In particular, this model focused on the effect of greenhouse gases on seasonal changes in wind direction that typically provide consistent reliable rainfall each year. What term describes these seasonal shifts in wind direction?",
+    "answer": "MONSOONS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Lab have discovered a methanogen that can convert mercury into methylmercury, a toxic compound that is more easily taken up by fish and other wildlife. Methanogens are prominent members of what domain of life?",
+    "answer": "ARCHAEA"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 20-kilogram block is launched from the ground at an angle of $45^{\\irc}$ at a speed of 10 meters per second. What is the speed of the block when it reaches its highest point?",
+    "answer": "$5\\qrt{2}$ \\text{ METERS PER SECOND}"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three particles that obey the Pauli Exclusion Principle: 1) Neutrino; 2) Photon; 3) Electron.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What is the term for the contraction phase of the cardiac cycle?",
+    "choices": {
+      "W": "Systole",
+      "X": "Diastole",
+      "Y": "Monostole",
+      "Z": "Hyperstole"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes a dormant state, induced by drought, in which an organism becomes almost completely dehydrated and reduces its metabolic activity to an imperceptible level?",
+    "answer": "ANHYDROBIOSIS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The layers of the atmosphere are primarily divided based on which of the following factors?",
+    "choices": {
+      "W": "Altitude",
+      "X": "Temperature",
+      "Y": "Air pressure",
+      "Z": "Composition"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following processes most likely formed the lunar maria?",
+    "choices": {
+      "W": "Drying of ancient oceans",
+      "X": "Asteroid impacts",
+      "Y": "Plate tectonics",
+      "Z": "Volcanic eruptions"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate $11^{2} - 8^{2}$",
+    "answer": "57"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Define the binary operation a\\b = 2a + b. What is the value of $4^{*}(3^{*}2)$?",
+    "answer": "16"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four compounds that are found in diatomic form at standard temperature and pressure: 1) Hydrogen; 2) Helium; 3) Argon; 4) Bromine.",
+    "answer": "1 AND 4"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A compound contains $86\\$ carbon and $14\\$ hydrogen by mass. Which of the following is the empirical formula of the compound?",
+    "choices": {
+      "W": "CH",
+      "X": "$\\athrm{CH}_2$",
+      "Y": "$\\athrm{C}_2\\athrm{H}_3$",
+      "Z": "$\\athrm{CH}_3$"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are researching the infection mechanism of the Zika virus, which is primarily mediated by mosquitoes. What term describes organisms, like mosquitoes, that transmit disease from one animal to another?",
+    "answer": "VECTOR"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Pacific Northwest National Lab found that the removal of ceramides from the membranes of liver cells significantly reduces viral replication in those cells. Ceramides are also found in the myelin sheath of neurons. In what class of macromolecules do ceramides belong?",
+    "choices": {
+      "W": "Proteins",
+      "X": "Carbohydrates",
+      "Y": "Lipids",
+      "Z": "Nucleic acids"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A positively charged plastic rod is brought close to, but does not touch, a neutrally charged pit ball. The pit ball is grounded, and then the rod is removed. What is the final charge of the pit ball?",
+    "choices": {
+      "W": "Positive",
+      "X": "Negative",
+      "Y": "Neutral",
+      "Z": "Cannot be determined"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following does NOT occur at relativistic speeds?",
+    "choices": {
+      "W": "Time dilates",
+      "X": "Length contracts",
+      "Y": "The speed of light remains constant",
+      "Z": "Rest mass increases"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes a single gene that has multiple phenotypic effects?",
+    "answer": "PLEIOTROPIC"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the Hershey–Chase experiment, what element was radioactively labeled in the proteins?",
+    "answer": "SULFUR"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best characterizes the San Andreas fault?",
+    "choices": {
+      "W": "Normal",
+      "X": "Transverse",
+      "Y": "Reverse",
+      "Z": "Convergent"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the area where the northeast and southwest trade winds converge?",
+    "answer": "INTERTROPICAL CONVERGENCE ZONE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a survey of 25 people, 20 people said that they liked dogs, 16 people said that they liked cats, and 12 people said that they liked both dogs and cats. How many people liked neither cats nor dogs?",
+    "answer": "1"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the magnitude of $(1 + 2\\athrm{i})^8$?",
+    "answer": "625"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is FALSE?",
+    "choices": {
+      "W": "The molar solubility of a salt is equal to the concentration of any ion that occurs at a 1:1 ratio with the salt",
+      "X": "Insoluble salts do not dissociate in solution",
+      "Y": "Most salts become more soluble in liquid when temperature is increased",
+      "Z": "The higher the $\\athbf{K}_{\\athrm{sp}}$ for a salt, the more soluble the salt is"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider the endothermic decomposition of dinitrogen pentoxide, $2\\athrm{N}_2\\athrm{O}_5(\\athrm{g})\\eftrightarrow 4\\athrm{NO}_2(\\athrm{g}) + \\athrm{O}_2(\\athrm{g})$. Identify all of the following three changes that would shift the equilibrium of the reaction towards the products: 1) Increasing pressure; 2) Increasing temperature; 3) Adding a catalyst.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the Joint Genome Institute have discovered specialized subsidiary cells that surround stomata in grasses. These cells are adjacent to what kidney-shaped cells that regulate stomatal opening?",
+    "answer": "GUARD CELLS"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab have discovered an iron oxide catalyst for the conversion of carbon dioxide to what toxic triple-bond containing molecule?",
+    "answer": "CARBON MONOXIDE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A parallel-plate capacitor consists of two square plates separated by a thin dielectric. By what factor will the capacitance increase if the side length of both square plates is doubled?",
+    "answer": "4"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following fluid equations is used to calculate the pressure difference between two static fluids due to surface tension?",
+    "choices": {
+      "W": "Young-Laplace",
+      "X": "Archimedes",
+      "Y": "Bernoulli",
+      "Z": "Continuity"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What taxonomic division, which includes mosses and liverworts, encompasses nonvascular plants?",
+    "answer": "BRYOPHYTES"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following four events in the order in which they occur in mitosis: 1) Formation of cleavage furrow; 2) Disappearance of nucleoli; 3) Formation of kinetochores; 4) Separation of sister chromatids.",
+    "answer": "2, 3, 4, 1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What general process, which occurred shortly after the Big Bang, forms heavier nuclei from lighter, pre-existing ones?",
+    "answer": "NUCLEOSYNTHESIS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of spiral galaxy has a well-defined spiral arm structure?",
+    "answer": "GRAND DESIGN"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true about the graph of the equation $y = x^2$ ?",
+    "choices": {
+      "W": "Always increasing",
+      "X": "Intersects the x-axis at exactly one point",
+      "Y": "Intersects the y-axis at exactly two points",
+      "Z": "Has a vertex at (0,1)"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the dot product of the two vectors $2i + 3j + 4k$ and $i - j - k$ ?",
+    "answer": "-5"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following sets of quantum numbers n, l, m_l, m_s, is NOT possible?",
+    "choices": {
+      "W": "2, 1, -1, 1/2",
+      "X": "3, 2, 1, -1/2",
+      "Y": "4, 4, 0, 1/2",
+      "Z": "5, 3, -3, -1/2"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three compounds that are soluble in water under standard conditions: 1) Silver chloride; 2) Lead (II) iodide; 3) Ammonium sulfate.",
+    "answer": "3 ONLY"
+  }
+]

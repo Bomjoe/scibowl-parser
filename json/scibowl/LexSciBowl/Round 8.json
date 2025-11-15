@@ -1,0 +1,454 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Brandon is performing an iodometric titration. Unfortunately, he has no clue what he is doing. Which of the following would be the first step Brandon needs to take?",
+    "choices": {
+      "W": "Standardization of iodine",
+      "X": "Standardization of iodide",
+      "Y": "Addition of analyte to excess iodine",
+      "Z": "Addition of analyte to excess iodide"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Excited by his new found iodometry skills, Brandon seeks to titrate every compound he can find. Which of the following could Brandon not titrate with iodometric titration?",
+    "choices": {
+      "W": "Manganese II",
+      "X": "Lead II",
+      "Y": "Copper III",
+      "Z": "Iron III"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A sphere of mass $1\\athrm{kg}$ and radius 2 meters has a torque applied to it such that it rotates around a line tangent to the sphere. If the angular acceleration produced by this torque is 5 radians/s, what was the magnitude of the torque applied, in Newton-meters?",
+    "answer": "28"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How far, in centimeters, must an object be placed away from a concave lens with focal length $33\\athrm{cm}$ in order to form a virtual image $30\\athrm{cm}$ from the lens on the same side as the object?",
+    "answer": "330"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If G is a finite group with order 210, which of these numbers is NOT a possible order of a subgroup of G?",
+    "choices": {
+      "W": "4",
+      "X": "5",
+      "Y": "6",
+      "Z": "7"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given $\\athrm{a}_0 = 69$ and $\\athrm{a}_{\\athrm{n}}$ satisfies the recurrence $\\athrm{a}_{\\athrm{n} + 1} = \\qrt{-9 + 6 \\dot a_n}$, what is the limit as n approaches infinity of $\\athrm{a}_{\\athrm{n}}$?",
+    "answer": "3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following terms best describes La Brea Tar Pits as a lagerstatte?",
+    "choices": {
+      "W": "Concentration",
+      "X": "Preservation",
+      "Y": "Conglomeration",
+      "Z": "Conservation"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following dates best describes when the Burgess Shale formed?",
+    "choices": {
+      "W": "500 million years ago",
+      "X": "150 million years ago",
+      "Y": "2 million years ago",
+      "Z": "40,000 years ago"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Berkeley National Lab are studying the use of metals in catalyzing chemical reactions. What product is formed when reducing nitrobenzene with a platinum catalyst in the presence of one equivalent of hydrogen gas?",
+    "choices": {
+      "W": "Nitrocyclohexane",
+      "X": "Aniline",
+      "Y": "Nitrosobenzene",
+      "Z": "1-nitrohexane"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab are studying the effectiveness of catalytic converters. By name or number, identify all of the following 3 actions that a catalytic converter would perform: 1) Oxidizes ethylene; 2) Oxidizes Carbon Monoxide; 3) Reduces nitrogen dioxide.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Humans exhibit many morphological differences based on sex, but these differences are not as pronounced in the skeleton. However, some do exist; which of the following features of the human skeleton do NOT highlight sexual dimorphism?",
+    "choices": {
+      "W": "Skull",
+      "X": "Pelvis",
+      "Y": "Teeth",
+      "Z": "Wrists"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following 3 organs in terms of increasing speeds at which Interstitial cells of Cajal act in them: 1) Colon; 2) Ileum; 3) Duodenum.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Zinc metal is added to a concentrated solution of nitric acid. What gas is evolved?",
+    "answer": "NO2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The Ostwald process, used to produce nitric acid, involves a series of steps to gradually oxidize ammonia through many intermediates. Which of the following is not one of these intermediates?",
+    "choices": {
+      "W": "N2",
+      "X": "NO",
+      "Y": "NO2",
+      "Z": "None of the above"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of these patterns regarding the color of light did Thomas Young observe when shining white light through a double slit?",
+    "choices": {
+      "W": "The central fringe is white, while the outer fringes contain a spectrum of colors, increasing in wavelength while getting farther away",
+      "X": "Both the central fringe and the outer fringes are white",
+      "Y": "The central fringe is white, while the outer fringes contain a spectrum of colors, decreasing in wavelength while getting farther away",
+      "Z": "The nature of the color of the fringes depended on the distance in between the slits"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Roger Penrose created the Andromeda paradox as a thought experiment illustrating the problems with defining what concept, referring to whether or not two spatially separated events occur at the same time?",
+    "answer": "SIMULTANEITY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If two equilateral triangles, both with area 1, are inscribed in the same circle, what is the minimum area of their intersection?",
+    "choices": {
+      "W": "1/4",
+      "X": "1/3",
+      "Y": "1/2",
+      "Z": "2/3"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If Brandon wants to choose a real number between 0 and 1, with a probability density of $2 + \\n(x)$ of choosing $x$, what is the probability that he chooses a number less than $\\rac{1}{2}$?",
+    "answer": "$\\rac{1}{2} - \\rac{\\n(2)}{2}$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Hubble’s law predicts the proportionality of what two quantities?",
+    "answer": "DISTANCE AND RECESSIONAL VELOCITY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A gas cloud emits light at a frequency of $1.07 \\times 10^{10} \\athrm{~Hz}$. If the light is observed to have a frequency of $1.00 \\times 10^{10} \\athrm{~Hz}$ from earth, how far away is the gas cloud, in megaparsecs to 1 significant figure?",
+    "answer": "300"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Laboratory are researching continental drift and plate tectonics. What hypothesis was the first key scientific test of the seafloor spreading theory?",
+    "answer": "VINE-MATTHEWS-MORLEY HYPOTHESIS"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Livermore National Laboratory are studying the composition of pegmatite. Which of the following minerals cannot be found in the dark portions of pegmatite?",
+    "choices": {
+      "W": "Biotite",
+      "X": "Tourmaline",
+      "Y": "Pyroxene",
+      "Z": "Orthoclase"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Members of what phylum of protozoans are known for their tests and pseudopodia that appear granular under microscopes and are most critical in searching for oil deposits?",
+    "answer": "FORAMINIFERA"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is typically not expected of a member of class articulata of phylum brachiopoda?",
+    "choices": {
+      "W": "Contains a lophophore",
+      "X": "Leads an epifaunal mode of life",
+      "Y": "Is hermaphroditic",
+      "Z": "Has tooth-and-groove hinges"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A chemical compound A, with chemical formula C10H12, absorbs 3 equivalents of H2 upon catalytic hydrogenation over palladium. How many rings does A have?",
+    "answer": "2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Compound A from the previous question reacts with potassium permanganate to form a single organic product. What is the chemical formula of this product?",
+    "answer": "C5H4O5"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 4 quantities can an ammeter and a voltmeter connected in series correctly measure: 1) Current through a circuit element inserted in series with the ammeter and voltmeter; 2) Current through a circuit element inserted in parallel with the ammeter and voltmeter; 3) Voltage through a circuit element inserted in series with the ammeter and voltmeter; 4) Voltage through a circuit element inserted in parallel with the ammeter and voltmeter.",
+    "answer": "4 ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The current moving through a wire is given by the equation $\\athrm{I(t) = 4e^{-2t}}$. How much charge, in Coulombs, passes through a cross section of the wire between time $t = 0$ and $t = \\nfty$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the derivative with respect to x of the integral from the square root of x to $x^2$ of t dt?",
+    "answer": "$2x^3 - \\rac{1}{2}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ordered tuples of positive integers are there that sum to 10?",
+    "answer": "512"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "As air in the Hadley Cells moves poleward, it cools and gains a strong eastward component. This can be attributed to the Coriolis effect and the conservation of what?",
+    "answer": "ANGULAR MOMENTUM"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not one of the five major gyres?",
+    "choices": {
+      "W": "Majid Gyre",
+      "X": "Columbus Gyre",
+      "Y": "Heyerdahl Gyre",
+      "Z": "Kuroshio Gyre"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab are studying regression-based machine learning. What phenomenon describes machine learning models that see a significant drop in performance from training data to test data?",
+    "answer": "OVERFITTING"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab are studying ways to increase the efficiency of training neural networks. Gradient descent and the lowering of the cost function are used in what process used in training neural networks?",
+    "answer": "BACKPROPAGATION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What chromosome can the mutation causing Prader-Willi Syndrome be located on?",
+    "answer": "15"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following five phases of Prophase I from first to last: 1) Diplotene; 2) Leptotene; 3) Zygotene; 4) Diakinesis; 5) Pachytene.",
+    "answer": "2, 3, 5, 1, 4"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A 1 kilogram particle is constrained in a 1D box of length 10 meters. Which of the following is closest, logarithmically speaking, to the zero-point energy of this system, in Joules?",
+    "choices": {
+      "W": "$10^{-60}$",
+      "X": "$10^{-65}$",
+      "Y": "$10^{-70}$",
+      "Z": "$10^{-75}$"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A 1 kilogram particle is constrained in a 1D box of length 10 meters. What is the probability density of the lowest energy wavefunction at the center of this system?",
+    "answer": "0.2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Water passing through a pipe is going at $10 \\athrm{m / s}$ when the pipe has diameter $2 \\athrm{cm}$. If the pipe expands to a diameter of $5 \\athrm{cm}$, what is the velocity of the water, in meters/second, in that part of the pipe?",
+    "answer": "1.6"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Randy the Rapid Runner runs past a log. When Randy is not moving, he sees the log as being 2.5 meters long. When Randy runs past the log at four-fifths of the speed of light, how long, in meters, does he observe the log to be?",
+    "answer": "1.5"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum from $\\athrm{i} = 0$ to 11 of $(-1)^i \\inom{11}{i}$",
+    "answer": "0"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the largest finite number of intersection points of 2 quadrilaterals?",
+    "answer": "16"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A main-sequence star with mass M has luminosity L. If M is quadrupled, what is the new luminosity in terms of L?",
+    "answer": "128L"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A main-sequence star with mass M has lifespan T. If M is quadrupled, what is the new lifespan in terms of T to one significant figure?",
+    "answer": "0.03T"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What enzyme catalyses the 9th step of glycolysis, where 2-phosphoglycerate is dehydrated to form phosphoenolpyruvate?",
+    "answer": "ENOLASE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 3 substances that are found in the inner mitochondrial membrane: 1) Cardiolipin; 2) Monoamine oxidase; 3) Oxysomes.",
+    "answer": "1 AND 3"
+  }
+]

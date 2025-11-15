@@ -1,0 +1,468 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In band theory, the nearly free electron approximation is required for the assumption that periodic wavefunctions of these electrons have a constant wave shift. This is an application of which theorem that states that solutions to the Schrodinger equation with periodic potentials can be modeled by a periodic function?",
+    "answer": "BLOCH'S THEOREM"
+  },
+  {
+    "question_number": 1,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Depicted in the image is a certain low energy solid state crystal and a corresponding detector reading that confirms the existence of certain quasiparticles within the crystal. Answer the following three questions concerning this crystal: 1. The quasi particles in this crystal exhibit a high degree of mobility partly due to the chiral nature of the excitations. This is because it is an example of what type of fermion? 2. Researchers discovered that this metal may yield photocurrent efficiency exceeding what classical limit describing the maximum energy obtained by a PN junction from a photon? 3. These quasiparticles due to the nature of their chirality are not described by the Dirac spinor. Identify all of the following particles that are defined by the Dirac spinor: 1) $Z_0$ boson; 2) Neutrino; 3) Muon.",
+    "answer": "1) WEYL FERMION; 2) SHOCKLEY-QUEISSER LIMIT; 3) 2 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Livermore National Laboratory are engineering safeguards for genetically engineered microbes. To prevent mutations in genetically modified genes, scientists are utilizing overprinting, a phenomenon where two genes share parts of the same coding sequence. How does overprinting prevent the spread of mutant synthetic genes?",
+    "choices": {
+      "W": "Neutral mutation in one gene can become deleterious in another",
+      "X": "Sequences in overlapping genes upregulate DNA repair systems",
+      "Y": "Mutations in one gene prevents RNA polymerase from properly transcribing other genes",
+      "Z": "Synthetic overlapping genes require synthetic amino acids to function"
+    },
+    "answer": "W) NEUTRAL MUTATION IN ONE GENE CAN BECOME DELETERIOUS IN ANOTHER"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Lab have been studying many different diseases of the brain and their effects on the midbrain. Shown on the right is a diagram of the midbrain and on the left, aggregates of lewy bodies in this disease. Answer the following three questions: 1. What is the name of the black region labeled A? 2. What pigment is responsible for this black color? 3. The aggregates of lewy bodies are found in which disorder?",
+    "answer": "1) SUBSTANTIA NIGRA; 2) MELANIN; 3) PARKINSONS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three lewis acids in increasing strength: 1) Boron trifluoride; 2) Boron trichloride; 3) Boron tribromide.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Iron (II) iodide is treated with stoichiometric amounts of carbon monoxide followed by metallic copper. The resulting liquid product is then photolyzed to yield a product accompanied by offgassing, which when purified appears as a non-volatile orange solid. Answer the following three questions about this synthesis route: 1. What is the empirical formula of the liquid product? 2. What is the empirical formula of the orange solid? 3. The ultraviolet photolysis of the orange solid produces a new compound accompanied by the same amount of offgassing. How many distinct carbon-13 NMR signals does the new compound have?",
+    "answer": "1) $\\athrm{Fe(CO)_5}$; 2) $\\athrm{Fe_2(CO)_9}$; 3) 5"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Benzodiazepines and barbiturates are commonly prescribed for sleep because they are agonists for which of the following neurotransmitters?",
+    "choices": {
+      "W": "Orexin",
+      "X": "Incretin",
+      "Y": "GABA",
+      "Z": "Serotonin"
+    },
+    "answer": "Y) GABA"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of protein sequencing: 1) Edman degradation proceeds from the N to the C terminus; 2) Tandem MS sequencing uses the overlap of y-ions and ionized amino acid masses to determine the order of proteins; 3) De-novo synthesis may be utilized to detect a protein's three dimensional structure through extrapolation of it's sequence.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the graph of the equation $x^{3} + y = x + y^{3}$?",
+    "choices": {
+      "W": "An ellipse",
+      "X": "A hyperbola",
+      "Y": "A nonlinear segment",
+      "Z": "A linear segment"
+    },
+    "answer": "W) AN ELLIPSE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In the image shown, triangle ABC has $AB = 5$, $BC = 6$, and $AC = 7$. If $M$ is the midpoint of $BC$, what is the length of segment $MN$?",
+    "answer": "15/7"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements concerning the Laramide orogeny which are true: 1) It occurred in the Western United States 2) It is associated with low angle subduction 3) It significantly affected North American basement rocks.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 6,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Label X shows the Davidson current, which reverses seasonally. Answer the following 3 questions: 1. Identify the season in figure A 2. Identify the general term for the circular currents found at Y 3. Which explains why there is no coastal Jet observed in figure A?",
+    "choices": {
+      "W": "Weakened prevailing northerly winds",
+      "X": "Prevalence of Santa Ana winds",
+      "Y": "Consistent thermal inversions",
+      "Z": "Increased Ekman transport"
+    },
+    "answer": "1) WINTER; 2) EDDY CURRENTS; 3) W) WEAKENED PREVAILING NORTHERLY WINDS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What rule in quantum mechanics mathematically describes the probability of the transition per unit time from an energy eigenstate to a continuum of energy eigenstates?",
+    "answer": "FERMI'S GOLDEN RULE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A long solenoid encloses a coaxial circular insulator with a constant surface charge density. The disk is placed at the center of the solenoid on axles of negligible mass that allows the disk to rotate without friction. With the system initially at rest, the current in the solenoid is then steadily increased from 0 to a constant value $I$. Identify all of the following quantities that, if doubled, would double the final angular momentum of the disk: 1) Surface charge density on the disk; 2) Rate of current increase; 3) Mass of the disk.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Ames National Lab have worked extensively on modelling the energy of the surface of nanoparticle catalysts. The free energy of the surface of a nanoparticle catalyst acting as a multi-phase interface can be expressed using what equation from fluid mechanics?",
+    "answer": "YOUNG-LAPLACE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the SLAC National Accelerator Lab are using the Stanford Synchrotron Radiation Lightsource to study the structures of proteins associated with coronaviruses, including COVID-19. In their experiments using free-electron lasers, the laser's light can be scattered off the stored electron beam to produce synchrotron radiation. Identify all of the following three statements that are true about these set-ups: 1) The wavelength of scattered light increases; 2) The energy of an impacted electron in the beam increases; 3) The synchrotron radiation field is isotropic to an observer in the electron beam.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pericyclic reactions is a sigmatropic reaction?",
+    "choices": {
+      "W": "Rearrangement of 1,4 cyclohexadiene under UV light",
+      "X": "Cyclization of an azide and an alkyne thermally",
+      "Y": "Rearrangement of 1,5 hexadiene thermally",
+      "Z": "Cyclization of 1,3 butadiene under UV light"
+    },
+    "answer": "Y) REARRANGEMENT OF 1,5 HEXADIENE THERMALLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three reactions that could have produced a compound with the infrared spectrum shown in the image: 1) Treating benzaldehyde with a mixture of nitric and sulfuric acid; 2) Treating acetic acid with diazomethane; 3) Treating nitromethane with formaldehyde under basic conditions followed by an acidic work-up.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A new recessive mutation in a large population confers an increased fitness to an individual. Assuming no genetic drift, the frequency of this allele will do which of the following?",
+    "choices": {
+      "W": "Initially increase rapidly, then increase slowly",
+      "X": "Initially increase slowly, then increase rapidly",
+      "Y": "Increase slowly",
+      "Z": "Increase rapidly"
+    },
+    "answer": "X) INITIALLY INCREASE SLOWLY, THEN INCREASE RAPIDLY"
+  },
+  {
+    "question_number": 10,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a cross section of the cochlea. Answer the following three questions concerning the cochlea: 1. Give the names of A and B, which correspond to the canals connected to the round window and oval window respectively 2. Give the name of the organ labeled C 3. Give the name of the fluids that flow through the canals in A and C respectively.",
+    "answer": "1) A IS SCALA VESTIBULI; B IS SCALA TYMPANI; 2) ORGAN OF CORTI; 3) PERILYMPH AND ENDOLYMPH"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A square lies somewhere on the $(x,y)$ plane. If the $x$-coordinates of its vertices are 1, 2, 3, and 4 in some order, what is the area of the square?",
+    "answer": "5"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A hilly surface has its elevation defined by the equation $z = x^{2} + xy^{2}$. A hiker begins from the origin and follows a path defined by the equation $y = x$. What is the slope of the hill being climbed by the hiker when he reaches the point (1, 1)?",
+    "answer": "$5\\qrt{2} / 2$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Eddington valve or Kappa mechanism governs the contraction and expansion of stars belonging to what region of the HR diagram?",
+    "answer": "INSTABILITY STRIP"
+  },
+  {
+    "question_number": 12,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shown in the image are three mineral specimens. Specimen B is found in meteorites and refers to the crystals. Answer the following three questions concerning the specimens in the image: 1. Order the specimens from first to last to crystallize in a cooling magma 2. Which specimen is a tectosilicate? 3. Which specimen is an inosilicate?",
+    "answer": "1) B, C, A; 2) A; 3) C"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three four-vectors that have constant norm: 1) Four-velocity; 2) Four-acceleration; 3) Four-momentum.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The electromagnetic field tensor is used in special relativity to describe electric and magnetic fields as a unified object. Which of the following is false regarding this tensor?",
+    "choices": {
+      "W": "It is antisymmetric rank-2 tensor",
+      "X": "It has six independent components",
+      "Y": "Its components are invariant under Lorentz transformations",
+      "Z": "It can be derived from only the electromagnetic four-potential"
+    },
+    "answer": "Y) ITS COMPONENTS ARE INVARIANT UNDER LORENTZ TRANSFORMATIONS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Lab used Raman spectroscopy to analyze the structures of different polymorphs of antimony oxide. Their technique relies on the inelastic scattering of infrared light by acoustic modes in the crystal. What type of scattering is this best characterized as?",
+    "answer": "BRILLOUIN"
+  },
+  {
+    "question_number": 14,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a visual representation of J1216+0709, the first discovered triple lobed radio galaxy by the very large array. Answer the following two questions: 1) What model is used to describe double lobed radio galaxies?; 2) J1216 is a general example of what type of galaxy with a supermassive black hole and an accretion disk at the center emitting radiation; 3) The general ionization state of the gas can be related to the temperature and pressure of stars in this galaxy by what equation?",
+    "answer": "1) DOUBLE EXHAUST MODEL; 2) ACTIVE GALACTIC NUCLEUS; 3) SAHA IONIZATION EQUATION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In nitrobenzene, which of the following substituents placed at what position relative to the nitro group would activate the ring most towards nucleophilic aromatic substitution, respectively?",
+    "choices": {
+      "W": "Fluoride, ortho",
+      "X": "Fluoride, meta",
+      "Y": "Chloride, ortho",
+      "Z": "Chloride, meta"
+    },
+    "answer": "W) FLUORIDE, ORTHO"
+  },
+  {
+    "question_number": 15,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is the undoped unit cell of a high-temperature superconducting lanthanum cuprate, with each atom shown in the key. Answer the following two questions about this cuprate: 1. What is the empirical formula of the lanthanum cuprate shown? 2. What is the average oxidation state of lanthanum in the cuprate?",
+    "answer": "1) $\\athrm{La_2CuO_4}$; 2) $+3$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Adrenocorticotropic hormone (ACTH) and melanocyte-stimulating hormone (MSH) are both derived from what polypeptide precursor?",
+    "answer": "POMC"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of the sleep cycle: 1) K complexes are large amplitude waves; 2) Sleep spindles occur in N2 sleep; 3) REM sleep occurs; 3) O2 consumption is higher in paradoxical sleep than NREM sleep.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Suppose $a$ and $b$ are real numbers such that $\\og(a)$ and $\\og(b)$ are both irrational. Which of the following must also be irrational?",
+    "choices": {
+      "W": "$\\og(a) + \\og(b)$",
+      "X": "$\\og(a) - \\og(b)$",
+      "Y": "$\\og(a) \\times \\og(b)$",
+      "Z": "$\\og(a) + \\og(b)$"
+    },
+    "answer": "Y) $\\og(a) \\times \\og(b)$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A tetrahedron with side length 4 has small tetrahedra of side length 1 cut off each of its vertices. How many space diagonals does the resulting solid have?",
+    "answer": "12"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements concerning coastal polynya which are true: 1) They are driven by katabatic winds; 2) Coastal polynya's disrupt sea ice formation; 3) Antarctic polynya's form the Antarctic Bottom Water.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "visual_bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Answer the following two questions concerning the three specimen shown: 1. Identify specimens A, B, and C. 2. Order specimens A B and C in order of decreasing temperature of formation",
+    "answer": "1) A IS DENDRITE, B IS COLUMN, C IS NEEDLE; 2) C, B, A"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following explains the limited range of the weak force?",
+    "choices": {
+      "W": "Weak isospin is limited to the inside of hadrons",
+      "X": "CP violation can only take place at small scales",
+      "Y": "The W and Z bosons have significant mass",
+      "Z": "Charged current interactions require the presence of a quark"
+    },
+    "answer": "Y) THE W AND Z BOSONS HAVE SIGNIFICANT MASS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Indicate all of the following that are true of Einstein coefficients for atomic emission and absorption: 1) The coefficient for spontaneous emission is equal to the coefficient for absorption; 2) Stimulated emission requires a population inversion; 3) The ratio between the A and B coefficients is determined by Planck's law.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Ames National Lab have been researching a specific class of alloys for their unusual properties, including a high resistance to both corrosion and oxidation as well as forming from five or more metals. What quantity for the mixing of these alloys is high, allowing for these unique and interesting properties?",
+    "answer": "ENTROPY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a depiction of a catalytic triad in the chymotrypsin enzyme. Answer the following three questions concerning this diagram: 1. What term is given to the positively charged hole labeled A that stabilizes the tetrahedral intermediate via a hydrogen bond from glycine? 2. Identify which amino acid acts as the nucleophile in this image. 3. A low barrier hydrogen bond compresses the interaction between aspartate and histidine. Based on your answer in the previous question is the pKa of histidine raised, lowered, or unchanged by this bond?",
+    "answer": "1) OXYANION HOLE; 2) SERINE; 3) RAISED"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What class of diagrams can be used to predict the absorption spectra of transition metal complexes by plotting the absorption energy against the crystal field energy for various $d$ metal counts?",
+    "answer": "TANABE-SUGANO"
+  },
+  {
+    "question_number": 21,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Cyclopentadiene's ions possess unique properties. Answer the following three questions about the chemistry of cyclopentadiene related compounds: 1. Identify the 1,3 cyclopentadienyl dication as aromatic, anti-aromatic, or non-aromatic. 2. A transition metal forms a stable metallocene complex with one cyclopentadienyl ligand and one cyclopentadiene ligand. How many valence electrons does the transition metal contribute to ligand-metal bonding in the complex? 3. By letter, identify which of the four splitting diagrams shown represents the crystal field splitting in the stable metallocene complex.",
+    "answer": "1) NON-AROMATIC; 2) 8; 3) W"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In animals, acetyl-coA cannot be anabolically converted to carbohydrates. In plants however, what cycle operates to convert acetyl-coA into succinate to form carbohydrates?",
+    "answer": "GLYOXYLATE CYCLE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is an MRI of a person who is actively performing a spirometry test. The arrow points to a region of the brain responsible for regulating inspiration and expiration. Answer the following three questions about this image: 1. What is the name for this specific region of the brain located between the pons and the spinal cord? 2. What complex within this region of the brain is responsible for generating the basal rhythm of breathing in mammals? 3. What term is given to the nerves originating in this region that innervate the diaphragm?",
+    "answer": "1) MEDULLA; 2) PREBOTZINGER COMPLEX; 3) PHRENIC NERVES"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let n be the smallest integer such that the first digit of $2^{n}$ is 7. What is the last digit of $n$?",
+    "answer": "6"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A line passing through the point (1, 2) intersects both the $x$ and $y$ axes. What is the smallest possible area of the region bounded by this line and the $x$ and $y$ axes?",
+    "answer": "4"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true concerning depleted mantle reservoirs: 1) Low strontium 86/86 ratio 2) High Nd 143/133 ratio 3) Source for normal Mid Ocean Ridge Basalts.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The image shown is a granitic stringer formed through lit par lit with metamorphic differentiation. Answer the following three questions concerning this image: 1. What type of polyclinal fold is shown? 2. What is the texture of the sample? 3. In what metamorphic facies would you expect to find this sample in?",
+    "answer": "1) PTYGMATIC; 2) CRYSTALLOBLASTIC; 3) GRANULITE"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding the Einstein field equations?",
+    "choices": {
+      "W": "They are linear",
+      "X": "They reduce to Newton's law of gravitation for weak fields and small velocities",
+      "Y": "They predict the existence of gravitational waves",
+      "Z": "They include a term containing the cosmological constant"
+    },
+    "answer": "W) THEY ARE LINEAR"
+  },
+  {
+    "question_number": 25,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a particle passing the event horizon into a black hole. Answer the following three questions about this image: 1. What type of radiation emitted by the black hole is indicated by the yellow arrow? 2. What paradox results from the emission of this type of radiation because of its lack of the paradox's namesake quantity? 3. The Ryu-Takayanagi formula states that the entropy of the black hole is equal to the maximum entropy found within a finite region space known by what bound?",
+    "answer": "1) HAWKING RADIATION; 2) INFORMATION PARADOX; 3) BEKENSTEIN BOUND"
+  }
+]

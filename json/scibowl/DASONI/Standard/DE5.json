@@ -1,0 +1,425 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In order to reach the egg, a sperm must travel through the zona pellucida. To do this, it releases hydrolytic enzymes from what specialized vesicle?",
+    "answer": "ACROSOME"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three pressures that favor the net movement of water into the nephron: 1) Hydrostatic pressure in Bowman's capsule 2) Hydrostatic pressure in glomerular capillaries 3) Osmotic pressure in glomerular capillaries",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the product of the number of radial and angular nodes a 4p electron has?",
+    "answer": "2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The Mond process is one method of purifying nickel. In one step of the process, impure nickel is reacted with carbon monoxide, forming what metal carbonyl coordination complex?",
+    "answer": "$\\athrm{Ni(CO)_4}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three types of stars that are often used as standard candles to compute distances to far-away objects? 1) Blue giants 2) Cepheid variable 3) RR Lyrae variable",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the extrusive counterpart of granodiorite?",
+    "answer": "DACITE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A pool has three drains of different sizes. When only the first drain is open, the pool takes 3 hours to fully drain. When only the second drain is open, the pool takes 4 hours to fully drain. When only the third drain is open, the pool takes 6 hours to fully drain. How long, in minutes, does the pool take to fully drain when all three drains are open?",
+    "answer": "80"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If two different words are similar if they share the last 3 letters (in order) and differ in length by 1 or less, how many words are similar to \DUCK\?",
+    "answer": "702"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A helicopter moves forward at a constant speed and drops a steady stream of sand beneath it. Ignoring air resistance, which of the following best represents how the line of sand will appear in the frame of the helicopter?",
+    "choices": {
+      "W": "A straight, vertical line",
+      "X": "A straight line at an angle and pointing backwards",
+      "Y": "A curved line pointing backwards",
+      "Z": "None of these"
+    },
+    "answer": "W) A STRAIGHT, VERTICAL LINE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Akshansh shoots a spitball horizontally at a pig hanging on a string from the ceiling. The 1 gram spitball hits the pig at a velocity of 6 km/s and sticks to it. If the pig weighs 2 kg, how high does it rise during the resulting swing, in meters and to one sig fig?",
+    "answer": "0.5"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS B team members are currently studying autoimmune diseases. In what disease does the immune system attack Schwann cells, preventing myelination in the peripheral nervous system.",
+    "answer": "GUILLAIN-BARRÉ"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A team members are currently studying solid-state chemistry. Rank the following three compounds in order of increasing band gap: 1) Gallium phosphide 2) Aluminum nitride 3) Zinc sulfide",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Since DNA has a negative charge, identify all of the following three amino acids that you would expect to be especially abundant in histone proteins: 1) Arginine 2) Threonine 3) Phenylalanine",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the difference in photosynthetic efficiency between $C_3$ and $C_4$ plants at different $CO_2$ concentrations?",
+    "choices": {
+      "W": "$C_3$ plants are always more efficient",
+      "X": "$C_4$ plants are always more efficient",
+      "Y": "$C_3$ plants are more efficient at lower concentrations and $C_4$ plants are more efficient at higher concentrations",
+      "Z": "$C_4$ plants are more efficient at lower concentrations and $C_3$ plants are more efficient at higher concentrations"
+    },
+    "answer": "Z) $C_4$ PLANTS ARE MORE EFFICIENT AT LOWER CONCENTRATIONS AND $C_3$ PLANTS ARE MORE EFFICIENT AT HIGHER CONCENTRATIONS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What particle can destroy hydrogen bonds in organic molecules by tunneling into them?",
+    "answer": "PROTON"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "To one significant figure and treating the ideal gas constant as 8.314 joules per mole kelvin and the molar masses of carbon and chlorine to be 12 and 35.5 amu respectively, what is the density of a sample of gaseous carbon tetrachloride at 300 Kelvin at a pressure of 5 pascals?",
+    "answer": "0.3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three scenarios that would lead to an increase of primary production in the oceans: 1) Increase of sea surface temperatures 2) Upwelling of colder water 3) Addition of iron",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the small, spherical inclusions of silicon, oxygen, magnesium, and other elements that are found in many stony meteorites?",
+    "answer": "CHONDRULES"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The position of a robot follows $\\athbf{x}(t) = -3\\athbf{t}^{2} + 12\\athbf{t}$ for t greater than or equal to 0. How far has the robot gone when it turns around?",
+    "answer": "12"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An isosceles trapezoid ABCD has parallel sides AB and CD with length 5 and 8. Given that BC has length 3, what is the length of AC?",
+    "answer": "7"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An electron moves at $3.2 \\times 10^{-13} \\athrm{m / s}$ perpendicular to a magnetic field with magnitude of $9.11 \\times 10^{-22} \\athrm{Tesla}$. What is the radius of the orbit that the electron travels in, in meters and to one significant figure?",
+    "answer": "$2 \\times 10^{-3}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following properties would be least desirable for a dielectric in a supercapacitor?",
+    "choices": {
+      "W": "High permittivity",
+      "X": "High likelihood of ionization",
+      "Y": "Ability to remain as a solid at room temperature",
+      "Z": "Easily polarizable"
+    },
+    "answer": "X) HIGH LIKELIHOOD OF IONIZATION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS A team members are studying quantum mechanical spin. Photon spin can be thought of as what property?",
+    "answer": "POLARIZATION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson MS A Team are learning about Pascal's triangle. Given that 13 choose 11 is 78, 13 choose 10 is 286, 13 choose 9 is 715, and 14 choose 11 is 364, what is 14 choose 10?",
+    "answer": "1001"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is false about transcription and its regulation?",
+    "choices": {
+      "W": "Enhancers are typically 10 to 100 nucleotides upstream of the genes they regulate",
+      "X": "Genes encoding for ribosomal proteins would be located in a region of euchromatin",
+      "Y": "On the template strand, the TATA box is found on the $3^{\\rime}$ end of the gene",
+      "Z": "The $5^{\\rime}$ cap is a modified form of guanine"
+    },
+    "answer": "W) ENHANCERS ARE TYPICALLY 10 TO 100 NUCLEOTIDES UPSTREAM OF THE GENES THEY REGULATE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "While reading the plants chapters in Campbell Biology, Griffin suffers an aneurysm and will die if he keeps looking at Campbell. In order to save him, Akshansh pulls him away from the textbook, but in the process catches a glimpse of a diagram on double fertilization, putting him at a $20\\$ risk of getting an aneurysm and dying. Identify all of the following three relationships that Griffin and Akshansh could have that would make it evolutionarily favorable for Akshansh to save Griffin, assuming they will both have two children if they live: 1) Half-brothers 2) Grandfather and grandson 3) First cousins",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What law of electrochemistry states that the mass of a substance deposited at an electrode is directly proportional to the charge passed through it?",
+    "answer": "FARADAY'S FIRST LAW"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "$\\athrm{H}_{2}\\athrm{PO}_{4}^{-}$ and $\\athrm{HPO}_{4}^{2 - }$ are commonly used as a buffer system in cells. Given that the pKa of $\\athrm{H}_{2}\\athrm{PO}_{4}^{-}$ is 7.2, if this buffer system is used to keep a peroxisome at a pH of 9.2, and the total concentration of $\\athrm{H}_{2}\\athrm{PO}_{4}^{-}$ and $\\athrm{HPO}_{4}^{2 - }$ in the peroxisome is 0.02 molar, estimate, to one significant figure and in scientific notation, the concentration of $\\athrm{H}_{2}\\athrm{PO}_{4}^{-}$ in the peroxisome.",
+    "answer": "$2 \\times 10^{-4}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of fog forms as cold, dry air moves over warm water?",
+    "choices": {
+      "W": "Steam fog",
+      "X": "Upslope fog",
+      "Y": "Advection fog",
+      "Z": "Radiation fog"
+    },
+    "answer": "W) STEAM FOG"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What dune type is composed of ridges that run perpendicular to the prevailing wind direction?",
+    "answer": "TRANSVERSE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two points are randomly chosen within a sphere of radius 2 units. Find the probability that at least one of the points is within 1 unit of the sphere's center.",
+    "answer": "15/64"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Megan is operating her penguin blender factory. Each blender costs 5 dollars to make and each penguin costs 8 dollars to make, and there is a daily budget of 2,300 dollars. Each item is made one at a time, with a blender taking 2 minutes to make and a penguin taking 1 minute, and the work day is 8 hours. What is the maximum total number of penguins and blenders that can be made in a day?",
+    "answer": "340"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What type of thermodynamic cycle is used by steam turbines and certain steam engines, such as those you would find on Thomas the Tank Engine?",
+    "answer": "RANKINE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Some imbecile has punched a hole in the bottom of the holiday party punch bowl. Just after the hole is made, liquid flows out of the hole at a velocity v. What factor will v be multiplied by if the height of liquid in the bowl is doubled and the exit hole diameter is halved?",
+    "answer": "sqrt(2)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A team members are studying the Equatorial coordinate system. What is the right ascension, in hours, of a star that is located 75 degrees east of the vernal equinox?",
+    "answer": "5"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson HS A Team members are studying common asbestos minerals, including chrysotile, grunerite, and tremolite. Aside from chrysotile, many of these asbestos minerals are members of what family of double-chain inosilicates that are often found abundantly in andesites and diorites?",
+    "choices": {
+      "W": "Amphibole group",
+      "X": "Feldspar group",
+      "Y": "Pyroxene group",
+      "Z": "Tourmaline group"
+    },
+    "answer": "W) AMPHIBOLE GROUP"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements about protists that are true: 1) Diatoms are more closely related to radiolarians than they are to brown algae 2) Algae exhibit alternation of generations 3) Foraminifera have cell walls made of silica",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In plants, the embryo sac contains seven distinct cells with a total of eight nuclei. Order the following three cell types from most to least abundant in the embryo sac: 1) Synergid cell 2) Antipodal cell 3) Egg cell",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Otto Hahn and Lisa Meitner discovered what metastable nuclei that contain nucleons in excited energy states?",
+    "answer": "NUCLEAR ISOMERS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In terms of the gas constant R, what is the difference between molar heat capacity at constant pressure and at constant volume?",
+    "answer": "R"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following glacial features are caused by glacial drift abrading into bedrock and producing series of crescent-like scars?",
+    "choices": {
+      "W": "Roche moutonnee",
+      "X": "Ogives",
+      "Y": "Chatter marks",
+      "Z": "Eskers"
+    },
+    "answer": "Y) CHATTER MARKS"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following four moons of jupiter from the one with the largest orbital radius to the one with the shortest orbital radius: 1) Ganymede 2) Europa 3) Callisto 4) Io",
+    "answer": "3, 1, 2, 4"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the slope of the line tangent to the graph $x^2 + y^2 = 25$ at the point $ (4, 3) $?",
+    "choices": {
+      "W": "-4/3",
+      "X": "-3/4",
+      "Y": "3/4",
+      "Z": "4/3"
+    },
+    "answer": "W) -4/3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A circular algal bloom grows from the center of a circular lake. The bloom's radius grows at a constant rate. The bloom starts to grow at 1:00 p.m and covers the whole pond by 11:00 p.m.; at what time, to the nearest hour, does the bloom cover half of the pond?",
+    "answer": "8 PM"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A pentaquark is an exotic version of what class of hadrons?",
+    "answer": "BARYONS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A mongoose chases a cobra. The mongoose moves at $70\\$ the speed of light and the cobra at $80\\$. Which of the following is true about how fast the cobra appears to the mongoose?",
+    "choices": {
+      "W": "The cobra appears to move at $10\\$ the speed of light",
+      "X": "The cobra appears to move between 10 and $20\\$ the speed of light",
+      "Y": "The cobra appears to move between 20 and $30\\$ the speed of light",
+      "Z": "The cobra appears to move at more than $30\\$ the speed of light"
+    },
+    "answer": "Y) THE COBRA APPEARS TO MOVE BETWEEN 20- 30% THE SPEED OF LIGHT"
+  }
+]

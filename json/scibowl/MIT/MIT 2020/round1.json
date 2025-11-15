@@ -1,0 +1,490 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following predictions is most likely to be true regarding the movement of plastics in the ocean?",
+    "choices": {
+      "W": "A net clockwise flow of plastics in the Southern Pacific",
+      "X": "Congregation of plastics in the center of the Atlantic ocean",
+      "Y": "Decreased rate of plastic influx into the ocean over time",
+      "Z": "Rapid disintegration of most plastic after a few years"
+    },
+    "answer": "X) Congregation of plastics in the center of the Atlantic ocean"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Geostrophic winds are the result of the combination of the pressure gradient force and what other force?",
+    "answer": "Coriolis force"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A 4-digit number and a 2-digit number add up to a 5-digit number. What is the minimum possible value of the 4-digit number?",
+    "answer": "9901"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the 2020th digit to the right of the decimal point of the fraction $3 / 7$ ?",
+    "answer": "5"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Sharp group at MIT are studying the properties of miRNA (M-I-R-N-A). What do miRNAs do?",
+    "choices": {
+      "W": "Enhance RNA translation by pairing with mRNA",
+      "X": "Prevent RNA translation by pairing with mRNA",
+      "Y": "Activate ribosomes by pairing with rRNA",
+      "Z": "Act as ribozymes to catalyze production of tRNA"
+    },
+    "answer": "X) Prevent RNA translation by pairing with mRNA"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Sharp group at MIT are studying how miRNA acts as a regulatory network. Which of the following types of regulation are miRNAs classified as?",
+    "choices": {
+      "W": "Pre-transcriptional regulation",
+      "X": "Post-replication regulation",
+      "Y": "Post-transcriptional regulation",
+      "Z": "Post-translational regulation"
+    },
+    "answer": "Y) Post-transcriptional regulation"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Worldwide vaccination efforts have successfully eradicated which human-infecting virus?",
+    "answer": "Smallpox"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant tissue types is most interior in the cross-section of a typical eudicot (YOO-dih-cot) root?",
+    "choices": {
+      "W": "Vascular",
+      "X": "Dermal",
+      "Y": "Ground",
+      "Z": "Nervous"
+    },
+    "answer": "W) Vascular"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three quantities that would double if Earth's gravity were doubled: 1) Time it takes for a pebble to hit the ground when dropped from the top of a building 2) Gravitational potential energy of a pebble at a height $h$ 3) Magnitude of the normal force supporting a stationary object",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four thermodynamic processes that do not increase the entropy of the universe: 1) Reversible isothermal expansion 2) Irreversible isothermal compression 3) Reversible isobaric expansion 4) Irreversible adiabatic compression",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "You have an unknown acid with $\\athrm{p}K_{\\athrm{a}}$ ( $P$ - $K$ - $A$ ) of 5. What is the pH of a 0.1 molar solution of this acid?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "Y) 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the average carbon-carbon single bond energy is around 350 kilojoules per mole, and that the average carbon-carbon triple bond energy is around 840 kilojoules per mole, calculate the bond energy of a carbon-carbon double bond in kilojoules per mole to one significant figure, assuming that the strength of a carbon-carbon pi bond is the same in the double bond and the triple bond.",
+    "answer": "600 kilojoules per mole"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If the intensity of the light coming from each of the two slits in Young's double-slit experiment is $I$ , what will be the intensity of the central bright maximum of the resulting interference pattern?",
+    "choices": {
+      "W": "$I / 2$",
+      "X": "$I$",
+      "Y": "$2I$",
+      "Z": "$4I$"
+    },
+    "answer": "Z) $4I$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A resistor, an inductor and a charged capacitor are all in series. If the resulting oscillation is underdamped, then which of the following best describes how the energy of the circuit changes with time?",
+    "choices": {
+      "W": "Does not change with time",
+      "X": "Decreases linearly with time",
+      "Y": "Decreases exponentially with time",
+      "Z": "Decreases as the inverse of time"
+    },
+    "answer": "Y) Decreases exponentially with time"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Van Voorhis group at MIT are working on developing new methods – primarily based on density functional theory (DFT) – that provide an accurate description of excited electron motion in molecular systems. What equation can be used to describe the wave function of an electron?",
+    "answer": "Schrödinger's Equation"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Jarillo-Herrero (hah-REE-yo huh-REH-row) group at MIT have discovered that rotating adjacent sheets of graphene in a graphene lattice can change the electronic properties of the lattice. What is the main force that holds graphene sheets together?",
+    "answer": "Van der Waals (accept: London dispersion)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term refers to the depth at which calcareous (kal-KAH-ree-uhs) sediments cannot accumulate because tests dissolve completely before reaching that depth?",
+    "answer": "Carbonate Compensation Depth (ACCEPT: CCD)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The angle of repose describes which of the following?",
+    "choices": {
+      "W": "The dip angle of a hanging wall face",
+      "X": "The strike angle of a hanging wall face",
+      "Y": "The maximum dip angle of a pile of sediment",
+      "Z": "The minimum strike angle of a pile of sediment"
+    },
+    "answer": "Y) The maximum dip angle of a pile of sediment"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a simple graph with 4 vertices, what is the maximum number of edges such that no three vertices form a triangle?",
+    "answer": "4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which mathematician famously discovered that to walk all edges in a graph exactly once, there must be exactly zero or two nodes with odd degree?",
+    "choices": {
+      "W": "Euclid (YOO-clid)",
+      "X": "Euler (OIL-er)",
+      "Y": "Newton",
+      "Z": "Gauss"
+    },
+    "answer": "X) Euler"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reaction orders results in a half life that decreases with time?",
+    "choices": {
+      "W": "Zeroth order",
+      "X": "First order",
+      "Y": "Second order",
+      "Z": "Third order"
+    },
+    "answer": "W) Zeroth order"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four choices that are examples of network solids: 1) Diamond 2) Quartz 3) Ice 4) Sulfur",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What segments of DNA comprised of the sequence TTAGGG cap the ends of eukaryotic (yoo-care-ree-AW-tick) chromosomes?",
+    "answer": "Telomeres"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following cells does NOT play a role in the humoral immune response?",
+    "choices": {
+      "W": "Antigen presenting cell",
+      "X": "Helper T cell",
+      "Y": "Cytotoxic T cell",
+      "Z": "Plasma cell"
+    },
+    "answer": "Y) Cytotoxic T cell"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Sphalerite (SFA-lur-ite) is an ore of which of the following elements?",
+    "choices": {
+      "W": "Tungsten",
+      "X": "Nickel",
+      "Y": "Zinc",
+      "Z": "Tin"
+    },
+    "answer": "Y) Zinc"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Gabbro is a coarse-grained rock with a mafic (MAFF-ick) composition. By name or number, indicate all of the following four statements that are likely true of a specimen of gabbro: 1) Minerals in the rock crystallized slowly 2) The rock likely has relatively high proportions of silica 3) Crystals in the rock are likely easily visible to the naked eye 4) Gabbro likely forms on the surface of the earth near volcanic activity",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A group of objects are released from rest at top of a ramp, rolling towards the bottom. Which of the following objects will take the longest to reach the bottom?",
+    "choices": {
+      "W": "A thin hoop of mass $M$",
+      "X": "A spherical shell of mass $2M$",
+      "Y": "A solid sphere of mass $M$",
+      "Z": "A solid cylinder of mass $2M$"
+    },
+    "answer": "W) A thin hoop of mass $M$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What idealized thermodynamic cycle gives the highest efficiency possible by using two reversible isothermal and two reversible adiabatic steps?",
+    "answer": "Carnot cycle"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If the random variable $X$ is drawn from the standard normal distribution, what is the expectation of $X^{2}$ ?",
+    "choices": {
+      "W": "-1",
+      "X": "0",
+      "Y": "1",
+      "Z": "Undefined"
+    },
+    "answer": "Y) 1"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the prime factorization of 15,561, which equals $5^{6} - 2^{6}$ .",
+    "answer": "$3^{2} \\times 7 \\times 13 \\times 19$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at MIT's Center for Theoretical Physics are studying quantum chromodynamics, which describes the strong interactions between subatomic particles. In quantum chromodynamics, gluons mediate the interactions between what type of particles which are the constituents of protons and neutrons?",
+    "answer": "Quarks"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at MIT were part of a team which recently used the Kepler space telescope along with a network of ground-based telescopes to discover an exoplanet with an orbital period of 3.14 days. Given that they know the mass of the star which it orbits, which of the following laws would allow them to determine the size of the planet's orbit?",
+    "choices": {
+      "W": "Stefan-Boltzmann law",
+      "X": "Kepler's first law",
+      "Y": "Kepler's second law",
+      "Z": "Kepler's third law"
+    },
+    "answer": "Z) Kepler's third law"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of these compounds is least soluble in water?",
+    "choices": {
+      "W": "$\\athrm{Na}_{2}\\athrm{SO}_{4}$",
+      "X": "$\\athrm{Ca(OH)}_{2}$",
+      "Y": "$\\athrm{KC}_{2}\\athrm{H}_{3}\\athrm{O}_{2}$",
+      "Z": "$\\athrm{AgCl}$"
+    },
+    "answer": "Z) AgCl"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many electrons can the $n = 4$ shell hold?",
+    "answer": "32"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Ignoring the investment of ATP, how many ATP molecules are produced per glucose molecule in glycolysis (gly-CALL-ih-sis)?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "4",
+      "Z": "32"
+    },
+    "answer": "Y) 4"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the endogenous (enn-DAW-jinn-iss) opioids produced in the brain?",
+    "answer": "Endorphins"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The permanganate ion is an extremely powerful oxidant and is frequently used in titrations due to its distinct color. What color is the permanganate ion?",
+    "answer": "Purple (accept: magenta)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true about the reaction where aqueous carbonic acid decomposes to form carbon dioxide gas and water?",
+    "choices": {
+      "W": "The equilibrium constant decreases with increasing temperature",
+      "X": "$K_{c}$ is greater than $K_{p}$",
+      "Y": "This reaction causes the pH of the solution to increase",
+      "Z": "High pressures of nitrogen gas above the solution of carbonic acid decelerates the reaction"
+    },
+    "answer": "Y) This reaction causes the pH of the solution to increase"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The dominant wind belt in the latitudes between 0 and 30 degrees North tend to come from which cardinal direction?",
+    "choices": {
+      "W": "North",
+      "X": "Northeast",
+      "Y": "Southeast",
+      "Z": "West"
+    },
+    "answer": "X) Northeast"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the term for the distance from a planet within which a gravitationally bound body cannot hold itself together?",
+    "answer": "Roche limit"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three quantities that have units of kilogram meters squared per second squared: 1) Mechanical energy 2) Torque 3) Linear momentum",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two people stand on the top and bottom of a 100 meter tall building. If the person on top throws a ball upwards at 5 meters per second, and the person on the bottom throws a ball upwards at 30 meters per second, how long in seconds will it take for the two balls to collide?",
+    "answer": "4 seconds"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, arrange the following four elements of the digestive tract in the order that a bolus may encounter them: 1) Colon 2) Ileum (ILL-ee-um) 3) Jejunum (jeh-JOO-num) 4) Pyloric (pie-LORE-ick) sphincter",
+    "answer": "4, 3, 2, 1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant hormones is responsible for root response to gravity?",
+    "choices": {
+      "W": "Gibberellin (jib-er-ELI-in)",
+      "X": "Auxin (OX-in)",
+      "Y": "Abscisic (ab-SIS-sick) Acid",
+      "Z": "Ethylene"
+    },
+    "answer": "X) Auxin"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Jane writes the number 3 on a board. Every day, she replaces the number on the board with its factorial. How many times will she need to do this before the number on the board has at least 100 digits?",
+    "answer": "3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Simplify the following expression: $(\\qrt{4} +\\qrt{8} +\\qrt{18})^{2}$ (read: the quantity root four plus root eight plus root eighteen (pause) squared).",
+    "answer": "$54 + 20\\qrt{2}$"
+  }
+]

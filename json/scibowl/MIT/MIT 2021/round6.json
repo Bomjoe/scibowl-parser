@@ -1,0 +1,484 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the most common form of glycolysis, the final step involves the synthesis of pyruvate from the dephosphorylation of what compound, which is also involved in carbon fixation of C4 plants?",
+    "answer": "PEP (accept: Phosphoenolpyruvate)"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four compounds that would result in increased rates of glycolysis at concentrations higher than normal:1) AMP (A.M.P)2) Fructose-2,6-bisphosphate3) Glucagon4) Glucose-6-phosphate",
+    "answer": "1 and2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Bartel group studies microRNAs which contribute to gene silencing by base-pairing to mRNA. What is the analogous RNA component involved in RNA interference?",
+    "answer": "siRNAs (accept: small interfering RNAs)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "The Bartel group produced a model for how microRNAs can act cooperatively to enhance gene silencing. Cooperative binding between proteins is often quantified using a Hill Coefficient. What values for a Hill coefficient indicate cooperative binding?",
+    "choices": {
+      "W": "Less than0",
+      "X": "Between0 and0.5",
+      "Y": "Between0.5 and1",
+      "Z": "Greater than1"
+    },
+    "answer": "Z) Greater than1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When you add zinc to concentrated sulfuric acid, you notice the evolution of a pungent gas from the solution. Which of the following is the most likely identity of the pungent gas?",
+    "choices": {
+      "W": "$\\athrm{H}_{2}\\athrm{S}$",
+      "X": "$\\athrm{H}_{2}$",
+      "Y": "$\\athrm{SO}_{2}$",
+      "Z": "$\\athrm{SO}_{3}$"
+    },
+    "answer": "Y) $\\athrm{SO}_{2}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Fuming sulfuric acid consists of a concentrated solution of sulfur trioxide gas in sulfuric acid. What is the chemical formula of the predominant sulfur containing species in fuming sulfuric acid?",
+    "answer": "$\\athrm{H}_{2}\\athrm{S}_{2}\\athrm{O}_{7}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many real roots does the polynomial $x^{3} +7x +2$ have?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "X)1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the average value of the function $f(x) = \\in^{2}(x)\\os^{2}(x)$ on the interval between $x =0$ and $x = \\i$?",
+    "answer": "1/8"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not an ore of copper?",
+    "choices": {
+      "W": "Bornite",
+      "X": "Chalcopyrite",
+      "Y": "Chalcocite",
+      "Z": "Bauxite"
+    },
+    "answer": "Z) Bauxite"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term describes the degree of flattening of celestial objects, generally due to rotation?",
+    "answer": "Oblateness"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "To one significant figure, in meters, what is the maximum height attained by a ball thrown directly upward from the ground at14 meters per second?",
+    "answer": "10 meters"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "When the cosmic microwave background, or CMB, is measured, one finds a relative difference on the order of $0.01\\$ between the frequency of the radiation in one direction and the frequency of the radiation in the opposite direction. This difference can be explained by which of the following?",
+    "choices": {
+      "W": "Small fluctuations in energy density in the early universe",
+      "X": "Emissions from a distant quasar",
+      "Y": "The Local Group having nonzero velocity relative to the CMB",
+      "Z": "Interference from interstellar gas and dust"
+    },
+    "answer": "Y) The Local Group having nonzero velocity relative to the CMB"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A nickel-63 nucleus would most likely undergo which of the following decay modes?",
+    "choices": {
+      "W": "Alpha decay",
+      "X": "Electron capture",
+      "Y": "Beta-plus decay",
+      "Z": "Beta-minus decay"
+    },
+    "answer": "Z) Beta-minus decay"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, rank the following3 ligands in order of increasing denticity:1) EDTA2) Porphine3) Oxalate",
+    "answer": "3,2,1"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes the majority of animals that are not able to tolerate changes in surrounding osmolarity?",
+    "answer": "Stenohaline"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true regarding human sensory mechanisms:1) Hearing is perceived via the bending of the cupula, leading to the hyperpolarization of mechanoreceptors2) The semicircular canals are partially responsible for balance3) Humans are well known for the use of a lateral line system",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A strange calculator has two buttons which either allow you to double the current number or add1 to the current number. Starting from an input of1, what is the minimum number of button presses required to arrive at a value of20?",
+    "choices": {
+      "W": "5",
+      "X": "6",
+      "Y": "7",
+      "Z": "8"
+    },
+    "answer": "W)5"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "On another strange calculator, there are two buttons which either allow you to multiply the current input by $-2$ or subtract1 from the current input. From a starting input of1, what is the largest possible number that you can generate in at most7 button presses?",
+    "answer": "96"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a condition of mechanical equilibrium?",
+    "choices": {
+      "W": "Acceleration is0",
+      "X": "Net force is0",
+      "Y": "Angular momentum is0",
+      "Z": "Net torque is0"
+    },
+    "answer": "Y) Angular momentum is0"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a tube closed at one end and open at the other. A standing pressure wave is set up inside of that tube. By name or number, identify all of the four boundary conditions which must be satisfied to create this situation:1) The absolute pressure at the open end of the pipe is zero2) The gauge pressure at the open end of the pipe is zero3) The gauge pressure at the closed end of the pipe is zero4) The pressure at the closed end must equal the pressure at the open end",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A decrease of1 in a star's absolute magnitude corresponds to an increase in flux by approximately what factor?",
+    "choices": {
+      "W": "1.5",
+      "X": "2",
+      "Y": "2.5",
+      "Z": "5"
+    },
+    "answer": "Y)2.5"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Barbados Ridge has resulted from South American Plate is subducting beneath Caribbean Plate and sediments accumulating in the space between them. What is the name of this type of structure?",
+    "answer": "Accretionary wedge (accept: accretionary prism)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Swager group at MIT has developed a device to detect peroxides in materials. Hydrogen peroxide decomposes in air to release what two molecules?",
+    "answer": "Water and oxygen gas"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Swager group at MIT has recently published research on a chemiresistive methane sensor based on the formation of high-valent platinum. In the sensor, methane undergoes a two electron oxidation. What is the product of methane oxidation in this reaction?",
+    "answer": "$\\athrm{CH}_3\\athrm{OH}$ or methanol"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What mathematician developed a notation of calculus that uses $dy$ and $dx$ independently of the work of Isaac Newton?",
+    "answer": "Gottfried Wilhelm Leibniz (accept: Leibniz)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the maximum $r$ such that nine spheres of radius $r$ can be packed inside a cube of side length4?",
+    "choices": {
+      "W": "$3\\qrt{3} -5$",
+      "X": "$4\\qrt{3} -6$",
+      "Y": "$2\\qrt{3} - \\qrt{6}$",
+      "Z": "$2\\qrt{3} -1$"
+    },
+    "answer": "X) $4\\qrt{3} -6$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Fault Mechanics group at MIT are studying how magmatic intrusions can cause extensional strain in the Earth's crust. They are specifically studying the affects of intrusions that vertically cut through many layers of rock. What are the names of these intrusions?",
+    "answer": "Dikes"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Fault Mechanics group at MIT the moment magnitude scale to measure the intensity of foreshocks and aftershocks of earthquakes. Which of the following statements best describes the difference between the Richter scale and the moment magnitude scale?",
+    "choices": {
+      "W": "The Richter scale is based on energy released whereas the moment magnitude scale is based on damage done",
+      "X": "The moment magnitude scale considers factors such as fault displacement whereas the Richter scale does not",
+      "Y": "The Richter scale is a quadratic scale whereas the moment magnitude scale is a logarithmic scale",
+      "Z": "A high scoring earthquake on the Richter scale will have a low score on the moment magnitude scale"
+    },
+    "answer": "X) The moment magnitude scale considers factors such as fault displacement whereas the Richter Scale does not"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true regarding plant transport?",
+    "choices": {
+      "W": "Sucrose is typically transported through sieve-tubes",
+      "X": "Bulk flow in plants functions through negative pressure",
+      "Y": "Under normal conditions, proteins may pass through plant plasmodesmata",
+      "Z": "The Casparian strip is only permeable to water"
+    },
+    "answer": "W) Sucrose is typically transported through sieve-tubes"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Suppose there are three groups with100 organisms each with3 different species W, X, and Y: Group1 contains25 W,50 X and25 Y, Group2 contains50 W and50 X while Group3 contains33 W,34 X, and33 Y, which of the three groups has the highest diversity, according to the Shannon Diversity Index?",
+    "choices": {
+      "W": "Group1",
+      "X": "Group2",
+      "Y": "Group3",
+      "Z": "Two groups have equal diversity"
+    },
+    "answer": "Y) Group3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term describes streamlined asymmetrical hills formed by retreating glaciers that point in the opposite direction of a glacier's retreat?",
+    "answer": "Drumlin"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three elements that are present in the Fraunhofer spectral line series:1) Hydrogen2) Calcium3) Iron",
+    "answer": "1,2, and3 (accept: all)"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In kilogram meters squared, what is the moment of inertia about the central axis perpendicular to the plane of a square with sides of length3 meters and a mass of10 kilograms?",
+    "answer": "15 kilogram meters squared"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A1-centimeter long projectile is shot through a wheel at100 meters per second. There are8 evenly spaced spokes on the wheel. What is the minimum angular velocity, in revolutions per second, that is needed to ensure the projectile hits a spoke?",
+    "answer": "1250 revolutions per second"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In electroplating, the pure metal deposits on which electrode?",
+    "choices": {
+      "W": "Positive cathode",
+      "X": "Positive anode",
+      "Y": "Negative cathode",
+      "Z": "Negative anode"
+    },
+    "answer": "Y) Negative cathode"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three pairs of compounds which have the same molecular geometry:1) $\\athrm{ICl}_3$ and $\\athrm{NH}_3$2) $\\athrm{SF}_4$ and $\\athrm{XeF}_4$3) $\\athrm{SO}_3$ and $\\athrm{BF}_3$",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Jessica is performing colorimetry on a compound, so she plots the transmittance versus the concentration of the compound. Which of the following best describes the graph that results?",
+    "choices": {
+      "W": "Linear",
+      "X": "Quadratic",
+      "Y": "Exponential",
+      "Z": "Logarithmic"
+    },
+    "answer": "Y) Exponential"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers is closest to the maximal molar extinction coefficient in the visible light range of the permanganate anion?",
+    "choices": {
+      "W": "$10^{2}$ liters per mole per centimeter",
+      "X": "$10^{4}$ liters per mole per centimeter",
+      "Y": "$10^{6}$ liters per mole per centimeter",
+      "Z": "$10^{8}$ liters per mole per centimeter"
+    },
+    "answer": "X) $10^{4}$ liters per mole per centimeter"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In relativity, the combination of space and time allows the construction of what vectors with timelike and spacelike components?",
+    "answer": "Four- vectors"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, arrange the following three materials in order of increasing thermal conductivity:1) Diamond2) Brass3) Fiberglass",
+    "answer": "3,2,1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following mutagens is the most common cause of a thymine dimer?",
+    "choices": {
+      "W": "Benzo[a]pyrene (BEN-zoh A py-reen)",
+      "X": "Radium",
+      "Y": "UV light",
+      "Z": "Mustard gas"
+    },
+    "answer": "Y) UV light"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Quantum tunneling is thought to be a possible source of some mutations in DNA. Ions of what element in DNA are susceptible to moving via quantum tunneling?",
+    "answer": "Hydrogen"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many100-digit positive integers have digit sum898?",
+    "choices": {
+      "W": "4950",
+      "X": "5050",
+      "Y": "5150",
+      "Z": "5250"
+    },
+    "answer": "X)5050"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For real values of $x$, what is the maximum possible value of $\\in x +2 \\os x$?",
+    "answer": "$\\qrt{5}$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name given to the stage of our universe during which protons captured free electrons to form neutral hydrogen, resulting in the universe becoming transparent?",
+    "answer": "Recombination"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals is the principle ore for lead?",
+    "choices": {
+      "W": "Sphaelerite",
+      "X": "Galena",
+      "Y": "Cinnabar",
+      "Z": "Chalcopyrite"
+    },
+    "answer": "X) Galena"
+  }
+]

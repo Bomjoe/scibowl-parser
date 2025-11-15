@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the distance, to the nearest megaparsec, of a galaxy moving at a recessional velocity of 120 kilometers per second?",
+    "answer": "2"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true of the cosmic microwave background: 1) Its temperature is around 30 kelvin 2) It was formed at an early stage of the universe 3) It serves as evidence for the Big Bang",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The square of which of the following numbers has the same first and last digit?",
+    "choices": {
+      "W": "26",
+      "X": "23",
+      "Y": "17",
+      "Z": "14"
+    },
+    "answer": "W) 26"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four shapes which can be the intersection of a plane and a cube: 1) Equilateral triangle 2) Square 3) Regular pentagon 4) Regular hexagon",
+    "answer": "1, 2, 4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases is the densest at room temperature?",
+    "choices": {
+      "W": "Helium",
+      "X": "Oxygen",
+      "Y": "Argon",
+      "Z": "Carbon dioxide"
+    },
+    "answer": "Z) Carbon dioxide"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "If Anton combusts 11 grams of propane in air, to the nearest gram, how many grams of water vapor should he expect to get?",
+    "answer": "18 grams"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Lactase breaks down lactose into which two molecules?",
+    "answer": "Glucose and galactose"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which molecule is responsible for alcohol intolerance, produced by the metabolism of alcohol by alcohol dehydrogenases?",
+    "answer": "Acetaldehyde"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If 24 coulombs of charge flow through a resistor over two seconds with a potential difference of 4 volts, what is the resistance of the resistor in ohms?",
+    "answer": "$1/3$ ohms"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In 2019, the SI base units were redefined to decrease the dependence of the base units on arbitrary physical artifacts and increase their dependence on fundamental constants. Which SI base unit was redefined so that Planck's constant would have an exact value?",
+    "answer": "Kilogram"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "The Tannenbaum group at MIT studies nitrogen-containing small molecules such as nitric oxide and their effects on biological systems. Which of the following effects can be caused by nitric oxide?",
+    "choices": {
+      "W": "Vasodilation of blood vessels",
+      "X": "Vasoconstriction of blood vessels",
+      "Y": "Extension of blood vessels",
+      "Z": "Migration of blood vessels"
+    },
+    "answer": "W) Vasodilation of blood vessels"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Voigt group studies genetic circuits in $E$. coli, which may use clusters of related genes under the control of a single promoter. What are these clusters called?",
+    "answer": "Operons"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three processes that are endothermic: 1) Melting of ice 2) Dissolution of sodium chloride in water 3) Dissolution of sodium hydroxide in water",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the VSEPR molecular geometry of sulfur trioxide?",
+    "choices": {
+      "W": "Bent",
+      "X": "Trigonal planar",
+      "Y": "Trigonal pyramidal",
+      "Z": "T-shaped"
+    },
+    "answer": "X) Trigonal Planar"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Cummins group at MIT is studying how to reduce phosphate directly to phosphines without having white phosphorus as an intermediate. What is the oxidation state of phosphorus in phosphate?",
+    "answer": "$+5$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Cummins group at MIT is studying the synthesis of oligophosphates such as adenosine triphosphate. The synthesis of adenosine triphosphate from adenosine diphosphate and the phosphate anion is accompanied by the elimination of what molecule?",
+    "answer": "Water"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name of the law that relates the hydrodynamical pressure, velocity, and gravitational potential?",
+    "answer": "Bernoulli"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "When a spinning ice skater moves their hands inwards, what happens to the angular momentum and angular velocity, respectively?",
+    "choices": {
+      "W": "Angular momentum decreases, angular velocity increases",
+      "X": "Angular momentum increases, angular velocity increases",
+      "Y": "Angular momentum stays the same, angular velocity increases",
+      "Z": "Angular momentum stays the same, angular velocity decreases"
+    },
+    "answer": "Y) Angular momentum stays the same, angular velocity increases"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the equation in standard form for the circle with a diameter whose endpoints are $(2,0)$ and $(6,6)$?",
+    "answer": "$(x - 4)^{2} + (y - 3)^{2} = 13$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many squares can be formed from the edges of a 6 by 6 square grid?",
+    "answer": "91"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following anatomical features of finches led Charles Darwin to formulate his theory of evolution?",
+    "choices": {
+      "W": "Beak size",
+      "X": "Leg length",
+      "Y": "Tail plumage",
+      "Z": "Wingspan"
+    },
+    "answer": "W) Beak size"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following animals is most closely related to a whale?",
+    "choices": {
+      "W": "Cat",
+      "X": "Frog",
+      "Y": "Snake",
+      "Z": "Sheep"
+    },
+    "answer": "Z) Sheep"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements describes the conditions under which absolute instability would occur?",
+    "choices": {
+      "W": "Environmental lapse rate is less than the wet adiabatic rate",
+      "X": "Environmental lapse rate is less than the dry adiabatic rate",
+      "Y": "Environmental lapse rate is greater than the wet adiabatic rate",
+      "Z": "Environmental lapse rate is greater than the dry adiabatic rate"
+    },
+    "answer": "Z) Environmental lapse rate is greater than the dry adiabatic rate"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following four ions in increasing concentration in seawater: 1) Sodium 2) Chloride 3) Calcium 4) Magnesium",
+    "answer": "3, 4, 1, 2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "In 2001, MIT professor Wolfgang Ketterle won the Nobel Prize in Physics for being one of the first people to create what state of matter using an ultracold gas of sodium atoms?",
+    "answer": "Bose-Einstein condensate"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the MIT Center for Theoretical Physics are investigating the black hole information problem, which asks what happens to the information carried by an object when it falls into a black hole. This scenario is of particular interest because it appears to bring the conservation of quantum information into conflict with what theorem about black holes?",
+    "answer": "No-hair theorem"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three cloud types by increasing altitude of where they are usually found: 1) Cirrus 2) Cumulus 3) Stratus",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term refers to the periods when glaciers advance extremely quickly, at rates of up to 100 times their normal speed?",
+    "answer": "Surge"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following acids is NOT polyprotic?",
+    "choices": {
+      "W": "Phosphorous acid",
+      "X": "Sulfurous acid",
+      "Y": "Carbonic acid",
+      "Z": "Palmitic acid"
+    },
+    "answer": "Z) Palmitic acid"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three metals that would reduce aqueous $\\athrm{Cu}^{2+}$: 1) Iron 2) Silver 3) Zinc",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An alpha particle is the nucleus of what element?",
+    "answer": "Helium"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Three identical resistors in parallel are connected in series to a fourth identical resistor. If the resistance of each resistor is 15 ohms, in ohms, what is the equivalent resistance of this entire arrangement?",
+    "answer": "20 ohms"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sine of the arccosine of $\\rac{1}{5}$?",
+    "answer": "$\\rac{2\\qrt{6}}{5}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Suppose that events A, B, and C all have probability 0.3. If events B and C are disjoint and event A is independent from both the other events, then what is the probability that exactly one of the events occurs?",
+    "answer": "0.54"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In sea urchins, depolarization caused by the fusion of a sperm nucleus with an egg cytoplasm acts as a fast block to what condition in which multiple sperm fuse with a single egg?",
+    "answer": "Polyspermy"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three terms that accurately describe humans: 1) Deuterostomes 2) Diploblasts 3) Holoblasts",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three quantities which are vectors: 1) Velocity 2) Momentum 3) Kinetic energy",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "At room temperature and pressure, iron displays what type of magnetism?",
+    "choices": {
+      "W": "Diamagnetism",
+      "X": "Paramagnetism",
+      "Y": "Ferromagnetism",
+      "Z": "Antiferromagnetism"
+    },
+    "answer": "Y) Ferromagnetism"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A plant with red flowers and a plant with white flowers are crossed to produce a plant with pink flowers. Which of the following best describes this type of inheritance?",
+    "choices": {
+      "W": "Mendelian",
+      "X": "Codominance",
+      "Y": "Incomplete dominance",
+      "Z": "Mitochondrial"
+    },
+    "answer": "Y) Incomplete dominance"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A certain genetic disease in humans can only be inherited from the mother. Which of the following inheritance patterns could explain this effect?",
+    "choices": {
+      "W": "X-linked dominant",
+      "X": "X-linked recessive",
+      "Y": "Y-linked dominant",
+      "Z": "Mitochondrial"
+    },
+    "answer": "Z) Mitochondrial"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What is the formal charge of the carbon atom in methanol?",
+    "choices": {
+      "W": "$-2$",
+      "X": "$-1$",
+      "Y": "0",
+      "Z": "$+1$"
+    },
+    "answer": "Y) 0"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ions does NOT have the same electron configuration as argon?",
+    "choices": {
+      "W": "$\\athrm{Ca}^{2+}$",
+      "X": "$\\athrm{Na}^{+}$",
+      "Y": "$\\athrm{Sc}^{3+}$",
+      "Z": "$\\athrm{Cl}^{-}$"
+    },
+    "answer": "X) $\\athrm{Na}^{+}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following layers of the atmosphere does the ozone layer primarily reside in?",
+    "choices": {
+      "W": "Troposphere",
+      "X": "Stratosphere",
+      "Y": "Mesosphere",
+      "Z": "Thermosphere"
+    },
+    "answer": "X) Stratosphere"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the angle which is the steepest angle where unconsolidated granulated material remains stable at a slope?",
+    "answer": "Angle of repose"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two concentric circles have radii 3 and 6. What is the area of an ellipse which shares its center with these circles and is tangent to both circles?",
+    "answer": "$18\\i$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of the expression $(1 + 3i)(3 + i)(1 + 5i)(5 + i)$?",
+    "answer": "$-260$"
+  }
+]

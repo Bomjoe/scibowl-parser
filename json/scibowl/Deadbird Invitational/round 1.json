@@ -1,0 +1,484 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "How many valence electrons are present in the ground state of a carbon atom?",
+    "answer": "4"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 particles that can be found in the nucleus of a hydrogen-1 atom: 1) Electron; 2) Proton; 3) Neutron.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers is considered prime?",
+    "choices": {
+      "W": "36",
+      "X": "37",
+      "Y": "38",
+      "Z": "39"
+    },
+    "answer": "X) 37"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the solutions for the equation $x^2 - x = 0$?",
+    "answer": "0 AND 1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "A student in biology class is observing cells under a compound light microscope. He observes green, rectangular shaped cells containing many small green dots. Which of the following organisms could this cell belong to?",
+    "choices": {
+      "W": "Elodea",
+      "X": "Yeast",
+      "Y": "Onion",
+      "Z": "Human"
+    },
+    "answer": "W) ELODEA"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 taxonomic divisions from most exclusive to most inclusive: 1) Kingdom; 2) Phylum; 3) Species.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Metallic, waxy, and dull are all adjectives used to describe what physical property of minerals that describes how well light is reflected?",
+    "answer": "LUSTER"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of lava is formed underwater in submarine eruptions?",
+    "choices": {
+      "W": "Pahoehoe",
+      "X": "Aa",
+      "Y": "Pillow",
+      "Z": "Blocky"
+    },
+    "answer": "Y) PILLOW"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the y-intercept of a line with equation $y = 2x + 5$?",
+    "answer": "5"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the slope of a line that passes through the points (1,2) and (5,-10)?",
+    "answer": "-3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quantities is equal to average speed?",
+    "choices": {
+      "W": "Acceleration divided by time",
+      "X": "Velocity divided by time",
+      "Y": "Displacement divided by time",
+      "Z": "Distance divided by time"
+    },
+    "answer": "Z) DISTANCE DIVIDED BY TIME"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "Sally drives from her home to her office 40 miles away, but after she gets to work she realizes he forgot her phone at home and must drive back home. After she gets home and grabs her phone, she drives back to the office. What is the magnitude of the total displacement, in miles, of Sally's journey?",
+    "answer": "40"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are researching how changes in land cover and aerosols will affect thunderstorms and precipitation near the Gulf Coast. What is the name of the naturally occurring electrostatic discharge that occurs during thunderstorms?",
+    "answer": "LIGHTNING"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Ames National Lab are exploring possible alternatives for water filtering to counter water-borne diseases from affecting third-world countries. What water purification process utilizes permeable membranes and external pressure to filter out unwanted molecules from drinking water?",
+    "answer": "REVERSE OSMOSIS"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following would NOT be found in cyanobacteria, a phylum of photosynthetic prokaryotes?",
+    "choices": {
+      "W": "Ribosome",
+      "X": "Thylakoid",
+      "Y": "Nucleoid",
+      "Z": "Golgi body"
+    },
+    "answer": "Z) GOLGI BODY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of asymmetric division processes best describes the main reproduction method of most yeasts?",
+    "choices": {
+      "W": "Binary fission",
+      "X": "Budding",
+      "Y": "Vegetative reproduction",
+      "Z": "Fragmentation"
+    },
+    "answer": "X) BUDDING"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The giant impact hypothesis explains the creation of which of the following objects as a result of a collision with the Earth?",
+    "choices": {
+      "W": "The Sun",
+      "X": "Africa",
+      "Y": "The Moon",
+      "Z": "The Milky Way"
+    },
+    "answer": "Y) THE MOON"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following celestial objects is the name of one of Mars's moons?",
+    "choices": {
+      "W": "Io",
+      "X": "Phobos",
+      "Y": "Callisto",
+      "Z": "Titan"
+    },
+    "answer": "X) PHOBOS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the area of a rectangle with length 16 and width 12?",
+    "choices": {
+      "W": "192",
+      "X": "252",
+      "Y": "282",
+      "Z": "312"
+    },
+    "answer": "W) 192"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 numbers that are perfect squares: 1) 3.6; 2) 16; 3) 0.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "What quantity, whose SI unit is newton-seconds per square meter, describes the resistance of a fluid to flow?",
+    "answer": "VISCOSITY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "A block slides across a floor for a distance of 5 meters. If the frictional force between the block and the floor has a magnitude of 300 newtons, what is the work, in joules, that is done on the block?",
+    "answer": "-1500"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Laboratories have been investigating a type of radiation, in which a neutron, with a charge of 0, decays into two particles. If one of these resultant particles has a charge of $+1$, what must be the charge of the other ejected particle?",
+    "answer": "-1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Ames National Lab have been performing experiments on hadrons, particles consisting of two or more quarks. Which of the following is not a flavor of quark?",
+    "choices": {
+      "W": "Up",
+      "X": "Top",
+      "Y": "Weird",
+      "Z": "Charm"
+    },
+    "answer": "Y) WEIRD"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Axons in the brain are surrounded by fatty substances that insulate them and increase the rate at which electrical impulses occur. These insulating substances are mainly made of what whitish, lipid-rich substance?",
+    "answer": "MYELIN"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 organisms that exhibit radial symmetry: 1) Beetle; 2) Starfish; 3) Coral polyp; 4) Jellyfish.",
+    "answer": "2, 3, AND 4"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following atmospheric cells contains the westerlies and lies in the middle of the other atmospheric cells?",
+    "choices": {
+      "W": "Hadley",
+      "X": "Ferrel",
+      "Y": "Polar",
+      "Z": "Rayleigh"
+    },
+    "answer": "X) FERREL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 spectral classifications from hottest to the coolest: 1) G; 2) K; 3) B.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following equations has a degree of 2?",
+    "choices": {
+      "W": "$y = 2$",
+      "X": "$y = 2x + 7$",
+      "Y": "$y = x^2 + 2x - 5$",
+      "Z": "$y = x^3 + 2$"
+    },
+    "answer": "Y) $Y = X^2 + 2X - 5$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A line has a slope of 4 and passes through the point (1, 7). What is its equation?",
+    "answer": "$Y = 4X + 3$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "What is the period, in seconds, of a wave with a frequency of 4 hertz?",
+    "answer": "0.25"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "Giving your answer in terms of $c$, what is the speed of light in a material with an index of refraction of 1.25?",
+    "answer": "0.8C"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the CDC are studying the genetic information of SARS-CoV-2 in an attempt to better understand the effectiveness of mRNA vaccines. Similar to DNA, RNA also has 4 nitrogenous bases, but unlike DNA, it has what nitrogenous base that is analogous to thymine in DNA?",
+    "answer": "URACIL"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Princeton Plasma Physics Lab are studying the decay of carbon-14 to nitrogen-14 in attempts to better understand types of beta decay. Which of the following fundamental forces is mainly responsible for causing radioactive beta decay?",
+    "choices": {
+      "W": "Strong",
+      "X": "Electromagnetic",
+      "Y": "Weak",
+      "Z": "Gravitational"
+    },
+    "answer": "Y) WEAK"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "How many bones does a typical adult human have?",
+    "answer": "206"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following components of blood is responsible for clotting?",
+    "choices": {
+      "W": "Red blood cells",
+      "X": "White blood cells",
+      "Y": "Platelets",
+      "Z": "Plasmas"
+    },
+    "answer": "Y) PLATELETS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the layer of the atmosphere with the lowest density of air particles?",
+    "answer": "EXOSPHERE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "If Edwin observes a full moon on October 1st, which of the following dates is most likely going to also be a full moon?",
+    "choices": {
+      "W": "October 8",
+      "X": "October 15",
+      "Y": "October 30",
+      "Z": "November 6"
+    },
+    "answer": "Y) OCTOBER 30"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quadrilaterals is not considered a parallelogram?",
+    "choices": {
+      "W": "Square",
+      "X": "Kite",
+      "Y": "Rhombus",
+      "Z": "Rectangle"
+    },
+    "answer": "X) KITE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the diameter of a circle whose area is equal to its circumference?",
+    "answer": "4"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physical_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true of an object moving in uniform circular motion?",
+    "choices": {
+      "W": "The object's speed is constant",
+      "X": "The object's velocity is constant",
+      "Y": "No work is performed on the object throughout its motion",
+      "Z": "The acceleration of the object is always pointed towards the center of its motion"
+    },
+    "answer": "X) THE OBJECT'S VELOCITY IS CONSTANT"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physical_science",
+    "answer_type": "short_answer",
+    "body": "A planet is moving in uniform circular motion around its star, and experiences a centripetal force of magnitude $F$. If the velocity of the planet's orbit remains constant while its radius is doubled, what will be the magnitude of the planet's new centripetal force in terms of $F$?",
+    "answer": "F/2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 regions in the solar system from closest to furthest from the Sun: 1) Kuiper belt; 2) Asteroid belt; 3) Oort cloud.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following layers of the solar atmosphere would be blocked from view in a total solar eclipse?",
+    "choices": {
+      "W": "Photosphere",
+      "X": "Chromosphere",
+      "Y": "Magnetosphere",
+      "Z": "Corona"
+    },
+    "answer": "W) PHOTOSPHERE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "life_science",
+    "answer_type": "multiple_choice",
+    "body": "During mitosis, which of the following structures is responsible for regulating movement in the nucleus?",
+    "choices": {
+      "W": "Centrosomes",
+      "X": "Centromeres",
+      "Y": "Kinetochores",
+      "Z": "Microtubules"
+    },
+    "answer": "W) CENTROSOMES"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "life_science",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 ecosystems from lowest to highest net primary productivity: 1) Tropical rainforest; 2) Tundra; 3) Temperate grassland.",
+    "answer": "2, 3, 1"
+  }
+]

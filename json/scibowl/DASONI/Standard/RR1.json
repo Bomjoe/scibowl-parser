@@ -1,0 +1,425 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which type of ground tissue has a primary cell wall that is unevenly thickened and provides flexible mechanical support?",
+    "choices": {
+      "W": "Parenchyma",
+      "X": "Collenchyma",
+      "Y": "Sclerenchyma",
+      "Z": "Procambium"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What type of cell junction functions as a rivet, linking epithelial cells into sheets?",
+    "choices": {
+      "W": "Gap junction",
+      "X": "Tight junction",
+      "Y": "Desmosome",
+      "Z": "Adherens junction"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many sigma bonds are contained in the nitrate ion?",
+    "answer": "3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What intermolecular force explains why octane has a much higher boiling point than methane?",
+    "answer": "LONDON DISPERSION"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the large depression formed by a volcano's magma chamber collapsing post-eruption?",
+    "answer": "CALDERA"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "How many atmospheric cells are located in each hemisphere?",
+    "answer": "3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of the region bounded by the lines $y = 0$, $x = 0$, $x = 4$, and $y = x + 2$?",
+    "answer": "16"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the sum of the distinct prime factors of 2022?",
+    "choices": {
+      "W": "1013",
+      "X": "4056",
+      "Y": "3036",
+      "Z": "342"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the temperature of the cosmic microwave background, in Kelvin?",
+    "choices": {
+      "W": "0.03",
+      "X": "3",
+      "Y": "300",
+      "Z": "3,000,000"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The period of a perfect pendulum is 2 seconds. If the mass of the pendulum is doubled, its length halved, and it is moved to a planet with gravitational acceleration twice that of Earth, what is the new period, in seconds?",
+    "answer": "1"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "A box is sliding down a ramp at an increasing speed. By name or number, order the following three forces on the box by increasing magnitude: 1) Gravity 2) Friction 3) Normal force",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "A mysterious bouncy ball has the strange property of bouncing $50\\$ higher on each successive bounce. If the ball is dropped from a height of 10 meters, how much total distance, in meters, will it have covered just before its 4th bounce?",
+    "answer": "152.5"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In what type of mimicry do two unpalatable species resemble each other?",
+    "answer": "MULLERIAN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a population of twenty-five phoenixes, one individual is blue. Assuming that the population is in Hardy-Weinberg equilibrium and that the allele for red feather color is dominant over the allele for blue feather color, how many individuals are heterozygous?",
+    "answer": "8"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A neutron-rich isotope such as tritium would most likely decay by which of the following mechanisms?",
+    "choices": {
+      "W": "Beta minus decay",
+      "X": "Beta plus decay",
+      "Y": "Alpha decay",
+      "Z": "Electron capture"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What law states that the net enthalpy change of a reaction is independent of the number of steps the reaction occurs in?",
+    "answer": "HESS'S LAW"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three minerals from hardest to softest on the Mohs scale: 1) Apatite 2) Gypsum 3) Orthoclase",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following space telescopes observes in the visible part of the electromagnetic spectrum and was launched to help discover earth-sized exoplanets?",
+    "choices": {
+      "W": "Spitzer",
+      "X": "COBE",
+      "Y": "Compton",
+      "Z": "Kepler"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sam has 3 red balls and 5 green balls. If he chooses two balls at random without replacement, what is the probability they are the same color?",
+    "answer": "13/28"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Given that a perfect number is any number $n$ whose factors sum to $2$ times $n$, which of the following numbers is perfect?",
+    "choices": {
+      "W": "18",
+      "X": "24",
+      "Y": "28",
+      "Z": "36"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the probability that a particle in an infinite square well will be found outside of the well?",
+    "answer": "0"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "How will the temperature of the cosmic microwave background radiation change in the future?",
+    "choices": {
+      "W": "It will be hotter",
+      "X": "It will be colder",
+      "Y": "It will stay constant",
+      "Z": "Some parts will get hotter while others will get colder"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Order the following four spectral classes from coldest to hottest: 1) A 2) K 3) B 4) F",
+    "answer": "2, 4, 1, 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "If the $\\athrm{K}_{\\athrm{a}}$ of acetic acid is $2 \\times 10^{-5}$, what is its $\\athrm{K}_{\\athrm{b}}$ in scientific notation?",
+    "answer": "$5 \\times 10^{-10}$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Which chamber of the heart is the pulmonary vein connected to?",
+    "answer": "LEFT ATRIUM"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which protein blocks the myosin binding sites on actin?",
+    "choices": {
+      "W": "Troponin",
+      "X": "Alpha-actinin",
+      "Y": "Tropomyosin",
+      "Z": "Desmin"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What reaction order has a half-life independent of concentration?",
+    "answer": "FIRST"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider the decomposition of ozone into oxygen gas. If oxygen gas is evolved at a rate of $6.0 \\times 10^{-5}$ molar per second, to two significant figures and in molar per second, at what rate does ozone disappear?",
+    "answer": "$4.0 \\times 10^{-5}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In stars, what is the last element produced before nuclear fusion requires more energy than it produces?",
+    "answer": "IRON"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three layers of the sun from innermost to outermost: 1) Convective zone 2) Photosphere 3) Radiative zone",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "On each of the three days from Monday to Wednesday, the probability of rain is $40\\$. Given that the occurrence of rain on any two days is independent, what is the probability that there is no rain on any of the days? Express your answer as a fraction.",
+    "answer": "27/125"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two circles of radius 3 are externally tangent to one another and internally tangent to another, larger, circle. Giving your answer in terms of pi, find the smallest possible area of the region inside the larger circle and outside the two smaller circles.",
+    "answer": "18 PI"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following necessarily implies that angular momentum is conserved?",
+    "choices": {
+      "W": "There is no angular momentum in the system",
+      "X": "Linear momentum is conserved",
+      "Y": "The net torque is zero",
+      "Z": "All forces acting on the system are conservative"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Schrodinger's equation describes the evolution over time of what mathematical description of a quantum state?",
+    "answer": "WAVEFUNCTION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Freezing fog is fog formed at temperatures below freezing and can lead to icy roads as the supercooled droplets in the fog freeze on the road surface. What type of precipitation behaves most similarly to freezing fog?",
+    "answer": "FREEZING RAIN"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes humoral immunity?",
+    "choices": {
+      "W": "Cytokines recruiting neutrophils to the site of infection",
+      "X": "Antibody release by plasma cells",
+      "Y": "Killing of infected cells by cytotoxic T cells",
+      "Z": "Release of interferon by virus-infected cells"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the net $\\athrm{FADH}_2$ yield per molecule of glucose in the Krebs cycle?",
+    "answer": "2"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "One method of karyotyping involves adding colchicine to cells, a drug that causes microtubules to dissociate into individual tubulin units. What phase of mitosis would this arrest cells in?",
+    "answer": "METAPHASE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the titration between chloric acid and ammonia?",
+    "choices": {
+      "W": "The equivalence point is at a pH less than 7",
+      "X": "The equivalence point is at pH 7",
+      "Y": "The equivalence point is at a pH greater than 7",
+      "Z": "The equivalence point depends on the indicator used"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three sets of compounds that, if mixed together in the appropriate ratios, would act as buffers: 1) Sodium acetate and acetic acid 2) Dihydrogen phosphate and hydrogen phosphate 3) Carbonate and bicarbonate",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In the sea/land breeze convective cell, which of the following options best describes surface wind direction at midday and during the night?",
+    "choices": {
+      "W": "To sea, to sea",
+      "X": "To sea, to land",
+      "Y": "To land, to land",
+      "Z": "To land, to sea"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the name of the type of fan fold where the youngest layers are located inside the fold, assuming no layers are overturned?",
+    "choices": {
+      "W": "Anticline",
+      "X": "Syncline",
+      "Y": "Monocline",
+      "Z": "Pycnocline"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 22,
+    "question_type":

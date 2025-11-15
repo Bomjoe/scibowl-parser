@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following triple junction configurations is always stable?",
+    "choices": {
+      "W": "Ridge-Ridge-Ridge",
+      "X": "Fault-Fault-Fault",
+      "Y": "Ridge-Trench-Trench",
+      "Z": "Ridge-Ridge-Fault"
+    },
+    "answer": "W) RIDGE-RIDGE-RIDGE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following is closest to a single lunar synodic day?",
+    "choices": {
+      "W": "12 hours and 25 minutes",
+      "X": "24 hours",
+      "Y": "24 hours and 50 minutes",
+      "Z": "26 hours"
+    },
+    "answer": "Y) 24 HOURS AND 50 MINUTES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A right prism has equilateral triangles with side length 6 as bases. If the volume of the prism is 54 square root of 3, what is the lateral surface area?",
+    "answer": "108"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A point P is chosen inside a regular hexagon with side length 2 centimeters. What is the probability that P is within 1 centimeter of any of the vertices?",
+    "answer": "$\\i$ TIMES THE SQUARE ROOT OF 3 OVER 9"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two point charges, each with charge –6 coulombs are brought in from infinity to a distance of 2 meters apart. To two significant digits and in scientific notation, how much work, in joules, does this take?",
+    "answer": "$1.6 \\times 10^{11}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A nucleus of thorium-231 initially at rest splits into three particles, two of which are nuclei of barium-140 and krypton-90. Those two nuclei then travel at 1 kilometer per second at an angle of 90 degrees from each other. If momentum is conserved, what is the speed of the third particle to the nearest 10 kilometers per second?",
+    "answer": "170"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "According to band theory, an n-type semiconductor works by adding additional electrons to what band?",
+    "answer": "CONDUCTION BAND"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Halogenation of alkenes is often performed in tetrachloromethane because halogenation performed in water can form what general class of organic molecules?",
+    "answer": "HALOHYDRINS"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the $\\athrm{IP}_3$ DAG pathway, what enzyme is responsible for cleaving the $\\athrm{PIP}_2$ molecule to form DAG and $\\athrm{IP}_3$?",
+    "answer": "PHOSPHOLIPASE C (ACCEPT: PLC)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The interstitial cells of Leydig often contain what yellow-brown pigments that mark lysosomal activity?",
+    "answer": "LIPOFUSCIN"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at SLAC National Accelerator Lab are researching why perovskite solar cells work so well despite crystal defects that may trap electrons. This may be explained via what quasiparticles, which are collective physical excitations in the perovskite structure?",
+    "choices": {
+      "W": "Excitons",
+      "X": "Phonons",
+      "Y": "Magnons",
+      "Z": "Electron holes"
+    },
+    "answer": "X) PHONONS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab are creating a new, detailed molecular roadmap that counters endometrial cancer progression. What protein family, well-known for playing a role in many cancer types when mutated or overexpressed, is being targeted to restore the coordination of cell-cell adhesion and gene transcription?",
+    "answer": "CATENIN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the electronic excitation exhibited when a phosphorescent material absorbs a photon?",
+    "choices": {
+      "W": "Singlet state to doublet state",
+      "X": "Doublet state to singlet state",
+      "Y": "Singlet state to triplet state",
+      "Z": "Triplet state to singlet state"
+    },
+    "answer": "Y) SINGLET STATE TO TRIPLET STATE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What specific type of entropy remains at absolute zero due to the positional disorder in a crystal?",
+    "answer": "RESIDUAL ENTROPY"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What non-Mendelian mode of dominance characterizes the MN blood group?",
+    "answer": "CODOMINANCE"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Hemolytic disease of the newborn is an alloimmune condition produced by the passing of what immunoglobulin from mother to child?",
+    "answer": "IgG"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding main sequence stars; 1) Main sequence stars have a lower mass limit of about 0.08 solar masses; 2) Main sequence stars generally increase in temperature and luminosity as they evolve; 3) Hydrogen fusion in main sequence stars of less than 3 solar masses is dominated by the proton-proton chain.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three solar system bodies that have a differentiated interior: 1) Earth's moon; 2) Vesta; 3) Mercury.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following expressions is equivalent to the number of ways that 2020 identical marbles can be split between 3 distinct boxes?",
+    "choices": {
+      "W": "2022 choose 2",
+      "X": "2022 choose 3",
+      "Y": "2023 choose 2",
+      "Z": "2023 choose 3"
+    },
+    "answer": "W) 2022 CHOOSE 2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Five lines are drawn in a plane. What is the maximum number of regions that those five lines can split the plane into?",
+    "answer": "16"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two clarinets are being tuned. One plays a note at 440 hertz, while another plays a note at 437 hertz. In hertz, what beat frequency is heard?",
+    "answer": "3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that are considered pseudovectors: 1) Velocity; 2) Angular momentum; 3) Magnetic field.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "DOE researchers at the Center for Functional Nanomaterials at Brookhaven National Lab are using next-generation lithography to etch microscopic patterns. One form of photolithography is immersion lithography, which uses a fluid with an index of refraction greater than one in place of an air gap between the lens and wafer surface to increase resolution. If the resolution with an air gap is 120 nanometers, what is the resolution when water with an index of refraction of 1.33 is used, to the nearest nanometer?",
+    "answer": "90"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Brookhaven National Lab use the National Synchrotron Light Source II to produce X-rays for probing material structures. Which of the following is the best explanation for how this synchrotron radiation is produced?",
+    "choices": {
+      "W": "Electrons are excited to a higher energy level and radiate when they drop down to the ground state",
+      "X": "Electrons travel through a medium faster than the local speed of light",
+      "Y": "Kinetic energy of electrons is converted into electromagnetic radiation upon deceleration",
+      "Z": "Relativistic electrons are accelerated transverse to their velocity"
+    },
+    "answer": "Z) RELATIVISTIC ELECTRONS ARE ACCELERATED TRANSVERSE TO THEIR VELOCITY"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Ising model describes which of the following systems?",
+    "choices": {
+      "W": "Ferromagnets",
+      "X": "Superconductors",
+      "Y": "Atomic orbitals",
+      "Z": "Atomic nuclei"
+    },
+    "answer": "W) FERROMAGNETS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A small object of mass 100 grams and cross sectional area 0.01 square meters is falling through oil with terminal velocity of 0.7 meters per second. If the density of the oil is 500 kilograms per cubic meter, what is the drag coefficient of the object?",
+    "answer": "0.8"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is least likely to contain a high concentration of mitochondria?",
+    "choices": {
+      "W": "Brown fat",
+      "X": "Muscle tissue",
+      "Y": "Hepatocytes",
+      "Z": "Epithelial tissue"
+    },
+    "answer": "Z) EPITHELIAL TISSUE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Reactive oxygen species may form from the leakage of what from mitochondria?",
+    "answer": "ELECTRONS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Rank the following three sets in terms of increasing size: 1) The integers from 1 to 100 inclusive with at least one 5 as a digit; 2) The integers from 1 to 100 inclusive with at least one 1 as a digit; 3) The integers from 1 to 100 inclusive with at least one 0 as a digit.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Define the tastiness of a positive integer N as the smallest integer K greater than 1 such that N and K are relatively prime. For how many integers N between 1 and 2020 inclusive is the tastiness of N greater than 4?",
+    "answer": "336"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three carboxylic acid derivatives in terms increasing reactivity towards nucleophilic acyl substitution: 1) Ester; 2) Acid anhydride; 3) Acid chloride.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Cyclohexene is treated with bromine in water, followed by sodium hydroxide. What functional group is likely to be the major product of this reaction?",
+    "answer": "EPOXIDE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The plasma torus surrounding Jupiter is generated by what moon?",
+    "answer": "IO"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following orbital configurations will Venus be seen in the first quarter phase?",
+    "choices": {
+      "W": "Superior conjunction",
+      "X": "Inferior conjunction",
+      "Y": "Greatest eastern elongation",
+      "Z": "Greatest western elongation"
+    },
+    "answer": "Y) GREATEST WESTERN ELONGATION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Ehrenfest’s theorem says that the expectation value of what quantity in a quantum-mechanical system obeys Newton’s second law?",
+    "choices": {
+      "W": "Force",
+      "X": "Kinetic energy",
+      "Y": "Potential energy",
+      "Z": "Momentum"
+    },
+    "answer": "Z) MOMENTUM"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When a down quark decays, the result is an up quark, an electron, and what other particle?",
+    "answer": "ELECTRON ANTINEUTRINO"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What is the final electron acceptor in methanogenic archaea?",
+    "choices": {
+      "W": "Carbon dioxide",
+      "X": "Methane",
+      "Y": "Diatomic oxygen",
+      "Z": "Diatomic hydrogen"
+    },
+    "answer": "W) CARBON DIOXIDE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What specialized cells in cyanobacterial colonies perform nitrogen fixation?",
+    "answer": "HETEROCYSTS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Pacific Northwest National Laboratory are studying fungal resistance in A. thaliana rosette leaves. Which of the following is LEAST likely to be a reason why A. thaliana is usually chosen as a model organism?",
+    "choices": {
+      "W": "Their unique regenerative properties means that errors in the experiments do not greatly affect results",
+      "X": "Their short lifespan allows researchers to sample more generations",
+      "Y": "Their small size makes experiments that require many organisms more feasible",
+      "Z": "Their ability to self-pollinate and create many seeds means that large sample sizes can be created from just a few plants"
+    },
+    "answer": "W) THEIR UNIQUE REGENERATIVE PROPERTIES MEANS THAT ERRORS IN THE EXPERIMENTS DO NOT GREATLY AFFECT THE RESULTS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "DOE researchers at Los Alamos National Lab are trying to create better solar cells using perovskite materials. Which of the following is the biggest obstacle that must be overcome for these solar cells to see widespread use?",
+    "choices": {
+      "W": "Low efficiency",
+      "X": "High material costs",
+      "Y": "High production costs",
+      "Z": "Low stability"
+    },
+    "answer": "Z) LOW STABILITY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the minimum value of the function $f(x)$ equals $e$ to the $x$ plus $e$ to the $-x$ for all real numbers $x$?",
+    "answer": "2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A right circular cone has a radius of 9 and a height of 3. The top is cut off so that the remaining figure is a frustum with radii of 9 and 3. What is the volume of this frustum?",
+    "answer": "78$\\i$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true regarding Diels-Alder cycloadditions?",
+    "choices": {
+      "W": "They are classified as $[4 + 2]$ cycloadditions",
+      "X": "They involve a five-membered ring transition state",
+      "Y": "They proceed via a concerted reaction mechanism",
+      "Z": "They are highly disfavored at high temperatures"
+    },
+    "answer": "X) THEY INVOLVE A FIVE-MEMBERED RING TRANSITION STATE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "PCls is an ionic compound in the solid state. According to VSEPR theory, what are the molecular geometries around the cation and anion, respectively, in solid PCl5?",
+    "answer": "TETRAHEDRAL, OCTAHEDRAL"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about the Ekman spiral is not true?",
+    "choices": {
+      "W": "It is mostly negligible past depths of 200 meters",
+      "X": "It causes water to be deflected to the left of prevailing winds in the Southern Hemisphere",
+      "Y": "Non-ideal deviations from the Ekman spiral result in a net Ekman transport of greater than 90 degrees",
+      "Z": "Surface water is deflected about 45 degrees from the direction of the prevailing winds"
+    },
+    "answer": "Y) NON- IDEAL DEVIATIONS FROM THE EKMAN SPIRAL RESULT IN A NET EKMAN TRANSPORT OF GREATER THAN 90 DEGREES"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three terms that accurately describe stimulated photon emission in a diffuse nebula: 1) Isotropic; 2) Coherent; 3) Incoherent.",
+    "answer": "2 ONLY"
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Muons are unstable and have a rest lifetime of about 2.2 microseconds. In the most common form of muon decay, the products are an electron and what two specific other particles?",
+    "answer": "Muon neutrino and electron antineutrino"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two sinusoidal voltage signals with RMS voltage of 120 Volts are added together 90 degrees out of phase. What is the peak voltage of the resulting signal?",
+    "answer": "240"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following sedimentary rocks displays the poorest sorting?",
+    "choices": {
+      "W": "Diamictite",
+      "X": "Arkose",
+      "Y": "Coquina",
+      "Z": "Shale"
+    },
+    "answer": "W) Diamictite"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following conditions would an observer in Australia experience the highest tidal range?",
+    "choices": {
+      "W": "Lunar periapsis but not syzygy in January",
+      "X": "Lunar syzygy but not periapsis in January",
+      "Y": "Lunar periapsis but not syzygy in June",
+      "Z": "Lunar syzygy but not periapsis in June"
+    },
+    "answer": "X) Lunar syzygy but not periapsis in January"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Trouton's rule states that all liquids have approximately the same entropy of vaporization. Which of the following phenomena would lead to a negative deviation from the expected entropy of vaporization?",
+    "choices": {
+      "W": "Association of molecules in the liquid phase",
+      "X": "Association of molecules in the gas phase",
+      "Y": "Dissociation of molecules in the liquid phase",
+      "Z": "Dissociation of molecules in the gas phase"
+    },
+    "answer": "X) Association of molecules in the gas phase"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "For an endothermic reaction in equilibrium, how do the rates of the forward and reverse reaction change, respectively, when temperature is increased?",
+    "answer": "Increase, increase"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quantities cannot be expressed as a cross product of two other quantities?",
+    "choices": {
+      "W": "Torque",
+      "X": "Angular momentum",
+      "Y": "Power",
+      "Z": "Magnetic force"
+    },
+    "answer": "Y) Power"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Kaiwen is making measurements on a quantum system. He repeatedly makes measurements on the system, causing it to essentially be frozen in the same quantum state. Which of the following is the best name for this effect?",
+    "choices": {
+      "W": "Quantum Decoherence",
+      "X": "Schrodinger effect",
+      "Y": "Quantum Zeno Effect",
+      "Z": "Wave Function collapse"
+    },
+    "answer": "Y) Quantum Zeno Effect"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 parts of the cardiac cycle from earliest to latest: 1) Q 2) T 3) S",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about protein secondary structures is not true?",
+    "choices": {
+      "W": "Antiparallel beta pleated sheets tend to be stronger than parallel beta pleated sheets",
+      "X": "Alpha helices form hydrogen bonds every 4th residue",
+      "Y": "The cores of many globular proteins are composed of beta pleated sheets",
+      "Z": "Salt bridges commonly stabilize secondary structures of proteins"
+    },
+    "answer": "Z) Salt bridges commonly stabilize secondary structures of proteins"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the molecular geometry around the Aluminum atoms in $\\athrm{Al}_{2} \\athrm{Cl}_{6}$?",
+    "answer": "Tetrahedral"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Rohit would like to conduct a redox titration using $\\athrm{H}_{2} \\athrm{O}_{2}$ as the titrant and an unknown solution of $\\athrm{KMnO}_{4}$ and $\\athrm{H}_{2} \\athrm{SO}_{4}$ as the analyte. He uses ACS grade $\\athrm{H}_{2} \\athrm{O}_{2}$ labeled with a concentration of $35\\$ that has been sitting on his shelf for the past year and calculates the $\\athrm{KMnO}_{4}$ concentration using this $35\\$ figure. Which of the following statements about Rohit's experimental process is true?",
+    "choices": {
+      "W": "His process has no errors",
+      "X": "His error would decrease his predicted $\\athrm{KMnO}_{4}$ concentration",
+      "Y": "His error would increase his predicted $\\athrm{KMnO}_{4}$ concentration",
+      "Z": "His error would not affect his predicted $\\athrm{KMnO}_{4}$ concentration"
+    },
+    "answer": "Y) His error would increase his predicted $\\athrm{KMnO}_{4}$ concentration"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If an equilateral triangle has the same area as a regular hexagon, then what is the square of the ratio of the side length of the equilateral triangle to the side length of the regular hexagon?",
+    "answer": "6"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Andy, Brandon, Colin, Derek, and Emily go to the movies to watch Avatar 2 together. They are given five seats in one row, and can choose where they sit. However, Andy and Brandon are best friends and want to sit next to each other. How many ways can they sit in the five seats?",
+    "answer": "48"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the surface pressure on Mercury in Pascals?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "100",
+      "Z": "10,000"
+    },
+    "answer": "W) 0"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the moon’s albedo?",
+    "choices": {
+      "W": "0.1",
+      "X": "0.3",
+      "Y": "0.5",
+      "Z": "0.7"
+    },
+    "answer": "W) 0.1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Recently, controversy surrounding fraudulent images and data in an incredibly influential 2006 publication on the cause of dementia in Alzheimer's has raised concerns about scientific integrity. The new revelations revealing the fraud in the data threaten the leading theory that Alzheimer's disease is caused by accumulation of what protein?",
+    "answer": "amyloid"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Savannah River National Lab are studying regenerative braking systems in electric vehicles. Standard regenerative braking technologies are 60% efficient. If a 3000 kg car is traveling at a constant speed of 10 meters per second down a 30 degree incline, what is the power transferred to the battery to the nearest ten kilowatts?",
+    "answer": "90"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Processes that occur very quickly are generally classified as which of the following?",
+    "choices": {
+      "W": "Isobaric",
+      "X": "Isochoric",
+      "Y": "Adiabatic",
+      "Z": "Isothermal"
+    },
+    "answer": "Y) Adiabatic"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A hemispherical mirror with a radius of 5 meters is set up and an object is placed inside the hemisphere 2 meters from its vertex along its central axis. Which of the following best describes the image produced by the object and the mirror?",
+    "choices": {
+      "W": "Real and upright",
+      "X": "Real and inverted",
+      "Y": "Virtual and upright",
+      "Z": "Virtual and inverted"
+    },
+    "answer": "Y) Virtual and upright"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 elements in order of increasing electron affinity: 1) Argon 2) Manganese 3) Zinc",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What are the oxidation states of oxygen and fluorine, respectively, in hypoflurous acid?",
+    "answer": "0 and -1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The earliest dated minerals come from which geologic eon?",
+    "answer": "Hadean"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the percentage of the Earth’s atmosphere by mass that lies at an elevation of less than 50 kilometers?",
+    "choices": {
+      "W": "$50\\$",
+      "X": "$75\\$",
+      "Y": "$90\\$",
+      "Z": "$99\\$"
+    },
+    "answer": "Z) $99\\$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Princeton Plasma Physics Lab are studying the propagation of waves. When a traveling wave meets a fixed boundary point, which of the following will occur?",
+    "choices": {
+      "W": "An identical wave will be reflected",
+      "X": "An inverted wave will be reflected",
+      "Y": "The wave will dissipate its energy",
+      "Z": "The wave will double its frequency"
+    },
+    "answer": "X) An inverted wave will be reflected"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Pacific Northwest National Lab are studying ways to improve industrial chemical production. When producing large quantities of chemicals, it is important for conditions to remain fixed throughout the reaction process, often accomplished through a buffer solution. Which of the following pairs of compounds would make the best buffer?",
+    "choices": {
+      "W": "$\\athrm{Na}_{2}\\athrm{C}_{2}\\athrm{O}_{4}$ and $\\athrm{NaHC}_{2}\\athrm{O}_{4}$",
+      "X": "$\\athrm{H}_{2}\\athrm{SO}_{4}$ and $\\athrm{KHSO}_{4}$",
+      "Y": "$\\athrm{Mg(CN)}_{2}$ and HCN",
+      "Z": "$\\athrm{NaCl}$ and $\\athrm{HClO}_{4}$"
+    },
+    "answer": "Y) $\\athrm{Mg(CN)}_{2}$ and HCN"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A new highway is built through a forest, causing the forest adjacent to the new highway to change in flora and fauna. What is the term for this effect?",
+    "answer": "Edge Effect"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of arteries that provide oxygen-rich blood to the heart?",
+    "answer": "Coronary arteries"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "When the expression $81^{2} + 81^{2} + 81^{2}$ is written in the form $[\\qrt{3}]^{n}$, what is n?",
+    "choices": {
+      "W": "9",
+      "X": "10",
+      "Y": "14",
+      "Z": "18"
+    },
+    "answer": "Z) 18"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Consider the number $F$, which is equal to $2023_{4}$. How many base 2 numbers $T$ end with the digit 0 and satisfy the inequality $0 < T < F$?",
+    "answer": "69"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "During a star's transformation to a neutron star, extremely large amounts of what particles are released, expelling up to 98% of the star's energy?",
+    "answer": "Neutrino"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 types of galaxies that can contain an Active Galactic Nucleus: I) Spiral II) Lenticular III) Elliptical IV) Irregular",
+    "answer": "All"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Select all of the following three parts of a gene that are part of the open reading frame: I) Promotor II) 5' Untranslated Region III) Stop codon",
+    "answer": "None"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Pineapples are an example of what kind of fruit, which is formed from many carpels from several flowers in an inflorescence?",
+    "choices": {
+      "W": "Simple",
+      "X": "Aggregate",
+      "Y": "Multiple",
+      "Z": "Accessory"
+    },
+    "answer": "Y) Multiple"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An ant is standing at the origin of the Cartesian plane. Every second, it crawls left, right, up, or down one unit by choosing a direction at random. After 5 seconds, what is the probability that the ant is back at the origin?",
+    "answer": "0"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Order the integral from 1 to $e$ of the following 3 functions from smallest to largest value: 1) $x^{x}$ 2) $x^{e}$ 3) $e^{x}$",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 changes that would change the magnetic field strength inside an ideal solenoid: I) Increasing the current II) Increasing the number of turns per unit length III) Decreasing the radius",
+    "answer": "I and II"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A thin spherical shell can withstand 150 kilopascals of pressure difference before it bursts. If a vacuum is pulled inside of the shell and the shell is immersed in water, how many meters can it travel below the surface before it bursts to one significant figure?",
+    "answer": "5"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following moieties is most unstable?",
+    "choices": {
+      "W": "Geminal Diol",
+      "X": "Acid chloride",
+      "Y": "Imine",
+      "Z": "Allene"
+    },
+    "answer": "W) Geminal Diol"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Serena is studying an element that has a very low electron affinity and a very high effective nuclear charge. What period 3 element best fits these characteristics?",
+    "answer": "Argon"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Labs are studying quantum computing and how it can be used to speed up computations using number base systems other than binary. Identify all of the following numbers in base 12 that are divisible by 3: I) $125_{12}$ II) $379_{12}$ III) $762_{12}$",
+    "answer": "II only"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at LIGO are studying the propagation of gravitational waves through spacetime. Identify all of the following bodies which produce measurable gravitational waves. I) Rapidly rotating black hole II) Neutron Star Binary III) Magnetar",
+    "answer": "All"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What supergroup of eukaryotes contains red algae, green algae, and plants.",
+    "answer": "Archaeplastida"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 events in chronological order of a fungus life cycle: 1) Karyogamy 2) Heterokaryotic stage 3) Spore germination 4) Plasmagamy",
+    "answer": "4, 2, 1, 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the greatest common denominator of two positive numbers $a$ and $b$ is 5 and the least common multiple of $a$ and $b$ is 20, what is the least possible sum of $a$ and $b$?",
+    "answer": "25"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Skyler is given four cards, labeled with the numbers 5, 6, 7, and 8. He arranges the four cards so that he creates two two-digit numbers. The set $S$ contains all possible sums of the two numbers he can create. What is the difference between the largest and smallest elements in $S$?",
+    "answer": "36"
+  }
+]

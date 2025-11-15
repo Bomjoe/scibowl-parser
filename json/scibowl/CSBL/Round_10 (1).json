@@ -1,0 +1,371 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "bio",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following that are antigen presenting cells. 1- T cell, 2- Dendritic Cell, 3- B cell, 4- Macrophages",
+    "answer": "2 AND 4"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "bio",
+    "answer_type": "short_answer",
+    "body": "Cytotoxic T cells are activated by binding to what specific molecules on the surface of infected cells?",
+    "answer": "CLASS 1 MHC"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chem",
+    "answer_type": "short_answer",
+    "body": "What is the term for disubstituted benzene rings with substituents on the 1 and 3 positions?",
+    "answer": "META"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chem",
+    "answer_type": "short_answer",
+    "body": "Answer the following questions about nucleophilic aromatic substitution. A) It requires what type of group in the ortho or para position relative to the leaving group? B) What is the name for its intermediate resonance-stabilized anionic complex?",
+    "answer": "EWG, MEISENHEIMER COMPLEX"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "phys",
+    "answer_type": "short_answer",
+    "body": "The quantization of angular momentum in fundamental particles was discovered by what experiment in 1922?",
+    "answer": "STERN-GERLACH EXPERIMENT"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "phys",
+    "answer_type": "short_answer",
+    "body": "Quantum physicists hypothesize that the exchange of the graviton gives rise to the force of gravity. What is the spin of the hypothetical graviton?",
+    "answer": "2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "15 choose 7 plus 15 choose 8 is equal to n choose k. What is n+k?",
+    "answer": "24"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many terms does the trinomial expansion of $(a + b + c)^{10}$ have?",
+    "answer": "66"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "ess",
+    "answer_type": "short_answer",
+    "body": "What is the name for the equatorial region where the trade winds meet?",
+    "answer": "ITCZ OR INTERTROPICAL CONVERGENCE ZONE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "ess",
+    "answer_type": "short_answer",
+    "body": "El niño and la niña are different phases of what overall cycle?",
+    "answer": "El- niño Southern Oscillation"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Laboratory are developing methods to detect chromosomal defects in sperm cells. In the human male reproductive system, what cells, next to the seminiferous tubules, are activated by LH?",
+    "answer": "LEYDIG CELLS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Laboratory are developing methods to detect chromosomal defects in sperm cells. In the human male reproductive system, what tube connects the vas deferens to the testes?",
+    "answer": "EPIDIDYMIS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "bio",
+    "answer_type": "short_answer",
+    "body": "Oseltamivir, used to treat influenza, is a powerful antiviral that inhibits what important molecules on viral coatings?",
+    "answer": "NEURAMINIDASE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "bio",
+    "answer_type": "short_answer",
+    "body": "AIP in gram positive bacteria is an autoinducer for a signaling pathway that implicates in what effect observed in groups of bacteria such as Aliivibrio fischeri?",
+    "answer": "QUORUM SENSING"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chem",
+    "answer_type": "short_answer",
+    "body": "How many d electrons are in the permanganate anion?",
+    "answer": "0"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chem",
+    "answer_type": "short_answer",
+    "body": "The copper (II) fluoride complex has peaks in its absorbance diagram at two distinct points. This is caused by what molecular effect?",
+    "answer": "JAHN-TELLER EFFECT"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "phys",
+    "answer_type": "short_answer",
+    "body": "Calculate the voltage gap across a capacitor in series with a 9 V battery and 3 Ohm resistor at the moment when the current in the circuit is 2 A.",
+    "answer": "3 VOLTS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "phys",
+    "answer_type": "short_answer",
+    "body": "What is the period of a series LC circuit with a 3 Henry inductor and 12 Farad capacitor. Give your answer as a decimal with three significant figures.",
+    "answer": "37.7"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many distinct positive factors does 200 have?",
+    "answer": "12"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the product of the greatest common divisor and least common multiple of 125 and 30?",
+    "answer": "3750"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "ess",
+    "answer_type": "short_answer",
+    "body": "What type of neutron star has a magnetic field between $10^{9}$ and $10^{11}$ Teslas and emits high energy EM radiation?",
+    "answer": "MAGNETAR"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "ess",
+    "answer_type": "short_answer",
+    "body": "What is the name for the observation in astronomy of quick lived radio pulses that have been observed from magnetars?",
+    "answer": "FAST RADIO BURSTS"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Laboratory are using neutron scattering to study the dynamics of proteins involved in cancer. What is the spin of a neutron?",
+    "answer": "1/2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Laboratory are using neutron scattering to study the dynamics of proteins involved in cancer. Answer the following questions about scattering. A) Electron scattering occurs by the exchange of virtual versions of what particles? B) What quantity, used in scattering, is the average distance that a particle travels between two collisions?",
+    "answer": "PHOTONS, MEAN FREE PATH"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "bio",
+    "answer_type": "short_answer",
+    "body": "Generation 1 antipsychotics such as Prochlorperazine are antagonists for the D2 receptors of what neurotransmitter?",
+    "answer": "DOPAMINE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "bio",
+    "answer_type": "short_answer",
+    "body": "What neurological disorder, believed to be caused by dopamine hyperactivity and glutamate reduction at NMDA receptors, causes hallucinations and delusions?",
+    "answer": "SCHIZOPHRENIA"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chem",
+    "answer_type": "short_answer",
+    "body": "Gilman reagents are made with dialkyl types of what transition metal?",
+    "answer": "COPPER"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chem",
+    "answer_type": "short_answer",
+    "body": "How many equivalents of a Grignard reagent can react with an ester?",
+    "answer": "2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "phys",
+    "answer_type": "short_answer",
+    "body": "The temperature of a gas can be related to its kinetic energy using what fundamental constant?",
+    "answer": "BOLTZMANN CONSTANT"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "phys",
+    "answer_type": "short_answer",
+    "body": "How many degrees of freedom do monatomic ideal gases possess?",
+    "answer": "3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many positive integer triplets (x,y,z) with x y and z less than or equal to 8 and have distinct x,y,z?",
+    "answer": "336"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the maximum value of xyz if x+y+z=30 and x,y,z are positive integers?",
+    "answer": "1,000"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "ess",
+    "answer_type": "short_answer",
+    "body": "What precipitation occurs when supercooled water droplets freeze on the surface of already falling snowflakes outside of a cloud?",
+    "answer": "GRAUPEL"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "ess",
+    "answer_type": "short_answer",
+    "body": "When large scale winds circulate around regions of high atmospheric pressure and rotate clockwise in the Northern hemisphere, what is formed?",
+    "answer": "ANTICYCLONE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Ames National Laboratory have invented a new algorithm to quickly find high-entropy alloys. What is the entropy of a system with $e^{10}$ microstates assuming that $k \\dot b = 1.38$?",
+    "answer": "13.8"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Ames National Laboratory have invented a new algorithm to quickly find high-entropy alloys. Answer the following two questions about metals. A) Superconductivity in metals is hypothesized to be caused by the formation of what low temperature features? B) What is the most efficient crystal packing system?",
+    "answer": "COOPER PAIRS, FCC"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "bio",
+    "answer_type": "short_answer",
+    "body": "Species with extremely high birth rates are said to be selecting for what factor in population dynamics?",
+    "answer": "r"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "bio",
+    "answer_type": "short_answer",
+    "body": "What is the name of the rapid associative learning in which youth learn the characteristics of a stimulus from their parents. This effect is present in nidifugous birds.",
+    "answer": "IMPRINTING"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chem",
+    "answer_type": "short_answer",
+    "body": "What is the common name for P(Ph)3O (READ LETTER BY LETTER)",
+    "answer": "TRIPHENYLPHOSPHINE OXIDE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chem",
+    "answer_type": "short_answer",
+    "body": "Copper II iodide is unstable because it disproportionates to what two compounds?",
+    "answer": "COPPER (I) IODIDE AND I2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "phys",
+    "answer_type": "short_answer",
+    "body": "What charged fundamental particle is released in beta minus decay?",
+    "answer": "ELECTRON"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "phys",
+    "answer_type": "short_answer",
+    "body": "In beta minus decay, a neutron is converted to a proton by the emission of a boson as a quark changes flavor. Answer the following question. A) What is the flavor of the quark before and after the transformation respectively? B) What specific fundamental boson is emitted in the quark transformation that quickly decays?",
+    "answer": "down, up AND W- boson"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the magnitude of $1\\athrm{i} + 2\\athrm{j} + 10\\athrm{k}$?",
+    "answer": "$\\qrt{105}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the cross product of 3i with $\\athrm{i} + \\athrm{j}$?",
+    "answer": "3k"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "ess",
+    "answer_type": "short_answer",
+    "body": "Binary star systems exist because two stars are mutually orbiting around what center, a property of their system?",
+    "answer": "BARYCENTER"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "ess",
+    "answer_type": "short_answer",
+    "body": "The Type 1a \Champagne Supernova\ was exceptional because it resulted from a binary system including a massive white dwarf that exceeded what limit?",
+    "answer": "CHANDRASEKHAR LIMIT"
+  }
+]

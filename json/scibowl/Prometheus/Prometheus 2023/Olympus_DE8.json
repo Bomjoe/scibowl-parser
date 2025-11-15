@@ -1,0 +1,543 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Among the first proposed \doomsday devices\ was a powerful thermonuclear bomb jacketed with which metal to increase its fallout?",
+    "choices": {
+      "W": "Cesium",
+      "X": "Cobalt",
+      "Y": "Thorium",
+      "Z": "Strontium"
+    },
+    "answer": "X) Cobalt"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Peter gets infected with a reovirus, and needs to have the genome immediately sequenced in order to create an antidote for the disease. In addition, he wants to be able to see if the genome is double-stranded, so he comes up with an assay to detect whether the DNA is double-stranded by raising the temperature and assessing its UV absorbance. Which of the following techniques would he use, and what would he notice about the UV absorbance after the temperature increase?",
+    "choices": {
+      "W": "Northern blotting; increase in UV absorbance",
+      "X": "Northern blotting; no change in absorbance",
+      "Y": "Southern blotting; increase in UV absorbance",
+      "Z": "Southern blotting; no chance in UV absorbance"
+    },
+    "answer": "Y) Southern blotting; increase in UV absorbance"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $Z$ be a standard normal variable, and let $\\u$ [mu] and $\\igma$ [sigma] be two real numbers greater than zero. If the random variable $X = e^{\\u + Z\\igma}$ [x equals e to the power of the quantity mu plus z times sigma], then $X$ is what type of distribution?",
+    "answer": "Log-normal"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Suppose a journal article is randomly selected from a source with an average of 1000 words per article, with a standard deviation of 200 words. Chebyshev's inequality states that the probability that the chosen article has between 600 and 1400 words can be inferred to be at least which of the following?",
+    "choices": {
+      "W": "$50\\$",
+      "X": "$75\\$",
+      "Y": "$90\\$",
+      "Z": "$95\\$"
+    },
+    "answer": "X) $75\\$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In contrast to amines, chiral phosphines are observed in solutions because chiral inversion occurs much more slowly. What physical effect accelerates chiral inversion in amines compared to other pyramidal molecules?",
+    "answer": "Quantum tunneling"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three syntheses that will form a carbon-carbon bond: 1) An alcohol is treated with triphenylphosphine in carbon tetrachloride; 2) An aldehyde is treated with an alkyl halide and lithium metal; 3) A ketone is treated with meta-chloro peroxy benzoic acid.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three geologic periods by increasing average levels of $\\athrm{CO_2}$ : 1) Cambrian; 2) Permian; 3) Jurassic.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following processes contributes most directly to the increased albedo of sea ice compared to lake ice?",
+    "choices": {
+      "W": "Brine inclusions",
+      "X": "Brine rejection",
+      "Y": "Liquid-liquid transition",
+      "Z": "Vitrification leading to amorphous ice"
+    },
+    "answer": "W) Brine inclusions"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The hormones beta-lipotropin and beta-endorphin are both derived from the same prohormone as what other anterior pituitary gland hormone?",
+    "choices": {
+      "W": "LH",
+      "X": "GH",
+      "Y": "TSH",
+      "Z": "ACTH"
+    },
+    "answer": "Z) ACTH"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "[Read slowly] A restriction enzyme has recognition sequence 5'GTTCA3' [5 prime GTTCA 3 prime]. If you treat a 4096 base pair long length of DNA with this restriction enzyme, what is the expected number of fragments you will have?",
+    "answer": "5"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains the effects of rotational frame dragging from a black hole rotating counterclockwise on a planet that is orbiting counterclockwise at the black hole's equator?",
+    "choices": {
+      "W": "The planet would accelerate in its orbit.",
+      "X": "The planet would decelerate in its orbit.",
+      "Y": "The planet would become heavier.",
+      "Z": "The planet would become lighter."
+    },
+    "answer": "Z) The planet would become lighter."
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is false regarding the relative permittivity of a material?",
+    "choices": {
+      "W": "It is dimensionless",
+      "X": "It is complex-valued",
+      "Y": "In anisotropic media, it can be modeled as a first-rank tensor",
+      "Z": "It is dependent on frequency"
+    },
+    "answer": "Y) In anisotropic media, it can be modeled as a first-rank tensor"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "The Andromeda paradox considers what would happen from the perspective of Earth if an observer traveled to Andromeda near the speed of light while an alien invasion approached Earth. If an observer leaves for Andromeda before observing the aliens' decision to invade, which of the following is true?",
+    "choices": {
+      "W": "The invasion is unknown to the observer due to spacelike light cone intervals and no warning is sent to Earth",
+      "X": "The invasion is known to the observer due to timelike light cone intervals but the warning sent to Earth arrives after the invasion",
+      "Y": "The information of the invasion is blueshifted and the observer is informed before the alien arrival",
+      "Z": "The information of the invasion is redshifted and the observer is informed after the alien arrival"
+    },
+    "answer": "W) The invasion is unknown to the observer due to spacelike light cone intervals and no warning is sent to Earth"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Hafnium 178m2 is a candidate for experiments studying induced gamma emission, a controversial process which has the potential for use in nuclear weaponry. This process involves the fluorescent emission of gamma rays from a metastable atomic nucleus. What is the term given to these high-energy metastable states of atomic nuclei?",
+    "answer": "Nuclear isomers"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers divides the sum from $n = 1$ to 7 of $n^7$ ?",
+    "choices": {
+      "W": "13",
+      "X": "35",
+      "Y": "42",
+      "Z": "49"
+    },
+    "answer": "Z) 49"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The point $(x,y)$ [x comma y] lies on or above the two lines with equations $5x + 7y = 35$ and $6x + 3y = 24$ . What is the smallest possible value of $5x + 4y$ ?",
+    "answer": "25"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An IR spectrum contains two sharp peaks between 1200 and 1600 inverse centimeters. Which of the following functional groups is most likely responsible for both of these peaks?",
+    "choices": {
+      "W": "Enone",
+      "X": "Nitro",
+      "Y": "Enamine",
+      "Z": "Amide"
+    },
+    "answer": "X) Nitro"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A solution of a vanadium salt is observed to have a green color, but Mossbauer spectroscopy reveals that vanadium is not in a $+3$ oxidation state. Which of the following best explains what is happening?",
+    "choices": {
+      "W": "It is the pure hydrate of the vanadium $2+$ ion",
+      "X": "It is a dilute solution of vanadium in the $+4$ oxidation state",
+      "Y": "It is a mix of vanadium ions in the $+4$ and $+5$ oxidation states",
+      "Z": "It is an exotic vanadium species in the $+1$ oxidation state"
+    },
+    "answer": "Y) It is a mix of vanadium ions in the $+4$ and $+5$ oxidation states"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Satellites at Lagrange points do not tend to orbit the Lagrange point in circular orbits, but rather trace paths following what family of curves?",
+    "answer": "Lissajous"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Class S stars are characterized by which of the following compounds present in their absorption spectra?",
+    "choices": {
+      "W": "Ammonia",
+      "X": "Magnesium oxide",
+      "Y": "Methane",
+      "Z": "Zirconium oxide"
+    },
+    "answer": "Z) Zirconium oxide"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "[Read slowly] A peptide is composed of the sequence, from N to C terminus, Alanine-Valine-Lysine-Asparagine-Histidine-Serine-Lysine-Glutamine. How many acetylation sites are present on this peptide?",
+    "answer": "3"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In plants, medium to low concentrations of indoleacetic [in-dole-uh-SEE-tic] acid is known to cause cell elongation and growth. However, it is observed that high concentrations of IAA actually inhibit cell elongation and growth. This is because high concentrations of indoleacetic acid promote the production of what other plant hormone?",
+    "answer": "Ethylene"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A large spherical gas cloud is accreting onto a central core. Assuming material at the outer edge of the cloud is at rest, which of the following velocity profiles correctly describes the evolution of the accreted matter?",
+    "choices": {
+      "W": "Subsonic",
+      "X": "Trans-sonic",
+      "Y": "Sonic",
+      "Z": "Supersonic"
+    },
+    "answer": "X) Trans-sonic"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "To explain the low masses of neutrinos, what mechanism proposes a mass matrix where one eigenvalue is large, corresponding to the Majorana [my-ur-ON-uh] mass and the other eigenvalue is small, corresponding to the observed mass value?",
+    "answer": "Seesaw mechanism"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Updatedess decision theory allows for two agents to each predict what the other wants and do it, even if they have no way of communicating with each other. What is this behavior called?",
+    "choices": {
+      "W": "Counterfactual mugging",
+      "X": "Values handshake",
+      "Y": "Acausal trade",
+      "Z": "Simulation capture"
+    },
+    "answer": "Y) Acausal trade"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Despite its presence throughout nearly all of human history, vaccines for the prevention of malaria have only recently been developed, and only one is currently in use. The Mosquirix vaccine developed targets Circumsporozoite protein due to it possessing highly conserved regions among many different strains of the malaria sporozoite. Targeting this protein will cause disruption of which of the following parts of the malarial life cycle?",
+    "choices": {
+      "W": "Invasion of red blood cells through apical complex",
+      "X": "Invasion of hepatocytes in the liver",
+      "Y": "Division of merozoites inside red blood cells",
+      "Z": "Formation of gametocytes"
+    },
+    "answer": "X) Invasion of hepatocytes in the liver"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identity all of the following three statements that are true regarding cyclic groups: 1) They have finite order; 2) They are Abelian; 3) They are generated by a single element.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following matrices $M$ will be a solution to the polynomial $M^2 + M - 6I = 0$ ?",
+    "choices": {
+      "W": "First row 2, 0, second row 1, -3",
+      "X": "First row 3, 0 second row -1, -2",
+      "Y": "First row 4, 1 second row 1, -5",
+      "Z": "First row 5, 0 second row 4, -4"
+    },
+    "answer": "W) First row 2, 0, second row 1, -3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Ryan heats acetylene with hydrogen cyanide in a 2:1 ratio at 800 K. What is the major aromatic heterocycle produced by this reaction?",
+    "answer": "Pyridine"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An organic compound is analyzed using quadrupole mass spectrometry. The relative intensities of the $\\athbf{M}+$, $\\athbf{M}+1$, and $\\athbf{M}+2$ peaks are found to be 75, 10, and 100, respectively. Which of the following could be the identity of the compound?",
+    "choices": {
+      "W": "$\\athrm{C_{10}H_{20}Cl_{2}}$",
+      "X": "$\\athrm{C_{12}H_{24}Cl_{2}}$",
+      "Y": "$\\athrm{C_{10}H_{20}ClBr}$",
+      "Z": "$\\athrm{C_{12}H_{24}ClBr}$"
+    },
+    "answer": "Z) $\\athrm{C_{12}H_{24}ClBr}$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What type of deep ocean sediment would be expected to dominate the Pacific along the equator where strong upwelling is present in deep waters?",
+    "choices": {
+      "W": "Siliceous [suh-LISH-is] ooze",
+      "X": "Calcareous [cal- KAIR-ee-is] ooze",
+      "Y": "Terrigenous sediment",
+      "Z": "Cosmogenous sediment"
+    },
+    "answer": "W) Siliceous ooze"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "How does the presence of a ridge off the US east coast during the negative mode of the North Atlantic Oscillation affect regional weather?",
+    "choices": {
+      "W": "Colder and more precipitation",
+      "X": "Warmer and more precipitation",
+      "Y": "Colder and less precipitation",
+      "Z": "Warmer and less precipitation"
+    },
+    "answer": "W) Colder and more precipitation"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In many insects, their hemolymph contains a high concentration of a certain carbohydrate that is used for both flight and antifreeze purposes. What is the identity of this carbohydrate?",
+    "answer": "Trehalose"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the function of Raphide crystals in the vacuole of plants?",
+    "choices": {
+      "W": "Defense against herbivory",
+      "X": "Structural support",
+      "Y": "Protection against high salt concentrations",
+      "Z": "Protection against freezing"
+    },
+    "answer": "W) Defense against herbivory"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following four-vector products involving the momentum, position, wavenumber, and frequency for a particle will isolate the mass of a particle in SI base units?",
+    "choices": {
+      "W": "$k^{\\u}k_{\\u}$ [k- mu k- mu]",
+      "X": "$p^{\\u}p_{\\u}$",
+      "Y": "$x^{\\u}x_{\\u}$",
+      "Z": "$f^{\\u}f_{\\u}$"
+    },
+    "answer": "X) $p^{\\u}p_{\\u}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What is the momentum, in kilogram meters per second, of a visible photon that has a wavelength of 500 nanometers?",
+    "choices": {
+      "W": "$1.33\\times 10^{-24}$",
+      "X": "$1.33\\times 10^{-27}$",
+      "Y": "$1.33\\times 10^{-30}$",
+      "Z": "$1.33\\times 10^{-33}$"
+    },
+    "answer": "X) $1.33\\times 10^{-27}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which hypothetical AI design selects its actions only from a distribution of human-like actions, rather than over all actions?",
+    "choices": {
+      "W": "Quantilizer",
+      "X": "Satisficer",
+      "Y": "Mild optimizer",
+      "Z": "Meliorizer [MEEL-ee-ur-eye-zur]"
+    },
+    "answer": "W) Quantilizer"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "When using expected utility maximization, an agent may focus on very impactful outcomes with very low probabilities, even when this defies common sense. What is this problem called?",
+    "answer": "Pascal's mugging"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Kaylee has a collection of sticks with lengths of 3 meters, 5 meters, or 7 meters. Assuming she has a large amount of each stick length, how many triangles can Kaylee make if each side is made of one stick?",
+    "answer": "9"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let $A$, $B$, and $C$ be points in the plane such that the tangents from $A$, $B$, and $C$ to triangle $ABC$'s incircle have lengths 1, 2, and 3, respectively. Find the radius of triangle $ABC$'s incircle.",
+    "answer": "1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following electronic transitions is responsible for the vibrant color of the titanium (IV) hexachloride complex?",
+    "choices": {
+      "W": "3d to 3d",
+      "X": "3d to 3p",
+      "Y": "3p to 3d",
+      "Z": "4s to 3d"
+    },
+    "answer": "Y) 3p to 3d"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The free rotation of peptide bonds would require an electronic excitation between what two types of molecular orbitals?",
+    "answer": "Nonbonding and pi antibonding"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What law describes how the surface brightness of an elliptical galaxy varies with the apparent distance from the galaxy center?",
+    "answer": "De Vaucouleur's law"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Primakoff effect, which occurs in the interior of stars, is thought to be capable of producing what hypothetical dark matter candidate?",
+    "answer": "Axion"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Carbamoyl phosphate synthetase is the rate-limiting enzyme of what biochemical cycle?",
+    "answer": "Urea cycle"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following features of an apoptotic cell does the TUNEL [TUN-ul] assay directly detect?",
+    "choices": {
+      "W": "Double-stranded DNA breaks",
+      "X": "Cytochrome C",
+      "Y": "Fas ligand",
+      "Z": "Heterochromatin"
+    },
+    "answer": "W) Double-stranded DNA breaks"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding the TEM mode for an electromagnetic wave in a waveguide set up along the z-axis?",
+    "choices": {
+      "W": "The z-component of the electric field is zero",
+      "X": "The z-component of the magnetic field is zero",
+      "Y": "The wave can travel through vacuum occupied wave guides",
+      "Z": "The wave can travel through non-vacuum occupied wave guides"
+    },
+    "answer": "Y) The wave can travel through vacuum occupied wave guides"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a discrete thermodynamic system that has three states with distinct energies. Identify all of the following three statements that are true of this system: 1) As temperature goes to infinity, the probability of being in the highest-energy state approaches 1; 2) As temperature goes to zero, the probability of being in the lowest-energy state approaches 1; 3) At some temperature, the most probable state is the medium-energy state.",
+    "answer": "2 only"
+  }
+]

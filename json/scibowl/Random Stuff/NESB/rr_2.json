@@ -1,0 +1,600 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is a general term for a very fine textured, fissile, sedimentary rock composed of clay, mud, and silt?",
+    "choices": {
+      "W": "Slate",
+      "X": "Schist",
+      "Y": "Arkose",
+      "Z": "Shale"
+    },
+    "answer": "SHALE"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Fragments within larger rock masses which are older than the rock masses in which they are enclosed are called",
+    "answer": "INCLUSIONS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Alkanes with the same structural formula can have a variety of arrangements because of the",
+    "choices": {
+      "W": "sharing of electrons between the carbon atoms.",
+      "X": "breaking and reforming of carbon-carbon bonds.",
+      "Y": "possible rotation about the carbon-carbon bonds.",
+      "Z": "changing strength of the carbon-hydrogen bonds."
+    },
+    "answer": "POSSIBLE ROTATION ABOUT THE CARBON-CARBON BONDS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the allotropic forms of carbon is frequently used as a lubricant?",
+    "choices": {
+      "W": "graphite",
+      "X": "diamond",
+      "Y": "fullerenes",
+      "Z": "alkanes"
+    },
+    "answer": "GRAPHITE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "The original IBM PC used which of the following Intel microprocessors?",
+    "choices": {
+      "W": "8086",
+      "X": "8080",
+      "Y": "8088",
+      "Z": "80286"
+    },
+    "answer": "8088"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "In Java, how do you make class A inherit from class B?",
+    "choices": {
+      "W": "A extends B",
+      "X": "A inherits B",
+      "Y": "B expands A",
+      "Z": "B inherits A"
+    },
+    "answer": "AEXTENDSB"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the chemical which is the final electron acceptor in cellular respiration?",
+    "answer": "OXYGEN"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the dark reaction, carbon dioxide combines with",
+    "answer": "RIBULOSE DIPHOSPHATE (RuDP)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In an electromagnetic wave, electric and magnetic fields oscillate",
+    "choices": {
+      "W": "at right angles to each other and to the direction of wave motion.",
+      "X": "at right angles to each other but parallel to the direction of wave motion.",
+      "Y": "parallel to each other and to the direction of wave motion.",
+      "Z": "parallel to each other but at right angles to the direction of wave motion."
+    },
+    "answer": "AT RIGHT ANGLES TO EACH OTHER AND TO THE DIRECTION OF WAVE MOTION"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A toy balloon filled with helium is attached by a string inside a vehicle. All the windows of the vehicle are closed. When the vehicle accelerates forward, which way will the balloon appear to move in the vehicle?",
+    "choices": {
+      "W": "Backward",
+      "X": "Forward",
+      "Y": "It does not move",
+      "Z": "Down"
+    },
+    "answer": "FORWARD"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "The term used to describe a reasoning from cause to effect or from theory to fact is",
+    "choices": {
+      "W": "empirical.",
+      "X": "apriori.",
+      "Y": "singular.",
+      "Z": "causal."
+    },
+    "answer": "APRIORI"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Name the fish caught for the first time off the coast of Africa in 1938 which was thought to be extinct for millions of years.",
+    "answer": "COELACANTH"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The measurement of the altitudes of only 3 stars at a known universal time allows the calculation of a position on earth. These measurements may be made with a",
+    "choices": {
+      "W": "meridian transit telescope.",
+      "X": "sextant.",
+      "Y": "compass.",
+      "Z": "altimeter."
+    },
+    "answer": "SEXTANT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "In the sixteenth century, Pope Gregory VIII ordered calendar reform to more precisely measure the leap year cycle. Therefore, the year 2000",
+    "choices": {
+      "W": "will be a leap year.",
+      "X": "will not be a leap year.",
+      "Y": "will cause clocks to stop.",
+      "Z": "will be skipped."
+    },
+    "answer": "WILL NOT BE ALEAP YEAR"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Allotropic forms of carbon include all of the following except",
+    "choices": {
+      "W": "fullerenes.",
+      "X": "graphite.",
+      "Y": "diamond.",
+      "Z": "alkanes."
+    },
+    "answer": "ALKANES"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Structures of the same composition that differ by only bond rotations are referred to as",
+    "choices": {
+      "W": "transitions.",
+      "X": "conformations.",
+      "Y": "variants.",
+      "Z": "transformations."
+    },
+    "answer": "CONFORMATIONS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is composed of stacks of thylakoids?",
+    "answer": "GRANA"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Enzymes for the dark reaction of photosynthesis are located outside the grana in the",
+    "answer": "STROMA"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "When you treat Y as a function of X, and differentiate both sides of the equation, this is called",
+    "choices": {
+      "W": "incorrect.",
+      "X": "extrapolation differentiation.",
+      "Y": "interpolation differentiation.",
+      "Z": "implicit differentiation."
+    },
+    "answer": "IMPLICIT DIFFERENTIATION"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "If F is a continuous function on the closed interval [a,b], then F attains a maximum and a minimum value on [a,b]. What is the name of this theorem?",
+    "choices": {
+      "W": "Rolle's theorem",
+      "X": "Mean Value theorem",
+      "Y": "Extreme Value theorem",
+      "Z": "Continuity theorem"
+    },
+    "answer": "EXTREME VALUE THEOREM"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Lodestone has magnetic properties because it",
+    "choices": {
+      "W": "attracts materials containing iron.",
+      "X": "does not attract materials containing iron.",
+      "Y": "swings freely.",
+      "Z": "turns toward the west."
+    },
+    "answer": "ATTRACTSMATERIALSCONTAININGIRON"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The magnetic field of a magnet is strongest",
+    "choices": {
+      "W": "around its north pole.",
+      "X": "around its south pole.",
+      "Y": "in the middle of the magnet.",
+      "Z": "around both of its poles."
+    },
+    "answer": "AROUND BOTH OF ITSPOLES"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In naming hydrocarbons containing halogens, the first step is to name the",
+    "choices": {
+      "W": "location of the halogen.",
+      "X": "name of the halogen.",
+      "Y": "hydrocarbon portion.",
+      "Z": "number of halogens."
+    },
+    "answer": "HYDROCARBON PORTION"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Hydrocarbons containing halogens are generally nonpolar and consequently have",
+    "choices": {
+      "W": "low boiling temperatures.",
+      "X": "high solubility in water.",
+      "Y": "strong hydrogen bonding.",
+      "Z": "all of these"
+    },
+    "answer": "LOW BOILING TEMPERATURES"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a superclass-subclass relation?",
+    "choices": {
+      "W": "Computer - Mainframe",
+      "X": "Mainframe - Computer",
+      "Y": "Computer - Pentium chip",
+      "Z": "Pentium chip - Computer"
+    },
+    "answer": "COMPUTER - MAINFRAME"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "The Intel 80486 Microprocessor has",
+    "choices": {
+      "W": "A 16 bit Address bus and an 8 bit Data bus.",
+      "X": "A 32 bit Address bus and an 32 bit Data bus.",
+      "Y": "A 32 bit Address bus and an 16 bit Data bus.",
+      "Z": "A 16 bit Address bus and an 16 bit Data bus."
+    },
+    "answer": "A 32 BIT ADDRESS BUS AND AN 32 BIT DATA BUS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The chemical difference between chlorophyll a and b is that a methyl group in chlorophyll b is replaced by what group in chlorophyll a?",
+    "answer": "FORMYL (- COH)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is a ring of DNA present in a bacterial cell known as?",
+    "answer": "PLASMID"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "The parallels of latitude where the sun passes overhead when it crosses the summer solstice and winter solstice are called",
+    "answer": "TROPICS OF CANCER AND CAPRICORN"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "As viewed from earth, during the moon phases from new to full, the moon grows in apparent size and is said to be in its",
+    "choices": {
+      "W": "waxing phases.",
+      "X": "waning phases.",
+      "Y": "dark phases.",
+      "Z": "light phases."
+    },
+    "answer": "WAXING PHASES"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The rotating electromagnet in an electric motor is called the",
+    "choices": {
+      "W": "armature.",
+      "X": "solenoid.",
+      "Y": "commutator.",
+      "Z": "inductor."
+    },
+    "answer": "ARMATURE"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A motor can be made to run off direct current by using",
+    "choices": {
+      "W": "an armature.",
+      "X": "a solenoid.",
+      "Y": "a commutator.",
+      "Z": "an inductor."
+    },
+    "answer": "A COMMUTATOR"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Amines are found in all of the following except",
+    "choices": {
+      "W": "proteins.",
+      "X": "cocaine.",
+      "Y": "ptomaines.",
+      "Z": "sugars."
+    },
+    "answer": "SUGARS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Acetone's ability to dissolve nail polish is the result of the molecule's",
+    "choices": {
+      "W": "high density.",
+      "X": "polar portion.",
+      "Y": "nonpolar portion.",
+      "Z": "shape."
+    },
+    "answer": "NONPOLAR PORTION"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The most obvious feature of sedimentary rocks is their occurrence in beds or layers called",
+    "answer": "STRATA"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What is the name for immature sandstones consisting of significant quantities of dark, very fine-grained material?",
+    "choices": {
+      "W": "Quartzites",
+      "X": "Midstones",
+      "Y": "Graywackes",
+      "Z": "Evaporates"
+    },
+    "answer": "GRAYWACKES"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "Albert Einstein won the Nobel prize for his work in the field of",
+    "choices": {
+      "W": "photovoltaics.",
+      "X": "relativity.",
+      "Y": "time and matter.",
+      "Z": "high energy physics."
+    },
+    "answer": "PHOTOVOLTAICS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "multiple_choice",
+    "body": "The crushed, dry sugar plant, after sugar has been extracted, can be used to manufacture ethanol fuels. It is called",
+    "choices": {
+      "W": "bakelite.",
+      "X": "bolata.",
+      "Y": "barbate.",
+      "Z": "bagasse."
+    },
+    "answer": "BAGASSE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following devices contains a step-up transformer?",
+    "choices": {
+      "W": "Calculator",
+      "X": "Fluorescent light",
+      "Y": "Tape player",
+      "Z": "Doorbell"
+    },
+    "answer": "FLUORESCENT LIGHT"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following devices contains a step-down transformer?",
+    "choices": {
+      "W": "Radio",
+      "X": "Television set",
+      "Y": "X-ray machine",
+      "Z": "Calculator"
+    },
+    "answer": "RADIO"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Genetic engineers use what kind of enzymes like a molecular knife to cut DNA strands?",
+    "answer": "RESTRICTIVE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Within one year, in what year did Rosalind Franklin demonstrate through X-ray crystallography that DNA is a double helix?",
+    "answer": "1952 (ACCEPT 1951- 1953)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What temperature scale must be used when working with the ideal gas equation?",
+    "answer": "KELVIN"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A characteristic associated with esters is the",
+    "choices": {
+      "W": "bitter taste.",
+      "X": "sour taste.",
+      "Y": "fruity odor.",
+      "Z": "high boiling temperature."
+    },
+    "answer": "FRUITY ODOR"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The inside walls of fluorescent bulbs are coated with substances called",
+    "answer": "PHOSPHORS"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Permanent magnets do not contain",
+    "choices": {
+      "W": "aluminum.",
+      "X": "copper.",
+      "Y": "nickel.",
+      "Z": "cobalt."
+    },
+    "answer": "COPPER"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the region between two concentric circles called?",
+    "answer": "AN ANNULUS"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "For the graph of the function $\\athrm{f(x) = \\rac{1}{2}x}$ what does the line at $\\athrm{x = 0}$ represent?",
+    "choices": {
+      "W": "circle",
+      "X": "hyperbola",
+      "Y": "vertical asymptote",
+      "Z": "horizontal asymptote"
+    },
+    "answer": "VERTICALASYMPTOTE"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "From which embryonic germ layer is the circulatory system derived from?",
+    "answer": "MESODERM"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What animal never develops a mesoderm?",
+    "answer": "SPONGE OR CNIDARIA"
+  }
+]

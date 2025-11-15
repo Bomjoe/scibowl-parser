@@ -1,0 +1,448 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following that are true of chordates: 1) They are radially symmetric; 2) They are deuterostomes; 3) They have pharyngeal slits.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant hormones is most responsible for gravitropism?",
+    "choices": {
+      "W": "Cytokinin",
+      "X": "Ethylene",
+      "Y": "ABA",
+      "Z": "Auxin"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three circuit components that, when placed in series, add linearly in magnitude: 1) Resistor; 2) Capacitor; 3) Inductor.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A hydraulic press has one piston pushing down with a force of 100 newtons on a region with cross sectional area of 4 meters squared. If a car of mass 1000 kilograms is placed on another region on the surface of the fluid, in meters squared, which of the following is closest to the area of the region?",
+    "choices": {
+      "W": "80",
+      "X": "200",
+      "Y": "400",
+      "Z": "800"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of unit cell structures that are more efficient at packing than the face-centered cubic structure: 1) Body-centered cubic; 2) Simple cubic; 3) Hexagonal.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What are the formal charges of each of the three nitrogen atoms in the azide ion, in order?",
+    "choices": {
+      "W": "0, - 1, 0",
+      "X": "0, +1, 0",
+      "Y": "- 1, +1, - 1",
+      "Z": "+1, - 1, +1"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the units digit of 3 cubed plus 7 cubed?",
+    "answer": "0"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A bookshelf contains 6 books such that there are 3 indistinguishable red books, 2 indistinguishable blue books, and one green book. How many distinct ways are there to arrange the books horizontally on the shelf?",
+    "answer": "60"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at the Princeton Plasma Physics Lab have been using the Chandra Observatory to observe distant optical violent variables. In which of the following regions of the electromagnetic spectrum does the Chandra Observatory mainly detect?",
+    "choices": {
+      "W": "X-ray",
+      "X": "Ultraviolet",
+      "Y": "Infrared",
+      "Z": "Microwave"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab have used Brillouin light scattering on the nickel and lithium niobate hybrid heterostructure in order to visualize the resonant coupling between the magnon and what other quasiparticle, which is a collective excitation of particles found in solid materials?",
+    "answer": "PHONON"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the only oceanic current that completely circumscribes the Earth?",
+    "answer": "ANTARCTIC CIRCUMPOLAR CURRENT"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which of the following planets has a 3 to 2 spin-orbit resonance with the Sun?",
+    "choices": {
+      "W": "Earth",
+      "X": "Mercury",
+      "Y": "Venus",
+      "Z": "Neptune"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the maximum number of electrons that can be contained in the 4d subshell?",
+    "answer": "10"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements has the lowest electronegativity?",
+    "choices": {
+      "W": "Carbon",
+      "X": "Hydrogen",
+      "Y": "Nitrogen",
+      "Z": "Chlorine"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes the domain of the function: the natural log of $x$, times the square root of the quantity 9 minus $x$ squared?",
+    "choices": {
+      "W": "$x$ is greater than negative 3 and less than 3",
+      "X": "$x$ is greater than 0 and less than or equal to 3",
+      "Y": "$x$ is greater than or equal to negative 3 and less than 0, union, $x$ is greater than 0 and less than or equal to 3",
+      "Z": "$x$ is greater than or equal to negative 3 and less than or equal to 3"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the probability that, when flipping a coin 5 times, you get at least 2 heads?",
+    "answer": "13/16"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Kepler's second law is a direct consequence of the conservation of what quantity?",
+    "answer": "ANGULAR MOMENTUM"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two particles with charges of 1 coulomb and $-1$ coulombs are fixed at the points (1, 0) and (3, 0). Where can a third charged particle be placed so that it is at rest?",
+    "choices": {
+      "W": "(-1, 0)",
+      "X": "(1, 0)",
+      "Y": "(2, 0)",
+      "Z": "Nowhere"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Many nematodes often have both male and female reproductive organs. What is the term for this type of organism?",
+    "answer": "HERMAPHRODITE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three amino acids that would be found in a transmembrane region: 1) Leucine; 2) Glycine; 3) Alanine.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "In one step of the proton-proton chain, a proton and a deuterium nucleus combine to form helium-3 and what two leptons?",
+    "answer": "POSITRON AND ELECTRON NEUTRINO (ACCEPT: NEUTRINO)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases is least common in volcanic eruptions?",
+    "choices": {
+      "W": "Methane",
+      "X": "Carbon dioxide",
+      "Y": "Sulfur dioxide",
+      "Z": "Water vapor"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab have found a stable phase of barium peroxide under gigapascal pressures with a monoclinic crystal structure. What is the chemical formula for barium peroxide?",
+    "answer": "BaO2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab are studying the angular momentum of rotating helium-4 droplets. Below the lambda-point, helium-4 undergoes a phase transition to what type of fluid characterized with zero viscosity?",
+    "answer": "SUPERFLUID"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three layers of the atmosphere that decrease in temperature as altitude increases: 1) Troposphere; 2) Mesosphere; 3) Thermosphere.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "At an approximate depth of 4200 meters, the pH of ocean water begins to decrease and little calcite can be found within sediment. What is the term for this depth?",
+    "answer": "CARBONATE COMPENSATION DEPTH (ACCEPT: CCD)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three ions in terms of increasing size: 1) $\\athrm{Na^{+}}$ ; 2) $\\athrm{F^{-}}$ ; 3) $\\athrm{K^{+}}$ .",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A proton is fired directly at an atomic nucleus at a high speed, and is observed to collide with the nucleus, causing a nuclear reaction. In order to be absorbed by the nucleus, what fundamental interaction must be overcome?",
+    "answer": "ELECTROMAGNETIC"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A certain flower is red and has offspring with a white flower. The entire F1 generation is pink, which is an example of what type of dominance?",
+    "answer": "INCOMPLETE DOMINANCE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true concerning Gram-negative bacteria and Gram-positive bacteria. 1) Gram-negative bacteria have more peptidoglycan; 2) Gram-negative bacteria tend to be more resistant to antibiotics; 3) Gram-negative bacteria contain lipopolysaccharides in their membranes.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The area under the curve of a force versus time graph is equal to what quantity?",
+    "answer": "IMPULSE (ACCEPT: CHANGE IN MOMENTUM)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A pencil is rolling without slipping on an inclined plane. Identify all of the following three forces that do not act on the pencil: 1) Kinetic friction; 2) Normal force; 3) Gravity.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is 135 squared?",
+    "answer": "18225"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Expressed in a + bi form, what is the fraction with numerator $7 - 2i$ and denominator $3 + i$ ?",
+    "answer": "19/10 - 13i/10"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab are studying the spin-orbit coupling in single-walled carbon nanotubes. Identify all of the following three statements that are true of carbon nanotubes: 1) The carbon atoms are $sp^2$ hybridized; 2) They can be highly electrically conductive; 3) They can be highly thermally conductive.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at SLAC national laboratory are using circular dichroism spectroscopy to study chiral molecules. Identify all of the following three statements that are true of chirality. 1) All molecules with at least 1 chiral center are chiral; 2) A racemic mixture consists of molecules without chirality; 3) A molecule with 3 chiral centers has 8 isomers.",
+    "choices": {
+      "W": "All molecules with at least 1 chiral center are chiral",
+      "X": "A racemic mixture consists of molecules without chirality",
+      "Y": "A molecule with 3 chiral centers has 8 isomers",
+      "Z": "None"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three diseases that follow an autosomal recessive inheritance pattern: 1) Huntington's disease; 2) Hemophilia; 3) Sickle cell anemia.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "To which of the following groups of macromolecules do prostaglandins belong to?",
+    "choices": {
+      "W": "Nucleic acids",
+      "X": "Lipids",
+      "Y": "Proteins",
+      "Z": "Carbohydrates"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following accurately describes the most common radioactive decay pathway exhibited by fluorine-18?",
+    "choices": {
+      "W": "Beta minus emission because it is neutron rich",
+      "X": "Beta minus emission because it is proton rich",
+      "Y": "Beta plus emission because it is neutron rich",
+      "Z": "Beta plus emission because it is proton rich"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "For a plot modeling an ideal gas in an expandable container, what two state variables vary along an isobar of the surface?",
+    "answer": "VOLUME AND TEMPERATURE (ACCEPT: TEMPERATURE AND VOLUME)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "As of 2021 in the United States, what scale is used to measure the damage done by tornadoes and provide an estimate for wind speed?",
+    "answer": "ENHANCED FUJITA SCALE (DO NOT ACCEPT: FUJITA SCALE)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Magellanic clouds are examples of which of the following types of galaxies?",
+    "choices": {
+      "W": "Lenticular",
+      "X": "Elliptical",
+      "Y": "Starburst",
+      "Z": "Irregular"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit as $x$ approaches 0 of the fraction with numerator $x$ minus sine $x$ and denominator $x$ ?",
+    "answer": "0"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of the polynomial $x^4 - 3x^3 + 3x^2 - x$ : 1) It has only two distinct roots; 2) It is symmetric about the line $x = 1/2$ ; 3) It is nonnegative on its entire domain.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A car starts from rest and uniformly accelerates to a velocity of 60 meters per second over 5 seconds. In meters, how far does the car travel?",
+    "answer": "150"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle has a time-dependent displacement given by $x(t) = t^3 + 2t^2 + t + 4$ , where $x$ is in meters and $t$ is in seconds. What is the magnitude of the particle's acceleration at $t = 3$ ?",
+    "answer": "22"
+  }
+]

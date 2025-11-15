@@ -1,0 +1,504 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "During the interglacial period after the Pleistocene, what stadial saw a return to glacial conditions after gradual climatic warming?",
+    "choices": {
+      "W": "Younger Dryas",
+      "X": "Bølling–Allerød",
+      "Y": "Strauss",
+      "Z": "Last glacial maximum"
+    },
+    "answer": "W) YOUNGER DRYAS"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of faults typically associated with basin and range terrain: 1) Thrust; 2) Listric; 3) Detachment.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three groups that, when attached to the carbanionic carbon in a wittig reagent, will react with carbonyl groups to produce an alkene with E stereochemistry as the major product: 1) Carboxyl; 2) Methoxy; 3) Tert-butyl.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following are the thermodynamic and kinetic products, respectively, at the anode for the electrolysis of an aqueous solution of sodium chloride?",
+    "choices": {
+      "W": "Oxygen and oxygen",
+      "X": "Oxygen and chlorine",
+      "Y": "Chlorine and oxygen",
+      "Z": "Chlorine and chlorine"
+    },
+    "answer": "X) OXYGEN AND CHLORINE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Argonne National Laboratory are using electron paramagnetic resonance spectroscopy to detect metal centers in biological and organic complexes. Which of the following neutral metal centers would be silent in EPR spectroscopy?",
+    "choices": {
+      "W": "Titanium",
+      "X": "Palladium",
+      "Y": "Nickel",
+      "Z": "Technetium"
+    },
+    "answer": "X) PALLADIUM"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Oak Ridge National Laboratory are studying the role of SPL genes in the role of flowering. Under which of the following circumstances would a short day plant with a critical light period of 10 hours flower?",
+    "choices": {
+      "W": "15 Hours of light, followed by 9 hours of darkness interrupted by a flash of light every 5 minutes",
+      "X": "5 Hours of light, followed by 19 hours of darkness interrupted by a flash of light every 5 hours",
+      "Y": "24 hours of darkness, followed by 24 hours of light, followed by 24 hours of darkness",
+      "Z": "11 hours of light, followed by 13 hours of uninterrupted darkness"
+    },
+    "answer": "Y) 24 HOURS OF DARKNESS, FOLLOWED BY 24 HOURS OF LIGHT, FOLLOWED BY 24 HOURS OF DARKNESS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the total energy, in terms of $\\psilon_0$ [epsilon naught], inside a cube with a side length of 2 meters if a constant electric field with magnitude 2 volts per meter exists inside?",
+    "answer": "$16\\psilon_0$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A uniformly charged ring with radius 3 meters and total charge of 12 coulombs is spinning with an angular velocity of 6 radians per second. What is the magnitude of the magnetic field at the very center in teslas and in scientific notation with two significant figures?",
+    "answer": "\\text{NOT PROVIDED IN INPUT}"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many factors of 60 are not divisible by a perfect square other than 1?",
+    "answer": "8"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many four digit integers have the property that neither the first three nor the last three digits form a palindrome?",
+    "answer": "7290"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a symptom of Cushing's syndrome?",
+    "choices": {
+      "W": "Elevated levels of ACTH",
+      "X": "Hypertension",
+      "Y": "Osteoporosis",
+      "Z": "Increased fat on the trunk and back of neck"
+    },
+    "answer": "W) ELEVATED LEVELS OF ACTH"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What disease is characterized by chronic inflammation of the digestive track and is one of the main subgroups of inflammatory bowel disease?",
+    "answer": "CROHN'S DISEASE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, place the following three minerals in order of decreasing silica content: 1) Pyroxene; 2) Orthoclase; 3) Biotite mica.",
+    "answer": "2, 3, 1 (ACCEPT: ORTHOCLASE, BIOTITE MICA, PYROXENE)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three rocks in order of increasing olivine content: 1) Garnet Schist; 2) Clinopyroxenite; 3) Dunite.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functional groups, when analyzed using electrospray ionization mass spectrometry, most commonly produce a peak at M-18 [M minus 18]?",
+    "choices": {
+      "W": "Alcohol",
+      "X": "Ketone",
+      "Y": "Aldehyde",
+      "Z": "Ether"
+    },
+    "answer": "W) ALCOHOL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes how the IR spectrum changes when acetone is treated with ammonia under acidic conditions followed by sodium cyanoborohydride?",
+    "choices": {
+      "W": "A signal at 1700 inverse cm is replaced by a broad band from 2500 to 3600 inverse cm",
+      "X": "A signal at 1700 inverse cm is replaced by a single signal at 3300 inverse cm",
+      "Y": "A signal at 1700 inverse cm is replaced by two signals at 3300 inverse cm",
+      "Z": "A signal at 1700 inverse cm is replaced by a signal at 1500 inverse cm"
+    },
+    "answer": "Y) A SIGNAL AT 1700 INVERSE CM IS REPLACED BY TWO SIGNALS AT 3300 INVERSE CM"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Labs have been studying the effects of climate change on soil bacteria productivity. Some soil bacteria can become pathogenic when entering plants via their shoots, however most of these bacteria possess PAMPs that are quickly detected by what universal innate immune receptors?",
+    "answer": "TOLL-LIKE RECEPTORS"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Oak Ridge National Laboratory are researching strains of yeast that can withstand the ionic liquids used to break down plant cells for biofuels. Although fungi lack cholesterol, they still utilize what sterol between phospholipids to modulate membrane liquidity?",
+    "answer": "ERGOSTEROL"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "In the decay pathway for uranium 235 to lead 207, each step is either an alpha decay or beta minus decay. If a total of 10 protons are lost, how many total steps are there in the pathway?",
+    "choices": {
+      "W": "5",
+      "X": "7",
+      "Y": "9",
+      "Z": "11"
+    },
+    "answer": "Z) 11"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Neel temperature is analogous to the Curie temperature for anti-ferromagnetic materials. Above the Neel temperature, thermal disorder occurs which causes the material to display what type of magnetism?",
+    "answer": "PARAMAGNETISM"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Daniel and Sean are taking a geology exam, and the scores follow a normal distribution. Given that Daniel received a score of 88 with a z-score of 2, while Sean earned a score of 61 with a z-score of –1, what are the mean and standard deviation of scores, respectively?",
+    "answer": "MEAN = 70, STANDARD DEVIATION = 9."
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Determine the number of ordered pairs of integers $(x, y)$ such that $x^{2} - xy - y = 2$ .",
+    "answer": "2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all the following three structures that are adaptations of stems: 1) Stolons; 2) Bulbs; 3) Tubers.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of gastrin: 1) It is stimulated by somatostatin; 2) It decreases large intestine motility; 3) It stimulates the ileum.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Place the following three stages of a medium mass star as it exits the main-sequence: 1) Horizontal branch; 2) Red giant branch; 3) Asymptotic giant branch.",
+    "answer": "2, 1, 3 (ACCEPT: RED GIANT BRANCH, HORIZONTAL BRANCH, ASYMPTOTIC RED GIANT BRANCH)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all the following three statements that are true about fossils: 1) When sediment that filled an indentation left by the organism cements, a mold is formed; 2) Index fossils should be found over several periods; 3) Petrified wood forms when calcium seeps into the wood and forms calcium carbonate.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is not true about the unit cell of zinc sulfide?",
+    "choices": {
+      "W": "Each cation and anion is tetrahedrally coordinated",
+      "X": "All tetrahedral sites are fully occupied by zinc",
+      "Y": "At high temperatures, it converts to a hexagonal wurtzite structure",
+      "Z": "At a radius ratio of approximately 0.225, the general unit cell breaks down into 3,3-coordination"
+    },
+    "answer": "X) ALL TETRAHEDRAL SITES ARE FULLY OCCUPIED BY ZINC"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A two step mechanism for an exothermic reaction has the following two steps: step 1 is endothermic, A produces C through transition state B; step 2 is exothermic, C produces E through transition state D. Which of the following do the geometries of transition states B and D most closely resemble, respectively?",
+    "choices": {
+      "W": "A and C",
+      "X": "A and E",
+      "Y": "C and C",
+      "Z": "C and E"
+    },
+    "answer": "Y) C AND C"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Los Alamos National Laboratory developed solar cells based on environmentally friendly and efficient copper indium selenide quantum dots with electron holes caused by zinc dopants. Identify all of the following three statements that are true about these quantum dots: 1) They are p-type semiconductors; 2) Electron holes are present in the conduction band; 3) The band gap is increased by doping.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the Linac Coherent Light Source at SLAC National Accelerator Facility have been using photon scattering anisotropy to model the kinetics of the UV induced conrotary opening of 1,3 cyclohexadiene. The reaction motif that they are studying is commonly found in the synthesis of which human hormone?",
+    "answer": "1, 25- DIHYDROXYVITAMIN D (ACCEPT: CALCITRIOL)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the only elementary boson with spin 0?",
+    "answer": "HIGGS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, rank the following four particles in order of increasing mass: 1) Electron; 2) Electron-neutrino; 3) Higgs boson; 4) W- boson.",
+    "answer": "2, 1, 4, 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that $\\in (x) - \\os (x) = 1 / 3$ , compute the value of $\\in (2x)$ .",
+    "answer": "8/9"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Two wooden sticks of length 4 are hinged together at one end. The sticks are gradually opened at the hinge such that the angle formed between them increases at a rate of 4 radians per second. When opened, the ends of the sticks and the hinge form an isosceles triangle. When the sticks form an equilateral triangle, what is the rate of increase of the area of the triangle, in square units per second?",
+    "answer": "16"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Because not enough progesterone may be secreted to maintain a pregnancy, what other hormone is secreted by the cells surrounding the embryo that trigger progesterone secretion by the corpus luteum?",
+    "answer": "HUMAN CHORIONIC GONADOTROPIN (ACCEPT: hCG)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of hemoglobin: 1) The $\\amma$ form has a higher affinity for oxygen than adult hemoglobin; 2) It has a Hill coefficient of less than one; 3) It can be modeled as an enzyme that follows Michaelis Menten kinetics in addition to its oxygen carrying function.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following locations is an example of an emergent coastline?",
+    "choices": {
+      "W": "Californian coast",
+      "X": "Chesapeake bay",
+      "Y": "Gulf of Mexico",
+      "Z": "Sohar coast"
+    },
+    "answer": "W) CALIFORNIAN COAST"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 climate proxy data collections from the shortest lookback time to the longest lookback time: 1) Speleothems; 2) Dendrochronology; 3) Ocean Cores.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about imines: 1) They form most rapidly under strongly basic conditions; 2) They can be hydrolyzed under acidic conditions to produce a carbonyl group; 3) More electronegative substituents on the nitrogen atom destabilize imines.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the ratio of the second half life to the first half life for a unimolecular reaction with an overall order of -1?",
+    "answer": "1/4"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Lawrence Berkeley National Laboratory are investigating better testing kits in the midst of the SARS-CoV-2 pandemic. One of the current testing kits utilize antibodies purified from recovered patients are used to bind to novel coronavirus proteins. What type of laboratory technique do these kits most resemble?",
+    "choices": {
+      "W": "SDS-PAGE",
+      "X": "HPLC",
+      "Y": "ELISA [EL-ICE-AH]",
+      "Z": "DNA microarray assay"
+    },
+    "answer": "Y) ELISA"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Laboratory developed a binary molybdenum phosphide catalyst to efficiently electrolyze seawater to produce hydrogen. Identify all of the following three statements that are true about the new catalyst: 1) It increases the spontaneity of electrolysis; 2) The overpotential of hydrogen on the catalytic electrode is constant; 3) It has a higher turnover rate than less efficient platinum catalysts.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A circular current loop lies in the xy plane generating a magnetic field. If r represents the distance along the z-axis, for large values of r, the strength of the magnetic field is proportional to what power of r?",
+    "choices": {
+      "W": "-1",
+      "X": "-2",
+      "Y": "-3",
+      "Z": "-6"
+    },
+    "answer": "Y) -3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What symmetry does the decay of kaons violate?",
+    "answer": "CP SYMMETRY"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following MUST be true regarding an invertible matrix?",
+    "choices": {
+      "W": "It has a rank of zero",
+      "X": "It is diagonalizable",
+      "Y": "Its kernel consists of only the zero vector",
+      "Z": "It has a positive nullity"
+    },
+    "answer": "Y) ITS KERNEL CONSISTS OF ONLY THE ZERO VECTOR"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Gideon is playing a game that involves a single die. He will win the game when he rolls two sixes in a row. What is the expected number of times Gideon must roll the die before he wins the game?",
+    "answer": "42"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following vitamins is necessary for the synthesis of acetyl-CoA?",
+    "choices": {
+      "W": "Folic acid",
+      "X": "Biotin",
+      "Y": "Pyridoxine",
+      "Z": "Pantatothenic acid"
+    },
+    "answer": "Z) PANTOTHENIC ACID"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a function of magnesium ions in the human body?",
+    "choices": {
+      "W": "Blocking of NMDA receptors",
+      "X": "Cofactor of hexokinase",
+      "Y": "Activating ATP for metabolism",
+      "Z": "Secondary active transport in the stomach"
+    },
+    "answer": "Z) SECONDARY ACTIVE TRANSPORT IN THE STOMACH"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Mt. St. Helens eruption created a large cryptodome. A cryptodome is structurally the most similar to which of the following features?",
+    "choices": {
+      "W": "Laccolith",
+      "X": "Lopolith",
+      "Y": "Batholith",
+      "Z": "Coulee"
+    },
+    "answer": "W) LACCOLITH"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all the following that are found in the Kuiper belt: 1) Vesta; 2) Ceres; 3) Haumea.",
+    "answer": "3 ONLY"
+  }
+]

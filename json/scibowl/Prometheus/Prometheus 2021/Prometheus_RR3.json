@@ -1,0 +1,494 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Seismic tomography below the Yellowstone supervolcano shows a vertical region of low seismic wave velocity, indicating the presence of what feature in the mantle?",
+    "answer": "Mantle plume"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following global catastrophic risks would a supervolcano eruption most closely resemble?",
+    "choices": {
+      "W": "Nuclear fallout",
+      "X": "Global pandemic",
+      "Y": "Asteroid impact",
+      "Z": "Runaway climate change"
+    },
+    "answer": "Y) Asteroid impact"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is $\\um_{n = 1}^{\\nfty} \\rac{3}{10^n}$ [the sum from n equals 1 to infinity of the series 3 over 10 to the n]?",
+    "answer": "$\\rac{1}{3}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Consider the function $f(x) = \\in (x) - \\ec (x) + \\tan (x)$ [f of x equals sine of x minus secant of x plus tangent of x]. What is the difference in value between $f(0)$ and $f(\\i)$ ?",
+    "answer": "2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following bases has the highest pKa when protonated?",
+    "choices": {
+      "W": "Cyanide",
+      "X": "Hypochlorite",
+      "Y": "Bromide",
+      "Z": "Acetate"
+    },
+    "answer": "W) Cyanide"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many half-occupied orbitals are present in the iron $3+$ cation?",
+    "answer": "5"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of unconformity would most likely be found above an eroded batholith [BATH-uh-lith]?",
+    "choices": {
+      "W": "Angular unconformity",
+      "X": "Disconformity",
+      "Y": "Nonconformity",
+      "Z": "Paraconformity"
+    },
+    "answer": "Y) Nonconformity"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following biomes would an ephemeral [eh-FEH-mer-ul] stream be most likely to form?",
+    "choices": {
+      "W": "Tropical rainforest",
+      "X": "Taiga [TIE-guh]",
+      "Y": "Savanna",
+      "Z": "Desert"
+    },
+    "answer": "Z) Desert"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Maturation promotion factor is a kinase [KYE-nase] which is always inactive, unless bound to what type of proteins, which are named because of their fluctuating concentration throughout the cell cycle?",
+    "answer": "Cyclin"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is not true about the immune system?",
+    "choices": {
+      "W": "Cytotoxic T cells primarily recognize antigen fragments displayed on MHC class II molecules",
+      "X": "Humoral immunity involves the production of antibodies by B cells",
+      "Y": "Each immunoglobulin [IHM-yoo-noh-GLOB-yuh-lin] unit is composed of two heavy chains and two light chains",
+      "Z": "Release of interferon by virus-infected cells is part of the innate immune response"
+    },
+    "answer": "W) Cytotoxic T cells primarily recognize antigen fragments displayed on MHC class II molecules"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A 9 volt battery is connected in series with a 1 mF [millifarad] capacitor and a resistor with unknown resistance R. After a long time, a certain amount of energy E is dissipated by the circuit as heat. As the resistance changes, how does E change with respect to R?",
+    "choices": {
+      "W": "E is constant with respect to R",
+      "X": "E scales inversely with R",
+      "Y": "E scales linearly with R",
+      "Z": "E scales quadratically with R"
+    },
+    "answer": "W) E is constant with respect to R"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three changes to the Earth that would decrease Earth's escape velocity: 1) Decreasing density; 2) Replacing with a hollow planet of the same mass and radius; 3) Increasing the sidereal [sihDEER-ee-ull] period.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "One key argument against longtermism hinges upon the fact that people tend to value goods less if they are further in the future. What is this effect called?",
+    "choices": {
+      "W": "Future aversion",
+      "X": "Time discounting",
+      "Y": "Longtermist ambivalence",
+      "Z": "Recency bias"
+    },
+    "answer": "X) Time discounting"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "What tool do economists use to account for time discounting in their calculations?",
+    "choices": {
+      "W": "Actuarial [AK-choo-AIR-ee-ull] adjustment",
+      "X": "Statistical delay",
+      "Y": "Unit growth adjustment",
+      "Z": "Discount rate"
+    },
+    "answer": "Z) Discount rate"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following binomial expressions is a factor of the cubic trinomial $x^{3} - 7x + 6$ ?",
+    "choices": {
+      "W": "$x + 1$",
+      "X": "$x + 2$",
+      "Y": "$x + 3$",
+      "Z": "$x + 4$"
+    },
+    "answer": "$\\athrm{Y})x + 3$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Tommy cuts two 2 inch by 6 inch strips of paper. He puts the two strips directly on top of each other then rotates one by 45 degrees. What is the area of the overlapping region?",
+    "answer": "$4\\qrt{2}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many total structural isomers exist for butane?",
+    "answer": "2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following silver salts has the highest solubility in water?",
+    "choices": {
+      "W": "AgF",
+      "X": "AgCl",
+      "Y": "AgBr",
+      "Z": "AgI"
+    },
+    "answer": "W) AgF"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "According to the double-degenerate model, what type of supernova occurs when two white dwarfs merge to create a body with a mass greater than the Chandrasekhar [chahn-druh-SAY-car] limit?",
+    "answer": "Type Ia [ONE AY]"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What class of galaxies is located at the node of the Hubble Tuning Fork, where the spiral and elliptical branches meet?",
+    "answer": "Lenticular (ACCEPT: S0)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Unlike transcription, DNA replication requires a primer. This is because DNA polymerase [puh-LIH-muhr-ase] requires the presence of what functional group to initiate synthesis?",
+    "answer": "Hydroxyl (ACCEPT: OH)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the symplastic [sim-PLAS-tik] route in a plant?",
+    "choices": {
+      "W": "Water moves into the xylem by traveling through the cytosol [SIGH-doe-zol] and plasmodesmata [plaz-mo-dez-MAH-ta]",
+      "X": "Water moves into the xylem through the extracellular space between cell walls",
+      "Y": "Sugar moves into the phloem by traveling through the cytosol and plasmodesmata",
+      "Z": "Sugar moves into the phloem through the extracellular space within cell walls"
+    },
+    "answer": "W) Water moves into the xylem by travelling through the cytosol and plasmodesmata"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three situations that would create a virtual image: 1) Using a plane mirror; 2) Keeping the object in front of the focal point of a concave mirror; 3) Keeping the object in front of the focal point of a convex mirror.",
+    "answer": "All"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball is placed within a viscous fluid. What law describes the viscosity-dependent drag effect on the ball as it sinks?",
+    "answer": "Stoke's law"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which field within AI began with work on perceptron models and includes all computer algorithms that can improve through experience?",
+    "answer": "Machine learning"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which type of machine learning algorithm involves simulating a circuit made up of numerical nodes, with connections between them determining their influence on each other?",
+    "answer": "Neural network"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $(x^{2})$ ! [x squared factorial] ends with at least eight zeroes, what is the lowest possible integer value that x can be?",
+    "answer": "6"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of $\\um_{n = 0}^{30} \\in^{2} 3n$ [the sum from n equals 0 to 30 of sine squared of 3n] if the angle measures are to be taken in degrees?",
+    "answer": "15.5"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following ions would oxidize copper metal under neutral pH?",
+    "choices": {
+      "W": "F-",
+      "X": "$\\athrm{Fe}^{2 + }$",
+      "Y": "$\\athrm{Zn}^{2 + }$",
+      "Z": "$\\athrm{Ag}^{+}$"
+    },
+    "answer": "Z) $\\athrm{Ag}^{+}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Nuclides that have a neutron-to-proton ratio smaller than one are likely to spontaneously produce what particle?",
+    "answer": "Positron"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "At altitudes above the planetary boundary layer, winds typically have low friction and a strong Coriolis [KOR-ee-OLL-is] effect, causing them to move parallel to isobars in what type of flow?",
+    "answer": "Geostrophic [JEE- uh- STRO- fik]"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of sediment that are biogenous [bi-AH-jih-nis] in origin: 1) Calcareous [kal-CARE-ee-us] ooze; 2) Siliceous [sih-LISH-us] ooze; 3) Manganese nodules.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What class of RNA is joined with proteins to form spliceosomes [SPLICE-uh-zymes]?",
+    "answer": "Small nuclear RNA (Accept: snRNA)"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A population of griffins can have either black feathers or red feathers, and the allele for black feather color is dominant over the allele for red feather color. 128 griffins out of a population of 800 have red feathers. If there are 1250 individuals in the next generation of griffins, how many of them should be heterozygous to support that the population is in Hardy-Weinberg equilibrium?",
+    "answer": "600"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A mass located at $\\rac{1}{4}$ the radius of Earth from Earth's center feels a force F due to gravity towards the center of the Earth. If the mass was taken to a new distance of triple Earth's radius, in terms of F, what would the new force be on the mass?",
+    "choices": {
+      "W": "$\\rac{F}{16}$",
+      "X": "$\\rac{F}{12}$",
+      "Y": "$\\rac{F}{9}$",
+      "Z": "$\\rac{4F}{9}$"
+    },
+    "answer": "Z) $\\rac{4F}{9}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A single force acts on a $1.0 \\athrm{kg}$ particle-like object whose position is given by $x = 3t - 4t^2$, with $x$ in meters and $t$ in seconds. How much work is done on the object by the force from $t = 0$ to $t = 2$ seconds?",
+    "answer": "80"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Humanity's fossil record suggests that natural risks should pose an extinction risk of less than 1 in 2000, but this is complicated by anthropogenic factors. Which of the following changes would NOT affect humanity's natural X-risk as a whole?",
+    "choices": {
+      "W": "Spread to isolated regions like Antarctica",
+      "X": "Improved preventative technology",
+      "Y": "Longer human lifespan",
+      "Z": "Greater global population"
+    },
+    "answer": "Y) Longer human lifespan"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Imagine humanity faces three seperate and independent existential risks, which have a probability of causing extinction of $20\\$, $30\\$, and $80\\$ respectively. If the $20\\$ risk is reduced to zero, what is the absolute change, to the nearest percent, of the total risk of extinction?",
+    "answer": "3"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The product of the positive divisors of 36 can be written as $36^{x}$ for some real number x. What is the value of x?",
+    "answer": "4.5"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In triangle ABC, AB has length 14, BC has length 8, and AC has length 19. Calculate $\\os B$ [the cosine of angle B].",
+    "answer": "$- \\rac{101}{224}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following acids is diprotic?",
+    "choices": {
+      "W": "Succinic [SUCK-sih-nik] acid",
+      "X": "Phosphoric acid",
+      "Y": "Periodic [per-EYE-oh-dik] acid",
+      "Z": "Citric acid"
+    },
+    "answer": "W) Succinic acid"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Sulfur dioxide is a major air pollutant emitted through volcanic eruptions. In what key industrial process does vanadium (V) [vanadium five] oxide catalyze the oxidation of sulfur dioxide?",
+    "answer": "Contact process"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The most recent peak in solar activity occurred in early 2014, with a maximum of 146 sunspots observed in a month. In what year would the next solar activity maximum be most likely to occur?",
+    "answer": "2025"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Studies confirming the accelerating expansion of the universe indicate that which of the following is true of the cosmological constant?",
+    "choices": {
+      "W": "It is positive",
+      "X": "It is negative",
+      "Y": "It is increasing",
+      "Z": "It is decreasing"
+    },
+    "answer": "W) It is positive"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Most phospholipids in a human cell membrane are produced by the attachment of fatty acids to which of the following alcohols?",
+    "choices": {
+      "W": "Ethanol",
+      "X": "Inositol [ih-NO-sih-tall]",
+      "Y": "Glycerol",
+      "Z": "Xylitol [ZYE-lih-tall]"
+    },
+    "answer": "Y) Glycerol"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During in vitro fertilization, prior to egg retrieval, what hormone is injected to stimulate egg production?",
+    "answer": "Follicle stimulating hormone (Accept: FSH)"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If the mass of the Sun and Earth and the distance between them were all scaled down by a factor of 100, in terms of the Earth's current period of rotation, T, what would its new orbital period be?",
+    "choices": {
+      "W": "1/100 T",
+      "X": "T",
+      "Y": "100 T",
+      "Z": "10000 T"
+    },
+    "answer": "W) 1/100 T"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name of the angle that incident polarized light can hit a dielectric without a reflection?",
+    "answer": "Brewster angle"
+  }
+]

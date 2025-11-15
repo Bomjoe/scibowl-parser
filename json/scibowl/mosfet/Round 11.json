@@ -1,0 +1,472 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In general relativity, what four-dimensional manifold is used to explain relativistic effects and is warped by very massive objects?",
+    "answer": "SPACETIME"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An infinitely long wire carries a current of 3 amps. Assuming that the permeability of free space is $4 \\i * 10^{-7}$ Henrys per meter, then to two significant figures, what is the strength of the magnetic field at a distance of 5 meters from the wire?",
+    "answer": "$1.2 * 10^{-7}$ TESLAS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the class of highly specialized small epithelial cells that form outgrowths on plants, which can reduce water loss and reflect excess light in cacti?",
+    "answer": "TRICHOMES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids would you most likely find in the interior of a protein?",
+    "choices": {
+      "W": "Phenylalanine",
+      "X": "Glutamate",
+      "Y": "Asparagine",
+      "Z": "Lysine"
+    },
+    "answer": "W) PHENYLALANINE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following celestial objects or groupings can NOT be used as a spiral tracer?",
+    "choices": {
+      "W": "Globular clusters",
+      "X": "OB associations",
+      "Y": "Cepheid variables",
+      "Z": "Emission nebulae"
+    },
+    "answer": "W) GLOBULAR CLUSTERS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding subduction zones: 1) Horsts and grabens are common at subduction zones; 2) Most magma produced at subduction zones is a result of flux melting; 3) The deepest earthquakes in the world occur at subduction zones.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "For which of the following values of x will secant of x be undefined?",
+    "choices": {
+      "W": "0",
+      "X": "$\\i /4$",
+      "Y": "$\\i /2$",
+      "Z": "$3\\i /4$"
+    },
+    "answer": "Y) $\\i /2$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the x-coordinate of the point of inflection of the graph $y = x^3 - 5x^2 + 6x + 2$ .",
+    "answer": "5/3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three species in order of increasing band gap: 1) Silicon; 2) Diamond; 3) Calcium.",
+    "answer": "3, 1, 2 (ACCEPT: CALCIUM, SILICON, DIAMOND)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three processes in terms of increasing work done by the system, assuming that in each case, the system goes from 1 liter to 2 liters: 1) Isothermal expansion; 2) Adiabatic expansion; 3) Isobaric expansion.",
+    "answer": "2, 1, 3 (ACCEPT: ADIABATIC EXPANSION, ISOTHERMAL EXPANSION, ISOBARIC EXPANSION)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the University of Chicago's Gwen Knapp Center for Immunology Research are studying autoimmune diseases. Which of the following diseases is NOT an autoimmune disease?",
+    "choices": {
+      "W": "Lupus",
+      "X": "Shingles",
+      "Y": "Rheumatoid arthritis",
+      "Z": "Myasthenia gravis"
+    },
+    "answer": "X) SHINGLES"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Weaver lab at the University of Florida are studying the solid surfaces of heterogeneous catalysts on an atomic scale. To study the surface, they are using what form of microscopy, which depends on an electron's ability to penetrate through potential barriers?",
+    "answer": "SCANNING TUNNELING MICROSCOPY (ACCEPT: STM)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "When a ferromagnet is heated to a temperature above the Curie point, what type of magnetism does it exhibit?",
+    "answer": "PARAMAGNETISM"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of scattering is NOT elastic?",
+    "choices": {
+      "W": "Rayleigh",
+      "X": "Raman",
+      "Y": "Mie",
+      "Z": "Thomson"
+    },
+    "answer": "X) RAMAN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following hormones is NOT secreted by the anterior pituitary gland?",
+    "choices": {
+      "W": "Thyroid Stimulating Hormone",
+      "X": "Follicle Stimulating Hormone",
+      "Y": "Growth Hormone",
+      "Z": "Calcitonin"
+    },
+    "answer": "Z) CALCITONIN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following immune cells would be most useful in fighting against multicellular parasites?",
+    "choices": {
+      "W": "Neutrophil",
+      "X": "Eosinophil",
+      "Y": "Macrophage",
+      "Z": "Dendritic cell"
+    },
+    "answer": "X) EOSINOPHIL"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Placement of plagioclase feldspars on the continuous series of the Bowen’s reaction series is based on the relative abundance of what two elements?",
+    "answer": "CALCIUM AND SODIUM (ACCEPT: ALUMINUM AND SILICON)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What two fundamental forces were the last to separate in the moments after the big bang?",
+    "choices": {
+      "W": "Electromagnetic and weak",
+      "X": "Gravity and strong",
+      "Y": "Electromagnetic and strong",
+      "Z": "Gravity and weak"
+    },
+    "answer": "W) ELECTROMAGNETIC AND WEAK"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "$f(x)$ is a continuous and differentiable function such that $\\athrm{f}(1) = 4$ and $\\athrm{f}(6) = 5$. According to the mean value theorem, which of the following values is guaranteed to be the derivative of $f(x)$ with respect to $x$ for some value of $x$ between 1 and 6?",
+    "choices": {
+      "W": "-0.2",
+      "X": "0",
+      "Y": "0.2",
+      "Z": "1"
+    },
+    "answer": "Y) 0.2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Coby the ant is walking on the surface of a unit cube. He starts at a vertex and wants to go to the vertex across the space diagonal of the cube. What is the shortest length path that he can take?",
+    "answer": "$\\qrt{5}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three molecules in terms of increasing carbon-oxygen bond length: 1) Acetate; 2) Tert-butanol; 3) Carbon monoxide.",
+    "answer": "3, 1, 2 (ACCEPT: CARBON MONOXIDE, ACETATE, TERT-BUTANOL)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three species that, when added to a solution of chromic acid, would be oxidized to a carboxylic acid: 1) Ethanol; 2) Isopropanol; 3) Tert-butanol.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the University of Florida are studying the physiology of plants during a drought. What plant hormone do plants secrete during drought-like conditions to minimize water loss through transpiration?",
+    "answer": "ABSCISIC ACID (ACCEPT: ABA)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at UW Madison are studying the formation of cosmic rays with the High Altitude Water Cherenkov Gamma-Ray observatory. Which of the following apparatuses would be able to detect cosmic rays based on the condensation of gas in the apparatus?",
+    "choices": {
+      "W": "Interferometer",
+      "X": "Spectrophotometer",
+      "Y": "Bubble chamber",
+      "Z": "Cloud chamber"
+    },
+    "answer": "Z) CLOUD CHAMBER"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following objects has the largest moment of inertia about its central axis?",
+    "choices": {
+      "W": "Hoop of mass m and radius r",
+      "X": "Solid cylinder of mass 4m and radius r",
+      "Y": "Solid sphere of mass m and radius 2r",
+      "Z": "Hollow sphere of mass 2m and radius r"
+    },
+    "answer": "X) SOLID CYLINDER OF MASS 4M AND RADIUS R"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the name for the process whereby neutrinos change flavor, confirming that they have a non-zero mass?",
+    "answer": "NEUTRINO OSCILLATION (ACCEPT: OSCILLATION; FLAVOR OSCILLATION)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The release of what ion by egg cells during fertilization causes cortical granules to fuse with the cell membrane?",
+    "answer": "$\\athrm{Ca}^{2+}$ (ACCEPT: CALCIUM)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following laboratory techniques would be most useful for counting and sorting individual cells?",
+    "choices": {
+      "W": "Gel electrophoresis",
+      "X": "Flow cytometry",
+      "Y": "Thin-layer chromatography",
+      "Z": "Polymerase chain reaction"
+    },
+    "answer": "X) FLOW CYTOMETRY"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "At which of the following latitudes is the salinity in oceans generally the highest?",
+    "answer": "$30^{\\irc}$ NORTH AND SOUTH"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the four designations of solar system objects that are associated with close proximity to Earth: 1) Apollo objects; 2) Centaurs; 3) NEOs; 4) Trojans.",
+    "answer": "1 AND 3 (ACCEPT: APOLLO OBJECTS AND NEOS)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In modulo 13, what is 5 times 6?",
+    "answer": "4"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The circumcircle of an equilateral triangle has a circumference of 20pi. What is its inradius?",
+    "answer": "5"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plots of rate constant against temperature would produce a straight line?",
+    "choices": {
+      "W": "Rate constant vs temperature",
+      "X": "Rate constant vs the reciprocal of temperature",
+      "Y": "Natural log of rate constant vs temperature",
+      "Z": "Natural log of rate constant vs the reciprocal of temperature"
+    },
+    "answer": "Z) NATURAL LOG OF RATE CONSTANT VS THE RECIPROCAL OF TEMPERATURE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Given that the $\\athrm{K}_{\\athrm{a}} / \\athrm{k}$ sub a] of HClO is $3*10^{-8}$, what is the $\\athrm{K}_{\\athrm{b}} / \\athrm{k}$ sub b] value for ClO⁻ to two significant figures?",
+    "answer": "$3.3*10^{-7}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Baer lab at the University of Florida are studying the mutational sensitivity in nematode species. What is the name of one of the nematode species they are studying, which was the first multicellular organism to have its genome sequenced?",
+    "answer": "C. ELEGANS (ACCEPT: CAENORHABDITIS ELEGANS)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at UW Madison have been studying the synthetic pathway of a modified type of glucose in bacteria that cause tuberculosis. Tuberculosis comes from what specific genus of bacteria?",
+    "answer": "MYCOBACTERIUM"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What principle in general relativity states that the gravitational force experienced locally while standing on a massive body is the same as the pseudoforce experienced by an observer in a non-inertial reference frame?",
+    "answer": "EQUIVALENCE PRINCIPLE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "For a point source emitting a sound wave in 3D equally in all directions, the sound intensity observed at a distance of 1 meter is 80 decibels. What is the observed sound intensity, to the nearest decibel, at a distance of 2 meters?",
+    "answer": "74"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Anthozoa, scyphozoa, and cubozoa are all classes that belong to what animal phylum?",
+    "answer": "CNIDARIA"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "After an action potential arrives at a chemical synapse of a neuron, order the following three steps that occur from first to last: 1) The neurotransmitter binds to ligand-gated ion channels in the postsynaptic membrane; 2) Synaptic vesicles fuse to the presynaptic membrane; 3) Depolarization opens voltage-gated channels, triggering an influx of calcium.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about the Oort cloud: 1) Most long-period comets originate in the Oort cloud; 2) The Oort Cloud lies as a disk roughly in the plane of the rest of the solar system; 3) The Oort Cloud is easily affected by the gravitational pull of passing stars.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best characterizes the energy transfer in a 6 solar mass star?",
+    "choices": {
+      "W": "Fully convective",
+      "X": "Fully radiative",
+      "Y": "Convective core and radiative envelope",
+      "Z": "Radiative core and convective envelope"
+    },
+    "answer": "Y) CONVECTIVE CORE AND RADIATIVE ENVELOPE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If $2^{x} = 5$, then what is the value of $2^{3x + 1}$ [2 to the power of quantity $3x + 1$]?",
+    "answer": "250"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Let $\\athrm{f}(x)$ equal the integral from 2 to $\\athrm{x}^{2}$ of $\\in (t)\\athrm{dt}$. What is the derivative of $\\athrm{f}(x)$ at $\\athrm{x} = 3$?",
+    "choices": {
+      "W": "$\\in (3)$",
+      "X": "$\\in (9)$",
+      "Y": "6sin(3)",
+      "Z": "6sin(9)"
+    },
+    "answer": "Z) 6sin(9)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a product of beta minus decay?",
+    "choices": {
+      "W": "Proton",
+      "X": "Photon",
+      "Y": "Electron antineutrino",
+      "Z": "Electron"
+    },
+    "answer": "X) PHOTON"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes the spontaneity of the dissolution of ammonium nitrate?",
+    "choices": {
+      "W": "Spontaneous at all temperatures",
+      "X": "Never spontaneous",
+      "Y": "Spontaneous only at high temperatures",
+      "Z": "Spontaneous only at low temperatures"
+    },
+    "answer": "Y) SPONTANEOUS ONLY AT HIGH TEMPERATURES"
+  }
+]

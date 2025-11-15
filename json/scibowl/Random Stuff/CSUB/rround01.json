@@ -1,0 +1,473 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the most common name for the vector for Rocky Mountain Spotted Fever?",
+    "answer": "TICK"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Binomial nomenclature is classically made up of what two taxonomical terms?",
+    "answer": "GENUS AND SPECIES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In the periodic table, the number found above each atomic symbol represents what value?",
+    "answer": "ATOMIC NUMBER"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many molecules of HCl are in 1 mole of HCl?",
+    "answer": "$6.022 \\times 10^{23}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "What property of waves allows them to bend around the edges of an obstacle:",
+    "choices": {
+      "W": "reflection",
+      "X": "diffraction",
+      "Y": "deflection",
+      "Z": "dispersion"
+    },
+    "answer": "X) DIFFRACTION"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Considered by some as the forgotten father of electricity and technology, what person was the inventor of the alternating current motor and created a device in Colorado Springs that was able to produce bolts of lightning 130 feet long:",
+    "answer": "TESLA"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The Taurids is to November as the Perseids is to:",
+    "choices": {
+      "W": "July",
+      "X": "August",
+      "Y": "September",
+      "Z": "October"
+    },
+    "answer": "X) AUGUST"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the main component of the atmosphere of Mars:",
+    "choices": {
+      "W": "hydrogen",
+      "X": "helium",
+      "Y": "nitrogen",
+      "Z": "carbon dioxide"
+    },
+    "answer": "Z) CARBON DIOXIDE"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a rational number:",
+    "choices": {
+      "W": "$2 + \\qrt{5}$",
+      "X": "$\\qrt{3}$",
+      "Y": "$\\qrt{4 / 9}$",
+      "Z": "$\\qrt{6}$"
+    },
+    "answer": "Y) $\\qrt{4 / 9}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If you count from 1 to 100, how many 9's will you pass on the way?",
+    "answer": "20"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "What is the term for a vent in the surface of the Earth, from which magma, solid rock debris, and gases erupt?",
+    "answer": "VOLCANO"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Mount Rainier, Mount Baker and Mount Hood in the U.S. are all examples of:",
+    "choices": {
+      "W": "stratovolcanoes",
+      "X": "tephra cone volcanoes",
+      "Y": "shield volcanoes",
+      "Z": "basaltic lava volcanoes"
+    },
+    "answer": "W) STRATOVOLCANOES"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Express the number 0.051 in proper scientific notation with the correct amount of significant figures:",
+    "answer": "$5.1 \\times 10^{-2}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "Rounded to the nearest decimal place, what is the Kelvin equivalent of $-60^{\\irc}\\athrm{C}$ ?",
+    "answer": "213"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "The binary number 1010 (read as: one, zero, one, zero) is equivalent to what decimal number?",
+    "answer": "10"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "short_answer",
+    "body": "What does the acronym RDRAM stand for?",
+    "answer": "RAMBUS DYNAMIC RANDOM ACCESS MEMORY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A lack of the neurotransmitter dopamine in the brain of humans causes what disease:",
+    "answer": "PARKINSON'S"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT typically considered part of the immune system:",
+    "choices": {
+      "W": "Kupffer cell",
+      "X": "mast cell",
+      "Y": "eosinophile",
+      "Z": "fibroblast"
+    },
+    "answer": "Z) FIBROBLAST"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The atomic number represents the number of what in an atom?",
+    "answer": "PROTONS"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "From the lowest to the highest atomic number, give the full names of the first 4 halogens:",
+    "answer": "FLUORINE; CHLORINE; BROMINE; IODINE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A white-colored object illuminated by a yellow light will appear as what color to the human eye?",
+    "answer": "YELLOW"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the current, in amperes, through a 1200 watt heater running on a 120 volt power source:",
+    "answer": "10"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "Which planet in our solar system has the strongest magnetic field?",
+    "answer": "JUPITER"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "The Andromeda Galaxy is which of the following types of galaxies:",
+    "choices": {
+      "W": "elliptical",
+      "X": "irregular",
+      "Y": "spiral",
+      "Z": "barred spiral"
+    },
+    "answer": "Y) SPIRAL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of a right triangle whose leg lengths are 6 and 8 and whose hypotenuse is 10?",
+    "answer": "24"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following numbers is divisible by 3:",
+    "choices": {
+      "W": "2,393",
+      "X": "32,413",
+      "Y": "43,173",
+      "Z": "7133"
+    },
+    "answer": "Y) 43,173"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "multiple_choice",
+    "body": "Seawater covers approximately what percent of the earth's surface:",
+    "choices": {
+      "W": "46",
+      "X": "71",
+      "Y": "82",
+      "Z": "92"
+    },
+    "answer": "X) 71"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "What is the name for the natural level of water in a soil or rock, below which the soil or rock is saturated:",
+    "answer": "WATER TABLE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "How many sides does a Mobius Strip have?",
+    "answer": "ONE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "general_science",
+    "answer_type": "short_answer",
+    "body": "How many significant figures are in the number 0.024424?",
+    "answer": "5"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "What is the smallest unit of information on a computer system:",
+    "choices": {
+      "W": "bit",
+      "X": "byte",
+      "Y": "nanobyte",
+      "Z": "exabyte"
+    },
+    "answer": "W) BIT"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "computer_science",
+    "answer_type": "multiple_choice",
+    "body": "What is the hexadecimal equivalent of the binary number 1101 (read as: one, one, zero, one)?",
+    "choices": {
+      "W": "C",
+      "X": "D",
+      "Y": "E",
+      "Z": "F"
+    },
+    "answer": "X) D"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The phelloderm, cork cambium, and all the tissues outside the innermost secondary phloem compose what common plant structure?",
+    "answer": "BARK"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Blood belongs to which of the following animal tissues types:",
+    "choices": {
+      "W": "epithelial",
+      "X": "connective",
+      "Y": "nervous",
+      "Z": "muscle"
+    },
+    "answer": "X) CONNECTIVE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many electrons are found in the outer electron shell of halogens?",
+    "answer": "7"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the maximum number of the electrons that can occupy the second shell of an atom?",
+    "answer": "8"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following physical phenomena must travel through some sort of physical medium:",
+    "choices": {
+      "W": "visible light",
+      "X": "sound",
+      "Y": "radiant energy",
+      "Z": "gamma rays"
+    },
+    "answer": "X) SOUND"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A receiver tuned into the VHF band would be receiving which of the following wavelength bands:",
+    "choices": {
+      "W": "0.1 to 1 meters",
+      "X": "1 to 10 meters",
+      "Y": "10 to 100 meters",
+      "Z": "100 to 1000 meters"
+    },
+    "answer": "X) 1 TO 10 METERS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "astronomy",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following moon features is named Copernicus:",
+    "choices": {
+      "W": "a sea",
+      "X": "a crater",
+      "Y": "a mountain range",
+      "Z": "a rill"
+    },
+    "answer": "X) A CRATER"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "astronomy",
+    "answer_type": "short_answer",
+    "body": "The Earth is actually closest to the Sun during what month?",
+    "answer": "JANUARY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the interior angles of a 5-sided polygon?",
+    "answer": "$540^{\\irc}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the prime factorization of 600:",
+    "answer": "$2^{3} \\times 3 \\times 5^{2}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "Found on river floodplains, what are the small arc-shaped lakes that represent part of the former course of a river:",
+    "answer": "OXBOCK LAKES"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_science",
+    "answer_type": "short_answer",
+    "body": "Name the two predominate gases which compose Earth's atmosphere:",
+    "answer": "NITROGEN AND OXYGEN"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following trees has a simple pinnate leaf with a serrated margin and net venation:",
+    "choices": {
+      "W": "Apple",
+      "X": "Sassafras",
+      "Y": "White Oak",
+      "Z": "American Elm"
+    },
+    "answer": "Z) AMERICAN ELM"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the common scientific term for the protein complex that holds homologous pairs of chromosomes together after synapsis has occurred ?",
+    "answer": "SYNAPTONEMAL COMPLEX"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is TRUE about sodium:",
+    "

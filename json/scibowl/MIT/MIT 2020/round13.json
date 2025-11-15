@@ -1,0 +1,472 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four plates which border the Pacific plate: 1) North American plate 2) Nazca plate 3) Philippine plate 4) Scotia plate",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, arrange the following four events in the post-main sequence evolution of a star like the Sun in chronological order, from earliest to latest: 1) Helium flash 2) Asymptotic giant branch 3) Red giant branch 4) Horizontal branch",
+    "answer": "3, 1, 4, 2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following vectors gives the direction of steepest change on a surface in 3 dimensions, defined by $z = f(x, y)$ ?",
+    "choices": {
+      "W": "Curvature",
+      "X": "Gradient",
+      "Y": "Flux",
+      "Z": "Normal"
+    },
+    "answer": "X) Gradient"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A positive integer is called fibbish if each digit, after the leftmost two, is at least the sum of the two digits to the left of it. What is the largest fibbish number?",
+    "answer": "10112369"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Mangrove trees, which often reside in tidal swamps, exhibit what kind of root?",
+    "choices": {
+      "W": "Buttress roots",
+      "X": "Strangling aerial roots",
+      "Y": "Storage roots",
+      "Z": "Pneumatophores"
+    },
+    "answer": "Z) Pneumatophores"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The ABC model of flower development describes the development of floral organs in relation to various classes of homeotic genes. In addition to the ABC type genes are the D and E type genes, which are said to play a role in ovule and verticil development. One such D type gene is floral binding protein 7, or FBP7. What specific gene family do FBP7 and many other floral organ identity genes belong to?",
+    "answer": "MADS- box"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the MIT Francis Bitter Magnet Laboratory are utilizing state-of-the-art nuclear magnetic resonance (NMR) spectrometers to characterize and study different molecules and their interactions. Which of the following nuclei could not be studied by a typical NMR spectrometer?",
+    "choices": {
+      "W": "Hydrogen-2",
+      "X": "Carbon-12",
+      "Y": "Nitrogen-14",
+      "Z": "Phosphorus-31"
+    },
+    "answer": "X) Carbon-12"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Dinca group at MIT are synthesizing redox active metal organic frameworks (MOF) which can activate small molecules such as oxygen and nitrogen. To characterize these MOFs, researchers are employing a variety of spectroscopic techniques. Order the following three spectroscopic techniques in increasing energy of light used in the technique: 1) Moessbauer 2) NMR 3) EPR",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following constants represents the coupling strength of the electromagnetic force?",
+    "choices": {
+      "W": "Fine structure constant",
+      "X": "Planck's reduced constant",
+      "Y": "Yukawa coupling constant",
+      "Z": "Von Klitzing constant"
+    },
+    "answer": "W) Fine structure constant"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A spaceship is emitting a signal of frequency $f$ in its own rest frame. As it flies by you, at near the speed of light, which of the following best describes the frequency when you see the spaceship at its closest approach?",
+    "choices": {
+      "W": "Greater than $f$",
+      "X": "Less than $f$",
+      "Y": "Equal to $f$",
+      "Z": "Relation to $f$ depends on $f$"
+    },
+    "answer": "X) Less than $f$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the cause of gold's distinctive color?",
+    "choices": {
+      "W": "The surface of gold forms a passivation layer, which has a gold tilt",
+      "X": "Impurities within gold metal causes metal chloride complexes to form, which have a gold hue",
+      "Y": "Relativistic effects within gold shifts the wavelength of absorption into the blue region, resulting in a gold color",
+      "Z": "Electron tunneling distorts the energy levels within the gold, causing the appearance of new absorption bands"
+    },
+    "answer": "Y) Relativistic effects within gold shifts the wavelength of absorption into the blue region, resulting in a gold color"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Cyclobutadiene has been found to form a stable complex with an iron tricarbonyl fragment. The four-carbon ring in this complex has been found to have aromatic properties. Answer the following two questions about this complex: 1) Using a combination of L, X, and Z, what is the covalent bond classification of the cyclobutadiene ligand in this complex? 2) What is the formal number of pi electrons in the cyclobutadiene ring in the complex?",
+    "answer": "1) $\\athrm{LX}_{2}$ ; 2) 6"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In humans, what is the enzyme that converts carbon dioxide to bicarbonate and hydrogen ions?",
+    "answer": "Carbonic anhydrase"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following statements that are true about 2,3-BPG (read: 2 3 B P G) binding to hemoglobin. 1) 2,3-BPG stabilizes the T state 2) 2,3-BPG decreases binding affinity for hemoglobin to oxygen 3) Fetal hemoglobin exhibits high affinity for 2,3-BPG",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate all of the following three statements that are true of the Einstein model of a solid: 1) It matches the Dulong-Petit prediction at high temperatures 2) At low temperatures, it predicts heat capacity proportional to temperature cubed 3) It models atoms as independent quantum harmonic oscillators",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By number, indicate all of the following which are true regarding the theory of solids: 1) The Debye model predicts that as temperature approaches 0 heat capacities scale as temperature cubed 2) The Einstein model treats each atom as a quantum harmonic oscillator 3) Vibrations within the solid can be modeled as pseudoparticles called phonons",
+    "answer": "1, 2, 3 (accept: all)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The sum of the first $N$ positive perfect seventh powers can be written as a polynomial expression in $N$. When this polynomial is written in standard polynomial form, what is its leading term?",
+    "answer": "$N^{8} / 8$ (accept: $\\rac{1}{8} N^{8}$ )"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find to one significant figure the area of a regular 1,000,000-sided polygon with side length 1. Express your answer in scientific notation.",
+    "answer": "$8 \\times 10^{10}$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the MIT Department of Mathematics have conducted investigations into high-dimensional sphere packing, which aims to find the densest possible packing of congruent spheres in $n$-dimensional Euclidean space. The kissing number of a unit sphere is defined as the maximum number of unit spheres that can be placed tangent to the original so that no two overlap. What is the kissing number of a unit sphere in 3-dimensional space?",
+    "choices": {
+      "W": "2",
+      "X": "6",
+      "Y": "12",
+      "Z": "20"
+    },
+    "answer": "Y) 12"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at the MIT Mathematics Department have been focusing on the problem of determining which numbers can be represented as the sum of three cubes, yielding the recent discovery of an expression of 42 as the sum of three cubes, one of which is negative. Which of the following numbers cannot be written as the sum of three cubes?",
+    "choices": {
+      "W": "5",
+      "X": "7",
+      "Y": "9",
+      "Z": "11"
+    },
+    "answer": "W) 5"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Using hard-soft acid base theory, describe both the alpha-carbon and oxygen in an enolate.",
+    "choices": {
+      "W": "Carbon is a hard base, while oxygen is a hard base",
+      "X": "Carbon is a hard base, while oxygen is a soft base",
+      "Y": "Carbon is a soft base, while oxygen is a hard base",
+      "Z": "Carbon is a soft base, while oxygen is a soft base"
+    },
+    "answer": "Y) Carbon is a soft base, while oxygen is a hard base"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, arrange the following three species in order of increasing CH coupling in Carbon-13-NMR. 1) Acetylene 2) Ethylene 3) Ethane",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following estuary types is characterized by low river flow and net seaward movement of water at all depths?",
+    "choices": {
+      "W": "Salt wedge",
+      "X": "Partially mixed",
+      "Y": "Well-mixed",
+      "Z": "Fjord-type"
+    },
+    "answer": "Y) Well-mixed"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate all of the following three statements that are true of white dwarfs: 1) Heat is carried by electron conduction near the center of a white dwarf 2) The interior of a white dwarf is close to isothermal 3) The electrons in a white dwarf with mass near the Chandrasekhar limit are relativistic",
+    "answer": "1, 2, 3 (accept: all)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A point $P$ is chosen uniformly at random on a circle of radius 1. A point $Q$ is then chosen uniformly at random from the interior of the circle. Which of the following is closest to the probability that the distance $PQ$ is at most 1?",
+    "choices": {
+      "W": "$20\\$",
+      "X": "$40\\$",
+      "Y": "$60\\$",
+      "Z": "$80\\$"
+    },
+    "answer": "X) $40\\$"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many primitive 20th roots of unity are there?",
+    "answer": "8"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A rocket travels at speed $0.8c$. What is the ratio of its kinetic energy to its rest energy?",
+    "answer": "$2 / 3$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Andrew is trying to ice skate through a circular loop-de-loop with radius 2 meters. If there is no frictional energy loss in this loop, what is the minimum speed, in meters per second to the nearest integer, that Andrew needs at the beginning of the loop to clear it?",
+    "answer": "10 meters per second"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the degeneracy of the 4th energy level of the rigid rotator model?",
+    "answer": "7"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements which are true regarding photoredox catalysis: 1) Conformationally rigid complexes function as faster photoredox catalysts 2) Rose-Bengal is a commonly used, polyhalogenated organic photoredox catalyst 3) Amines are commonly used co-oxidizing agents, returning the photoredox catalyst to its original oxidation state",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of fungi does NOT have coenocytic (SEE-no-sit-ic) hyphae (HI-fae)?",
+    "choices": {
+      "W": "Chytrids",
+      "X": "Bread molds",
+      "Y": "Mycorrhizhae",
+      "Z": "Club fungi"
+    },
+    "answer": "Z) Club fungi"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of filaments is the cross-linking protein plectin NOT able to bundle to intermediate filaments?",
+    "choices": {
+      "W": "Microtubules",
+      "X": "Actin",
+      "Y": "Tropomyosin",
+      "Z": "Myosin II"
+    },
+    "answer": "Y) Tropomyosin"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following four components of a standard ophiolite complex from top to bottom. 1) Pillow lava 2) Sheeted dikes 3) Layered gabbro 4) Peridotite deposits",
+    "answer": "4, 3, 2, 1"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gives the best definition for stellar opacity for a certain material?",
+    "choices": {
+      "W": "The fraction of photons passing through which are absorbed or scattered",
+      "X": "The change in visual apparent magnitude as a result of light passing through",
+      "Y": "The cross-sectional area of absorption and scattering of light passing through, per unit mass",
+      "Z": "The inverse of the mean free path of light passing through"
+    },
+    "answer": "Y) The cross-sectional area of light absorption and scattering of light passing through, per unit mass"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers in the Swager group at MIT have been using Janus emulsions for the detection of Listeria pathogens. These Janus emulsions are composed of two optically distinct phases within one droplet, and one phase is conjugated to an antibody. Which of the following best describes how the optics of the system evolve when Listeria is added?",
+    "choices": {
+      "W": "Originally, both phases are visible, but only one is visible after Listeria addition",
+      "X": "Originally, only one phase is visible, but both are visible after Listeria addition",
+      "Y": "Originally, both phases are visible, but the orientation of these phases flips after Listeria addition",
+      "Z": "Originally, only one phase is visible, but only the other phase is visible after Listeria addition"
+    },
+    "answer": "X) Originally, only one phase is visible, but both are visible after Listeria addition"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Bawendi group at MIT are focusing on quantum dots as next generation fluorescent dyes. Answer the following questions about quantum dots: 1) The energy levels of a quantum dot are proportional to what power of the radius? 2) Quantum dots can be generated by many techniques, including one technique where the pattern is imprinted on a thin surface using light, and then etched. What is this technique known as?",
+    "answer": "1) - 2; 2) Photolithography"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What effect in extended solids analogous to Jahn- Teller distortion states that partially filled bands tend to distort to form one filled band and one empty band?",
+    "answer": "Peierls distortion"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true about hyperconjugation in the tertbutyl radical: 1) An increase in carbon-carbon bond order is observed 2) The unpaired electron is slightly delocalized across the other three carbon atoms 3) The unpaired electron is stabilized by hyperconjugation",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about the hydrogen atom is true, ignoring fine structure?",
+    "choices": {
+      "W": "$L$ squared and $H$ constitute a complete set of commuting observables",
+      "X": "Only a finite number of bound states exist",
+      "Y": "Muonic hydrogen has the same energy levels as ordinary hydrogen",
+      "Z": "The ground state radial wavefunction is an exponential"
+    },
+    "answer": "Z) The ground state radial wavefunction is an exponential"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four properties of a free particle that can be simultaneously measured with position to an arbitrary degree of accuracy: 1) Linear momentum 2) Spin angular momentum 3) Total energy 4) $z$-component of angular momentum",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The Banach-Tarski (buh-NAAK TAR-ski) Paradox is a theorem stating that a sphere can be divided into finitely many pieces that can be rearranged to form two spheres of the same size. What somewhat controversial postulate commonly used in set theory is required to prove this theorem?",
+    "answer": "Axiom of Choice (accept: Choice, Well- Ordering Principle)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify which of the following three posterior inference methods yield unbiased samples in all cases. 1) Variational inference 2) Gibbs sampling 3) Hamiltonian Monte Carlo",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Capsaicin (cap-SAY-sin), found in chili peppers, can lead to pain by causing the release of what peptide?",
+    "answer": "Substance P"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following statements related to linking numbers that are true. 1) The specific linking difference is calculated with respect to the specific length of the DNA molecule being analyzed 2) Linking number is calculated as the difference between its writhe and twist components 3) The superhelical density in cellular DNA is typically around $-0.06$ 4) The writhe component of linking number may be interpreted as the measure of the coiling of the DNA helix axis",
+    "answer": "3 and 4"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Sunyaev-Zel'dovich (soon-YAW-ev zel-DO-vich) effect, which is used by cosmologists to study the cosmic microwave background in galaxy clusters, is a result of which of the following physical phenomena?",
+    "choices": {
+      "W": "Relativistic Doppler effect",
+      "X": "Bremsstrahlung",
+      "Y": "Cold dark matter",
+      "Z": "Inverse Compton scattering"
+    },
+    "answer": "Z) Inverse Compton scattering"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements that are true about the solar atmosphere: 1) Granules are caused by convection within the photosphere 2) The optical depth of the photosphere is much less than one 3) The pink color of the chromosphere is produced by Balmer emission lines",
+    "answer": "1 and 3"
+  }
+]

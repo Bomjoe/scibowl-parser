@@ -1,0 +1,454 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Spherical sound waves are emitted uniformly in all directions from a point source, such that the sound level a distance 1 meter away from the source is 100 decibels. In decibels, which of the following is closest to the sound level 2 meters away from the source?",
+    "choices": {
+      "W": "90",
+      "X": "92",
+      "Y": "94",
+      "Z": "96"
+    },
+    "answer": "Y) 94"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 12-volt battery with internal resistance of 2 ohms is connected to a variable resistor with resistance $x$. For what value of $x$ will the variable resistor dissipate the maximum amount of power?",
+    "answer": "2 OHMS"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 molecules that are considered neuropeptides: 1) Norepinephrine; 2) Substance P; 3) GABA.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following three layers of a eudicot root from outermost to innermost: 1) Epidermis; 2) Pericycle; 3) Cortex.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the average value of the derivative of the function $f(x) = \\text{cube}$ root of $x$ with respect to $x$ from $x = 8$ to $x = 216$?",
+    "answer": "1/52"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of the region enclosed by the curve $r = 3 + 2\\os (\\text{theta})$?",
+    "answer": "11 PI"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following 4 planets by increasing magnetic field strength: 1) Earth; 2) Mars; 3) Jupiter; 4) Saturn.",
+    "answer": "2, 1, 4, 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of fog forms when warm, moist air flows over a cold surface?",
+    "answer": "ADJECTION FOG"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 species in order of increasing standard reduction potential: 1) Li⁺; 2) Mg²⁺; 3) Fe²⁺.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How many net pi bonds are formed in the electroclyclization of 1, 3, 5 hexatriene?",
+    "choices": {
+      "W": "- 2",
+      "X": "- 1",
+      "Y": "0",
+      "Z": "1"
+    },
+    "answer": "X) -1"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Pacific Northwest National Lab are interested in increasing the purity of crystalline samples. In particular, they are interested in reducing the likelihood of an atom vacating its place in the lattice in order to occupy a normally empty spot. Which of the following types of defects are they most interested in mitigating?",
+    "choices": {
+      "W": "Schottky defect",
+      "X": "Frenkel defect",
+      "Y": "Disclination",
+      "Z": "Stacking fault"
+    },
+    "answer": "X) FRENKEL DEFECT"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Oak Ridge National Lab are using spallation to study the scattering of certain types of particles. Identify all of the following 3 particles they are likely studying: 1) photon; 2) neutron; 3) proton.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What kind of orbital maneuver allows a rocket to move between two circular orbits by placing it in an intermediary elliptical orbit tangent to both?",
+    "answer": "HOHMANN TRANSFER ORBIT"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A barbell consists of a massless rod with length 1 meter, and two uniform disks of radii 0.5 meters and masses of 16 kilograms each, attached at either end of the rod. In kilogram meters squared, what is the value of the moment of inertia of the barbell about an axis perpendicular to the rod, passing through the center of the barbell?",
+    "answer": "10"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true regarding fibronectin?",
+    "choices": {
+      "W": "Fibronectin is a trimeric protein.",
+      "X": "Cells are attached to the extracellular matrix using fibronectin.",
+      "Y": "Fibronectin is produced from a single gene.",
+      "Z": "Fibronectin is secreted by fibroblasts."
+    },
+    "answer": "W) FIBRONECTIN IS A TRIMERIC PROTEIN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 antibodies commonly used in the human bodies passive immunity: 1) IgA; 2) IgE; 3) IgG",
+    "answer": "1, 3"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true about cyclic quadrilaterals: 1) They must be convex; 2) They must have two equal internal angles; 3) They must have two equal sides.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Ken has two yellow nuts and two brown nuts. Every second, he can either eat one yellow nut, one brown nut, or one of each. How many ways can he eat all of his nuts?",
+    "answer": "13"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a measurement of the moment-magnitude scale?",
+    "choices": {
+      "W": "S-wave amplitude",
+      "X": "Strength of faulted-rock",
+      "Y": "Area of slipped fault surface",
+      "Z": "Hanging-wall slip"
+    },
+    "answer": "W) S-WAVE AMPLITUDE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "After a low solar mass star leaves the main sequence, it becomes part of what branch on the HR diagram before it undergoes a helium flash?",
+    "answer": "RED GIANT BRANCH"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following chemical bonds has the greatest electronegativity difference?",
+    "choices": {
+      "W": "Carbon - Oxygen",
+      "X": "Carbon - Sulfur",
+      "Y": "Carbon - Selenium",
+      "Z": "Carbon - Tellurium"
+    },
+    "answer": "W) CARBON - OXYGEN"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 acids in order of increasing pKa: 1) Hydrogen cyanide; 2) Hypochlorous acid; 3) Propanoic acid.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne National Lab are studying the properties of unsaturated hydrocarbons. Rank the following 3 hydrocarbons from least to greatest degree of unsaturation: 1) C6H12; 2) C8H18; 3) C16H28.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Pacific Northwest National Lab are studying the thermal emission of photons from the Earth’s surface. What effect distorts the orbit of planets as a result of the anisotropic distribution of photon emissions from their surfaces?",
+    "answer": "YARKOVSKY EFFECT"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true, if air resistance is negligible: 1) An object that launches at the escape velocity from the surface of Earth can only escape if they travel perpendicular to the surface; 2) Projectiles launched from the surface of the Earth at a low speed follow a partial elliptical path; 3) Orbits around the Earth are always centered around the Earth’s core.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "When an external magnetic field is removed from a paramagnetic material, it cools due to thermal motion. Which of the following terms best describes this cooling?",
+    "choices": {
+      "W": "Isobaric",
+      "X": "Isochoric",
+      "Y": "Isentropic",
+      "Z": "Isenthalpic"
+    },
+    "answer": "Y) ISENTROPIC"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When parts of a genome are duplicated or moved around, what genetic process allows for the creation of new genes and proteins?",
+    "answer": "EXON SHUFFLING"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 diseases that are caused by you: 1) Rheumatoid arthritis; 2) Celiac Disease; 3) Lyme Disease",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the angle in degrees between the minute and hour hands of a clock when it reads 5:30?",
+    "answer": "15"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "$f(x)$ is a polynomial of degree 2022 such that it only has 2 nonzero coefficients. What is the maximum possible number of real roots that $f(x)$ can have?",
+    "answer": "3"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 properties of the universe that are implied by the cosmological principle: 1) Anisotropy; 2) Homogeneity; 3) Flatness.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a component of desert varnish?",
+    "choices": {
+      "W": "Calcrete",
+      "X": "Iron oxides",
+      "Y": "Clay minerals",
+      "Z": "Manganese oxides"
+    },
+    "answer": "W) CALCRETE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three isotopes by increasing binding energy per nucleon: 1) Hydrogen-1; 2) Iron-56; 3) Nickel-62.",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases has the greatest compression factor at STP?",
+    "choices": {
+      "W": "Hydrogen",
+      "X": "Methane",
+      "Y": "Ethane",
+      "Z": "Ammonia"
+    },
+    "answer": "W) HYDROGEN"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab are investigating how predators and prey affect each other. What set of differential equations describes how the two populations fluctuate over time?",
+    "answer": "LOTKA-VOLTERRA"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Lawrence Berkeley National Lab are studying the optimization of memory usage in computer programs. Which of the following processes would lead to stack overflow?",
+    "choices": {
+      "W": "Null pointer",
+      "X": "Index out of bounds",
+      "Y": "Memory leak",
+      "Z": "Infinite recursion"
+    },
+    "answer": "Z) INFINITE RECURSION"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The kinetic energy of a particle with constant momentum is proportional to what power of its mass?",
+    "choices": {
+      "W": "- 1",
+      "X": "0",
+      "Y": "1",
+      "Z": "2"
+    },
+    "answer": "W) -1"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "To one significant figure, what is the charge density in coulombs per meter cubed at the point (1,1,1), if the electric field is described by $\\athrm{E}(\\athrm{x}, \\athrm{y}, \\athrm{z}) = < \\athrm{x}, \\athrm{y}, \\athrm{z}>$?",
+    "answer": "$3\\times10^{-11}$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules would NOT bind to G protein-coupled receptors?",
+    "choices": {
+      "W": "Morphine",
+      "X": "Insulin",
+      "Y": "GABA",
+      "Z": "Caffeine"
+    },
+    "answer": "X) INSULIN"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 hormones are released from the posterior pituitary gland: 1) ADH; 2) ACTH; 3) LSH",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What are the cylindrical coordinates of the point whose spherical coordinates are (1, -1, pi/6)?",
+    "answer": "($\\rac{1}{2}$, -1, $\\rac{\\qrt{3}}{2}$)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Congratulations! You successfully dealt with David’s bullshit. For 10 points, what is $17 + 44$?",
+    "answer": "61"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not an ore of copper?",
+    "choices": {
+      "W": "Bornite",
+      "X": "Malachite",
+      "Y": "Pyrrolusite",
+      "Z": "Chalcopyrite"
+    },
+    "answer": "Y) PYRROLUSITE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three objects that are indicative of star formation. 1) T-associations; 2) Bok globules; 3) OB-associations",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the coordination number of cesium in the standard state form of cesium chloride?",
+    "answer": "8"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "When cyclohexanone is treated with bromine under acidic conditions, which of the following products is most likely to be formed?",
+    "choices": {
+      "W": "2- Bromocyclohexanone",
+      "X": "3- Bromocyclohexanone",
+      "Y": "4- Bromocyclohexanone",
+      "Z": "Phenol"
+    },
+    "answer": "W) 2-BROMOCYCLOHEXANONE"
+  }
+]

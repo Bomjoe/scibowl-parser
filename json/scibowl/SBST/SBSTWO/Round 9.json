@@ -1,0 +1,436 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "To the nearest radian, what is arccosine of negative one third?",
+    "answer": "2"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Regular hexagon ABCDEF is plotted on the Cartesian plane. Given that point A has coordinates (4, 9) and point D has coordinates (-2, -11), what is the area of hexagon ABCDEF?",
+    "answer": "$\\rac{327\\qrt{3}}{2}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three stars in terms of increasing proper motion in the sky: 1) Polaris; 2) Betelgeuse; 3) Alpha Centauri.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three glacial features that are erosional: 1) Eskers; 2) Arêtes; 3) Fiords.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A SQUID is a device used to measure which of the following quantities?",
+    "choices": {
+      "W": "Electric field",
+      "X": "Magnetic field",
+      "Y": "Dielectric constant",
+      "Z": "Speed of sound"
+    },
+    "answer": "X) MAGNETIC FIELD"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A train has three railway cars, each with a mass of 1000 kilograms. If the engine at the front of the railway cars pulls with a force of 9000 newtons, what is the force of tension between the second and third railway car?",
+    "answer": "3000"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following temperature and reagent choices best favor elimination over substitution when using 2-chloropropane as a substrate?",
+    "choices": {
+      "W": "Low temperature, weak base",
+      "X": "Low temperature, strong base",
+      "Y": "High temperature, weak base",
+      "Z": "High temperature, strong base"
+    },
+    "answer": "Z) HIGH TEMPERATURE, STRONG BASE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding the thermodynamics of ideal gases: 1) Constant-pressure heat capacity is always greater than constant-volume heat capacity; 2) Molar enthalpy change only depends on temperature; 3) Molecules always have higher heat capacity than atoms under the same conditions.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab are working on new window technologies that are better insulating to cut down on wasted heat. These windows have lower values of what ratio that quantifies how well they radiate thermal energy?",
+    "answer": "EMISSIVITY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Argonne national lab are studying the thermally induced structural evolution of certain aluminosilicates with a planar morphology. Which of the following minerals could they be studying?",
+    "choices": {
+      "W": "Talc",
+      "X": "Kaolinite",
+      "Y": "Antigorite",
+      "Z": "Hornblende"
+    },
+    "answer": "X) KAOLINITE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following animals would excrete uric acid as its primary form of nitrogenous waste?",
+    "choices": {
+      "W": "Salmon",
+      "X": "Snail",
+      "Y": "Shark",
+      "Z": "Squirrel"
+    },
+    "answer": "X) SNAIL"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the cyclization of ATP to cyclic AMP, what other energetic product is released?",
+    "answer": "PYROPHOSPHATE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What functional group is the major product formed in the reaction between acetyl chloride and ammonia at low temperature?",
+    "answer": "AMIDE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "How many pi bonds are found in the product of the electrocyclization of 1,3,5-hexatriene?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "Y) 2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of fog forms when cool air moves over warm water, leading to the air becoming saturated?",
+    "choices": {
+      "W": "Advection fog",
+      "X": "Radiation fog",
+      "Y": "Frontal fog",
+      "Z": "Steam fog"
+    },
+    "answer": "Z) STEAM FOG"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of calcite: 1) Calcite has an orthorhombic crystal structure; 2) Calcite is less stable than aragonite in water; 3) It has a hardness less than that of dolomite.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that, when doubled, would increase the energy of a particle in a box. 1) Length of the box; 2) Mass of the particle; 3) Principal quantum number.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A straight infinite wire carrying a current of I amperes is placed pointing in the $z$-direction, and a particle is placed at the point (5, 12) in the $xy$-plane. The magnitude of the magnetic field at the point is equal to 10 teslas. If the particle is moved in the positive $x$-direction by 11 meters, what is the magnetic field in teslas at the new location?",
+    "answer": "6.5 (ACCEPT: $\\rac{13}{2}$)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the largest prime factor of 294?",
+    "answer": "7"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the volume of the tetrahedron formed by the $xy$-plane, $xz$-plane, $yz$-plane, and the plane $3x + 6y + 8z = 48$?",
+    "answer": "128"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the human body, glands are usually classified as either exocrine or endocrine. What major gland exhibits both endocrine and exocrine activities?",
+    "answer": "PANCREAS (ACCEPT: COBALAMIN"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In a mature mRNA transcript, the 5' cap is a modified form of what nucleotide?",
+    "answer": "GUANINE (DO NOT ACCEPT: GUANOSINE)"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab are studying delocalization and dispersion in actinides. In particular, they are studying what common actinide which experiences heavy delocalization in its 5f orbitals?",
+    "answer": "URANIUM"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Argonne national lab are studying the double electron capture of proton-rich nuclei as a way to eventually observe the neutrinoless form of the process. Which of the following nuclides is most likely to undergo double electron capture?",
+    "choices": {
+      "W": "Fluorine-19",
+      "X": "Nickel-62",
+      "Y": "Xenon-124",
+      "Z": "Uranium-238"
+    },
+    "answer": "Y) XENON-124"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The greenschist metamorphic facies is most likely to be found in which of the following environments?",
+    "choices": {
+      "W": "A metamorphic aureole",
+      "X": "An accretionary wedge",
+      "Y": "A collisional mountain belt",
+      "Z": "A craton"
+    },
+    "answer": "Z) A CRATON"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of drainage patterns is most likely to form on terrain that has undergone folding and is composed of different rock types?",
+    "choices": {
+      "W": "Dendritic",
+      "X": "Trellis",
+      "Y": "Rectangular",
+      "Z": "Radial"
+    },
+    "answer": "X) TRELLIS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Nuclei must overcome an energy barrier in order to fuse, due to electrostatic interactions. What is the name of this barrier?",
+    "answer": "COULOMB BARRIER"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An electric dipole consists of two equal and opposite charges separated by a distance $d$. An electric field makes an angle of 30 degrees with respect to the line connecting the charges. If the magnitude of the electric field is doubled, and the charges are placed a distance $2d$ from each other, by what factor does the torque on the dipole multiply?",
+    "answer": "4"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three bonds in terms of increasing IR stretching frequency: 1) C—H single bond; 2) C—C triple bond; 3) O—H single bond.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Thionyl chloride is used to convert primary alcohols into what specific functional group?",
+    "answer": "ALKYL CHLORIDE (ACCEPT: CHLOROALKANE)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Nematocysts are possessed by members of what phylum?",
+    "answer": "CNIDARIA"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Through what process do fungi move their nutrients to the end of their hyphae?",
+    "answer": "CYTOPLASMIC STREAMING"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A rectangle is inscribed inside a circle with an area of $25\\i$. Given that the rectangle's length is double the length of its width, what is the area of the rectangle?",
+    "answer": "40"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many Pythagorean triples, with numbers all less than or equal to 30, contain at least 1 prime number?",
+    "answer": "5"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Argonne National Lab scientists are studying the residual stress evolution of silicon carbide ceramics upon heat treatment. Silicon carbide adopts what 8-atom crystal structure?",
+    "answer": "DIAMOND CUBIC"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Lab have discovered bright X-ray flares reflected from behind a black hole. The light that has been reflected likely passed through what region of the black hole where it is possible to extract energy?",
+    "answer": "ERGOSPHERE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three molecules that have the same central carbon oxidation state as methanol: 1) Formic acid; 2) Formaldehyde; 3) Propene.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A scientist seeks to convert cis-butene to trans-butene using a photochemical process. Which of the following electronic transitions are they most likely to observe as a first step?",
+    "choices": {
+      "W": "Sigma to sigma star",
+      "X": "Sigma to pi star",
+      "Y": "Pi to pi star",
+      "Z": "Pi to sigma star"
+    },
+    "answer": "Y) PI TO PI STAR"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding catecholamines: 1) Their receptors are only metabotropic; 2) They are broken down by monoamine oxidase; 3) Atropine is an agonist of the alpha adrenergic receptor.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three classes of organisms that display meroblastic cleavage: 1) Aves; 2) Insecta; 3) Annelida.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name of the circular-shaped bulges on Venus caused by upwellings of magma below the surface?",
+    "answer": "CORONAE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following three sedimentary rocks in order of increasing grain size. 1) Breccia; 2) Sandstone; 3) Mudstone",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the minimum number of cards that must be drawn out of a 52-card deck such that you are guaranteed at least 3 of the same face card?",
+    "answer": "47"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The regular octagon ABCDEFGH has sides of length 2. To the nearest integer, what is the area of the square ACEG?",
+    "answer": "14"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following particles has a baryon number of 1?",
+    "choices": {
+      "W": "Tauon",
+      "X": "Kaon",
+      "Y": "Lambda",
+      "Z": "Muon"
+    },
+    "answer": "Y) LAMBDA"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three nuclides that readily undergo electron capture. 1) Potassium-40; 2) Aluminum-26; 3) Thorium-234.",
+    "answer": "1 AND 2"
+  }
+]

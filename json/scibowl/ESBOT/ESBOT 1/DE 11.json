@@ -1,0 +1,461 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 5 kg mass is hanging from two springs connected in parallel. The first spring has a spring constant of 20 Newtons per meter and a mass of 6 kilograms, while the second spring has a spring constant of 60 Newtons per meter and a mass of 3 kilograms. To the nearest tenth, what is the angular frequency of the mass's oscillations?",
+    "answer": "3.2"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An ideal gas begins at a pressure of 20 Pascals and a volume of 4 $\\athrm{m}^3$. If the gas undergoes isothermal expansion to a volume of $11 \\athrm{m}^3$, then to one significant figure, what is the change in entropy in Joules per Kelvin during expansion if the gas ends at a temperature of 300 Kelvin?",
+    "answer": "0.3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Solvents that limit the maximum acid strength of a certain acid are called leveling solvents. Conversely, what is the term given to solvents that do not limit a certain acid's acidity?",
+    "choices": {
+      "W": "Leveling solvents",
+      "X": "Differentiating solvents",
+      "Y": "Neutral solvents",
+      "Z": "Amphoteric solvents"
+    },
+    "answer": "Differentiating solvents"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Order the following 4 solvents in order of increasing acidity of $\\athrm{HNO}_2$ in them: 1) Water 2) HCl 3) Benzene 4) NaOH",
+    "choices": {
+      "W": "2, 3, 1, 4",
+      "X": "3, 2, 1, 4",
+      "Y": "4, 1, 3, 2",
+      "Z": "1, 4, 2, 3"
+    },
+    "answer": "2, 3, 1, 4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let x be a real number such that 5x plus the floor of x equals 14. What is x?",
+    "answer": "2.4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum from k=1 to 99 of the floor of the square root of k?",
+    "answer": "615"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What cell type makes up the inner layer of the glomerulus in kidneys?",
+    "answer": "Podocytes"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 structures that are diploid: I) Microspores II) Megasporangium III) Zygote IV) Endosperm",
+    "answer": "II, III"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Sandia National Labs are studying ways that the human immune system fights off microbial infections. One of these ways involves the production of a powerful oxidant from water and singlet oxygen molecules. What is the name of this compound?",
+    "answer": "Trioxidane"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists in Fauci's attic, funded by the DOE, have made anthrax that is resistant to penicillin. They figure out that the anthrax is breaking down the penicillin, and have isolated the enzyme doing so. Which of the following enzymes have they most likely identified?",
+    "choices": {
+      "W": "Beta Lactamase",
+      "X": "Delta Trilactone",
+      "Y": "Penicillin Breaking Proteins",
+      "Z": "Alpha Galactase"
+    },
+    "answer": "W) Beta Lactamase"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of the lemniscate with equation $\\athrm{r}^2 = \\in (20)$?",
+    "answer": "1"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the limit as x approaches 0 of $\\sc (x) - 1 / x$ [READ: cosecant of open parenthesis x close parenthesis minus 1 over open parenthesis x close parenthesis].",
+    "answer": "0"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many geometric isomers does [FeCl$_2$(NH$_3$)$_4$] have?",
+    "answer": "2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Electron transitions between which two molecular orbitals are responsible for octachlorodirhenate's distinctive color?",
+    "answer": "Delta to delta star"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following phases of corundum would you be most likely to find in the D\ [D prime prime] layer of the mantle?",
+    "choices": {
+      "W": "Alpha-Cor",
+      "X": "$\\athrm{Rh}_2\\athrm{O}_3$",
+      "Y": "Perovskite",
+      "Z": "Post-Perovskite"
+    },
+    "answer": "Z) Post-Perovskite"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 quantities that could increase with increasing vertical wind shear: I) Hurricane longevity II) Friction with the ground III) Height of planetary boundary layer",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A spherical bubble is made of soapy water with a surface tension of 0.5 Newtons per meter. The radius of the bubble is $5 \\athrm{cm}$. What is the pressure difference between the inside and outside of the bubble, in Pascals?",
+    "answer": "20 pascals"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Consider an infinite square potential well with a width W. Considering the left edge of the well to be $\\athbf{x} = 0$, where are the most likely locations for a particle at the $\\athrm{n} = 2$ energy level to be found?",
+    "choices": {
+      "W": "x = 0 and x = W",
+      "X": "x = W / 2 and x = W$\\qrt{2}$/2",
+      "Y": "x = W / 4 and x = 3W / 4",
+      "Z": "x = W / 3 and x = 2W / 3"
+    },
+    "answer": "Y) x = W / 4 and x = 3W / 4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Let ABC be a triangle with D on AC and E on BC such that AD/DC=5/3 and BE/EC=5/2. Let BD and AE meet at F. What is BF/FD?",
+    "answer": "4"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "An inversion is defined as a geometric map about a center of inversion O and with radius R such that the image P* lying on the ray OP of the point P satisfies OP x OP* = R². The center of inversion will map to a point at infinity. Identify all of the following 3 properties of an inversion with center O and radius R that are true: I) An inversion about a point twice is equivalent to a rotation of 180 degrees about O II) Any line passing through O is mapped to itself. III) Any circle o [omega] passing through O is mapped to the line that passes through the two intersections of the circle with radius R and center O with o",
+    "answer": "II and III"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 rock types that are commonly used to make paleoclimate observations: I) Petrified Wood II) Ice III) Travertine",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true of the East Pacific rise: I) It rifts faster on its Eastern side II) It rifts faster than subduction occurs at the boundaries of the ring of fire, expanding the Pacific ocean basin III) Rifting of the pacific plate can entirely account for the positions of the Hawaii-emperor seamount chain",
+    "answer": "I only"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Andrew is riding in a bullet train with velocity 0.5c. If Andrew throws a ball towards the back of the train at a speed of 0.25c, what speed would the ball be traveling at with respect to a ground observer?",
+    "answer": "2c/7"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a capacitor with a capacitance of 4 Farads. The capacitor is charged by a 9 Volt voltage source and then disconnected. Another capacitor with a capacitance of 2 Farads is connected in parallel with the 4 Farad capacitor, allowed to charge, and removed. A 1 Farad capacitor is then connected and disconnected from the 4 Farad capacitor, and the process continues. In Coulombs, what is the charge remaining on the 4 Farad capacitor after the 0.5 Farad capacitor has been disconnected?",
+    "answer": "256/15"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Fermilab are studying high energy collisions between subatomic particles. What mathematical function, which is the derivative of the Heaviside Step Function, can be used to model the force on a subatomic particle in an elastic collision as a function of time?",
+    "answer": "Dirac Delta Function"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at NASA are using reflecting telescopes to study the formation of stars in the Orion Nebula. Both Gregorian and Cassegrain telescope designs are used to focus incoming radio waves. Which of the following best describes the difference between Gregorian and Cassegrain telescopes?",
+    "choices": {
+      "W": "Gregorian telescopes are reflecting and Cassegrain are not",
+      "X": "Gregorian telescopes use two lenses while Cassegrain use three",
+      "Y": "Gregorian telescopes use a concave secondary mirror while Cassegrain use a convex secondary mirror",
+      "Z": "Gregorian telescopes reflect incoming light at a high angle of incidence while Cassegrain reflect at a low angle of incidence"
+    },
+    "answer": "Y) Gregorian telescopes use a concave secondary mirror while Cassegrain use a convex secondary mirror"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the age of the surface of Venus?",
+    "choices": {
+      "W": "4.5 million years",
+      "X": "45 million years",
+      "Y": "450 million years",
+      "Z": "4.5 billion years"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following satellites of Saturn is believed to be a captured Kuiper Belt Object?",
+    "choices": {
+      "W": "Phoebe",
+      "X": "Titan",
+      "Y": "Mimas",
+      "Z": "Hyperion"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Thanush, a person who is usually healthy, starts to complain of indigestion. He goes to the doctor who checks his stool for digestive enzymes. The doctor detected lower amounts of elastase and chymotrypsin but normal levels of pepsinogen. Which of the following anatomical structures, when not working properly, would cause the symptoms listed above?",
+    "choices": {
+      "W": "Pyloric Sphincter",
+      "X": "Sphincter of Oddi",
+      "Y": "Bile Duct",
+      "Z": "Rugal Folds"
+    },
+    "answer": "X) Sphincter of Oddi"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 vesicle pathways that do not use COPI [C O P one] I) Going from one golgi cisterna to another. II) Going from the plasma membrane to the Golgi III) Going from the ER to the Golgi IV) Going from the plasma membrane to an endosome",
+    "answer": "II, III, IV"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "6 pi electroclyclic thermal ring closing is best described as which of the following?",
+    "choices": {
+      "W": "Conrotary",
+      "X": "Destructive",
+      "Y": "Disrotary",
+      "Z": "Inverting"
+    },
+    "answer": "Y) Disrotary"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about point groups is false?",
+    "choices": {
+      "W": "Compounds in the $\\athrm{C}_{\\athrm{s}}$ point group have no planes of symmetry.",
+      "X": "Compounds in the $\\athrm{C}_{\\athrm{i}}$ point group have a center of inversion.",
+      "Y": "Compounds in the $\\athrm{C}_{1}$ point group only have an identity axis.",
+      "Z": "Compounds in the $\\athrm{D}_{\\athrm{N}}$ point group are always chiral."
+    },
+    "answer": "W) Compounds in the $\\athrm{C}_{\\athrm{s}}$ point group have no planes of symmetry."
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following moon-planet systems are not tidally locked?",
+    "choices": {
+      "W": "Phobos and Mars",
+      "X": "Hippocamp and Neptune",
+      "Y": "Io and Jupiter",
+      "Z": "Titan and Saturn"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Carbon Rich Mira Variable stars tend to have larger amounts of carbon at their surfaces than is expected for similar stars in the asymptotic giant branch. What is the name for the process that allows them to maintain a high surface carbon content?",
+    "answer": "Dredge up"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The Legendre [READ: le-zhan-der (zh like S in meaSure)] transform is used to transform Lagrangian systems into Hamiltonian ones. The Legendre transform turns equations of any quantity $q$ and $q$ dot into equations of $q$ and $X$, with $X$ representing what quantity?",
+    "answer": "Conjugate quantity of $q$ (ACCEPT: conjugate of $q$, generalized momentum)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Consider a system of 3 einstein solids each in turn containing 3 oscillators, sharing a total of 3 units of energy. Assuming the solids are in thermal contact, and the total energy is fixed to 3 units, how many possible macrostates are available to the system?",
+    "answer": "10"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What reagent can be used to convert a carboxylic acid into an acid chloride, resulting in a triprotic acid as a byproduct?",
+    "answer": "$\\athrm{PCl}_3$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 molecules have a measurable dipole moment in their lowest energy states: I) 1,2-Dichloroethane II) trans-1,3-Dichlorocyclobutane III) trans-1,4-Dichlorocyclohexane IV) 1,3-Dichlorocyclopentane",
+    "answer": "2 and 4"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the structure in the lateral line organ of fish that detects vibration and changes in pressure?",
+    "answer": "Neuromasts (ACCEPT: Cupula)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 4 enzymes that are incorrectly matched with their substrate I) Aromatase - testosterone II) Phospholipase C - phosphatidylinositol III) Separase - cohesin IV) Catalase - hydrogen peroxide",
+    "answer": "None"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Princeton Plasma Physics Lab are studying the behavior of materials at very low temperatures. Which physical law, which does not hold at very low temperatures, relates the predicted molar heat capacity of elements in their standard state with the ideal gas constant?",
+    "answer": "Dulong-Petit Law (ACCEPT: Kopp's Law)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Johns Hopkins University have measured the vacuum energy of free space to be on the order of $10^{-9}$ joules per cubic meter. Approximately how many orders of magnitude smaller is this finding compared to the theoretical result derived from quantum electrodynamics?",
+    "choices": {
+      "W": "10",
+      "X": "30",
+      "Y": "80",
+      "Z": "120"
+    },
+    "answer": "Z) 120"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant nutrient deficiencies is incorrectly matched with its symptoms?",
+    "choices": {
+      "W": "Iron - Interveinal chlorosis of young leaves along with shorter stems.",
+      "X": "Boron - Failure of root tips to elongate, young leaves become light green at the base.",
+      "Y": "Copper - Young leaves are light green and twisted, with many necrotic spots.",
+      "Z": "Potassium - Mottled or chlorotic leaves with necrotic spots, more older leaves affected"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Order the following 4 sections of the adult spine in increasing order of how many vertebrae they contain: 1) Sacrum 2) Cervical Spine 3) Thoracic Spine 4) Lumbar Spine",
+    "choices": {
+      "W": "1,4,2,3",
+      "X": "1,2,4,3",
+      "Y": "4,1,2,3",
+      "Z": "2,1,4,3"
+    },
+    "answer": "1,4,2,3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Define the function f:Z+->Z [READ: f from Z positive to Z] as tau(n) mod 2, where tau(n) denotes the number of factors of n. What is the sum from 1 to 1000 of f(n)",
+    "answer": "31"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Bela and Jenn are playing Scibowl against each other, until one of them wins two games in a row. The result of each game is independent from each other, and each player has a $\\rac{1}{2}$ chance of winning. What is the expected number of games that they will play?",
+    "answer": "5"
+  }
+]

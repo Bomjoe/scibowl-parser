@@ -1,0 +1,464 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Monkeypox, smallpox, and cowpox all belong to the family of Poxviridae. Chickenpox, however, is not a true pox virus and is caused by which virus, which also causes shingles later in life?",
+    "answer": "Varicella zoster"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Rank the following three continents in order of increasing estimated percent change in population from the present to 2050, according to the United Nations: 1) Africa; 2) Europe; 3) North America.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find both ordered pairs of positive integers $(a, b)$ with $a < b$ that satisfy $a^2 + b^2 = 65$.",
+    "answer": "(1, 8) and (4, 7)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Each vertex of a regular pentagon is labeled with a distinct integer from 1 to 5, inclusive. If rotations are identical, how many ways are there to label the pentagon as such?",
+    "answer": "24"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three gas-phase atoms by increasing amount of energy released upon addition of an electron: 1) Fluorine; 2) Chlorine; 3) Bromine.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Two degenerate orbitals are each filled with one electron. Identify all of the following three values that can be the total spin of the degenerate orbital system: 1) 0; 2) $+\\rac{1}{2}$; 3) +1.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Southern Oscillation Index, a measure of El Niño and La Niña periods, is based on a difference in what quantity across the Southern Pacific?",
+    "choices": {
+      "W": "Temperature",
+      "X": "Humidity",
+      "Y": "Pressure",
+      "Z": "Dew point"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of mass wasting is characterized by material moving as a unit along a curved surface?",
+    "answer": "Slump"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Cardiac muscle cells are connected by what special junctions composed of desmosomes and gap junctions?",
+    "answer": "Intercalated discs"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three proteins that are used to distinguish between different flu strains: 1) Hemaglutinin; 2) Gp120; 3) Neuraminidase.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is always true regarding the equivalent capacitance of a group of capacitors in series?",
+    "choices": {
+      "W": "The equivalent capacitance is greater than the capacitor with the largest capacitance",
+      "X": "The equivalent capacitance is less than the capacitor with the least capacitance",
+      "Y": "The equivalent capacitance is equal to the capacitor with the largest capacitance",
+      "Z": "The equivalent capacitance is equal to the capacitor with the least capacitance"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In the scope of comparatively small velocities, the Lorentz factor approaches what value that allows relativistic effects to be ignored?",
+    "answer": "1"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Sometimes, a model trained through machine learning models the noise in the training data as part of the model, degrading performance on new data. What is this phenomenon called?",
+    "answer": "Overfitting"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which paradigm in machine learning studies how computer programs can discover meaningful clusters in unlabeled data sets?",
+    "choices": {
+      "W": "Q-learning",
+      "X": "Neural learning",
+      "Y": "Reinforcement learning",
+      "Z": "Unsupervised learning"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A number $n$ is chosen such that the square root of $n$ cannot be simplified. Which of the following values could possibly be $n$?",
+    "choices": {
+      "W": "2023",
+      "X": "2024",
+      "Y": "2025",
+      "Z": "2026"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A right triangle has side lengths of 5, 12, and 13. What is the length of the altitude perpendicular to the hypotenuse?",
+    "answer": "60/13"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quantities of a substance is independent of temperature?",
+    "choices": {
+      "W": "Kinetic energy",
+      "X": "Potential energy",
+      "Y": "Molarity",
+      "Z": "Molality"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the shortest straight-chain alkane that has a structural isomer?",
+    "answer": "Butane"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Which relation may be used to measure the distance to spiral galaxies by correlating their rates of rotation with their luminosity shifts?",
+    "answer": "Tully-Fisher"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following regions of a spiral galaxy are most globular clusters found?",
+    "choices": {
+      "W": "Halo",
+      "X": "Central bulge",
+      "Y": "Nucleus",
+      "Z": "Spiral arms"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Leigh syndrome is a disease that is only passed on from the mother to all of the children. What organelle does Leigh syndrome most likely involve?",
+    "answer": "Mitochondria"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three molecules that are products of fermentation: 1) NADH; 2) Lactic acid; 3) Pyruvate.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A bowling ball with mass 2.5 kilograms is moving with speed 2 meters per second towards a 4 kilogram ball that is stationary. If they collide and the bowling ball is now moving in the opposite direction with speed 1.2 meters per second, what is the speed of the second ball in meters per second?",
+    "answer": "2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The ultraviolet catastrophe was caused by the inaccurate predictions of which of the following laws?",
+    "choices": {
+      "W": "Planck's law",
+      "X": "Stefan-Boltzmann law",
+      "Y": "Rayleigh-Jeans law",
+      "Z": "Wien's displacement law"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "What supermassive volcanic eruption led to a theorized population bottleneck in human evolution around 70,000 years ago?",
+    "choices": {
+      "W": "Mount Pinatubo",
+      "X": "Mount Tambora",
+      "Y": "Mount Toba",
+      "Z": "Krakatoa"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT an example of availability bias?",
+    "choices": {
+      "W": "Fearing flying because of plane crashes in the news",
+      "X": "Believing COVID is more common after you have it",
+      "Y": "Assuming any expert in psychology is also an expert in quantum mechanics",
+      "Z": "Expecting your start-up to succeed because of stories of successful start-ups"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the area of a regular hexagon where the longest diagonal has a length of 4?",
+    "answer": "$6\\qrt{3}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Convert the number 123 from base 6 to base 10.",
+    "answer": "51"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three elements by increasing ionization energy: 1) Carbon; 2) Nitrogen; 3) Oxygen.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that must be negative for a spontaneous electrochemical reaction: 1) Gibbs free energy change 2) Equilibrium constant 3) Cell potential.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What units are the wet, dry, and environmental lapse rates usually given in?",
+    "choices": {
+      "W": "Degrees Celsius per kilometer",
+      "X": "Kilometers per degree Celsius",
+      "Y": "Degrees Celsius per second",
+      "Z": "Seconds per degree Celsius"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of folds in which the oldest rock is found in the center: 1) Anticlines; 2) Domes; 3) Basins.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During contraction of the ventricles, blood can sometimes be pushed back through the valves, producing what sounds?",
+    "answer": "Heart murmurs"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Wolves are extremely territorial and mark their territory to prove it, a form of agonistic behavior. Knowing this, what population dispersion pattern do wolves likely have?",
+    "choices": {
+      "W": "Uniform",
+      "X": "Random",
+      "Y": "Clumped",
+      "Z": "Clustered"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A spaceship of length 50 meters is traveling at 0.8c. To a stationary observer, how long does the spaceship appear, in meters?",
+    "answer": "30"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A positron exceeds the speed of light within glass and emits what characteristic blue radiation as a result?",
+    "answer": "Cherenkov radiation"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "HIV is a member of what family of viruses, which use reverse transcriptase to convert their single-stranded RNA genome to double-stranded DNA?",
+    "answer": "Retroviruses"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following utility functions would be closest to orthogonal to general human utility functions?",
+    "choices": {
+      "W": "Maximizing human happiness",
+      "X": "Minimizing human happiness",
+      "Y": "Maximizing AI computing power",
+      "Z": "Minimizing number of actions taken"
+    },
+    "answer": "Y"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit as $x$ approaches 0 of $\\rac{\\in x}{x}$?",
+    "answer": "1"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate $\\nt_{0}^{1} e^{x} dx$.",
+    "answer": "$e - 1$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three metals by increasing reactivity with a solution of hydrochloric acid: 1) Iron; 2) Copper; 3) Sodium",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following elements has the most exothermic first electron affinity?",
+    "choices": {
+      "W": "Nitrogen",
+      "X": "Phosphorus",
+      "Y": "Oxygen",
+      "Z": "Sulfur"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What features in the asteroid belt are produced by Jupiter's gravitational field effecting asteroid orbits?",
+    "answer": "Kirkwood gaps"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Jets from the poles of active spinning black holes are partially powered by what field that accelerates charged particles out of the galactic plane?",
+    "answer": "Magnetic field"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What phylum does the causative agent of trichinosis belong to?",
+    "answer": "Nematoda"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three relationships for humans that would have a coefficient of relatedness of 1/8: 1) First cousin; 2) Aunt; 3) Half brother.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ball falls from a building for 1 second. What is the ratio of the distances traveled by the ball during the first 0.2 seconds to the last 0.8 seconds?",
+    "answer": "$\\rac{1}{24}$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which non-inertial reference frame force arises due to the rotation of the earth and motion of the object on the earth's surface and deflects the object's trajectory?",
+    "answer": "Coriolis force"
+  }
+]

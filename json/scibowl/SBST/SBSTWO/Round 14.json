@@ -1,0 +1,388 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The power radiated by a nonrelativistic charged particle as it accelerates is proportional to the particle's acceleration to what power?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "3",
+      "Z": "4"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What principle states that the diffraction pattern from an opaque body is identical to that of a hole of the same size and shape?",
+    "answer": "BABIEN'S PRINCIPLE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Bill presents to the emergency room with severe hypothyroidism. The levels of TSH and TRH in his blood are extremely high, but that of T3 and T4 are extremely low. Identify all of the following three diseases that he could possibly have: 1) Hashimoto; 2) Goiter; 3) Graves.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a picture of a fern gametophyte that has been separated from its parent sporophyte. Answer the following three questions concerning the gametophyte: 1) What is the term for the male and female gametangia labeled A and B respectively; 2) The fern possesses xylem and phloem and in the Carboniferous period were able to grow hundreds of feet tall due to the presence of what complex organic polymer in the vascular tissue?; 3) To what phyla of plants does this fern belong?",
+    "answer": "1) ANTHERIDIA AND ARCHEGONIUM; 2) LIGNIN; 3) MONILOPHYTA"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three molecules in order of increasing entropy of vaporization: 1) Water; 2) Benzene; 3) Mercury",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When acetaldehyde undergoes a cross-coupling aldol reaction with formaldehyde, a tetrol is formed along with what other molecule?",
+    "answer": "FORMATE (ACCEPT: FORMIC ACID)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC national laboratory are studying the visual signaling complex. In the pathway responsible for vertebrate vision, transducin is bound to what enzyme, which carries out cyclic GMP hydrolysis?",
+    "answer": "PHOSPHODIESTERASE (ACCEPT: CGMP PHOSPHODIESTERASE)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "visual_bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne national lab are studying the photoisomerization of the ruthenium complex shown below along with a proposed mechanism. Answer the following 2 questions: 1) What is the oxidation state of the central ruthenium atom? 2) During step 1 of the reaction scientists have observed the presence of a pi complex with the ruthenium atom. Given this information, give the hapticity of $\\athrm{SO}_2$ in the reactant, intermediate, and the product of step 1 respectively.",
+    "answer": "1) $2+$ ; 2) 1, 2, 1"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A point D is selected inside an equilateral triangle ABC of side length 2. The distances from D to sides AC and BC are 0.5 and 1, respectively. What is the distance between D and side AB?",
+    "answer": "$\\qrt{3} - 1.5$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many thirteenth-order partial derivatives of $\\athbf{x}^{11}\\athbf{y}^{11}\\athbf{z}^{11}$ are equal to zero?",
+    "answer": "9"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "According to Hawking's theory of Hawking radiation, a black hole that is 3 times as large will have many times the lifespan?",
+    "answer": "27"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Shown in the image is a multiwavelength image of the spiral galaxy M81. Answer the following three questions concerning this galaxy: 1) This galaxy is part of what subclassification of spiral galaxies with well-defined spiral arms; 2) It is observed that the spiral arms of the galaxy are examples of long term rather than short term structures. What theory correctly explains the perseverance of these spiral arms?; 3) Should this galaxy collide with another one, what type of galaxy would the end product be?",
+    "answer": "1) GRAND DESIGN; 2) LIN SHU DENSITY WAVE THEORY (ACCEPT: SPIRAL WAVE THEORY); 3) ELLIPTICAL"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the IUPAC name of the sulfur analog of furan?",
+    "answer": "THIOPHENE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Using the spherical polar coordinate system, with $r$ being the point's distance away from the origin, theta being the angle the particular point projected onto the $xy$-plane makes with respect to the positive $x$-axis, and phi being the angle the point makes with respect to the positive $z$-axis, what is the polar equation describing the angular node of the $2p_z$ orbital?",
+    "answer": "PHI EQUALS PI OVER 2"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Under the assumptions of the Michaelis-Menten model, if the concentration of substrate is equal to two-thirds of the $\\athrm{K}_{\\athrm{m}}$, then in terms of $\\athrm{V}_{\\athrm{max}}$, what is the speed of the reaction?",
+    "answer": "%"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Shown in the image are four different isotypes of immunoglobulin found in the human body. Answer the following three questions concerning this diagram: 1) Identify the structure labeled A that is an accessory subunit of disulfide linkages and is found in multimeric immunoglobulins to stabilize the polypeptide; 2) Identify the isotype of antibodies labeled B; 3) Identify the isotype of antibodies labeled C.",
+    "answer": "1) J CHAIN; 2) IgM; 3) IgA."
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "5 masses of 1, 2, 3, 4, and 5 kilograms are placed 1, 2, 3, 4, and 5 meters from the origin. In kilogram meters squared, what is the moment of inertia of the system about the origin?",
+    "answer": "225"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Three reservoirs with temperatures of 400, 300, and 200 Kelvin are placed in a line. If a Carnot engine connects each reservoir to the next, and 1200 Joules are put in, in Joules, how much useful work is done?",
+    "answer": "600"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab in collaboration with SLAC researchers are using X-ray scattering to better understand the effect of solvents on intramolecular electron transfer reactions. What term is given to the inelastic scattering of X-rays due to charged particles?",
+    "answer": "COMPTON SCATTERING"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Princeton Plasma Physics Lab have been studying the origins of coronal jets. These coronal jets are hypothesized to stem from spheromaks [pronunciation guide] of plasma rather than magnetic connection events. Answer the following two questions concerning the magnetic cycle of the sun. 1) What current model best demonstrates the migration of magnetic fields on the sun? 2) To the nearest year, identify the length of this magnetic cycle.",
+    "answer": "1) BABCOCK; 2) 22 (DO NOT ACCEPT: 11)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the Laplace transform of the function $\\in (t)$?",
+    "choices": {
+      "W": "1 over $s$",
+      "X": "1 over the quantity $s$ minus 1",
+      "Y": "$s$ over the quantity $s$ squared plus 1",
+      "Z": "1 over the quantity $s$ squared plus 1"
+    },
+    "answer": "Z"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many ways are there to tile a 1 by 9 board with 1 by 1 and 1 by 2 sized dominoes?",
+    "answer": "55"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three constellations by increasing maximum alignment with celestial north as the precession of Earth's axis occurred: 1) Ursa Major; 2) Lyra; 3) Draco.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "According to the standard model of the evolution of the universe, the gravitational interaction between baryonic matter and strings of dark matter led to the production of what largest known structures in the universe?",
+    "answer": "FILAMENTS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about GABA: 1) Its receptors are mostly metabotropic; 2) Benzodiazepines are an antagonist of the receptor; 3) LSD is an antagonist of the receptor.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What nucleus of the brain is outside the blood-brain barrier that can allow it to be sensitive to toxins and thus initiate vomiting?",
+    "answer": "AREA POSTREMA"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A roller coaster cart is released from a height $h$ so that it clears a vertical circular loop of radius 10 meters. In meters, what is the smallest possible value of $h$?",
+    "answer": "25"
+  },
+  {
+    "question_number": 14,
+    "question_type": "visual_bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The following image shows a position momentum diagram of a simple harmonic oscillator. Answer the following two questions about the image: 1) What theorem in classical mechanics states that the area traced out in phase space is constant over time? 2) This is analogous to what concept which states that microstates are equally accessible over long periods of time?",
+    "answer": "1) LIOUVILLE'S THEOREM; 2) ERGODIC HYPOTHESIS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Los Alamos National Lab have discovered new types of bonding in metal-ligand actinide complexes, one of which is a type of delta bond. Identify all of the following pairs of orbitals that can form delta interactions: 1) d to d; 2) d to pi star; 3) d to sigma.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Argonne national lab are looking into the use of antiferromagnetic oxide thin films for use in spintronics. Identify all of the following 3 oxides they could be using for this purpose: 1) $\\athrm{Cr}_2\\athrm{O}_3$ ; 2) $\\athrm{NiO}$ ; 3) $\\athrm{CrO}_2$.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why uranium-lead dating in zircon is highly accurate?",
+    "choices": {
+      "W": "Uranium's half-life is significantly long enough such that errors in measurement are minimized",
+      "X": "Zircon readily rejects lead upon formation",
+      "Y": "Zircon is immune to metamictization",
+      "Z": "Zircon only contains uranium - 235 and uranium - 238 as its radioactive isotopes"
+    },
+    "answer": "X"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about El Niño Southern Oscillation: 1) El Niño is caused by a weakening in the Walker circulation; 2) During La Niña, southeast Asia is typically accompanied with warmer weather; 3) El Niño typically decreases the number of hurricanes that occur in the Atlantic.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What are the identities of the two anions formed when chlorine gas is bubbled through a hot, alkaline solution of water?",
+    "answer": "CHLORIDE AND CHLORATE (ACCEPT: CI- AND $\\athrm{ClO_3}$)"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 molecules in order of increasing pKa of their most acidic hydrogen: 1) Dimethylsulfone; 2) Acetylene; 3) Acetaldehyde",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the smallest number that has exactly 10 factors?",
+    "answer": "48"
+  },
+  {
+    "question_number": 18,
+    "question_type": "visual_bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The following image shows a shaded hexagon constructed from a regular hexagon of side length 6, where the upper and lower trapezoids are removed. Given that the nonparallel sides of the trapezoids have a side length that is half of that of the regular hexagon, what is the area of the shaded hexagon?",
+    "answer": "$63 \\times \\rac{\\qrt{3}}{2}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The radiation energy per unit volume in a uniform radiation field is equal to 16 Joules per meter cubed. What is the radiation pressure, in pascals?",
+    "answer": "$\\rac{16}{3}$"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What effect is responsible for a relativistic correction to the precession of an object near a large rotating mass?",
+    "answer": "LENSE-THIRRING EFFECT"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "During the Hofmann rearrangement, after the removal of bromide from the bromoamide anion, what is the name given to the unstable intermediate formed before undergoing a rearrangement to an isocyanate?",
+    "answer": "NITRENE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A container of methane undergoes adiabatic expansion with an initial pressure of 1 atmosphere and a volume of 1/64 liters. If the final pressure of the container after the expansion is 1/81 atmospheres, what is the final volume of the container?",
+    "answer": "$\\rac{27}{64}$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The rate of burial and weathering of pyrite affects global oxygen levels due to the formation and consumption of what oxygen-containing ion as these processes occur?",
+    "answer": "SULFATE (ACCEPT: $\\athrm{SO}_4^{2-}$)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true of hydrothermal vents: 1) Helium-3 can be found being outgassed from hydrothermal vents; 2) White smokers are generally cooler than black smokers; 3) Barite is commonly found in white smokers.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many total asymptotes exist in the rational function with numerator $4x$ plus 7 and denominator $x$ plus $e$ to the $x$?",
+    "answer": "3"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of the double integral of the function $x^2 y$ taken over the region of space bounded by the $x$-axis, the line $x = 1$, and the line $y = 2x$?",
+    "answer": "$\\rac{2}{5}$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Parathyroid hormone increases the production of activated vitamin D through the activation of which hormone in the kidney?",
+    "answer": "1-HYDROXYLASE"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Depicted in the image is the stationary phase of a specific column chromatography designed to isolate a protein. Answer the following two questions concerning this image: I. What type of ion chromatography is shown; II. Identify all of the following three that could elute the negatively charged protein: 1) Decreasing salt concentration; 2) Decreasing pH; 3) Addition of EDTA.",
+    "answer": "I) ANION EXCHANGE; II) 3 ONLY"
+  }
+]

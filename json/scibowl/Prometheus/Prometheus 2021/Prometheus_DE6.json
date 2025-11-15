@@ -1,0 +1,542 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which field of engineering studies the use of feedback loops to maintain stability in dynamical systems, and was an early field of artificial intelligence?",
+    "answer": "Control theory"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following values are NOT included in determining the correction applied by a proportional-integral-derivative control system?",
+    "choices": {
+      "W": "Current value of the error term",
+      "X": "Average value of error term over time",
+      "Y": "Rate of change of error term",
+      "Z": "Initial value of error term"
+    },
+    "answer": "Z) Initial value of error term"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the covariance of the three points (1, 9), (2, 4), and (3, 3)?",
+    "choices": {
+      "W": "Positive",
+      "X": "Negative",
+      "Y": "Zero",
+      "Z": "Undefined"
+    },
+    "answer": "X) Negative"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following surfaces is defined by the equation $z = \\rac{x^2}{48} - \\rac{y^2}{144}$?",
+    "choices": {
+      "W": "Hyperboloid of one sheet",
+      "X": "Hyperboloid of two sheets",
+      "Y": "Elliptic paraboloid",
+      "Z": "Hyperbolic paraboloid"
+    },
+    "answer": "Z) Hyperbolic paraboloid"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The crown ether 12-crown-4 is most suited for the phase transfer catalysis of which of the following ions?",
+    "choices": {
+      "W": "$\\athrm{Li^{+}}$",
+      "X": "$\\athrm{Na^{+}}$",
+      "Y": "$\\athrm{K^{+}}$",
+      "Z": "$\\athrm{Ca^{2 + }}$"
+    },
+    "answer": "W) $\\athrm{Li^{+}}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following manganese species occupies the upper right region of a Pourbaix diagram?",
+    "choices": {
+      "W": "Mn",
+      "X": "$\\athrm{Mn^{2 + }}$",
+      "Y": "$\\athrm{MnO_2}$",
+      "Z": "$\\athrm{MnO_4^{-}}$"
+    },
+    "answer": "Z) $\\athrm{MnO_4^{-}}$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The tides on either side of New Zealand's Cook Strait are almost perfectly out of phase, with a high on one side and a low on the other. The center of this strait has a fairly consistent sea level, making it virtually what kind of point?",
+    "answer": "Amphidrome"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Labradorescence occurs when thin layers are formed in a feldspar with slightly more anorthite than albite. These thin layers form through exsolution from a phase in what type of region on a phase diagram?",
+    "answer": "Miscibility gap (ACCEPT: Boggild miscibility gap)"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true about protein structure?",
+    "choices": {
+      "W": "Parallel beta sheets are more stable than antiparallel beta sheets",
+      "X": "Because beta sheets are planar, they are rarely found in globular proteins",
+      "Y": "Glycine destabilizes alpha helices due to entropic effects",
+      "Z": "Threonine is more commonly found in alpha helices than alanine"
+    },
+    "answer": "Y) Glycine destabilizes alpha helices due to entropic effects"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the development of the terminal cell of an early plant embryo?",
+    "choices": {
+      "W": "It develops into the shoot apex of the embryo",
+      "X": "It forms the suspensor that anchors the embryo and transfers nutrients",
+      "Y": "It develops into the endosperm when fertilized by a sperm nucleus",
+      "Z": "It divides to form the proembryo"
+    },
+    "answer": "Z) It divides to form the proembryo"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The potential energy of a particle is given by the function $f(t) = 4t^2 - 12t + 8$. Identify all of the following three statements that are true of this system: 1) At time $t = 1$, there is an unstable equilibrium; 2) At time $t = 1.5$, there is a stable equilibrium; 3) The particle is never at equilibrium.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If a sphere of radius $R$ has a density given by $\\ho (r) = 20r^3$, the pressure at its center due to gravity is $P_0$. The radius is then doubled so that a new central pressure of $P$ is achieved. What is the ratio of $P_0$ to $P$?",
+    "answer": "1:256 (ACCEPT: $\\rac{1}{256}$)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Which class of immunotherapy is typically derived from cancerous multiple myeloma cells?",
+    "answer": "Monoclonal antibodies"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Why do monoclonal antibodies of murine origin need to be humanized using recombinant DNA approaches before being used in humans?",
+    "choices": {
+      "W": "Alpha-gal cannot be fully removed from murine serums",
+      "X": "Many murine antibodies attack essential parts of the human microbiome",
+      "Y": "Murine antibodies trigger negative feedback loops which weaken human B-cells",
+      "Z": "Murine immunoglobins cause the production of human anti-mouse antibodies"
+    },
+    "answer": "Z) Murine immunoglobins cause the production of human anti-mouse antibodies"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the definition of the power of a hypothesis test?",
+    "choices": {
+      "W": "The probability of rejecting the null hypothesis when the null hypothesis is true",
+      "X": "The probability of rejecting the null hypothesis when the alternative hypothesis is true",
+      "Y": "The probability of failing to reject the null hypothesis when the null hypothesis is true",
+      "Z": "The probability of failing to reject the null hypothesis when the alternative hypothesis is true"
+    },
+    "answer": "X) The probability of rejecting the null hypothesis when the alternative hypothesis is true"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the area of the region inside the circle $r = 8\\in \\theta$.",
+    "answer": "$16\\i$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following comparisons between diffusion and effusion is NOT true?",
+    "choices": {
+      "W": "Diffusion is the net passive movement of particles from regions of high concentration to low concentration while effusion is movement of gas particles through a hole",
+      "X": "Diffusion occurs in solid, liquid, and gas molecules while effusion occurs only in gas molecules",
+      "Y": "The concentration gradient of gases generates a pressure gradient in diffusion while the concentration gradient is the driving force in effusion",
+      "Z": "Collisions occur among the molecules in diffusion while there is no collision among the molecules in effusion"
+    },
+    "answer": "Y) The concentration gradient of gases generates a pressure gradient in diffusion while the concentration gradient is the driving force in effusion"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three functional groups from most to least acidic: 1) Simple ketone; 2) 1,3-diketone; 3) 1,3-diseter.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the effect dark matter has on a galaxy rotation curve?",
+    "choices": {
+      "W": "Increased velocity in the center",
+      "X": "Increased velocity near the edge",
+      "Y": "Increased velocity in spiral arms",
+      "Z": "Increased velocity outside of spiral arms"
+    },
+    "answer": "X) Increased velocity near the edge"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Nakhlites are a group of meteorites containing high amounts of augite. Which of the following best represents the origin of these meteorites?",
+    "choices": {
+      "W": "Presolar",
+      "X": "Kuiper belt",
+      "Y": "Planetary interior",
+      "Z": "Planetary surface"
+    },
+    "answer": "Z) Planetary surface"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of proteins is Binding Immunoglobulin Protein, or BiP?",
+    "choices": {
+      "W": "Molecular chaperone",
+      "X": "Opsonin",
+      "Y": "Ligand-gated ion channel",
+      "Z": "Complement glycoprotein"
+    },
+    "answer": "W) Molecular Chaperone"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three viruses which are single stranded DNA viruses: 1) Herpesviruses; 2) Adenoviruses; 3) Reoviruses.",
+    "answer": "None"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "You stand outside a box with initial length $l$, speed $v$ relative to you, and mass $m$. The box has one clock on each of its rear and front sides. If the box's length doubles, speed triples, and mass quadruples, by what factor is the difference between the rear and front clock's reading multiplied by?",
+    "choices": {
+      "W": "54",
+      "X": "24",
+      "Y": "12",
+      "Z": "6"
+    },
+    "answer": "Z) 6"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two wires are wrapped around a cylindrical core with radius $\\i$. If the primary wire is wrapped 32 times and the secondary wire is wrapped 16 times, and the length of each coil is 1 meter, what is the mutual inductance?",
+    "choices": {
+      "W": "128π",
+      "X": "512π",
+      "Y": "64π³",
+      "Z": "512π³"
+    },
+    "answer": "Z) 512π³"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "A gun-type nuclear weapon has only been successfully tested using enriched uranium. What isotope impurity with a high rate of spontaneous fission prevents gun-type weapons of other fissile materials from reaching their maximum yield?",
+    "answer": "Plutonium-240 (DO NOT ACCEPT: Plutonium)"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Why are gun-type weapons of less concern to nuclear non-proliferation experts than implosion-type weapons?",
+    "choices": {
+      "W": "Lower threat from terrorists than international war",
+      "X": "Improved detection ability",
+      "Y": "Lack of uranium refinement capability",
+      "Z": "Difficulty to construct"
+    },
+    "answer": "W) Lower threat from terrorists than international war"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Amy, Byron, and Catherine are playing a card game. Each person is given 2 cards out of a set of 10 cards numbered 1 through 10. The score of a player is the sum of the numbers of their cards. Amy's score is 4, Byron's score is 7, and Catherine's score is 11. Which player was given the card labeled 6?",
+    "choices": {
+      "W": "Amy",
+      "X": "Byron",
+      "Y": "Catherine",
+      "Z": "None of them"
+    },
+    "answer": "Z) None of them"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the maximum value of $z = 3x + 2y$ subject to the constraints $x \\eq 0$, $y \\eq 0$, $x + 2y \\eq 4$, and $x - y \\eq 1$.",
+    "answer": "8"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What two molecules are generated from the decomposition of acetoacetic acid under high temperatures?",
+    "answer": "Carbon dioxide and acetone"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three vibrational modes that are Raman active, but not IR active: 1) Symmetric stretching of $\\athrm{H}_2\\athrm{O}$; 2) Symmetric stretching of $\\athrm{CO}_2$; 3) Asymmetric stretching of $\\athrm{CO}_2$.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "An oceanographer observes parallel streaks of sea foam and algae on the surface of a lagoon parallel to the wind direction. These are a result of what kind of circulation?",
+    "answer": "Langmuir circulation"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "A geologist surveying a glacial landscape knows that a glacier formerly flowed to the south in the region. In what direction will the steep sides of drumlins and roche moutonnée be facing, respectively?",
+    "choices": {
+      "W": "Both north",
+      "X": "Both south",
+      "Y": "North and south",
+      "Z": "South and north"
+    },
+    "answer": "Y) North and south"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the phenomenon characterized by a positive correlation between population density and mean individual fitness, which is typically measured by per capita population growth rate?",
+    "answer": "Allee effect"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Diapedesis is the movement of leukocytes out of the circulatory system to an infected or damaged tissue. During the initial stage of diapedesis, cytokines cause endothelial cells to display what class of proteins on their surface, which form weak interactions with leukocytes to cause them to roll along the endothelium?",
+    "answer": "Selectins"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two identical thin converging lenses with focal length $f$ are placed a distance $2f$ from each other. A small ball is kept a distance $3f$ to the left of the leftmost lens. What is the distance between the resulting image and right lens?",
+    "choices": {
+      "W": "$\\rac{f}{3}$",
+      "X": "$\\rac{f}{2}$",
+      "Y": "$f$",
+      "Z": "$2f$"
+    },
+    "answer": "Y) $f$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In order to find the combined quantum states of two particles with Hilbert spaces $H_{1}$ and $H_{2}$ respectively, what operation must be computed between $H_{1}$ and $H_{2}$?",
+    "answer": "Tensor Product"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "longtermism",
+    "answer_type": "short_answer",
+    "body": "Reinforcement learning is difficult in problems with permanent consequences for failure, such as the navigation of a Mars rover, because their associated Markov decision processes lack what mathematical trait?",
+    "answer": "Ergodicity"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "longtermism",
+    "answer_type": "multiple_choice",
+    "body": "Many models of reinforcement learning do not consider agents as part of the environments in which they navigate. Which of the following traits is NOT considered a difficulty in aligning an embedded agent?",
+    "choices": {
+      "W": "Inability to precisely model their environments",
+      "X": "Poorly-defined input-output channels",
+      "Y": "Inability to conceptualize their behavior as part of the environment",
+      "Z": "Capability to self-modify"
+    },
+    "answer": "Y) Inability to conceptualize their behavior as part of the environment"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "A kite is inscribed within an ellipse, with each of the kite's four vertices placed on the ellipse. Which of the following values is closest to the maximum percentage of the ellipse that could be covered by the kite?",
+    "choices": {
+      "W": "65",
+      "X": "70",
+      "Y": "75",
+      "Z": "80"
+    },
+    "answer": "W) 65"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Solve for all real values of x for which the absolute value of $x^{2} - 12x + 34$ equals 2.",
+    "answer": "$\\athrm{x} = 4$, 6, 8 (must give all 3)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why tetradentate or hexadentate ligands are more satisfactory as titrants than ligands with a lesser number of donor groups?",
+    "choices": {
+      "W": "They react more completely with anions and thus provider duller end points",
+      "X": "They react more completely with anions and thus provider sharper end points",
+      "Y": "They react more completely with cations and thus provide duller end points",
+      "Z": "They react more completely with cations and thus provide sharper end points"
+    },
+    "answer": "Z) They generally react more completely with cations and thus provider sharper end points"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The boron-hydrogen-boron bond angle in diborane falls in which of the following ranges?",
+    "choices": {
+      "W": "60 to 80 degrees",
+      "X": "80 to 100 degrees",
+      "Y": "100 to 120 degrees",
+      "Z": "120 to 140 degrees"
+    },
+    "answer": "X) 80 to 100 degrees"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the theorized difference in formation of short and long gamma-ray bursts?",
+    "choices": {
+      "W": "Short are from supergiants, while long are from dwarf stars",
+      "X": "Short are from dwarf stars, while long are from supergiants",
+      "Y": "Short are from supernovae, while long are from kilonovae",
+      "Z": "Short are from kilonovae, while long are from supernovae"
+    },
+    "answer": "Z) Short are from kilonovae, while long are from supernovae"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true regarding the Oort Cloud: 1) It is primarily composed of ices; 2) Its inner section is toroidal; 3) Its mass is smaller than that of the Kuiper Belt.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following organisms is not an ascomycete?",
+    "choices": {
+      "W": "Neurospora crassa",
+      "X": "Saccharomyces cerevisiae",
+      "Y": "Aspergillus fumigatus",
+      "Z": "Phytophthora infestans"
+    },
+    "answer": "Z) Phytophthora infestans"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of the Tunica-Corpus model: 1) It describes the physical characteristics of lateral meristems; 2) The innermost layers form the corpus; 3) The tunica is separated into two layers.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "For some ideal gas, the molar heat capacity increases from $\\rac{3}{2} R$ to $\\rac{5}{2} R$ at a fixed temperature. Which of the following is closest to that temperature?",
+    "choices": {
+      "W": "10 K",
+      "X": "100 K",
+      "Y": "1000 K",
+      "Z": "10000 K"
+    },
+    "answer": "W) 10 K"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle's mass is $1 \\athrm{kg}$. If this particle's kinetic energy is given as $25 \\bar^2$, what is its de Broglie wavelength in meters?",
+    "answer": "$\\rac{\\i \\qrt{2}}{5}$"
+  }
+]

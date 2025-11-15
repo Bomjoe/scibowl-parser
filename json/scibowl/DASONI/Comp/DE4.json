@@ -1,0 +1,449 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the first class of antibody secreted after activation of a B cell?",
+    "answer": "IgM"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about action potentials in the heart: 1) After HCN channels brings autorhythmic cells to threshold, voltage-gated calcium channels hyperpolarize the cell 2) In contractile cells, voltage-gated sodium channels stay open for much longer than in neurons, producing a prolonged depolarization 3) In renal failure, high extracellular potassium concentration produces depolarization that prevents HCN channels from opening",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is true regarding base-catalyzed aldol condensations?",
+    "choices": {
+      "W": "They begin with deprotonation of the hydrogen adjacent to the beta carbon",
+      "X": "If two different carbonyls are initially in one pot upon catalysis, four different products may be obtained",
+      "Y": "They involve a tertiary carbocation intermediate",
+      "Z": "Aldol reactions must be carried out in chlorinated solvents"
+    },
+    "answer": "X) IF TWO DIFFERENT CARBONYLS ARE INITIALLY IN ONE POT UPON CATALYSIS, FOUR DIFFERENT PRODUCTS MAY BE OBTAINED"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A specialized aldol condensation followed by Michael addition involves the reaction between methyl vinyl ketone and any other ketone to form an enone and a six-membered ring. What is this reaction called?",
+    "answer": "ROBINSON ANNULATION"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metamorphic facies would mostly likely contain high concentrations of andalusite?",
+    "choices": {
+      "W": "Blueschist",
+      "X": "Hornfels",
+      "Y": "Greenschist",
+      "Z": "Amphibolite"
+    },
+    "answer": "X) HORNFELS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Also known as DA variables, what class of pulsating white dwarf stars has prototype Ross 548, a period between 30 seconds and 25 minutes, and a hydrogen-rich atmosphere?",
+    "answer": "ZZ CETI VARIABLES (ACCEPT ZZ CETI)"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following pairs of terms correctly classifies the following differential equation: $y'' + 2y' = \\in(5x)$:",
+    "choices": {
+      "W": "non-linear, separable",
+      "X": "non-linear, non-separable",
+      "Y": "linear, separable",
+      "Z": "linear, non-separable"
+    },
+    "answer": "Z) LINEAR, NON-SEPARABLE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the last non-zero digit of $20!$",
+    "answer": "8"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A centipede is learning classical mechanics and is analyzing a system using the Lagrangian formulation. If her teacher tells her that she must use the Hamiltonian formulation, what transformation can she use to convert between the two?",
+    "answer": "LEGENDRE TRANSFORMATION"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Objects such as stars can be approximated to be blackbodies. By Wien's law, there should be stars whose emissions peak in all areas of the visible spectrum. Stars never appear green or purple, even though some stars undoubtedly peak in those sections. Which of the following best explains this discrepancy?",
+    "choices": {
+      "W": "Stars emit so much light in other wavelengths that our eyes do not perceive the peak wavelength strongly enough",
+      "X": "Stars are not perfect blackbodies, as emission lines in hotter stars correspond with the colors we see",
+      "Y": "Stars are not perfect blackbodies, as absorption lines in colder stars cause the colors we see",
+      "Z": "Dust and gas in between us and the star filters those wavelengths out most"
+    },
+    "answer": "W) Stars emit so much light in other wavelengths that our eyes do not perceive the peak wavelength strongly enough"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A team members are studying the enteric nervous system. What cells in gastric pits release histamine, which upregulates $\\athrm{H}^{+} / \\athrm{K}^{+}$ ATPases on parietal cells?",
+    "answer": "ENTEROCHROMAFFIN-LIKE CELLS (ACCEPT: ECL CELLS)"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A team members are studying biophysical research methods. Recent advances have allowed researchers to forego the tedious collection of crystal data for biomolecules via X-ray diffraction via an alternative technique that determines structures via the computational combination of molecular \snapshots\ taken from cooled aqueous samples. What is this technique called?",
+    "answer": "CRYOGENIC ELECTRON MICROSCOPY (ACCEPT: CRYO- EM)"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What amino acid has the most allowed values on a Ramachandran plot?",
+    "answer": "GLYCINE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Assuming that during the electron transport chain, each molecule of NADH produces 2.5 ATP and each molecule of FADH₂ produces 1.5 ATP, what is the net ATP yield from the aerobic respiration of 2 molecules of maltose, excluding the ATP produced from substrate-level phosphorylation?",
+    "answer": "112"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Phosphorus pentachloride exists as an ionic compound in the solid state. Give the molecular geometries for the cation and anion, respectively.",
+    "answer": "TETRAHEDRAL, OCTAHEDRAL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider the gas phase decomposition of phosphorus pentachloride into phosphorus trichloride and chlorine gas. 1 mole of $\\athrm{PCl}_5$ is placed into a sealed container, and at equilibrium, the total pressure in the container is 0.2 bar. Given that the $\\athrm{K}_{\\athrm{p}}$ for this reaction is 1.4, to one significant figure, how many moles of $\\athrm{Cl}_2$ will be present at equilibrium?",
+    "answer": "0.9"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Due to stability, triple junctions often consist of three rift arms. However, there is generally only rifting along two of those arms. What is the name for the third, inactive rift arm?",
+    "answer": "AULACOGEN"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What oscillation trend, characterized by changes in the Aleutian Low, leads to cooler northwest Pacific sea surface temperatures, warmer northeast Pacific sea surface temperatures, and is thought to lead to more or less pronounced ENSO extremes, depending on phase?",
+    "answer": "PACIFIC DECADAL OSCILLATION (ACCEPT: PDO)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evan is drawing a rough approximation of a target. He draws two concentric circles of radius 5 and radius 1, and one other circle with radius 3 and a center somewhere within the radius 5 circle. What is the probability this circle is completely within the larger circle?",
+    "answer": "4/25"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Annabelle writes down every even number from 1 to 900 on a sheet of paper. On the same sheet of paper, Boya writes down every number from 1 to 900 that is 1 mod 3. CJ writes down on the same paper every number from 1 to 900 that is 2 mod 5. How many numbers appear exactly twice on the paper?",
+    "answer": "210"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In a Josephson junction, what particles tunnel across the thin insulating layer?",
+    "answer": "COOPER PAIRS (DO NOT ACCEPT: ELECTRONS)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which of the following best explains how Cooper pairs can form?",
+    "choices": {
+      "W": "Electrons interact quantum mechanically with plasmons to form pairs",
+      "X": "Electrons attract other electrons by exchanging virtual gluons",
+      "Y": "Electron movement induce magnetic fields that induce positive electric fields, attracting other electrons",
+      "Z": "Electrons cause a region of slightly higher positive charge in the ion lattice around them, attracting other electrons"
+    },
+    "answer": "Z) Electrons cause a region of slightly higher positive charge in the ion lattice around them, attracting other electrons"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson HS A team members are studying the Seebeck effect. A hot-point probe that utilizes the Seebeck effect would be most useful for measuring which of the following?",
+    "choices": {
+      "W": "Thermal expansion coefficient relative to a standard metal",
+      "X": "Dielectric breakdown voltage",
+      "Y": "Resistance of a surface layer",
+      "Z": "Whether a semiconductor is n or p type"
+    },
+    "answer": "Z) Whether a semiconductor is n or p type"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Davidson HS B Team members are studying the works of mathematicians who bear an uncanny resemblance to Vladimir Putin. According to the Cauchy-Schwarz inequality, the absolute value of the dot product of the vector $4\\athbf{i} - 3\\athbf{j}$ and $5\\athbf{i} + 12\\athbf{j}$ theoretically cannot exceed what value?",
+    "choices": {
+      "W": "10",
+      "X": "16",
+      "Y": "48",
+      "Z": "65"
+    },
+    "answer": "Z) 65"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four plant hormones that undergo polar transport by PIN proteins: 1) Abscisic acid 2) Cytokinin 3) Auxin 4) Strigolactone",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "A population of 1000 phoenixes has two alleles for feather color, red and blue. The two alleles are codominant, and phoenixes with one of each allele are purple. The phoenixes are being hunted by dragons and need to hide in fire, giving red phoenixes an advantage. If red phoenixes have a relative fitness of 1, purple phoenixes 0.6, and blue phoenixes 0.25, and if there are originally 300 red phoenixes, 500 purple phoenixes, and 200 blue phoenixes in the population, then as a fraction in simplest terms, what will the frequency of blue phoenixes be in the next generation if we assume that the population follows the Hardy-Weinberg model?",
+    "answer": "16/169"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What diagram depicts the electronic states and spin multiplicities of a molecule and its transitions?",
+    "answer": "JABLONSKI DIAGRAM"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Carbenes can exist in either the singlet or triplet state. For simple carbenes, the triplet state is more stable. What rule explains why this is so?",
+    "answer": "HUND'S FIRST RULE (ACCEPT: HUND'S RULE OF MAXIMUM MULTIPLICITY)"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Although epicycles are best-known for their appearance in Claudius Ptolemy's geocentric model of the universe, they were first proposed over two hundred years previous by what Ancient Greek astronomer who also discovered the precession of the equinoxes?",
+    "choices": {
+      "W": "Hipparchus",
+      "X": "Eudoxus of Cnidus",
+      "Y": "Aristarchus",
+      "Z": "Eratosthenes"
+    },
+    "answer": "W) HIPPARCHUS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three soil orders from least to most defined soil horizons: 1) Alfisols 2) Entisols 3) Inceptisols",
+    "answer": "2, 3, 1 (ACCEPT: ENTISOLS, INCEPTISOLS, ALFISOLS)"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is $\\og_9(240)$, rounded to one decimal place?",
+    "answer": "2.5"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Akshansh needs to submit his photo to receive credit for his contributions to DASONI. Every day, he is hounded by another writer to send his picture to Dallin by 7:30 am. He has a 50% chance to do as he is told, which he will do immediately. This starts on January 1st. What is the probability he has submitted his image before the tournament actually begins at 8am on January 15th?",
+    "answer": "32767/32768"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A ray hits an ideal diffusing surface at 30 degrees to the horizontal. By what factor will the intensity of the reflected light be multiplied by if the ray instead hits at 60 degrees to the horizontal?",
+    "answer": "$\\qrt{3}$"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains a Debye sheath in a plasma?",
+    "choices": {
+      "W": "A positively charged layer caused by low-energy heavy ions attracting each other",
+      "X": "A positively charged layer caused by high energy electrons leaving the plasma near a transition",
+      "Y": "A negatively charged layer caused by the unequal presence of charges in a plasma made from ionic materials",
+      "Z": "A negatively charged layer induced in a plasma by nearby electric charges"
+    },
+    "answer": "X) A positively charged layer caused by high energy electrons leaving the plasma near a transition"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A Team members are studying structural geology and how to interpret geologic cross sections. What is the dip direction and angle of a thrust fault with largest possible dip angle that slopes downward to the right with respect to its strike of Northeast?",
+    "answer": "45 DEGREES SOUTHEAST"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Davidson HS A Team members are studying active galaxies. By name or number, identify all of the three properties that BL Lac objects and OVV quasars do not share: 1) Orientation relative to an observer on earth 2) Strength of emission lines 3) Luminosity",
+    "answer": "2 AND 3 (ACCEPT: STRENGTH OF EMISSION LINES, LUMINOSITY)"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Many natives of the Tibetan Plateau carry the gene EPAS1 that allows them to live at high altitudes without increased hemoglobin levels. Researchers believe that EPAS1 came from the interbreeding of early Homo sapiens with another hominid species. Which of the following species likely donated the EPAS1 gene?",
+    "choices": {
+      "W": "Denisovans",
+      "X": "Neanderthals",
+      "Y": "Homo rudolfensis",
+      "Z": "Homo floresiensis"
+    },
+    "answer": "W) DENISOVANS"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "When potassium hydroxide is added to bacteria, if it causes them to lyse, the released DNA makes a viscous and stringy solution. Given that potassium hydroxide will dissolve the cell walls of bacteria that only have a thin layer of peptidoglycan, identify all of the following three genera of bacteria that will produce a stringy solution when subjected to the test: 1) Staphylococcus 2) Clostridium 3) Bacillus",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "According to frontier molecular orbital theory, at which position does electrophilic aromatic substitution occur in pyrrole?",
+    "answer": "2 (DO NOT ACCEPT: META)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The Upjohn dihydroxylation involves the reaction between an olefin and osmium tetroxide to yield a vicinal syn-diol. Normally, osmium(VI) is reduced to osmium(IV) per equivalent of olefin. However, because osmium tetroxide is nasty and expensive, it is often used in a catalytic amount along with a sacrificial catalyst. What is this sacrificial catalyst?",
+    "answer": "N-METHYLMORPHOLINE N-OXIDE (ACCEPT: NMO)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following drainage patterns that are considered subsequent: 1) Trellis 2) Annular 3) Parallel",
+    "answer": "1 AND 2 (ACCEPT: TRELLIS, ANNULAR)"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A recent study by the University of Glasgow suggests that some Earth's water might have formed as a result of solar wind carrying water-rich dust particles from the near-earth asteroid Itokawa. However, previously, one of the major hypotheses was that Earth's water came from asteroid impacts. What common class of volatile-rich asteroids were the source of these impacts?",
+    "answer": "C-TYPE (ACCEPT: CARBONACEOUS)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Sam is putting rubber bands around circumferences of a sphere. If he puts on 4 rubber bands, what is the maximum number of regions he can divide the surface of the sphere into?",
+    "answer": "14"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "When practicing for DASONI, Akshansh will buzz in with a normal \buzz\ or his choice of copy-paste poem. Akshansh has a $10\\$ chance to, at any point, use his poem. Once he uses this, this is all he will use for the rest of the 10 questions. What is the expected number of times Akshansh will use his poem, to the nearest question?",
+    "choices": {
+      "W": "1",
+      "X": "2",
+      "Y": "4",
+      "Z": "6"
+    },
+    "answer": "Y) 4"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following operations on the wave function psi is directly proportional to the probability density?",
+    "choices": {
+      "W": "norm of psi",
+      "X": "psi squared",
+      "Y": "$(\\text{norm of } \\si)^2$",
+      "Z": "real part of psi"
+    },
+    "answer": "Y) quantity norm of psi end quantity squared"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is false about the Eightfold way?",
+    "choices": {
+      "W": "Baryons and mesons are both organized into octets",
+      "X": "Particles are organized by strangeness and color charge",
+      "Y": "Particles on opposite sides of an octet are antiparticles",
+      "Z": "Some particles share the same position on a diagram of the eightfold way"
+    },
+    "answer": "X) Particles are organized by strangeness and color charge"
+  }
+]

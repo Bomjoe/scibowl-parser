@@ -1,0 +1,362 @@
+Failure:
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following 4 choices that are considered quasiparticles: 1) Phonon; 2) Selectron; 3) Exciton; 4) Dilaton.",
+    "answer": "1 and 3"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "How large of a torque to the nearest tenth in newton-meters is needed to stop a hoop with a radius of 30 centimeters and a mass of 8 kg with an initial speed of 8 rad/s in 5 seconds.",
+    "answer": "1.2 Nm"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following rocks is a grey-black extrusive igneous rock that is extremely prevalent in Iceland and Hawaii and forms when magma or lava rapidly cools?",
+    "choices": {
+      "W": "Gabbro",
+      "X": "Andesite",
+      "Y": "Pumice",
+      "Z": "Basalt"
+    },
+    "answer": "Z) BASALT"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What list of 110 astronomical objects, including nebulae, star clusters, and galaxies, were compiled into a list by its namesake French astronomer.",
+    "answer": "MESSIER OBJECTS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following three acids in order of increasing pKa: 1) Butanoic Acid; 2) Chloroacetic acid; 3) Iodoacetic acid.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The reaction $\\athrm{Zn_{(s)} + Cu^{2 + }_{(aq)}\\ightarrow Zn^{2 + }_{(aq)} + Cu_{(s)}}$ has a standard cell potential of 1.1 V. Identify all of the following 3 changes that would increase the cell potential: 1) Increasing the concentration of $\\athrm{Zn^{2 +}}$; 2) Increasing the mass of the solid zinc electrode; 3) Increasing the mass of the solid copper electrode.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What two granulocytes produce histamine in response to foreign pathogens as an inflammatory response?",
+    "answer": "MAST CELLS AND BASOPHILS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What group of enzymes is responsible for phosphorylating glucose to form glucose 6-phosphate during the investment stage of glycolysis?",
+    "answer": "HEXOKINASES"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A fair six-sided die is rolled six times. What is the probability that the product of the six rolls is odd?",
+    "answer": "1/64"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three series that converge: 1) The sum from $n=1$ to infinity of $\\rac{1}{n}$; 2) The sum from $n=1$ to infinity of $\\rac{1}{n + 3n}$; 3) The sum from $n=1$ to infinity of $\\rac{1}{n!}$.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The potential energy of a ball varies according to the equation: $5t^2 + 3t$. In Newtons, what is the force of the ball at $t = 5$?",
+    "answer": "-53 N"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle with mass 10 micrograms and charge of 10 microcoulombs is accelerated to a velocity of $3 \\times 10^6$ m/s. It then enters into a uniform magnetic field of 600 microteslas at an angle of 90 degrees to the field. Expressing your answer in meters and in scientific notation, what is the radius of the path the electron follows?",
+    "answer": "$5 \\times 10^6$ m"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the periodic climate event in which the eastern Pacific ocean is warmed, typically occurring in late December?",
+    "answer": "EL NINO"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What scientist names the cycles of the variations in Earth's climate?",
+    "answer": "MILANKOVIC"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In the creation of an addition polymer, what is the middle step in which no new free radicals are being produced?",
+    "choices": {
+      "W": "Propagation",
+      "X": "Determination",
+      "Y": "Perpetuation",
+      "Z": "Declination"
+    },
+    "answer": "W) PROPAGATION"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules would be expected to have a proton NMR peak furthest downfield?",
+    "choices": {
+      "W": "$\\athrm{CH}_3\\athrm{F}$",
+      "X": "$\\athrm{CH}_3\\athrm{Br}$",
+      "Y": "$\\athrm{CHF}_3$",
+      "Z": "$\\athrm{CHBr}_3$"
+    },
+    "answer": "Y) $\\athrm{CHF}_3$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify by name or number all of the following 4 choices that are stages in fungal sexual reproduction: 1) Plasmogamy; 2) Karyogamy; 3) Apomixis; 4) Meiosis.",
+    "answer": "1, 2, 4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following reasons is the best explanation as to why the Murchison Meteorite's nucleobases did not come from Earth?",
+    "choices": {
+      "W": "Uracil had an abnormally high percentage of Carbon-13 in the meteorite",
+      "X": "Hypoxanthine samples present in the meteorite were unable to effectively wobble base pair",
+      "Y": "The nucleobase sample in the meteorite was found to be racemic",
+      "Z": "There was an abundance of pyrimidines compared to terrestrial samples"
+    },
+    "answer": "W) URACIL HAD AN ABNORMALLY HIGH PERCENTAGE OF CARBON 13 IN THE METEORITE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the first 7 perfect squares greater than 0?",
+    "answer": "140"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Giving your answer as a common fraction, what is the largest real value of $x$ such that the floor of $x$ divided by $x = 9/10$?",
+    "answer": "80/9"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify by name or number all of the following three statements that are NOT true regarding the movement of sound waves: 1) Sound waves move more quickly through solids than through gases; 2) Sound waves move more slowly through a material with a high bulk modulus than one with a low bulk modulus; 3) Sound waves cannot propagate through a vacuum.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Assume you have 2 identical spheres with a charge of $q$ at a distance $d$ away from each other. If you then take a neutral sphere and touch it with the first sphere, and then touch the second sphere right after. What will the final charge on the second sphere be in terms of $q$?",
+    "answer": "3/4 Q"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What element’s oxide is produced through the Bayer Process?",
+    "answer": "ALUMINUM"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Charon was first discovered by New Horizons in 2015, what celestial object is Charon the moon for?",
+    "answer": "PLUTO"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Tetracycline and erythromycin bind to what cellular structure to block protein synthesis in prokaryotes?",
+    "answer": "RIBOSOMES"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true regarding neurulation: 1) The neural tube differentiates from endoderm; 2) The neural tube becomes the peripheral nervous system; 3) Neural crest cells migrate from their original site.",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In a hydroboration-oxidation reaction, what two functional groups are always present in the reactant and product, respectively?",
+    "choices": {
+      "W": "Alkene and Alcohol",
+      "X": "Aldehyde and Borane",
+      "Y": "Borane and Carboxylic acid",
+      "Z": "Alkyne and Ester"
+    },
+    "answer": "W) ALKENE AND ALCOHOL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Identify by name or number all of the following 3 choices regarding x-ray crystallography that are true. 1) More electron dense atoms are easier to observe through x-ray crystallography; 2) X-ray crystallography measures the angles and intensities of the diffracted beams; 3) Absolute stereochemical species can be identified using x-ray crystallography.",
+    "choices": {
+      "W": "1, 2, 3"
+    },
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The function $\\athrm{f(x) = \\qrt{2x + 1}}$ is continuous and differentiable in the interval (4, 12). What real number within this interval satisfies the mean value theorem?",
+    "answer": "7.5 OR 15/2"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The equation $\\athrm{y = \\qrt{3x - 2}}$ is parametrized by $(\\athrm{x},\\athrm{y}) = (\\athrm{f(t)}, 3\\athrm{t} - 8)$. Find the function $\\athrm{f(t)}$.",
+    "answer": "$3t^2 - 16t + 22$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Assume you have a cube with side lengths of $\\athrm{x}$ with an electric field that is entering the bottom of the cube and exits the top of the cube at a normal angle. What is the net electric flux of the cube in V·m?",
+    "choices": {
+      "W": "0 V·m"
+    },
+    "answer": "0 V·m"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Which of the following is true regarding a lens in which both surfaces are concave?",
+    "choices": {
+      "W": "Its focal length is positive",
+      "X": "It cannot form real images",
+      "Y": "It cannot form virtual images",
+      "Z": "It can magnify objects"
+    },
+    "answer": "X) IT CANNOT FORM REAL IMAGES"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "What kind of organic projection is used when representing the tacticity of a polymer with characteristic zigzag bonds representing $sp^3$ hybridized carbons?",
+    "choices": {
+      "W": "Fischer",
+      "X": "Newman",
+      "Y": "Haworth",
+      "Z": "Natta"
+    },
+    "answer": "Z) NATTA"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following molecules would form the most reactive enolate intermediate?",
+    "choices": {
+      "W": "4-Methyl-2-pentanone",
+      "X": "4-Amino-2-pentanone",
+      "Y": "2-Pentanone",
+      "Z": "3-Oxopentanal"
+    },
+    "answer": "Z) 3-OXOPENTANAL"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What complex forms between homologous chromosomes during meiosis?",
+    "choices": {
+      "W": "Proteasome",
+      "X": "Connexons",
+      "Y": "Pyrrolysine",
+      "Z": "Synaptonemal"
+    },
+    "answer": "Z) SYNAPTONEMAL"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Polydactyly is an autosomal dominant trait. In a population at Hardy-Weinberg equilibrium, the gene for polydactyly makes up $20\\$ of the gene pool. What percentage of the population is heterozygous for the polydactyl gene?",
+    "answer": "32\\"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "A Hertzsprung Russell (HR) diagram plots what quantity on the x and y axis respectively?",
+    "answer": "TEMPERATURE AND LUMINOSITY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "

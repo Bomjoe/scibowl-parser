@@ -1,0 +1,482 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "What type of structure is used in machine learning to allow models to draw conclusions based on past data?",
+    "choices": {
+      "W": "Argument map",
+      "X": "Decision tree",
+      "Y": "Dendrogram",
+      "Z": "Radial tree"
+    },
+    "answer": "X) Decision tree"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "Order the following three gases by increasing global warming potential: 1) $\\athrm{CO}_2$ ; 2) $\\athrm{N}_2\\athrm{O}$ ; 3) $\\athrm{SF}_6$ .",
+    "answer": "1, 2, 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the limit as $x$ approaches infinity of the quantity $\\rac{x^2 + 2x + 1}{x^2 - 1}$ ?",
+    "answer": "1"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A square triangular number is a triangular number which is also a perfect square. 0 and 1 are the first two square triangular numbers, respectively. What number is the third square triangular number?",
+    "answer": "36"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A substance is observed under certain conditions to transition from a liquid to a gas without boiling. What phase of matter is the substance most likely observed to be in?",
+    "answer": "Supercritical fluid"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The face-on-face overlap of two $d_{xy}$ [d-x-y] orbitals creates what type of exotic bond?",
+    "answer": "Delta bond"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "What type of rock would be expected to form when there are two distinct cooling rates for different constituents of the rock?",
+    "choices": {
+      "W": "Aphanitic [af-uh-NIT-ic]",
+      "X": "Porphyritic [por-fee-RIT-ik]",
+      "Y": "Glassy",
+      "Z": "Phaneritic [fan-uh-RIT-ik]"
+    },
+    "answer": "X) Porphyritic"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Without corrections, carbon-14 dating in the recent past is incredibly unreliable. Which of the following contributes the most to this issue?",
+    "choices": {
+      "W": "Burning of fossil fuels decreases carbon-14 concentrations",
+      "X": "Nuclear weapons testing increases carbon-14 concentrations",
+      "Y": "Recent abnormal solar activity increases carbon-14 concentrations",
+      "Z": "Very little carbon-14 has had time to decay"
+    },
+    "answer": "W) Burning of fossil fuels decrease relative C- 14 concentrations"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Oligodendrocytes [uh-lig-oh-DEN-drow-sites] in the central nervous system have the same function as what cells in the peripheral nervous system?",
+    "answer": "Schwann cells"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following that can cause balancing selection: 1) Heterozygote advantage; 2) Positive frequency dependent selection; 3) Mullerian [moo-LEER-ee-uhn] mimicry.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Justin rolls a bicycle wheel up a ramp. At the same time, Adam rolls an identical bicycle wheel down the same ramp. Both wheels roll without slipping. Which of the following best describes the relationship between the accelerations of the two bike wheels?",
+    "choices": {
+      "W": "The acceleration is greater up the ramp",
+      "X": "The acceleration is greater down the ramp",
+      "Y": "The accelerations are equal",
+      "Z": "There is not enough information to tell"
+    },
+    "answer": "Y) The accelerations are equal"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle's position on the $x$ -axis is given by the equation $x = t^{3} - 27t + 4$ , where $t$ is in seconds. At what values of $t$ is its velocity equal to 0?",
+    "answer": "3 and - 3"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "What is not considered an example of greenwashing in climate change prevention?",
+    "choices": {
+      "W": "Appointing an environmental oversight committee without real power",
+      "X": "Focusing only on environmental measures that save money for your company",
+      "Y": "Ignoring catastrophic climate change in discussion of climate change prevention",
+      "Z": "Writing climate protection statements as a means of social signaling"
+    },
+    "answer": "Y) Ignoring catastrophic climate change in discussion of climate change prevention"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following infectious agents can be identified by their namesake hemaglutinin and neuraminidase proteins?",
+    "choices": {
+      "W": "Ebolavirus",
+      "X": "Influenza",
+      "Y": "Yersinia pestis",
+      "Z": "Herpes simplex"
+    },
+    "answer": "X) Influenza"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A fair six-sided die is rolled 12 times. What is the expected value of the sum of the rolls?",
+    "answer": "42"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A recipe for a massive ice cream cake calls for 3 dozen eggs for a cake with an area of 12 square feet. How many eggs would be needed for a square cake with an area of 9 square feet?",
+    "answer": "27"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three states of matter that have activity equivalent to unity: 1) Solid; 2) Liquid; 3) Gas.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "To one significant figure, calculate the change in internal energy in joules during the isothermal compression of one mole of an ideal gas from 2.7 liters to 1 liter at 400 kelvin.",
+    "answer": "0"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three fusion reactions by increasing required temperature: 1) Hydrogen burning; 2) Lithium burning; 3) Oxygen burning.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Orbits in the L4 and L5 Lagrange points are stable, even though they are peaks on a Hill diagram. What effect explains their stability?",
+    "answer": "Coriolis effect (ACCEPT: Coriolis force)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Jack is trying to analyze a metabolic pathway in a human cell. He notices that GTP is being produced, and water is also being utilized. Which of the following pathways is he analyzing?",
+    "choices": {
+      "W": "Pentose phosphate pathwayX) Fatty acid synthesisY) GlycolysisZ) Gluconeogenesis [gloo-kow-nee-oh-GEN-uh-sis]"
+    },
+    "answer": "W) Pentose phosphate pathway"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following hormones has nontropic effects, but not tropic effects?",
+    "choices": {
+      "W": "Follicle stimulating hormoneX) Growth hormoneY) Melanocyte stimulating hormoneZ) Thyroid stimulating hormone"
+    },
+    "answer": "Y) Melanocyte stimulating hormone"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The splitting of spectral lines due to an external magnetic field is known as what effect?",
+    "answer": "Zeeman effect"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Derek is moving at $0.8c$ in the y-direction and appears to be 2 meters tall in his frame of reference along the y-direction. To an observer, how tall does Derek appear, in meters?",
+    "answer": "1.2 meters"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "African sleeping sickness, or trypanosomiasis, is a deadly disease in Africa that can cause high fever and death, and is difficult to deal with because the causative agent is a protozoan. What species of fly serves as the vector for African sleeping sickness?",
+    "answer": "Tsetse fly"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "short_answer",
+    "body": "As classical computer designs approach physical limits, companies are looking towards quantum computing for further technological advances. Quantum qubits store information differently from classical bits by using what fundamental quantum principle?",
+    "answer": "Superposition"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The unique plane assumption in Euclidean geometry states there is exactly one plane through how many non-collinear points?",
+    "answer": "3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A regular hexagon and heptagon are inscribed in a circle such that they share no vertices. What is the maximum number of points of intersections they could have?",
+    "answer": "12"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the coordination number of an iron atom in a body-centered cubic lattice?",
+    "answer": "8"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is a diradical species in its ground state?",
+    "choices": {
+      "W": "Nitrogen dioxide",
+      "X": "Diboron",
+      "Y": "Beryllium difluoride",
+      "Z": "Monatomic nitrogen"
+    },
+    "answer": "X) Diboron"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Internal waves in the ocean will most closely propagate along what boundary?",
+    "choices": {
+      "W": "Thermocline",
+      "X": "Halocline",
+      "Y": "Pycnocline [PIC-no-cline]",
+      "Z": "Carbonate compensation depth"
+    },
+    "answer": "Y) Pycnocline"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of precipitation is most likely to occur if there is a shallow warm air layer 10,000 feet above the ground in an otherwise subfreezing atmosphere?",
+    "choices": {
+      "W": "Freezing rain",
+      "X": "Snow",
+      "Y": "Hail",
+      "Z": "Sleet"
+    },
+    "answer": "Z) Sleet"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids cannot be modified by a protein kinase?",
+    "choices": {
+      "W": "Methionine [muh-THY-uh-neen]",
+      "X": "Serine [SAIR-een]",
+      "Y": "Threonine [THREE-uh-neen]",
+      "Z": "Tyrosine [TIE-ruh-seen]"
+    },
+    "answer": "W) Methionine"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of G-protein coupled receptors: 1) Their transmembrane domain contains many beta sheets; 2) Upon binding of a ligand, the GDP bound to the cytoplasmic side of the GPCR is phosphorylated [fas-FOUR-uh-late-id]; 3) The insulin receptor is a GPCR.",
+    "answer": "None"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "How many antiquarks are present in a pentaquark, a particle made up of five quarks?",
+    "choices": {
+      "W": "0",
+      "X": "1",
+      "Y": "3",
+      "Z": "5"
+    },
+    "answer": "X) 1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Ryan places an infinite number of capacitors in series such that each capacitor's capacitance is twice that of the previous capacitor. He then places all of them in a circuit with a 9 volt battery. If the first capacitor has a capacitance of 1 farad, then in coulombs, what is the charge on the capacitor with capacitance of 16 farads?",
+    "answer": "4.5"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "The Ring of Fire is a ring of highly explosive volcanoes around the Pacific Ocean basin. Which of the following properties of these volcanoes does NOT contribute to their high explosivity?",
+    "choices": {
+      "W": "High volatile content",
+      "X": "High viscosity",
+      "Y": "Low temperature",
+      "Z": "Low degree of mixing"
+    },
+    "answer": "Z) Low degree of mixing"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x_risk",
+    "answer_type": "multiple_choice",
+    "body": "The first stage in a two-stage nuclear weapon triggers the second stage using what type of explosion?",
+    "choices": {
+      "W": "Chemical",
+      "X": "Electrical",
+      "Y": "Nuclear fission",
+      "Z": "Nuclear fusion"
+    },
+    "answer": "Y) Nuclear fission"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the directrix of the parabola with equation $y = 2x^{2}$ ?",
+    "answer": "$y = - 1 / 8$ (ACCEPT: $- 1 / 8$ )"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A warden is playing a game with 5 prisoners where he takes all their hats and returns them back at random. Two of the prisoners are wearing hats of the same color, while the rest of them are wearing hats with distinct colors. How many ways can the warden return the hats such that no one's hat is the same color as their starting hat?",
+    "answer": "12"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When chlorine gas is bubbled into a hot aqueous [AY-kwee-is] solution of sodium hydroxide, sodium chloride and sodium chlorate are formed. What type of redox reaction occurs during the formation of these products?",
+    "answer": "Disproportionation"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A solution of copper (II) [two] bromide is electrolyzed for 100 minutes with a 16 ampere current. Given that the molar mass of copper is approximately 64 grams, how many grams of copper are deposited on the cathode to two significant figures?",
+    "answer": "32"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following properties of a globular cluster would be most appropriate to estimate its age?",
+    "choices": {
+      "W": "Average temperatureX) Turnoff pointY) Spectral linesZ) Ratio of population I stars to population II stars"
+    },
+    "answer": "X) Turnoff point"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following observatories would be expected to detect a gamma ray burst?",
+    "choices": {
+      "W": "Chandra Space TelescopeX) ALMA TelescopeY) Swift ObservatoryZ) James Webb Space Telescope"
+    },
+    "answer": "Y) Swift Observatory"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following organisms would you expect to find Malpighian [mal- PIG-ee-uhn] tubules?",
+    "choices": {
+      "W": "Grasshopper",
+      "X": "Planarian [pluh- NAIR- ee- uhn]",
+      "Y": "Rotifer [ROW- tih- fuhr]",
+      "Z": "Earthworm"
+    },
+    "answer": "W) Grasshopper"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three phyla [FY-luh] which belong to the group Ecdysozoa: 1) Nematoda [NEE-mah-toh-duh]; 2) Arthropoda [arr-thruh-POD-ah]; 3) Echinodermata [ih-KAI-no-duhr-mah-tuh].",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The results of what theory predict that the electric field and magnetic field are different forms of the same phenomenon depending on the reference frame?",
+    "answer": "Special relativity"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Compute, in terms of $R$ , the molar constant volume heat capacity of a diatomic ideal gas.",
+    "answer": "$5R / 2$"
+  }
+]

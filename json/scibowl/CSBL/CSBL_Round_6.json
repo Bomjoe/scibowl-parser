@@ -1,0 +1,460 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What cells produce testosterone in response to stimulation from luteinizing hormone?",
+    "answer": "LEYDIG CELLS"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following that are formed from tryptophan: I. Auxin II. Melatonin III. Serotonin IV. Melanin",
+    "answer": "I, II, III (ACCEPT: ALL BUT IV)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following that are intensive properties: I. Helmholtz Energy II. Gibbs Free Energy III. Entropy",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "On a phase diagram, if the solid-liquid boundary line has a POSITIVE slope, which of the following statements is TRUE:",
+    "choices": {
+      "W": "Its Liquid Phase is Denser than its Solid Phase",
+      "X": "Its Solid Phase is Denser than its Liquid Phase",
+      "Y": "It can never form a supercooled fluid",
+      "Z": "It can never form a supercritical fluid"
+    },
+    "answer": "X) ITS SOLID PHASE IS DENSER THAN ITS LIQUID PHASE"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following magnifications CANNOT be produced using a single CONVERGING lens?",
+    "choices": {
+      "W": "1/2",
+      "X": "2",
+      "Y": "-1/2",
+      "Z": "-2"
+    },
+    "answer": "W)1/2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Arin has just discovered a new mineral! When light travels from air to this mineral, which has an index of refraction of0.58, at which of the following angles will the reflected ray be maximally polarized?",
+    "choices": {
+      "W": "15 degrees",
+      "X": "30 degrees",
+      "Y": "45 degrees",
+      "Z": "60 degrees"
+    },
+    "answer": "X)30 DEGREES"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of cooling, characterized by the conservation of heat, primarily causes cloud formation?",
+    "answer": "ADIABATIC"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following storm scales that use damage as a way to categorize storms: I. Saffir-Simpson II. Enhanced Fujita III. Modified Mercalli",
+    "answer": "II ONLY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Giving your answer in standard form, what is the equation of the line tangent to $x^{2} + y^{2} =169$ at the point (5,12)?",
+    "answer": "$5x +12y =169$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "How many points with integer coordinates are in the interior of the circle whose equation is given by $x^{2} + y^{2} =13$",
+    "choices": {
+      "W": "31",
+      "X": "37",
+      "Y": "41",
+      "Z": "47"
+    },
+    "answer": "X)37"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the National Renewable Energy Lab are studying the usage of perovskites in photovoltaic devices. However, the crystal structure of perovskites may trap electrons. What quasiparticles, which are collective excitations within the structure, may explain this?",
+    "answer": "PHONONS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Frederick National Lab are developing ways to slow cancer progression. These techniques often involve targeting of what protein family, known for playing a role in cancer types when mutated or overexpressed?",
+    "answer": "CATENIN"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following organs that are part of the female reproductive system in a flower: I. Anther II. Sepal III. Style IV. Filament",
+    "answer": "III ONLY"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "John and Jill are getting married! If they are heterozygous in four genes that all follow a dominant-recessive inheritance pattern, what is the probability that the resulting child will be homozygous dominant for at least one trait?",
+    "answer": "$\\rac{175}{256}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the term for a covalent bond between a Lewis acid and Lewis Base, characterized by both electrons migrating from the base?",
+    "answer": "DATIVE BOND"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "On a cubic unit cell, there are atoms on ALL of the corners,4 of the faces, and in the center. How many atoms are contained within this unit cell?",
+    "choices": {
+      "W": "13",
+      "X": "4",
+      "Y": "2",
+      "Z": "1"
+    },
+    "answer": "X)4"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In a heat engine, the state of the working substance traces out a closed path on a PV diagram. What quantity is represented by the area enclosed by this path?",
+    "answer": "WORK"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A parallel plate capacitor with plate area of A and plate separation d has a capacitance of C. If the plate area is doubled to2A and the plate separation is halved to d/2, what is the new capacitance, in terms of C?",
+    "choices": {
+      "W": "C",
+      "X": "2C",
+      "Y": "4C",
+      "Z": "16C"
+    },
+    "answer": "Y)4C"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Rank the following3 components of the Sun’s atmosphere in terms of INCREASING temperature: I. Chromosphere II. Corona III. Photosphere",
+    "answer": "III, I, II"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Joy has just discovered2 new planets: Thanksgiving and Christmas. She observes that the period of Thanksgiving is X years and it's semimajor axis is Y AU. She's also determined that the period of Christmas is8X years, but she's having trouble locating Christmas. Based on this data, in terms of Y, what is the semimajor axis of Christmas?",
+    "answer": "4Y"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Every angle in a convex polygon is summed EXCEPT for one of them, and the result is650 degrees. In degrees, what is the last angle?",
+    "choices": {
+      "W": "70",
+      "X": "90",
+      "Y": "110",
+      "Z": "130"
+    },
+    "answer": "W)70"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Adrian runs at a constant speed of21 miles per hour. He starts to run for one hour, and after this hour elapses, he turns around and runs for30 minutes. He repeats this process2021 times, running for half of the previous time every time. To the nearest integer, how many miles is Adrian from his starting point?",
+    "answer": "14"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Lab are developing a probe that can sense neurotransmitters in the brain. This will allow for the investigation of neurobiological mechanisms and disease symptoms of various brain disorders. It may also be able to detect hypoxia in the brain, which causes what physiological condition?",
+    "answer": "STROKE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Lab are studying the electronic structure of a metalloporphyrin ion through L-edge spectroscopy. The metal center in a metalloporphyrin is coordinated to4 atoms of what element?",
+    "choices": {
+      "W": "Nitrogen",
+      "X": "Oxygen",
+      "Y": "Hydrogen",
+      "Z": "Iron"
+    },
+    "answer": "W) NITROGEN"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following diseases is caused by a virus?",
+    "choices": {
+      "W": "Malaria",
+      "X": "Ebola",
+      "Y": "Toxoplasmosis",
+      "Z": "Bubonic Plague"
+    },
+    "answer": "X) EBOLA"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following3 diseases that are sex-linked: I. Duchenne Muscular Dystrophy II. Hemophilia III. Rett Syndrome",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following conditions will result in the LEAST IDEAL GAS?",
+    "choices": {
+      "W": "High Pressure and High Temperature",
+      "X": "Low Pressure and Low Temperature",
+      "Y": "Low Pressure and High Temperature",
+      "Z": "High Pressure and Low Temperature"
+    },
+    "answer": "Z) HIGH PRESSURE AND LOW TEMPERATURE"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The Van der Waals equation has two parameters $a$ and $b$, which are modifications from the Ideal Gas equation. What do these two parameters correct for?",
+    "answer": "IMFS and VOLUME OF GAS"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following three quantities that change for a system in STATIC equilibrium: I. Force II. Torque III. Linear Momentum",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following three statements that are TRUE regarding bodies under stress: I. They are permanently deformed past their yield strength II. They can return to their original form past their compressive strength III. In the elastic region, the stress-strain curve is linear",
+    "answer": "I and III"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What element is characterized by a doublet in its spectrum at588 and589 nanometers?",
+    "answer": "SODIUM"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is characteristic of a Type Ia supernova?",
+    "choices": {
+      "W": "Strong silicon line at $615~\\athrm{nm}$, no hydrogen lines",
+      "X": "Strong silicon line at $615~\\athrm{nm}$ and additional hydrogen lines",
+      "Y": "Strong iron line at $810~\\athrm{nm}$, no hydrogen lines",
+      "Z": "Strong hydrogen lines"
+    },
+    "answer": "W) Strong silicon line at $615~\\athrm{nm}$, no hydrogen lines"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "In2021, March1st fell on a Monday. What is the next year that March1st will fall on a Monday?",
+    "choices": {
+      "W": "2026",
+      "X": "2027",
+      "Y": "2028",
+      "Z": "2029"
+    },
+    "answer": "X)2027"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the distance between the two polar coordinates (8,120) and (6,0)",
+    "answer": "$2\\qrt{37}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Berkeley Analytical, a part of Berkeley Lab, have recently begun emission testing for VOCs, or volatile organic compounds. Which of the following compounds is a VOC?",
+    "choices": {
+      "W": "Carbon Monoxide",
+      "X": "Polyethylene",
+      "Y": "Carbon Dioxide",
+      "Z": "Benzene"
+    },
+    "answer": "Z) BENZENE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Los Alamos National Lab are researching ways to mitigate wildland fires. Wildfires such as these are seen as a missing source of what carbon-containing compound, and catalyzes the formation of peptides from amino acids?",
+    "answer": "CARBONYL SULFIDE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Help! Arin's grandma has fallen and can't get up! She was taken to the hospital, where she was diagnosed with an injury to the substantia nigra and a lack of dopamine release. What neurologic disease will she likely exhibit symptoms of?",
+    "answer": "PARKINSON'S DISEASE"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During apoptosis, the release of what iron-coordinating protein in mitochondria leads to the activation of caspase enzymes?",
+    "answer": "CYTOCHROME C"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following graphs represent a first-order reaction?",
+    "choices": {
+      "W": "A graph of concentration vs time, which is linear",
+      "X": "A graph of concentration of products vs concentration of reactants, which is linear",
+      "Y": "A graph of the natural log of concentration vs time, which is linear",
+      "Z": "A graph of the reciprocal of concentration vs time, which is linear"
+    },
+    "answer": "Y) A graph of the natural log of concentration vs time, which is linear"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider a zeroth-order reaction with a single aqueous reactant, X. If the initial concentration of X is2 molar, and the half-life at this time is10 seconds, how many seconds will elapse before the concentration is0.5 molar.",
+    "answer": "15"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following types of materials that have higher resistance at higher temperatures: I. Insulator II. Semiconductor III. Conductor",
+    "answer": "III ONLY"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Two solid spheres of radius r are in contact with each other. Given UNIFORM DENSITY, the gravitational force between the spheres is proportional to what power of r?",
+    "answer": "4"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify ALL of the following cycles that are Milankovitch cycles: I. Eccentricity II. Obliquity III. Precession",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to a lunar synodic day?",
+    "choices": {
+      "W": "12 hours",
+      "X": "12 hours and25 minutes",
+      "Y": "24 hours",
+      "Z": "24 hours and50 minutes"
+    },
+    "answer": "Z)24 HOURS AND50 MINUTES"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the derivative with respect to x of $f(x) = \\rac{\\in(x)}{\\tan(x)}$",
+    "answer": "$-\\in(x)$"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the radius of a circle inscribed in a triangle with side lengths of13,15, and18",
+    "answer": "$\\rac{20\\qrt{23}}{23}$"
+  }
+]

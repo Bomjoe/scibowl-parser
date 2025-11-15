@@ -1,0 +1,74 @@
+[
+  {
+    "question_number": 2,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the compound shown in the first image.",
+    "answer": "NaSH"
+  },
+  {
+    "question_number": 2,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the compound shown in the second image.",
+    "answer": "NO$_2$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the compound shown in the third image.",
+    "answer": "OMe"
+  },
+  {
+    "question_number": 3,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the functional group shown in the first image.",
+    "answer": "OH"
+  },
+  {
+    "question_number": 3,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the functional group shown in the second image.",
+    "answer": "OH"
+  },
+  {
+    "question_number": 3,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the functional group shown in the third image.",
+    "answer": "OH"
+  },
+  {
+    "question_number": 9,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the compound shown in the first image.",
+    "answer": "NaSH"
+  },
+  {
+    "question_number": 9,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the compound shown in the second image.",
+    "answer": "NO$_2$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "visual_bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify the compound shown in the third image.",
+    "answer": "OMe"
+  }
+]

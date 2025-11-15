@@ -1,0 +1,470 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "If the frequency of a wave is multiplied by three, by what factor does its wavelength change?",
+    "choices": {
+      "W": "1/3",
+      "X": "1",
+      "Y": "3",
+      "Z": "9"
+    },
+    "answer": "W)"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the total mechanical energy of a pendulum that has a length of 5 meters on earth with maximum height of 10 meters and weight of 5 kilograms?",
+    "answer": "$490\\athrm{J}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What cytoskeletal element is the primary component of phragmoplasts?",
+    "answer": "MICROTUBULES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What motor protein is most often seen moving in the opposite direction of kinesin?",
+    "answer": "DYNEIN"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases has the weakest attractive forces between particles?",
+    "choices": {
+      "W": "CO2",
+      "X": "He",
+      "Y": "HCl",
+      "Z": "CO"
+    },
+    "answer": "X) He"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In TAE Buffer, which is commonly used to produce standard agarose gels, the T stands for Tris and the E stands for EDTA. What does the A stand for?",
+    "answer": "ACETATE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "If a black chicken and a white chicken mate and have offspring that are grey, what kind of dominance is shown?",
+    "answer": "INCOMPLETE DOMINANCE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A cell placed in a hypertonic solution will likely become which of the following?",
+    "choices": {
+      "W": "Plasmolyzed",
+      "X": "Flaccid",
+      "Y": "Turgid",
+      "Z": "Erect"
+    },
+    "answer": "PLASMOLYZED"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Compute the sum from $n$ equals 1 to infinity of $\\athrm{n} / 3^{\\edge}\\athrm{n}$",
+    "answer": "$\\rac{3}{4}$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Give by name or number all of the following 3 series that are convergent, given that for all series, $n$ varies across all positive integers: 1) $1 / \\athrm{n}^{2}$ 2) $1 / \\athrm{n}$ 3) $1 / \\athrm{n}\\n(\\athrm{n})$",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Diamonds have which of the following types of luster?",
+    "choices": {
+      "W": "Metallic",
+      "X": "Adamantine",
+      "Y": "Vitreous",
+      "Z": "Pearly"
+    },
+    "answer": "X) ADAMANTINE"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "If all of the following objects were in their most pure form which of them would be chemically the same as Limestone?",
+    "choices": {
+      "W": "Carbonados",
+      "X": "Pearls",
+      "Y": "Lava at the core of the earth",
+      "Z": "Lava at the surface of a volcano"
+    },
+    "answer": "X) PEARLS"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The integral of force with respect to time is commonly known as:",
+    "choices": {
+      "W": "Work",
+      "X": "Crackle",
+      "Y": "Kinetic Energy",
+      "Z": "Impulse"
+    },
+    "answer": "Z) IMPULSE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Helium is held in a glass bulb with a radius of $25\\athrm{cm}$ at 5 atmospheres and 200 degrees Celsius. If outside pressure is neglected, compute the rate of diffusion, in centimeters cubed per seconds, of helium to the outside rounded to two significant digits and in scientific notation, given that the bulb thickness is $0.1\\athrm{cm}$.",
+    "answer": "$3.9\\athrm{e} - 4\\athrm{cm}^3\\athrm{s}^{-1}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "The two hallmark proteins that are dysfunctional in Alzheimer's Disease include amyloid beta and what other protein?",
+    "choices": {
+      "W": "Zeta Protein",
+      "X": "Sigma Protein",
+      "Y": "Alpha Protein",
+      "Z": "Tau Protein"
+    },
+    "answer": "Z) TAU PROTEIN"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Testosterone and estradiol are male and female sex hormones, respectively, in many vertebrates. These molecules are similar in that they are:",
+    "choices": {
+      "W": "Structural isomers",
+      "X": "Cis-trans isomers",
+      "Y": "Both steroids",
+      "Z": "Enantiomers"
+    },
+    "answer": "Y) Both steroids"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Newton’s Second Law implies that force is the derivative with respect to time of a body’s what?",
+    "answer": "MOMENTUM"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Give by name or number all of the following 3 properties of a fluid that, according to the Bernoulli Principle, sum to a constant: 1) Kinetic Energy Per Unit Volume 2) pressure 3) temperature",
+    "answer": "1, 2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements about colloids is not true?",
+    "choices": {
+      "W": "The Tyndall effect is an effect that comes from the fact that colloids can reflect light.",
+      "X": "A stable emulsion requires an emulsifying agent to be present.",
+      "Y": "Foams are only the suspension of gas in a solid.",
+      "Z": "The properties of stained glasses can be explained by an aqueous suspension of metal clusters."
+    },
+    "answer": "Y) FOAMS ARE ONLY THE SUSPENSION OF GAS IN A SOLID."
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What equation is most commonly used to calculate the effect of temperature change on the vapor pressure of a substance?",
+    "answer": "CLAUSIUS-CLAPEYRON EQUATION"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to $2^{100}$?",
+    "choices": {
+      "W": "$10^{28}$",
+      "X": "$10^{29}$",
+      "Y": "$10^{30}$",
+      "Z": "$10^{31}$"
+    },
+    "answer": "Y) $10^{30}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Compute the largest positive integer that is a factor of 130000 which does not contain the digits 0 or 5.",
+    "answer": "26"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is not a silicate?",
+    "choices": {
+      "W": "Quartz",
+      "X": "Olivine",
+      "Y": "Mica",
+      "Z": "Dolomite"
+    },
+    "answer": "Z) DOLOMITE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Silicate minerals are classified into seven main groups based on the shape of the silicate cation. Name all of the following which would be classified as having a chain structure: I) Quartz II) Mica III) Amphibole",
+    "answer": "III ONLY"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following groups of plants belong to the class of monocots?",
+    "choices": {
+      "W": "beans",
+      "X": "seagrass",
+      "Y": "cacti",
+      "Z": "peanuts"
+    },
+    "answer": "X) SEAGRASS"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "List all of the following statements that are true about hormones: I) Insulin signals the breakdown of stored glucose in the liver II) HGH stimulates the release of cortisol III) ADH signals the kidneys to reabsorb water IV) Glucagon signals the uptake of glucose into the cell",
+    "answer": "III ONLY"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the solutions to the quadratic $\\athrm{x}^{2} + 2\\athrm{x} + 1$, counting double roots once?",
+    "answer": "$-1$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Compute the ratio of the infinite geometric series with starting term 1 and sum 9/7.",
+    "answer": "$\\rac{2}{9}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following electrical components are not present in RLC circuits. 1) Inductor 2) Capacitor 3) Resistor",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What equation is most commonly used to calculate the effect of temperature change on the vapor pressure of a substance?",
+    "answer": "CLAUSIUS-CLAPEYRON EQUATION"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What moon of Saturn is unlikely to harbor a liquid ocean due to its lack of geologic activity, and instead is thought to feature a football-shaped core?",
+    "answer": "MIMAS"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In which of the following would spaghettification most likely occur?",
+    "choices": {
+      "W": "An object travelling very fast through space, free from gravitational influence",
+      "X": "An object slowing down as it escapes the influence of a main sequence star",
+      "Y": "An object travelling into a white dwarf",
+      "Z": "An object currently in orbit around a black hole"
+    },
+    "answer": "Y) AN OBJECT TRAVELLING INTO A WHITE DWARF"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Steven is conducting a chemistry experiment. However, his only available solvent is benzene, in which sodium chloride is not soluble. Fortunately, a genie magically appears and allows Steven to wish for one of the following classes of compounds. What should he wish for to dissolve sodium chloride in benzene?",
+    "choices": {
+      "W": "lactones",
+      "X": "benzene derivatives",
+      "Y": "crown ethers",
+      "Z": "organic acids"
+    },
+    "answer": "Y) CROWN ETHERS"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Steven, as mentioned previously, wants to dissolve sodium chloride in benzene. Which of the following crown ethers best accomplishes this goal?",
+    "choices": {
+      "W": "12-crown-4",
+      "X": "15-crown-5",
+      "Y": "18-crown-6",
+      "Z": "dibenzo-18-crown-6"
+    },
+    "answer": "X) 15-CROWN-5"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the limit of $(x^{2} + 5x + 6) / (x^{2} + 4x + 3)$ as $x$ approaches -3.",
+    "answer": "$\\rac{1}{2}$"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the sum of all positive rational numbers that are less than 1 and that have denominator of 20 when written in lowest terms.",
+    "answer": "4"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following quantum numbers is associated with the angular momentum of an electron?",
+    "choices": {
+      "W": "principal",
+      "X": "azimuthal",
+      "Y": "magnetic",
+      "Z": "spin"
+    },
+    "answer": "X) AZIMUTHAL"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following liquids is not correctly matched with its vapor pressure at 25 degrees C?",
+    "choices": {
+      "W": "water, 1000 torr",
+      "X": "mercury, 0.0017 torr",
+      "Y": "ethanol, 58.9 torr",
+      "Z": "ethane, 7095 torr"
+    },
+    "answer": "W) WATER, 1000 TORR"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "If the charge stored in a 10 farad capacitor is equal to 2000J then what will the electric potential across the capacitor be in Volts?",
+    "answer": "20 VOLTS"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the maximum energy in joules a capacitor can store if the voltage is 3V and Capacitance is 9 microfarads?",
+    "answer": "40.5 J"
+  },
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "For how many integer values of $n$ is $100*(2 / 3)^n$ the value of an integer?",
+    "choices": {
+      "W": "Infinitely many",
+      "X": "0",
+      "Y": "2",
+      "Z": "3"
+    },
+    "answer": "Z) 3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Calculate the volume of a gas sample at 3 atmospheres in cubic meters when the volume of the same sample is 6 cubic meters at 1 atmosphere.",
+    "answer": "18"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What type of innate immune cell is responsible for killing tumor cells and cells infected by viruses?",
+    "answer": "Natural Killer Cell"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number identify all of the following four objects that are considered to be moons of Pluto: 1) Charon 2) Makemake 3) Amalthea 4) Dione",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the most stable cycloalkane and what conformation of said cycloalkane is the most stable?",
+    "answer": "Cyclohexane and Chair Conformation"
+  }
+]

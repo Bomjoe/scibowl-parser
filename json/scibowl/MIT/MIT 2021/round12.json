@@ -1,0 +1,454 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Multiparticle systems have composite states that are specified using what operation between each individual particle's wavefunction?",
+    "answer": "$\\text{Tensor product}$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What quasiparticles are sometimes described as atoms without nuclei, and are bound states of an electron and positron?",
+    "answer": "$\\text{Positronium}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Kavli Institute at MIT are studying metal-poor halo stars in ultra faint dwarf galaxies. In particular, they are approximating the amount of metal-poor halo stars formed from what type of high energy neutron capture responsible for roughly fifty percent of heavy element formation?",
+    "answer": "$r$ - process (ACCEPT: rapid neutron capture)"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Kavli Institute at MIT are studying X-Ray Fluorescence in accreting Black Holes. In particular, they are looking at what variation of accretion which has characteristic thick disks and extreme radiation pressure?",
+    "answer": "$\\text{Super-Eddington accretion}$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the intestine, the mucus-secreting goblet cells are found in what specific depressions of the epithelium which are located between villi?",
+    "answer": "$\\text{Crypts of Lieberkuhn}$ (accept: Intestinal Crypts)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three sensory processes that are known to involve G-protein coupled receptors: 1) Hearing along the basilar membrane 2) Tasting spicy food in the tongue 3) Vision mediated by the pigment rhodopsin",
+    "answer": "3 only"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Suppose that the eccentricity of a conic section with equation $y^{2} = a x^{2} + b x + c$ is 0.75. Which of the following inequalities must be true?",
+    "choices": {
+      "W": "$a< 0$",
+      "X": "$b< 2a + c$",
+      "Y": "$c > \\qrt{a / b}$",
+      "Z": "$a^{2} > 2b c$"
+    },
+    "answer": "W) $a< 0$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The solutions to the equation $x^{4} + x^{3} + x + 1 = 0$ are graphed on the complex plane. What is the area of the convex polygon bounded by those points?",
+    "choices": {
+      "W": "$\\qrt{3} /4$",
+      "X": "$\\qrt{3} /2$",
+      "Y": "$3\\qrt{3} /4$",
+      "Z": "$\\qrt{3}$"
+    },
+    "answer": "Y) $3\\qrt{3} /4$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In organisalines, the silicon group is very good at stabilizing a positive charge on a beta carbon atom. Which of the following statements best explains this phenomenon?",
+    "choices": {
+      "W": "There is three center two electron bonding between the silicon atom, alpha carbon, and beta carbon",
+      "X": "The carbon-silicon sigma bonding orbital can interact with the empty carbocation $p$ orbital in a hyperconjugation interaction",
+      "Y": "The carbocation is resonance stabilized",
+      "Z": "The empty orbital on the carbocation gains bonding character"
+    },
+    "answer": "X) The carbon- silicon sigma bonding orbital can interact with the empty carbocation $p$ orbital in a hyperconjugation interaction"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider the reaction that occurs when tertbutyl bromide is placed in aqueous solutions of varying pH from 0 to 14. By name or number, identify all of the following three statements that are true: 1) The ratio of tertbutyl alcohol to isobutylene in the products is largest at pH 0 2) The reaction has a primary kinetic isotope effect only at low pH 3) The plot of the logarithm of the observed rate constant as a function of pH in the range from 0 to 14 is linear",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following locations is most likely to have a semidiurnal tidal pattern?",
+    "choices": {
+      "W": "Gulf of Mexico",
+      "X": "Atlantic coast of North America",
+      "Y": "Pacific coast of North America",
+      "Z": "Southeast Asia"
+    },
+    "answer": "X) Atlantic coast of North America"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What erosional feature forms in deserts when abrasion and deflation streamline bedrock?",
+    "answer": "$\\text{Yardang}$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of all single digit integers $n$ such that the product of their factors is $n^2$ ?",
+    "answer": "15"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A function is convex if what matrix, which contains mixed second order partial derivatives, is positive semi-definite?",
+    "answer": "$\\text{Hessian}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "In the nucleus of an atom, the strong force which that holds the nucleons together is mediated by what meson?",
+    "answer": "$\\text{Pion}$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three interactions that are accounted for in the fine structure of a hydrogen atom: 1) Relativistic correction 2) Spin-orbit coupling 3) Darwin term",
+    "answer": "1, 2, 3 (accept: all)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for the intermediate, partially folded protein state that is in between the unfolded and native states?",
+    "answer": "$\\text{Molten globule}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By nme or number, identify all of the following three statements that are true regarding efficiency, data collection, and population modeling for different species? 1) Ecological efficiency may be given as the product of production efficiency, assimilation efficiency, and exploitation efficiency 2) The release and wait method of sampling is an alternative to the mark and recapture method 3) The Lotka-Volterra Equations may be used to represent relationships between two different species",
+    "answer": "1, 2, 3 (accept: all)"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers in the Lourido group are investigating calcium-dependent protein kinases, or CDPKs, in parasites. Specifically, the group studies the role of these CDPKs in the lytic cycle of Toxoplasma gondii. What is the phylum of Toxoplasma gondii?",
+    "answer": "$\\text{Apicomplexa}$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "The Lourido group is also involved in engineering the genome of Toxoplasma gondii with CRISPR/Cas9 technology, which recognizes a PAM site in the genome. What is the 3-letter nucleotide sequence from 5' to 3' that the most commonly used Cas9, derived from Streptococcus pyogenes (STREP-toh-coc-cus py-AW-je-neez), recognizes?",
+    "answer": "$\\text{NGG}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "A halogen bond forms when there is a net attractive interaction between an electrophilic region of a halogen atom on a molecule with a nucleophilic species. Which of the following compounds is most likely to form the strongest halogen bond?",
+    "choices": {
+      "W": "Methyl iodide",
+      "X": "Methyl bromide",
+      "Y": "1-iodo-2-phenyl acetylene",
+      "Z": "Phenyl iodide"
+    },
+    "answer": "Y) 1-iodo-2-phenyl acetylene"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three statements which are true of carbenes. 1) Singlet carbenes have a larger bond angle compared to triplet carbenes. 2) The presence of electron donating groups adjacent to the carbene will cause the carbene to favor the singlet state 3) The diphenyl carbene favors the singlet state over the triplet state",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What rare type of galaxy is thought to have formed from the impact of a smaller galaxy at its center, pushing most of its material to the outer edges?",
+    "answer": "$\\text{Ring galaxy}$"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following three locations where one could observe Lindblad Resonances: 1) Spiral arms of the Milky Way 2) Rings of Saturn 3) Kuiper belt",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following test statistics would be most appropriate for a small experiment that tracks changes in student performance by comparing their scores on two exams before and after a treatment?",
+    "choices": {
+      "W": "Chi-square statistic",
+      "X": "F-statistic",
+      "Y": "T-score",
+      "Z": "Z-score"
+    },
+    "answer": "Y) T-score"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Triangle $ABC$ has a right angle at $C$ , and a square $CDEF$ is inscribed inside the triangle so that $D$ lies on side $AC$ , $E$ lies on side $AB$ , and $F$ lies on side $BC$ . If $AC = 5$ and $BC = 12$ , then what is the length of $AD$ ?",
+    "answer": "$25/17$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What idealized thermodynamic cycle, which is used to model combustion engines, consists of two isochoric and two adiabatic steps?",
+    "answer": "$\\text{Otto cycle}$"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A regular pendulum can be modified to swivel freely about two degrees of freedom, and is often used by artists to paint. The kinetic energy slowly shifts from one axis to another in a sinusoidal pattern. What is the name of the curve that such systems trace out?",
+    "answer": "$\\text{Lissajous Curve}$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at MIT are studying synthetic analogues for the fixation of dinitrogen with iron-sulfur complexes using IR spectroscopy. By name or number, order the following three bonds in order from least to greatest vibrational frequency in the IR spectrum. 1) Iron-nitrogen single bond 2) Iron-sulfur single bond 3) Iron-iron single bond",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at MIT are studying the binding of dinitrogen to iron-sulfur clusters. The mechanism of the fixation of dinitrogen proceeds first by the nitrogen molecule bonding to the iron sulfur complex. By name or number, identify all of the following three statements about such clusters that are true: 1) The dinitrogen bond is weakened due an orbital interaction with the nitrogen-nitrogen sigma-star orbital 2) The iron $d_{z^{2}}$ (read: dee-zee-squared) orbital engages in pi bonding with dinitrogen 3) Electron poor iron sulfur clusters are more effective at nitrogen fixation",
+    "answer": "None of them"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is the main reason why 13C NMR peaks cannot be reliably integrated?",
+    "choices": {
+      "W": "13C is present in too low abundance",
+      "X": "The relaxation rate of 13C is too slow",
+      "Y": "The coupling constants from nearby atoms are too large for a consistent integration",
+      "Z": "The signal to noise ratio is too low"
+    },
+    "answer": "X) The relaxation rate of 13C is too slow"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Victoria is studying the proton NMR spectrum of trans-1-bromo-1-butene. Which of the following should she expect to observe in the region with ppm shift from 5 to 7?",
+    "choices": {
+      "W": "One symmetric doublet upfield of a symmetric doublet of triplets",
+      "X": "One asymmetric doublet upfield of an asymmetric doublet of triplets",
+      "Y": "One symmetric doublet downfield of a symmetric doublet of triplets",
+      "Z": "One asymmetric doublet downfield of an asymmetric doublet of triplets"
+    },
+    "answer": "Z) One asymmetric doublet downfield of an asymmetric doublet of triplets"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following metrics of humidity does not depend on the air pressure?",
+    "choices": {
+      "W": "mixing ratio",
+      "X": "relative humidity",
+      "Y": "dew-point temperature",
+      "Z": "wet-bulb temperature"
+    },
+    "answer": "W) mixing ratio"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What hypothesis, an alternative to dark matter, resolves discrepancies in the observed properties of galaxies by proposing that the gravitational force of outer regions of a galaxy are proportional to the centripetal acceleration squared?",
+    "answer": "$\\text{Modified Newtonian dynamics}$ (accept: MOND)"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "At what timepoint in transcription is the 5' cap added onto mRNA?",
+    "choices": {
+      "W": "Approximately 25 bp into transcription",
+      "X": "Approximately 25 bp before termination",
+      "Y": "After RNA polymerase releases the DNA",
+      "Z": "After introns are spliced out"
+    },
+    "answer": "W) Approximately 25 bp into transcription"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following four snRNAs that make up the triple snRNP (sncrp) formed in RNA splicing: 1) U3 2) U4 3) U5 4) U6",
+    "answer": "2, 3, 4"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following locations on the H-R diagram would one find a Mira variable star?",
+    "choices": {
+      "W": "Horizontal Branch",
+      "X": "Asymptotic Giant Branch",
+      "Y": "Instability Strip",
+      "Z": "Subgiant Branch"
+    },
+    "answer": "X) Asymptotic Giant Branch"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What mechanism encompasses the changing opacities in variable stars which contribute to their pulsating effect?",
+    "answer": "$\\text{Kappa-mechanism}$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "The nitrate of a metal ion is dissolved in water to give a pink solution. The addition of hydrochloric acid turns the solution blue. What is the most likely identity of the metal ion?",
+    "choices": {
+      "W": "Manganese (II)",
+      "X": "Copper (II)",
+      "Y": "Cobalt (II)",
+      "Z": "Iron (II)"
+    },
+    "answer": "Y) Cobalt (II)"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, rank the following three chemicals from least to greatest oxygen-oxygen bond length: 1) Sodium peroxide 2) Hydrogen peroxide 3) Dioxygen difluoride",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the transpose of the following matrix product: $A^{T}B^{T}C$ (read: A transpose times $B$ transpose times $C$ )",
+    "answer": "$C^{T}B A$"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "What is the definite integral of the fraction with numerator $\\in (x)dx$ and denominator $1 + \\os (x)$ from 0 to $\\i / 2$ ?",
+    "choices": {
+      "W": "1",
+      "X": "$\\n (2)$",
+      "Y": "$\\n (3)$",
+      "Z": "$2\\n (2)$"
+    },
+    "answer": "X) $\\n (2)$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What drug against HIV acts as a thymine analog by inhibiting reverse transcriptase?",
+    "answer": "$\\text{AZT}$ (accept: azidothymidine)"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following cell receptors that the HIV protein gp120 directly or indirectly binds to: 1) CCR5 2) CD4 3) CXCR4",
+    "answer": "1, 2, 3 (accept: all)"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following regions of a field effect transistor is analogous to the base of a bipolar junction transistor?",
+    "choices": {
+      "W": "Emitter",
+      "X": "Gate",
+      "Y": "Source",
+      "Z": "Drain"
+    },
+    "answer": "X) Gate"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Wendy is determining the critical temperature for superconductivity in various isotopes of an element. She plots the log of the critical temperature on the y-axis and the log of the isotope's mass on the x-axis. According to the isotope effect, as a decimal to the nearest tenth, what is the expected slope of this plot?",
+    "answer": "$- 0.5$"
+  }
+]

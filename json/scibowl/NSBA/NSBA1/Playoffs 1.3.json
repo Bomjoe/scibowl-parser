@@ -1,0 +1,226 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An electron beam is directed in the positive y direction. If a magnetic field is applied in the negative x direction, in what direction will the beam be deflected?",
+    "choices": {
+      "W": "Positive x",
+      "X": "Negative y",
+      "Y": "Positive z",
+      "Z": "Negative z"
+    },
+    "answer": "$Z$"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "To an observer at rest, a particle is moving at 0.28c. What is the ratio of the particle's energy to its rest mass in terms of c?",
+    "answer": "$25/24$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "In an interrupted mating experiment between an Hfr cell and an F- cell, which of the following describes the most probable resulting statuses of the two cells?",
+    "choices": {
+      "W": "F+ and F-",
+      "X": "Hfr and F+",
+      "Y": "Hfr and Hfr",
+      "Z": "Hfr and F-"
+    },
+    "answer": "$Z$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the effective population size of a population containing 420 peacocks and 210 peahens where all individuals are breeding?",
+    "answer": "$560$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Suppose a function satisfies the equation $f(x + y) = f(x) + f(y)$ for all real numbers x and y. Which of the following statements must be true about the function f?",
+    "choices": {
+      "W": "f(x) is linear",
+      "X": "f(x) is continuous",
+      "Y": "f(x) is monotonous",
+      "Z": "f(x) has a root at $x = 0$"
+    },
+    "answer": "$Z$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the limit as n goes to infinity of the fraction with numerator the n-th root of n! (n factorial) and denominator n.",
+    "answer": "$1/e$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is NOT true regarding roche moutonnées?",
+    "choices": {
+      "W": "Plucking occurs on the lee side",
+      "X": "Abrasion occurs on the stoss side",
+      "Y": "The less steep side of roche moutonnées dips towards the direction of glacial movement",
+      "Z": "Roche moutonnées are strictly erosional structures"
+    },
+    "answer": "$Y$"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following phyllosilicates is commonly known as magnesium mica?",
+    "choices": {
+      "W": "Annie",
+      "X": "Phlogopite",
+      "Y": "Siderophyllite",
+      "Z": "Muscovite"
+    },
+    "answer": "$X$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following amino acids is best able to function as a hydrogen bond acceptor under normal bodily conditions?",
+    "choices": {
+      "W": "Tyrosine",
+      "X": "Valine",
+      "Y": "Methionine",
+      "Z": "Isoleucine"
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Consider a beaker containing a saturated solution of silver sulfide, with some solid remaining at the bottom. Identify all of the following 3 changes to the system that would allow more silver sulfide to be dissolved: 1) Addition of ammonia; 2) Addition of sodium hydroxide; 3) Addition of more solid silver sulfide.",
+    "answer": "$1$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers probably sometimes use programming languages? Identify all of the following four languages that are statically typed: 1) C++; 2) Java; 3) Javascript; 4) Python.",
+    "answer": "$1$ AND $2$"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Ames National Lab are using X-ray crystallography to study the structure of the small peptide pro-opiomelanocortin, or POMC. Identify all of the following 3 hormones that are derived from POMC: 1) ACTH; 2) Thyroxine; 3) MSH.",
+    "answer": "$1$ AND $3$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A compound machine is made from the combination of a lever with efficiency 0.8 and a screw with efficiency 0.6. If 100 Joules of work is inputted into the system, how much work will be lost to external forces?",
+    "answer": "$52$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A bouncy ball is dropped from a height of 3 meters. Each time it bounces, it loses a third of its kinetic energy. What is the total vertical distance it will travel before it comes to rest?",
+    "answer": "$9$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following describes the difference in the number of action potentials and the location of peak basilar membrane vibration of a 60 decibel, 400 Hz tone compared to a 100 decibel, 200 Hz tone?",
+    "choices": {
+      "W": "Fewer action potentials, closer to the oval window",
+      "X": "Fewer action potentials, further from the oval window",
+      "Y": "More action potentials, closer to the oval window",
+      "Z": "More action potentials, further from the oval window"
+    },
+    "answer": "$W$"
+  },
+  {
+    "question_number": 8,
+    "question_type": "visual_bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In an experiment, a root was grown in a medium containing radioactively labeled thymidine for one day. Answer the following two questions regarding the image from the experiment: 1) Which canonical root zone is shown in the image: the zone of maturation, elongation, or cell division? 2) What is the term given to the oval-shaped region outlined in the center of the image?",
+    "answer": "$1)$ ZONE OF CELL DIVISION; $2)$ QUIESCENT CENTER$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Joe has 8 flexible bars of unit length. What is the area of the largest possible region he can enclose with these bars?",
+    "answer": "$16/\\i$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The Pell numbers are defined by $P_0 = 0$, $P_1 = 1$, and $P_n = 2P_{n-1} + P_{n-2}$. As $n$ approaches infinity, what is the limit of the ratio of $P_{n+1}$ to $P_n$?",
+    "answer": "$\\qrt{2} + 1$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 clastic rock types in terms of increasing quartz to clay ratio: 1) Quartz arenite; 2) Greywacke; 3) Siltstone.",
+    "answer": "$3, 2, 1$"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "To one significant figure and in scientific notation, what is the radius of the innermost stable circular orbit of a massive particle around a nonrotating black hole with mass $9 \\times 10^{24}$ kilograms?",
+    "answer": "$4 \\times 10^{-2}$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is correct regarding the selectivity of the Diels-Alder reaction?",
+    "choices": {
+      "W": "The endo product is both thermodynamically and kinetically favored",
+      "X": "The exo product is both thermodynamically and kinetically favored",
+      "Y": "The endo product is thermodynamically favored while the exo product is kinetically favored",
+      "Z": "The exo product is thermodynamically favored while the endo product is kinetically favored"
+    },
+    "answer": "$Z$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When calculating lattice energy, what material-specific constant accounts for the arrangement of ions in the lattice?",
+    "answer": "$\\text{Madelung constant}$"
+  }
+]

@@ -1,0 +1,508 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What phylum of deuterostomes is generally considered the sister phylum of echinoderms and contains acorn worms?",
+    "answer": "HEMICHORDATA"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A sea cucumber can most commonly be classified as which of the following kinds of hermaphrodites?",
+    "choices": {
+      "W": "Sequential hermaphrodites",
+      "X": "Simultaneous hermaphrodites",
+      "Y": "Bidirectional sex changers",
+      "Z": "Sea cucumbers are not usually hermaphrodites"
+    },
+    "answer": "Z) SEA CUCUMBERS ARE NOT USUALLY HERMAPHRODITES"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following solvents would be the best for use in thin-layer chromatography of benzoic acid?",
+    "choices": {
+      "W": "Acetone",
+      "X": "Ethanol",
+      "Y": "Hexane",
+      "Z": "Methylene chloride"
+    },
+    "answer": "X) ETHANOL"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following four stationary phases in increasing order of adsorbance in thin-layer chromatography:1) alumina2) charcoal3) florisil4) silica",
+    "answer": "SILICA, FLORISIL, CHARCOAL, ALUMINA (ACCEPT:4,3,2,1)"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A circuit has an infinite number of capacitors in series. If the capacitance of each capacitor is twice the capacitance of the previous, and the first capacitor has capacitance $C$, what is the equivalent capacitance in the circuit in terms of $C$?",
+    "answer": "C/2"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A series RLC circuit has a Q-factor of5. Using the same resistor, inductor, and capacitor, what would the Q-factor be of a parallel RLC circuit if the resistor has resistance5 ohms?",
+    "answer": "1"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is true about infinite series?",
+    "choices": {
+      "W": "Infinite series must converge if the limit of the sequence approaches zero at infinity",
+      "X": "If the ratio of consecutive terms approaches1 at infinity, the sequence diverges",
+      "Y": "If the difference between consecutive terms does not approach zero, the series must diverge",
+      "Z": "If a series is divergent, there exists an infinite subsequence that is convergent"
+    },
+    "answer": "Y) IF THE DIFFERENCE BETWEEN CONSECUTIVE TERMS DOES NOT APPROACH ZERO, THE SERIES MUST DIVERGE"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Evaluate the sum from $\\athrm{i} =1$ to35 of $1 / (\\qrt{\\quare} +7 + \\qrt{\\quare})$",
+    "answer": "5"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "How would lava with $65\\$ silica be classified?",
+    "choices": {
+      "W": "Andesitic",
+      "X": "Felsic",
+      "Y": "Mafic",
+      "Z": "Ultrafelsic"
+    },
+    "answer": "X) FELSIC"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In a volcanic eruption, there was one big explosion and then pyroclastic flows down the side of the volcano. Which of the following most accurately classifies the eruption?",
+    "choices": {
+      "W": "Hawaiian",
+      "X": "Peléan",
+      "Y": "Plinian",
+      "Z": "Vulcanian"
+    },
+    "answer": "X) PELÉAN"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at the University of Chicago are studying the evolutionary biology of plants. During which period did angiosperms evolve?",
+    "answer": "CRETACEOUS"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Researchers at Argonne National Lab are studying fossilized plants and plant resins. Which of the following comparisons between copal and amber is correct?",
+    "choices": {
+      "W": "Amber has a hardness of around2.5 on the Mohs scale while copal only has a hardness of1.5",
+      "X": "Copal formed early in geologic time than amber",
+      "Y": "Amber melts faster than copal and gives off a pine-like scent when doing so",
+      "Z": "Copal floats in saltwater unlike Amber, which sinks, especially if the solution is mixed with some plastic"
+    },
+    "answer": "W) AMBER HAS A HARDNESS OF AROUND2.5 ON THE MOHS SCALE WHILE COPAL ONLY HAS A HARDNESS OF1.5"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following does adenine most commonly deaminate into?",
+    "choices": {
+      "W": "Uracil",
+      "X": "Xanthine",
+      "Y": "Hypoxanthine",
+      "Z": "Nothing"
+    },
+    "answer": "Y) HYPOXANTHINE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What term describes the structural motif that arises from two strands of DNA being held apart by a strand of RNA?",
+    "answer": "R-LOOP"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "In IR spectroscopy, free carboxylic acids should hypothetically absorb at around1760 inverse centimeters. However, most commonly encountered samples of carboxylic acid absorb closer to1710 inverse centimeters. Which of the following best explains this phenomenon?",
+    "choices": {
+      "W": "Most carboxylic acids are part of conjugated pi systems",
+      "X": "Most carboxylic acids are part of aromatic pi systems",
+      "Y": "Most carboxylic acids experience significant hydrogen bonding",
+      "Z": "Most carboxylic acids experience significant interactions with their solvents"
+    },
+    "answer": "Y) MOST CARBOXYLIC ACIDS EXPERIENCE SIGNIFICANT HYDROGEN BONDING"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "One common method of creating proteins from amino acids in the lab is through treatment with dicyclohexylcarbodiimide, or DCC. Along with peptide chains and water, what product is formed when glycine is reacted with DCC?",
+    "answer": "DICYCLOHEXYLUREA"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A pendulum undergoes overdamped harmonic oscillation. Which of the following could describe the displacement graph with respect to time?",
+    "choices": {
+      "W": "Exponential",
+      "X": "Cycloid",
+      "Y": "Hyperbolic",
+      "Z": "Sinusoidal"
+    },
+    "answer": "W) EXPONENTIAL"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Brandon wants to move a heavy mass. Which of the following would decrease the amount of force he needs to exert the most?",
+    "choices": {
+      "W": "A fixed pulley pulling with2 ropes",
+      "X": "A fixed pulley pulling with4 ropes",
+      "Y": "A compound pulley pulling with2 ropes",
+      "Z": "A third class lever"
+    },
+    "answer": "Y) A COMPOUND PULLEY PULLING WITH2 ROPES"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following3 statements that are true about the taxicab distance:1) The taxicab distance is always greater than the Euclidean distance;2) The taxicab distance is always an integer;3) The taxicab distance is always positive.",
+    "answer": "NONE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A taxicab starts at the origin and moves with equal probability one unit to the left, right, up, or down. What is its expected taxicab distance from the origin after2 moves?",
+    "answer": "3/2"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the minimum mass required to undergo a Type II supernova?",
+    "choices": {
+      "W": "2 solar masses",
+      "X": "4 solar masses",
+      "Y": "6 solar masses",
+      "Z": "8 solar masses"
+    },
+    "answer": "Z)8 SOLAR MASSES"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "The Cygnus Loop is what type of supernova remnant?",
+    "choices": {
+      "W": "Shell-like",
+      "X": "Composite",
+      "Y": "Mixed morphology",
+      "Z": "Thermal composite"
+    },
+    "answer": "W) SHELL-LIKE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following terms best describes strawberry runners?",
+    "choices": {
+      "W": "Stolons",
+      "X": "Corms",
+      "Y": "Rhizomes",
+      "Z": "Tubers"
+    },
+    "answer": "W"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following3 stele types found in vascular plants based on increasing leaf gap abundance:1) Protostele;2) Eustele;3) Siphonostele.",
+    "answer": "1,2,3"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Lab are studying Lagrangian mechanics. Lagrangian mechanics are fundamentally based on what principle?",
+    "answer": "PRINCIPLE OF LEAST ACTION"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Brookhaven National Lab are studying computationally efficient ways to solve the Euler-Lagrange equation. The Euler-Lagrange equation is central to what field of mathematical analysis?",
+    "answer": "CALCULUS OF VARIATIONS"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, identify all of the following4 types of bonds which are found in boranes, a general class of compounds with chemical formula $B_xH_y$:1)2-center2-electrons;2)3-center-2-electrons;3) Sigma3-center-4-electrons;4) Pi3-center-4-electrons.",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Pentaborane11, with chemical formula $B_5H_{11}$, is classified as which of the following types of borane clusters?",
+    "choices": {
+      "W": "Arachno",
+      "X": "Closo",
+      "Y": "Hypho",
+      "Z": "Nido"
+    },
+    "answer": "W) ARACHNO"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following3 objects in increasing order by the time it takes to roll down a ramp without slipping if they have the same mass:1) Disk with radius2;2) Sphere with radius1;3) Rod with length4.",
+    "answer": "3,2,1"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The rotational inertia about the z-axis of a uniform rod of mass $M$ and length $L$ set along the x-axis, with one end on the origin, is $\\rac{1}{3}ML^2$. What is the moment of inertia of a rod of mass3 kg and length4 meters about an axis parallel to the z-axis passing through the middle of the rod?",
+    "answer": "4"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of these statements is FALSE about simple, connected planar graphs?",
+    "choices": {
+      "W": "They can be vertex-colored using5 colors",
+      "X": "They must not contain the complete graph $\\athbf{K}_5$",
+      "Y": "The amount of edges is less than or equal to3 times the amount of vertices",
+      "Z": "All vertices must have degree less than6"
+    },
+    "answer": "Z) ALL VERTICES MUST HAVE DEGREE LESS THAN6"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many edges must be removed from $\\athbf{K}_6$, the complete graph on six vertices to leave a graph without any copies of $\\athbf{K}_4$, the complete graph on four vertices?",
+    "answer": "3"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following kinds of moraines is the most common?",
+    "choices": {
+      "W": "Ground Moraine",
+      "X": "Lateral Moraine",
+      "Y": "Medial Moraine",
+      "Z": "Terminal Moraine"
+    },
+    "answer": "W) GROUND MORAINE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following minerals lacks cleavage?",
+    "choices": {
+      "W": "Olivine",
+      "X": "Epidote",
+      "Y": "Staurolite",
+      "Z": "Sodalite"
+    },
+    "answer": "W) OLIVINE"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Idaho National Labs are studying how to implement solar energy in the US. By name or number, order the following4 layers from furthest to exposed sunlight to closest to exposed sunlight in a solar panel:1) Silicon layer;2) N type semiconductor;3) P type semiconductor.",
+    "answer": "3,1,2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Lawrence Berkeley National Lab are studying how to shorten methane’s lifespan in the atmosphere. By name or number, identify all of the following3 greenhouse gases that have a Global Warming Potential less than that of methane:1) Water;2) Carbon Dioxide;3) Nitrous Oxide.",
+    "answer": "1 AND2"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following animals would produce the highest urine/plasma ratio?",
+    "choices": {
+      "W": "Salmon",
+      "X": "Salamander",
+      "Y": "Kangaroo rat",
+      "Z": "Ostrich"
+    },
+    "answer": "Y) KANGAROO RAT"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following neurotransmitters mimics the effects of the neurotransmitter glutamate in regards to synaptic plasticity?",
+    "choices": {
+      "W": "TRPV1",
+      "X": "NMDA",
+      "Y": "P2X",
+      "Z": "GABA"
+    },
+    "answer": "X) NMDA"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following three measures of speed for a sample of gas particles from least to greatest:1) Average;2) Root mean square;3) Most common.",
+    "answer": "3,1,2"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the value of $X$ given that half of the particles in a sample of gas are moving at a speed between0 and $X$ times the square root of the quantity $RT$ over $M$?",
+    "choices": {
+      "W": "1.4",
+      "X": "1.5",
+      "Y": "1.6",
+      "Z": "1.7"
+    },
+    "answer": "Y)1.6"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Two initially uncharged conductors are mounted on insulating stands. A negatively charged rod is brought near the conductors but does not touch them. With the rod held in place, conductor2 is moved to the right so that the conductors are separated. What is the charge on conductor2?",
+    "choices": {
+      "W": "Positive",
+      "X": "Negative",
+      "Y": "Zero",
+      "Z": "Indeterminate"
+    },
+    "answer": "X) NEGATIVE"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A negatively charged rod is brought near, but does not touch, an initially uncharged electroscope. With the rod in place, a finger touches the electroscope. When the finger and the rod are removed, what is the charge on the leaves of the electroscope?",
+    "choices": {
+      "W": "Positive",
+      "X": "Negative",
+      "Y": "Zero",
+      "Z": "Indeterminate"
+    },
+    "answer": "W) POSITIVE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Given that the areas of the faces of a rectangular prism are6,8, and12, what is the volume of the rectangular prism?",
+    "answer": "24"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A plane cuts a cube with side length6 and splits it into two parts. Given that one of the parts is a triangular pyramid, find the maximum possible value of the volume of the triangular pyramid.",
+    "answer": "36"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "By name or number, order the following four astronomical bodies in increasing order of energy per photon emitted:1) crab pulsar,2) quasar3C273,3) Betelgeuse,4) Rigel.",
+    "answer": "2,3,4,1"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Due to the high penetration of x-rays, the Chandra X-Ray Observatory makes use of which of the following types of mirrors?",
+    "choices": {
+      "W": "Spherical",
+      "X": "Parabolic",
+      "Y": "Hyperbolic",
+      "Z": "Planar"
+    },
+    "answer": "X) PARABOLIC"
+  }
+]

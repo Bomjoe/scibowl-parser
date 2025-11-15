@@ -1,0 +1,450 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The large impact hypothesis describes the collision of which planetesimal into the Earth to form the moon?",
+    "answer": "THEIA"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Hubble's constant is empirical, but is not accurate for many extraterrestrial objects such as quasars. What phenomenon was not accounted for which creates this error?",
+    "choices": {
+      "W": "Time dilation",
+      "X": "Gravitational lensing",
+      "Y": "Interstellar reddening",
+      "Z": "Length contraction"
+    },
+    "answer": "W) TIME DILATION"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Tanmay emits electromagnetic radiation from a point source in a wide field. If the intensity of the radiation 5 meters from the point source is 12 watts per square meter, what is the intensity 10 meters from the point source?",
+    "answer": "3"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Einstein was inspired to create his theory of special relativity after observing that which of the following laws was invariant not under Galilean transformations, but under Lorentz transformations?",
+    "choices": {
+      "W": "Newton's law of gravitation",
+      "X": "Newton's laws of motion",
+      "Y": "Schrodinger's equation",
+      "Z": "Maxwell's equations"
+    },
+    "answer": "Z) MAXWELL'S EQUATIONS"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the remainder when the polynomial $x^{3} + 1$ is divided by the polynomial $x^{2} - 1$?",
+    "answer": "$x + 1$"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "The centers of the six faces of a cube are connected to form an octahedron. What is the ratio of the volume of the octahedron to the volume of the cube?",
+    "answer": "1/6"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Researchers at Los Alamos National Lab used the Hubble Space Telescope to measure the albedos of solar system objects. Due to anisotropic backscattering, what object in the solar system is observed to have an albedo greater than one?",
+    "answer": "ENCFI.ADUS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Berkeley National Labs used fluorescence in situ hybridization or FISH to determine the genetic composition of sperms exposed to mutagen. Identify all of the following three statements that are true about FISH: 1) It can be used to detect differential gene expression in organisms; 2) It can be used to determine where enhancers are; 3) Fluorescent probes are attached to the nucleic acid probe.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Parthenogenesis in animals is analogous to what process in plants whereby an unfertilized seed develops into a new flower?",
+    "answer": "APOMIXIS"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Order the following 4 layers of a secondary growth tree from innermost to outermost 1) Secondary Phloem [flow-em]; 2) Secondary Xylem [xylem]; 3) Cork Cambium; 4) Phelloderm",
+    "answer": "2,1,4,3"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three ionic compounds that have a greater lattice energy than magnesium oxide: 1) Aluminum chloride; 2) Magnesium sulfide; 3) Beryllium oxide.",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Formaldehyde trimerizes in aqueous solution with a yield of $90\\$, with the remaining formaldehyde dimerizing with a yield of $50\\$. What is the Van't Hoff factor of formaldehyde in aqueous solution?",
+    "answer": "3/8"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Early RNA formation may have been catalyzed by what soft type of clay which significantly expands when absorbing water?",
+    "answer": "MONTMORILLONITE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 statements that are true concerning clays. 1) Clays are all sheet silicates; 2) Clays can act as aquitards; 3) Clays have high porosities.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A sphere is spinning along an axis through its diameter with a constant angular velocity. Upon significant heating, the diameter of the sphere expands by $50\\$ while conserving its mass. By what factor is the rotational kinetic energy of the spinning sphere changed along the same axis?",
+    "answer": "4/9"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A particle with mass 3 kilograms is located at the point (3,6). A second particle with mass 6 kilograms creates a two-particle system with the first particle with a center of mass at the point (-1,4). What are the coordinates of the second particle?",
+    "answer": "(-3,3)"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "The cube of an integer is divided by 7, and the remainder is taken. Which of the following could be the value of this remainder?",
+    "choices": {
+      "W": "3",
+      "X": "4",
+      "Y": "5",
+      "Z": "6"
+    },
+    "answer": "Z) 6"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Five members of a Science Bowl team are sitting around a table. Each flips a fair coin. What is the probability that three consecutive members flip heads?",
+    "answer": "11/32"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Lawrence Livermore National Lab measured the electrical conductivity of clathrates [clathr-rate] on the scafloor to improve geophysical mapping. The scientists focused on studying clathrates containing what hydrocarbon trapped within a crystalline ice structure?",
+    "answer": "METHANE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at SLAC National Accelerator Laboratory used the Linac Coherent Light Source to image conformation changes in electron carrier proteins after being reduced or oxidized in photosynthesis. In noncyclic electron flow, what pair of chlorophyll molecules is responsible for oxidizing plastocyanin and is found in Photosystem I?",
+    "answer": "P700"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name of the valve that regulates the flow of pancreatic and liver fluids into the small intestine?",
+    "answer": "SPHINCTER OF ODDI"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In the proximal convoluted tubule, the reabsorption of glucose and amino acids are coupled with the transport of what ion?",
+    "answer": "SODIUM"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three molecules in increasing oxygen oxygen bond length: 1) Dioxygen; 2) Ozone; 3) Hydrogen peroxide.",
+    "answer": "1,2,3"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "When a metal bipyridine [bi- pure- idine] complex is oxidized from its neutral form to its $2^{+}$ form, a 1.6- volt source is required. To oxidize the $2^{+}$ complex to its $3^{+}$ form, a 2.2- volt source is required. In volts, what voltage is required to oxidize the neutral complex directly to its $3^{+}$ form?",
+    "answer": "1.8"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains the primary way how X ray binaries produce x rays?",
+    "choices": {
+      "W": "Infalling matter decreases gravitational potential energy",
+      "X": "Neutron star spallation creates X rays",
+      "Y": "Fusion in the Proton-proton chain",
+      "Z": "Fusion in the CNO cycle"
+    },
+    "answer": "W) INFALLING MATTER DECREASES GRAVITATIONAL POTENTIAL ENERGY"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are TRUE concerning granules: 1) The darker parts of granules are hotter than the lighter parts; 2) Granules are formed by convection cells in the sun; 3) The center of a granule is hotter than the edges.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The energy states of quasiparticles, neutrinos, and all other particles with half-integer integer spins follow what type of distribution?",
+    "answer": "FERMI-DIRAC"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "The potential energy V and displacement r of a particle in 1D motion can be represented by the two parametric equations $V(t) = t^2 - 4t + 6$ and $r(t) = 2t + 8$. What is the magnitude of the force acting on the particle when t equals 3?",
+    "answer": "1"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Determine the product of the complex numbers $4 + 8i$ and $4 - 8i$.",
+    "answer": "80"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "For what value $b$ are the two vectors $3i + j$ and $bj + 3k$ orthogonal?",
+    "answer": "0"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Ames National Lab are using Dynamic Nuclear Polarization NMR spectroscopy to study radical species by exciting their unpaired electrons and transferring the resulting high spin polarization to atomic nuclei to be observed. The spectroscopic analysis of which of the following species would benefit the most from this technique?",
+    "choices": {
+      "W": "$O_2$",
+      "X": "BF3",
+      "Y": "$O_3$",
+      "Z": "CO"
+    },
+    "answer": "W) $O_2$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Pacific Northwest National Lab created a highly conductive copper-graphene composite material to use in electrical motors. Identify all of the following three terms that correctly describe graphene along the axis of its plane: 1) Ductile; 2) Malleable; 3) Thermally conductive.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best explains why the human genome can be smaller than the genome of simpler animals, such as the water flea?",
+    "choices": {
+      "W": "Exon Shuffling allows humans to generate multiple unique proteins per individual",
+      "X": "Methylation allows one gene to be expressed in multiple different ways",
+      "Y": "Alternative Splicing allows humans to generate a large variety of proteins based on one sequence",
+      "Z": "Transposons allow for rapid modification of protein coding sequences"
+    },
+    "answer": "Y) ALTERNATIVE SPLICING ALLOWS HUMANS TO GENERATE A LARGE VARIETY OF PROTEINS BASED ON ONE SEQUENCE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three situations in which the individual would likely be exhibiting beta waves: 1) A science bowler listening attentively to a question; 2) Someone in the middle of REM sleep; 3) A relaxed person closing their eyes trying to sleep.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three quantities that must increase during a spontaneous reaction at constant temperature and pressure: 1) Entropy of the universe; 2) Entropy of the system; 3) Gibbs free energy of the system.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about the unit cell structure of diamond: 1) Each carbon atom is octahedrally coordinated; 2) The underlying structure is face centered cubic; 3) Diamond has a higher band gap than silicon.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following 3 rocks in order of increasing density: 1) Gabbro; 2) Sandstone; 3) Granite.",
+    "answer": "2,3,1"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 minerals which are correctly paired with their respective silicate structure: 1) Plagioclase feldspar - tectosilicate; 2) Pyroxene - cyclosilicate; 3) Quartz - Sorosilicate.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A barrel has a height H. What is the ratio of the speed of water between a spigot [sph-got] at the bottom and a spigot located at a height of $\\rac{H}{2}$ [H over two]?",
+    "answer": "$\\qrt{2}$"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true of convex mirrors: 1) All images produced are virtual; 2) All images produced are diminished; 3) All images produced are inverted.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Kira is rolling a 12-sided die labeled with the integers from 1 to 12 until she rolls a prime number. What is the expected number of times she will roll the die?",
+    "answer": "2.4"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Compute the indefinite integral of $3x\\qrt{x^2 - 1} dx$",
+    "answer": "$(x^{2} - 1)^{3 / 2} + C$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Brookhaven National Laboratory have been using positron emission tomography, or PET scans, to image to track brain responses to light and electrical stimulation. For PET scans, researchers used Fluorodeoxyglucose, glucose modified with radioactive fluorine-18. What type of radioactive decay do PET scans take advantage of for imaging?",
+    "choices": {
+      "W": "Alpha",
+      "X": "Beta minus",
+      "Y": "Beta plus",
+      "Z": "Gamma"
+    },
+    "answer": "Y) BETA PLUS"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists from SI.AC National Accelerator Lab working in the Linac Coherent Light Source used ultrashort X-ray pulses from a free-electron laser to monitor processes occurring on the femto timescale. Identify all of the following three processes that occur on the femto timescale: 1) Rearrangement of sigma electrons during cleavage of single bond; 2) Emission of an Auger electron during X-ray bombardment; 3) Duration of a calcium-based action potential between neurons.",
+    "answer": "1 AND 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "AQP2 is the major response protein for what renal hormone that plays a primary role in maintaining the water potential of the extracellular fluid by adjusting the permeability of the collecting duct?",
+    "answer": "VASOPRESSIN"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three substances that are able to pass through the glomerulus: 1) Testosterone; 2) Cysteine; 3) Vitamin A.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "The reaction between hydrogen and iodine to produce hydrogen iodide increases in its initial rate by a factor of 8 when the initial concentrations of hydrogen and iodine are each quadrupled. What is the overall order of the rate law for this reaction?",
+    "answer": "3/2"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many $^{13}\\athrm{C}$ (C-Thirteen) signals are observed in the NMR spectrum of 1,2,4,5-tetrapropyl benzene [read name slowly]?",
+    "answer": "5"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Arroyos and washes are classified as what type of stream which can only form when there is significant precipitation in an endorheic basin?",
+    "answer": "EPHEMERAL STREAM"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following statements is false about desert environments?",
+    "choices": {
+      "W": "Star dunes often form in coastal deserts",
+      "X": "Saltation is the movement by bouncing along the ground",
+      "Y": "Desert pavement inhibits erosion",
+      "Z": "Longitudinal dunes are parallel to the wind direction"
+    },
+    "answer": "W) STAR DUNES OFTEN FORM IN COASTAL DESERTS"
+  }
+]

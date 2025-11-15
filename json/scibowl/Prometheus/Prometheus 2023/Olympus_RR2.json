@@ -1,0 +1,482 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "x-risk",
+    "answer_type": "short_answer",
+    "body": "If P and Q are both true, then identify all of the following three truth functions that are also true: 1) P AND Q, 2) P NOR Q, 3) P XOR Q.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "x-risk",
+    "answer_type": "short_answer",
+    "body": "In mathematics, what is the term for a model that will always produce the same output from a given starting condition or initial state?",
+    "answer": "Deterministic"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the sum of the coefficients on each term in the expansion of the trinomial $(x + y + z)^{4}$?",
+    "answer": "81"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following 3 series from $n = 1$ to infinity that converge: 1) $\\rac{1}{\\qrt{n}}$; 2) $\\rac{1}{n}$; 3) $\\rac{1}{n^2}$",
+    "answer": "3"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What type of reaction in aqueous solution cleaves the glycosidic bond between carbohydrate monomers?",
+    "answer": "Hydrolysis"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three types of intermolecular forces that trimethylamine can interact with: 1) Van der Waals; 2) Dipole-dipole; 3) Hydrogen bonding.",
+    "answer": "All"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following features is not formed by deposition?",
+    "choices": {
+      "W": "Moraine",
+      "X": "Esker",
+      "Y": "Drumlin",
+      "Z": "Cirque"
+    },
+    "answer": "Z) Cirque"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following four minerals that are oxides: 1) Pyrite; 2) Sphalerite; 3) Cuprite; 4) Rutile.",
+    "answer": "3 and 4"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following plant hormones has a synergistic effect with auxins?",
+    "choices": {
+      "W": "ABA",
+      "X": "Methylsalicylic acid",
+      "Y": "Jasmonates",
+      "Z": "Gibberellins"
+    },
+    "answer": "Z) Gibberellins"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Derek is studying amino acids and does phenolchloroform extraction on a solution of amino acids, which separates them by polarity. Identify all of the following three amino acids that would be found in higher concentration in the phenol portion than the chloroform portion: 1) Arginine; 2) Serine; 3) Glutamine",
+    "answer": "None"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT a direct result of the law of conservation of energy?",
+    "choices": {
+      "W": "Bernoulli equation",
+      "X": "Kirchhoff's voltage law",
+      "Y": "First law of thermodynamics",
+      "Z": "Snell's law"
+    },
+    "answer": "Z) Snell's law"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Order the following three materials from top to bottom in a thin film such that incident light approaching from the top will constructively interfere with itself: 1) Air; 2) Glass; 3) Water.",
+    "answer": "1, 3, 2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "x-risk",
+    "answer_type": "multiple_choice",
+    "body": "The United Nations defines replacement fertility as how many children per woman of childbearing age?",
+    "choices": {
+      "W": "1.8",
+      "X": "2.1",
+      "Y": "2.9",
+      "Z": "3.5"
+    },
+    "answer": "X) 2.1"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "x-risk",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following biological communities form the base of many marine and freshwater food webs and are key players in the global carbon cycle?",
+    "choices": {
+      "W": "Copepods",
+      "X": "Diatoms",
+      "Y": "Phytoplankton",
+      "Z": "Zooplankton"
+    },
+    "answer": "Y) Phytoplankton"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the value of $4^{\\og_2(18)}$?",
+    "answer": "324"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Convert 1200 revolutions per minute to radians per second.",
+    "answer": "40\\i"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "A reaction has an equilibrium constant K. If the coefficients of the reaction are halved, what is the new value of the equilibrium constant in terms of K?",
+    "answer": "$\\qrt{K}$"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three anions that have a planar geometry: 1) Nitrate; 2) Triiodide; 3) Perchlorate.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Supernovae serve as important phenomena for young galaxies because of which of the following phenomena?",
+    "choices": {
+      "W": "Enrichment of stellar gas for new star formation",
+      "X": "Propelling of neutrinos outside the galactic plane",
+      "Y": "ionization of regions of gas by released x-rays",
+      "Z": "Proton capture processes creating heavier elements"
+    },
+    "answer": "W) Enrichment of stellar gas for new star formation"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What term describes the maximum sustainable luminosity a star can achieve?",
+    "answer": "Eddington limit"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "David finds a marine animal containing two germ layers. Which phylum does it likely belong to?",
+    "answer": "Cnidaria (ACCEPT: Ctenophora)"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three characteristics that are exhibited by all chordates: 1) Vertebrae; 2) Nerve cord; 3) Mineralized skeleton.",
+    "answer": "2 only"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Ne digs a tunnel through the Earth's center and jumps into it from one end. Which of the following best describes his position versus time graph, assuming no air resistance?",
+    "choices": {
+      "W": "Linear",
+      "X": "Quadratic",
+      "Y": "Logarithmic",
+      "Z": "Sinusoidal"
+    },
+    "answer": "Z) Sinusoidal"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "An engine operates between a hot reservoir of temperature of 400 kelvin and a cold reservoir temperature 150 kelvin. If 100 joules of heat energy are inputted, then in joules, what is the maximum work that the engine can do?",
+    "choices": {
+      "W": "37.5",
+      "X": "60",
+      "Y": "62.5",
+      "Z": "100"
+    },
+    "answer": "Y) 62.5"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "x-risk",
+    "answer_type": "short_answer",
+    "body": "Order the following three sources of freshwater from least to greatest quantity of water: 1) Glaciers and ice caps; 2) Groundwater; 3) Surface water.",
+    "answer": "3, 2, 1"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "x-risk",
+    "answer_type": "multiple_choice",
+    "body": "Which property of beryllium makes it useful in the construction of nuclear weapons?",
+    "choices": {
+      "W": "It is transparent to X-rays",
+      "X": "It is an excellent absorber of radiation",
+      "Y": "It is an excellent neutron reflector",
+      "Z": "It decays relatively quickly"
+    },
+    "answer": "Y) It is an excellent neutron reflector"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the derivative with respect to $x$ of $\\in^2 (x) + \\os^2 (x)$?",
+    "answer": "0"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the radius of a sphere given that its volume equals its surface area?",
+    "answer": "3"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the name given to the non-zero entropy observed in an ensemble of particles cooled to absolute zero?",
+    "answer": "Residual entropy"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three organic acids in terms of increasing pKa: 1) Acetic acid; 2) Fluoroacetic acid; 3) Chloroacetic acid.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three front types that involve at least one cold air mass: 1) Occluded; 2) Stationary; 3) Warm.",
+    "answer": "All"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "At which of the following levels does an air parcel begin to cool at the wet adiabatic lapse rate?",
+    "choices": {
+      "W": "Tropopause",
+      "X": "Stratopause",
+      "Y": "Cloud base",
+      "Z": "Temperature inversion"
+    },
+    "answer": "Y) Cloud base"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "A southern blot is used to detect which of the following molecules?",
+    "choices": {
+      "W": "Glycoproteins",
+      "X": "DNA",
+      "Y": "RNA",
+      "Z": "Amino acid"
+    },
+    "answer": "X) DNA"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three hormones that act to increase blood glucose level: 1) Insulin; 2) Glucagon; 3) Cortisol.",
+    "answer": "2 and 3"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Compute the energy, in millijoules, stored in an inductor of inductance 5 millihenries with a current of 6 amperes flowing through it.",
+    "answer": "90"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An 80 kilogram car moving at a constant speed of 16 meters per second strikes another stationary car. The two cars collide inelastically and move at a speed of 5 meters per second. What is the mass of the other car in kilograms?",
+    "answer": "176"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "x-risk",
+    "answer_type": "multiple_choice",
+    "body": "For many vaccines, there exist booster shots that are intended to increase immunity after certain periods of time as the vaccine dose becomes less effective with time. Which of the following is likely the cause of this waning immunity?",
+    "choices": {
+      "W": "Antibodies created in the initial dose decrease in the blood",
+      "X": "Unactivated helper T cells decrease in the blood",
+      "Y": "Increase in cortisol concentration in the blood decreases immune function",
+      "Z": "Memory B and T cells undergo apoptosis and decrease in the blood"
+    },
+    "answer": "Z) Memory B and T cells undergo apoptosis and decrease in the blood"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "x-risk",
+    "answer_type": "short_answer",
+    "body": "While AI safety focuses on technical means of ensuring that AI will not present existential risks, AI ethics focuses on problems more similar to moral philosophy, including the behavior of self-driving cars in what classic philosophical problem in which saving the lives of many people would more directly kill a smaller number of people?",
+    "answer": "Trolley problem"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following powers of 10 is closest to $\\eft(\\rac{1}{2}\\ight)^{25}$?",
+    "choices": {
+      "W": "-4",
+      "X": "-6",
+      "Y": "-8",
+      "Z": "-10"
+    },
+    "answer": "Y) -8"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the hexadecimal representation of the 12 digit binary number: [read digit by digit] 110101101001?",
+    "answer": "D69"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following nitrides has the greatest lattice energy?",
+    "choices": {
+      "W": "Lithium nitride",
+      "X": "Magnesium nitride",
+      "Y": "Calcium nitride",
+      "Z": "Strontium nitride"
+    },
+    "answer": "X) Magnesium nitride"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three salts whose solubility increases with decreasing pH: 1) Chromium (III) hydroxide; 2) Calcium carbonate; 3) Iron (III) chloride.",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three phenomena that can significantly alter the spin of a spiral-barred galaxy: 1) Galactic merger; 2) Central supermassive black hole; 3) Non-uniform halo.",
+    "answer": "1 only"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three fusion processes by increasing energy output dependence on temperature: 1) CNO cycle; 2) Proton-proton chain; 3) Alpha process.",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Temperate phages are able to use the lytic cycle and what other viral reproductive cycle?",
+    "answer": "Lysogenic"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following compounds allosterically activates phosphofructokinase?",
+    "choices": {
+      "W": "Adenosine triphosphate",
+      "X": "Adenosine monophosphate",
+      "Y": "Guanosine diphosphate",
+      "Z": "NADH"
+    },
+    "answer": "X) Adenosine monophosphate"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A light beam in air with frequency $6.0 \\times 10^{14} \\athrm{Hz}$ goes into glass, which has an index of refraction of 1.5. In scientific notation to two significant figures and in hertz, what is the frequency of the light in the glass?",
+    "answer": "$6.0 \\times 10^{14}$"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "A 1.5 centimeter high diamond ring is placed 20 centimeters from a concave mirror with radius of curvature of 30 centimeters. In centimeters, how far in front of the mirror is its image?",
+    "choices": {
+      "W": "30",
+      "X": "60",
+      "Y": "90",
+      "Z": "120"
+    },
+    "answer": "X) 60"
+  }
+]

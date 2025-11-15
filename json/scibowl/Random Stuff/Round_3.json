@@ -1,0 +1,454 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following functional groups has the carbon atom in an $sp^3$ hybridized state?",
+    "choices": {
+      "W": "Alcohol",
+      "X": "Ketone",
+      "Y": "Aldehyde",
+      "Z": "Amide"
+    },
+    "answer": "W) Alcohol"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Cracking of hydrocarbons results in the formation of what functional group?",
+    "answer": "Alkene"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the second derivative of $5x^2$ at $x = 5$?",
+    "answer": "10"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Find the sum of the arithmetic series with first term 5, last term 37, and common difference 4.",
+    "answer": "189"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A 1 kilogram block slides frictionlessly down a hill with height 5 meters, what is its final velocity in meters per second, rounded to the nearest integer, when it reaches the bottom?",
+    "answer": "10"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Name all of the following that are true of the torque vector. 1) It is equivalent to the cross product of force and radius 2) It points in the same direction as angular acceleration 3) It is the dot product of moment of inertia and angular acceleration",
+    "answer": "1 and 2"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What secondary messenger has an inverse relation to the concentration of glucose within a cell?",
+    "answer": "cyclic AMP"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What water-soluble vitamin helps in the process of collagen synthesis?",
+    "answer": "Vitamin C"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What type of front occurs when a cold front overtakes a warm front?",
+    "answer": "Occluded Front"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the depth within an ocean in which the temperature begins to change greatly?",
+    "answer": "Thermocline"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many edges are there on a hexagonal prism?",
+    "answer": "18"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the volume of a cone with a slant height of 13, and a diameter of 10?",
+    "answer": "$100\\i$"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the bond order of the diatomic ion $N_{2}^{2 + }$",
+    "answer": "2"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following solvents would be most effective in dissolving benzene?",
+    "choices": {
+      "W": "Water",
+      "X": "Propanoic Acid",
+      "Y": "Cyclohexane",
+      "Z": "Ethanol"
+    },
+    "answer": "Y) Cyclohexane"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Decreasing a star's magnitude by 1 would be closest to multiplying its brightness by which of the following numbers?",
+    "choices": {
+      "W": "2.5",
+      "X": "10",
+      "Y": "25",
+      "Z": "100"
+    },
+    "answer": "W) 2.5"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following star colors has the shortest lifetime?",
+    "choices": {
+      "W": "White",
+      "X": "Blue",
+      "Y": "Red",
+      "Z": "Yellow"
+    },
+    "answer": "X) Blue"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following nucleotide base pairs is a purine?",
+    "choices": {
+      "W": "Cytosine",
+      "X": "Adenine",
+      "Y": "Uracil",
+      "Z": "Thymine"
+    },
+    "answer": "X) Adenine"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "The presence of what two base pairs of DNA provides the most stability within DNA's structure?",
+    "answer": "Cytosine and Guanine"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the impulse required to change a 7 kilogram object's velocity from 4 meters per second to 10 meters per second?",
+    "answer": "42"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the constant pressure heat capacity of a monatomic ideal gas, in terms of the ideal gas constant?",
+    "answer": "$\\rac{5}{2}R$"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following periods of geological time is the oldest?",
+    "choices": {
+      "W": "Ordivician",
+      "X": "Permian",
+      "Y": "Jurassic",
+      "Z": "Devonian"
+    },
+    "answer": "W) Ordivician"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following rocks is not coarse-grained?",
+    "choices": {
+      "W": "Granite",
+      "X": "Diorite",
+      "Y": "Dacite",
+      "Z": "Basalt"
+    },
+    "answer": "Z) Basalt"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following gases has the greatest root mean square speed at 200 Kelvin?",
+    "choices": {
+      "W": "Oxygen",
+      "X": "Helium",
+      "Y": "Neon",
+      "Z": "Fluorine"
+    },
+    "answer": "X) Helium"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "How many hydrogens are there in 4-ethyl octane?",
+    "answer": "22"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the name for the channel protein that primarily facilitates the diffusion of water?",
+    "answer": "Aquaporin"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for the type of speciation that occurs when two species become geographically isolated from one another?",
+    "answer": "Allopatric Speciation"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "The muon and 3 neutrinos are part of the 6 leptons in the standard model. What are the other two?",
+    "choices": {
+      "W": "Electron and Proton",
+      "X": "Neutron and Proton",
+      "Y": "Electron and Tauon",
+      "Z": "Electron and Photon"
+    },
+    "answer": "Y) Electron and Tauon"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What is the normal force exerted on a block with a mass of 6 kilograms on a slope with an angle of 60 degrees to the horizontal?",
+    "answer": "30"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the base 10 numeral 54 in base 7?",
+    "answer": "105"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the unit vector that points in the same direction as the vector $< 2 , 7, -9>$?",
+    "answer": "$< \\rac{\\qrt{134}}{67}, \\rac{7\\qrt{134}}{134}, -\\rac{9\\qrt{134}}{134} >$"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "In which organelle does oxidative phosphorylation occur?",
+    "answer": "Mitochondrion"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "What contribution do two cysteine amino acids provide in the tertiary structure of a protein?",
+    "choices": {
+      "W": "Disulfide bridges",
+      "X": "Ionic Bonding",
+      "Y": "Hydrophobic interactions",
+      "Z": "Hydrophilic interactions"
+    },
+    "answer": "W) Disulfide bridges"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the expected value of the sum of two dice that are rolled?",
+    "answer": "7"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "How many edges exist on a dodecahedron?",
+    "answer": "30"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Rounded to the nearest tenth, what is the maximum height of a ball that is thrown upwards at 9.8 meters per second?",
+    "answer": "4.9"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following factors does not play a role in the period of a physical pendulum?",
+    "choices": {
+      "W": "Moment of Inertia",
+      "X": "Length",
+      "Y": "Rigidity",
+      "Z": "Mass"
+    },
+    "answer": "Y) Rigidity"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Rank the following 3 ions in terms of increasing atomic radius. 1) Sodium cation 2) Magnesium cation 3) Fluorine Anion",
+    "answer": "2, 1, 3"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following carboxylic acid derivatives is the most stable?",
+    "choices": {
+      "W": "Acid anhydride",
+      "X": "Acid Chloride",
+      "Y": "Ester",
+      "Z": "Amide"
+    },
+    "answer": "Z) Amide"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What planet has the highest eccentricity?",
+    "answer": "Mercury"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "In a telescope, you see what appears to be a cloud of gas that is illuminated blue. What type of nebula are you most likely seeing?",
+    "choices": {
+      "W": "Emission nebula",
+      "X": "Reflection nebula",
+      "Y": "Dark nebula",
+      "Z": "Balmer Nebula"
+    },
+    "answer": "X) Reflection Nebula"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following types of matrices cannot be multiplied together?",
+    "choices": {
+      "W": "A 2 by 3 and a 3 by 4",
+      "X": "A 6 by 4 and a 6 by 4",
+      "Y": "A 4 by 2 and a 2 by 4",
+      "Z": "A 3 by 3 and a 3 by 3"
+    },
+    "answer": "X) A 6 by 4 and a 6 by 4"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the product of the two complex numbers $3 + 4i$ and $6 + 7i$?",
+    "answer": "$-10 + 45i$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What is the oxidation state of the oxygen atom in methanol?",
+    "answer": "-2"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Name all of the following types of reactions that would obey Zaitsev's rule. 1) SN1 2) SN2 3) E1 4) E2",
+    "answer": "3 and 4"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the dark, vesicular rock that commonly makes up cinder cones?",
+    "answer": "Scoria"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "What is the name for the process in which the ground begins to behave in a fluid like manner, often as a result of earthquakes?",
+    "answer": "Liquefaction"
+  }
+]

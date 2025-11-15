@@ -1,0 +1,480 @@
+[
+  {
+    "question_number": 1,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following phenomena would occur when blood calcium levels are high?",
+    "choices": {
+      "W": "PTH release is increased",
+      "X": "Calcitonin release is decreased",
+      "Y": "Osteoblasts are inhibited",
+      "Z": "Osteoclasts are inhibited"
+    },
+    "answer": "Z) OSTECLASTS ARE INHIBITED"
+  },
+  {
+    "question_number": 1,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the glycocalyx of the human ovum called, through which the sperm must pass through to begin the acrosomal process?",
+    "answer": "ZONA PELLUCIDA"
+  },
+  {
+    "question_number": 2,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A right circular cone has base radius 3 and height 4. If the height is doubled, by what factor is the lateral surface area of the cone multiplied?",
+    "answer": "$\\rac{\\qrt{73}}{5}$"
+  },
+  {
+    "question_number": 2,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Arnold the Ant wishes to walk from (0, 0) to (4, 4) on the Cartesian plane by only walking up or right between lattice points. However, Arnold refuses to step on the points (1, 1), (2, 2), or (3, 3) since he believes they bring bad luck. How many ways are there for Arnold to complete his journey given these restrictions?",
+    "answer": "10"
+  },
+  {
+    "question_number": 3,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "By name or number, indicate all of the following four quarks that have a charge of $+2 / 3$ : 1) Up Quark; 2) Strange Antiquark; 3) Charm Antiquark; 4) Top Quark.",
+    "answer": "1 AND 4"
+  },
+  {
+    "question_number": 3,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true concerning semiconductor diodes: 1) Their I-V curves are symmetric; 2) They can convert alternating current to direct current; 3) The voltage drop across a forward biased diode is a function of temperature.",
+    "answer": "2 AND 3"
+  },
+  {
+    "question_number": 4,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Laramide Orogeny gave rise to what mountain range?",
+    "answer": "ROCKY MOUNTAINS"
+  },
+  {
+    "question_number": 4,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Give, by name or number, all of the following 3 statements which are true concerning the weathering of aluminosilicates: 1) Sodium and potassium are preferentially leached under acidic conditions; 2) Iron and magnesium are preferentially leached under basic conditions; 3) Weathering of feldspars preferentially creates kaolinite.",
+    "answer": "1 AND 3"
+  },
+  {
+    "question_number": 5,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Oak Ridge National Laboratory showed that using a thin-film cathode with a solid electrolyte for lithium ion batteries helps determine the source of charge loss. Which of the following describes the role of separators in lithium polymer batteries?",
+    "choices": {
+      "W": "Prevent irreversible intercalation of electrodes",
+      "X": "Prevent reaction of lithium with the electrolyte",
+      "Y": "Increase bubble overpotential on the electrodes",
+      "Z": "Increase binding selectivity of lithium on the electrodes"
+    },
+    "answer": "W) PREVENT IRREVERSIBLE INTERCALATION OF ELECTRODES"
+  },
+  {
+    "question_number": 5,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Laboratory are currently studying a universal vaccine for the influenza. Currently, influenza vaccines target what constantly changing viral surface protein that acts as a lectin, allowing the virus to bind to the surface of human cells?",
+    "answer": "HEMAGGLUTININ"
+  },
+  {
+    "question_number": 6,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following best describes the role of tetrahydrofuran in the hydroboration oxidation of an alkene by borane?",
+    "choices": {
+      "W": "It acts as a polar aprotic solvent to destabilize the nucleophile",
+      "X": "It acts as a nucleophilic catalyst to increase the reactivity of the alkene",
+      "Y": "It acts as an electrophile to increase the reactivity of borane",
+      "Z": "It acts as a coordinating agent to stabilize borane against dimerization"
+    },
+    "answer": "Z) IT ACTS AS A COORDINATING AGENT TO STABILIZE BORANE AGAINST DIMERIZATION"
+  },
+  {
+    "question_number": 6,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about phosphorescence: 1) It generally lasts longer than fluorescence; 2) It involves a relaxation from a triplet state to a singlet state; 3) It involves a forbidden electronic transition.",
+    "answer": "ALL"
+  },
+  {
+    "question_number": 7,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What amino acid based antioxidant abundant in the liver is responsible for the destruction of radical oxygen species and partially for the reducing environment of the cytoplasm?",
+    "answer": "GLUTATHIONE"
+  },
+  {
+    "question_number": 7,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "Under what taxonomic order do lobsters and crabs reside in?",
+    "answer": "DECAPODA"
+  },
+  {
+    "question_number": 8,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "In a geometric sequence, the ratio between subsequent terms is $\\rac{2}{3}$ . Given the sum of the first two terms is 12, what is the sum of the third and fourth terms?",
+    "answer": "16/3"
+  },
+  {
+    "question_number": 8,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "Arnold the Ant is sitting on the midpoint of an edge of a tetrahedron with side length 1. What is the shortest distance it must travel in order to arrive at the midpoint of the opposite edge, if it can only walk on the surface of the tetrahedron?",
+    "answer": "1"
+  },
+  {
+    "question_number": 9,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "An RC circuit is discharged, taking 60 seconds for the charge across the capacitor to decay to $37\\$ of its initial value. If the resistor is known to be 5 ohms, what must the capacitor's capacitance be?",
+    "answer": "12"
+  },
+  {
+    "question_number": 9,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "Twelve point masses with masses 1 through 12 kilograms are placed at their corresponding x coordinates on a line, such that the 1 kilogram mass is at $x = 1$ , the two kilogram mass is at $x = 2$ , and so on. What is the x coordinate of the center of mass of the system?",
+    "answer": "25/3"
+  },
+  {
+    "question_number": 10,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Filtergrams are required to view what layer of the Sun's atmosphere?",
+    "answer": "CHROMOSPHERE"
+  },
+  {
+    "question_number": 10,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following does explain why the envelope of a horizontal branch star contracts while its core expands?",
+    "choices": {
+      "W": "Core expansion increases the opacity of the envelope",
+      "X": "Core expansion decreases the density of the hydrogen burning shell",
+      "Y": "Core expansion robs energy from the rest of the star for the core",
+      "Z": "Core expansion by the triple alpha process is an endothermic process"
+    },
+    "answer": "X) CORE EXPANSION DECREASES THE DENSITY OF THE HYDROGEN BURNING SHELL"
+  },
+  {
+    "question_number": 11,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at the Pacific Northwest National Laboratory are studying the effects of global warming on forest ecosystems. Which of the following was NOT one of the findings the scientists observed in their research?",
+    "choices": {
+      "W": "The ratio of younger trees to older trees is increasing",
+      "X": "The rate of speciation is increasing",
+      "Y": "Forests must adapt to a lower moisture climates",
+      "Z": "Forests are trapping more carbon as carbon dioxide levels rise"
+    },
+    "answer": "Z) FORESTS ARE TRAPPING MORE CARBON AS CARBON DIOXIDE LEVELS RISE"
+  },
+  {
+    "question_number": 11,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Oak Ridge National Laboratory used X-ray crystallography to determine the structure of the SARS-CoV-2 main proteases. One of its proteases is the papain-like protease. Which of the following amino acids would most likely be at the catalytic site?",
+    "choices": {
+      "W": "Cysteine",
+      "X": "Tyrosine",
+      "Y": "Tryptophan",
+      "Z": "Leucine"
+    },
+    "answer": "W) CYSTEINE"
+  },
+  {
+    "question_number": 12,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "multiple_choice",
+    "body": "An acidic solution of which the following oxidation states of vanadium would absorb the highest energy visible light?",
+    "choices": {
+      "W": "+2",
+      "X": "+3",
+      "Y": "+4",
+      "Z": "+5"
+    },
+    "answer": "Z) +5"
+  },
+  {
+    "question_number": 12,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "What model can be used to approximate the intermolecular potential energy of a system of two particles based on their distance of separation by combining both Pauli repulsion and van der Waals attractive forces?",
+    "answer": "LENNARD-JONES POTENTIAL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "What is the term for the specialized lymph vessel found in each villus of the small intestine that serves to carry chylomicrons from the digestive tract into the blood?",
+    "answer": "LACTEAL"
+  },
+  {
+    "question_number": 13,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "By name or number, rank the following three groups from most to least evolutionarily related to cercozoans: 1) Ciliates; 2) Parabasalids; 3) Radiolarians.",
+    "answer": "3, 1, 2 (ACCEPT: RADIOLARIANS, CILIATES, PARABASALIDS)"
+  },
+  {
+    "question_number": 14,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "If the operation $*$ (star) is defined such that $(a * b) = ab + a + b + 1$ , then find $(2 * 3) * 4$ [open parenthesis two star three close parenthesis star 4].",
+    "answer": "65"
+  },
+  {
+    "question_number": 14,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A group of scientists are studying the amount of water in a pond. They find that over the first 10 months, the amount of water increased by $k\\$ every month, while over the next 5 months, the amount of water decreased by $k\\$ every month. At the end of these 15 months, the amount of water in the pond was the same as when it started. Given $k > 0$, determine the value of $k$.",
+    "answer": "$50\\qrt{5} - 50$"
+  },
+  {
+    "question_number": 15,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "What phenomenon, the rotational analog of uniform circular motion, occurs when a torque is applied to a rotating object perpendicular to the direction of its angular momentum?",
+    "answer": "PRECESSION"
+  },
+  {
+    "question_number": 15,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is closest to the kinetic energy of an ideal helium atom at 300 Kelvin in milli-electron volts?",
+    "choices": {
+      "W": "2.5",
+      "X": "25",
+      "Y": "250",
+      "Z": "2500"
+    },
+    "answer": "X) 25"
+  },
+  {
+    "question_number": 16,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "The Encke gap is caused by which moon of Saturn?",
+    "answer": "PAN"
+  },
+  {
+    "question_number": 16,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about loess: 1) They are aeolian deposits; 2) They exhibit low cation exchange capacity; 3) They are fluvial deposits.",
+    "answer": "1 ONLY"
+  },
+  {
+    "question_number": 17,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at Argonne National Laboratory researched the transition state for the photolysis of acrylonitrile to produce either hydrogen cyanide or hydrogen isocyanide. What postulate in physical organic chemistry helped the scientists determine the energy change of the reaction based on the similarity of the transition state to the products of reactants?",
+    "answer": "HAMMOND'S POSTULATE"
+  },
+  {
+    "question_number": 17,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "short_answer",
+    "body": "Scientists at the Joint Genome Institute are studying the effects of the timing of homeotic genes on developmental history. What is the term for the change in evolutionary rate or timing of developmental events that allowed whales to lose their hind limbs by reducing the time leg and pelvis bones could grow?",
+    "answer": "HETEROCHRONY"
+  },
+  {
+    "question_number": 18,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Order the following three bonds in increasing IR wavenumber: 1) N-H single bond; 2) C-O double bond; 3) C-N triple bond.",
+    "answer": "2, 3, 1"
+  },
+  {
+    "question_number": 18,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about the mixture formed between chloroform and acetone: 1) The enthalpy of mixing is positive; 2) The mixture boils below the boiling point of chloroform or acetone; 3) The vapor pressure of the mixture is lower than the vapor pressure of chloroform or acetone",
+    "answer": "3 ONLY"
+  },
+  {
+    "question_number": 19,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following are adaptations for preventing the spread of plant viruses?",
+    "choices": {
+      "W": "Doubly compound leaves",
+      "X": "Rhizomes",
+      "Y": "Tubers",
+      "Z": "Bracts"
+    },
+    "answer": "W) DOUBLY COMPOUND LEAVES"
+  },
+  {
+    "question_number": 19,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "multiple_choice",
+    "body": "Which of the following is NOT true about the pentose phosphate pathway?",
+    "choices": {
+      "W": "Rapidly dividing cells use the pathway to generate the sugars for DNA and RNA",
+      "X": "Hepatocytes utilize the NADPH for fatty acid synthesis",
+      "Y": "The pathway occurs within the mitochondria",
+      "Z": "Transketolase requires thiamine pyrophosphate"
+    },
+    "answer": "Y) THE PATHWAY OCCURS WITHIN THE MITOCHONDRIA"
+  },
+  {
+    "question_number": 20,
+    "question_type": "tossup",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "A positive integer is cute if it is divisible by the sum of its digits. What is the sum of the smallest and largest two digit cute integers?",
+    "answer": "100"
+  },
+  {
+    "question_number": 20,
+    "question_type": "bonus",
+    "category": "math",
+    "answer_type": "short_answer",
+    "body": "What is the slope of the line tangent to the implicit curve $e^{x} = 1 + \\tan (y)$ at $x = 0$ ?",
+    "answer": "1"
+  },
+  {
+    "question_number": 21,
+    "question_type": "tossup",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A spaceship is measured to have a length of 55 meters at rest. When the spaceship is accelerated to a constant velocity, it is measured to have a length of 44 meters in its initial rest frame. What is the constant velocity of the spaceship in terms of the speed of light $c$ ?",
+    "answer": "0.6c"
+  },
+  {
+    "question_number": 21,
+    "question_type": "bonus",
+    "category": "physics",
+    "answer_type": "short_answer",
+    "body": "A proton and an alpha particle are both accelerated through a potential difference into the magnetic field of a mass spectrometer. What is the ratio of their radii of curvature?",
+    "answer": "$1: \\qrt{2}$"
+  },
+  {
+    "question_number": 22,
+    "question_type": "tossup",
+    "category": "earth_and_space",
+    "answer_type": "multiple_choice",
+    "body": "Identify which of the following telescopes is not matched correctly with its EM range?",
+    "choices": {
+      "W": "Fermi, gamma-ray",
+      "X": "Chandra, X-ray",
+      "Y": "Spitzer, infrared",
+      "Z": "Herschel, microwave"
+    },
+    "answer": "Z) HERSCHEL, MICROWAVE"
+  },
+  {
+    "question_number": 22,
+    "question_type": "bonus",
+    "category": "earth_and_space",
+    "answer_type": "short_answer",
+    "body": "Order the following three types of snow in order of decreasing air content: 1) Neve; 2) Firn; 3) Fresh snow.",
+    "answer": "3, 1, 2"
+  },
+  {
+    "question_number": 23,
+    "question_type": "tossup",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Idaho National Laboratory converted thin carbon films to form crystalline diamond structures by heating. Which of the following is not true about the crystal structure of diamond?",
+    "choices": {
+      "W": "It has four planes of cleavage",
+      "X": "It has a higher band gap than silicon",
+      "Y": "Carbon atoms in the interior of the unit cell are octahedrally coordinated",
+      "Z": "Carbon atoms in the exterior of the unit cell adopt a face centered cubic habit"
+    },
+    "answer": "Y) CARBON ATOMS IN THE INTERIOR OF THE UNIT CELL ARE OCTAHEDRALLY COORDINATED"
+  },
+  {
+    "question_number": 23,
+    "question_type": "bonus",
+    "category": "energy",
+    "answer_type": "multiple_choice",
+    "body": "Scientists at Sandia National Laboratory are studying special types of subsurface flows. Specifically they are studying non-Darcian flows in a porous medium. Which of the following best characterizes non-Darcian flows?",
+    "choices": {
+      "W": "Low Reynolds number, laminar flow",
+      "X": "Low Reynolds number, turbulent flow",
+      "Y": "High Reynolds number, laminar flow",
+      "Z": "High Reynolds number, turbulent flow"
+    },
+    "answer": "Z) HIGH REYNOLDS NUMBER, TURBULENT FLOW"
+  },
+  {
+    "question_number": 24,
+    "question_type": "tossup",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "In an electrospray mass spectrometry experiment, a dibrominated hydrocarbon produces three peaks with mass to charge ratios of 172, 174, and 176. What is the ratio of the intensities of these three peaks?",
+    "answer": "1:2:1"
+  },
+  {
+    "question_number": 24,
+    "question_type": "bonus",
+    "category": "chemistry",
+    "answer_type": "short_answer",
+    "body": "Identify all of the following three statements that are true about the radical bromination of alkenes: 1) It occurs preferentially at vinylic and phenyl carbons; 2) N-bromosuccinimide is used as a source of bromine to prevent competing addition reactions; 3) An advantage of radical bromination is that it is stereospecific.",
+    "answer": "2 ONLY"
+  },
+  {
+    "question_number": 25,
+    "question_type": "tossup",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "During de-etiolation, what two secondary messengers transduce a signal to transcription factors in the nucleus to slow stem elongation, expand leaves, and produce chlorophyll?",
+    "answer": "CALCIUM IONS AND cGMP"
+  },
+  {
+    "question_number": 25,
+    "question_type": "bonus",
+    "category": "biology",
+    "answer_type": "short_answer",
+    "body": "People suffering from malignant hyperthermia have a defect in what group of receptors in muscle cells that allow calcium ions to leave the sarcoplasmic reticulum following an action potential arriving at the DHP receptor?",
+    "answer": "RYANODINE RECEPTORS"
+  }
+]
